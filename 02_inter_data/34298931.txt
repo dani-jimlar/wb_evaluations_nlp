@@ -1,0 +1,922 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     TAGHIR (P166978)
+
+
+
+                                                                                Report Number: ICRR0023493
+
+1. Project Data
+
+
+
+ Project ID                               Project Name
+ P166978                                  TAGHIR
+
+ Country                                  Practice Area(Lead)
+ Afghanistan                              Governance
+
+
+ L/C/TF Number(s)                         Closing Date (Original)                Total Project Cost (USD)
+ IDA-D4130,TF-A9123                       31-Dec-2021                                          29,702,033.06
+
+ Bank Approval Date                       Closing Date (Actual)
+ 19-Dec-2018                              31-Dec-2022
+
+                                          IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                          25,000,000.00                                    50,000,000.00
+
+ Revised Commitment                           38,502,429.13                                    20,102,668.14
+
+ Actual                                       29,702,033.06                                    19,900,362.14
+
+
+
+
+ Prepared by               Reviewed by                  ICR Review Coordinator          Group
+ Paul J. Kaiser            Konstantin Atanesyan         Jennifer L. Keller              IEGEC (Unit 1)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to the Financing Agreement dated December 23, 2018 (page 5), the project development objective
+   (PDO) of the Tackling Afghanistan’s Government Human Resource Management (HRM) and Institutional
+   Reforms Project (TAGHIR) was: “To strengthen the capacity of selected line ministries and agencies through
+   merit-based recruitment of key positions, improved performance management, and better human resource
+   planning.” The wording in the project appraisal document (PAD) differed slightly from the Financing
+   Agreement: “To strengthen the capacity of selected line ministries and agencies through merit-based
+   recruitment of key positions, improved personnel management, and better human resource (HR) planning”.
+
+                                                                                                 Page 1 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     TAGHIR (P166978)
+
+
+
+   This ICRR will be based on the Financing Agreement referenced above, along with the version of the PDO
+   used in the PAD and the ICR.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  No
+
+c. Will a split evaluation be undertaken?
+   Yes
+
+d. Components
+   The project comprised three components (Financing Agreement, page 5) (US$75 million estimate at
+   appraisal).
+
+   Component 1: Human Resource Capacity Injection (US$54 million estimate at appraisal) aimed to build the
+   capacity of selected line ministries and independent agencies to deliver their key policy priorities to support
+   up to one thousand five hundred (1,500) new appointees and/or Capacity Building for Results Project (CBR;
+   predecessor World Bank operation) Appointees whose base salaries were financed by the Recipient in
+   accordance with the Pay and Grade Salary Scale; and whose positions were: (i) identified in the Strategic
+   Staffing Plans to be developed by the respective Priority Line Ministries and Independent Agencies (LMAs);
+   or (ii) reserved and allocated for Non-Priority LMAs, in accordance with the Operations Manual, to meet
+   emerging government priorities.
+
+   Component 2: Personnel and Payroll Management (US$15 million estimate at appraisal) aimed to support
+   the development, roll-out, and maintenance of the Human Resource Management Information System
+   (HRMIS), integrated with biometric civil servant enrollment, payroll, the Afghanistan Financial Management
+   Information System (AFMIS), and electronic payment systems.
+
+   Component 3: Support to Administrative Reforms (US$6 million estimate at appraisal) aimed to provide: (i)
+   technical assistance to the Independent Administrative Reform and Civil Service Commission (IARCSC) in
+   the implementation of key administrative reforms; and (ii) operational support to IARCSC in carrying out the
+   project, including the services of an independent third-party verification agency.
+
+   According to the ICR, the project’s PDO and three components did not change from effectiveness to
+   closure. The July 9, 2020 restructuring reallocated components downward, provided financing for the
+   Government of the Islamic Republic of Afghanistan’s (GoIRA) COVID-19 response, and included a no-cost
+   one-year project extension.
+
+                        Financing Agreement            Restructuring
+Components
+                        (December 23, 2018)            (July 12, 2021 Amendment to Financing Agreement)
+                        Original Amount                Revised Amount
+Component 1             US$54 million                  US$46 million
+Component 2             US$15 million                  US$4.7 million
+
+                                                                                                     Page 2 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     TAGHIR (P166978)
+
+
+
+Component 3             US$6.0 million                 US$4.3 million
+Total                   US$75 million                  US$55 million
+
+   According to the ICR, “the restructuring of the project, in order to reallocate financing to the GoIRA’s
+   COVID-19 response, did not significantly impact project outcomes, as the adjustments to allocated amounts
+   reflected lower than expected disbursement and did not impede project spending or activities” (p. 12).
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost: The estimated original project cost, including contingencies, was US$75 million.
+
+   Financing: IDA financed SDR 18.1 million (US$25 million equivalent) and the Afghanistan Reconstruction
+   Trust Fund financed US$50 million for the original project. The financing instrument was Investment Project
+   Financing.
+
+   Borrower Contribution: The Government of the Islamic Republic of Afghanistan (GoIRA) did not provide
+   counterpart funding.
+
+   Dates: The project was approved on December 19, 2018, became effective on January 1, 2019, and was
+   restructured once (approved on July 9, 2020) as part of a portfolio-wide financing reallocation to facilitate
+   the financing of GoIRA’s COVID-19 emergency response. The project’s original financing amount (US$75
+   million) was reduced to US$55 million, and the restructuring included a no-cost extension of one year (to
+   December 31, 2022). On August 15, 2021, Taliban forces took control of Afghanistan’s capital Kabul,
+   resulting in the collapse of the GoIRA and the cessation of all project activities. This ICRR applies a split
+   rating considering project results before and after August 15, 2021.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+The objective of the project at approval – to strengthen the capacity of selected line ministries and agencies
+through merit-based recruitment of key positions, improved personnel management, and better HR
+planning – was relevant to the economic conditions, and development priorities of the GoIRA at the time of
+project approval until August 15, 2021, when the World Bank paused disbursements and suspended project
+operations.
+
+Original Project: December 19, 2018 (project approval) – August 15, 2021 (suspension of operations)
+
+Political Context: The ICR notes that Afghanistan was characterized by weak state institutions, poor
+governance, and dysfunctional societal relations leading to violent conflict between groups, and this
+affected almost every aspect of development. Since the formation of the first National Unity Government in
+2014, intensifying conflict and political instability undermined local ownership of development initiatives as
+they became points of contention and competition within the government. Without strong Presidential
+endorsement development initiatives could quickly fall victim to political infighting (Risk and Resilience
+
+
+                                                                                                     Page 3 of 17
+                                      Independent Evaluation Group (IEG)             Implementation Completion Report (ICR) Review
+                                      TAGHIR (P166978)
+
+
+
+               Assessment, 2021). Power was increasingly centralized at the Palace, often bypassing key ministries or
+               shifting responsibility to the office of the President. This heightened the risk that reform would not be
+               institutionalized across key GoIRA LMAs. (ICR, page 6). The project was developed shortly before
+               the planned September 2019 Presidential elections and implemented during a period of political instability,
+               with the GoIRA unable to maintain effective control of large parts of the country. Developing and
+               implementing a project that focused on technocratic governance reforms and subsidizing the GoIRA payroll
+               in this unstable environment.
+
+               Development Priorities: TAGHIR was well aligned with the GoIRA’s development priorities, including the
+               2017-2021 Afghanistan National Peace and Development Framework (ANPDF) with its development
+               priority on “Building a responsive and effective public administration system” and the objective of
+               “Establishing, maintaining and improving professionalization (of the civil service)”. The ANPDF emphasized
+               the need for the GoIRA to establish a civil service that was responsive to national development needs with
+               balanced participation of Afghan men and women. The ANPDF also noted that the country needed to
+               address the legacy of patronage and corruption that resulted in the employment of unqualified staff
+               employed in the civil service (PAD, page 9). The project was developed to address these issues.
+
+               TAGHIR was also aligned with Pillar 1 of the World Bank Group Afghanistan Country Partnership
+               Framework 2017-20209 – Building Strong and Accountable Institutions. The overall objective of this pillar
+               was to contribute to the GoIRA’s long-term goals of state-building and self-reliance and tackling the
+               underlying drivers of fragility by strengthening the institutional and regulatory framework for service delivery,
+               planning, and fiscal and public financial management (PFM). TAGHIR addressed all three objectives within
+               this pillar, which focused on improved: (i) public financial management and fiscal self-reliance; (ii)
+               performance of key LMAs and municipalities; and (iii) service delivery through enhanced citizen
+               engagement (PAD, page 9).
+
+               Suspended Project: August 16, 2021 – December 31, 2022
+
+               The August 2021 takeover of the GoIRA by the Taliban, and the start of the Interim Taliban Administration
+               (ITA), triggered an economic crisis and major disruptions to basic services across the country. In response
+               to the rapid change in leadership, the World Bank paused its disbursements and suspended its operations
+               on August 15, 2021. The sudden cessation of project activities combined with the impact of drought in rural
+               areas, resulted in a fall in living standards and a humanitarian crisis. The World Bank, Afghanistan
+               Reconstruction Trust Fund donors, and international development partners pivoted to support basic,
+               essential services for the Afghan people. Existing World Bank projects that were suspended in August 2021
+               were phased out and implementation completion reports (ICRs) were prepared to capture results and
+               lessons learned from the World Bank’s long-term engagement in the country.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                                                                                                                     Page 4 of 17
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   TAGHIR (P166978)
+
+
+
+
+OBJECTIVE 1
+Objective
+Strengthened capacity of select LMAs through merit-based recruitment of key positions
+
+Rationale
+One PDO indicator was achieved.
+
+      Civil servants appointed in priority LMAs following approved strategic staffing plan for targeted
+       capacity ‘surge’. Baseline: 0 in 2018. Target: 100 percent in 2022. 100 percent of civil servants were
+       appointed in priority LMAs as of August 2021 (achieved).
+
+Two of three intermediate results indicators (IRIs) were achieved.
+
+      Civil servant positions held by women. Baseline: 7.5 percent in 2018. Target: 10 percent in 2022. 11
+       percent of civil servant positions were held by women in August 2021, exceeding the target of 10
+       percent (achieved).
+      Civil servants that meet minimum individual performance targets, as determined in Job Descriptions.
+       Baseline: 0 in 2018. Target: 75 percent in 2022. 89 percent of civil servants met the individual
+       performance targets in August 2021, exceeding the target of 75 percent (achieved).
+      Female civil servants that meet minimum individual performance targets, as determined in Job
+       Descriptions. Baseline: 0 in 2018. Target: 75 percent in 2022. 100 percent of female civil servants met
+       minimum individual performance targets in August 2021, exceeding the target of 75 percent
+       (achieved).
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 1 REVISION 1
+Revised Objective
+Strengthened capacity of select LMAs through merit-based recruitment of key positions
+
+Revised Rationale
+When the ITA took control of the country, all World Bank project activities were suspended. No additional
+results were achieved during this period.
+
+
+
+Revised Rating
+Negligible
+
+
+OBJECTIVE 2
+Objective
+
+                                                                                                   Page 5 of 17
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   TAGHIR (P166978)
+
+
+
+Strengthened capacity of selected LMAs through improved personnel management
+
+Rationale
+Two of three PDO indicators were achieved.
+
+      Civil servants in priority LMAs transitioned from project to core government budget financing.
+       Baseline: 0 in 2018. Target: 100 percent in 2022. 100 percent of civil servants in priority LMAs were
+       transitioned to government budget financing in August 2021 (achieved).
+      Civil servants in priority LMAs transitioned from project to core government budget financing as
+       permanent professional cadres. Baseline: 0 in 2018. Target: 20% in 2022 (not achieved).
+      Priority LMAs that meet minimum benchmark targets related to reduction in number of National
+       Technical Assistants (NTAs). Baseline: 0 in 2018. Target 11 in 2022. 16 LMAs met minimum
+       benchmark targets in August 2021, exceeding the target of 11 (achieved).
+
+One IRI was achieved.
+
+      Priority HRMIS functionalities established. Baseline: No in 2018. Target: Yes in 2022. This target was
+       met in October 2021 (achieved).
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 2 REVISION 1
+Revised Objective
+Strengthened capacity of selected LMAs through improved personnel management
+
+Revised Rationale
+When the ITA took control of the country, all World Bank project activities were suspended. No additional
+results were achieved during this period.
+
+
+
+Revised Rating
+Negligible
+
+
+OBJECTIVE 3
+Objective
+Strengthened capacity of selected LMAs through better HR planning
+
+Rationale
+One PDO indicator was achieved.
+
+
+
+
+                                                                                                 Page 6 of 17
+                                Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+                                TAGHIR (P166978)
+
+
+
+
+                                  Human Resource Management Information System (HRMIS)/Payroll rolled out in at least 5 LMAs.
+                                   Baseline: 0 in 2018. Target: 5 in 2022. HRMIS/Payroll was rolled out to 20 LMAs, exceeding the target
+                                   of 5 (achieved).
+
+                            One IRI was achieved.
+
+                                  Database prepared on existing parallel structures, that captures information on donor assistance,
+                                   including off-budget. Baseline: No in 2018. Target: Yes in 2022. This target was met in August 2021
+                                   (achieved).
+
+
+
+                            Rating
+                            Substantial
+
+
+                            OBJECTIVE 3 REVISION 1
+                            Revised Objective
+                            Strengthened capacity of selected LMAs through better HR planning
+
+                            Revised Rationale
+                            When the ITA took control of the country, all World Bank project activities were suspended. No additional
+                            results were achieved during this period.
+
+
+
+                            Revised Rating
+                            Negligible
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The PDO – “To strengthen the capacity of selected line ministries and agencies through merit-based
+                            recruitment of key positions, improved personnel management, and better human resource (HR) planning” –
+                            was divided into three separate PDOs described below. These PDOs were aligned with the project’s three
+                            components that focus on” (i) human resource capacity injection; (ii) personnel and payroll management; and
+                            (iii) support to administrative reforms.
+
+                            Project efficacy under the original project from December 19, 2018 – August 15, 2021 was Substantial.
+                            Uneven but notable progress was made across all three of the project’s outcome areas.
+
+                            The theory of change (ToC) defined in the PAD identified several key challenges to implementation, including
+                            (i) the circumvention of meritocratic recruitment processes; (ii) weak internal systems for establishment
+                            control and payroll; and (iii) the prevalence of pay structures and salary supplement programs leading to
+                            competition for public sector skills, reduced ownership, and accountability. The ToC posited that these three
+
+                                                                                                                            Page 7 of 17
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    TAGHIR (P166978)
+
+
+
+challenges constrained GoIRA efforts to improve overall civil service planning and professionalization,
+reasoning that if TAGHIR delivered meritocratically recruited positions in priority LMAs, then this would lead to
+enhanced capacity at these LMAs, enabling them to improve revenue generation, budget execution, and
+service delivery. Moreover, the roll-out of an HRMIS and Payroll system would lead to improved HR planning
+and stronger internal systems for control and payroll management. In addition, targeted administrative
+reforms, supported by technical assistance would lead to enhance professionalization and effectiveness of
+the civil service. Combined, these outcomes would lead to strengthened fiscal and institutional sustainability
+of the core civil service. Three assumptions were critical to this results chain: (i) the GoIRA maintained the
+fiscal space to continue financing meritocratically recruited positions; (ii) these positions had individual
+performance indicators linked to LMA-level results; and (iii) there was a sufficient political commitment to
+implement administrative reforms which are critical in a fragility, conflict, and violence (FCV) context.
+
+The efficacy of PDO 1 (Strengthened capacity of selected LMAs through merit-based recruitment of key
+positions) is rated as Substantial up to August 15, 2021, and Negligible after this date when operations were
+suspended. This PDO, aimed to finance up to 1,500 (later revised to 950) contracts of civil servants in key
+positions appointed through merit-based recruitment. As of August 15th, 2021, TAGHIR had issued contracts
+to 838 civil servants, of which 669 were still active and 169 had been terminated. Out of the 669 active
+contracts, 74 were held by female civil servants, 11 percent of active appointments under TAGHIR. This
+slightly exceeded the project’s IRI target, aiming to increase female appointees in CBR legacy and new
+TAGHIR positions from 7.5 percent in October 2018 (the government-wide baseline for the senior positions)
+to 10% by the end of the project. 100 percent of appointments were in positions prioritized in strategic staffing
+plans (achieved) and 89 percent of civil servants recruited through TAGHIR (100 percent of female civil
+servants) met the minimum individual performance targets, as determined in Job Descriptions, by the end of
+the project (exceeding the 75 percent target for both indicators). Overall, one PDO indicator and two of three
+IRIs were achieved. Despite these achievements, it should be noted that merit-based recruitment struggled
+with the common practice of patronage and loyalty in government ministries, thus undermining the
+sustainability of merit-based recruitment in public administration.
+
+The efficacy of PDO 2 (Strengthened capacity of selected LMAs through improved personnel management)
+was aligned with Component 2, is rated as Modest until August 15, 2021, and is rated as Negligible after this
+date until project closure. This component aimed to move financing of (base) salaries of all (100 percent)
+CBR legacy and TAGHIR appointees to the GoIRA’s core budget (fully achieved), and transition 20 percent of
+these civil servants to permanent professional cadres (not achieved). The component also aimed to reduce
+the number of NTAs across 11 out of 16 selected LMAs (based on identified benchmarks) by the end of the
+project (achieved). These personnel processes were based on a March 2018 amendment to the Civil
+Servants Law (2008) that allowed for the blending of the position-based civil service model with a career-
+based system. This facilitated the recruitment of professional staff (cadres) in common service or functional
+sectors with specific rates of pay. In addition to external entrants, current NTAs and civil servants including
+CBR and TAGHIR appointees were eligible for entry into relevant cadre groups.
+
+The project partly succeeded in strengthening the capacity of LMAs through improved personnel
+management. The project financed the development of an HRMIS informed by a business process review
+and integrated with biometric civil servant enrollment, payroll, the Afghanistan Financial Management
+Information System (AFMIS), and e-Payment Systems. This enabled the GoIRA to improve the control of
+positions, personnel numbers, and budgeted costs, enable monitoring and limiting LMA-level discretion for
+allowances and overtime, link organizational structures to the functions of LMAs, and clearly identify the level
+of each position and job responsibilities. Through accurate gender-disaggregated headcount data, GoIRA
+
+
+                                                                                                    Page 8 of 17
+               Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+               TAGHIR (P166978)
+
+
+
+        could monitor gender targets to address staffing imbalances. Overall, two of three PDO indicators and one IRI
+        were achieved.
+
+        The efficacy of PDO 3 (Strengthened capacity of selected LMAs through better HR planning) is rated as
+        Substantial until August 15, 2021, and Negligible when project operations were suspended. This PDO was
+        closely aligned with activities under component 2, with the aim of developing the HRMIS, including priority
+        functions and the rollout of the system to five LMAs by the end of the project. The project’s outcomes
+        exceeded the PDO indicator target (HRMIS/Payroll rolled out in at least 5 LMAs). As of August 15th, 2021,
+        the HRMIS was rolled out to 60 central line ministries and agencies and all 34 provincial directorates of the
+        Ministries of Education and Public Health. The IARCSC team, working on the development of HRMIS,
+        finalized eight modules. In June/July 2021, the HRMIS was verified by an independent firm, resulting in a set
+        of recommendations for improving the system that was to be implemented in the second half of 2021.
+        Moreover, the payroll module was tested in HRMIS and linked to AFMIS. Ten LMAs had piloted the system to
+        pay salaries to their staff for the first time, a month before the Taliban takeover of Kabul. As of August 2021,
+        the IARCSC was still in the process of integrating LMAs’ HRMIS data with payroll, AFMIS, and the Automatic
+        Payment System (used for transferring civil servant salaries). The project also established a database on
+        parallel (civil servant) structures that included information on off-budget donor-financed NTAs, also in
+        alignment with Component 2. Overall, one PDO indicator and one IRI were achieved.
+
+                                   Rating 1                     Rating 2
+            PDOs
+                                   Original Project             Project Suspension
+
+                                   (pre-August 15, 2021)        (post-August 15, 2021)
+            PDO 1 (Merit-based
+                                   Substantial                  Negligible
+            recruitment)
+            PDO 2 (Personnel
+                                   Modest                       Negligible
+            management)
+            PDO 3 (HR planning)    Substantial                  Negligible
+            Average                Substantial                  Negligible
+
+        Overall Efficacy Rating
+        Substantial
+
+OBJR1_TBL
+
+
+
+
+        OVERALL EFFICACY REVISION 1
+        Overall Efficacy Revision 1 Rationale
+        Once the project was suspended from August 15, 2021, until closure, there were no additional results
+        achieved due to the cessation of all operations. The efficacy rating during this period was Negligible.
+
+
+
+        Overall Efficacy Revision 1 Rating                       Primary Reason
+        Negligible                                               External shock
+
+
+
+
+                                                                                                           Page 9 of 17
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      TAGHIR (P166978)
+
+
+
+ 5. Efficiency
+Economic Efficiency: A standard cost-benefit analysis of the project was not conducted for the PAD and the ICR,
+so economic rate of return (ERR) and internal rate of return (IRR) analyses were not calculated at appraisal or
+closure. No references were made to the ERRs or IRRs in either document. The PAD provides GDP and poverty
+rate data without any reference to source documents (PAD, page 7), instead citing lessons from previous World
+Bank projects in Afghanistan and referencing high-level workshops between IARCSC, the Ministry of Finance,
+and the World Bank that informed project development (PAD, page 17).
+
+Operational Efficiency: The project was restructured on July 9, 2020, as part of a portfolio-wide financing
+reallocation to help facilitate the financing of GoIRA’s COVID-19 emergency response. The project’s original
+financing of US$75 million was reduced to US$55 million, and the restructuring included a no-cost extension of
+the project closing date by one year (to December 31, 2022). The project components’ allocated amounts were
+adjusted downwards to reallocate financing for the GoIRA’s COVID-19 response.
+
+According to the ICR, this downward adjustment was possible due to lower-than-expected expenditures under
+each component. First, the ceiling to finance top-up salaries was lowered from 1,500 to 950 positions, reflecting
+slower-than-expected recruitment under TAGHIR and lower actual demand for these positions (based on the
+LMAs strategic staffing plans). At the time of restructuring, there were only 582 active positions financed by the
+project. Second, strong progress on the in-house development of the HRMIS/Payroll solution by the
+implementing agency (IARCSC) removed the need for financing a costly off-the-shelf solution. Third, the
+planned just-in-time technical assistance for administrative reforms was narrowed, thus requiring fewer funds.
+The restructuring of the project, to reallocate financing for the GoIRA’s COVID-19 response, did not significantly
+impact project outcomes, as the adjustments to allocated amounts reflected lower-than-expected disbursement
+and did not impede project spending or activities.
+
+The project restructuring also provided for a no-cost one-year project closing date extension. Furthermore, the
+project’s legal covenants were adjusted to extend deadlines and durations. The maximum duration of legacy
+(CBR) and new (TAGHIR) appointees (initially set at 2 years) was waived, thus allowing TAGHIR-financed
+appointees to remain in their positions longer than 2 years. The deadline for TAGHIR recruitment was also
+extended for one year (to June 30, 2021). project oversight responsibility was shifted from the High Council for
+Rule of Law and Anti-Corruption to the IARCSC Board of Commissioners and the project’s Political and
+Governance risk rating was lowered from High to Substantial.
+
+The ICR correctly notes that TAGHIR focused on strengthening the capacity of LMAs, while enhancing
+sustainability by reducing costs of special pay modalities as well as the civil service more generally. Improving
+the efficiency of the civil service, reducing costs, and enhancing outputs, was a central cross-cutting theme
+woven throughout all three of the project’s components. The project reduced costs by requiring LMAs to review
+their strategic staffing plan and select priorities for capacity injection, reducing the number of NTA employed
+across LMAs, and transitioning towards a smaller cadre of professional civil servants (component 3). The
+updated HRMIS, with its biometric data collection, allowed the Afghan government to identify wage bill savings.
+
+
+Efficiency Rating
+Modest
+
+
+
+
+                                                                                                    Page 10 of 17
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      TAGHIR (P166978)
+
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                     0
+Appraisal                                                   0
+                                                                                      Not Applicable
+                                                                                     0
+ICR Estimate                                                0
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Under the original project, Relevance of objectives is Substantial, Efficacy is Substantial and Efficiency
+is Modest, thus the Outcome rating is Moderately Satisfactory. Under the revised project, Relevance remains
+High, but Efficacy is Negligible, Efficiency is Modest and thus the Outcome rating is Unsatisfactory.
+
+Thus, the overall rating is (4*0.73) + (2*0.27) = 3.46 which is Moderately Unsatisfactory overall.
+
+
+a. Outcome Rating
+   Moderately Unsatisfactory
+
+
+7. Risk to Development Outcome
+
+The risk to the development outcome is High.
+
+According to the ICR, many project outcomes were reversed after August 15, 2021. Most TAGHIR
+appointees, selected through merit-based recruitment, were presumed to have left their positions upon the
+arrival of Taliban forces in Kabul. The ITA annulled some of the institutional arrangements in place to
+promote merit-based selection of senior civil servants (and limit political interference). Systems developed
+with the support of the project were idle at closure, and the implementation of reforms that benefited from the
+project’s technical assistance was halted by the ITA.
+
+The systems, procedures, and regulations developed with project support can still be used should there be a
+significant political redirection of the government to strengthen the effectiveness and efficiency of the civil
+service. These include cadre regulations for civil servants working in customs and public procurement, the
+exam questionnaires developed for e-recruitment, and the HRMIS, developed ‘in-house’ by the GoIRA
+can assist the government to identify potential wage bill savings and improve planning and establishment
+controls in the civil service.
+
+
+
+
+8. Assessment of Bank Performance
+
+                                                                                                     Page 11 of 17
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     TAGHIR (P166978)
+
+
+
+
+a. Quality-at-Entry
+  According to the ICR, at appraisal, the World Bank considered the following when developing TAGHIR:
+
+        Realities on the ground in Afghanistan, including the continued need for support to public
+           administration reform and the need to avoid any disruption to the regular civil service, that could
+           adversely affect the already extremely fragile situation in the country;
+          Risks to the sustainability of governance reforms and project outcomes associated with political
+           changes;
+          Lessons learned from its predecessor CBR Project, including the need to move away from a
+           broader capacity injection approach to a narrower focus on LMAs that focus on revenue and
+           service delivery.
+          Consultations with GoIRA leadership on whether to use an ‘off-the-shelf solution’ or develop the
+           HRMIS ‘in-house’. An in-house solution was developed based on the preference of the client and
+           the assumed sustainability of a system that is locally maintained; and
+          Alignment with the national development strategy and the World Bank’s CPF.
+
+  While these five factors informed project appraisal, additional targeted analyses would have been helpful.
+  As discussed in Section 5, the lack of a standard cost-benefit analysis (CBA) at appraisal (and closure)
+  could have would have provided additional data sources to inform the development of targeted activities
+  that support and sustain economic growth and poverty reduction. Given the complex political environment
+  and since there were upcoming national elections as this project was being developed, the World Bank
+  would have also benefitted from targeted political economy analysis to better understand the risks and
+  opportunities associated with civil service reform. The absence of a CBA at appraisal and closure, and
+  the lack of a systematic and thorough political economy analysis at appraisal, were missed opportunities
+  to provide useful data when developing this project.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Unsatisfactory
+
+
+b. Quality of supervision
+ The Bank team included a task team leader (TTL) based in Kabul, Afghanistan, working closely with the
+ client and implementing agency (IARCSC). This allowed the Bank to address shortfalls on targets, delays
+ in implementation, and emerging risks to implementation progress and the development outcome in real-
+ time. The Bank was also able to effectively use Component 3 to effectively respond to the IARCSC’s
+ requests for analytical and technical assistance needed to help them implement their reforms. This
+ included providing technical advice on civil service recruitment, computerization of the civil service
+ recruitment process, and promoting female recruitment and retention in the civil service. The ICR notes
+ that the World Bank closely managed a recruitment quality assurance team and shielded them from
+ political interference to ensure that the recruits met the minimum criteria of a competitive recruitment
+ process. The World Bank also worked closely with other sectors (including education and health) to
+ support their work and help them overcome resistance to reforms. However, the Bank was not able to
+
+
+
+                                                                                                    Page 12 of 17
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     TAGHIR (P166978)
+
+
+
+ mitigate risks to the development outcome, emanating from political instability and the lack of supra-
+ ministerial leadership to push forward difficult civil service reforms, limiting project outcomes.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ TAGHIR’s project activities were informed by lessons learned from the predecessor CBR project,
+ specifically focusing activities on select LMAs instead of supporting general civil service reform in ministries
+ and agencies across the government. This learning was effectively integrated into the design of the
+ monitoring and evaluation (M&E) framework . The PDO indicators tracked the (i) appointment of civil
+ servants to priority LMAs based on strategic staffing plans, (ii) development of an HRMIS tailored to local
+ needs, and (iii) the reduction of NTAs. While these indicators captured GoIRA compliance with project
+ PDOs with realistic targets, they did not effectively capture the efficacy of the three PDOs. It is not clear
+ how the capacity of selected LMAs was strengthened through merit-based recruitments, improved
+ personnel management and HR planning.
+
+ For example, the ICR notes that increasing LMA capacity through merit-based recruitment was measured
+ by the percentage of TAGHIR appointees being appointed based on an approved staffing plan was a pre-
+ condition for the financing of new TAGHIR positions in LMAs, but this measured compliance with the pre-
+ condition instead of the progress on the PDO. The indicator would have better-reflected progress and
+ impact if it measured the number of TAGHIR-appointed civil servants or the percentage of (general-
+ )directors appointed through TAGHIR, out of the total pool of (general-)directors. The PDO indicator (and
+ target) measuring the percentage of civil servants who transitioned from project to core government budget
+ financing also reflected the achievement of pre-conditions but did little to measure the progress of improved
+ personnel management.
+
+
+
+b. M&E Implementation
+  The main implementing agency, IARCSC, was responsible for overall monitoring and evaluation of the
+  project, in close coordination with LMAs. The Civil Service Appointments Board and Civil Service
+  Complaints Board maintained databases on civil service appointments and complaints that fed into
+  project reporting. Performance benchmarks were developed to hold LMAs accountable for achieving
+  planned results, with the IARCSC bi-annually assessing priority LMAs’ contributions to public
+  administration and LMA-specific reforms, including the reduction in NTA numbers (captured in the results
+  framework [RF]). To better manage data on new TAGHIR appointees, the IARCSC developed a tracking
+  tool that categorized positions based on recruitment status. Regarding grievance redress mechanisms,
+  the project utilized IARCSC’s existing platforms, including the Civil Service Appeals Board for recruitment
+
+                                                                                                     Page 13 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     TAGHIR (P166978)
+
+
+
+  complaints. The IARCSC reported to the World Bank monthly on project-related complaints, including
+  recruitment appeals and their status, monthly.
+
+
+
+c. M&E Utilization
+  According to the ICR, M&E reports were used by the IARCSC to identify weaknesses in the recruitment
+  system and provide them with practical solutions. The data collected on NTAs and the performance of
+  the TAGHIR appointees were used to remind the government leadership of unsustainable reliance on
+  NTAs and the lack of strategic cohesion between individual civil servants’ results areas and the strategic
+  level objectives of the relevant NTAs. Similarly, the performance data was used to focus the
+  administration on revenue generation, efficient budget execution, and improved service delivery.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   Social Safeguards: World Bank social safeguard policies were not triggered since the project focused
+   mainly on policy reform and LMA capacity building. However, the World Bank recognized that there could
+   be potential impacts and risks that needed to be mitigated regarding possible cases of discrimination and
+   unfair selection of civil servants. The Bank discontinued the grievance redress mechanism (GRM) from the
+   predecessor CBR, instead integrating and streamlining the existing GRM structure of the implementing
+   entity (IARCSC) to ensure its long-term sustainability. Separate reporting procedures were, however,
+   established to ensure better monitoring of project-related complaints. The IARCSC maintained a grievance
+   redress mechanism with the following four dedicated platforms, (i) civil servant recruitment complaints, (ii)
+   corruption (and fiduciary) complaints, (iii) legal complaints, and (iv) sexual harassment complaints. Weekly
+   public hearings were chaired by the IARCSC Chairman and Commissioners so that they could directly
+   receive complaints from participants. In August 2021, the project was in the process of recruiting a third-
+   party verification agency for validation purposes and to ensure the application of correct procedures and
+   selection criteria within government systems. During the reporting period of January to June 2021, 1309,
+   complaints related to TAGHIR positions were submitted to the Appeals Board of the IARCSC. Out of the
+   total registered complaints, 1133 (87%) were rejected, 161 cases (12%) were accepted, and only 15 cases
+   (1%) case were reported to be under review.
+
+   Regarding citizen engagement, IARCSC reached out to the public through social media, and forums with
+   civil society, media, and religious leaders.
+
+   Environmental Safeguards: The project was classified as category C and did not trigger any World Bank
+   safeguard policy based on a March 8, 2018, environmental assessment. There were no environmental risks
+   posed by the Project.
+
+
+
+
+                                                                                                   Page 14 of 17
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     TAGHIR (P166978)
+
+
+
+
+b. Fiduciary Compliance
+   Procurement: Procurement staff of the IARCSC received training on World Bank procurement
+   requirements, with overall responsibility resting with IARCSC's Administration and Finance Directorate. All
+   procurements were subject to approval by the IARCSC Management, and high-value contracts were also
+   subject to the National Procurement Commission’s (NPC) approval. Procurement Risk Assessment and
+   Management System data which was updated four times during the project, showed that procurement
+   performance was moderately satisfactory. Post-procurement review (PPR) did not identify any major
+   issues, with required documents regularly uploaded in the Systematic Tracking of Exchanges in
+   Procurement (STEP)
+
+   Financial Management (FM): The ICR does not provide a detailed assessment of project FM, referencing
+   FM performance tracking in ISRs without any detail.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   No unintended impacts were raised in the ICR
+
+
+
+d. Other
+   No other issues were raised in the ICR.
+
+
+
+11. Ratings
+                                                                                 Reason for
+Ratings                        ICR                    IEG
+                                                                                 Disagreements/Comment
+                               Moderately            Moderately
+Outcome
+                               Unsatisfactory        Unsatisfactory
+                               Moderately
+Bank Performance                                     Moderately Satisfactory
+                               Satisfactory
+Quality of M&E                 Modest                Modest
+
+Quality of ICR                 ---                   Substantial
+
+
+12. Lessons
+
+The following 4 lessons learned are informed by project documents and the ICR.
+
+The lack of adequate analytic work during appraisal may lead to implementation “blind
+spots” that compromise the achievement of the higher-level objectives and sustainable
+reform. For complex governance and civil service reforms to succeed, the project’s reform goals
+
+                                                                                                   Page 15 of 17
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       TAGHIR (P166978)
+
+
+
+need to align with the incentives and goals of the government which were not sufficiently well
+understood for this project. In Afghanistan, while most LMAs were eager to access financing for
+increased salaries, there were numerous alternatives to TAGHIR financing of positions. These
+alternatives typically allowed for more LMA discretion in selecting candidates. The project’s focus on
+merit-based recruitment did not align with the primary organizing principles within government
+ministries: patronage and loyalty. As such, the ‘carrot’ offered by TAGHIR was not a strong enough
+incentive to mobilize LMAs for reforms. For projects focusing on human resource management
+reform in political contexts that can undermine these reforms, positive incentives need to clearly
+identify and build into project design.
+
+At project appraisal, the World Bank needs to clearly assess and address the potential
+impact of political will and local ownership of civil service reform on successful
+implementation and sustainable reform. While the World Bank designed strong measures to
+overcome the resistance to, and lack of ownership of, civil service reform, decisions by the Office of
+the President and the Ministry of Finance undermined the work of the implementing agency
+(IARCSC), contradicting government policy and derailing a reform agenda that aimed to amend civil
+service pay, phase-out NTA, and develop more sustainable cadres in the civil service. Reforms
+would have adversely affected pay at both the Office of the President and the Ministry of Finance,
+and as such, these obstacles should have been expected and explicitly informed project design.
+
+Using project financing to support higher salaries for senior civil service positions may
+establish unrealistic expectations if the plan is to phase them out after the project ends.
+There is a risk that such an approach creates a cycle of dependency without being able to develop a
+sound exit strategy. Technical assistance, introduced by donor-finance projects in Afghanistan,
+created positions in government with considerably higher pay rates than regular civil servants. It was
+unrealistic to assume that the government would be able to address these disparities without
+political implications.
+
+When there are severe limitations in skills and human capital in information technology (IT),
+the World Bank should carefully assess if the government has the human and financial
+resources to sustain systems developed “in-house” . TAGHIR supported the development and
+roll-out of an “in-house” management and information (MIS) system. The development and
+maintenance of “in-house” systems require multi-disciplinary teams with specialized areas of
+expertise, which cannot be easily found in countries like Afghanistan. Moreover, even if such
+capacity exists in the local market, the implementing agencies may not have the resources and
+capacity to optimize their impact. The development of MIS systems requires a detailed
+understanding of government capacities in highly technical IT areas.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+
+
+                                                                                                   Page 16 of 17
+     Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+     TAGHIR (P166978)
+
+
+
+The ICR presented a detailed and coherent description of project activities, documenting implementation
+challenges and achievements. There are three annexes to the ICR, (i) the results framework and key outputs,
+(ii) World Bank lending and implementation support/supervision, and (iii) project cost by component. These
+annexes provide adequate activity-level data and analysis to understand project implementation. The ICR did
+not recognize that a deeper understanding of the political economy and economic drivers of reform would have
+enabled the World Bank team to choose project objectives and activities based on a deeper understanding of
+the incentives for political reform by key players in the country, and the drivers for poverty reduction and
+economic growth. Overall, the analyses provided in the ICR provided an honest and thoughtful understanding
+of project outputs and outcomes based on the available data, both intended and unintended. The lessons
+learned were thoughtful, although they did not specifically address how the lack of analytic products at
+appraisal may have affected activity selection and their impact on the PDOs. The ICR also identifies some of
+the limitations of the RF, providing clear and actionable ways that could have improved the monitoring of
+outputs and outcomes and better connected to the PDOs as well. ICR guidelines and methodology were
+appropriately followed.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                               Page 17 of 17
+

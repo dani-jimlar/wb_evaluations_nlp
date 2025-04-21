@@ -1,0 +1,847 @@
+     Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+     Central African Backbone SOP5 (P132821)
+
+
+
+                                                                               Report Number: ICRR0022995
+
+1. Project Data
+
+
+
+ Project ID                               Project Name
+ P132821                                  Central African Backbone SOP5
+
+ Country                                  Practice Area(Lead)
+ Eastern and Southern Africa              Digital Development
+
+
+ L/C/TF Number(s)                         Closing Date (Original)               Total Project Cost (USD)
+ IDA-H9810                                31-Dec-2019                                         38,092,516.05
+
+ Bank Approval Date                       Closing Date (Actual)
+ 16-Jul-2014                              30-Sep-2021
+
+                                          IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                           92,100,000.00                                             0.00
+
+ Revised Commitment                            55,721,179.74                                             0.00
+
+ Actual                                        38,092,516.05                                             0.00
+
+
+
+
+ Prepared by                Reviewed by                 ICR Review Coordinator         Group
+ Ranga Rajan                Ramachandra Jammi           Victoria Alexeeva              IEGSD (Unit 4)
+ Krishnamani
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   This project in the Democratic Republic of Congo (DRC) was the fifth phase of the Central African Backbone
+   Regional Series of Projects (CAB SOPs), aimed at increasing the geographic coverage and usage of regional
+   backbone network services and reducing their prices in Central Africa. The first phase was in Cameroon,
+   Chad and the Central African Republic (CAR), the second in Sao Tome and Principe, the third in the Republic
+   of Congo (ROC) and the fourth in Gabon.
+
+
+
+                                                                                                Page 1 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Central African Backbone SOP5 (P132821)
+
+
+
+   The project development objective as stated in the loan agreement dated July 25, 2014 (Schedule one, page
+   5) and in the Project Appraisal Document (PAD, page 14):
+
+   " To contribute to increase geographical reach and usage of regional broadband infrastructure and to
+   reduce the price of services to enable more people in the Recipient's territory to access Information
+   and Communications Technology (ICT) services".
+
+   Increasing the geographical reach and usage of regional broadband infrastructure can lead more people
+   access to the regional broadband infrastructure. Extending the network nationwide and establishing the Public
+   Private Partnership (PPP) arrangement can help in facilitating competition between the operators at the
+   national level, realizing economies of scale, and thereby reducing the prices of internet services. Given these
+   convincing links, the IEG agrees with the way the ICR chooses to parse the three PDOs.
+
+   This assessment is based on the three sub-objectives as stated in the ICR: (i) To contribute to increase
+   geographical reach of regional broadband network services; (ii) To contribute to increasing the usage of
+   regional broadband network services; and (iii) To contribute to reducing the price of services.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   There were three components (PAD, pages 9 -11).
+
+   1. Emergence of an Inclusive Digital Economy. The estimated cost at appraisal was US$13.2 million.
+   The actual cost was US$3.8 million.
+
+   This component aimed to support the Ministry of Posts, Telecommunication and New Information and
+   Communication Technologies (hereafter MINPTNTIC) to accelerate the emergence of an information
+   society and digital economy and help DRC in efficiently managing the new infrastructure. Activities in this
+   component: (i) capacity building of MINPTNTIC in managing the .cd domain name; (ii) capacity building for
+   building e-waste center including a preparatory study, an investment plan, and constructing the e-waste
+   center; (iii) preparatory study for the network and equipment for the Government Intranet; and (iv) support
+   the Congolese Post and Telecommunications Company (hereafter SCPT) operations on its Kinshasa-
+   Muanda link and funding for the SCPT's participation in the Public-Private-Partnership (PPP) concession
+   contract for operating the infrastructure to be managed by the Public Asset Management Company (SPT).
+
+   Some component one activities were cancelled with the second project restructuring (discussed below). The
+   cancelled activities, included installation of the e waste center and purchase and equipment for the
+   Government intranet.
+
+
+
+
+                                                                                                   Page 2 of 16
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    Central African Backbone SOP5 (P132821)
+
+
+
+  2. Construction, Management and Commercialization of the Central African Backbone (CAB5)
+  Infrastructure through a PPP Scheme. The estimated cost at appraisal was US$71.6 million. The actual
+  cost was US$28.0 million.
+
+  This component aimed to support the Government deploy interconnected networks to from a regional
+  network through the following interventions: (i) establishing three neutral carrier hotels and regional Internet
+  Exchange Points (IXPs); (ii) establishing three interregional links to neighboring countries - West Africa
+  Cable System (WACS) for Kinshasa (western region) and cross-border links to two other economic clusters
+  (Goma and Lubumbashi in the Eastern and Southern regions). This component also financed the Public
+  Asset Managing Company's (SPN) operating cost for the first two years, including monitoring and quality
+  control of the construction.
+
+  The scope of the activity in this component was reduced. The activity pertaining to the construction of fiber
+  link was scaled down with the links to Eastern and Southern regions cancelled. The activities of
+  establishing neutral carrier hotels and regional IXPs were cancelled.
+
+  3. Enabling Environment and Regulatory Effectiveness. The estimated cost at appraisal was US$7.3
+  million. The actual cost was US$6.5 million.
+
+  This component planned to support the regulatory authority - the Post and Telecommunications Authority of
+  Congo (ARPTC) in strengthening its capacity for sector reforms. Activities in this component: (i) Technical
+  Assistance (TA) for strengthening cross-border coordination, designing frequency spectrum management
+  regulatory tools at the border with the Republic of Congo, Zambia and Rwanda and preparing bidding
+  documents for purchasing the spectrum management equipment; (ii) TA for strengthening Network Integrity
+  and Cyber-security and preparing bidding documents for purchasing the Network and Cyber-security
+  equipment; (iii) TA for promoting an Open Access and Wholesale pricing regime and designing regulatory
+  toolkit and tools for the broadband market ; and (iv) purchasing information systems and computers.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project cost. The estimated cost at appraisal was US$92.1 million. The actual cost was US$38.0 million.
+
+  Project financing. An IDA Grant of US$92.1 million financed the project. The amount disbursed was
+  US$38.0 million. Only around US$38.18 million of the Grant was utilized for the project. About
+  US$36.4 million (39.5% of the IDA Grant) was cancelled from this project for financing an upcoming COVID
+  -19 emergency response Development Policy Operation. About US$8.78 million was undisbursed by project
+  closure. The team clarified that the difference between the IDA Grant and the amount disbursed was due
+  to exchange rate changes between the SDR and the US$ during implementation.
+
+  Recipient contribution. Recipient contribution was not planned at appraisal. There was no recipient
+  contribution during implementation.
+
+  Dates. The project was approved on July 16, 2014, became effective on January 22, 2015, and was
+  scheduled to close on December 31, 2019. However, the project closed 21 months behind schedule on
+  September 30, 2021.
+
+
+
+
+                                                                                                     Page 3 of 16
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Central African Backbone SOP5 (P132821)
+
+
+
+   Other changes. There were four Level 2 restructurings during the project lifetime.
+
+   The significant changes made through the first restructuring on March 7, 2019.
+
+         By the Mid Term Review in March 2018, there was no disbursements to the fiber investment link
+          activity (component two), due to the delays in the Government enacting a new Telecom Law (a
+          disbursement condition). To start the construction of the first link, works for component B was split
+          into two categories, construction of the western cluster in Kinshasa region (category a)
+          and the eastern and southern cluster in Goma and Lubumbashi (category B). New disbursement
+          conditions were specified for each category. The disbursement condition for category was
+          promulgation of the new Telecom Law, and for category b the Government was to sign
+          a Cooperation Agreement with the Congolese Optical Fiber Company (SOCOF) for the PPP launch.
+         The closing date was extended by a year from December 31, 2019, to December 31, 2020, for
+          completing the infrastructure links and completing the PPP arrangements.
+         Project costs were reallocated between components in view of the fluctuations in the SDR exchange
+          rate since the start of the project.
+
+   The following significant changes were made through the second project restructuring on July 23, 2030.
+
+         The promulgation of the telecom was further delayed to the point that completing the links to the
+          Southern and Eastern Regions was no longer feasible. The project therefore cancelled this activity.
+         Some component A activities were cancelled: (i) The installation of the e-center was cancelled as
+          the Government was not able obtain land for constructing the center; (ii) The installation
+          of equipment for a government intranet was cancelled as there was not enough time for acquiring
+          the equipment from the ministries concerned; and (iii) The length of the fiber optic link was reduced
+          from the originally planned 3,400 to 620 km, as the links to the eastern and southern regions were
+          cancelled.
+         US$36.4 million (39.5% of the IDA Grant) was cancelled from this project for financing an upcoming
+          COVID -19 emergency response Development Policy Operation.
+
+   The following change was made through the third restructuring on December 22, 2020.
+
+   The closing date was extended by about six months from December 31, 2020 to June 18, 2021 for two
+   reasons. One, the borders of DRC borders were closed between March to June 2020 in the wake
+   of the COVID- 19 pandemic. This made it difficult to import equipment or bring experts from outside the
+   country. and two, delays in finalizing the PPP, due in part to the uncertainties related to the promulgation of
+   the new telecom law and the poor enabling environment that made it less attractive to operators.
+
+   The following change was made through the fourth restructuring on June 15, 2021.
+
+   Although the Kinshasa - Muanda link was complete, selection of the private operator (under a PPP
+   arrangement) to manage the infrastructure was still pending. Therefore, the closing date was extended by
+   about three months from June 18, 2021, to September 30, 2021.
+
+
+
+
+3. Relevance of Objectives
+
+                                                                                                     Page 4 of 16
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Central African Backbone SOP5 (P132821)
+
+
+
+
+Rationale
+Country context. DRC is one of the poorest countries in the world, with over 70% of population living
+classified a living below the poverty line. Protracted civil wars and mismanagement had deeply
+impoverished its population and destroyed its infrastructure. As a result, the World Bank classifies DRC as
+a fragile state, due to its institution's weakness. The Information and Communication Technology (ICT)
+sector could potentially play an important role in DRC's growth prospects, as estimates in the Central
+African Region showed that a 10% increase in mobile penetration could raise Gross Domestic Product
+(GDP) per capita by as much as 4.6%.
+
+Sector context. The telecommunications sector in DRC was vibrant with six mobile operators and mobile
+penetration rate had increased from below 1% in 2000 to 30% by 2010. The sector was
+however fragmented with disparate wireless, copper and fiber optic cable networks operating in different
+parts of the large country. Existing networks were concentrated in the three largest clusters of Kinshasa,
+Goma and Lubumbashi. Operators neither had the resources nor incentives to extend their network. A call
+originating from Goma to Lubumbashi either had to go through a satellite service, or
+routed internationally, resulting in higher prices for consumers. Just 2% of the population were using the
+Internet at appraisal, due to the prohibitive prices as a result of the high bandwidth cost of about US$4,000
+to US$5,000 per Megabyte per second (Mbps) compared to US$500 per Mbps in East
+Africa. Fixed broadband in DRC had a penetration rate of only 0.4%, compared to the regional average of
+6.7%. It was hence important for the Government to increase the geographical reach and usage of regional
+broadband infrastructure and reduce the prices of ICT to enable more people access to ICT services.
+
+Government strategy. The PDOs were well-aligned with the Government's national priorities articulated in
+the: (i) the 2012-2016 Government's Action Program based on the 2009 Letter of Sector Policy; (ii) the Plan
+National de Numerique Horizon 2025; (iii) the strategy of the current government; and (iv) the National
+Backbone Development Plan of the MINPTNTIC. This plan comprised five construction phases. The first
+phase Muanda - Kinshasa (650 km) was built during 2013, but was not fully operational when this project
+was appraised. The South African Power Market Pool (SAPMP) project contributed to the second phase of
+the national plan and the current project planned to contribute to the third phase of the plan (with the link to
+the eastern and southern region).
+
+Bank country and regional strategy. The PDO was well-aligned with the Bank's Country Assistance
+Strategy (CAS) for 2013 -2016 at appraisal. The CAS highlighted the need for improving access to quality
+broadband network and services through reducing the prices of ICT services. The ICR (paragraph 34)
+notes that the 2013-2016 had not been updated when this project closed. The Bank's Country Partnership
+Framework for DRC for 2022 - 2026 is currently under preparation. The PDO was well-aligned with the
+Bank's 2013 regional report, "Reviving the Great Lake: A World Bank Group Regional Initiative for Peace,
+Stability and Economic Development". The second pillar of this report centered on Economic Cooperation
+and Regional Integration noted that all countries have a common interest in developing infrastructure for
+increasing regional connectivity. The report also mentioned that the CAB5 project would, besides
+establishing communication links connecting the eastern DRC to Kinshasa, also increase DRC's
+connectivity both regionally and globally.
+
+Previous Bank experience. The World Bank had supported the telecom sector in DRC through technical
+assistance activities in the past. This included; (i) assisting in creating a regulatory authority through the
+Private Sector Competitiveness project; (ii) through policy dialogue for supporting the adopting the Letter of
+Sector Policy from 2009 to 2012; (iii) supporting the MINPTNTIC in developing the ICT strategy and policy,
+
+                                                                                                      Page 5 of 16
+                                      Independent Evaluation Group (IEG)                         Implementation Completion Report (ICR) Review
+                                      Central African Backbone SOP5 (P132821)
+
+
+
+               and Broadband strategy; and (iv) supporting the Government in revising the legal and regulatory framework
+               for the ICT sector.
+
+               This project was the fifth phase of the Central African Backbone (CAB-SOB 5) program, aimed at
+               increasing the geographical reach and usage of regional broadband network services and reducing their
+               prices in the Democratic Republic of Congo (DRC). The other countries in the program were Cameroon,
+               Central African Republic, Chad, Sao Tome and Principe, Republic of Congo and Gabon. The scope of
+               project activities was similar to that in the other countries, which were ongoing when this project was
+               prepared. The PDOs remained highly relevant to the Government and Bank strategy for DRC throughout
+               implementation and continues to be relevant to date. Therefore, the relevance of the PDO is assessed as
+               high.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To contribute to increase geographical reach of regional broadband network services.
+
+                             Rationale
+                             Theory of change. The project activities included infrastructure investments and capacity building
+                             activities. Deploying missing links in the national fiber optic network can be expected to connect DRC's most
+                             populated economic clusters of Kinshasa (West), Goma (East) and Lubumbashi (South), and thereby enable
+                             the telecom operators to offer seamless services nationwide. Establishing three neutral carriers, regional
+                             Internet Exchange Points (IXPs) and interregional links to neighboring countries were aimed at faster and
+                             cheaper exchange of local traffic and improved access to national and regional connectivity. Given that
+                             neither the Government nor the private operators had the financial capacity on their own to support the high
+                             upfront cost, capacity building activities under this project aimed at establishing PPP arrangements to foster
+                             competition in the sector. The outputs of these activities were expected to contribute to the intended objective
+                             of increasing the geographical reach of regional broadband networks in DRC.
+
+                             The intended outcomes are based on the following assumptions. (1) The Government enacts the new
+                             Telecom Law. (2) Capacity building activities to the MINPTNTIC and ARPTC are carried out; (3) DRC and the
+                             neighboring countries sign a Memorandum of Understanding for implementing a regional connection regime:
+                             and (4). The Government implements the PPP arrangement for managing the CAB5 infrastructure.
+
+                             However, the linkages between the activities, outputs and outcomes were weak. Although the intended
+                             outcomes was realized, it was not attributable to the project and due to external factors outside the control of
+                             the project in the ICT sector (discussed below).
+
+
+                                                                                                                                Page 6 of 16
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   Central African Backbone SOP5 (P132821)
+
+
+
+Outputs (pages 33 - 36 and 39 - 40).
+
+      A 620 fiber optic link between Kinshasa and Muanda (western link) was completed by the Congolese
+         Optical Fiber Company (SOCOF) when the project closed, as per the revised target. This was
+         however far short of the original target of 3,400 km link (discussed below).
+        A PPP contract was signed with an Angolan-Congolese Consortium to operate the link.
+         However, although the western link was completed, the link was not operational due to the delays in
+         finalizing the PPP contract when the project closed and the link was not connected to the Muanda
+         Landing Station. The team clarified that the PPP arrangement is likely to be commercialized by
+         September 2022.
+        The project provided capacity building and TA for promoting Open Access and wholesale pricing
+         regime, and to develop regulatory tools for the broadband market. The ICR notes that when the ICR
+         was prepared, the Open Access Policy for new and existing framework was pending approval.
+        The rollout of 4G and the widespread adoption of smartphones increased the speed of broadband
+         available to mobile customers.
+        141 people were trained under this project, exceeding the target of 100.
+        The project was however unsuccessful in increasing the geographic reach of broadband services in
+         the Eastern and Southern economic clusters, and in establishing the link to East Africa to access the
+         submarine cables off the east coast. The ICR also notes that the project was not able to establish
+         Memorandum of Understanding with neighboring countries in the East.
+        Private capital was not mobilized as intended, as the PPP contract was still pending when the project
+         closed.
+
+Outcomes.
+
+The project outputs were expected to increase the geographical reach of mobile services in DRC.
+
+      When the project closed, 60 percent of the population had access to mobile services, exceeding the
+         target of 50%. However, this outcome was not attributable to the project activities, given that the fiber
+         optic link between Kinshasa and Muanda was not operational when the project closed. The ICR
+         (paragraph 39) notes that in the meantime, private operators (Vodacom and Airtel) had built an
+         additional fiber link between Kinshasa and Muanda that is connected to the SCPT's landing station in
+         Muanda. This makes it unlikely that the operators will use the SOCOF link in the immediate future.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 2
+Objective
+To contribute to increasing the usage of regional broadband network services.
+
+Rationale
+Theory of change. The theory of change for this objective is the same as the one under the first objective.
+
+
+                                                                                                     Page 7 of 16
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Central African Backbone SOP5 (P132821)
+
+
+
+Outputs.
+
+In addition to the outputs described above, the following output was relevant to this objective.
+
+      Technical Assistance (TA) was provided to the MINPTNTIC and ARPTC for strengthening the legal
+       and regulatory framework in DRC in areas such as spectrum management, network integrity and
+       cybersecurity. This had a positive effect on development of 3G in DRC which had a penetration on
+       July 1, 2021.
+
+Outcomes.
+
+The outputs were expected to contribute to increasing the usage of regional broadband infrastructure.
+
+      The usage of internet services (mobile subscribers) increased significantly during the project. The
+       indicator was achieved at 115% of the target. However, the ICR (page 20) notes that during this
+       period, several other investments in broadband infrastructure were ongoing, giving the market various
+       connectivity options. Also the western link was not operation when the project closed. Hence the
+       realized outcome were not attributable to the project.
+      There were no direct project beneficiaries as the infrastructure was not yet operational at project
+       closure.As the usage of internet services were not attributable to the project, efficacy of this PDO is
+       modest.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 3
+Objective
+To contribute to reducing the price of services.
+
+Rationale
+Theory of change. The capacity building activities aimed at establishing PPP arrangements were expected
+to facilitate competition between the operators at the national level. Increase in competition and economies of
+scale was expected to lead to the intended outcome of reducing the price of internet services.
+
+Outputs.
+
+The output described above were also relevant to this objective.
+
+Outcomes.
+
+The retail internet prices (for mobile subscribers) did fall substantially from about US$2,000/month at the
+beginning of the project to US$123/month when the project closed. This outcome however was not
+attributable to the project, since the western link was not operational when the project closed.
+
+
+
+                                                                                                   Page 8 of 16
+                                Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                                Central African Backbone SOP5 (P132821)
+
+
+
+
+                            Rating
+                            Modest
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The realized outcomes were not fully attributable to the project activities, as the western link was not yet
+                            operational when the project closed.
+
+
+
+                            Overall Efficacy Rating                                    Primary Reason
+                            Modest                                                     Low achievement
+
+
+    5. Efficiency
+   The World Bank research on the economic multiplier effect of increased broadband penetration rates and
+   estimated broadband penetration rate with and without the project at appraisal, indicated that the CAB5 will
+   increase the Gross Domestic Product (GDP) in DRC by an annual average comprised between 0.61 and 0.68
+   points over the first five years of the CAB project. When the project closed, no project-supported infrastructure
+   investment was operational. Hence, there was no updated economic analysis was conducted when the project
+   closed (ICR, paragraph 46).
+
+   The cost of construction of the 620 km of fiber in the western cluster was about US$27,000 per km, including
+   civil works. The ICR (paragraph 47) notes that this was in line with international estimates for an underground
+   link covering broadly similar terrain routes and was substantially lower than the price paid by the Congolese
+   Post and Telecommunication Company (SPCT) for the previous link on the same route.
+
+   Administrative and operational shortcomings. There were several shortcomings during implementation. The
+   activity associated with the construction of western link was stalled due to the delays in the promulgation of the
+   new telecom law. As a result, there was no disbursement for this link till the Mid-Term Review of the project in
+   March 2018. Even though the link was completed when the project closed, it was not operational. This made it
+   difficult to attribute the results to the project and quantify the number of direct project beneficiaries. Several of
+   the intended project activities (such as, the construction of the e-waste center, purchase and installation of
+   equipment for the Government Intranet and the fiber optic link to the Eastern and Southern region were
+   dropped. The PPP arrangement was still be finalized when the project closed. About US$36.4 (representing
+   about 40% of the grant of US$91.0 million was cancelled and diverted to another project. About US$8.78 was
+   undisbursed by the end of the project and the project closed 21 months behind schedule (although this was
+   partly due to the restrictions in the wake of the COVID -19 pandemic.
+
+   In sum, efficiency is assessment as modest in view of the administrative and operational shortcomings during
+   implementation.
+
+
+
+
+                                                                                                                                 Page 9 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Central African Backbone SOP5 (P132821)
+
+
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?            Point value (%)          *Coverage/Scope (%)
+                                                                                   0
+ Appraisal                                                0
+                                                                                    Not Applicable
+                                                                                   0
+ ICR Estimate                                             0
+                                                                                    Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The PDOs remained highly relevant to the Government and the Bank strategy for DRC throughout
+implementation and continues to be relevant to date. Efficacy of the three objectives - increasing the
+geographical reach of broadband network services, increasing the usage of broadband network prices and
+reducing the prices of broadband services are rated as modest. Although the outcomes were realized, they
+were not fully attributable to the project. Efficiency is rated as modest in view of the administrative and
+operational shortcomings, which contributed to the non-completion of many activities.
+
+
+a. Outcome Rating
+   Moderately Unsatisfactory
+
+
+7. Risk to Development Outcome
+
+Financial risk. This project was intended to aid in commercializing the new link between Kinshasa and
+Muanda through a PPP arrangement. The PPP arrangement was not finalized when the project closed. The
+ICR (paragraph 86) notes that the PPP arrangement was designed to ensure that once operational, the new
+link will be maintained and that the future operating expenses of the link should be covered by the revenues
+of the PPP arrangement. The ICR also notes that the precise arrangements for interconnecting the link into
+the broader network will be the responsibility of the new PPP concessionaire. However, given that PPP
+arrangements are still pending, there is a modest financial risk.
+
+
+
+
+                                                                                                  Page 10 of 16
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Central African Backbone SOP5 (P132821)
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The Bank prepared this project based on the experiences from current DRC projects and from other
+  countries where PPP were established in telecommunication projects. Lessons incorporated at design
+  included: (i) open access is essential for the project is to have impact on the sector; and (ii) public
+  investment in backbone infrastructure may be required in environments where no operator has either the
+  capacity or the incentive to invest in disparate links at the national level. The design included a Project
+  Preparation Grant (PPG) of US$4.0 million for activities associated with establishing the PPP
+  arrangements, identifying the network investments to be funded under the project, and preparing
+  appropriate safeguard instruments. The arrangements made at appraisal for M&E and safeguards and
+  fiduciary compliance were appropriate (discussed in sections 9 and 10).
+
+  There were significant shortcomings in Quality-at-Entry. One, the time span of seven months for finalizing
+  the activities associated with the PPG was too short in the country context. Two, there was not adequate
+  consideration of political economy considerations at design. It is not clear if lessons from the earlier CAB
+  projects in Cameroon and Republic of Cameroon were incorporated at design given that these countries
+  had similar political economy contexts. Three, although several risks were identified at appraisal, the
+  mitigation measures proved to be inadequate. For instance, the delays in promulgation of the new
+  telecom Law (a disbursement condition) contributed to the limited disbursements in the earlier years of
+  the project. This also caused delayed in implementing the western link and finally led to the reduction in
+  project scope. There were difficulties in finalizing the PPP arrangements. The selection of the PPP
+  contract took a total of twenty months from the time pre-qualification was launched in July 2020 to when
+  the contract was finally signed in March 2022. There were challenges associated with restructuring of
+  State-owned Congolese Post and Telegraph Company (SPAT).
+
+
+
+  Quality-at-Entry Rating
+  Moderately Unsatisfactory
+
+
+b. Quality of supervision
+ Fourteen supervision missions were conducted during the project lifetime of approximately eight years
+ (implying twice a year mission on average). The formal missions were complemented by close remote
+ support. The supervision team provided technical and relevant policy advice and responded to the
+ Government's request for four restructurings in a timely manner (ICR, paragraph 82). The Bank also too
+ advantage of the first restructuring to partially relax a key legal covenant which allowed for the construction
+ of a new fiber link between Kinshasa and Muanda to proceed. The Bank also provided technical assistance
+ to help the Government in implementing the PPP arrangement. According to the clarifications provided by
+ the team, the continuity of leadership was maintained throughout the project. The leadership was initially
+ based in Washington DC, which then moved to Brazzaville, Ouagadougou and back to Washington DC
+ and finally moved to Kinshasa at the close of the project.
+
+ There were moderate shortcomings in supervision. One, recruitment of additional, full time staff technical
+ staff and digital experts early on could have helped in overcoming some of the challenges during
+ implementation. and two, although the Bank team provided written and verbal recommendation to the
+
+                                                                                                    Page 11 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Central African Backbone SOP5 (P132821)
+
+
+
+ Project Implementation unit when issues were noted in fiduciary management, a closer, in-person follow up
+ could have helped in addressing these issues quickly.
+
+ In sum, overall Bank performance is assessed as moderately unsatisfactory because of the significant
+ shortcomings at Quality-at-Entry.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Unsatisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The key outcome indicators for this project were the same as the outcome indicators for the regional CAB
+ program and were standard quantitative ones that related to geographical reach, usage, and prices of
+ regional broadband network series. However, the ICR (paragraph 66) notes that in this case, the scale of
+ the project activities was modest in comparison to the ICT and broadband investment needs of the country,
+ and a large amount of private investment in the ICT sector was also taking place at the same time. For
+ example, one of the mobile network operator, Airtel had already invested more than IS$ one billion in DRC.
+ Therefore, the extent to which the project outcomes were attributable to the project activities is uncertain
+ and probably quite low. However, this was explicitly recognized in the PDO which clearly specified that the
+ project would aid in contributing to the PDOs. The sector's regulator, the Post and Telecommunication
+ Regulatory Authority of Congo (ARPTC) was responsible for collecting the data for monitoring results.
+
+ There were some shortcomings in M&E. There were no appropriate indicators for the capacity building
+ activities provided under the project. There was inconsistency in the name of the PDO 2 (price of services)
+ indicator.
+
+
+
+b. M&E Implementation
+  The ICR (paragraph 67) notes that the M&E baseline data and actual values were collected in a
+  methodically sound manned. ARPTC collected the relevant data in the context of its market oversight
+  duties and obtained reliable information directly from the operators.
+
+
+
+c. M&E Utilization
+  The M&E findings were disseminated to the stakeholders by the Project Implementation Unit. The ICR
+  notes that ARPTC continued to collect relevant data beyond the project's closing date.
+
+
+
+
+                                                                                                  Page 12 of 16
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Central African Backbone SOP5 (P132821)
+
+
+
+  In sum, M&E is rated as modest as the PDO was not clearly stated, and the attribution of project
+  activities to the defined outcomes was not apparent.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as a Category B (partial assessment) project under the World Safeguard policies,
+   triggering five safeguard policies at appraisal: Environmental Assessment (OP/BP 4.01); Natural Habitats
+   (OP/BP 4.04); Physical Cultural Resources (OP/BP 4.11); Indigenous Peoples (OP/BP 4.10); and
+   Involuntary Resettlement (OP/BP 4.12).
+
+   Environmental Assessment, Physical Cultural Resources and Natural Habitats. Adverse
+   environmental impacts such as waste management were expected from project activities. These impacts
+   were however expected to be limited and site-specific (PAD, paragraph 78). Since the exact location
+   of activities was not known at appraisal, the Government prepared and publicly-disclosed an Environmental
+   and Social Management Framework (ESMF) for addressing such impacts. The ESMF contained
+   measures for addressing physical cultural resources and natural habitats safeguards (PAD, paragraph 79).
+   The ICR (paragraph 71) notes than an Environmental and Social Management (ESMP) was produced and
+   publicly-disclosed during implementation.
+
+   The ICR (paragraph 72) notes most of the actions in the ESMF reports were implemented
+   satisfactorily. However, the project's performance on safeguards was rated as moderately unsatisfactory at
+   closure, due to the one outstanding Occupational Health and Safety (OHS) incident, involving a serious
+   traffic accidents which caused two fatalities. Compensation to the families was still pending when the project
+   closed. The ICR notes that the Bank will continue following up with the recipient on this pending case to
+   ensure its resolution and closing as soon as possible. The team clarified that this case is yet to be resolved.
+   According to the clarifications provided by the team there were no issues with the safeguards on physical
+   cultural resources and natural habitats.
+
+   Involuntary Resettlement. The Government prepared and publicly-disclosed a Resettlement Policy
+   Framework (RPF) at appraisal for addressing land acquisition and resettlement issues (PAD, paragraph
+   79). The ICR (paragraph 71) notes that a Grievance Redress Mechanism (GRM) was created, with 56
+   complaints registered since the start of the project. The ICR notes that all were dealt with when the project
+   closed.
+
+   Indigenous Peoples. The Government prepared and publicly-disclosed an Indigenous People Planning
+   Framework (IPPF) at appraisal for addressing indigenous peoples issues. The team clarified that the
+   project was implemented only in the West Cluster (Kinshasa - Kongo Central). There were no indigenous
+   people in this cluster.
+
+
+
+
+                                                                                                   Page 13 of 16
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Central African Backbone SOP5 (P132821)
+
+
+
+
+b. Fiduciary Compliance
+   Financial assessment. An assessment of the financial management arrangements of the implementing
+   agency was conducted at appraisal. The assessment concluded that the financial arrangements including
+   the mitigation measures were adequate for meeting the Bank's requirements. The assessment concluded
+   that the financial risk was assessed as substantial at appraisal.
+
+   The ICR (paragraph 74) notes that the financial risk was raised to High during implementation. The
+   financial management was rated as moderately unsatisfactory. The key issues were the low budget
+   execution rate, frequently delayed submission of the Interim Financial Report and qualified audit opinion.
+   The auditor identified ineligible expenses (of US$1,714,691) and cases of mismanagement of project
+   assets. During another review of supporting documentation randomly selected by the Financial
+   Management specialists, the team identified ineligible expenses of US$135,843.29. The ICR notes that
+   a formal communication will be send to the Government on the ineligible expenses. The ICR notes that
+   finalization of the audit findings is pending at this stage. The team clarified that the Bank has to date
+   initiated the ineligible expenditure declaration/notification to the Government.
+
+   Procurement. The Bank conducted an assessment of the implementing agency's procurement
+   arrangements at appraisal. The assessment concluded that the unmitigated procurement risk was
+   substantial (PAD, page 54).
+
+   The ICR (paragraph 75) notes that procurement was rated as satisfactory until January 2020 when it was
+   downgraded to moderately unsatisfactory. This was due to the fact that for the built fiber infrastructure
+   between Kinshasa and Muanda the procedure for recruiting the PPP operator was still in process even at
+   the closing date (although the contract was signed in March 2022). The ICR does not report any case of
+   mis procurement.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   The ICR does not report of any unintended impacts.
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                 Reason for
+Ratings                         ICR                   IEG
+                                                                                 Disagreements/Comment
+                                Moderately           Moderately
+Outcome
+                                Unsatisfactory       Unsatisfactory
+                                Moderately           Moderately
+Bank Performance
+                                Unsatisfactory       Unsatisfactory
+                                                                                 The PDO was not clearly stated,
+Quality of M&E                  Substantial          Modest
+                                                                                 and the attribution of project
+
+
+                                                                                                   Page 14 of 16
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       Central African Backbone SOP5 (P132821)
+
+
+
+                                                                                 activities to the defined
+                                                                                 outcomes was not apparent.
+Quality of ICR                   ---                  Substantial
+
+
+12. Lessons
+
+The ICR draws the following main lessons from the experience of implementing this project, with
+some adaptation of language.
+
+1. Political economy considerations need to be carefully considered while designing
+disbursement conditions. It is important to take into account political realities in the country before
+complex and potentially unimplementable reforms are included as disbursement conditions in an
+investment project. The imposition of sub-optimal conditions can reduce flexibility and limit
+implementation options. This may be particularly relevant in fragile environments and in a fast-
+evolving sector with high private sector participation like the ICT sector.
+
+2. An Investment Project Financing (IPF) may not necessarily be the right vehicle for
+adopting major sector reforms. The enactment of a new telecom law is subject to may
+uncertainties beyond the direct control of an investment lending project. Other Bank instruments
+such as the Development Policy Operations (DPOs) and Disbursement-Linked Indicators (DLIs),
+may be appropriate for advancing sector reforms.
+
+3. Ideally Bank financing for investments need to be used in areas where commercial
+incentives are insufficient to attract large-scale private investments. In this project, by the time
+the link was built, grant funding was used for constructing a long route that was commercially viable.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is well-written. It candidly discusses the issues surrounding the promulgation of the new telecom law,
+which led to the non-completion of many activities. It also candidly discusses the political economy
+considerations. The theory of change presented in the text is logical and shows clear links between project
+activities, outputs and outcomes. The evidence provided in the text is adequate to justify the ratings. The ICR
+draws good lessons from the experience of implementing this project.
+
+There are minor shortcomings. The information provided in the text on compliance with environmental and
+other safeguards is sparse . The ICR could have provided more information on the continuity of leadership. This
+information was however subsequently provided by the team.
+
+
+
+
+                                                                                                    Page 15 of 16
+  Independent Evaluation Group (IEG)        Implementation Completion Report (ICR) Review
+  Central African Backbone SOP5 (P132821)
+
+
+
+a. Quality of ICR Rating
+   Substantial
+
+
+
+
+                                                                         Page 16 of 16
+

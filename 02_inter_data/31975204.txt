@@ -1,0 +1,787 @@
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     KI: Telecomms and ICT Development (P126324)
+
+
+
+                                                                                    Report Number: ICRR0022001
+
+1. Project Data
+
+
+
+ Project ID                                  Project Name
+ P126324                                     KI: Telecomms and ICT Development
+
+ Country                                     Practice Area(Lead)
+ Kiribati                                    Digital Development
+
+
+ L/C/TF Number(s)                            Closing Date (Original)                 Total Project Cost (USD)
+ IDA-H7800,TF-11213                          30-Jun-2017                                             5,134,205.18
+
+ Bank Approval Date                          Closing Date (Actual)
+ 26-Jul-2012                                 30-Jun-2019
+
+                                             IBRD/IDA (USD)                                       Grants (USD)
+
+ Original Commitment                              1,000,000.00                                       4,100,000.00
+
+ Revised Commitment                               5,100,000.00                                       4,100,000.00
+
+ Actual                                           5,134,205.18                                       4,100,000.00
+
+
+
+
+ Prepared by                 Reviewed by                   ICR Review Coordinator           Group
+ Peter Nigel Freeman         Ebru Karamete                 Ramachandra Jammi                IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The project development objective (PDO) in the financial agreement (page 5) is used in this review. It was to
+   strengthen the legal, regulatory and institutional environment enabling a market-driven telecommunications
+   sector, and facilitating improved connectivity for the Outer Islands in the Recipient's territory. This was almost
+   identical to the PDO stated in the Project Appraisal Document [PAD] (page 6).
+
+
+
+
+                                                                                                      Page 1 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     KI: Telecomms and ICT Development (P126324)
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component 1. Information and Communications Technologies (ICT) Policy and Legal Support
+   (Original Budget of US$1.30 million, US$1.20 million at closing) Under this component, the project delivered
+   assistance to the Ministry of Communications, Transport and Tourism Development (MCTTD) to carry out
+   work in the following areas:
+
+   a) ICT policy review and coordination; b) transformation of Telecom Services Kiribati Ltd. (TSKL); and c)
+   legal and regulatory advice.
+
+   Component 2. ICT Regulatory Support (Original Budget of US$1.20 million, US$1.20 million at closing)
+
+   This component established a medium-term program of technical assistance and capacity-building
+   (including on the job and formal training) for the Telecommunications Authority of Kiribati (TAK) [and later
+   the Communications Commission of Kiribati (CCK) after a name change] in the following areas:
+
+   a) New market entry; b) general regulatory support; and c) technical management and training.
+
+   Component 3. Outer Islands Connectivity (Original Budget of US$2.20 million, US$2.10 million at
+   closing) This phase consisted of:
+
+   a) Phase 1: Provided technical assistance to MCTTD and CCK; and b) Phase 2: Provided Outer
+   Islands connectivity subsidy for new infrastructure and service delivery projects for the Outer
+   Islands identified in Phase 1, using an output-based aid approach.
+
+   Component 4. Project Management (Original Budget of US$0.40 million, US$0.60 million at closing)
+   Overall project administration and fiduciary matters including procurement.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost: The original cost was US$ 5.10 million and the final amount actually disbursed was US$ 5.13
+   million.The difference was due to a change in the exchange rate between the SDR and the US$.
+
+   Financing: Consisted of an IDA grant of US$ 1.00 million (IDA-H7800) and co-financing of US$ 4.10
+   million from the Governments of Australia (US$ 3.1 million) and New Zealand (US$ 1.0 million) through the
+   Pacific Region Infrastructure Facility Trust Fund (TF-11213).
+
+   Borrower Contribution: There was no Borrower contribution.
+
+   Dates:The project was approved on July 26, 2012, became effective on November 9, 2012 and was
+   originally scheduled to close after five years on June 30, 2017. However, the project was extended by two
+   years due to the need for further capacity building at MCTTD and CCK, delays in privatizing TSKL, and in
+
+                                                                                                     Page 2 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     KI: Telecomms and ICT Development (P126324)
+
+
+
+   making Ocean Link operational, as well as changes to the implementation of the Outer Islands Connectivity
+   Program (OICP).
+
+   Restructuring: The date changes above were made through a level 2 restructuring on May 2, 2017, with
+   agreement from the Governments of Australia and New Zealand.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country Context:
+
+The Republic of Kiribati was one of the most remote and geographically dispersed countries in the
+world. The population at project appraisal was 92,000 spread over 22 coral atolls and a single volcanic
+island. The capital of South Tarawa was the most populated island with approximately 40,000 people. "One
+of the main challenges facing Kiribati was how to overcome its remoteness by developing the basic
+infrastructure it needed to connect its people domestically and internationally" (ICR paragraph 1). Kiribati
+has few natural resources and was one of the least developed Pacific Islands. Its economy was dominated
+by the public sector (public expenditure was equal to 86 percent of gross domestic product). The
+Government was heavily reliant on aid from development partners, as well as volatile fishing license fees,
+and draw-downs from a trust fund that was established with revenues from the exploitation of now-depleted
+phosphate deposits. "Strengthening the poorly-performing state-owned enterprise sector was a central
+focus of ongoing reform efforts". (ICR, paragraph 1)
+
+Sector Context:
+
+The ICR stated that "Kiribati was one of the least “connected” countries in the world. At appraisal, much of
+the population either had no access to ICT or, if they lived within range of the existing, unreliable
+networks, often could not afford the service (ibid, paragraph 3). About 40 percent of the population relied
+entirely on public access (radio, satellite-based telecenters). Broadband internet penetration at appraisal
+was less than one percent of the population. Almost all telecommunications subscribers and individual
+users were on South Tarawa (20 percent mobile teledensity) and Kiritimati (13 percent mobile teledensity).
+The sole service provider at the time, Telecommunication Services Kiribati Ltd (TSKL), had planned to
+expand mobile network expansion to some of the Outer Islands close to South Tarawa. However,
+projections at the time indicated that fixed and mobile teledensity in Kiribati would not exceed 20 percent by
+the end of 2012, which was low by both global and regional standards. Initial attempts to introduce
+competition through direct negotiation with prospective suppliers did not make much progress" (ICR
+paragraph 3). The ICR also noted that "After a review of options, and with technical assistance support
+through the World Bank and the Australian Agency for International Development (AusAID), the
+Government of Kiribati (GoK) decided on a more comprehensive reform program to prepare a new policy
+and legal framework, which would set the stage for a competitive market and provide the required
+regulatory mechanisms". (ICR, paragraph 6)
+
+Strategic Relevance:
+
+
+
+                                                                                                    Page 3 of 15
+                       Independent Evaluation Group (IEG)            Implementation Completion Report (ICR) Review
+                       KI: Telecomms and ICT Development (P126324)
+
+
+
+The PDO aligned well with the Bank’s Regional Partnership Strategy (RPF), FY17–FY21, in particular
+objective 4.2: “Increased access to basic services and improved connective infrastructure”, which
+identified that mobile phone coverage was critical to help remote communities become connected.
+Technology was also key to developing tourism, better disaster management, and facilitating access to e-
+services, especially e-commerce. The rationale for the Bank’s shift to a RPF for Kiribati [and eight other
+smaller islands in the region] was based on issues of scale and because of similarities in the types of
+challenge being faced. The RPF indicated that the Bank would continue to support legal and regulatory
+reform to improve the enabling environment for private investment in ICT infrastructure and also to assist in
+providing catalytic financing for “backbone” infrastructure, such as submarine cables and satellite
+connections providing international connectivity, as well as applications that use new ICT infrastructure.
+Such infrastructure was pertinent for the expansion of the tourism industry, fisheries management, labor
+mobility and disaster risk management response and mitigation, particularly for the Outer Islands, where
+there was minimal communications infrastructure.
+
+The PDO according to the ICR (page 9) was in line with the development objectives of Kiribati's partners,
+which had earlier provided assistance to help improve the ICT sector, and in doing so helped lay the
+groundwork for the project. The project was supported through a partnership arrangement between the
+Bank, and the Governments of Australia and New Zealand. AusAID - now the Department of Foreign Affairs
+and Trade (DFAT) - had worked together closely with the Bank in support of telecommunications reform in
+the Pacific for several years. DFAT provided financing, through the Pacific Region Infrastructure Facility
+(PRIF), to support the Bank’s advisory assistance program, both country-specific and regional. DFAT and
+the Bank also collaborated on the preparation of analytical work on the Pacific connectivity challenges. The
+project built on the strength of this relationship: DFAT through PRIF, co-financed this operation through
+a recipient-executed trust fund.
+
+The relevance of this project and its PDOs to the broader ICT landscape in Kiribati was also being
+demonstrated through the implementation of another Bank-financed project, the Kiribati Connectivity Project
+(P159632). This is part of Phase 4 of the Pacific Regional Connectivity Program and will connect Kiribati to
+the rest of the world via a submarine fiber cable. This development, when completed, was expected to
+significantly reduce the cost of international connectivity, as well as facilitate further growth of demand
+through a reduction of prices. Further technical assistance financed by the project was to be provided to
+CCK in the areas of licensing, interconnection and access, and landing party agreements, including any
+implementing or ancillary regulatory instruments ensuring cost based, non-discriminatory and open access
+to capacity.
+
+The Kiribati Telecommunications and ICT Development Project depended on other projects for its ultimate
+success. It was, moreover, unlikely to completely realize its full potential because of the absence of the
+prerequisite technical competencies to maximize the full benefits, despite activities related to capacity
+building and knowledge transfer integral to the project. For this reason relevance was substantial rather
+than high.
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+Substantial
+
+
+4. Achievement of Objectives (Efficacy)
+
+                                                                                                   Page 4 of 15
+                  Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                  KI: Telecomms and ICT Development (P126324)
+
+
+
+
+EFFICACY_TBL
+
+
+
+
+               OBJECTIVE 1
+               Objective
+               Strengthen the legal, regulatory and institutional environment enabling a market-driven telecommunications
+               sector.
+
+               Rationale
+               The Theory of Change was that legal and regulatory reforms and institutional capacity building ensure
+               transition from a monopoly (state-owned incumbent operator) to a market-based private sector driven and
+               competitive telecommunications sector, that would mean better service for the users, leading to greater use
+               of internet and mobile services and ultimately to improved economic growth and a reduction in poverty.
+
+               Outputs:
+
+                     Telecom Services of Kiribati Ltd (TSKL) was transformed to Amalgamated Telecom Holdings Kiribati
+                        Ltd. (ATHKL); target achieved.
+                       Sector laws and rules were updated in line with the revised Government policy in order to make the
+                        legal and regulatory framework more effective in delivering sector performance. The Communications
+                        Act was amended and the Communications Commission of Kiribati's accountability was completed.
+                        The National ICT policy 2019 was developed and endorsed by the Cabinet; target achieved.
+                       The existing policy was reviewed and revised to improve ICT policy making capacity. It was endorsed
+                        by the Cabinet; target achieved.
+                       Reform of spectrum management was mostly achieved: Baseline - management plan designed for
+                        single operator; a new spectrum management system has been purchased and is operational but staff
+                        still require more training (partly due to staff turnover); target mostly achieved.
+                       Updated telephone numbering plan was adopted: An eight-digit numbering plan is now operational;
+                        target achieved.
+                       Interconnection regime was adopted: Baseline no regime. Interconnection and access rules finalized
+                        and approved; target achieved.
+                       Dispute and mediation measures were put in place: The baseline was 'no mechanism in place',
+                        Consumer protection rules were finalized and consumer protection is now in place; target achieved.
+                       Number of direct beneficiaries (including % female): Baseline zero; target 40,000; actual 93,615. It
+                        was not possible to dis-aggregate the number of beneficiaries by gender; target exceeded.
+
+               While the legal and regulatory environment was strengthened the institutional environment required further
+               capacity building. The project team noted that the absorption capacity of the government institutions was
+               constrained due to the limited number of qualified staff. The capacity building at the Ministry of
+               Communications, Transport and Tourism Development (MCTTD) and the Communications Commission of
+               Kiribati (CCK) predominated as there needed to be a regulatory framework and tools in place to have
+               effective oversight of the industry. Strengthening institutional capacity in the two relevant agencies was a
+               challenge due to the small number of staff and the acute lack of skills among the staff. While gaps were
+               addressed through the use of technical assistance offered by the project, the transfer of skills and knowledge
+               was not as successful as initially envisioned. Thus, there remained serious concerns about the ability of CCK
+               to successfully oversee the sector (ICR page 23). As an example, infrastructure sharing rules that had been
+
+                                                                                                                Page 5 of 15
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   KI: Telecomms and ICT Development (P126324)
+
+
+
+developed as part of the project have yet to be implemented by CCK. The CCK also experienced a significant
+delay in enabling interconnection of the new operator, thereby delaying the benefits of competition in the
+sector. However, as the project team pointed out to IEG, the challenge associated with capacity building in
+Kiribati is not only relevant to this project but the general human resource capacity in the country. This limits
+the absorptive capacity of Government institutions.
+
+Outcomes:
+
+Although there were delays in privatizing Telecom Services Kiribati Ltd (TSKL) and in making Ocean Link
+operational, the privatization was successfully completed. In addition, a PPP arrangement was launched
+to attract private sector provision to uneconomic localities in the Outer Islands. While there were still
+remaining institutional capacity weaknesses as mentioned above, the project achieved the building of a more
+market driven telecommunications sector. The following results were reported in the ICR:
+
+      Coverage of telecom services was extended to 85% of the population. Target achieved,
+      Internet broadband subscribers increased as a percentage of the population: Baseline 1%; target
+       20%; actual 89%. Target exceeded.
+      Increase penetration of mobile telephones and internet, including the number of direct
+       beneficiaries: Baseline 12%; Target 40%; Actual 47% Target achieved. Women make up 53% of the
+       population but it was not possible to dis-aggregate the number of beneficiaries by gender. The
+       expansion of services by ATHKL, introduction of competition and licensing of Ocean Link contributed
+       to this achievement.
+      Decrease in tariffs of mobile services and internet access: The baseline price for a 3-minute local
+       mobile call was US$ 0.70. The target was 0.55 and the actual was 0.17. Target exceeded.
+      Price of a 3-minute call to Australia: Baseline US$ 7.00 (formerly US$3.00); Target US$ 5.20 (formerly
+       US$2.20); actual US$ 2.10. Target based on revised indicator exceeded.
+      Price of monthly internet services (256 kbps): Baseline US$ 55.00 (formerly US$ 70.00) ; target US$
+       41.00 (formerly US$ 53.00); actual US$ 19.00. Target exceeded.*See M&E discussion for details of
+       why the indicator needed revision.
+
+Based on these outcomes, the achievement of the objective is rated Substantial.
+
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+Facilitate improved connectivity to the Outer Islands.
+
+Rationale
+The Theory of Change was that the project provided technical assistance, a connectivity subsidy and a PPP
+arrangement to increase the penetration rates in the Outer Islands. The increase in mobile and internet
+
+                                                                                                   Page 6 of 15
+                                Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                                KI: Telecomms and ICT Development (P126324)
+
+
+
+                            penetration would improve connectivity and access to ICT services in the Outer Islands leading to economic
+                            growth there.
+
+                            Outputs:
+
+                            A PPP agreement to be concluded to expand services to four Outer Islands was signed between
+                            BwebwerikiNet Ltd (BNL) and Amalgamated Telecom Holdings Kiribati Ltd (ATHKL) was signed in August
+                            2018 at a cost of US$ 1,800,000. Additionally, ATHKL was obliged to maintain the High Frequency radio
+                            service. Under the PPP arrangement the Government of Kiribati retained the ownership of the PPP-
+                            funded infrastructure (land access, towers, buildings and electricity solar panels) so that these could be
+                            passed to another operator should the selected partner exit the market of one or more of the islands subject
+                            to the PPP arrangement.
+
+                            Outcomes:
+
+                            The following results were recorded on the improved connectivity of the Outer Islands:
+
+                                   Mobile penetration in Outer Islands: Baseline 1%; target 40%; actual 65%. Target exceeded, based on
+                                    an industry data survey.
+                                   Internet penetration in Outer Islands: Baseline 0.5%; target 20%; actual 65%. Target exceeded, based
+                                    on an industry data survey.
+
+                            Based on these results, the achievement of the objective is rated Substantial.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The overall efficacy of this project is rated substantial. Despite the delays in implementation of the OICP, and
+                            major challenges faced with building capacity at the implementing agencies, the project mostly achieved its
+                            objectives and laid the foundation for the full benefits of connectivity once a submarine cable system lands in
+                            Kiribati. Both the Bank and the other Development Partners realize that the strengthening of capacity will
+                            need ongoing support through follow on projects.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+
+                                                                                                                               Page 7 of 15
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      KI: Telecomms and ICT Development (P126324)
+
+
+
+ 5. Efficiency
+The ICR was not able to run a comparative economic and financial analysis as such an analysis was
+not undertaken at the time of appraisal. Analysis of the least cost subsidy model and adjustment to current price
+levels demonstrate that the expansion to the four Outer Islands using 2.5G service would have cost the
+Government USD$1,866,679. ATHKL delivered a faster and more modern 3G service (far superior to the 2.5G
+service initially envisioned) was capable of fulfilling broadband functionality at a slightly lower cost of USD
+$1,800,000.
+
+Using the International Telecommunication Union (ITU ) Impact of Broadband on the Economy, Broadband
+Series 2012, it was estimated that a 10% increase in broadband penetration would yield an additional 1.38% in
+GDP growth. Based on the evidence collected to date, Kiribati has seen a growth in the penetration of
+broadband penetration from 12% to 47%, which is an increase of 35% between 2012 and 2019. Extrapolating
+the figures, the contribution of broadband to GDP growth in Kiribati could be approximated to 4.83% between
+2012 and 2019. The World Bank’s Pacific Possible Report 2017 further estimates that the ICT sector’s
+contribution to GDP in Kiribati would be about US$27 million by 2040, as well as contributing US$4 million to
+Government revenue and increasing the number of available jobs by 700. The project amount of US$5.10
+million has already generated a sizable injection of private sector funds into the ICT sector. The investments
+made by ATHKL in the ICT sector in Kiribati can also be treated as a proxy indicator for the mobilization of
+private sector funds directly linked to project implementation. ATHKL has invested approximately US$22
+million into the ICT sector in Kiribati since project inception. This analysis does not include several key aspects,
+which could not be measured, such as the impact of other licensees (for whom revenue has not been
+disclosed), the boost to local businesses engaged in providing ICT services and recharge services, as well as all
+other impacts associated with education, health and general improvement in public and private sector
+efficiencies through the use of ICT.
+
+Administrative and operational issues.
+
+The heavy reliance on technical assistance and the weak institutional capacity within the Ministry of
+Communications, Transport and Tourism Development (MCTTD) and the Communications Commission of
+Kiribati (CCK) contributed significantly to the need for the project to be extended. Even with the extension of 24
+months, activities related to the OICP were only just completed by the project closing date.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                      0
+ Appraisal                                                   0
+                                                                                       Not Applicable
+                                                                                      0
+ ICR Estimate                                                0
+                                                                                       Not Applicable
+
+
+                                                                                                      Page 8 of 15
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      KI: Telecomms and ICT Development (P126324)
+
+
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The overall project is rated Moderately Satisfactory given substantial relevance, substantial efficacy but modest
+efficiency. Although the evaluation of achievements clearly demonstrated that targets were met or surpassed,
+there were moderate shortcomings in efficiency because of the administrative and operational inefficiencies
+caused by weak capacity of the Communications Commission of Kiribati and the Ministry of Communications,
+Transport and Tourism Development that could not be sufficiently addressed under the project..
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+Three risks are evident:
+
+Institutional sustainability: To manage and maintain oversight of the ICT sector the project
+established and supported key institutions, to better regulate the ICT sector in Kiribati. The project
+provided technical assistance as well as equipment and training to enable MCTTD and CCK to carry out
+their roles. This area, however, was the most vulnerable as outcomes associated with strengthening the
+legal, regulatory and institutional environment and enabling transition to a market-driven telecommunications
+sector were heavily reliant on the appointment and retention of skilled staff to oversee the sector. The skills
+gap for project implementation was addressed in part by the use of technical assistance provided for under
+the project, with an emphasis on skills and knowledge transfer. Nevertheless, there was an expectation that
+there would be a long period of reliance on technical assistance beyond the scope of this project and some
+suggestions were made under the lessons section. In terms of the expansion of coverage to the Outer
+Islands, the key challenge was the small population spread over extensive areas. The intention was to
+leverage universal access funds from private sector investment. Government providing an additional subsidy
+for roll out.
+
+Commercial sustainability: The reforms facilitated the arrival of private sector players such as ATHKL and
+Ocean Link as well as a number of smaller internet service providers. Implementing arrangements for the
+expansion of services to the Outer Islands Connectivity Plan (OICP) were expected to experience low to
+negligible risks given that the PPP arrangements were protected by a bank guarantee. The launching of the
+Pacific KA broadband satellite service as well as the imminent submarine cable will ensure that there is
+adequate bandwidth to expand the range of service to consumers. It is estimated that it currently costs
+ATHKL approximately 40% of its revenue to sustain the satellite connectivity costs but once the cable system
+is activated, the costs have the potential to be reduced by at least 60%. There is some evidence of a
+strong uptake of services in the newly established four Outer Island sites covered under the OICP,
+as 24.30% of the population subscribed to such services within four months of their being launched. In
+addition, follow on projects by the Development Partners including the World Bank will continue to include
+institutional strengthening components.
+
+
+
+                                                                                                     Page 9 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     KI: Telecomms and ICT Development (P126324)
+
+
+
+Maintenance of the level of services: Current service maintenance as well as introducing new services are
+expected to be encouraged by the growth of the market in Kiribati and should be stimulated substantially
+when the submarine cable system arrives in the country. Services established by this project should
+encourage the private sector to help enable lower costs, greater value for customers, and a significant boost
+to economic growth prospects is expected to underpin sustainable service provision. Until there is ample low-
+cost bandwidth available, however, the locations that have high cost bandwidth will be less well served than
+the larger markets with low cost bandwidth. In the case of Kiribati, the submarine cable project is expected to
+deliver a low-cost high bandwidth solution to Tarawa and the nearby islands that account for some 65% of
+the country’s population.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The Bank invested considerable resources during the design phase of the project and built on earlier
+  engagements with the Bank. The project team's experiences in dealing with ICT-related matters in the
+  Pacific were critical ingredients in the preparation of the project. Lessons were drawn from previous
+  experience and ongoing work in the region was taken into account.
+
+  The team identified the general lack of capacity related to technical aspects, project management and
+  administration but underestimated the extent of the training that would be necessary to build the requisite
+  capacity. Special attention could have been given to ensure financial management was improved and a
+  procurement adviser would have helped considerably to overcome the procurement challenges
+  encountered. The Theory of Change was appropriately addressed but there were minor mistakes in
+  two indicators that were presented in the appraisal report and which had to be rectified later.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ There was a total of 18 technical in-country supervision missions undertaken by the Bank project team.
+ This is a very high number considering the size of the project, but it demonstrated the commitment of the
+ project team to ensure smooth implementation and the achievement of the PDOs. The technical missions
+ were critical in ensuring there was constant, albeit sometimes slower than anticipated, progress. A total of
+ 12 Implementation supervision reports were completed during project implementation, in which problems
+ were identified and suggested solutions were clearly articulated. The team advised on how to adapt to
+ changing technology, encouraged greater private sector participation and advised appropriately when it
+ became clear that additional time was needed for capacity building. This involved preparing a restructuring
+ paper. It would have been appropriate to have included in this paper the changes that had to be made to
+ three indicators but this was not done. Nevertheless, overall the quality of supervision was satisfactory.
+
+
+
+                                                                                                   Page 10 of 15
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     KI: Telecomms and ICT Development (P126324)
+
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The results indicators used during design were considered adequate and relatively easy to report against
+ and to track results during the course of implementation. An exception was the results indicator for
+ “Improved ICT Policy Making”, where the indicator was that MCTTD should complete a review of all current
+ ICT sector policies, which at that time was only the National ICT Policy 2011. Use of easily quantifiable
+ indicators, such as number of ICT-related policies developed, or implementation of key measures as
+ outlined in the policy document might have contributed better to measurement of this outcome (ICR page
+ 24). A similar argument could be made for the “Legal and Regulatory framework to be more effective at
+ delivering sector performance” indicator, which would have benefited through the adoption of an indicator
+ that could comprehensively track sector achievements instead of merely observing that the
+ Communications Act had been revised.
+
+
+
+b. M&E Implementation
+  Three indicators required minor modifications, which were made during project implementation. Two
+  modifications were due to errors discovered in the PAD because "price per minute" had been entered as
+  "price for three minutes". This led to unrealistically low targets exceeded by 323% in one case and 248%
+  in the other. Clearly more challenging targets had to be introduced. This was necessary as the
+  developments in the ICT industry in Kiribati could not be measured using the baseline figures and targets
+  proposed in the PAD.
+
+  Regarding the third indicator on the price of monthly internet services, a change was necessitated as a
+  result of the fast-changing technology associated with the delivery of broadband internet service. The
+  original definition of "internet service" was based on a fixed broadband asymmetric digital subscriber line
+  service, which was the only technology available at the time. However, technology changes meant that
+  mobile broadband quickly became the key driver for the expansion of internet services. New baseline and
+  target values had to be introduced but it was not deemed necessary to make these changes in
+  a restructuring as the scope of the project remained unchanged. In IEG's view, since a restructuring had
+  to be done anyway, it would have been good practice to report on the necessity for these changes.
+  However, IEG agrees that in the circumstances a split evaluation was not needed. The baseline and
+  target had to be corrected to take into consideration the use of mobile broadband as the delivery platform
+  for broadband internet services. The above changes did not affect the methodology related to the
+  collection of project data or the concept of the indicators selected.
+
+  Although the data for reporting purposes were the responsibility of the MCTTD and CCK the data had to
+  be verified during the missions that were undertaken during the life of the project. This meant there was a
+
+                                                                                                   Page 11 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     KI: Telecomms and ICT Development (P126324)
+
+
+
+  heavy reliance on the industry for the collection of data, however, since CCK (technically the regulator to
+  collect such data) suffered from a serious lack of trained staff.
+
+
+
+
+c. M&E Utilization
+  The data collected were sufficient to demonstrate the rate of progress during implementation and
+  provide the project team with an insight into areas where interventions were required and
+  modifications were necessary.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project was categorized at appraisal as C, but triggering Environmental Assessment OP/BP 4.0 and
+   Involuntary Resettlement OP 4.12 as a precaution. However, the land needed was minimal and no
+   environmental and social safeguards issues were identified during project implementation, ATHKL was
+   given access to small parcels of land for the deployment of mobile infrastructure with the full support of the
+   local communities and the Government and in full compliance with the Government’s Environmental, Social,
+   Health and Safety requirements as well as the Bank’s Environment and Social Safety guidelines, which
+   were included in the bidding document for the PPP arrangement.
+
+
+
+
+b. Fiduciary Compliance
+   Financial Management:
+
+   The limited capacity of the MCTTD had caused the PAD to flag fiduciary issues as a high risk. In the event,
+   some financial management weaknesses were indeed identified. These included issues concerning poor
+   monitoring of project contracts, lapses in the updating of the commitment register, and travel
+   advance acquittals which had been outstanding for a significant period of time. There were also lapses with
+   statutory obligations related to deductions for the Kiribati Provident Fund and taxes, which would increase
+   the risk of penalties under statutory compliance requirements.
+
+   However, the audited accounts for the project were ready in time for the relevant ICR mission and within
+   six months from the end of the fiscal year as required. Audits during the lifetime of the project were
+   generally carried out within a reasonable time frame and management made efforts to address issues that
+   had been identified for improvement. It was noted that the last audit undertaken for the financial year 2019
+   was unqualified. It was of concern, however, that CCK has not produced an annual report since its
+
+
+                                                                                                   Page 12 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     KI: Telecomms and ICT Development (P126324)
+
+
+
+   formation under the Communications Act 2013. It was considered imperative in the audit reports that
+   this gap be addressed to improve CCK’s accountability to the sector and development partners.
+
+   Procurement:
+
+   Unfamiliarity with procurement processes by staff as well as the absence of a procurement adviser
+   presented significant challenges to project procurement. Nevertheless. the procurement rating
+   was moderately satisfactory by the time of the last ISR reported in April 2019.
+
+   The ICR noted (page 26) that there was an absence of quotes for the purchase of small tools and building
+   materials for the Outer Islands mobile building. The project had been initiated and for the most part was
+   administered outside of the Systematic Tracking of Exchanges in Procurement (STEP), which was an
+   online system to help the World Bank and Borrowers plan and track procurement activities under Bank-
+   financed projects. The users experienced system lags (due to a weak Internet connection) during migration
+   to the online system, which made the process cumbersome and difficult. There were also limited
+   capabilities and capacity of local staff at the implementing agencies in the administration of STEP and the
+   Client Connection systems. The Bank project team, nevertheless, were consulted on the relevant terms of
+   reference and evaluation reports by the client and comments were prepared and incorporated as required.
+   No instances were recorded of procurement being undertaken without due process or not in accordance
+   with the procurement plan.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   Most of the youth that are now using the Internet, particularly through mobile broadband have little or no
+   supervision from their parents. This is primarily due to the fact that the parents themselves are not aware
+   of cyber security risks, as they themselves have very limited knowledge of the topic. There is a need for
+   general education on the risks of oversharing digital activities. On the other hand, there are potentially
+   huge positive educational benefits due to access to the internet.
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                Reason for
+Ratings                         ICR                    IEG
+                                                                                Disagreements/Comment
+                                                                                Modest efficiency due to weak
+Outcome                         Satisfactory          Moderately Satisfactory   capacity of implementing
+                                                                                agencies.
+                                                                                Moderately satisfactory QAE
+                                                                                due to underestimation of the
+Bank Performance                Satisfactory          Moderately Satisfactory   extent of training that would be
+                                                                                necessary to build the requisite
+                                                                                capacity.
+
+
+                                                                                                   Page 13 of 15
+       Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+       KI: Telecomms and ICT Development (P126324)
+
+
+
+Quality of M&E                   Substantial           Substantial
+
+Quality of ICR                   ---                   Substantial
+
+
+12. Lessons
+
+The following lessons are adapted from the ICR.
+
+     1. To ensure sufficient human capacity and retention of skilled staff for overseeing the
+        ICT sector, there should be greater collaboration between the Pacific Island policy
+        makers and regulators and more efforts to share expertise and retain knowledge.
+        There is a need for mentoring and short-term industry attachments in addition to on-line
+        collaboration including sharing of experiences and best practice. While capacity building
+        using international forums and conferences are valuable for learning, in-country assistance
+        for staff training may provide additional opportunities for skills enhancement.
+     2. Measures are needed to protect especially new internet users from the vulnerability
+        associated with cyber security. Government could request development partners to work
+        with them to develop a plan to increase local awareness and there should be legislation
+        introduced as a foundation for such a strategy.
+     3. The involvement of the private sector in the reform process is critical to enhance the
+        ICT sector service provision in a sustainable manner. Properly sequenced reforms that
+        create an enabling environment for private sector participation would mean having a level
+        field and equal opportunity for the private sector.
+     4. Technological innovation through the use of satellite connectivity and encouraging
+        the use of distributed networks (where the core of the telecommunications exchange
+        is offshore) are the key to success in small and isolated markets. Although cable
+        remains the most robust solution for international connectivity, satellite connectivity options
+        are often the best solution for connecting isolated and sparsely connected islands.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR was well prepared and thoughtful with some useful lessons. However, it could have been more
+concise. The explanation about the changes in the indicator values was convoluted and could have been better
+explained. The overall outcome rating of satisfactory was also optimistic given that there remained serious
+concerns about the ability of CCK to successfully oversee the sector (ICR page 23).The Theory of Change was
+unclear as there were two objectives, not three, and some outputs were actually outcomes. Overall, however,
+there was sufficient information to understand the achievements of the project, how it fitted in with related
+projects and the serious human resource constraints that affected implementation progress.
+
+
+
+                                                                                                     Page 14 of 15
+  Independent Evaluation Group (IEG)            Implementation Completion Report (ICR) Review
+  KI: Telecomms and ICT Development (P126324)
+
+
+
+
+a. Quality of ICR Rating
+   Substantial
+
+
+
+
+                                                                             Page 15 of 15
+

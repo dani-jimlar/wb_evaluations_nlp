@@ -1,0 +1,868 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     CN-Beijing Distributed PV Scale-Up (P125022)
+
+
+
+                                                                                    Report Number: ICRR0022433
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P125022                                    CN-Beijing Distributed PV Scale-Up
+
+ Country                                    Practice Area(Lead)
+ China                                      Energy & Extractives
+
+
+ L/C/TF Number(s)                           Closing Date (Original)                 Total Project Cost (USD)
+ IBRD-82350                                 31-Dec-2019                                          83,488,820.10
+
+ Bank Approval Date                         Closing Date (Actual)
+ 20-Mar-2013                                31-Dec-2019
+
+                                            IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                           120,000,000.00                                               0.00
+
+ Revised Commitment                             83,488,820.10                                               0.00
+
+ Actual                                         83,488,820.10                                               0.00
+
+
+
+
+ Prepared by                 Reviewed by                  ICR Review Coordinator          Group
+ Lalrinpari Sailo            Dileep M. Wagle              Ramachandra Jammi               IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   Original PDO: The objective of the Project, as stated in the Loan Agreement (p.5), was “to increase the share
+   of clean energy in electricity consumption and to demonstrate the viability of the renewable energy service
+   company model for scaling up the deployment of rooftop solar photovoltaic systems in schools and other
+   education institutions in Beijing Municipality”.
+
+   The project objective, as stated in the PAD (p.3), was identical to the above.
+
+
+                                                                                                   Page 1 of 16
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     CN-Beijing Distributed PV Scale-Up (P125022)
+
+
+
+   The PDO was modified at restructuring, in June, 2017, to read: “To increase electricity generated from
+   distributed solar photovoltaic systems, and demonstrate the viability of the renewable energy service
+   company model for scaling up the deployment of such systems, in various sectors in Beijing Municipality.”
+
+   For purposes of analysis, the PDO will be parsed as follows:
+
+   Original PDO:
+
+   Objective 1- “To increase the share of clean energy in electricity consumption”;
+   Objective 2- “To demonstrate the viability of the renewable energy service company model for scaling up the
+   deployment of rooftop solar PV systems in schools and other education institutions in Beijing Municipality”.
+
+   Revised PDO:
+
+   Objective 1- “To increase electricity generated from distributed solar PV systems, in various sectors in Beijing
+   Municipality’;
+   Objective 2- “To demonstrate the viability of the renewable energy service company model for scaling up the
+   deployment of PV systems, in various sectors in Beijing Municipality”.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  15-Jun-2017
+
+c. Will a split evaluation be undertaken?
+   Yes
+
+d. Components
+   Components before restructuring:
+
+   Component 1: Sunshine Schools Program Support - Installation of 100 MW Rooftop Solar
+   Photovoltaic (PV) Systems in Beijing (Estimated cost at appraisal: $226.0 million; of which US$120
+   million [US$110.3 million, plus US$9.7 million interest during construction and front-end fees] IBRD
+   financing; Actual cost: US$115.66 million, of which US$83.49 million IBRD financing). This component was
+   intended to install 100MW of distributed rooftop PV electricity generation systems in about 800 schools and
+   other educational institutions in Beijing under the Renewable Energy Service Company (RESCO) model for
+   large scale rooftop solar PV deployment. The PV systems were to be installed, operated and maintained by
+   Beijing Yuanshen Energy Saving Technology Company Ltd. (henceforth Yuanshen). RESCO would take
+   the performance and financial risk of the investment by signing an energy service performance contract with
+   each school/university, while earning revenue from (i) the sale of electricity to the schools, (ii) the subsidies
+   provided (on a graduated scale) by Government through the “Golden Sun Program” and BMG though the
+   “Sunshine Schools Program”. The schools/universities would pay RESCO only for the electricity consumed
+
+                                                                                                      Page 2 of 16
+    Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+    CN-Beijing Distributed PV Scale-Up (P125022)
+
+
+
+  and not pay any up-front capital for the investment. After maturity of the RESCO contracts, Yuanshen
+  would hand over the PV systems to the schools.
+
+  To enhance coordination and bring on board concerned key stakeholders to tackle the policy and
+  institutional challenges, it was agreed that during implementation the concerned Beijing government
+  agencies (Beijing Education Commission, Beijing Development and Reform Commission, Beijing Finance
+  Bureau) and the Project Management Office would supervise the project and assist Yuanshen in selecting
+  schools and addressing other issues or difficulties.
+
+  Component 2: Technical Assistance (TA) for developing local capacity for scaling up commercially
+  viable solar energy deployment, project implementation, and other priority energy policy initiatives
+  of the Beijing Municipal Government (BMG) (Appraisal estimated cost: US$4.0 million from BMG
+  counterpart funding and potential parallel Global Environment Facility (GEF) financed project; Actual cost:
+  US$2.0 million from GEF). The proposed TA activities included development of local capacity for scaling up
+  commercially viable solar energy deployment; and engineering and technical support to Yuanshen for the
+  design, procurement, construction supervision and project management of the PV systems. The proposed
+  TA activities included: (i) Demonstration of the RESCO model for large-scale grid-connected rooftop solar
+  PV deployment in Beijing Municipality, provision of engineering and technical support in relation to PV
+  systems to Yuanshen Company, and independent monitoring and evaluation of implementation and results
+  of such model; (ii) Demonstration of two-way metering in Beijing Municipality; (iii) Establishment of an online
+  monitoring system for rooftop PV systems and a solar energy information portal in Beijing Municipality; and
+  (iv) Improvement of renewable energy education in schools and other educational institutions in Beijing
+  Municipality.
+
+  Components after restructuring:
+
+  Component 1: Distributed PV System Installation Support PV (revised estimated cost: US$95.26 million
+  IBRD financing, local sources). The component description was revised to ‘installation of distributed PV
+  systems in education institution, and other sectors in Beijing Municipality’. After the restructuring, only this
+  component remained with the scope expanded as reflected in the revised PDO and project title. The
+  installation target of 100 MW remained unchanged.
+
+  Component 2: This component was formally dropped from the project as all TA activities originally
+  proposed under this component were financed and also reported on by a parallel project, the China Urban
+  Scale Building Energy Efficiency and Renewable Energy Project (CUSBEERE).
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost: The original estimated project cost was US$239.7 million. Actual cost at project completion
+  was US$115.66 million.
+
+  Financing: The project’s original cost was financed through an IBRD loan of US$120 million,
+  supplemented by counterpart funding and funding from a parallel GEF project. After restructuring in 2017,
+  taking into account a significant reduction in cost of PV panels that had taken place during the preceding
+  years, the estimated project cost was reduced significantly to US$137 million, and the loan amount from
+  US$120 million to US$105 million.
+
+
+                                                                                                       Page 3 of 16
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     CN-Beijing Distributed PV Scale-Up (P125022)
+
+
+
+   Borrower Contribution: Borrower contribution, originally estimated at US$115.4 million, was reduced at
+   restructuring to US$25.75 million.
+
+   Dates: The closing date for the original loan was December 31, 2019.
+
+   Restructurings: The project underwent a Level 1 restructuring in June 2017. This resulted in a change in
+   the PDO and scope of activities, with the formal dropping of Component 2. The PDO indicators were
+   updated to reflect consistency with the revised scope of activities. The title of the project was also changed
+   from “Beijing Rooftop Solar Photovoltaic Scale-up (Sunshine Schools) Project” to “Beijing Distributed Solar
+   Photovoltaic Scale-up Project”.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and Sector Context:
+
+At the time of appraisal in 2012, China had experienced growth of its economy at about 10 percent per
+annum over the previous decade, with inflation having been kept largely under control. This growth had
+spurred a massive consumption of total primary energy (TPEC) and electricity, which had increased at
+the rate of 8 percent per annum during 2000-2011, more than three times the global rate of TPEC
+increase. Electricity consumption in China had increased at the rate of 12 percent during the period and
+this rapid increase was expected to continue for some years to come. The China Electricity Council
+predicted that the country’s generation capacity would rise to 1,950 GW by 2020. Though coal would
+remain the dominant fuel, accounting for more than 50 percent of the energy mix, the Government of
+China (GOC) recognized that such tremendous growth in electricity generation could not be met by fossil
+fuels alone, and was increasing its efforts to try and reduce the carbon intensity of the economy.
+
+Towards this end, energy efficiency (EE) and renewable energy (RE) were two critical elements of the
+Government’s development strategy, going forward, and were central to the country’s push to reduce the
+carbon footprint of its economy. The GOC had pledged to reduce the 2005 carbon intensity by 40-45
+percent by 2020, with binding targets having been set in the 12th Five Year Plan to reduce GDP energy
+intensity by 16 percent and its carbon intensity by 17 percent.
+
+Cities accounted for 75 percent of China’s energy consumption and were key to meeting the country’s
+carbon emission reduction targets. At a per capita level, carbon emissions in some major Chinese cities
+were among the highest in the world. By 2030, China’s cities were projected to add some 45 percent
+more residents and 60 percent more buildings compared to 2010. It was therefore logical that the
+introduction of programs and policies aimed at reigning in carbon emissions in urban areas would have to
+be a key feature of China’s emission-reduction strategy. Towards this end, the National Development &
+Reform Commission (NDRC) announced in 2012 that areas in 29n provinces were to pilot low-carbon
+growth and carbon-emissions trading schemes, which would be incorporated within implementation of the
+12th Five Year Plan.
+
+As the nation’s capital and a pilot city for low-carbon growth, Beijing was striving to become a model for
+other Chinese cities in promoting resource-efficient and environmentally-friendly urban economic
+
+                                                                                                    Page 4 of 16
+                                      Independent Evaluation Group (IEG)                        Implementation Completion Report (ICR) Review
+                                      CN-Beijing Distributed PV Scale-Up (P125022)
+
+
+
+               growth. The Beijing Municipal Government (BMG) had set more stringent standards for reducing GDP
+               energy-intensity and CO2-intensity than those of the GOC. To achieve these targets, the BMG
+               developed a plan to increase the share of renewable energy in final energy consumption from 3.2 percent
+               in 2010 to 6 percent by 2015. The Golden Sun Program for solar PV generation, initiated in 2009 by the
+               Ministry of Finance (MOF), National Energy Authority (NEA) and the Ministry of Science & Technology
+               (MOST), was part of this effort, by aiming to stimulate the domestic PV installation market.
+
+
+               Alignment with Strategy:
+
+               The project, with its updated PDO, was aligned with the objectives of the WBG Country Partnership
+               Framework (CPF) for FY20-25, one of the three key engagement areas of which is “promoting greener
+               growth”, with a sub-objective (objective 2.1) indicating “Facilitating the transition to a lower-carbon energy
+               path”. Within this objective, the CPF indicates that the IFC, for instance, will focus on ‘greater adoption of
+               scalable low-carbon and resource-efficient solutions among selected industrial sectors in China’ and
+               provides as an example ‘technical intervention areas such as distributed renewable energy generation’.
+               Furthermore, as the ICR points out, the results framework captures a key component of this project’s
+               objective to ‘demonstrate and scale up the RESCO model for market-based roof-top solar photovoltaic
+               systems’ with a target of 400 RESCO contracts signed by 2021 and directly cites this project (CPF, p.
+               45). The project also supported the CPF’s first engagement area of “Advancing Market and Fiscal
+               Reforms”, specifically, objective 1.2 on “Achieving more effective and sustainable subnational fiscal
+               management and infrastructure financing” by supporting the scale-up of the RESCO model. A further
+               supporting factor, as indicated by the ICR (para 30), was that new distributed PV projects implemented
+               by RESCOs were now being financed by the commercial Huaxia Bank, leveraging IBRD financing via the
+               recent World Bank project: “Innovative financing for air pollution control in Jing-Jin-Ji (P125022)”.
+
+               The project was also in line with a key pillar of the 2018 China Strategic Country Diagnostic Report
+               (SCD), making full use of market mechanisms to promote green growth by financing more technically and
+               financially sustainable subprojects. That said, given the relatively small scale of the operation in relation
+               to the overall level of energy generation in China (not limited to the PV sector), the level of ambition of the
+               PDO could be called into question.
+
+               In light of the above, relevance is rated Substantial.
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             “To increase the share of clean energy in electricity consumption in schools and other education institutions in
+                             Beijing Municipality”
+
+
+                                                                                                                               Page 5 of 16
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   CN-Beijing Distributed PV Scale-Up (P125022)
+
+
+
+
+Rationale
+Theory of Change:
+
+The project was originally designed to support the BMG’s Sunshine Schools Program and pilot the RESCO
+model as a market-based mechanism to for delivering large-scale installation. In addition to increasing the
+share of renewable energy in electricity consumed, the project would also pilot two-way metering systems for
+distributed PV. Key assumptions of project design were: (a) the continued commitment of local governments
+with stable subsidy provision to the project entities via the Golden Sun Program, (b) the willingness of schools
+to participate in response to appropriate incentives, (c) enforcement of mandates for grid companies to buy
+excess electricity from rooftop PV systems fed to the grid, and (d) close coordination between the project and
+CUSBEERE to ensure that TA activities effectively supported scale-up of rooftop PV under the RESCO
+business model in Beijing.
+
+A fairly direct causal link can be drawn between the project’s activities and the expected outcomes. The
+activities consisted of the installation of rooftop PV systems in educational institutions in Beijing (using the
+RESCO model) and provision of TA for developing local capacity for scaling up renewable energy, project
+implementation and related activities. Expected outputs included completed installation of rooftop PV
+capacity and the signing of a target number of RESCO contracts, under the first component; and the piloting
+of two-way metering, establishment of renewable energy laboratories, organization of RESCO business
+training workshops and operationaling the monitoring of rooftop PV systems. These were expected to lead to
+the higher-level outcomes of increase in share of clean energy consumption in schools and other educational
+institutions in Beijing, and the demonstrated viability of the RESCO model in scaling up deployment of rooftop
+PV systems in these institutions. Longer-term outcomes in the form of scaled-up deployment of such PV
+systems, improved business environment for scaling up solar PV systems, and a contribution to reducing
+GHG emissions, were expected – though it is difficult to say whether these activities, in aggregate, would be
+of adequate scale to create a critical mass for change.
+
+Outputs/Outcomes:
+
+The following results were achieved under the project in 2016, prior to restructuring:
+
+(a) 31.5 MW of PV capacity was installed, against a 2016 target of 90 MW (100 MW by 2018). On account of
+weak incentives for schools to participate and subsidy termination, the average size of PV systems installed
+was just around 100 kW.
+
+(b) About half of the PV energy contracts were in place (309, against a target of 700, or 44 percent). Again,
+this progress too was affected by the subsidy policy changes over 2015 and 2016, and the weakness in
+incentives to schools to participate.
+
+(c) PV energy generated was of the order of 14 GWh/year, against a target of 89 GWh/year, or only about 16
+percent of target. This was on account of the slower-than-expected installation/commissioning of solar PV
+capacity, and also a lower-than-expected capacity factor (6.3 percent actual vs. 11.4 percent estimated at
+appraisal).
+
+(d) CO2 emissions avoided were of the order of 10.3 kt CO2e/year (actual) as against a target of 80.6 kt
+CO2e/year. However, this was significantly lower than expected partly on account of a lower grid emissions
+factor than anticipated at appraisal.
+
+
+                                                                                                  Page 6 of 16
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   CN-Beijing Distributed PV Scale-Up (P125022)
+
+
+
+
+Based on the above, the achievement of this objective is rated Modest.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 1 REVISION 1
+Revised Objective
+“To increase electricity generated from distributed solar PV systems, in various sectors in Beijing Municipality”
+
+
+Revised Rationale
+Theory of Change (Revised):
+The restructuring addressed the issues that had stalled the project, by extending the market and including
+economic entities, public and private, that were more efficiency oriented and environmentally conscious. The
+significant decrease in PV panel cost that had occurred in recent years was also factored into the project cost,
+which was decreased from US$239.7 million to US$137 million. The project’s scope was formally limited to
+Component 1, as Component 2 was dropped at restructuring; however, it was expected that technical
+assistance activities would continue to be provided via the CUSBEERE project, to support scale-up of rooftop
+PV under the RESCO model in Beijing.
+
+Outputs/Outcomes:
+
+The target for increase in electricity generated from distributed PV systems in various sectors of Beijing was
+met. Actual PV electricity generation was of the order of 111,510 MWh/year, against a target of 100,000
+MWh/year. Some 102 MW of distributed PV system capacity was installed, “with high attribution to the
+project” (ICR, p.17), in excess of the target of 100 MW. This represented some 20 percent of total PV
+capacity in Beijing (of around 510 MW in 2019). The bulk (40 MW) of the installed capacity was in industry,
+followed by schools (30 MW), commerce and infrastructure (18.4 MW), logistics (10 MW) and agriculture (3.6
+MW).
+
+The total number of people provided with access to electricity generated in education institutions was 560,000
+in 2019 - in excess of the target of 500,000.
+
+GHG emission reduction was estimated to reach tons 87,992 CO2 per year by project completion, exceeding
+the revised target of 70,000 tons CO2e.
+
+Based on the above, achievement of the revised objective is rated High.
+
+
+
+Revised Rating
+High
+
+
+
+                                                                                                   Page 7 of 16
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   CN-Beijing Distributed PV Scale-Up (P125022)
+
+
+
+
+OBJECTIVE 2
+Objective
+“To demonstrate the viability of the renewable energy service company model for scaling up the deployment
+of rooftop solar photovoltaic systems in schools and other education institutions in Beijing Municipality”
+
+Rationale
+Outputs/Outcomes:
+
+About half of the PV energy contracts were in place (309, against a target of 700, or 44 percent). This
+progress too was affected by the subsidy policy changes over 2015 and 2016, and the weakness in
+incentives to schools to participate.
+
+Total finance disbursed by 2016 was of the order of US$18.95 million from IBRD sources (about half the
+expected level of US$32.5 million by 2016), due to slow implementation progress, but also lower-than-
+expected average cost of PV equipment. Yuanshen’s debt service coverage ratio was however greater than
+1.1 at this stage, demonstrating the potential viability of the energy service model.
+
+As argued in the ICR (pages 16-17), and also noted in the restructuring project paper (2017), in light of the
+government’s changes in subsidy policy during project implementation, which had resulted in limited
+incentives for schools to participate, it was unlikely that the PDO could be achieved without adjustments being
+made to the RESCO model, so as to ensure viability. The slow progress was exacerbated by the lengthy
+decision-making processes to determine how much subsidy would eventually be granted to the project
+following termination of the Golder Sun Program, as well as by the lengthy grid connection approval process
+following installation of the PV systems in the early years of implementation, leading to reduced electricity
+surplus sales revenue, negatively impacting Yuanshen’s financial situation.
+
+Based on the above, achievement of this objective is rated Modest.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 2 REVISION 1
+Revised Objective
+“To demonstrate the viability of the renewable energy service company model for scaling up the deployment
+of such systems, in various sectors in Beijing Municipality.”
+
+Revised Rationale
+The viability of the RESCO model was to be measured by the number of sectors across which Yuanshen was
+able to sign renewable energy service contracts, as well as by the financial rate of return across all
+subprojects in excess of a threshold value. In terms of results, this objective was fully achieved. Yuanshen
+signed contracts across 5 sectors, meeting the target of 5. The Financial Rate of Return (FIRR) for the
+project, aggregated across sectors, worked out at 6.5 percent, higher than the target value of 6.0 percent,
+thereby demonstrating the viability of the RESCO model. The ICR points out (para 35) that the FIRRs tended
+
+
+
+                                                                                                 Page 8 of 16
+                                 Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+                                 CN-Beijing Distributed PV Scale-Up (P125022)
+
+
+
+                              to be higher in industry, with high energy consumption and electricity tariffs, and lower in agriculture and other
+                              sectors with lower consumption and discounted tariffs.
+
+                              The project laid the cornerstone of Yuanshen’s PY business development. Its institutional capacity,
+                              especially the PV project operation/management system, human resources and technical standards
+                              development, all improved considerably through implementation of the project. The smart PV O&M
+                              management platform established under the parallel CUSBEERE project provided the basis and tools for the
+                              company’s project development and management. Through implementation of the project, Yuanshen was
+                              able to improve its overall institutional capacity (ICR, p.22), strengthening its organizational structure,
+                              establishing a suitable management system and corporate standards, and training a high-quality, professional
+                              work team.
+
+                              Under the incentive of the project, grid connection approval and acceptance procedures were streamlined
+                              across different counties and districts in Beijing, which greatly facilitated development of similar distributed PV
+                              projects undertaken by other companies in the municipality. The World Bank-financed subprojects also
+                              served as benchmarks in terms of construction and operation for other players in Beijing to follow. Through
+                              the removal of several barriers to grid connection, the project was also able to have an indirect impact in
+                              terms of mobilizing private investment in distributed PV development in the municipality and elsewhere in
+                              China
+
+                              Based on this, the achievement of objectives for the above objective is rated High.
+
+
+
+                              Revised Rating
+                              High
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            Overall efficacy prior to restructuring is rated Modest. The project was only partially successful in its
+                            objectives of increasing the share of clean energy in schools in Beijing, and in demonstrating the viability of
+                            the RESCO model for scaling up rooftop PV systems in schools and other educational institutions in Beijing
+                            Municipality.
+
+
+
+                            Overall Efficacy Rating                                     Primary Reason
+                            Modest
+                  OBJR1_TBL
+
+
+
+
+                            OVERALL EFFICACY REVISION 1
+                            Overall Efficacy Revision 1 Rationale
+                             After restructuring, the project was fully succssful in meetng its objectives of increasing electricity generated
+                            from distributed solar PV systems in Beijing Municipality, whilst demonstrating the viability of the RESCO
+
+
+                                                                                                                                   Page 9 of 16
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      CN-Beijing Distributed PV Scale-Up (P125022)
+
+
+
+  model. Outputs of the parallel CUSBEERE project supported this outcome. The post-restructuring overall
+  efficacy of the project is rated High.
+
+
+
+  Overall Efficacy Revision 1 Rating
+  High
+
+
+
+5. Efficiency
+Economic and Financial Efficiency
+
+Economic analysis of the project conducted at appraisal estimated the Economic Internal Rate of Return (EIRR) at 8.78
+health costs (global, as well as local) resulting from the substitution of clean solar power for thermal power, and the pot
+project closing, using updated social values of CO2 emissions and taking into account the restructuring, was a somewh
+value scenario. The financial rate of return (FIRR) for the project at appraisal was negative, as it was acknowledged th
+BMG, the project was not financially profitable (PAD, p.11) - though Yuanshen was expected to generate positive cash
+estimated in the ICR (p.20), was estimated at 3.6 percent in the absence of subsidies and 6.5 percent with subsidies.
+
+Administrative and Operational Efficiency
+
+Actual costs for the project at completion were significantly lower than estimated at appraisal: US$115.66 million vs. US
+mostly on account of the significant reduction in unit investment costs that occurred during the implementation period a
+and the project closed on schedule, in December 2019. The significant cost savings was coupled with an expansion of
+projects.
+
+Based on the above, the project’s efficiency is rated Substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                      0
+ Appraisal                                                  8.78
+                                                                                       Not Applicable
+                                                                                      0
+ ICR Estimate                                               13.50
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+
+                                                                                                     Page 10 of 16
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      CN-Beijing Distributed PV Scale-Up (P125022)
+
+
+
+6. Outcome
+
+The project’s objectives were substantially relevant to the World Bank Group’s Country Partnership Framework
+(FY20-25). Efficiency was found to be Substantial, based on economic analysis conducted at appraisal and at
+completion, and on the basis of significant cost savings achieved. Overall efficacy was Modest prior to
+restructuring, when the project only partially achieved its objectives, but High subsequent to restructuring, when
+it was able to fully achieve its objectives. On account of the change in the PDO introduced by the restructuring,
+a split evaluation is necessary to assess outcomes. Assigning a numerical value of 3 (on a 6-point scale) to
+pre-restructuring efficacy and 6, post-restructuring, and weighting by the relative share of pre- and post-
+restructuring disbursements (US$18.22 m. vs. US$65.27 m., or 21.8% vs. 78.2%), leads to a weighted outcome
+of 0.65 vs. 4.69 for the respective periods, equal to an average of 5.35. On this basis, overall outcome works
+out to a rating of Satisfactory.
+
+
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+The risk that the development outcomes would not be sustained is Modest.
+
+The risk to development outcome of this project is modest. The China CPF for FY 20-25 emphasizes the
+importance of investing in green growth to combat climate change. The Government has also made recent
+commitments to hit peak emissions by 2030 and for carbon neutrality by 2060. Investing in renewable energy
+sources like solar PV systems will be critical to fulfilling these commitments. In addition, the ICR notes that
+Yuanshen has already developed 207 MW of distributed PV projects in other cities (mostly in Zheijiang
+province) and has 60 MW in the pipeline, most of which received central and local subsidies. Yuanshen’s
+experience suggests that the viability of the RESCO model is sustainable even without subsidies if the
+capacity factor is above 11 percent and electricity tariffs are above 0.7 Yuan per KWh.
+
+The appropriate policies and market incentives will need to be in place to allow these projects to scale up in
+a sustainable manner. Issues related to grid connection and net metering may arise if the share of these
+distributed solar PV systems continues to increase. Furthermore, the risk of reduced solar capacity if air
+pollution continues to increase unabated in larger cities, including Beijing, could adversely impact the
+sustainability of rooftop solar projects.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+
+
+
+                                                                                                    Page 11 of 16
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     CN-Beijing Distributed PV Scale-Up (P125022)
+
+
+
+  The design of the project benefited from the World Bank’s experience in the sector, particularly the China
+  Renewable Energy Development Project (REDP). Lessons from REDP were fully taken into account,
+  including the need to take country circumstances into account in project design, to foster synergies
+  between market and technology development (with TA assistance), and to provide adequate support and
+  adapt the procurement process based on the implementing agency’s capacity and technologies involved
+  (PAD, p.7). The World Bank had also supported the development of three pilot ESCO companies during
+  the 1990s, to promote the ESCO business model. Lessons from that experience were brought to bear in
+  the development of the RESCO model for the renewables sector. Lessons from other countries, such as
+  Germany, the US and Mexico, which indicated that free-flowing between distributed PV solar systems
+  and local grid posed no essential technical problems for grid operation when the connected capacity was
+  a small share of overall local capacity, were also taken into consideration in the design of the operation.
+
+  Though the Bank team took all major aspects of the project, including technical, economic, financial,
+  institutional and fiduciary, along with potential risks and mitigation measures, into account, the difficulties
+  in marketing and the challenges in the low tariff and budget management system were underestimated,
+  which caused delay in implementation, finally leading to the need for restructuring (ICR, p. 28). Another
+  shortcoming in project preparation, according to the ICR, was that a more thorough market survey and
+  consultation targeting larger school samples was not undertaken to better gauge schools’ willingness to
+  participate and to better design customized incentive mechanisms to encourage schools to actively
+  participate in the project.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The project appears to have been adequately supervised, with eighteen supervision missions over the
+ six years of its operation. Supervision was led by three TTLs over the period, two of whom were
+ country-office based. This enabled them to be fully responsive to implementation issues, especially
+ during the later stages of project implementation, and to more easily maintain a constructive dialogue
+ and relationship with the client and key stakeholders. Formal supervision missions were held twice-
+ yearly, supplemented by regular meetings with the PMO and stakeholders. The team for the parallel
+ CUSBEEERE project also joined hands in the supervision of the project on a regular basis.
+
+ The ICR reports (para 79) that during the final two years of implementation, the task team kept close
+ contact with the client on a weekly basis, undertook frequent on-site supervisions and had numerous
+ telephonic discussions. Yuanshen was requested to prepare an action plan with key milestones, and
+ report to the Bank team on a monthly basis. Additional ISRs were prepared by the team during the final
+ phase to keep management updated on progress and implementation issues arising. These strong
+ efforts helped ensure that the project’s 100 MW installation target was achieved by project closing.
+
+
+
+
+  Quality of Supervision Rating
+
+
+                                                                                                       Page 12 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     CN-Beijing Distributed PV Scale-Up (P125022)
+
+
+
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ According to the ICR p. 26), the results framework was mostly adequate for the task of assessing the
+ achievement of the PDO and attribution to the project. That said, the original outcome indicator of
+ “materialized share of renewable energy from rooftop PV systems in electricity consumption in selected
+ schools” was somewhat vague and difficult to quantify, and had to be dropped at restructuring. Additional
+ changes were made subsequently during restructurings to strengthen project monitoring.
+
+
+
+b. M&E Implementation
+  The ICR reiterates that a large number of supervision missions were carried out during the life of the
+  project, to monitor detailed progress and provide support to Yuanshen, which was implementing the
+  project. The task team regularly collected detailed progress data, and brought issues to the World Bank’s
+  management’s attention. In addition to the supervision missions, Yuanshen set up a Centralized Control
+  Center for data collection and monitoring of all PV systems installed. The data collected were used to
+  verify generation data at the Beijing Energy and Environment Monitoring Center. The implementing
+  agency also collected and provided other quarterly and financial management data on a regular basis.
+
+
+
+c. M&E Utilization
+  The information collected through the system helped identify the issues associated with the operation,
+  as well as assisting in maintaining the PV systems installed in various sites. The data provided a
+  comprehensive view of the operation of all subprojects in Beijing, and was used to inform the mid-term
+  review, as well as providing the basis for the timely restructuring of the project.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as Environmental Category B, reflecting the limited likelihood of environmental,
+   safety and health impacts. As designed, PV systems would be installed on the roofs of existing buildings,
+   without the need for any land acquisition or resettlement. The project restructuring expanded the PV
+   system installations to buildings not only in schools but other structures and some open green
+
+
+                                                                                                  Page 13 of 16
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     CN-Beijing Distributed PV Scale-Up (P125022)
+
+
+
+   spaces. However, as per the Restructuring Project Paper, no additional environmental impacts were
+   anticipated on that account and the environmental category remained B.
+
+   The only safeguards policy triggered was Environmental Assessment (OP/BP 4.01). An Environmental
+   Management Plan (EMP), acceptable to the Bank, was prepared, providing a set of environmental codes of
+   practice for common environmental and safety issues. These were strictly enforced by Yuanshen during
+   installation and operation. The ICR reports (p.27) that Yuanshen was able to obtain all relevant land and
+   building documents of property owners and to complete proper lease agreements for their roof spaces. The
+   environmental and social safeguards performance was reported to have been satisfactory throughout
+   project implementation
+
+
+
+
+b. Fiduciary Compliance
+   Financial Management (FM): The ICR reports (p.27) that a sound financial management system was
+   maintained throughout the implementation of the project, to ensure that project funds could be used for
+   intended purposes. A total of 12 unaudited interim financial reports (IFRs) was submitted to the Bank as
+   per the legal document, but only 3 were submitted on a timely basis. The required annual audit reports
+   were however submitted on a timely basis. It is noted that the external auditors issued unqualified opinions
+   and raised no significant issues.
+
+   Procurement: The ICR reports (p.27) that virtually all contracts under the project were subject to
+   procurement post review (carried out by the Bank on a sample basis each year). No significant deviations
+   from Bank procurement policies were identified, and overall procurement management was found
+   satisfactory.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   As the ICR notes, a significant unintended positive impact of the project is the institutional strengthening of
+   Yuanshen in the PV business development. The PV project operation/management system, human
+   resource, and technical standards development has improved considerably through this project. The
+   company also received quite a few honors and prizes due to its strengthened institutional capacity.
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                  Reason for
+Ratings                         ICR                     IEG
+                                                                                  Disagreements/Comment
+Outcome                         Satisfactory           Satisfactory
+
+
+
+                                                                                                     Page 14 of 16
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       CN-Beijing Distributed PV Scale-Up (P125022)
+
+
+
+Bank Performance                  Satisfactory        Satisfactory
+
+Quality of M&E                    Substantial         Substantial
+
+Quality of ICR                    ---                 Substantial
+
+
+12. Lessons
+
+IEG derives the following lessons drawn from the ICR:
+
+1. It is critical to conduct thorough market surveys and consultation to test a new business
+model in an emerging sector prior to its implementation. In the current project, the RESCO
+model being piloted proved more challenging to implement than anticipated at appraisal, on account
+of the reluctance of schools to participate. Part of the reason may have been that the market survey
+conducted at preparation was limited to a small number of schools, and consultations carried out
+lacked in-depth insight into the willingness issue. With more detailed insight, target installation
+capacity might have been tailored to a smaller scale or scope of the project to have been widened to
+include more sectors at the outset.
+
+2. Close coordination between two interlinked projects can help bring about successful
+project outcomes. The second component in this project, prior to restructuring, involved TA for
+developing local capacity for scaling up commercially viable solar energy deployment, which was a
+critical assumption for the success of this project. Although this component was formally dropped at
+restructuring and subsumed by another parallel project, CUSBEERE, the teams continued to
+coordinate closely and conducted supervisions jointly, which contributed to the successful outcome
+of the current project.
+
+3. Successful testing of a new business model in an emerging sector amid evolving policy
+environment calls for close interaction and coordination with the client, to be able to monitor
+evolving policy, proactively resolve any issues arising and make time adjustments to the
+project. For the current project, the RESCO model was a new business model to be piloted in the
+distributed renewable energy sector with the support of the national subsidy policy. The Bank team
+established a constructive dialogue mechanism with key stakeholders, to be able to respond with
+agility to any issues arising (e.g. in relation to grid connection or fiduciary aspects). This helped
+build trust between the Bank team, the implementing agency and key stakeholders, and allowed the
+for the timely restructuring of the operation and the eventual, successful accomplishment of key
+project targets.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+
+                                                                                                  Page 15 of 16
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      CN-Beijing Distributed PV Scale-Up (P125022)
+
+
+
+The ICR is clearly written, concise and consistent with guidelines. It provides adequate details of the project’s
+activities. Its analysis and lessons are generally evidence-based and internally consistent. The analysis of
+project performance and efficiency is results oriented, based on the foundation of a well-articulated theory of
+change, for both the original formulation of the project and the revised formulation, post-
+restructuring. Adequate detail is provided on the subsidy mechanisms facing the project at appraisal and the
+performance-based mechanism introduced during implementation.
+
+The review did have some weaknesses. In particular, in discussing the relevance of the project, information on
+the Bank’s prior experience in the energy sector in China, and in the renewable energy/Solar PV sector in
+particular (even at a global level), was lacking and would have been useful to provide an appropriate context for
+subsequent discussion. Secondly, a fuller discussion on the adequacy of the project’s implementation
+arrangements would have been helpful.
+
+Based on the above, the quality of the ICR is rated Substantial.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                     Page 16 of 16
+

@@ -1,0 +1,942 @@
+     Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+     AF:Agricultural Inputs Project (P120397)
+
+
+
+                                                                                     Report Number: ICRR0022047
+
+1. Project Data
+
+
+
+ Project ID                                     Project Name
+ P120397                                        AF:Agricultural Inputs Project
+
+ Country                                        Practice Area(Lead)
+ Afghanistan                                    Agriculture and Food
+
+
+ L/C/TF Number(s)                               Closing Date (Original)               Total Project Cost (USD)
+ TF-15003                                       30-Jun-2013                                         38,301,558.53
+
+ Bank Approval Date                             Closing Date (Actual)
+ 17-Jun-2013                                    30-Jun-2019
+
+                                                IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                               74,750,000.00                                    74,750,000.00
+
+ Revised Commitment                                67,250,000.00                                    38,301,558.53
+
+ Actual                                            38,301,558.53                                    38,301,558.53
+
+
+
+
+ Prepared by                  Reviewed by                     ICR Review Coordinator         Group
+ Ebru Karamete                Christopher David               Christopher David Nelson       IEGSD (Unit 4)
+                              Nelson
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The project development objectives stated in the Trust Fund Grant Agreement (TFGA, page 4) and Project
+   Appraisal Document (PAD, page 13), were the same, namely: “strengthened institutional capacity for
+   safety and reliability of agricultural inputs and sustainable production of certified wheat seed”.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+                                                                                                      Page 1 of 18
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     AF:Agricultural Inputs Project (P120397)
+
+
+
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project had four components:
+
+   A. Improved Wheat Seed Production (Appraisal estimate: US$26.4m and Actual: US$22.74m). The
+   component aimed to (a) improve the efficiency of varietal selection and production of breeder seed in the
+   Agricultural Research Institute of Afghanistan (ARIA); (b) improve the efficiency of multiplication of breeder
+   seed into foundation and registered seed at the Improved Seed Enterprise (ISE). Capacity building was
+   planned through workshops and training for staff of ARIA, ISE, the National Seed Board (NSB); and the
+   Afghanistan National Seed Organization (ANSOR).
+
+   Revisions: Under Component A, the production of “registered seed” was removed from the project
+   description because the government discontinued the production of registered seeds from 2013. The
+   change did not negatively affect the production of certified seeds as there was an increase in the production
+   of other high-grade seeds to meet the national requirements of certified seeds. The project also developed
+   new activities to support the Seed Certification Directorate including development of the seed database.
+
+   B. Plant Quarantine Networks and Quality Control of Agro-chemicals (Appraisal estimate: US$29.9m
+   and Actual: US$9.16m). The aim of this component was to prevent marketing of banned, hazardous,
+   substandard, and unreliable pesticides and fertilizers and to lower the risk of the introduction and spread of
+   quarantine pests into the country. There were two sub-components to improve the safety and reliability of
+   agricultural inputs through TA and physical infrastructure for quality control of agrochemicals and plant
+   quarantines. The planned activities included investments in physical infrastructure and TA to implement the
+   relevant laws including the Pesticides Act and to enhance the capacity of MAIL for the implementation of the
+   Plant Quarantine Act and Regulations.
+
+   Revisions: Under Component B, the support to the three Border Quarantine Stations (BQS) was expanded
+   to include the provision of fumigation facilities in order to facilitate exports.
+
+   C. Input Delivery Systems (Appraisal estimate: US$2.5m and Actual: US$0.43m). This component
+   aimed at analyzing the agricultural input delivery systems and pilot improvements to enhance farmers’
+   access. The component was expected to (a) analyze the data from the two surveys carried out during
+   preparation (i.e. farm level production activities survey and agricultural inputs value chain survey); (b)
+   develop a plan of action for investment activities in inputs delivery systems including piloting alternative
+   forms of input delivery systems; and information and communications technology (ICT) applications in
+   agricultural inputs delivery systems. Candidate ICT applications include mobile phone-enabled text
+   messaging system to provide farmers with prices of various agricultural inputs at various locations in the
+   country; a “hotline” to provide farmers with information on safe handling and usage of various agro-
+   chemicals; and mobile phone- based application for input quality verification using unique identifiers.
+
+
+
+                                                                                                      Page 2 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     AF:Agricultural Inputs Project (P120397)
+
+
+
+   Revisions: The scope of Component C was reduced due to inadequate capacity. The Component was
+   expected to conduct farm level surveys on seed value chains, develop and pilot investment plans, establish
+   alternative forms of inputs delivery and pilot an ICT based application on input delivery system. Due to
+   low capacity, all the activities were cancelled except for piloting an input voucher delivery system as an
+   alternative form of input delivery. This was to address the inefficient input distribution system, support the
+   establishment of a fully privatized seed market system and gradually encourage the phasing out of
+   government intervention in the seed distribution system.
+
+   D. Project Management and Monitoring (Appraisal estimate: US$15.9m and Actual $5.97m). The
+   component financed activities of the Project Management Unit (PMU) for project implementation,
+   coordination, financial management, procurement, safeguards, monitoring and evaluation and management
+   of information systems.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost. The actual total project cost was US$38.3 million, significantly lower than the appraisal
+   estimate of US$74.5 million (51 percent of appraisal amount). This was mainly due to depreciation of
+   Afghanistan currency (AFS); it depreciated dramatically versus the US$, from AFS 55 at appraisal to AFS
+   78 at closing. In addition, some activities under Component B and C were canceled and efficiency gains
+   were achieved under the project management component.
+
+   Financing. The project was financed 100 percent by an IDA grant (TF-15003).
+
+   Borrower contribution: There was no borrower contribution.
+
+   Dates. The project was approved on June 17, 2013 and became effective on June 30, 2013. The mid-term
+   review was carried out on May 22, 2016. The project closed on June 30, 2019, after a delay of one year due
+   to delays in procurement and construction of laboratories and the need to train laboratory staff after
+   construction was completed. (Restructuring Paper, 2017, page 8).
+
+   Restructuring: A Level II restructuring that does not require Board approval was conducted on June 2nd,
+   2017. The restructuring included (i) changes in the results framework; (ii) budget reallocations from
+   components B and C to component A as it was discovered during implementation that the cost for
+   renovation and rehabilitation of research and seed production units and civil works were underestimated;
+   (iii) changes in legal covenants; and (iv) cancelation of US$7.5m funds (this was carried out in order to
+   reduce the allocation to component D that was unrealistically estimated at appraisal and a cancellation of
+   US$0.5m for incentive payments to selected civil servants).
+
+   Split Rating: While the ICR conducted a split rating due to revisions in the results framework, the changes
+   in the outcome indicators either included more relevant and measurable indicators or better
+   described/clarified the indicators, but no changes were made by lowering the indicator targets. Therefore,
+   this review is not going to conduct a split rating.
+
+
+
+
+3. Relevance of Objectives
+
+
+                                                                                                    Page 3 of 18
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     AF:Agricultural Inputs Project (P120397)
+
+
+
+Rationale
+Country and Sector Context: After decades of war and political instability, Afghanistan is one of the
+world’s poorest and least developed countries in the world. The national poverty rate in 2010, was about 36
+percent, and more than half the population was considered vulnerable. Since over 70 percent of the
+Afghanistan population lived in rural areas, rural poverty accounted for almost 84 percent of the national
+poverty rate. Both economic development and poverty reduction in Afghanistan were highly dependent on
+the performance of the agricultural sector. The sector accounted for 31 percent of GDP but provided
+employment to 59 percent of the labor force. About 36 percent of households relied on farming as their
+main source of income, while another 6 percent depended on farm wages as their main source of income.
+Wheat was the primary staple food of most households. The crop was grown on some 2.55 million hectares
+and more than 20 million rural people directly depended on it (ICR page 1). Despite donor-funded
+agriculture and rural development programs, the country lagged significantly behind its neighbors in
+agricultural productivity due to reduced private sector activity, increasing criminal activities and deteriorating
+infrastructure resulting from increasing fragility. Limited access to quality inputs at affordable prices was a
+key constraint to higher agricultural productivity. The agricultural inputs delivery network in Afghanistan
+remained underdeveloped, weakly regulated, and distorted. Fertilizers and other agrochemicals (pesticides,
+fungicides, herbicides, etc.) were nearly entirely imported and often of unreliable quality. There were no
+legal and regulatory frameworks, as well as the infrastructure to exercise and enforce quality control.
+Furthermore, farmers’ access to the inputs was insufficient with weak knowledge regarding their safe
+transport, storage and use. Besides potentially damaging farmers’ crops, the unreliable quality of most
+agrochemicals led to hazardous situations for human health and the environment (in particular soil and
+water resources).
+
+Relevance to Government Strategies: The project aligned with the government strategies. Afghanistan
+had a National Seed Law (2005), an updated Seed Policy of 2012 and Official Seed Rules and Regulations
+which were in the process of legal review, and a National Seed Board (NSB). The NSB provided oversight
+to the seed sector and standardized the process of variety selection and improved seed production by the
+government and private sector agencies. There was also a functioning (but not yet formalized) Seed
+Certification Agency (SCA). The government in collaboration with its development partners, prioritized the
+strengthening of the agricultural production base especially for wheat, under the 2008 National Agricultural
+Development Framework (NADF) through enhancing the capacity of the institutions involved in the inputs
+value chain system. An assessment of investment requirements (infrastructure, training, equipment etc.)
+was completed for the main agencies involved in the improved wheat seed production chain, including the
+Agricultural Research Institute of Afghanistan (ARIA), the Improved Seed Enterprise (ISE), the Afghanistan
+National Seed Organization (ANSOR), the Seed Certification Agency (SCA), the National Seed Board
+(NSB) and the International Center for Improvement of Maize and Wheat (CIMMYT). These organizations
+not only required institutional strengthening to make them functional, but also capacity building to support
+implementation of their functions. Also, substantial investments remained to be made in the seed sector in
+order to transition towards a market for certified wheat seed with minimal external support.
+
+The PDO reflected the country’s vision and strategy, starting with the Agriculture Master Plan prepared in
+2005, the National Agriculture Development Framework (NADF) as well as the Agriculture and Rural
+Development Strategy (ARDS), which is a chapter of the Afghanistan National Development Strategy
+(ANDS) developed in 2008. At closing, the AAIP project remained fully in line with the country’s agriculture
+sector priorities; particularly the Strategic Priority 2: “Increased Wheat Production” outlined in the
+Government’s adopted National Comprehensive Agriculture Development Priority Program (2016-2020). It
+
+
+
+                                                                                                       Page 4 of 18
+                                      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+                                      AF:Agricultural Inputs Project (P120397)
+
+
+
+               contributed to the Strategic Priority 3 “Horticulture Value-chain” by creating a functional phytosanitary
+               system; which was one of the key obstacles for accessing higher end markets.
+
+               Relevance to the World Bank Strategies: The project was fully consistent with the Bank Group’s
+               Afghanistan Interim Strategy Note (ISN) for FY 2012-14 which had three pillars: (a) institutions and
+               capacity, (b) equitable service delivery, and (c) growth and jobs. The Project also remained fully aligned
+               with recommended Pillar I: “Developing Prioritized Value Chains” of Afghanistan Agriculture Sector Review
+               (AASR) completed by the World Bank in 2014 and the World Bank’s Country Partnership Framework (CPF)
+               FY2017-20 objective 2.4: “Increased agricultural productivity” through its efforts to improve access to key
+               inputs.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To strengthen institutional capacity for safety and reliability of agricultural inputs
+
+                             Rationale
+                             Theory of Change
+
+                             The project aimed to help finance the costs associated with improving the wheat seed value chain; preventing
+                             marketing of banned, hazardous, sub-standard, and unreliable pesticides and fertilizers, lowering the risk of
+                             the introduction and spread of quarantine pests in the country and improving the reliability of sanitary and
+                             phytosanitary certification systems for export commodities; and improving farmers’ access to agricultural
+                             inputs of reliable quality. The support was to be achieved through (A) establishing a commercially viable and
+                             technically efficient seed production and certification system to improve the currently unsustainable
+                             production system of certified wheat seed (which is assessed in detail under the second objective); (B)
+                             improving safety and reliability of agricultural inputs through building and strengthening the institutional
+                             capacity and physical infrastructure for quality control of agrochemicals and plant quarantine; and (C)
+                             analyzing current agricultural input delivery systems and piloting improvements to improve farmers’ access
+                             (assessed under the second objective).
+
+                             Three major activities were carried out to achieve this objective. These were the quality control of pesticides,
+                             fertilizers and the conduct of plant protection and quarantine services as detailed below.
+
+                             Quality Control of Pesticides: Before the project, Afghanistan lacked an appropriate legal framework to
+                             establish safety/reliability of inputs. The project supported the preparation of policies, acts and regulations
+                             related to plants and quarantine. These Plant Protection & Quarantine; and the Agricultural Pesticides Acts
+                             were passed into law and are currently being implemented. The project also initiated a nationwide insect
+
+                                                                                                                                  Page 5 of 18
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   AF:Agricultural Inputs Project (P120397)
+
+
+
+pest and plant diseases survey. In addition, the project conducted a pesticides market survey between 2016-
+18, with the aim of assisting PPQD and traders to identify and isolate banned pesticides. The survey identified
+93 good pesticides while nine other expired/banned pesticides were isolated and collected into warehouses of
+PPQD for disposal. The project also introduced the Integrated Pest Management (IPM) approaches on
+cereals in 2016 through the conducting of farmer’s field schools (FFS). A total of 49 FFSs were organized for
+862 farmers in 10 provinces on wheat and vegetables. They were carried out to complement the efforts at
+ensuring limited use of chemicals and safe use of available ones. These were complimented with IPM training
+of trainer activities with PPQD, National Horticulture and Livestock Project (NHLP), 245 farmers and training
+of 61 women on kitchen/home gardening. In addition, bio-efficacy trials were also conducted on pesticide use
+at the research centers of ARIA. The above activities were carried out and almost all the intermediate
+indicators were fully achieved, but the end results of sample testing to ensure compliance with standards,
+determine composition of pesticides and downstream assessment of pesticide residue in food products were
+not realized within the timeframe of the project’s implementation.
+
+Quality Control of Fertilizers: Against a target of 20, the project supported bio-efficacy trials on 37 different
+fertilizers in 12 locations from 2016 -2018, which assisted in building the capacity of PPQD staff. Training was
+also provided for over 5,000 staff of the Department of Agriculture, Irrigation and Livestock (DAIL),
+agrochemical traders and farmers in 29 provinces, on fertilizer formulation and quality analysis. In addition,
+training of 24 staff of ARIA, PPQD, Seed Certification and Animal Husbandry department of MAIL was carried
+out in the areas of gas chromatography and DNA Sequencing. Fertilizer Rapid Test Kits were also supplied to
+PPQD to assist in testing the quality of imported fertilizers. The project supported the preparation of policies,
+acts and regulations for development of the Fertilizer Act which is being processed for approval in Parliament.
+
+Plant Protection and Quarantine Services: The project planned to rehabilitate, establish and equip the
+central and national border plant quarantine stations to provide such services as issuing of plant health
+certificates, testing consignees and plant products and prevention of entering microbial and epidemic pests
+and enforcing quarantine laws and by-laws. The project constructed four central laboratories for the Plant
+Protection and Quarantine Directorate so that the lab could be used for DNA level diagnosis of pests and
+diseases as well as ascertaining agro chemicals qualities. Nine border stations were also fully rehabilitated
+out of the 11 scheduled. Due to slow procurement, only the physical structures were built at project closing.
+Relevant training was provided, and some basic equipment was also purchased but the high-tech equipment
+for DNA level diagnosis of pest and diseases could not be procured. Furthermore, agricultural products
+quality testing for heavy metals, aflatoxins, microbes etc. could not be carried out. Some basic inspections
+were conducted and improved phytosanitary certificates for export markets issued, but without the high-tech
+equipment, the proposed plant products protection, issuance of plant health certificates, enforcement of
+quarantine measures and safety practices could not be fully carried out and there are valid concerns relating
+to the sustainability of the infrastructure investments.
+
+Outcomes:
+
+Three sets of indicators were listed as PDO indicators in the Results Framework (RF) to assess the outcome,
+which are weak in measuring progress against the objective. No outcome level indicator was designed to
+measure the improved institutional capacity building. Also, the activities leading to the outcome were
+significantly broader than represented by the indicators. The outcome indicators are; PDO indicator 3: Listing
+of plant quarantine pests and diseases; PDO indicator 4: Number of Agricultural products samples tested for
+compliance; and PDO indicator 5: “Bad pesticide samples intercepted” which was later changed to
+“Pesticides samples tested for compliance”. Out of these three outcome indicators only the first one was
+achieved. The focus was to establish standard plant protection and quarantine networks that will help
+
+                                                                                                   Page 6 of 18
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   AF:Agricultural Inputs Project (P120397)
+
+
+
+the country meet credible food safety and SPS measures for major international food markets. While the
+project completed all the planned activities on quality control on pesticides and fertilizers, due to procurement
+issues, the high-tech plant quarantine testing equipment could not be procured. Due to the above-mentioned
+weaknesses the achievement of this objective is rated as modest.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 2
+Objective
+To strengthen institutional capacity for sustainable production of certified wheat seed.
+
+Rationale
+Theory of Change:
+
+The objective was to be achieved through establishing a commercially viable and technically efficient seed
+production and certification system to improve the currently unsustainable production system of certified
+wheat seed. Institutionalization of an independent Seed Certification Authority, which is essential for
+improving the sustainability of seed value chains, was financed by the European Union. The activities to be
+implemented for sustainable production of certified wheat seed were expected to strengthen the entire seed
+value chain with the following outputs: utilization of advanced breeding lines for variety trials and agronomic
+experiments in ARIA; efficient production of breeder, foundation and registered seeds in ARIA and ISE;
+improved seed multiplication factors (from breeder to foundation seed); improved coordination of the seed
+industry by the NSB; and increased production of certified wheat seed to economically justifiable levels in line
+with sustainable seed replacement practice. These activities were implemented to strengthen the capacity of
+the major institutions involved with the seed value chains; ARIA, ISE, PSE and ANSCU.
+
+Outputs:
+
+      In the formal seed production system, as specified in National Seed Policy, ARIA is responsible for
+       developing and introducing new varieties and the production of Breeder Seeds. Breeder seeds are
+       provided to the Improved Seed Enterprise (ISE) for multiplication to Foundation Seeds on its regional
+       farms or through contracted seed growers. The Foundation Seeds are then made available to the
+       Private Seed Enterprises (PSEs) working under the umbrella of Afghanistan National Seed
+       Companies Union (ANSCU) for Certified Seed production and final distribution to the farmers. The
+       outputs are as follows:
+      Building research capacity at ARIA: The agriculture research system suffered widespread
+       degradation of infrastructure and human capital during the years of conflict. The project played a vital
+       role in building the institutional capacity of the ARIA and now 11 research stations are being used for
+       testing of varieties, experimental trials and production and release of certified wheat and various other
+       crop seeds. Land was rehabilitated (308 ha as opposed to 350 ha at ARIA farms), equipment supplied
+       (207 farm machinery supplied), and staff trained on breeder seed selection (642 staff).
+      Building institutional capacity at ISE: The project constructed or renovated four standard seed
+       production farms in Balkh, Herat, Parwan and Nangarhar provinces to improve the production capacity
+
+
+                                                                                                   Page 7 of 18
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   AF:Agricultural Inputs Project (P120397)
+
+
+
+       of breeder and foundation seeds. The construction and land development mainly included
+       construction of office buildings, equipment shelters, threshing floors, workshops, warehouses, water
+       reservoirs, irrigation canals, grading and land leveling. In total 460 hectares of land were developed at
+       ISE farms (51% of the original target and 81% of restructured target). 72 types of farm machineries
+       were provided to ISE farms and training provided for 150 staff members. Due to this support, the yield
+       of wheat increased from 3.92mt/ha to 4.27mt/ha from 2017 to 2018, and the production of foundation
+       seeds by ISE increased from 406.3mt in 2014 to 867.13mt in 2018 or an increase of 113.4%.
+      Strengthening seed distribution chain through support to ANSCU and PSE: The project provided
+       technical and financial support to ANSCU for production/distribution of certified wheat seed and an
+       assessment of technical capabilities of Private Seed Enterprises (PSEs) was also conducted. The
+       seed database was developed for the Directorate of Seed Certification, and its staff were trained and
+       equipped in seed quality assessment. Based on the assessment, 102 PSEs were certified, profiled
+       and registered. AAIP also established 285 wheat seed demonstration plots in 28 provinces through
+       the PSEs to improve linkages between PSEs and farmers, ascertain seed qualities and provide a
+       choice of seed providers to the farmers based on quality of seed produced. Workshops, training
+       programs and seed demonstration plots were sponsored by AAIP in 28 provinces for 76 PSEs in
+       collaboration with the major seed organizations including the Directorate of Seed Certification, and
+       Extension. The project supported the government to produce 9,755.56mt of certified seeds.
+      Piloting an input voucher system conducted for 2 years: At project start-up, the input delivery
+       system in Afghanistan was ineffective and concentrated on public sector subsidies delivered to
+       farmers through bulk purchase of certified seeds from PSEs. The bulk purchase and distribution
+       system compromised quality and lacked transparency with an average of 15,000 farmers targeted as
+       beneficiaries. The project developed and piloted a voucher-based system of input delivery which
+       targeted farmers through their registered profiles and transferred the government subsidy directly to
+       them through the vouchers. This was piloted in collaboration with FAO in 2017 in four provinces of
+       Balkh, Kabul, Nangarhar and Herat for a total of 6,000 farmers. In participating districts, farmers were
+       selected through a verification survey based on district data received from FAO. The scheme
+       expanded in 2018 to cover additional seven provinces and 40 districts with a total number of 18,920
+       wheat growers as beneficiaries. In those piloted districts, the beneficiaries confirmed the benefits of
+       the voucher system and the quality assurance of the certified seed. While the voucher system
+       established a smart subsidy system, its requirement of a central control system presents challenges
+       when it is scaled up, thus it may not be able to meet the aim of creating a self-supporting, market
+       based, subsidy free system in the long run. The system requires a census of farmers to establish a list
+       of eligible farmers to be provided with subsidy card, which would have to be verified annually. The
+       preparation of voucher cards, their distribution, coordination, monitoring and timely delivery will be a
+       challenge given the country’s size and terrain. These activities also need to be repeated every year
+       and the resource requirements in terms of funds and manpower will be significant. In this way, the
+       operational model was probably unrealistic.
+
+Outcomes:
+
+The outcome was evaluated against the achievement of the first two indicators which measured the wheat
+seed multiplication factor and the production of certified seeds. Accordingly, the project exceeded the wheat
+seed multiplication, with an actual ratio of 26.3 (compared to the baseline 14.8 and the target of 26). The
+project supported the government to produce 9,755.56mt of certified seeds. Given the target of
+10,498.8mt set by the NSB in 2018, the project almost achieved the set target with 93% of planned amount
+compared to the target of 95 % (before restructuring this indicator was measured in tons, with the
+
+
+                                                                                                  Page 8 of 18
+                                Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+                                AF:Agricultural Inputs Project (P120397)
+
+
+
+                            restructuring the indicator was revised as % of the planned amount by NSB). While the project piloted a
+                            voucher system, the aim of creating a self-supporting, market based, subsidy free seed distribution system in
+                            the long run is yet to be tested further and developed. On balance the achievement of the objective is rated
+                            Substantial.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            While the first objective of strengthened institutional capacity for safety and reliability of agricultural inputs was
+                            modestly achieved due to lack of appropriate indicators measuring the objective and due to various
+                            performance shortcomings. So while the project did many activities on the quality control of pesticides and
+                            fertilizers with the exception of delivery of high-tech lab equipment for plant protection and quarantine due to
+                            fragility situation it is difficult to gauge the level of achievement against the objective. The second objective of
+                            strengthened institutional capacity for sustainable production of certified wheat seed is achieved substantially.
+                            On balance, the overall efficacy is rated substantial.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+   5. Efficiency
+   Economic Efficiency:
+
+   Ex-ante cost-benefit analysis estimated the returns on the improved wheat seed production (Component A) and
+   plant quarantine networks and quality control of agro chemicals (Component B). The overall project ERR was
+   estimated at 19 percent and the expected values of NPV was estimated at US$34.7 million in 2012 prices over a
+   project horizon of 25 years.
+
+   The ex-post analysis followed the same methodology. The benefits of Component A were estimated based on:
+   (i) efficiency gains in wheat seed production; and (ii) productivity increase in wheat production. The benefits
+   attributed to Component B included mainly higher price realization for exports and expansion in the volume of
+   exports of agricultural commodities particularly raisins (10 % incremental increase). Since the major activities of
+   the project lagged by one year during implementation, the ICRR lagged the benefits one year as well compared
+   to the appraisal timeline; i.e. assumed that the project benefits would start in year 5 reaching at full potential by
+   year 11. Data was based on a Mid-line Survey and from the Final Project Review Report, both prepared by the
+   Independent Project Consultants with support from the PMU. Full project cost was used in the analysis.
+   The project interventions enabled Afghanistan to make significant progress towards the status of self-sufficiency
+
+                                                                                                                                    Page 9 of 18
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      AF:Agricultural Inputs Project (P120397)
+
+
+
+in production of certified seed of wheat. Estimation of requirement versus production capacity developed
+through the project indicated that Afghanistan would be able to produce 49,743 tons of certified seed of wheat in
+year 2021 against a demand for 50,750 tons, provided that the government continues to support the three
+institutions (i.e. ARIA, ISE, and PSE) after the project is closed. Wheat productivity increases were estimated at
+25 percent due to the introduction of agroecology specific varieties and agronomic technologies introduced as
+part of the project intervention. However, these estimations are quite optimistic and very much dependent on the
+sustained support from the government/donors, as well as demand from the farmers for certified seeds.
+
+The comparison of results of the ex-post economic evaluation with the appraisal is as follows: (i) NPV was US$
+34.7 million at appraisal; and at the Project’s closing it is expected to be US$24.0 million; and (ii)Economic rate
+of return was 19.0 percent at appraisal, at the closure of the Project it is expected to be 21.8 percent mainly due
+to the gains in currency exchange rate during the project period.
+
+Administrative and Operational Efficiency:
+
+The project experienced operational and implementation challenges and there were also delays due to
+procurement challenges for the first 4 years of operation. While the fragility situation contributed to the
+bottlenecks and delays, there were also administrative issues that impacted efficiency such as limited technical
+and procurement capacity, weak governance, poor inter-ministerial coordination, high staff turnover and land
+disputes. At restructuring, the project was scaled down with a 10 percent budget reduction, and at closing, only
+51.2 percent of the original budget could be utilized, while acknowledging that part of this reduction was due to
+exchange rate changes. The project management costs were low at only about 1/3 of the estimated cost,
+($5.97m instead of the estimated $15.9m at appraisal).
+
+Due to modest gains, unrealistic economic analysis assumptions as well as administrative and operation
+inefficiencies, efficiency is rate as modest.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                      100.00
+ Appraisal                                                  19.00
+                                                                                       Not Applicable
+                                                                                      100.00
+ ICR Estimate                                               21.80
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+
+
+                                                                                                     Page 10 of 18
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      AF:Agricultural Inputs Project (P120397)
+
+
+
+
+The project’s objective is highly relevant to the strategies of the World Bank and the Government both at
+appraisal and at closing. The Efficacy in achieving the development objectives is rated as substantial, but
+marginally so, based on the substantial evidence on strengthened institutional capacity for sustainable
+production of certified wheat seed but offset by the modest achievement on strengthened institutional capacity
+for safety and reliability of agricultural inputs. Efficiency is rated modest due to unrealistic assumptions of the
+economic analysis and some administrative or operational bottlenecks. Based on these three sub-ratings, the
+project’s overall outcome is rated moderately satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+The ICR rated the risk to development outcomes as high, for which IEG concurs and described three main
+risk areas as below (ICR page 24-25):
+
+      Seed development: The sustainability of the seed production is dependent on the continuous support
+       of the three institutions (i.e. ARIA, ISE, and PSE), otherwise, it is highly at risk. (i) Research on variety
+       development: Due to fragility and on-going conflicts, the country has severe fiscal constraints and it is
+       doubtful if government can allocate sufficient budget for these activities on an annual basis to sustain
+       the seed production chain unless the current donors (USAID, CGIAR, EU) support is sustained. (ii)
+       Farm development: In addition to the project supported eight farms, there are two farms (Kariz farm in
+       ARIA and Kunduz farm in ISE) that will require around US$1.24 million for rehabilitation and
+       equipment. It is not clear where the budget for this activity will come from at project closing. (iii) O&M:
+       There was no provision for Operation and maintenance of the facilities (canals and research plots)
+       established by the project. At closing, all farms rehabilitated, and new farms established require
+       support of both workers and maintenance of the canals and research plots.
+      Operation of PQS, BQS and Laboratory Complex: To meet WTO standards for food safety and SPS
+       measures, PQS and BQS labs need to be operationalized. The construction work in eight BQS and
+       the lab complex has been completed but the equipping, operationalization and technical capacity
+       enhancement of these laboratories remained to be carried out. This might require up to US$ 5 million
+       for the equipment. The GOIRA is actively seeking alternate source of funding to complete the
+       remaining work.
+      Inputs Delivery System: A pilot Voucher System was implemented, and the department of extension
+       started an ICT system to continue with this scheme, but it is highly dependent on the availability of
+       subsidies, as well as administrative costs when scaled up nationally. The MAIL may have to consider
+       the design of an alternative distribution system without subsidy.
+      Security and Fragility is a continued risk in Afghanistan and with a deteriorating peace situation, the
+       fragility indices are becoming significant. Therefore, stable prices, qualified experts and investors’
+       confidence will continue to be a major concern.
+
+
+
+
+                                                                                                        Page 11 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     AF:Agricultural Inputs Project (P120397)
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  Project preparation took more than two years. The project design was based on a systematic study of the
+  institutions involved in seed production and handling of agrochemicals funded by the Afghanistan
+  Reconstruction Trust Fund (ARTF) as well as a comprehensive institutional needs assessment of all the
+  key institutions. Based on the assessment, component A was designed to address the identified
+  shortcomings. A Quality Enhancement Review (QER) was also conducted which enriched the design.
+  Procurement issues were identified as high risk and mitigation measures provided. Procurement was a
+  major problem still, so it is not clear if these measures were sufficient.
+
+  A major shortcoming of the design was the failure to envisage possible land disputes during the project
+  life. Though the project design was based on land utilization, little consideration was given to possible
+  land disputes because public institutions were involved as direct beneficiaries and thus the resettlement
+  policy framework (RPF), OP 4.12 was not triggered. The Bank team also did not complete the
+  assessment and design of the project with support for civil works, particularly the laboratories during the
+  preparation phase. The design of the civil works was carried out during implementation and took over two
+  years to complete (with realistic cost estimation) leading to re-allocation of budget between components
+  and the partial cancelation of the grant to proceed. In addition, the design of Component C, input
+  distribution system, was not realistic given the institutional capacity constraints. These design
+  shortcomings limited the potential impact of the project.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Unsatisfactory
+
+
+b. Quality of supervision
+ Bank supervision was responsive to procurement challenges and supervision assessments were candid,
+ but the restructuring was done quite late and the decision not to extend the project closing date negatively
+ impacted the project outcomes. The first two years of implementation focused on the designs of the
+ complex civil works and with the low capacity of the client, the response rate was slow. Mid-term review
+ (MTR) was rather late but held appropriately and major problem areas including procurement delays were
+ correctly flagged. Steps were also taken by the team through consultation, training, handholding and
+ recruitment of consultants to address the identified procurement delays. Delays were partly due to the low
+ capacity of the client, frequent changes in leadership of the implementation agency, slow and indecisive
+ response coupled with staff attrition and bureaucracy. After the restructuring, project implementation picked
+ up significantly. A second request for an extension of the project closing by one more year was made by
+ the government to complete the delayed procurement process for the complex lab equipment, but this was
+ declined by the Bank due to prolonged delays and suspected governance issues resulting from frequent
+ changes in the technical specification, estimated cost and possible vested interests.
+
+ Given the fragility context of Afghanistan and some of the political and security issues that affected the
+ progress of the project, the Bank management could have been more flexible. The overall Bank
+ performance is rated Moderately Satisfactory.
+
+
+                                                                                                    Page 12 of 18
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     AF:Agricultural Inputs Project (P120397)
+
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The M&E system had the following broad components: (i) concurrent monitoring of physical and financial
+ progress in MAIL Directorates using formats developed by the Implementation Management Support Team
+ (IMST); and (ii) M&E support agency to assist in monitoring PDO and intermediate outcome indicators
+ through surveys. The IMST was also expected to engage various consultancies to undertake three
+ surveys; MIS software development; decentralization of various MIS modules to MAIL Directorates;
+ operation and maintenance of the MIS; and capacity building. A survey firm was engaged in the
+ preparation phase to conduct two baseline surveys for component C– a technical farm survey and a supply
+ chain survey for agricultural input distribution networks (importers – wholesalers – retailers).
+
+ The M&E had two design shortcomings: (a) The PDO indicators particularly measuring the PDO on
+ institutional capacity for safety and reliability of agricultural inputs, was weak, i.e. adequate outcome level
+ indicators were not designed and the scope of the indicators did not fully capture the full range of actions
+ involved in the achievement of the PDO; (b) It did not specify regular thematic studies to be conducted to
+ aid improvement of project performance.
+
+
+
+b. M&E Implementation
+  The project developed an M&E system that collected data regularly for process monitoring and was
+  adequate to support record keeping and subsequent analysis. However, the planned survey to
+  decentralize various MIS modules to MAIL Directorates was not carried out. Also, the thematic studies
+  were not conducted based on the data collected. The greatest challenge that faced the M&E unit was the
+  high turnover of M&E specialists. Over the span of the project, three M&E specialists and four Directors
+  were employed but the established M&E system at all levels of the project functioned as designed. The
+  project utilized communities to collect and report on data on project indicators and on implementation
+  progress.
+
+
+
+
+c. M&E Utilization
+  The collected data was utilized to prepare periodic reports and compute project achievements and
+  evaluate project performance with some weaknesses particularly regarding Component B. The post-
+  completion Economic and financial analysis was also carried out based on the data produced by the
+
+                                                                                                      Page 13 of 18
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     AF:Agricultural Inputs Project (P120397)
+
+
+
+  M&E system. There were challenges in its implementation which limited the use of the results especially
+  in flagging the delays and remedial measures for implementation of component B of the project. While
+  there were shortcomings, the M&E system worked relatively well in an FCV environment. Thus the M&E
+  quality rating is substantial.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project was a category B project triggering Environmental Assessment (OP/BP 4.01) and Pest
+   Management (OP 4.09). Environment and Safeguard Management Framework (ESMF) for all civil works as
+   well as Pest Management Plan (PMP) was prepared.
+
+   The project hired an Environmental Specialist to prepare Site specific Environment and Safeguard
+   Management Plans (ESMPs) for the subprojects, the project team and its IPM specialist also provided
+   capacity development sessions and a practical session on Integrated Pest Management (IPM) to relevant
+   project staff. The project also built some infrastructure for Agrochemical testing laboratories and facilities to
+   support the screening of the quality of agrochemicals imported from other countries. A Consultant was also
+   hired a consultant to audit the implementation of the Environmental and Social management including Pest
+   Management and application of IPM approach. The project was not able to achieve aspects of the
+   objectives of the PMP that required: (i) finalization and approval of the pending Pesticide Regulation to
+   operationalize the country Pesticide Law that is already approved by Parliament and signed into law by the
+   country president, (ii) Prepare and implement a Pesticide Policy, (iii) Establish Steering Committee for Pest
+   Management, (iv) the project due to structural constraints did not properly contributed to the capacity of
+   PPQD Department, (v) prepare a Management Information System (MIS) in the country and utilize it for
+   curtailing pest and diseases, and (vi) establish the needed laboratories to check, verify, approve or
+   disapprove the quality of the pesticides coming into the country.
+
+   The land disputes issues were not envisaged at appraisal because the land areas identified were
+   categorized as public land. However, during implementation, conflicts from land ownership delayed
+   activities and the Involuntary Settlement Safeguard Policy (OP 4.12) was triggered by the task team. The
+   ICR did not describe how this policy was implemented if a resettlement plan was prepared and the land
+   disputes were resolved.
+
+
+
+
+b. Fiduciary Compliance
+   Financial Management: The ICR noted that (page 22-23), the FM performance rating of the project
+   remained moderately satisfactory throughout the project life. The project received unqualified audit reports
+   for the FY 2011 to FY 2017; the audit report for the FY 2018 was to be received by December 31, 2019
+   and the audit report for FY 2019 was scheduled to be received by June 30, 2020. The project team
+   subsequently stated that,“The project’s responsiveness to audit and supervision observations improved in
+
+                                                                                                      Page 14 of 18
+    Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+    AF:Agricultural Inputs Project (P120397)
+
+
+
+  the last two years of the project and there was no pending unaddressed audit observations as of end of
+  project.”
+
+  FM Issues identified during implementation of the project: (i) Fixed assets management of the project
+  remained weak till end of 2018, the project had no proper asset verification and the fixed asset register
+  was not updated regularly. However, there was improvement in 2018 when the fixed asset records were
+  transformed from MS spread sheet to a management information system, (MIS) developed by the project.
+
+  (ii) The project used a large operational advance which was retired and acquitted with significant delays
+  especially from the provincial offices.
+
+  Procurement: The ICR noted that (page 22) procurement for the project remained an issue throughout the
+  project life with long delays, re-bidding, integrity, inability to hire qualified procurement staff etc. In the last
+  two years of the project when procurement was centralized to the procurement directorate, the
+  procurement process accelerated and AAIP/MAIL was able to award most of the work contracts. However,
+  the project was not able to procure Lab Equipment which was a high priority for the AAIP and MAIL due to
+  prolonged delays and suspected governance issues resulting from frequent changes in the technical
+  specification, estimated cost and possible vested interests. The ICR reported that the procurement
+  performance rating for the project was not very encouraging throughout the project, but did not provide the
+  actual ratings.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+  No unintended impacts were reported by the ICR.
+
+
+
+d. Other
+  Gender: The project achieved some gender related results despite having interventions in traditionally male
+  dominated activities. Initially, the project was not gender focused; however, after the restructuring of the
+  project and because of constant follow-ups on gender issues during ISMs, gender-related interventions
+  increased. These included consultations with both men and women at the design stage of each
+  infrastructure sub-project as well as in the preparation of ESMPs, inclusion of female staff in the various
+  trainings and degree programs, raising awareness of female community members on the GRM and
+  improving their access to it, developing a gender strategy and implementation plan, gender affirmative
+  action in recruitments, and collecting gender disaggregated data to analyze the impact of the project on
+  women. Despite paucity of female employees, 33 females were trained at ARIA, one at ISE and five at
+  PPQD. The significant gender achievement was that the project developed its own gender strategy toward
+  the end of 2018. 282 female farmers, fertilizer dealers, and MAIL staff were trained in topics such as
+  pesticide, fertilizer, IPM, and plant quarantine in 14 provinces. Six agricultural companies, four of which
+  were run by women and two others with women in lead-roles were supported by the project. Another good
+  aspect of the intervention was hiring of women laborers under the project and by August 2018, 20 female
+  laborers in Bamyan, and 51 female laborers in Balkh were hired. The gender unit of the project organized
+  various trainings related to gender and anti-harassment to the AAIP and MAIL staff. Observed shortcomings
+  included some structural problems (e.g. in terms of training of female staff, very low number of female staff
+  in the department, or lack of female staff’s interest in these trainings). On the staffing, although each ISM of
+
+
+                                                                                                        Page 15 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     AF:Agricultural Inputs Project (P120397)
+
+
+
+   the project emphasized a 30-40% quota for women hiring especially through internship programs as an
+   entry path, the data in November 2018 showed that only four women out of the total 159 staff which was
+   disappointingly low. The project and the ministry could have hired more female staff for labs and quarantine
+   stations.
+
+
+
+11. Ratings
+                                                                               Reason for
+Ratings                          ICR                  IEG
+                                                                               Disagreements/Comment
+                                 Moderately
+Outcome                                              Moderately Satisfactory
+                                 Satisfactory
+                                 Moderately
+Bank Performance                                     Moderately Satisfactory
+                                 Satisfactory
+                                                                               While there were shortcomings,
+                                                                               the M&E system worked
+Quality of M&E                   Modest              Substantial               relatively well in an FCV
+                                                                               environment. Thus the M&E
+                                                                               quality rating is substantial.
+Quality of ICR                   ---                 Substantial
+
+
+12. Lessons
+
+The lessons identified by the ICR with some reformulation are as follows:
+
+In an FCV country, it is appropriate to tie-up complex procurement to pre-selected
+institutions/firms at preparation stage and helpful to initiate and complete design of complex
+civil works in the preparation phase. Most activities of the project were dependent on complex
+procurement of goods/civil works and the engagement of international or national consultants which
+brought implementation delays. If a preselected institution was hired to oversee and coordinate
+these procurement activities, capacity and governance issues would not have created delays.
+
+Land resettlement should be triggered for all projects that utilize land. In-depth analysis and
+consultations with communities should be conducted in advance to avoid land
+disputes. There were land disputes during the project which were not envisaged at the project
+preparation stage because of the involvement of public institutions. Selection of sites free from
+disputes and consultation with communities by the project authority should be the prime
+consideration for expeditious project implementation. Furthermore, improving land tenure
+governance by providing guidance and information on internationally accepted practices for systems
+that deal with the rights to use, manage and control land is critical.
+
+An appropriate structure to facilitate inter-ministerial coordination is necessary when
+multiple ministries/agencies are involved. Inter-ministerial coordination was a major issue for the
+project. There were delays because of lack of agreement among directorates. The bureaucracy did
+
+
+
+
+                                                                                                 Page 16 of 18
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       AF:Agricultural Inputs Project (P120397)
+
+
+
+not allow any authority below the level of Minister to have a coordinating role. The issue of
+coordination should be taken seriously in future projects.
+
+The Bank could be more flexible in support of extensions for project duration and embrace
+projects with more than five years of implementation, particularly in an FCV context.
+Procurement delays that resulted due to capacity, governance and lack of bids were partly due to
+the FCV situation in the country. Should the request of the government for a second extension have
+been granted, some key activities could have been completed. The Bank management needs to
+consider additional challenges and delays in a FCV context and act flexibly in these situations.
+
+In fragile and conflict environments, efforts could be made to engender trust and ownership
+of beneficiary communities so that regular M&E data can be supplied by community
+members. In most project areas where land development was made and local infrastructure were
+constructed, the project basically utilized information from community and CDC members as part of
+record on implementation progress and validation of contractor’s record. This made data collection
+efforts more accurate and reliable.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR was well written, concise, candidly described challenges of the project and in general followed the
+guidelines. The shortcomings were: (i) economic analysis assumptions could have been described better to
+show if they were realistic given the unfinished activities; (ii) the ICR could have provided more information on
+the land disputes and how resettlement safeguards were mitigated; (iii) some of the lessons were not clear and
+they could have been described better.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                   Page 17 of 18
+Independent Evaluation Group (IEG)         Implementation Completion Report (ICR) Review
+AF:Agricultural Inputs Project (P120397)
+
+
+
+
+                                                                        Page 18 of 18
+

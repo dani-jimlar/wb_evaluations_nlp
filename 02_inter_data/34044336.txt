@@ -1,0 +1,580 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Ethiopia PFM Project (P150922)
+
+
+
+                                                                                  Report Number: ICRR0023248
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P150922                                    Ethiopia PFM Project
+
+ Country                                    Practice Area(Lead)
+ Ethiopia                                   Governance
+
+
+ L/C/TF Number(s)                           Closing Date (Original)                Total Project Cost (USD)
+ IDA-57660                                  07-Apr-2020                                          28,857,466.65
+
+ Bank Approval Date                         Closing Date (Actual)
+ 26-Feb-2016                                07-Mar-2022
+
+                                            IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                            33,000,000.00                                                 0.00
+
+ Revised Commitment                             33,000,000.00                                                 0.00
+
+ Actual                                         28,857,466.65                                                 0.00
+
+
+
+
+ Prepared by                 Reviewed by                  ICR Review Coordinator          Group
+ Giuseppe Iarossi            Clay Wescott                 Jennifer L. Keller              IEGEC (Unit 1)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The PDO of this project is to improve efficiency, transparency, and accountability of public expenditure
+   management at the federal and regional levels.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+   No
+
+                                                                                                   Page 1 of 11
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Ethiopia PFM Project (P150922)
+
+
+
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+      1. Expenditure Management and Information Systems Support (US$22.5 million at appraisal,
+           US$20.12 million at closure). This component aims to support the government in implementing the
+           next generation of PFM reforms through the government-funded IFMIS rollout plan.
+        2. Strengthening Accountability Institutions (US$9.4 million at appraisal, US$7.67 million at
+           closure). This component aims to support accountability institutions in performing their tasks.
+        3. Project Management, Monitoring, and Evaluation (US$1.1 million at appraisal, US$1.07 million at
+           closure). The objective of this component is to support program management and coordination-
+           related tasks to ensure proper project implementation, effective monitoring and evaluation of results,
+           and a consistent and effective approach to capacity development.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   The actual disbursement was 87 percent of the project cost (US$28.8 million). The ICR attributes this to
+   efficiency in implementing some activities. For example, the project supported the Federal Ethics and
+   Anticorruption Commission (FEACC) with less than 60 percent of the planned budget.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+While the government had significantly improved the legal framework of PFM in Ethiopia, many areas for
+improvement persisted at the central and woreda (district) levels that were binding constraints on delivering
+quality public services. At the central level, weak areas were the unavailability of well-qualified professional
+accountants, audit quality and the need for adequate training facilities, and oversight by an enforcement
+authority. At the district level, these included poor infrastructure; weaknesses in internal audit; weak
+property management; weak cash control and delays in bank reconciliation; high staff turnover; delays in
+budget notification; low financial audit coverage and audit backlogs; and inadequate training. Most IDA
+resources from the former Protection of Basic Services (PBS) and other larger IDA-financed projects, such
+as the Productive Safety Nets Project (PSNP), flowed to district levels. Thus, PFM system strengthening
+needed to be accompanied by measures to promote transparency and accountability at the woreda (district)
+level.
+
+Hence this project focused on supporting the introduction of an eGP (e-Government Procurement) system
+by linking the eGP system to the IFMIS to improve efficiency and accountability in the procurement process
+and to reduce costs. Further, the project intended to support capacity gap assessments and capacity-
+building activities to address fraud, corruption, and data quality issues and increase public awareness of
+fraud and corruption at the local government level.
+
+
+
+
+                                                                                                     Page 2 of 11
+                                      Independent Evaluation Group (IEG)                        Implementation Completion Report (ICR) Review
+                                      Ethiopia PFM Project (P150922)
+
+
+
+               Both the Country Program Strategy (CPS) at design and the Country Partnership Framework (CPF) at
+               closure identify governance, accountability, and transparency as critical areas for the development of
+               Ethiopia. The CPF 2018-2022 includes as one of the three focus areas, “Supporting Institutional
+               Accountability and Confronting Corruption” (p. 39), recognizing the rising demand for government
+               accountability in the country. This objective is aligned with the Government of Ethiopia’s (GoE) Second
+               Growth and Transformation Plan (GTP II), which emphasizes strengthening governance.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             Improve the efficiency of public expenditure at the federal and regional levels
+
+                             Rationale
+                             The PAD did not develop a theory of change (TOC), but the ICR developed one for this objective. The
+                             activities supporting this objective (rollout of Integrated Financial Management Information System,
+                             improvements in Integrated Budget and Expenditure System, capacity building, implementation of audit
+                             software) were expected to increase the efficiency of the PFM system by reducing cash float, by disclosing
+                             fiscal documents promptly, and by improving capacity. Additional activities (building PFM capacity, increasing
+                             financial management awareness, training in debt management, reorganization of internal audit structure,
+                             improve transparency) were expected to improve fiscal management, improve the realism of the budget and
+                             instill fiscal discipline by increasing budget execution rate and rolling out a new Chart of Accounts. The design
+                             drew from several analytical reports that a strong PFM was necessary for improved service delivery in
+                             Ethiopia (e.g., IFMIS for PFM Efficiency, Effectiveness & Transparency! Ministry of Finance Ethiopia, 2021;
+                             Public Expenditure and Financial Accountability (PEFA) Federal Democratic Republic of Ethiopia (Federal
+                             Government) Performance Assessment report, Final report November 13, 2019).
+
+                             The underlying assumptions of the TOC were: political stability of Government, no external shocks, readily
+                             available funds for implementation of the envisaged interventions, and close follow-up and collaboration
+                             within the various implementing entities. Some of these assumptions still need to materialize. During project
+                             implementation, frequent changes in the State Minister and turnover of key Ministry of Finance and Economic
+                             Cooperation (MOFEC) directors led to initial slow implementation. Collaboration was hampered initially by
+                             limited commitment and misunderstanding of the impacts of the interventions by top management.
+                             Unexpected events such as the pandemic and the onset of the war in the North also impacted the project,
+                             such as the achievement of the indicator on the number of contracts with 180 days benchmark.
+
+                             The project used three indicators to measure the achievement of this objective, (1) The cash float reduced for
+                             the Federal and Regional Governments (in percent of the annual federal budget). The baseline was 22
+                             percent, the target was 18.7 percent, and the actual was 16.75 percent. (2) Target agencies progressively
+
+                                                                                                                                Page 3 of 11
+   Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+   Ethiopia PFM Project (P150922)
+
+
+
+increase the number of contracts awarded within the agreed benchmark of 180 days for works contracts>
+US$ 5 million & Goods >US$500,000. The baseline was 10 percent, the target was 50 percent, and the actual
+was 33 percent. (3) The number of Direct Beneficiaries who receive the standardized training the project
+provides. The baseline was 47,000 beneficiaries, the target was 84,000, and the actual was 86,484
+beneficiaries. At the regional level, the budget execution rate of Health, Education, Agriculture, and Water
+increased from 55 percent in 2016 to 92.16 percent in 2021. The contracts for works and goods above US$5
+million increased in 2020. Still, they fell significantly in 2021, largely due to the conflict in the northern part of
+the country, which implied a significant reduction in capital expenditures. Targets were reasonable, and
+indicators were appropriate. External factors (e.g., the war in the North) did not allow the full achievement of
+the indicator on 180 days benchmark for public contracts.
+
+Thanks to the Integrated Financial Management Information System (IFMIS) rollout and improvements made
+with Integrated Budget and Expenditure System (IBEX), the project achieved the objective of improving the
+efficiency of public expenditures at the federal and regional levels. At closure, 111 federal headquarters and
+62 branches used IFMIS, and over 19,000 end users received training. After IBEX was updated and the
+project provided training, the quality of financial statements significantly improved at the regional level,
+according to interviews conducted by the ICR. IFMIS covers 78 percent of the federal budget, and IBEX is
+operational in over 2,100 places nationwide. In addition, the June 2022 Audit report from the Office of the
+Federal Auditor General (OFAG) reported a 12 percent increase in audit reports with unqualified audit
+opinions and an eight percent decrease in adverse opinions.
+
+
+
+Rating
+High
+
+
+OBJECTIVE 2
+Objective
+Improve transparency of public expenditure at the federal and regional levels.
+
+Rationale
+The PAD did not develop a TOC, but the ICR developed one for this objective. Based on repeated
+assessments (e.g., IFMIS for PFM Efficiency, Effectiveness & Transparency! Ministry of Finance Ethiopia,
+2021; Public Expenditure and Financial Accountability (PEFA) Federal Democratic Republic of Ethiopia
+(Federal Government) Performance Assessment report, Final report November 13, 2019) indicating that audit
+and oversight institutions were the weakest link in the PFM chain in Ethiopia, the activities of this component
+(e-GP for public procurement, capacity development for OFAG, improved media engagement on audits
+activity, professional certifications, capacity building of Federal Ethics and Anticorruption Commission) were
+expected to increase efficiency, transparency, and accountability of public expenditure, by increasing the
+number of contracts awarded promptly and with competitive bidding, increasing in audits performed,
+increasing the capacity of auditors and members of the Finance and Budget Standing Committee, and
+simplification of reports published.
+
+Assumptions of the TOC were: political stability of Government, no external shocks, readily available funds for
+implementation of the envisaged interventions, and close follow-up and collaboration within the various
+implementing entities. Some of these assumptions still need to materialize. During project implementation,
+there was political instability and frequent leadership turnover, such as frequent changes in State Minister and
+
+                                                                                                       Page 4 of 11
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Ethiopia PFM Project (P150922)
+
+
+
+turnover of key MOFEC directors led to initial slow implementation; also, collaboration was hampered initially
+by limited commitment and misunderstanding on the impacts of the interventions by top management.
+
+
+
+The indicator used for measuring the achievement of this objective was the timely disclosure of key
+fiscal/budget documents. The baseline was 24 months, the target was nine months, and the actual was six
+months. In about 893 woredas, the IBEX system is connected to regional-level data centers. Execution and
+additional debt reports, Finance Transparency and Accountability reports, and various audit reports are now
+available on the updated and upgraded MOFEC website, providing timely information. Similarly, the MOFEC
+website provides bi-annual budget execution and audited financial statements. Targets were reasonable, and
+indicators were appropriate.
+
+The project supported upgrading the Debt Management and Financial Analysis System (DMFAS), which
+allowed the Debt Management Directorate to generate timely and quality debt-related reports, including
+Public debt statistics and Debt portfolio reports. In addition, the project helped integrate debt payments and
+collection into the accounting and reporting system thanks to the IFMIS. The online availability of debt
+collection and repayments allows the Government Accounting Directorate to include information on debt in
+the government’s annual financial statements. Overall, the project improved the reliability of the Debt
+Management and Financial Analysis System database and enabled the Debt management department to
+publish Public Sector Debt Statistical Bulletins in line with best practices.
+
+
+
+Rating
+High
+
+
+OBJECTIVE 3
+Objective
+Improve accountability of public expenditure at the federal and regional levels.
+
+Rationale
+There was no TOC in the PAD for this component. The activities sponsored by this component aim to support
+project management and coordination across tasks to achieve proper implementation, monitoring, and
+achievement of objectives.
+
+The indicator used for measuring the achievement of this objective was an Increase in the percentage of
+audits conforming to International Standards of Supreme Audit Institutions. The results framework didn’t
+indicate a baseline or target. The ICR reports that in 2021 the African Branch of the International Organization
+of Supreme Audit Institutions (AFROSAI) conducted the audit quality assurance without reporting any
+percentages.
+
+Members of woreda councils’ finance and budget committees received training to allow them to scrutinize
+proposed budgets submitted by the executives to ensure that they align with strategic priorities and
+assumptions and also enable them to evaluate the performance of the executives. The project suspended
+such training in 2020 because of COVID-19, and it was impossible to ascertain if it had resumed. Simplified
+budget execution reports produced by woredas increased to 95 percent in 2020 but declined to 89 percent in
+
+                                                                                                   Page 5 of 11
+                               Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                               Ethiopia PFM Project (P150922)
+
+
+
+                            2021 due to COVID-19 and the conflict. Competitive procurement methods in awarding public contracts
+                            increased in the first three years of the project implementation period. Still, later COVID-19 and the conflict in
+                            the North had a negative impact. The project supported the Accounting and Auditing Board of Ethiopia
+                            (AABE). AABE's capacity improved after implementing the Practice Review Manual, Financial Reporting &
+                            Monitoring Review manual, and Audit Quality manuals. AABE reviewed three audit firms and 12 financial
+                            statements and delivered an International Auditing Standard training for 152 audit firms. The Federal Ethics
+                            and Anticorruption Commission (FEACC) trained over 513 ethics officers on fraud and corruption prevention
+                            from three regional states. The training enhanced the woreda-level ethics officers' capacity to record and
+                            report fraud and corruption cases, as demonstrated by a qualitative review of documents and interviews that
+                            improved the quality of fraud and corruption recording and reporting. Because of weak follow-up by OFAG
+                            and a failed procurement contract, the project couldn’t complete some planned activities, such as an exercise
+                            to improve the audit quality, strengthening the training center, and strengthening the Audit Service
+                            Corporation. However, the OFAG improved the audit quality thanks to a gap analysis and an Audit Quality
+                            Assurance assessment by the African Branch of the International Organization of Supreme Audit Institutions
+                            (AFROSAI). The Internal Audit function quality improved after adopting the risk-based internal audits method.
+                            However, the client could not establish a baseline to measure the achievement of the objective and did not
+                            because of procurement rules and the political economy (senior leadership turnover).
+
+
+
+                            Rating
+                            Modest
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The Bank achieved most of the project objectives, including the objectives of component 1, which absorbed
+                            2/3 of the project expenditures.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+    5. Efficiency
+   The ICR and PAD presented some estimates of savings. The financial model in the PAD suggested an Internal
+   Rate of Return (IRR) of 27 percent over 20 years and a positive net present value (NPV) at discount rates of 10
+   percent, 15 percent, and 20 percent. The Bank estimated the NPV at 10 percent was US$408 million. The ICR
+   didn’t validate these values stating that direct attribution of economic and financial benefits of PFM reforms is
+   challenging but endorses the above estimates reported in the PAD (p. 45). In addition, the ICR reports that
+   estimated saving from the decrease in cash float would be about US$428 million per annum from interest on
+   government borrowing.
+
+
+                                                                                                                                Page 6 of 11
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Ethiopia PFM Project (P150922)
+
+
+
+Yet, the project presented several inefficiencies: low disbursement, high staff turnover, and procurement
+challenges. Throughout its life, the project had a low implementation pace, resulting in low budget utilization and
+a low disbursement rate. The Bank extended the project deadline twice, although the second extension was due
+to COVID and the internal war in the North, factors not attributable to the project. Staff turnover was both internal
+– with 3 TTLs assigned to the project, and on the client’s side, which was more difficult to handle and had a
+higher impact on the efficiency of the project. Procurement delays also reduced the efficiency of the project.
+Further, the Federal Ethics and Anticorruption Commission successfully implemented the project’s activities with
+less than 60 percent of the budget, implying that resources were not efficiently planned. Finally, while
+procurement procedures were followed, the Channel one Program Coordination Directorate (COPCD) failed to
+upload procurement process documents for Post Review on time.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?              Point value (%)           *Coverage/Scope (%)
+                                                                                       100.00
+ Appraisal                                                  27.00
+                                                                                        Not Applicable
+                                                                                       100.00
+ ICR Estimate                                               27.00
+                                                                                        Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project achieved most of its objectives, and systems and capacities improved, notwithstanding the onset of
+COVID and the internal war. Relevance is rated high because the project supported critical reforms at the
+central and woreda levels. Efficacy is rated substantial because the project achieved most of its objectives.
+Efficiency is rated modest because of several inefficiencies related to procurement, low disbursement, and staff
+turnover. Combining these indicates an overall outcome rating of Moderately Satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+The ICR identified three potential risks to the Development Outcomes. First, high staff turnover can
+jeopardize the achievements of e-Government Procurement (e-GP), IFMIS, program budgeting, and website
+maintenance. Second, there are doubts about the resources needed to achieve the additional activities
+
+                                                                                                       Page 7 of 11
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Ethiopia PFM Project (P150922)
+
+
+
+required, such as security and network monitoring licenses and the rollout of the e-GP beyond the pilot.
+Finally, the conflict and other pressing political issues might take precedence over the activities sponsored by
+this project. Project team members acknowledged that the Bank was aware of the high staff turnover and
+suggested that the client pay higher salaries to technical specialists to reduce or eliminate such risk. While
+political uncertainty remains due to the potential instability of the recent peace accord, the other two risks are
+less likely to occur, given that the PAD recognized that the GoE provided its resources to reform PFM. The
+Bank is also committed to supporting PFM in Ethiopia with other projects.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The project was consistent with the government priorities at the design time, as identified in the Growth
+  and Transformation Plan (GTP II). The ICR claims that the project design drew from analytical products
+  and referred to PEFA and other reports (e.g., FMIS for PFM Efficiency, Effectiveness & Transparency –
+  annex 7). Interviews with team members revealed that many analytical reports on PFM in Ethiopia
+  represented the analytical underpinning of several FM projects and were also used for this project,
+  although not directly mentioned in the PAD. An interview with the ICR’s TTL revealed that field staff
+  interviews and document reviews show that the design considered technical and financial factors,
+  including procurement and financial management. The Bank also considered lessons from previous
+  projects, including lessons from an IMF review, and included mitigating measures.
+
+  Yet, the Bank didn’t identify several challenges during the appraisal stage: lack of expertise, focal point,
+  poor infrastructure, and inadequate budget estimates.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The Bank allocated sufficient budget and staff for supervision, conducted regular missions and reports, and
+ alerted the client to problems as they occurred. A local co-TTL supported the two international TTLs, and
+ the Bank team identified performance indicators and proposed solutions to problems. For example, Bank
+ staff assisted the client in tailoring the procurement support structure to their specific needs; they engaged
+ proactively in supervision by going beyond a simple review of reports; and notwithstanding the extended
+ implementation period, TTL’s turnover was minimal.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+                                                                                                       Page 8 of 11
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Ethiopia PFM Project (P150922)
+
+
+
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The PAD did not include an explicit TOC, which is important in a Fragile, Conflict, and Violence country
+ (ICR, p. 62), although it was not required. The indicators were appropriate to monitor progress. The PDO
+ didn’t include project beneficiaries, but the PAD mentioned them.
+
+
+
+b. M&E Implementation
+  At the beginning of the implementation, monitoring was insufficient because of a lack of staff. Later a
+  project task force was established and conducted periodic meetings to monitor the project. Implementing
+  units were required to submit a progress report to the task force. Weekly or bi-weekly meetings identified
+  issues and discussed them with representatives of the implementing units to explain progress and
+  challenges. The meetings agreed upon action plans to address these issues.
+
+
+
+c. M&E Utilization
+  The task force would review the progress report in each meeting, discuss findings, identify remedies,
+  and assign responsibilities. This helped regions support poorly performing woredas and sector bureaus.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   The project did not trigger any safeguard as it involved capacity-building activities.
+
+
+
+
+b. Fiduciary Compliance
+   The project complied with fiduciary covenants. The project had internal controls, maintained adequate
+   records, and followed procurement guidelines. Initially, the project had a Satisfactory FM rating, which later
+   became MS and MU because of low disbursement, staff turnover, and unreconciled differences. Finally,
+   the rating returned to MS.
+
+
+                                                                                                     Page 9 of 11
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Ethiopia PFM Project (P150922)
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   No
+
+
+
+d. Other
+   The project was not gender tagged, but 41 percent of civil servants participating in the training sessions
+   were women.
+
+
+
+11. Ratings
+                                                                                  Reason for
+Ratings                          ICR                    IEG
+                                                                                  Disagreements/Comment
+                                 Moderately
+Outcome                                                Moderately Satisfactory
+                                 Satisfactory
+                                                                                  The Bank didn’t identify several
+Bank Performance                 Satisfactory          Moderately Satisfactory
+                                                                                  challenges at the design stage.
+Quality of M&E                   Modest                Modest
+
+Quality of ICR                   ---                   Modest
+
+
+12. Lessons
+
+When a government assigns procurement responsibilities to multiple agencies, it is critical to ensure
+close coordination (for example, with secondment arrangements across agencies) and to set up a
+clear dispute-resolution mechanism to avoid delays. In this project, OFAG had technical
+responsibility for procurement, and MOFEC had selection responsibility. Lack of coordination among
+these agencies and political economy factors generated delays in procurement.
+
+To improve disbursement in the early years and improve project performance, the project should
+frontload some activities during design, such as ToR design. In this project, limitations in ToR and a
+weak follow-up of the OFAG contributed to the failed contract.
+
+To avoid or limit the impact of turnover in senior leadership on project implementation, it is advisable
+to delegate project responsibilities to more junior government officials. In this project, there was
+significant senior leadership turnover in the first two years, which significantly impacted the project's
+pace of implementation.
+
+
+
+13. Assessment Recommended?
+
+
+                                                                                                     Page 10 of 11
+       Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+       Ethiopia PFM Project (P150922)
+
+
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provides a good account of the project design, implementation, and achievement of its objectives. The
+analysis was mostly impartial. At times the ICR could have presented better evidence. For example, the ICR
+could have included clear tables on the indicators and achievement of objectives. The ICR refers to background
+material without indicating which or where it could be found. Lessons could have been better articulated,
+focusing more on ‘how’ problems can be solved in similar circumstances.
+
+
+
+  a. Quality of ICR Rating
+       Modest
+
+
+
+
+                                                                                                Page 11 of 11
+

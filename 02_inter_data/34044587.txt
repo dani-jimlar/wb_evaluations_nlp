@@ -1,0 +1,907 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     EG: Egypt EASE for Investment (P153487)
+
+
+
+                                                                                  Report Number: ICRR0023277
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P153487                                    EG: Egypt EASE for Investment
+
+ Country                                    Practice Area(Lead)
+ Egypt, Arab Republic of                    Finance, Competitiveness and Innovation
+
+
+ L/C/TF Number(s)                           Closing Date (Original)                Total Project Cost (USD)
+ TF-A1553,TF-B1605                          31-Oct-2021                                            6,676,674.68
+
+ Bank Approval Date                         Closing Date (Actual)
+ 02-Oct-2015                                11-Dec-2021
+
+                                           IBRD/IDA (USD)                                       Grants (USD)
+
+ Original Commitment                             6,746,000.00                                      6,746,000.00
+
+ Revised Commitment                              6,676,674.68                                      6,676,674.68
+
+ Actual                                          6,676,674.68                                      6,676,674.68
+
+
+
+
+ Prepared by                 Reviewed by                  ICR Review Coordinator           Group
+ Burcin Pamuksuz             Ebru Karamete                Christopher David Nelson         IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to both Schedule 1 of the Grant Agreement (p.5) and the Project Appraisal Document (PAD, p.6),
+   the project objective was “to improve the regulatory environment for investors through simplified licensing and
+   transparent industrial land allocation processes”.
+
+   This review will assess the project outcome based on the objective parsed as follows:
+
+
+
+                                                                                                    Page 1 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     EG: Egypt EASE for Investment (P153487)
+
+
+
+   Objective 1: To improve the regulatory environment for investors through simplified licensing processes,
+
+   Objective 2: To improve the regulatory environment for investors through transparent industrial land
+   allocation processes.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  19-Mar-2018
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project consisted of three components:
+
+   1.       Facilitating accessible and transparent investor services (Estimated Cost Appraisal: US$ 2.25
+   million, Actual Cost at Closing: US$ 2.21 million, Estimated Cost of Additional Financing: US$ 1.746 million,
+   Actual Cost of Additional Financing: US$ 1.720 million: This component was to be implemented by the
+   General Authority for Investment (GAFI).The activities under this component was to support implementation
+   of the amended Investment Law of Egypt and GAFI to become the platform for business entry, licensing
+   and investor information at national level. This function was to be fulfilled by GAFI’s one-stop-shops (OSS)
+   and its information portal at the sub-national level. Through the project, development and implementation of
+   an online system for investor servicing was foreseen. To achieve this, mapping of the business entry
+   procedures; procurement, configuration and deployment of a customer relationship management (CRM)
+   system were to be completed. In addition, development and enhancement of the GAFI information portal
+   was to be implemented. This component also covered upgrading of GAFI’s and OSS’s IT systems as well
+   as capacity building activities for staff. The costs for establishment of a Project Implementation Unit (PIU)
+   within GAFI were also part of this component.
+
+   2.       Supporting Industrial Sector Transformational Reforms (Estimated Cost Appraisal: US$ 2.25
+   million, Actual Cost at Closing: US$ 2.24 million): This component was to be implemented by the Industrial
+   Development Authority (IDA). Two primary functions of IDA were to be supported through this component:
+   industrial licensing and land allocation. For industrial licensing re-engineering and automation of processes
+   were to be implemented. The project was to complete the process mapping exercise which was initiated
+   earlier by the support of the World Bank and implemented by IDA in collaboration with the Egyptian
+   Regulatory Reform and Development Activity (ERRADA), a government initiative mandated for reduction of
+   regulatory risk and increasing transparency for businesses. In addition, the Industrial Licensing
+   Administration System (ILAS) was to be developed and deployed in IDA headquarters, and four regional
+   offices. On land allocation, the project was to support IDA to adopt a transparent wholesale industrial land
+   allocation process with the development of the software and information system for this purpose. In
+   addition, reforming the industrial developer concession model of land development was to be implemented.
+
+                                                                                                    Page 2 of 17
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    EG: Egypt EASE for Investment (P153487)
+
+
+
+  Through this component capacity building activities, trainings for IDA and upgrading of information and
+  communications technology (ICT) were to be performed. This component was to cover costs for a PIU to be
+  established under IDA.
+
+  3.      Capacity building for managing regulatory reform (Estimated Cost Appraisal: US$ 0.5 million
+  Actual Cost at Closing: US$ 0.5 million): This component was to be implemented by ERRADA. The project,
+  through this component was to establish a sustainable institutional framework for regulatory reform through
+  ERRADA and to complement activities under Components 1 and 2. Within the scope of the component,
+  development of a comprehensive inventory of business-related procedures, preparation of a strategy and
+  an action plan for ERRADA to meet its mission and objectives, establishment of an information portal for
+  business related administrative procedures accessible to the general public and capacity building activities
+  for ERRADA were to be implemented. Furthermore, the component foresaw putting in place a public
+  consultation and review mechanism for all business-related legislative proposals which would ensure
+  consultation with the stakeholders including private sector.
+
+  Revised Components: In 2017, with the support of the EASE project, the GoE adopted two new laws (the
+  Investment Law and the Industrial Licensing Law) and their executive regulations which pursued country’s
+  reforms towards a further improved investment climate. In addition, the Guidelines for Land Allocation was
+  adopted in March 2018. Adoption of these new laws and legislations necessitated changes in the project
+  activities under Components 1 and 2 particularly. While the project continued to focus on the same
+  objectives outlined in the Project Appraisal Document (PAD), implementation of some activities was
+  adapted to fit the context of the new laws, namely re-focused efforts in IDA and GAFI. Furthermore,
+  originally, IDA was in charge of handling the land allocation requests (original project foresaw development
+  of the system in IDA), first the Guidelines of Land Allocation and later the Prime Ministerial Decree in 2019
+  changed the authority to handle land allocation requests from IDA to GAFI (ICR, p. 10). Accordingly, the
+  second PDO was delivered by the GAFI instead of the IDA through the GAFI Egypt Digital Investment Map
+  (GAFI Information Portal).
+
+  With this perspective, to scale up and deepen engagement under Component 1, Additional Financing (AF)
+  was secured. The AF enhanced the activities of Component 1 and provided support to the GAFI to
+  implement its new responsibilities and areas such as to manage investment data, expand investors’ online
+  services, reformulation of Investment Map for reformed land allocation, capacity building on investor
+  servicing, and responding to investor inquiries FDI strategies (ICR, p. 12).
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost: The project cost estimated at appraisal was US$ 5 million. Additional funding in the amount
+  of US$ 1.746 million was secured (total estimated project cost reaching US$ 6.746 million). The actual cost
+  at closing was US$ 6.67 million.
+
+  Financing: At appraisal, MENA Transition Fund grant was estimated at US$ 5 million. Additional funding
+  was secured again from the Transition Fund in the amount of US$ 1.746 million. The project disbursed US$
+  6.676 million at closing.
+
+  Borrower Contribution: At appraisal, no borrower’s contribution was estimated, and none materialized at
+  project closing.
+
+
+                                                                                                   Page 3 of 17
+     Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+     EG: Egypt EASE for Investment (P153487)
+
+
+
+   Restructurings and Additional Financing:
+
+   There were four level 2 restructurings:
+
+   First Restructuring-March 19, 2018: The project’s final date for implementation was extended by 12
+   months from July 1, 2018 to June 30, 2019 to compensate for the delays in setting up the project
+   implementation arrangements. In accordance with the legislative changes introduced through the new
+   Investment Law and the new Industrial Licensing Law, and thus the changes made in activities and new
+   roles transferred from IDA to GAFI, following revisions were made in the results framework: Target for one
+   of the PDO indicators was reworded, two new intermediate results indicators were introduced for GAFI and
+   IDA, targets for two intermediate results indicators were increased, targets for two intermediate results
+   indicators were decreased, one of the intermediate results indicators (regulatory reforms proposed) was
+   reworded.
+
+   Second Restructuring-June 27, 2019: The closing date of the original EASE project was extended from
+   June 30, 2019, to September 30, 2019. The extension was essential to process the AF for approval and
+   signature of the grant agreement before the original grant was closed on June 30, 2019. In addition, the
+   extended period was used to finalize IDA activities on automation and to complete system checks.
+
+   Third Restructuring-September 30, 2019: The closing date for the original EASE project (US$ 5 million)
+   was extended from September 30, 2019 to December 15, 2019. The extension was to allow necessary time
+   for testing and enhancement of the ongoing automation system development and relevant necessary
+   training in IDA. Additionally, the extended period would allow the GoE to complete all of its necessary
+   approval processes for the AF.
+
+   Fourth Restructuring and Additional Financing- October 25, 2021: The closing date for the AF was
+   extended from October 31, 2021 to December 11, 2021 to enable GAFI to implement actions and procure
+   required goods and services for the licensing platform and the Digital Investment Map and also to complete
+   delayed activities (capacity development of GAFI officials on improved licensing portal) due to restricted
+   conditions imposed by COVID-19.
+
+   Dates: The original EASE project (US$5 million) was approved on October 2, 2015, became effective on
+   April 20, 2016, and closed on December 15, 2019. The AF (US$ 1.746 million) was approved on November
+   8, 2019, and became effective on July 13, 2020. It was closed on 11 December, 2021.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country Context: The Project objective is well aligned with the Government’s national priorities. The EASE
+project, supported the GoE in preparation and adoption of the new Law on Investments as well as the
+Licensing Law and their implementing regulations in 2017. With these laws, the GoE put forward more
+concrete and clear steps for simplified the regulatory compliance process by minimizing the points of
+investor direct interaction with multiple regulators. The project’s objectives are also relevant to first pillar on
+industrial development of the Ministry of Trade and Industry (MITSI) strategy 2017 which included projects
+targeting licensing and the OSS, land allocation and the implementation of the investment map. The
+
+                                                                                                        Page 4 of 17
+                                      Independent Evaluation Group (IEG)                      Implementation Completion Report (ICR) Review
+                                      EG: Egypt EASE for Investment (P153487)
+
+
+
+               strategy also refers to the creation of the single window for issuing industrial licenses a target which the
+               project contributes through its capacity building, system upgrading, automation services provided to IDA.
+               The Egypt’s Vision 2030 aiming to digitalize most government services is highly relevant to project’s
+               activities like re-designing and digitalizing the processes at IDA and GAFI. Taking GoE’s above strategic
+               documents into account, overall, the project is outcome oriented and appropriately designed matching the
+               country’s development problems described in both Bank and GoE documents.
+
+               Bank Strategy: The project was well aligned with the World Bank Country Partnership Framework (CPF)
+               for 2015-19. The improvement of business environment was identified as one of the priority topics in the
+               framework in order to address the development problem of sustainable income generation. Furthermore,
+               both Systematic Country Diagnostic (SCD) as well as the Bank’s report “More Jobs, Better Jobs: A Priority
+               for Egypt” emphasized the problems of complexity, uncertainty and discretion affecting business
+               environment in Egypt. The project’s PDO addressed the two top-priority areas (licensing and land allocation
+               processes) as the relevant processes were extremely complex, non-transparent and unpredictable
+               obstructing private sector development. At closing the project remained highly relevant with the priority
+               areas under the 2021 SCD Update. The SCD indicates transparent and predictable regulatory environment
+               would contribute competitive markets in Egypt. The EASE project’s PDO fully matches with this strategic
+               direction. The licensing reforms and land allocation remain amongst the top priorities of the Country
+               Partnership Framework (CPF) for FY23-27, which is being developed. The first objective of the first high
+               level outcome “More and Better Private Sector Jobs” and part of the third objective of the first high level
+               outcome emphasize the importance of continued support to improving regulatory and licensing policies and
+               strengthening the transparency of state procurement activity, and facilitating private sector access to land.
+
+               Previous Sector Experience: The EASE and the AF project built upon previous Bank experience
+               particularly by supporting the development of the new Investment Law and through targeted activities,
+               which put more concrete and sustainable steps forward towards improving business environment in Egypt
+               institutionally and legally. Since 2006, the Bank has worked closely with several of the project partners (i.e.
+               IDA and GAFI), on identifying challenges facing the investment climate in Egypt. The project benefitted from
+               the analytical work and continued reform dialogue with the GoE based on following previous Bank
+               operations: The Competition and Competitiveness ASA (P154650) of 2015-21 to support the Egyptian
+               government on industrial zones including land Management and the Upper Egypt Local Development
+               Program (UELDP) ASA (P159579) of 2016-21 to support business environment in Egypt.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             Objective 1: To improve the regulatory environment for investors through simplified licensing processes
+
+
+                                                                                                                             Page 5 of 17
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   EG: Egypt EASE for Investment (P153487)
+
+
+
+
+Rationale
+Theory of Change: The casual links between project’s activities, outputs and outcomes are overall logical.
+The project activities were expected to result in the following outputs: Operational CRM platform at GAFI,
+operational portal at GAFI and OSSs, reengineered processes for business and industrial licenses, online
+business registrations on GAFI portal, implementation of risk-based approach for industrial licenses by IDA,
+the Industrial Licensing Administration System (ILAS) deployed at IDA branches, sector licensing
+requirements available on GAFI portal. These outputs would lead to simplified, transparent, and predictable
+licensing procedures with shortened periods of time for processing business and industrial licenses.
+Furthermore, activities supported under component 3 through ERRADA, such as preparing a comprehensive
+inventory of business-related formalities/ administrative procedures, developing methodology for regulatory
+impact assessments, establishing a portal rendering information administrative procedures and requirements
+to the general public and the outputs of public consultations contributed to improvement of regulatory
+environment in general but also indirectly to the achievement of this objective and Objective 2. The critical
+assumptions were: (1) Investors use newly developed portal and investment map for their applications and
+activities, (2) Institutional set-up and distribution of tasks for licensing remains clear and sufficient
+coordination continued among the relevant agencies.
+
+Outputs:
+
+      Project’s contribution to GAFI: CRM platform became operational at GAFI and twelve of its OSSs,
+       while exceeding the target of five OSSs. In addition, electronic connectivity between OSSs was also
+       established which improved communications with the investors and provision of responsive services
+       by GAFI. In order to simplify and improve licensing procedures mapping exercises conducted and new
+       and processes were designed. GAFI portal was developed and enhanced. The procedures and
+       requirements for 474 licenses and permits from 79 different agencies were published on the portal. A
+       manual was published with all sector licensing requirements. According to the ICR (ICR, p.35), this
+       saves the investor at least 1 visit as he/she can access the exact required documents through the
+       portal. As a result of improved conditions 436 online business registrations were made. Target of
+       fifteen capacity building workshops for GAFI OSS staff was achieved and exceeded.
+
+      Project’s contribution to IDA: Mapping and reengineering of 4 main processes (licensing, land
+       allocation, construction permits and industrial developer) were completed. IDA began implementing
+       risk- based approach for industrial technical evaluation and licensing. The licensing by notification for
+       low-risk industries (accounts nearly 80% of Egyptian industries- ICR, p. 7) became effective after the
+       issuance of the new industrial licensing law and the project supported its implementation by digitalized
+       systems. The 90% of licenses issued between 2017 and 2018 were for low-risk industries. Thirteen
+       capacity building workshops were completed for IDA staff, exceeding the target of 10 workshops.
+       Industrial licensing administration system was deployed in 22 IDA branches exceeding the target of 15
+       branches. For this indicator, the ICR reports some issues which would adversely affect impact of the
+       intervention. These issues are mainly related to changing regulations which affected already designed
+       technical systems as well as trained staff leaving IDA. According to ICR (ICR, p.17) the system is now
+       working at up to 70 percent capacity.
+      Project’s contribution to ERRADA: ERRADA conducted 23 private sector consultation on several
+       licensing legislation related to GAFI and IDA. The consultations were held on topics such as the
+       industrial developers, industrial land allocation, the Industrial Register, and the ERRADA Informational
+       Portal. Target was to conduct 5 consultations. The recommendations developed as a result of the
+       consultations were embedded in the IDA and GAFI’s processes. The existing regulations in industry
+
+                                                                                                  Page 6 of 17
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   EG: Egypt EASE for Investment (P153487)
+
+
+
+       sector related to IDA were assessed, and redundant, inconsistent, inefficient ones were eliminated
+       with the direction of “Inventory Group”. With this activity 25 reform proposals were submitted,
+       exceeding the target of 6. The ERRADA organized 33 courses, amounting to 124 training days with
+       124 attendees from ERRADA and 310 attendees from IDA. Target of five workshops was exceeded.
+
+Outcomes:
+
+      Average duration of Licensing (two sub-indicators):
+           o Number of days to comply with the Industrial Licensing process (High Risk
+              Investments): The number of days to process industrial licenses was reduced significantly
+              from the baseline of 640 days to 55 days. According to the ICR (ICR, p.16), the time taken at
+              the IDA is only 8 days, while the remaining time is taken in getting approvals from the relevant
+              authorities outside the IDA. The achievement is attributable to project’s interventions of
+              mapping and simplification of license processes, deployment of the Industrial Licensing
+              System at IDA and it’s 22 branches. In addition, adoption of the risk-based approach in
+              accordance with the Licensing Law of 2017 for industrial technical evaluation, also contributed
+              to shortening of the duration as it enabled differentiation between high risk and low risk
+              industries. The project also provided support to the GoE in developing this law.
+            o Number of days to comply with the business licensing process: The long process time for
+              licensing was one of the constraints of the business environment in Egypt. The process time
+              for business licenses was reduced from the baseline of eight days to one day. The
+              achievement is attributable to project’s interventions. This sub-indicator was achieved through
+              the outputs of re-engineering of GAFI business procedures, configuration, and the deployment
+              of the CRM system at GAFI HQ and it’s all twelve OSSs, development and enhancement of
+              the GAFI information portal. These interventions enabled the processes to become less
+              complex, more transparent and predictable (information on processes available on the GAFI
+              portal for the access of all businesses, digitalized services, less face-to-face interaction,
+              limiting unequal treatment).
+
+The methodology to calculate this PDO indicator “average duration of licensing processes” was specified
+neither in the PAD nor at the First Structuring Paper. The ICR (ICR, ps.17,32) based the calculation on a
+simple average of two sub-indicators of IDA and GAFI and achieved 28 days compared to the baseline of 320
+days and the end-target of 60 days.
+
+As another outcome, as a result of newly introduced systems and processes, culture of doing business
+particularly at GAFI has changed. The services by GAFI are now provided on investor feedback and demand.
+The customer service satisfaction system developed for GAFI includes specific indicators to assess the need,
+cost, and quality of the provided services. The investment map also has a feature for investors to share their
+ideas, which are reviewed by GAFI team to improve provided services.
+
+ Overall, the project’s efficacy in achieving the first objective is rated Substantial. All targets were achieved
+(one target almost achieved) despite the changing legislation and counterparts. At appraisal, the major
+constraints in the business environment were identified as the complexity, unpredictability and lack of equal
+treatment particularly in licensing. The project introduced simplified procedures in both business and industrial
+licensing, digitalization and automation of processes established in the IDA and GAFI shortened process
+times, decreased face to face interactions, and contributed to transparent operations. Availability of
+
+
+
+                                                                                                   Page 7 of 17
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   EG: Egypt EASE for Investment (P153487)
+
+
+
+information on licensing processes on portals ensured equal access to information and leveled playing field
+particularly for new and small businesses.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+Objective 2: To improve the regulatory environment for investors through transparent industrial land allocation
+processes.
+
+Rationale
+Theory of Change: The casual links between project’s activities, outputs and outcomes are overall logical.
+The project activities were expected to result in the following outputs: an online land allocation system
+established, and the Industrial Developer Land Allocation framework designed and deployed at the IDA. The
+achievement of these outputs would lead to implementation of industrial land allocation on a digitalized
+setting, open to access of all interested businesses and lead to a transparent industrial land allocation
+system. Furthermore, activities and outputs supported under component 3 through ERRADA, indirectly
+contributed to achievement of Objectives 1 and 2 as well as improvement of overall regulatory environment.
+
+Outputs:
+
+      Online Industrial Land Allocation system deployed: This target was not achieved through IDA. The
+       land allocation guidelines issued in March 2018 changed the distribution of responsibilities on land
+       allocation. According to revised guidelines, the GAFI was assigned as the land allocation interface
+       with investors. In line with the changes, the already developed land allocation system in the IDA was
+       not installed. Instead, this function was fulfilled through GAFI’s information portal (Digital Investment
+       Map). Through the AF, relevant upgrading and modifications were made on the Investment Map to
+       accommodate industrial land allocation processes.
+      Industrial Developer Land Allocation framework designed and deployed: This target was not
+       achieved. The industrial developer system is designed but not applied due to legislative changes
+       explained above.
+
+Outcomes:
+
+      Number of land allocation requests processed through the reformed land allocation system:
+       The GAFI portal (Investment Map) processed 2,080 land allocation requests against the end target of
+       2000. In accordance with the revised legislation, the GAFI took the lead on advertising and tendering
+       land available at the IDA, the National New Urban Communities Authority (NUCA), and the
+       Governorates, through the Investment Map developed under the project. It was developed as a
+       national data center and OSS for investment information. It includes the interactive features of locating
+       investment opportunities by sector and geographical location, the requirements and procedures
+       necessary to obtain business licenses and permits from GAFI or external entities, and information on
+       access to land available for investment projects (ICR, p. 18).
+
+
+                                                                                                    Page 8 of 17
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                EG: Egypt EASE for Investment (P153487)
+
+
+
+                             Overall, the project’s efficacy in achieving the second objective is rated Substantial. Although one of the
+                            intermediate results indicators was not achieved, the second intermediate indicator as well as the PDO
+                            indicator were achieved. The achievement of the PDO indicator supports allocation of industrial lands over a
+                            digitalized platform ensuring a predictable and transparent process for businesses.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project’s efficacy in improving the regulatory environment for investors through simplified licensing
+                            processes was Substantial, because of project outcomes on significantly decreased durations to process
+                            business and industrial licenses. The project’s efficacy in achieving transparent land allocation was also
+                            Substantial, due to implementation of digitalized and simplified land allocation processes. Therefore, the
+                            overall efficacy is rated Substantial.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+   5. Efficiency
+   Economic and Financial Analysis:
+
+   The project estimated to have two types of benefits: 1- Increase in the rate of investments (through alleviation of
+   the two major obstacles to investments: complex licensing and land allocation procedures), 2- Increase in
+   investor gains as a result of reduced time to lead investments. At appraisal, the methodology for estimation of
+   the potential investor gains used the opportunity cost of capital (the prevailing interest rate), disregarding all
+   other direct costs. It was assumed that the time to compliance (obtaining land and industrial license) would be
+   reduced by 50 percent and accordingly the potential investor gains would be significant. However, baseline data
+   was not collected to estimate economic returns at the start of the project for neither of the project’s
+   objectives. Also, at appraisal, in relation to Component 3, potential benefits of the ERRADA activities were not
+   quantified but it was expected if ERRADA mechanism is structured to link technical regulatory reform capacity
+   with high level decision making, this would lead to improved investment climate.
+
+   At project closing, the economic analysis measured the impact of the project through Direct Compliance Cost
+   Savings (CCS) achieved from simplified licensing process (for both industrial and business licenses). However,
+   the CCS could not be estimated for the high-risk industrial license because a baseline was not available for
+   2015 as the process was not done at the IDA but at the NUCA and the Governorates at the time, and the costs
+   were not unified. Only a comparative analysis was made on the average number of IDA employee workdays
+
+                                                                                                                              Page 9 of 17
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      EG: Egypt EASE for Investment (P153487)
+
+
+
+required per transaction for the years 2015 and 2017. The workdays dropped by 69% from 16 to 5 days, leading
+to savings in labor costs and costs per transaction for the government. On the other hand, the data for the
+business license (GAFI), was available from official sources and investor interviews and therefore, the analysis
+was conducted. The CSS analysis which compared the costs before and after the reform concluded that the
+simplified processes for business license led to aggregate cost savings for one year, discounted to the 2015
+baseline year, of USD 14.8 million. The aggregate cost savings for four years (between 2017 when reforms
+were enacted and 2021) discounted to baseline year could be estimated at USD 58 million. The ICR reports that
+this methodology is not a comprehensive cost-benefit analysis and represents the perspectives of the reforms’
+benefits to the private sector with the indication that private businesses may use extra resources, at least in part,
+to expand their businesses or make new investments (ICR, p. 46).
+
+Administrative and Operational Efficiency:
+
+The project experienced some delays during the implementation. The delays resulted from changes in
+government counterparts and PIUs staff, delay of declaration of effectiveness of AF, and COVID-19
+pandemic. Some major legislative changes in the area of land allocation system created inefficiency as the land
+allocation system in the IDA was created and was ready for installation, when the Prime Ministerial Decree
+moved responsibility of tendering process from the IDA to the GAFI. Given that this change was towards the
+project end, there was no time to re-adapt the processes to the new changes. Instead, the reengineered
+business processes set up during EASE were being leveraged to create a database for land and for enhancing
+the land allocation process, using additional investment from the IDA. (ICR, p. 18). Coordination among the
+relevant institutions were strong and this helped identification of problems and introducing solutions. Also, the
+proactive engagement of the Bank team with the PIUs led to a successful closure of the project without any cost
+overrun, while achieving the PDO indicator targets (ICR, p.22).
+
+Despite some operational inefficiencies resulting from implementation delays, the project efficiency is rated
+substantial. The savings achieved (benefits) due to the reformed licensing procedures and reform activities are
+higher compared to the project costs.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?              Point value (%)           *Coverage/Scope (%)
+                                                                                       0
+ Appraisal                                                   0
+                                                                                        Not Applicable
+                                                                                       0
+ ICR Estimate                                                0
+                                                                                        Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+
+
+
+                                                                                                      Page 10 of 17
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      EG: Egypt EASE for Investment (P153487)
+
+
+
+6. Outcome
+
+The relevance of objectives was High as the PDO was well aligned with the development status of Egypt. The
+project’s efficacy was Substantial for both of the objectives all three PDO indicators were achieved. Efficiency
+was also Substantial despite some implementation delays.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+The risk to development outcome is low and the results achieved through the project are likely to be
+sustained. One of the major factors supporting this expectation is the continued support and determination of
+the GoE to pursue reform processes. In addition, the EASE project was not a standalone project but rather
+complemented GoE’s ongoing reform agenda. Furthermore, the distribution of tasks was cleared through the
+new Investment Law and the involved agencies assumed their roles and owned newly established systems
+ensuring sustainability of the results (i.e., example, the licensing platform front end was developed by GAFI
+teams, ICR, p. 52). Another indication for sustainability of the results is related to IDA activities. The
+reengineered business processes set up through the project activities in IDA are being leveraged to create a
+database for land and for enhancing the land allocation process which will be implemented by investments of
+IDA. On EERADA and improvement of regulatory framework in general, public consultations commenced
+during project implementation are now held regularly on topics aligned with national economic priorities and
+the SDG 2030 Agenda.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The project had a strategic relevance as it addressed two particular areas (licensing and land allocation)
+  which were identified as major constraints in the investment climate assessment in Egypt. The EASE
+  project was initially designed to support GoE to implement important legislative changes and reforms to
+  improve business climate. AF was also to deepen and strengthen sustainability of these reforms.
+
+  Implementation arrangements were adequate. Although the project had three different components
+  implemented by three different entities and two of which had overlapping responsibilities, implementation
+  arrangements were made in a way to ensure close cooperation and coordination. The project was
+  implemented by two PIUs, one under the supervision of the GAFI and the other under the IDA. A joint
+  operations manual was prepared in agreement with the project partners, defining roles and
+  responsibilities of the PIU teams, principles and procedures related to procurement, finance and
+  accounting functions. The financial management and the procurement capacities of the relevant parties
+
+
+
+
+                                                                                                    Page 11 of 17
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     EG: Egypt EASE for Investment (P153487)
+
+
+
+  were assessed at appraisal. In this respect, the PIUs in the IDA and GAFI were provided with intensive
+  training on the Client Connection, the STEP systems, and FM reporting.
+
+  M&E arrangements were made generally sufficient but had some shortcomings. Baseline figures for the
+  targets in the results framework were achieved and were endorsed by the IDA and GAFI. In addition to
+  regular mid-term reviews, steering committee meetings, private sector consultations as well as
+  participatory M&E mechanism which entailed the establishment of “third party” demand-based feedback
+  arrangements (at policy, program and project levels) supported M&E arrangements. On the other hand,
+  the intermediate results indicators were mostly concentrated on the first PDO and intermediate indicators
+  for the second PDO were on deployment of systems only. The calculation method of the first PDO
+  indicator “Average duration of Licensing Processes” was not defined at entry.
+
+  At entry, major risk associated with the project was identified as lack of coordination and collaboration
+  between the various agencies involved in the project. To mitigate this risk a Communications Strategy
+  embedded in the project to ensure continued engagement with stakeholders. Furthermore, continued
+  close consultation with the GAFI and IDA, which stemmed from WB’s partnering with these two
+  institutions on various reform actions, constituted a solid track record for efficient cooperation.
+
+  The initial data was not collected to estimate economic returns at the start of the project for neither of the
+  project’s objectives.
+
+  Due to minor shortcomings in the QAE, particularly on M&E design, the QAE is rated as moderately
+  satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The Bank team’s focus on development impact was demonstrated by their effort to address legislative
+ changes and taking timely action to restructure the project accordingly. The team also extended the
+ implementation period to ensure completion of activities and secured AF to deepen the reform
+ implementation and provide further support on implementation of Component 1.
+
+ The management of both the GAFI and IDA changed several times as well as management team of the
+ PIUs during the implementation of EASE and AF. This affected the implementation and resulted in loss of
+ some of institutional knowledge. To overcome this difficulty the project team provided several intensive
+ trainings for the new teams on the procurement and FM guidelines.
+
+ Involvement of three implementing agencies and the need for close cooperation was a significant risk.
+ However, the Bank took special care for enhancing communication among the three project entities
+ through MTRs and setting of periodic meetings for the three entities to discuss and resolve any
+ obstructions, as well as ensure an effective flow of information between their project teams. This resulted in
+ more efficient implementation and also contributed to institutional strengthening.
+
+
+
+                                                                                                      Page 12 of 17
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     EG: Egypt EASE for Investment (P153487)
+
+
+
+ The changes in policy direction imposed some shifts in the implementation of the second PDO. However,
+ this was not fully reflected in the results framework and delivery mechanism did not change for the second
+ PDO. Also, although some minor changes in the intermediate results indicators were introduced, additional
+ indicators to reflect new activities under AF were not added to the results framework.
+
+ ICR noted that throughout project implementation, the World Bank’s performance reporting was candid and
+ detailed in the ISRs and during MTR (ICR, p.29). The project teams realized several supervision missions
+ every year. During the COVID-19 pandemic virtual missions were conducted. The MTR was utilized for a
+ detailed review of the results framework, and accordingly some targets were revised.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The theory of change for the project’s first objective was sound and was well reflected in the results
+ framework. The objective was clear. However, the calculation method for the first PDO indicator was not
+ defined at M&E design stage. On the other hand, intermediate level indicators were specific, measurable
+ and achievable and enable to capture the contribution of project’s interventions related to both type of
+ licenses. As for the project’s second objective, it was clearly defined. However, the intermediate results
+ indicators were related to deployment of systems only but there were no indicators related to developer
+ concession agreements or best practices of contracting instruments which would better capture
+ contribution of these interventions. Baseline figures for Business Registration, Industrial Licensing and
+ Land Allocation were established and endorsed by both the GAFI and IDA. However, a framework to
+ monitor ex-ante and ex-post impact of the project was not determined. M&E design and arrangements
+ were well embedded institutionally. An M&E specialist was part of the PIU at the GAFI which was
+ responsible from overall project management including reporting, monitoring and evaluation. Official semi-
+ annual M&E reports were done by the GAFI, IDA and ERRADA.
+
+
+
+b. M&E Implementation
+  During the implementation, M&E Officer in the PIU ensured that M&E related to core baseline data and
+  as well as data on project outputs were monitored. The bi-weekly meetings/calls among GAFI, IDA and
+  ERRADA ensured coordination and provided ground to exchange updates and facilitated problem
+  solving. The M&E reports were received from each of the three entities on a semi-annual basis. The
+  GAFI appointed an external consultant to undertake the M&E analysis and prepare the report (ICR, p.
+  26). In the light of the legislative changes and with the suggestion MTR mission some changes in the
+  results framework were adopted (1st Restructuring). Although during the first restructuring, two new
+  intermediate results indicators were introduced in relation to capacity building, no new indicator was
+
+                                                                                                Page 13 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     EG: Egypt EASE for Investment (P153487)
+
+
+
+  introduced which could capture the contribution of additional activities which were realized through AF. In
+  addition, the change in the delivery mechanism of the second PDO was not reflected in the results
+  framework.
+
+  In the ICR (Efficacy Section and Annex 1) three new intermediate results indicators (Number of staff
+  trained in workshops - GAFI, IDA and ERRADA) were introduced and the targets for PDO and some of
+  the intermediate indicators were revised beyond the revisions of the first restructuring. ICR does not
+  provide information on the reasons for these further revisions. The project could include impact
+  assessment to report on project results, i.e., customer satisfaction surveys.
+
+
+
+c. M&E Utilization
+  While the project team utilized the M&E framework to revise the first PDO indicator and reflected on
+  legislative changes, the delivery mechanism for the second PDO of the project remained unchanged.
+  The project was restructured as a result of MTR mission’s recommendations. The indicators in the
+  results framework were reported regularly and transparently in the ISRs. In addition, inputs provided by
+  the M&E framework was used to design and implementation of the AF and revealed the need for extra
+  activities under Component 1 to maintain the project results.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project is an Environmental Assessment Category C (no assessment). No social and environmental
+   safeguards policies are triggered. Environmental and Social risks were rated as low throughout the project.
+
+
+
+
+b. Fiduciary Compliance
+   Financial Management: At appraisal an assessment for the financial management (FM) arrangements for
+   the project was undertaken. Some deficiencies in internal control and external audit system were identified.
+   Also, public procurement regulations were not in line with international good practices and administrative
+   processes were complex. With these constraints fiduciary risk at appraisal was Substantial. To mitigate
+   risks a financial management manual within the operational manual was developed which addressed
+   controls, flow of information and audit requirements. An independent external auditor was hired by the
+   project. The fiduciary risk was reduced to Moderate during the implementation of AF. The project submitted
+   Interim Financial Reports (IFRs) on time. Fiduciary compliance is rated ‘Moderately Satisfactory’ (ICR,
+   p.27).
+
+   Procurement: An assessment of the capacity of the Implementing Agencies, the GAFI and IDA, to
+   implement procurement activities for the project was carried out during project pre-appraisal. Some
+
+                                                                                                   Page 14 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     EG: Egypt EASE for Investment (P153487)
+
+
+
+   constraints were identified including lengthy process of small value contracts due to centralized decision
+   making and lack of experience in international procurement practice. To mitigate these risks, a
+   Procurement Guide as part of operational manual which included roles and responsibilities, sequence and
+   timeframe for decisions and payments was prepared. Additionally, procurement training for two PIU Teams
+   was conducted. Despite these mitigation measures some implementation delays due to procurements
+   occurred during implementation particularly at AF period. These were mainly due to lengthy administrative
+   process of the GAFI management for authorization and clearance of every procurement contract. A few
+   activities were cancelled because of the inaccurate estimated costs or the technical specifications that
+   were not responding to the project’s needs.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   None
+
+
+
+d. Other
+   None
+
+
+
+11. Ratings
+                                                                                 Reason for
+Ratings                         ICR                    IEG
+                                                                                 Disagreements/Comment
+Outcome                         Satisfactory          Satisfactory
+                                Moderately
+Bank Performance                                      Moderately Satisfactory
+                                Satisfactory
+Quality of M&E                  Substantial           Substantial
+
+Quality of ICR                  ---                   Substantial
+
+
+12. Lessons
+
+The following are lessons learnt from the ICR (paragraph 82) with some paraphrasing:
+
+      Projects even with small budgets can make a significant impact on improving
+       government to business services through well designed digital investments. The
+       project delivered a new licensing services digital delivery model that is flexible for growth and
+       can be adopted as a model for effective digital services transformation. This way, the project
+       contributed to simplifying one of the most complicated steps in starting up a business in
+       Egypt, as well as created a large impact toward facilitating evidence-based policymaking,
+       transparent policy implementation and support Egyptian authorities for better decision-
+       making. Success was achieved by making relevant agencies own these systems to
+       guarantee the sustainability of project results.
+
+                                                                                                    Page 15 of 17
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       EG: Egypt EASE for Investment (P153487)
+
+
+
+        Donor collaboration can help to create the momentum for reform. In the case of the
+         project the donor coordination facilitated through the Transition Fund where, the WB and the
+         OECD were implementing partners worked in collaboration for the achievement of a
+         combined PDO: “To improve the regulatory environment for investors through simplified
+         industrial licensing and transparent land allocation processes and to support the Government
+         of Egypt in designing a new investment policy and legal framework, and in strengthening its
+         international investment regime”. Such collaboration provided a firmer, stronger support for
+         the realization of reforms in the country.
+        Reform on land allocation can be performed more effectively via close cooperation
+         among involved entities, clearly defined roles, and availability of established systems
+         of land information and classification. Implementing land allocation reform in Egypt was
+         particularly challenging as the responsibilities of relevant institutions on land allocation were
+         unclear in general and the authority for industrial lands was disbursed among several
+         entities. This complex situation was resolved through the project support that achieved close
+         coordination among entities with clearly defined roles and responsibilities and a digitalized
+         system set up for land information and classification.
+        Sustainability of results on digitalized /automated systems can be ensured by building
+         technical skills and capacities in the beneficiary institutions. Increased technical skills
+         and capacities would enable beneficiary institutions adapt and amend systems in line with
+         changing needs. Enhanced skills also contribute to increased ownership at the beneficiary
+         institutions. In the case of the project, through TA and trainings provided, the GAFI was able
+         to undertake several reforms for the OSSs that were not funded by the EASE project and
+         pursued efforts to improvement of business environment.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provides a detailed overview of the project. It is candid and explains issues encountered during
+implementation. The report is concise and follows the guidelines. It is internally consistent. There is a logical
+linking of the various parts of the report. The analysis refers to the project’s theory of change and explains
+causal links. The narrative supports the ratings. On top of achieved targets identified in the results framework,
+in relation to first PDO objective, the ICR provides additional information and evidence to demonstrate the
+change introduced by the implementation of the project.
+
+The ICR has a few weaknesses. There are some inconsistencies regarding the revised targets between the
+Restructuring Paper and the ICR (Efficacy Section and Annex 1). The ICR seems to include three new
+intermediate results indicators (Number of staff trained in workshops -GAFI, IDA and ERRADA-) and new
+targets for PDO indicators and for some of the intermediate indicators differing from the targets identified at the
+first restructuring. The ICR does not provide information on the reasons for these further revisions. Also, the
+ICR could have enriched the discussion of efficacy with results of the client satisfaction survey as well as with
+
+
+
+                                                                                                      Page 16 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     EG: Egypt EASE for Investment (P153487)
+
+
+
+data extracted from IDA’s customer service satisfaction system. The “investor ideas” feature of the Investment
+Map” could also provide additional evidence about the impact of the project.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                  Page 17 of 17
+

@@ -1,0 +1,998 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     MX Social Protection System (P147212)
+
+
+
+                                                                                 Report Number: ICRR0022884
+
+1. Project Data
+
+
+
+ Project ID                                  Project Name
+ P147212                                     MX Social Protection System
+
+ Country                                     Practice Area(Lead)
+ Mexico                                      Social Protection & Jobs
+
+
+ L/C/TF Number(s)                            Closing Date (Original)              Total Project Cost (USD)
+ IBRD-84470,IBRD-88230                       28-Jun-2019                                       621,818,922.70
+
+ Bank Approval Date                          Closing Date (Actual)
+ 24-Oct-2014                                 30-Jun-2021
+
+                                             IBRD/IDA (USD)                                    Grants (USD)
+
+ Original Commitment                           350,000,000.00                                              0.00
+
+ Revised Commitment                            621,818,922.70                                              0.00
+
+ Actual                                        621,818,922.70                                              0.00
+
+
+
+
+ Prepared by                Reviewed by                    ICR Review Coordinator        Group
+ Salim J. Habayeb           Judyth L. Twigg                Eduardo Fernandez             IEGHC (Unit 2)
+                                                           Maldonado
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The objectives of the project were to support the Borrower's effort to: (i) increase access of PROSPERA
+   Beneficiaries to social and productive programs; and (ii) develop instruments for an integrated social
+   protection system (Loan Agreement, November 19, p. 6).
+
+   Note: PROSPERA stands for Program of Social Inclusion, a conditional support program for poor households.
+
+
+
+                                                                                                  Page 1 of 19
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     MX Social Protection System (P147212)
+
+
+
+   The 2017 additional financing revised associated outcome targets upward, except for one target that was
+   marginally revised downward for reasons unrelated to project ambition, but rather to shifts in government
+   strategies. The original target for that indicator was essentially achieved and the revised target was exceeded.
+   Hence, this ICR Review did not apply a split evaluation that has no practical relevance in this case.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  05-Jan-2017
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+
+
+   I. Support to PROSPERA Program and its linkage with social and productive programs (Appraisal:
+   US$317.5 million; Revised: US$604.73 million; Actual: US$604.73 million)
+
+   The first component aimed at supporting PROSPERA’s efforts to improve the social and economic
+   wellbeing of beneficiaries by promoting investment in human capital and strengthening the program’s
+   linkage with other social and productive programs while ensuring continued improvements in the program’s
+   service delivery to its beneficiaries.
+
+        a. Promoting investment in human capital through the provision of conditional support for education,
+          health, and nutrition.
+        b. Strengthening operational capacity to promote PROSPERA beneficiaries' access to social
+           and productive programs by defining roles and responsibilities of PROSPERA’s staff to support
+           coordination with other programs; designing capacity building activities to strengthen program
+           implementation and linkages with complementary social and productive programs; strengthening the
+           communication strategy towards beneficiaries, including youth and indigenous peoples; and (iv)
+           designing and piloting coordination models for the inclusion of PROSPERA beneficiaries in social
+           and productive programs.
+        c. Strengthening PROSPERA’s monitoring and evaluation tools and strategy through technical
+           assistance for updating targeting and recertification methodology; development of a digital platform
+           with information on PROSPERA beneficiaries and social and productive programs; studies and data
+           collection on beneficiary perceptions; and an evaluation of the long-term impact of the program.
+
+
+
+
+                                                                                                    Page 2 of 19
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     MX Social Protection System (P147212)
+
+
+
+   II. Strengthening the social protection system (Appraisal: US$31.6 million; Revised: US$43.6
+   million; Actual: US$15.5 million)
+
+       a. Developing and implementing an integrated Social Information System, including assessment
+          of information and communication technology (ICT) infrastructure needs; acquisition of software and
+          provision of ICT services; developing an operational manual; developing capacity building
+          mechanisms, including for software; and reviewing the legal framework and developing protocols for
+          information exchange among ministries and agencies responsible for the implementation of
+          PROSPERA and social and productive programs.
+
+       a. Supporting the development and implementation of the Regional Social Development
+          Strategy (RSDS) of the Secretariat of Social Development (SEDESOL), including by carrying out
+          diagnostic studies to identify challenges in the development of social interventions; defining
+          SEDESOL's organizational structure needs to implement RSDS; developing institutional capacity to
+          support SEDESOL's implementation of the RSDS; developing the technological infrastructure
+          required to obtain and analyze information on the supply of social programs and social needs; and
+          developing and implementing a monitoring and evaluation system for RSDS.
+
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Cost and financing. At appraisal, the project cost was estimated at US$350 million under an IBRD Loan
+   consisting of a parallel project investment financing within a larger government program whose total cost
+   was estimated at US$12.2 billion. The Bank was responsible only for its parallel financing, including for
+   audit purposes (PAD, p. 9). An additional IBRD Loan of US$300 million was approved on January 19, 2018.
+   The actual project cost under Bank financing was US$621.8 million, including front end fees of US$1.6
+   million, reflecting a total disbursement of 96 percent.
+
+   Dates. The project was approved on October 24, 2014 and became effective on February 17, 2015. A Mid-
+   Term Review was carried out on March 24, 2017. The 2018 additional financing extended the closing date
+   by two years, from June 28, 2019 to June 30, 2021. The project closed on June 30, 2021 (while also noting
+   that the closing date of the additional financing Loan of US$300 million was moved up by 14 months to
+   close earlier on April 30, 2020, as it was fully disbursed).
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+During the past two decades, Mexico has made significant progress in social protection, including through
+the establishment of the flagship conditional support program, PROSPERA, that had a
+demonstrably positive impact on consumption, health, nutrition, and education (ICR, p. 5). The Bank has
+
+
+                                                                                                 Page 3 of 19
+                       Independent Evaluation Group (IEG)             Implementation Completion Report (ICR) Review
+                       MX Social Protection System (P147212)
+
+
+
+been supporting the government in strengthening the social protection system over these two decades,
+including PROSPERA’s predecessor program, Oportunidades.
+
+As a next program phase (associated with this project), the government intended to promote the integration
+of PROSPERA’s beneficiaries into the overall social protection system, by connecting poor families to
+productive opportunities that can enhance their social mobility and ability to generate income, as an
+additional route of action toward reaching the program’s long-term goal of breaking the inter-generational
+cycle of poverty. With this goal in mind, the government launched this new phase for the program, including
+linking and coordinating with other programs. Twenty-nine social and productive federal programs modified
+their operating rules and formally agreed to provide preferential access to PROSPERA beneficiaries (PAD,
+p. 4). The new phase required institutional changes, including redefining staffing profiles and
+responsibilities, capacity building, and updating program communication strategies to link PROSPERA with
+social, productive, and income generating programs.
+
+In the larger context, and as a backdrop to PROSPERA’s intended evolution for expanding its linkages with
+other programs, the overall social protection system was not achieving its full potential to address the multi-
+dimensional nature of poverty because it remained fragmented (PAD, p. 3). Weaknesses included
+duplication among various programs and a lack of information to identify gaps in demand and supply of
+social services. According to the PAD, in 2011, there were 273 federal programs directed at improving
+socio-economic welfare. Various programs were using different targeting and delivery mechanisms, and co-
+existing with many other state programs, although most federal spending was concentrated in 10 federal
+programs.
+
+The federal administration that took office at the end of 2018 established social policy as one of three pillars
+of its Development Plan 2019-2024. Changes made by the new government included the transformation of
+PROSPERA into an education scholarship program (Benito Juarez National Program of Scholarships for
+Welfare) aiming to strengthen inclusive and equitable education. While the design of PROSPERA and the
+education scholarship program are different, the goal of promoting human capital development of the poor
+and vulnerable was shared by both programs.
+
+At project closing, the first objective that was entirely centered on PROSPERA’s beneficiaries to participate
+in social and productive programs was no longer relevant because the new government ended PROSPERA
+30 months before the project closing date. The second objective on developing instruments that facilitate an
+integrated social protection system remained fully relevant. The Country Partnership Strategy (CPF for the
+period FY2020–FY2025) acknowledges the recent shift of the federal government from conditional cash
+transfers towards a greater focus on economic and financial inclusion while maintaining a constant focus on
+supporting integrated approaches in social protection. Project adjustments supported the new government
+strategy in promoting financial inclusion and in addressing low access to transaction accounts among the
+poor in line with CPF Objective 1 to foster financial intermediation and inclusion, and with CPF Objective 5
+to strengthen the capacity of the social protection system for economic inclusion.
+
+
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+Substantial
+
+
+                                                                                                      Page 4 of 19
+                  Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                  MX Social Protection System (P147212)
+
+
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+               OBJECTIVE 1
+               Objective
+               Support the Borrower's effort to increase access of PROSPERA beneficiaries to social and productive
+               programs
+
+
+
+               Rationale
+               Theory of change
+
+               Under the pathway of change illustrating how increased access would be realized, it was reasonably
+               expected that activities that strengthen program operational capacity to promote linkages with other social
+               and productive programs, including by defining roles and responsibilities of PROSPERA staff to support
+               coordination with other programs; adjusting the operating structure and staff roles to support the process of
+               connecting beneficiaries to such programs; and strengthening and carrying out a communications strategy
+               targeting beneficiaries, would result in staff being trained and certified on linkages between programs,
+               changes made in the program operating structure, relevant messages communicated to beneficiaries,
+               PROSPERA beneficiaries becoming aware of complementary program opportunities, and study findings
+               being used to improve program linkages, including beneficiary perceptions. The above activities and outputs
+               would plausibly contribute to increased access of PROSPERA beneficiaries to social and productive
+               programs, reflected by the extent of their participation in these programs.
+
+               The above theory of change on program linkages was grounded in the larger context of PROSPERA that
+               concurrently seeks to develop human capital by continuing its activities and strengthening its capacities for
+               the provision of conditional support in pursuit of improving program effectiveness in raising income and
+               consumption, schooling attainment, and health and nutrition status (ICR, p. 6). These changes would be
+               supported by improved targeting and recertification methods and by using knowledge generated by
+               evaluation studies.
+
+               As a long-term impact, the above undertakings would be expected to contribute to improved quality of support
+               and well-being of the poor.
+
+               By design, the project appropriately limited project accountability to increasing access to other programs
+               because PROSPERA had little or no control over other social and productive programs, including their quality
+               (ICR. p. 23).
+
+
+
+               Outputs and intermediate results
+
+               Main outputs consisted of conditional support delivered to PROSPERA beneficiaries, revised functions and
+               responsibilities of PROSPERA staff for making linkages with social and productive programs, design and
+
+                                                                                                                 Page 5 of 19
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   MX Social Protection System (P147212)
+
+
+
+approval of an inclusion model and a module for tracking knowledge of complementary programs, staff
+training with an updated training curriculum, certification of staff, communications to beneficiaries, survey
+designs for long-term evaluation of PROSPERA, establishment of a Technical Subcommittee of Employment,
+Income and Savings, technical meetings on targeting methodology, and an international symposium on New
+Generation of Conditional Cash Transfer Programs.
+
+- The percentage of PROSPERA beneficiaries in Q1 and Q2 of income distribution increased from a baseline
+of 68.5 percent in 2010 to 70.5 percent in 2019, close to the target of 71 percent.
+
+- The percentage of PROSPERA students who transitioned to the upper secondary education level increased
+from a baseline of 65 percent in 2013 to 72.8 percent in 2018, essentially achieving the target of 73 percent.
+
+- The percentage of PROSPERA beneficiaries who were aware of complementary social and productive
+programs increased from a baseline of zero in 2013 to 46.8 percent in 2018, short of the target of 80.6
+percent.
+
+- The number of certified bilingual promoters increased from a baseline of 136 in 2017 to 200 promoters in
+2018, exceeding the target of 160 promoters.
+
+- The percentage of citizen demands received and resolved within the time period established in the protocol
+increased from a baseline of zero in 2017 to 99 percent in 2018, exceeding the target of 90 percent.
+
+
+
+Outcomes
+
+The evidence showed that the project contributed to a significant increase in access of PROSPERA’s
+beneficiaries to social and productive programs:
+
+      The number of PROSPERA beneficiaries who participated in social programs increased from a
+       baseline of 0.47 million in 2014 to 1.8 million beneficiaries in 2018, exceeding the target of 1.2 million
+       beneficiaries. Among those beneficiaries, 63.3 percent were females, exceeding the target of 55
+       percent.
+
+      The number of PROSPERA beneficiaries who participated in productive programs increased from a
+       baseline of 14,370 beneficiaries in 2014 to 318,217 beneficiaries in 2018, exceeding the target of
+       236,000 beneficiaries. Among those beneficiaries, 54.5 percent were females, exceeding the target of
+       50 percent. On an index of 0-10, PROSPERA beneficiaries categorized their level of satisfaction with
+       the support given by program staff to access productive programs as 6.9 in 2018, constituting a 40
+       percent increase relative to the previous year.
+
+The above achievements reflect noteworthy participation by women. The ICR (p. 20) noted that women had
+the opportunity to participate in programs that aimed at increasing their assets, income earnings, and
+employment opportunities. For example, the Childcare Facilities for Working Mothers Program had a positive
+average effect of 18 percent on the probability of having a job and of six additional hours of work for
+beneficiaries.
+
+
+
+                                                                                                    Page 6 of 19
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   MX Social Protection System (P147212)
+
+
+
+Beyond the stated objective on increasing access, the ICR (pp. 15, 18, and 19) reported on supplementary
+evidence related to long-term results of PROSPERA that showed positive impacts on multiple dimensions.
+Information sources included evaluations of PROSPERA’s long-term results over two decades through a
+series of studies undertaken in close collaboration and support of the World Bank (PROSPERA-RAS),
+external literature, and the 2018 National Health and Nutrition Survey. Examples of salient findings included
+the following:
+
+- Beneficiary household children’s participation in PROSPERA translated into improved labor market
+outcomes for them as adults, i.e., they were on a better trajectory than their parents;
+
+- The average child benefiting from the program in the long term was 36.6 percentage points more likely to be
+employed than an individual never exposed to the program;
+
+- A one-year increase in schooling was associated with 3.4 and 4.8 percent increases in hourly wages for
+men and women, respectively;
+
+- A one percent increase in height was associated with 10.7 and 8.8 percent increases in hourly wages for
+men and women, respectively;
+
+- Between 2012 and 2018, there was a reduction in the share of households who experienced moderate or
+severe food insecurity and a 20 percent decline in chronic malnutrition, especially in rural areas;
+
+- All breastfeeding indicators improved, with a nearly 10 percentage point increase in inclusive breastfeeding;
+and
+
+- Young adults who formed their own households fared substantially better than their parents in terms of
+schooling, assets, and income when compared to counterparts who did not participate in the program.
+
+Direct project beneficiaries increased from a baseline of 25 million in 2014 to 25.4 million in 2018, slightly
+exceeding the revised target of 25 million beneficiaries. Among those beneficiaries, 53.7 percent were
+females, exceeding the target of 52.8 percent. The target for project beneficiaries was slightly lowered in 2018
+since further expansion of PROSPERA was not expected (ICR, p. 10) in view of government strategic shifts.
+
+Notwithstanding the quantitative achievement in participation of PROSPERA beneficiaries in social and
+productive programs through the end of 2018, shortcomings in attaining such linkages with other programs
+were reported by the ICR (p. 28). An overall framework for guiding coordination modalities between
+PROSPERA and other programs was lacking. Discussions between PROSPERA and other programs
+sometimes focused more on negotiations than on shared objectives among programs. The ICR noted that
+effective linkages required more than administrative changes, as references to the “preferential access” of
+PROSPERA beneficiaries in the Rules of Operation of the complementary programs were non-binding and
+not sufficient to ensure that PROSPERA beneficiaries would receive support. Social and productive program
+budgets were not “tagged” for PROSPERA beneficiaries. Hence, programs could opt to privilege their original
+clients. The lack of re-enforcing budgetary policies to prioritize PROSPERA beneficiaries weakened the
+linkage strategy under this objective. Also, as the new government ended PROSPERA at the end of 2018, 2.5
+years prior to the closing date, the ICR would have been expected to provide sufficient information on related
+consequences relevant to this objective.
+
+
+
+
+                                                                                                  Page 7 of 19
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   MX Social Protection System (P147212)
+
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+Develop instruments for an integrated social protection system
+
+Rationale
+Theory of change
+
+The intended outcome for this objective (developing instruments) was output-focused. Although not ideal, the
+stated objective was justified by the fact that achieving a fully integrated social delivery system is a long-term
+process in a country with rich diversity and a large number of social programs, and for which time and
+additional inputs at various levels would be required (ICR, p. 24). Hence, the objective focused on the
+development or improvement of pre-requisite tools that enable or facilitate integration.
+
+According to the ICR (p. 8), it was reasonably expected that:
+
+- developing and implementing an integrated social information system would result in ICT infrastructure
+needs being assessed and met, an operational manual for software and hardware, and protocols for
+information exchange, and would plausibly contribute to an operational integrated social information system;
+
+- developing and implementing a RSDS would facilitate institutional capacity strengthening, M&E system
+design, and diagnostic studies on SEDESOL structure, and would plausibly contribute to an operational
+regional strategy for social development;
+
+- strengthening planning and monitoring of the social infrastructure fund would contribute to diagnostic
+studies, capacity building, and dissemination of good practices, and would plausibly contribute to better
+planning and use of funds by subnational governments; and
+
+- supporting and implementing strategies for financial inclusion and service modules (Integrative Centers of
+Development), including financial education and a grievance redress mechanism, and provision of adequate
+infrastructure in underserved areas would plausibly contribute to Integrative Centers being linked to the
+information system, and enabling electronic means of payment.
+
+
+      Explanatory Note: Integrative Centers of Development are service modules envisioned by the
+       government as convergence points of multiple communities that already share geographical proximity,
+       culture, and public and productive infrastructure with special focus on marginalized and indigenous
+       areas, and as a vehicle towards integrated service delivery. The inclusion of social participation
+       and territorial and integrated benefit delivery approaches aims to contribute to the vision of a
+       government that is close to its people, economically prudent in its operation, and has communities and
+       beneficiaries at the center. Integrative Centers bring supply and demand sides together for integrated
+       service provision of social programs and aim at increasing social cohesion and participation. They
+       constitute a space for the provision of benefits for the Programs for Development (25 programs that
+       promote development and well-being, most of which were newly created by the new
+
+                                                                                                    Page 8 of 19
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   MX Social Protection System (P147212)
+
+
+
+       administration); financial Inclusion actions such as the ones aiming at enhancing payment
+       mechanisms and improving financial literacy (supply); information and enrollment for potentially
+       eligible populations (demand); and addressing citizen complaints. As of July 2021, there were 10,936
+       Integrative Centers in operation (Task Team clarifications, January 28, 2022).
+
+
+
+Outputs and intermediate results
+
+Six services, short of the target of nine services, have been migrated to the Social Information System, which
+included other modules to support field staff to attend to beneficiaries and potential beneficiaries for the
+Programs for Development (ICR, p. 16). Services included data entry for beneficiary applications; comparison
+of records against other databases; generation of potential beneficiary populations; thematic maps; analysis
+of poverty thresholds of potential beneficiaries; and management of beneficiary records.
+
+Intermediate results related to Integrative Centers of Development were reported as follows:
+
+     i. The number of centers connected to the Social Information System increased from a baseline of zero
+       in 2018 to 10,936 centers in 2021, exceeding the target of 600 centers.
+    ii. The number of centers installed in municipalities with high indigenous populations increased from a
+       baseline of zero in 2018 to 2,410 centers in 2021, exceeding the target of 300 centers.
+   iii. The number of centers that performed financial education actions increased from a baseline of zero in
+       2019 to 10,762 centers in 2021, exceeding the target of 450 centers. Financial education actions were
+       carried out through the provision of face-to-face and online short training to actual and potential
+       beneficiaries and through the distribution of booklets to the beneficiary population. Financial education
+       actions covered topics on income and expenditure management, savings, and credit, and were
+       designed for the beneficiaries of social programs, notably for the Program of Microcredits for
+       Wellbeing.
+   iv. The number of centers that received and attended to citizen demands per established protocols
+       increased from a baseline of zero in 2018 to 10,936 centers in 2021, exceeding the target of 300
+       centers.
+
+The project also supported an International Seminar on Urban Poverty in 2015; the 4th High-level
+International Meeting of the Network of Multi-dimensional Poverty in 2016; and a seminar on Good Practices
+in the use of the Social Infrastructure Fund in 2017.
+
+
+
+Outcomes
+
+The following outcomes were reported by the ICR:
+
+Seven instruments were developed for the integrated social information system and implemented: Unique
+Registry of Beneficiaries; Targeting Mechanism; Social Registry; Social Program Catalogue; Business
+Intelligence Tool; Geographic Information System; and Data Science Lab. Out of a target of eight instruments,
+the Back-Office Dashboard was not finalized. The ICR (p.16) noted that the seven instruments are being
+maintained by the Secretariat of Welfare and remain functional.
+
+
+                                                                                                  Page 9 of 19
+                               Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                               MX Social Protection System (P147212)
+
+
+
+                            In 2019, and to be responsive to the government’s evolving strategy on financial inclusion, the project added
+                            an indicator reflecting the ability of Integrative Centers of Development to provide electronic means of
+                            payment of social benefits to beneficiaries. By June 2021, there were no centers that enabled electronic
+                            means of payment of social benefits to recipients against a target of 600 centers. A main reason for the lack
+                            of progress in electronic payments by the centers was another shift in government strategy towards
+                            strengthening public financial institutions that guarantee payment mechanisms for beneficiaries and
+                            prioritizing localities lacking access to banking services, while concurrently using Integrative Centers as single
+                            window to attend to beneficiaries and to provide them with information. This ICR Review takes into account
+                            these strategic changes that were beyond the control of the project, and considers the objective to develop
+                            instruments for an integrated social protection system as almost fully achieved, as reflected by the totality of
+                            evidence, and further supported by the streamlining of 233 social programs in 2014 to 123 programs in 2021
+                            (ICR, p. 27).
+
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            Both objectives, to increase access of PROSPERA beneficiaries to social and productive programs, and to
+                            develop instruments for an integrated social protection, were almost fully achieved. The achievements are
+                            further supported by the intermediate results and by supplementary information provided by the ICR on long
+                            term impacts. The instruments developed by the project contributed to reducing fragmentation of social
+                            programs, as the number of social programs was streamlined from 233 programs in 2014 to 123 programs in
+                            2021, as noted above. The aggregation of achievements under both objectives is consistent with a substantial
+                            rating for overall efficacy.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+    5. Efficiency
+   The economic analysis of the PAD (p. 55) outlined an economic rationale for supporting conditional support
+   programs and the social protection system with a focus on expected impacts, suitability of public financing, and
+   value added for Bank support. The PAD (p. 59) referred to a 2008 cost-effectiveness analysis for PROSPERA
+   that was undertaken after monetizing impact evaluation results of the program in rural areas. The analysis
+   addressed only returns to schooling. It compared costs with benefits derived from education, valuing the benefits
+   in the form of increased future earnings that result from additional years in school. The analysis also took into
+
+                                                                                                                               Page 10 of 19
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      MX Social Protection System (P147212)
+
+
+
+account opportunity costs and expenditures associated with participation, such as for transportation. According
+to the analysis, the simulations showed benefit-cost ratios ranging from 1.4 to 7.1, using a 10 percent discount
+rate, indicating that costs were offset by the value of benefits. The analysis also considered the results a lower
+bound of expected benefits since impacts on health and nutrition were not included.
+
+The ICR discussed positive impacts of PROSPERA in relation to education, nutrition, and employment aspects
+(see Section 4). The ICR (p. 20) also stated that available information on the integrated social information
+system suggested substantial benefits that justified the investment in the information system. Cross-checks of
+program beneficiary lists with the RENAPO database (civil registry/identity) led to the reduction of duplications
+and invalid IDs. Another example on improvements in the federal social pension program showed that, in 2016,
+11 percent of beneficiaries did not have a verified ID, and that, by June 2021, the share had dropped to 5.6
+percent. According to the ICR, savings achieved through the improvement in the quality of the beneficiary
+registry were estimated at US$280 million/year, but without information on how these savings were calculated.
+
+This ICR Review notes that the ICR’s economic analysis discussed PROSPERA’S achievements, impacts, and
+efficiency gains accruing to the sector to illustrate project efficiency. These represent important outcomes that
+belong in the efficacy section and should not be confused with project efficiency. The ICR’s efficiency section is
+meant to assess the extent to which project resources were used efficiently. Also, the ICR (p. 49) did not fill out
+Annex 4 on Efficiency Analysis that was expected to provide details on project efficiency analysis, assumptions,
+and any further information supporting the analysis.
+
+Adverse aspects of implementation have moderately affected project efficiency. The COVID-19 pandemic
+prevented full execution of the project in its final year. Implementation of technical assistance activities was
+delayed due to the lack of timely budgetary resources and lengthy internal government procedures, which led to
+delays in procurement processes and reduced the time for executing contracts. Slower than expected
+implementation of technical assistance activities was the main reason for the two-year extension of the closing
+date (ICR, p. 22). Frequent changes in SEDESOL management led to some delays in the development and
+implementation of the Integrated Social Information System. Nevertheless, the Additional Financing was fully
+disbursed ahead of schedule, and the closing date of the corresponding loan was advanced by more than a
+year.
+
+Per communication received from the World Bank Team on March 9, 2022, efficiency analysis information was
+available from other sources, but the ICR did not report on related findings. Nevertheless, based on positive
+benefit-cost ratios provided by the PAD, and based on implicit assumptions anchored in global experience that
+basic human capital development interventions supported by the project in nutrition, health, and education are
+cost-effective, and with a reasonably adequate project implementation, but with shortcomings that moderately
+reduced project efficiency, overall efficiency is rated substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)           *Coverage/Scope (%)
+
+                                                                                                     Page 11 of 19
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      MX Social Protection System (P147212)
+
+
+
+                                                                                     0
+Appraisal                                                   0
+                                                                                      Not Applicable
+                                                                                     0
+ICR Estimate                                                0
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Relevance of objectives is rated substantial, as one of the two project objectives remained fully consistent with
+the Country Partnership Framework for the period FY2020–FY2025 at project closing. Efficacy is rated
+substantial, as objectives were almost fully achieved. Efficiency is rated substantial in view of moderate
+implementation shortcomings that reduced efficiency. The overall outcome is rated satisfactory, indicative of
+essentially minor shortcomings in the project’s overall preparation, implementation, and achievement.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+The risk that development outcome may not be maintained was analyzed in relation to each objective. While
+the PROSPERA program no longer exists, the current federal administration transformed it to an education
+scholarship program that includes scholarships for initial and basic education, targeted to poor and
+vulnerable students and universal scholarships to all students in public high schools. The goal of bolstering
+human capital development of the poor and vulnerable to break the intergenerational transmission of poverty
+remains central to both interventions. Some of the operational structures and features of PROSPERA are
+maintained. Importantly, the current administration in Mexico continues to emphasize access to
+complementary social and productive programs, and recent household survey data suggest that
+achievements have been sustained (ICR, p. 27). However, the elimination of PROSPERA has led to gaps in
+the integrated attention for some specific groups – mainly children below school-age and women of
+reproductive age – and for primary health services, both of which could have consequences for development
+outcomes, as could the move away from a focus on households to individuals (ICR, p. 27).
+
+With regard to the development of instruments for an integrated social protection system, this undertaking
+has legal backing. The integrated information system was created in 2018, and the Secretariat of Welfare is
+responsible for integrating, maintaining, and updating this system with beneficiary registries. Previous and
+current federal administrations have taken measures to reduce fragmentation of social programs, and,
+as previously noted in Section 4, the number of social programs was streamlined from 233 social programs
+in 2014 to 123 social programs in 2021.
+
+It is also expected that institutional strengthening generated by the project would contribute to maintaining
+the risk to development outcome at a low level. The project contributed to strengthening SEDESOL (now
+
+
+
+
+                                                                                                     Page 12 of 19
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     MX Social Protection System (P147212)
+
+
+
+Secretariat of Welfare) and to enhancing coordination capacities among programs. The project strengthened
+M&E with improved practices in data management, processing, and quality assurance (ICR, p. 21).
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The project benefited from the experience of previous operations and from policy dialogue under
+  knowledge advisory services. Readiness for implementation and fiduciary arrangements benefited from
+  the Bank’s previous engagement with Mexico. Past lessons reflected in project design included the
+  importance of supplemental interventions to translate human capital into labor market success, and the
+  importance of system management tools to support a more integrated approach to social protection and
+  inclusion (PAD, pp. 9-10). Two counterparts were in charge of project implementation, the National
+  Coordination of PROSPERA and SEDESOL (responsible for the second component on instruments for
+  integration). Both project components were well structured. A procurement assessment for SEDESOL
+  was carried out by the Bank and mitigation measures were agreed upon. Component activities were well
+  prepared, including for requirements and structures of conditional support (PAD, p. 25), and for technical
+  assistance that aimed at strengthening linkages with social and productive programs (PAD, pp. 26-27). A
+  Project Operations Manual was also prepared. As previously noted in Section 3, the operating rules of 29
+  social and productive programs were changed to provide prioritized access of PROSPERA beneficiaries
+  to these programs (PAD, p. 28).
+
+  Risks were adequately identified with mitigation measures defined. Risks included those related to the
+  large amount and complexity of technical assistance and stakeholders’ alignment under the same vision.
+  The monitoring plan built on PROSPERA’s long-standing robust monitoring system. The project was
+  classified under Environmental Assessment Category C, but it triggered Safeguard Policy OP/BP 4.10 on
+  Indigenous Peoples, for which an Indigenous Peoples Plan was prepared to further guide the provision of
+  culturally appropriate services and activities to indigenous communities
+
+  The ICR noted that there was a need for clear coordination modalities between PROSPERA and other
+  programs early on. Per Task Team clarifications (January 28, 2022), other government programs were
+  still in the process of developing coordination details. Another issue resulted from the fact that the PDO
+  statement did not capture the project’s main support to PROSPERA’s core program aiming at improving
+  conditional support delivery. Given the importance of PROSPERA core program to the achievement of
+  the first PDO on program linkages, the statement of objectives would have been expected to explicitly
+  include reference to the core program. However, the Task Team clarified that support to the core
+  program was implicit, as was also reflected by some indicators in the Results Framework, and the Team
+  noted that without PROSPERA as the platform for cash transfers financed under the project, access to
+  other programs would not be realized. Also, the project share of the total program (US$12.2 billion) was
+  relatively small.
+
+
+
+
+                                                                                                   Page 13 of 19
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     MX Social Protection System (P147212)
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The Bank Team carried out implementation support missions on a regular basis, switching to a virtual
+ format under COVID-19 travel restrictions. The Mid-Term Review guided the changes effected through
+ restructuring that accompanied the additional financing. Aide-memoires were complete, and the
+ Implementation Status Reports were candid on implementation status and issues encountered, including
+ changes in priorities of the new federal administration for a territorial-based social protection strategy,
+ including financial inclusion and banking services. Bank Team reporting was timely and complete (ICR, p.
+ 25). The Team incorporated specialized technical support needed for the integrated social information
+ system. It was responsive to government requests and introduced project adjustments in support of
+ changing government approaches to financial inclusion. The Team was proactive in facilitating new
+ interventions and assisting national counterparts to navigate Bank processes, and in advocating for budget
+ resources at higher levels of government in a challenging environment where the government’s approach
+ to territorial-based integration changed twice during the life of the project (ICR, p. 27).
+
+ In addition, the Team mobilized resources for complementary knowledge services that supported long term
+ evaluation of the program and the social information system, including through technical inputs. Transition
+ between TTLs was smooth. The Bank Team collaborated closely with counterparts in the Inter-American
+ Development Bank that was providing technical assistance to PROSPERA on revisions in the conditional
+ support for education aiming at improving school enrollment and completion, access to health and nutrition
+ services, and early childhood development.
+
+ There were some shortcomings, however. An overall framework for guiding and facilitating program
+ linkages and coordination, that could not be finalized during preparation, would have been expected to be
+ established during implementation. As noted in the M&E section, there were no evaluations related to
+ participation in social and productive programs, although they were envisaged. These evaluations would
+ have helped in testing the links in the results chain and explaining access bottlenecks. However, per
+ communication received from the World Bank Team on March 9, 2022, this concerned project-envisaged
+ evaluations, and several operational, qualitative, and process management evaluations were undertaken
+ with national funding, although their main findings were not reported by the ICR. As PROSPERA Program
+ ceased to exist by the end of 2018, a revision of Objective 1 that was specific to PROSPERA beneficiaries
+ would have been expected, but per communication received from the World Bank Team, the incoming
+ government asked the Bank not to modify the PDO, and the request was accommodated by the Bank
+ Team.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+
+
+                                                                                                 Page 14 of 19
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     MX Social Protection System (P147212)
+
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+  Objectives were clearly stated and reflected by indicators that were measurable. Baselines were available.
+ The results chain adequately illustrated the pathway towards the attainment of intended outcomes, and
+ intermediate results adequately captured intended progress. However, given the importance of
+ PROSPERA to the achievement of the first PDO, reference to core program support could have been
+ made explicit (ICR, p. 24). Monitoring arrangements built on existing mechanisms. In 2019, a PDO
+ indicator and several intermediate indicators pertaining to the Centers of Integrated Development were
+ added to capture the new administration’s territorial approach to integration.
+
+
+
+b. M&E Implementation
+
+
+  Overall implementation was adequate. This was facilitated by the fact that several indicators were drawn
+  from the well-established PROSPERA monitoring system. One tool (Puntos Centinela) of the monitoring
+  system was enhanced in order to generate data on beneficiaries’ knowledge regarding access to
+  complementary social and productive programs. However, data on access of beneficiaries to social and
+  productive programs depended on the cooperation of these programs, and at times, there were delays in
+  receiving the required information. The ICR (p. 24) noted that, while there were other analyses of the
+  experience of making linkages with other programs, the project would have benefited from selected
+  process evaluations of the experience with a few programs. These evaluations were not undertaken,
+  although they were envisaged. As for the core PROSPERA Program, the ICR noted that its long-term
+  evaluation was completed in a methodologically sound manner, and that the authors were highly qualified
+  and supported by an external Advisory Group (ICR, p. 24). Implementing agencies submitted timely and
+  regular reports on project activities and progress data.
+
+
+
+c. M&E Utilization
+  M&E findings were used at various levels. Beyond routine project monitoring purposes, the decision to
+  improve the communications strategy for indigenous populations, including through the creation of
+  bilingual promoters, responded to M&E findings that showed weak results, such as in the use of health
+  services. Discussions on project performance were an important focus of implementation support
+  missions and deliberations with national authorities. Since only overall numbers of participants in other
+  programs were monitored, the use of M&E to promote coordination at the program level had limitations.
+  The results of the long-term evaluation of PROSPERA were widely shared, published, and used to
+  inform the social protection sector and similar programs in other countries (see Section 10c).
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+                                                                                                   Page 15 of 19
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    MX Social Protection System (P147212)
+
+
+
+
+a. Safeguards
+  The project was classified under Environmental Assessment Category C, as it was not expected to
+  generate adverse environmental impacts (PAD, p. 15). Since indigenous beneficiaries represented 24.9
+  percent of PROSPERA’s total beneficiaries, the project triggered safeguard policy OP/BP 4.10 on
+  Indigenous Peoples, and compliance was satisfactory throughout project implementation (ICR, p. 25), as
+  also reported in the Operations Portal.
+
+  An Indigenous Peoples Plan was prepared, and it specified the planned actions, including the use of an
+  Indigenous Communication Plan and bilingual promoters. The number of certified bilingual promoters
+  exceeded the target, and related coverage increased from four states in 2012 to 18 states in 2018, and from
+  four languages to 30 languages during the same period. Following the 2019 restructuring, the government
+  continued to implement the plan with additions reflecting the focus on Centers of Development, specifically
+  the installation of these centers in indigenous areas (ICR, p. 25). Targets related to citizen engagement and
+  attention to citizen demands were exceeded.
+
+
+
+
+b. Fiduciary Compliance
+  Financial Management was satisfactory throughout the implementation period. Overall public financial
+  management systems were strong in the country. PROSPERA and SEDESOL were governed by well-
+  defined operating rules and regulations, and had an adequate internal control environment with sound
+  financial systems and procedures used by government entities. In addition, the Bank conducted regular
+  financial management supervision and provided periodic training. Audits were carried out annually. The
+  ICR did not report any audit qualifications, and the Task Team confirmed on February 3, 2022 that there
+  were none, and that there were no overdue or pending audit reports. Procurement performance was also
+  satisfactory until mid-2019, when it was downgraded to moderately satisfactory due to delays in
+  procurement processes that resulted from lengthy internal government procedures and lack of budget
+  allocations at the beginning of the year.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+  The ICR (p. 21) reported a positive impact of the operation in enriching global knowledge. Mexico shared
+  best practices and experiences of PROSPERA, and the program was visited by government officials from
+  numerous countries. According to the ICR, the extensive set of published studies documenting program
+  results was an important asset in global knowledge and a model for evaluation efforts in other countries.
+
+
+
+d. Other
+
+
+                                                                                                 Page 16 of 19
+        Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+        MX Social Protection System (P147212)
+
+
+
+   --
+
+
+
+11. Ratings
+                                                                               Reason for
+Ratings                           ICR                IEG
+                                                                               Disagreements/Comment
+Outcome                           Satisfactory       Satisfactory
+                                                                               Both ICR and this ICR Review
+                                                                               rated Quality-at-Entry as
+                                                                               satisfactory. This ICR Review
+                                                                               rated the Quality of Supervision
+Bank Performance                  Satisfactory       Moderately Satisfactory
+                                                                               as moderately satisfactory
+                                                                               because of insufficient
+                                                                               coordination in facilitating
+                                                                               program linkages.
+Quality of M&E                    Substantial        Substantial
+
+Quality of ICR                    ---                Substantial
+
+
+12. Lessons
+
+The ICR (pp. 28-29) offered several lessons and recommendations, including the following lessons,
+partially re-stated by IEG:
+
+Supporting a long-term evaluation of a large social protection program enriches global
+knowledge. The role of the project in supporting a long-run evaluation of PROSPERA resulted in
+valuable global knowledge. Long-run evaluations of social programs are rare, even among OECD
+countries. The feasibility of such an evaluation for PROSPERA depended on sustained commitment
+by the government to a robust measurement of impact at the outset. Project financing of the final
+survey, resource-intensive organization of multiple rounds of surveys, and the ability of the World
+Bank to mobilize additional resources for the analysis were instrumental in completing the evaluation
+cycle. Given the growth of conditional support programs internationally, the results are expected to
+inform such operations.
+
+Promoting access of conditional support beneficiaries to other social and productive
+programs can be further facilitated by a legal framework and by budgetary resources to these
+programs. Although access of PROSPERA beneficiaries to social and productive programs was
+quantitatively attained, achieving linkages was challenging. Preferential access was not binding.
+Budgets were not "tagged" for PROSPERA beneficiaries, and programs could opt to privilege their
+original clients. Opportunities and expectations to access productive programs were moderated by
+financial constraints.
+
+The broad framing of the objective to develop instruments for an integrated social protection
+system facilitated the ability of the project to respond to changes in government strategies.
+
+
+                                                                                                 Page 17 of 19
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      MX Social Protection System (P147212)
+
+
+
+Under the project, the government territorial-based strategy changed twice, but the PDO remained
+valid as the focus on an integrated social information system was maintained.
+
+
+
+
+13. Assessment Recommended?
+
+  Yes
+  ASSESSMENT_TABLE
+  Please Explain
+  The following areas are recommended for further assessment because they would be beneficial for knowledge
+  generation in the social protection sector, both nationally and internationally:
+
+  (1) evaluate, after a progression of one to two years, the near-term impact and benefits that accrued to
+  conditional support beneficiaries from linkages with productive programs;
+
+  (2) evaluate the impact of building instruments that facilitate integration on further actual progress in integrating
+  various programs in the social protection system; and
+
+  (3) probe deeply into the consequences of the termination of PROSPERA conditional support program.
+
+
+
+14. Comments on Quality of ICR
+
+The ICR was results-oriented and aligned with development objectives. It adequately illustrated the theory of
+change and its results chain. It provided an overall candid critique of the project, but with insufficient information
+on project aspects pertaining to Objective 1 during the project period that followed the consequential
+termination of PROSPERA. It was tightly written and appropriately linked the narrative with the evidence and
+ICR ratings. The ICR was internally consistent and offered specific lessons and recommendations derived from
+project experience. These should be useful for similar future operations. The ICR had moderate shortcomings.
+Key implementation challenges were reported in the lessons section rather than integrating them into the main
+narrative. The ICR did not provide information on nationally funded evaluations addressing participation in
+social and productive programs in the context of program linkages. The ICR followed guidelines, except in two
+areas. First, the ICR’s efficiency analysis discussed impacts and efficiency gains accruing to the sector as a
+result of the operation. These outcomes were confused with project efficiency, for which the ICR was expected
+to assess the extent to which project resources were used efficiently. The ICR did not report on efficiency
+analysis findings that were available from other sources. Second, the ICR Components Section in the main
+text did not provide information on actual cost by component, and the related Annex 3 was blank (ICR, p. 48).
+The information was promptly provided by the Task Team.
+
+
+                                                                                                       Page 18 of 19
+  Independent Evaluation Group (IEG)      Implementation Completion Report (ICR) Review
+  MX Social Protection System (P147212)
+
+
+
+
+a. Quality of ICR Rating
+   Substantial
+
+
+
+
+                                                                       Page 19 of 19
+

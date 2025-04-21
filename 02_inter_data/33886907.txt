@@ -1,0 +1,974 @@
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     WARCIP - APL-1B: , GN, BF (P122402)
+
+
+
+                                                                                   Report Number: ICRR0022944
+
+1. Project Data
+
+
+
+ Project ID                                   Project Name
+ P122402                                      WARCIP - APL-1B: , GN, BF
+
+ Country                                      Practice Area(Lead)
+ Western and Central Africa                   Digital Development
+
+
+ L/C/TF Number(s)                             Closing Date (Original)               Total Project Cost (USD)
+ IDA-62220,IDA-H7120,IDA-H7130,IDA-           31-Dec-2016                                        100,919,477.37
+ H7140
+
+ Bank Approval Date                           Closing Date (Actual)
+ 21-Jun-2011                                  30-Jul-2021
+
+                                              IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                             92,000,000.00                                               0.00
+
+ Revised Commitment                             109,513,830.57                                               0.00
+
+ Actual                                         100,919,477.37                                               0.00
+
+
+
+
+ Prepared by                  Reviewed by                   ICR Review Coordinator         Group
+ Ranga Rajan                  Kavita Mathur                 Kavita Mathur                  IEGSD (Unit 4)
+ Krishnamani
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   This project was the second under the first phase of the West Africa Regional Communications Infrastructure
+   Program (WARCIP). The program aimed to increase international and regional connectivity, create a fully
+   integrated network linking the regional countries and provide affordable high-speed connectivity for West
+   African countries. The first phase was in Liberia and Sierra Leone.
+
+
+
+                                                                                                    Page 1 of 18
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     WARCIP - APL-1B: , GN, BF (P122402)
+
+
+
+   The Project Development Objective (PDO) as stated in the financing agreements of The Gambia, Guinea and
+   Burkina Faso (Schedule 1, page 6) and the Project Appraisal Document (PAD, page 20) was:
+
+   " To increase the geographical reach of broadband networks and to reduce the costs of
+   communication services in Burkina Faso, The Gambia and Guinea".
+
+   The PDO is parsed as follows for this review.
+
+   PDO 1. To increase the geographical reach of broadband networks in Burkina Faso, The Gambia and
+   Guinea.
+
+   PDO 2. To reduce the costs of communication services in Burkina Faso, The Gambia and Guinea.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  04-Apr-2018
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   There were three components (PAD, pages 21 - 23).
+
+   1. Supporting Connectivity.
+
+   Burkina Faso. The estimated cost was US$31.30 million (including the appraisal and revised estimate with
+   Additional Financing (AF)). The actual cost was US$28.20 million. Guinea. The appraisal estimate was
+   US$25.20 million. The actual cost was US$25.26 million. The Gambia. The appraisal estimate was
+   US$25.75 million. The actual cost was US$24.59 million. The difference between the appraisal estimate
+   and actual cost for Guinea and The Gambia was due to exchange rate changes during implementation.
+
+   This component planned to finance activities supporting connectivity in the three countries. There were two
+   sub-components.
+
+   a. International connectivity. This subcomponent planned to support The Gambia and Guinea participate
+   in the Africa coast to Europe submarine cable (ACE) for access to bandwidth capacity. For landlocked
+   Burkina Faso, this subcomponent aimed to provide access to high-capacity bandwidth from neighboring
+   countries through overland route to a new or existing submarine cable system.
+
+
+
+
+                                                                                                  Page 2 of 18
+    Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+    WARCIP - APL-1B: , GN, BF (P122402)
+
+
+
+  b. Regional connectivity. This subcomponent planned to finance the terrestrial broadband backbone fiber
+  networks for cross-border connectivity. For Burkina Faso, this subcomponent included building missing
+  connectivity links to Ghana for wider access to low-cost connectivity.
+
+  2. Creation of an Enabling Environment and Strengthening of Institutions for Improved
+  Connectivity.
+
+  Burkina Faso. The estimated cost was US$8.68 million (including the appraisal and revised estimate). The
+  actual cost was US$5.91 million. Guinea. The appraisal estimate was US$6.80 million. The actual cost was
+  US$2.47 million. The Gambia. The appraisal estimate was US$7.25 million. The actual cost was US$4.84
+  million. The difference between the appraisal estimate and actual cost for Guinea and The Gambia was due
+  to exchange rate changes during implementation.
+
+  This component aimed to provide support for the governance, ownership and financing issues related to
+  operationalizing the submarine cable landing station for The Gambia and Guinea and the Virtual Landing
+  Point (VLP) for Burkina Faso. There were four subcomponents: (a) assistance for developing the operating
+  model for managing the Public-Private-Partnership (PPP) arrangement and related open access principles;
+  (b) assistance for creating a policy and regulatory framework for fostering
+  competition; (c) conducting studies for helping the countries put in place a regime for open access to the
+  submarine cable landing stations; and (d) strengthening the capacities of sector regulators and relevant
+  ministries for implementing the PPP and open access principles.
+
+  3. Project implementation. Burkina Faso. The estimated cost was US$3.02 million (including the
+  appraisal estimate and revised estimate). The actual cost was US$2.17 million. Guinea. The appraisal
+  estimate was US$2.00 million. The actual cost was US$1.91 million. The Gambia. The appraisal estimate
+  was US$2.00 million. The actual cost was US$2.55 million. The difference between the appraisal estimate
+  and actual cost for Guinea and The Gambia was due to exchange rate changes during
+  implementation. This component provided implementation support.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project cost. The estimated cost at appraisal for the three countries was US$86.0 million. An Additional
+  Financing (AF) of US$20.0 was approved for Burkina Faso on April 4, 2018. With this, the revised estimate
+  was US$112.0 million. The actual cost was US$100.9 million.
+
+  Project financing. The Bank financing was estimated at US$86.0 at appraisal (IDA Grants of US$30.0
+  million for Guinea, US$23.0 million for Burkina Faso and US$33.0 million for The Gambia). AF of US$20.0
+  million was approved for Burkina Faso. With this, the Bank financing for the project was US$112.0 million.
+  US$100.9 was disbursed. US$1.9 million of financing for Burkina Faso was cancelled for reasons discussed
+  below.
+
+  Recipient contribution. Recipient contribution was not planned at appraisal. There was no recipient
+  contribution during implementation.
+
+  Dates. The project was approved on June 22,2011, became effective on October 31, 2011, and scheduled
+  to close on December 31, 2016. However, the project closed on July 30, 2021.
+
+
+
+                                                                                                Page 3 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     WARCIP - APL-1B: , GN, BF (P122402)
+
+
+
+   Other changes. There were five Level 2 restructurings (one for The Gambia and Guinea and four for
+   Burkina Faso). The main changes made during the project lifetime are as follows:
+
+   For The Gambia and Guinea.
+
+         The closing date was extended by nine months from March 31, 2016 to December 31, 2016
+          through the first restructuring on February 29, 2016. For The Gambia, this extension was
+          provided for completing some activities (such as, elaborating the open access policy, a feasibility
+          study for regional connectivity, and developing strategies for repositioning the state-owned Gambia
+          Telecommunication Company (Gamtel) and Gambia Telecommunications Cellular Company
+          (GAMCEC). Savings realized from the ACE consortium fees were reallocated between
+          disbursement categories. For Guinea, the extension was granted for completing the studies on
+          regulation and broadband strategies. Project activities to The Gambia and Guinea were completed
+          on December 31, 2016.
+
+   For Burkina Faso.
+
+   The closing date was extended thrice initially. By a year from December 31, 2016 to December 31, 2017
+   through the first restructuring on February 19, 2016, by six months from December 31, 2017 to June
+   30, 2018 through the second restructuring on December 28, 2017, and three months from June 30,
+   2018 to September 30, 2019 through the third restructuring on May 11, 2018 for completing the ongoing
+   activities.
+
+   AF of US$20.0 million was approved in April 2018. The actual cost of the activity of acquiring bandwidth
+   was higher than estimated at appraisal. The AF was partly intended to close the financing gap. The scope
+   of activities for Burkina Faso was also scaled up. The closing date was extended to June 30, 2021.
+
+   The main changes made through the fourth Level 2 restructuring on May 10, 2021.
+
+         The activities of constructing fiber-optic link between Fada and Pama one and related studies were
+          cancelled due to the security situation in Eastern Burkina Faso. Part of the financing freed due to the
+          cancellation was used for purchasing additional international bandwidth.
+         US$1.9 million of financing was cancelled.
+         The project closing date was extended by a month from June 30, 2021 to July 30, 2021.
+
+   Split rating. The PDOs remained unchanged with the AF for Burkina Faso. The AF was intended partly for
+   addressing a financing gap and partly for increasing the project scope. Outcome targets were modified with
+   the increase in project scope. Therefore, this review is not based on a split rating of objectives.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and sectoral context. Despite sustained economic growth before appraisal, The Gambia, Guinea
+and Burkina Faso faced challenges of poverty. The three countries were listed as Least Developed
+
+
+                                                                                                    Page 4 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     WARCIP - APL-1B: , GN, BF (P122402)
+
+
+
+Countries (LDCs) with a ranking of 151, 156 and 161 out of 169 countries on the United Nations Human
+Development Index. In 2009, the per capita income in The Gambia, Guinea, and Burkina Faso was only
+US$430 and US$407 and US$517 respectively. Deeper regional integration was seen by the three
+countries as the means for accelerating the economic growth that is required for sustained poverty
+reduction.
+
+Sectoral context. Although the Information and Communication Technology (ICT) in the three countries
+had opened up in the years before appraisal, the countries faced challenges of providing access to modern
+ICT services for their populations. Internet penetration levels was low in the countries, with only 1% of the
+population having internet services, as compared to the Sub-Saharan Africa (SSA) average of
+8.7%. Broadband penetration was in the range of 0.07% and 0.09%, as compared to the SSA average of
+0.11%. Prices of ICT services in the countries were high. Sector liberalization in the countries remained
+incomplete with weak competition.
+
+The small coastal countries (The Gambia and Guinea) were seen as unattractive investments and hence
+circumvented by the private submarine cable consortia. Connecting to the ACE submarine cable
+represented an opportunity for these countries to improve their international connectivity. Landlocked
+Burkina Faso was dependent on the cooperation of neighbors for international connectivity. A terrestrial
+route to a new or existing fiber cable system was deemed to be the most cost effective long-term option for
+improving international connectivity in Burkina Faso.
+
+Regional strategy. At appraisal, the PDO was well-aligned with the Joint Regional Poverty Reduction
+Strategy (RPRS) for West Africa issued in 2007. This strategy proposed four strategic directions for greater
+regional integration, including through "developing interconnected infrastructures". The PDO is relevant to
+the Africa Regional Integration and Cooperation Assistance Strategy (RICAS) for 2021-2023. The first pillar
+of this strategy articulated the need for building regional connectivity as a necessary condition for promoting
+regional integration and identified regional connectivity as an overriding priority.
+
+Bank regional strategy. The PDO was well-aligned with the Bank's regional strategy and the Bank's
+strategies for the three countries. The Regional Integration Assistance Strategy (RIAS) for West Africa
+updated in 2010, articulated the need for exploiting scale economies, facilitating intraregional trade and
+connecting landlocked countries to regional and global trade routes. The RIAS identified the WARCIP as a
+flagship program.
+
+Bank strategy for The Gambia. At appraisal, the PDO was consistent with the Joint Partnership Strategy
+(JPS) prepared by the Bank and African Development Bank (AfDB) for 2013 - 2016. The strategy focused
+on two pillars: (i) strengthening economic management and improving public service delivery; and (ii)
+enhancing productive capacity and accelerating growth and competitiveness. The PDO is relevant to the
+two pillars of The Gambia Country engagement note for 2018 - 2021: (i) enhancing competitiveness; and (ii)
+strengthening the institutional capacity for governance and public service delivery.
+
+Bank strategy for Guinea. At appraisal, the PDO was relevant to the higher-level objectives of the Bank's
+Interim Strategy Note (ISN) for 2014 - 2017. The ISN articulated the need for: (i) fostering sustainable and
+equitable growth; (ii) improving access and quality of basic social services; and (iii) strengthening
+governance and institutional capacity. The PDO is relevant to the Bank's Country Assistance Strategy
+(CAS) for Guinea for 2018 - 2023. The CAS specifically identified improving Information Communication
+Technology (ICT) for stimulating growth and economic diversification.
+
+
+
+                                                                                                     Page 5 of 18
+                                      Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+                                      WARCIP - APL-1B: , GN, BF (P122402)
+
+
+
+               Bank strategy for Burkina Faso. The PDO was well-aligned with the Bank's CAS for 2010-2012 for
+               Burkina Faso. The strategy articulated the need for deepening economic transformation and identifying new
+               drivers for growth. The PDO is relevant to the Bank's Country Partnership Framework (CPF) for 2018-
+               2023. The CPF articulated the need for developing transport, trade and ICT for improving access to
+               markets.
+
+               Previous Bank experience. The Bank has financed projects in the three countries. This was the first ICT
+               sector project in the countries. The project included investment activities (access to ACE international
+               submarine cable for The Gambia and Guinea and an overland route for Burkina Faso), and institutional
+               strengthening activities aimed at an enabling environment for developing the ICT sector, including through
+               PPP arrangements. While the former activity would help in increasing the geographical reach of broadband
+               services, the latter can aid reducing the prices of internet services by fostering competition. Given that the
+               PDOs were relevant to the region and the Bank's regional strategy, the relevance of the PDO is high.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             PDO 1. To increase the geographical reach of broadband services in Burkina Faso, The Gambia and Guinea.
+
+                             Rationale
+                             Theory of change. The outputs such as connection to the international submarine fiber optic cable and the
+                             regional and national terrestrial broadband backbone fiber networks, were likely to increase the geographical
+                             reach of broadband services and increase the volume of international communications traffic in the three
+                             countries. The causal links between activities, outputs and outcomes were logical, and the outcomes were
+                             monitorable. The results framework assumes that the connectivity foundations (submarine cable and
+                             backbone infrastructure) would be completed.
+
+                             Outputs (ICR, pages 10 - 11, pages 29 - 30 and page 44). The outputs for the three countries are as follows:
+
+                             The Gambia.
+
+                                        The membership fees to the Africa Coast to Europe (ACE) submarine cable consortium were made as
+                                         scheduled and the cable was operational in December 2012. A landing station was built with a
+                                         capacity of 10 Gbit/s.
+                                        The volume of available capacity international communications (internet, telecoms and data
+                                         bandwidth) increased to 58.26% at closure. This exceeded the target of 30%. 51% of the population
+                                         were using the internet in 2019 (the ICR does not provide the baseline number and does not specify
+                                         the target).
+
+                                                                                                                                Page 6 of 18
+  Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+  WARCIP - APL-1B: , GN, BF (P122402)
+
+
+
+
+     The connectivity infrastructure brought internet capacity to 36 ministries, departments and agencies
+      through a government Local Area Network. An Integrated Financial Information System (IFMIS) was
+      deployed to leverage this connectivity.
+     Six secondary school were provided with broadband network connectivity. ICT centers in these
+      schools provided internet access to the communities. Digital literacy training and ICT certifications
+      were provided in rural areas.
+     Policy, legal and regulatory support were provided as targeted to the: (i) The Ministry of Information
+      and Communications Infrastructure (MOICI) on sector liberalization, national ICT and broadband
+      strategy, internet exchange point (IXP) feasibility assessment and regional connectivity; (ii) The Public
+      Utilities Regulatory Authority (PURA) on taxation, spectrum and numbering; and (iii) The Gambia
+      Telecommunications Company (GAMTEL) on business strategies and human resources audit. The
+      MOICI, PURA and GAMTEL staff were trained on technical and regulatory areas of the telecom
+      sector. A restructuring plan for GAMTEL and a cybersecurity strategy was completed as targeted.
+     A PPP arrangement was developed for the landing station. However, a key policy principle underlying
+      the arrangement - the full liberalization of The Gambia's international gateway - was not achieved at
+      closure in 2016 due to political difficulties.
+
+Guinea.
+
+     The membership fees to the ACE cable consortium were made as scheduled and the cable became
+        operational in January 2013. The landing station had an available capacity of 42 Gbit/s.
+     The volume of available capacity of internet, telecoms and data bandwidth services increased to 9.5%
+        when the project closed. This exceeded the target of 5.9%. 23% of the population were using the
+        internet in 2019 (the ICR does not provide the baseline number and does not specify the target).
+       A virtual government network linking five government establishments in Conakry was
+        implemented. Information system was installed in five ministries.
+       The Ministry of Post, Telecommunications and Digital Economy (MPTEN) personnel and the Project
+        Implementation Unit (PIU) staff were trained in areas such as fiber optics, digital economy, project
+        management and environmental safeguards. Technical support was provided to the Postal and
+        Electronic Communications Registry (ARPT) and MPTEN to review legislation and update the
+        telecommunications strategy. A study was completed on operationalizing the PPP arrangement and
+        on the needed legal and regulatory environment under "open access" principles.
+       The IXP was installed at the new premises of the regulator. A feasibility study for the IXP was
+        completed. However, the IXP was not yet operational when the project closed.
+       The activity associated with disinvestment of the Government shares in the Guineenne de Large Band
+        (GUILAB) was not completed due to the difficulties faced by the Government. The team clarified that
+        to date, the Government holds 52.5% shares in GUILAB.
+       Most of the activities supporting the regulator (ARPT) were delayed and eventually dropped, due to
+        the entity lack of interest and cooperation.
+
+Burkina Faso.
+
+     The Virtual Landing Point (VLP) facility was operational when the project closed. High capacity
+        bandwidth (5 Gbit/s) were purchased for the VLP and bulk international bandwidth was supplied to
+        licensed operators as targeted. The bandwidth was commercialized in December 2018. Additional
+
+
+                                                                                                   Page 7 of 18
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   WARCIP - APL-1B: , GN, BF (P122402)
+
+
+
+         Gbit/s were purchased through the AF for the project. With the AF, the VLP was strengthened to
+         improve redundancy by opening a second site in Bobo-Dioulasso.
+        The IXP facility was operational at project closure. The IXP was scaled up through the AF to improve
+         the quality of national connectivity. The "national internet traffic" exchanged at the IXP reached 12,000
+         Mbit at peak times from a baseline of 350 Mbit at peak times. This exceeded the target of 1,500 Mbit.
+        Fiber link was deployed from Ouagadougou to Paga on the border of Ghana and the link was
+         extended to the Bagre Growth Pole for providing redundancy, security and wider access to low cost
+         capacity. Fiber link was extended to Dindeogo-Zabre under the AF.
+        2,332 buildings of the government agencies in 42 provinces were provided with access to internet
+         services when the project closed. Compared to 2017, this was an increase of 129% in the government
+         agencies and 300% in the number of provinces connected.
+        Activities aimed at strengthening the regulatory environment and the PPP were completed as
+         targeted. This included developing a national development policy proposal for the digital economy, a
+         development strategy for the broadband universal access, a sector policy proposal and an
+         implementation action plan.
+        The project financed the drilling of five water wells, the associated construction works and the
+         pumping equipment to each well. These investments were agreed with the communities located in the
+         proximity of the deployed optic fiber connections. A pilot of installing smart boards/projectors and
+         providing e-learning content was completed.
+
+Outcomes.
+
+The outputs described above were expected to increase the geographical reach of broadband networks. The
+proxies used for monitoring the outcomes were: (i) volume of international communications (internet,
+telecoms and data) bandwidth per person; (ii) increase in the percentage of population with access to internet
+services; and (iii) increase in the percentage of population with access to telephone services (fixed mainlines
+plus cellular phones).
+
+Volume of International traffic (measured in Kbit/s per person).
+
+      In The Gambia, the volume of international traffic increased from 10 Kbits/s per person at the baseline
+         in 2010 to 528 Kbits/s per person when the project closed in 2016, far exceeding the target of 30
+         Kbits/s. In Guinea, the volume of international traffic increased from 5 Kbits/s per person at the
+         baseline to 86 Kbits/s per person when the project closed in 2016, achieving the target of 85 Kbits/s
+         per person. In Burkina Faso, the volume of international traffic increased from 28 Kbits/s per person in
+         2010 to 244.2 Kbits/s per person in 2017, exceeding the target of 74 Kbits/s per person set for the
+         original closing date (2016).
+
+Access to internet services (measured in number of subscribers per 100 people).
+
+      In The Gambia the share of population with access to internet services increased from 0.75% at the
+         baseline to 28% in 2016. This exceeded the target of 3%. In Guinea, it increased from 0.3% at the
+         baseline to 26.2%, exceeding the target of 0.70%. In Burkina Faso, it increased from 0.20% at the
+         baseline to 67.26%, exceeding the target of 40%. The access to network coverage for mobile internet
+         reached 50.67%, falling short of the target of 60%.
+
+
+
+                                                                                                    Page 8 of 18
+   Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+   WARCIP - APL-1B: , GN, BF (P122402)
+
+
+
+Access to telephone services (fixed mainlines plus cellular phones per 100 people).
+
+      In The Gambia, the number of smartphone users increased from 127,000 users in 2011 to 345,000 in
+       2016. 109.5% of the population had mobile phones (some people had more than one line 2021). In
+       Guinea, the share of the population with access to telephone services increased from 34.7% in 2010
+       to 97.8% in 2016, exceeding the target of 47.5%. 118% of the population had mobile phones in
+       2021. In Burkina Faso, access to telephone subscriptions reached 108.46% of the people as
+       compared to 37.2% at the baseline, exceeding the target of 92%. Access to mobile telephony
+       coverage reached 92.41% of the population, exceeding the target of 90%.
+
+It is difficult to determine the extent to which the realized outcomes were attributable to the project activities,
+given the telecommunication sector's fast development in recent times. However, it is logical to assume that
+the project significantly contributed to realizing the intended outcomes.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+PDO 2. To reduce the costs of communication services in Burkina Faso, The Gambia and Guinea.
+
+Rationale
+Theory of change. Institutional strengthening activities aimed at improving the regulatory environment for the
+development of the ICT sector. Activities aimed at fostering a competitive environment through PPP
+arrangement were likely to lower the wholesale and retail prices of fixed internet services. The causal links
+between project activities, outputs and outcomes were logical and the outcomes were measurable. The
+results framework explicitly assumes that: (i) there is private sector investment in digital infrastructure; and (ii)
+the e-Government institutional capacity and policy frameworks are developed in the three countries.
+
+Outputs.
+
+The outputs described above are also relevant to this objective.
+
+Intermediate outcome.
+
+      In The Gambia, the retail price of Internet services for enterprises decreased by 73%, from US1,500 to
+       around US$400. In Guinea, the retail price of internet services decreased by 36%, from US$1,200 to
+       around US$762. This was short of the target of US$500. In Burkina Faso, the retail price of mobile
+       internet services decreased from US$16 to US$12.30. This was short of the target of US$8.00. The
+       retail price of fixed internet services decreased from US$130 to US$22.24, exceeding the target of
+       US$70.
+
+Outcomes.
+
+
+
+                                                                                                       Page 9 of 18
+                               Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+                               WARCIP - APL-1B: , GN, BF (P122402)
+
+
+
+                            The outputs were expected to reduce the costs of communication services in the three countries and increase
+                            the number of beneficiaries. The wholesale price of international E1 capacity link was used as a proxy of the
+                            cost of communications. The beneficiaries were defined as the number of people using ICT to communicate
+                            (including businesses, governments, teachers, doctors, farmers and fishermen).
+
+                            Wholesale prices of international connectivity in the three countries.
+
+                                  In The Gambia, the average monthly price of wholesale E1 capacity link from capital city to Europe
+                                   decreased by 90% during implementation, reaching US$500 by closing in 2016. This exceeded the
+                                   target of 50%. In Guinea, the average monthly price decreased from US$8,000 at the baseline to
+                                   US$1,400 as targeted. In Burkina Faso, the average monthly price of wholesale international E1
+                                   capacity link from the capital city to Europe decreased from US$9,000 at the baseline to US$319 at
+                                   project closure. This exceeded the target of US$1,400.
+
+                            Direct beneficiaries.
+
+                            The total number of beneficiaries increased from 3,300,000 at the baseline on September 30, 2010 to
+                            7,840,000, exceeding the target of 6,242,000. Direct female beneficiaries were 101%. The figures for the
+                            three countries are as follows:
+
+                                  In The Gambia, the number of beneficiaries increased from 1,600,000 at the baseline on September
+                                   30, 2010 to 1,800,000 when the project closed in 2016 as targeted. 47% of the beneficiaries were
+                                   women (target 51%). In Guinea, the number of beneficiaries increased from 3,700,000 to 101,150,000
+                                   (target 5,600,000). 35% were women (target 30%). In Burkina Faso, this indicator was dropped
+                                   through the AF as it was deemed to be inadequate as compared to the indicators "access to
+                                   telephone services" and "access to internet services".
+
+                            A beneficiary survey was conducted in Burkina Faso in July 2021. (The beneficiaries included internet users
+                            and internet providers, the PIU, the Permanent Secretariat of the Transport Program, the General Direction of
+                            Communications Infrastructure and the regulator). The main conclusions of the survey were: (i) 19 of the 21
+                            Internet Service Providers (ISPs) stated that their number of customers steadily increased since 2018; (ii)
+                            from 2018 to 2021, it increased by 26% (from 10,086 to 16,723). In the first six months of 2021, it increased
+                            by 438% (from 16,723 to 89,999); and (iii) the main reasons for these increases were good connection
+                            quality, affordability due to the lower price and increased awareness regarding the internet.
+
+                            It is difficult to determine the extent to which the outcomes could be attributed to the project activities, given
+                            the telecommunication sector's development in recent times. However, it is clear that the project activities
+                            significantly contributed to realizing the intended outcomes.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                                                                                                                                 Page 10 of 18
+      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+      WARCIP - APL-1B: , GN, BF (P122402)
+
+
+
+
+  OVERALL EFFICACY
+  Rationale
+  The outcomes were for the most part exceeded. This review concludes that the project significantly
+  contributed to realizing the intended outcomes.
+
+
+
+  Overall Efficacy Rating
+  Substantial
+
+
+
+ 5. Efficiency
+Economic benefits. The benefits from connecting to the ACE submarine cable were assumed to come from
+financial savings. Although the up-front costs of the ACE submarine cable were higher, estimates showed that
+the cost savings in purchasing connectivity through ACE would be ten times cheaper than the cost of purchasing
+bandwidth from existing African submarine cables. The cost advantage of ACE was even greater compared to
+satellite bandwidth.
+
+The Gambia. The financial analysis at appraisal for The Gambia showed that the investment in ACE would
+breakeven in 2019/2020, with an Internal Rate of Return (IRR) of 28.8%. The financial analysis conducted at
+closure with the latest data from the Gambia submarine cable (GSC) at closure showed that ACE was highly
+profitable, with a Net Present Value (NPV) of US$17 million and an IRR of 38%.
+
+Guinea. The financial analysis developed at appraisal for Guinea showed that that the investment in ACE would
+break even in 2014/2015, with a NPV of US$24.8 million and the IRR of 22.4%. The financial analysis
+conducted at closure showed an IRR of 2% indicating that the ACE was profitable (the ICR does not provide the
+NPV at project closure). The substantial difference between the IRR at appraisal and at closure was mainly
+because prices did not reach the level estimated at appraisal.
+
+Burkina Faso. At appraisal, the financial analysis estimated an IRR over 10 years at 28%, with a break even
+expected between 2016 and 2018 and a NPV of US$8.4 million. The analysis was not conducted at closure as
+the Burkina Faso VLP created in 2018, only became operational in January 2020 and sufficient data was not
+available to assess the return on investment (ICR, paragraph 44).
+
+Administrative and Operational issues.
+
+The Gambia. The international gateway was not fully liberalized as envisioned at design when the project
+closed in 2016. It was liberalized only in August 2019 under the Bank-financed The Gambia Second Fiscal
+Management, Energy and Telecom Reform Development Policy Operation. Further, as part of the WARCIP
+program, the Government was required to divest its shares in the Gambia Submarine Cable (GSC) to private
+sector operators when the project closed in 2016. The Government had not divested its shares in GSC by 2021.
+
+Guinea. As in The Gambia, the Government was required to divest its shares in GUILAB as part of the WARCIP
+Program at project closure. But to date, the government still holds 52.52% of the shares of GUILAB. The team
+clarified that in the mobile sub-sector, operator's (such as, Orange Guinea) still suffer from the Government's
+strong hold on asymmetric regulation in favor of the incumbent operator. The activity of establishing Internet
+
+                                                                                                 Page 11 of 18
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      WARCIP - APL-1B: , GN, BF (P122402)
+
+
+
+Exchange Point (IXP) was delayed and at closure although the IXP was established, it was not
+operational. Most of the activities supporting the regulator - the Post and Electronic Communication Regulatory
+Authority (ARPT) - were subject to delays during implementation and eventually dropped.
+
+Burkina Faso. The implementation of connectivity component (Virtual Landing Point and terrestrial connectivity)
+was delayed in the initial years due to a combination of factors, including lengthy national procurement
+procedures, lack of motivation on the part of the civil servants, frequent changes in executing agencies leading
+to disruption of activities lack of counterpart funding for activities that were not eligible for Bank financing (such
+as activities associated with stakeholders participation) and security issues. The delays were exacerbated in the
+final years by external factors (restrictions imposed following the COVID-19 pandemic). The entity in charge of
+the VLP was created in 2016, five years after the project started in 2011 and the VLP was fully operational only
+in 2019. The activity of constructing the connectivity link from Ouagadougou and Paga on the Ghana border was
+subject to cost overruns. The financing gap was partly covered through the AF. Finally, the largest construction
+activity (the link between Burkina Faso and Benin was dropped due to security considerations and an amount of
+US$1.9 million of Bank financing was cancelled.
+
+In sum, efficiency is rated as modest in view of the shortcomings during implementation.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?              Point value (%)            *Coverage/Scope (%)
+                                                                                        0
+ Appraisal                                                    0
+                                                                                         Not Applicable
+                                                                                        0
+ ICR Estimate                                                 0
+                                                                                         Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Relevance of the PDO is high. Efficacy is as substantial. Efficiency is modest. With these ratings, overall
+outcome is Moderately Satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+                                                                                                       Page 12 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     WARCIP - APL-1B: , GN, BF (P122402)
+
+
+
+
+Government commitment. The main risk is the lack of governments divestiture in the Africa Coast to
+Europe Cable (ACE) SPV in The Gambia and Guinea:
+
+      The Gambia. There is substantial risk to development outcome in The Gambia. The project design
+       envisioned that Government of The Gambia would divest its shares in the Gambia
+       Telecommunications Company (GAMTEL). The divestment has not occurred to date and the
+       Government retained 49 percent shares. The ICR (paragraph 102) notes that the Gambia Submarine
+       Cable (GSC) and operators manage the ACE. Access to ACE capacity was based on their respective
+       shares in the Special Purpose Vehicle (SPV) and not regulated on open access terms, creating
+       barriers to entry.
+      Guinea. As in The Gambia, there is substantial risk to development outcome. Under the PPP
+       arrangement for Guinea, no shareholder could hold more than 25% of the shares in GUILAB. This
+       provision was in place to ensure that no one operator or shareholder could control ACE capacity and
+       therefore affect competition in the market. To date, the Government still holds 52.52% of GUILAB's
+       shares.
+
+Security Risk . Burkina Faso. There is a substantial risk that the connectivity infrastructure might be
+damaged in conflict affected areas.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The Bank prepared this project based on the lessons of the first phase of the WARCIP in Liberia and
+  Sierra Leone and from the previous Bank-financed ICT projects in East and Southern Africa, and the
+  Central Africa Backbone project. The lessons incorporated at design included: (i) focusing upfront on
+  improving the legal and regulatory framework and establishing the PPP arrangement; (ii) early
+  engagement with the private sector; and (iii) ensuring that the key stakeholders understand the open
+  access principles (PAD, paragraphs 48 and 50). The project design included a Project Preparation
+  Advance (PPA) to The Gambia and Guinea for activities such as financing key studies, identifying the
+  best low-cost international connectivity options, and establishing SPV with private sector participation.
+  This helped in creating SPV in the two countries even before the Board approval. In Burkina Faso, the
+  PPA faced delays and hence only the activity of preparing safeguards instruments was prepared with the
+  PPA.
+
+  The implementation arrangements were adequate. This included establishing a Project Implementation
+  Unit (PIU) in the Ministries of Communications or regulatory authorities in The Gambia and Guinea (PAD,
+  paragraph 51). An already established PIU in Burkina Faso with experience in Bank projects was in
+  charge of implementation. The arrangements made at appraisal for monitoring and evaluation and
+  safeguards and fiduciary compliance were appropriate (discussed in sections 9 and 10).
+
+  There were moderate shortcomings at Quality-at-Entry. The risk associated with government failure to
+  commit to project design was underestimated. The mitigation measures focused on increased dialogue,
+  participatory decision-making with the private sector, and TA to compensate for the weak government
+
+
+                                                                                                   Page 13 of 18
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     WARCIP - APL-1B: , GN, BF (P122402)
+
+
+
+  capacity. These measures were inadequate as demonstrated by the shortcoming related to the
+  divestment of the SPV in The Gambia and Guinea. Likewise, risks associated with the security situation
+  in the border areas of Burkina Faso and Benin were underestimated. The cost of establishing the VLP in
+  Burkina Faso was underestimated. This led a financing gap which was partly covered by AF.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ 10 supervision missions for The Gambia, 11 for Guinea and 17 for Burkina Faso were held during
+ implementation. The supervision team provided guidance to the respective governments and the different
+ public and private entities involved and worked closely with the PIUs. The supervision team also supported
+ preparation of analytical studies on addressing issues such as liberalizing the international gateway,
+ adopting an open access policy and business strategies in The Gambia and Guinea. The support provided
+ by the Bank team aided in safeguards and fiduciary compliance (discussed in section 10). The team
+ clarified that there were four task team leaders for Burkina Faso and two for The Gambia and Guinea
+ during the project lifetime. There were minor shortcomings in M&E implementation (discussed in section 9).
+ The quality of supervision was satisfactory.
+
+ Overall Bank performance is rated as moderately satisfactory due to the moderate shortcomings at at
+ entry.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The key indicators for monitoring the two PDO's were adequate. The three proxies - volume of international
+ traffic, access to telephone and internet services - were appropriate for monitoring the PDO 1. Likewise,
+ monitoring the trends in retail prices of internet services and the average wholesale price of E1 capacity
+ from the capital city to Europe and the number of direct beneficiaries were appropriate for monitoring the
+ PDO 2.
+
+ The M&E framework could have benefitted from an indicator for monitoring the quality of internet services
+ to complement the indicators on access and prices. Given that compared to other sectors underlying
+ technologies were moving fast in the ICT sector, the target values could have been modified during
+
+
+                                                                                                 Page 14 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     WARCIP - APL-1B: , GN, BF (P122402)
+
+
+
+ implementation for better attribution of results. The data for monitoring came from the private operators and
+ the international organizations.
+
+
+
+b. M&E Implementation
+  The ICR (paragraphs 70 - 72) noted that the quality of M&E implementation varied across countries. In
+  Guinea and Burkina Faso, the quality was more or less satisfactory. In The Gambia however, the
+  quarterly reports and annual progress reports were not generated as per the provisions of the project
+  implementation manual and monitoring of indicators was inconsistent in the initial years. The ICR
+  observed that the quality improved in the latter years.
+
+  One shortcoming of M&E implementation was that reporting in the World Bank system was not accurate
+  with respect to the consolidation of values to reflect the aggregated values of the WARCIP program.
+
+
+
+c. M&E Utilization
+  The information provided by the M&E framework was utilized for monitoring project performance.
+
+  In sum, M&E is assessed as substantial in view of the minor shortcomings during implementation.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as a Category B (partial assessment) project under the World Bank safeguard
+   policies. Four safeguard policies were triggered: Environmental Assessment (OP/BP 4.01); Physical
+   Cultural Resources (OP/BP 4.11); Natural Habitats (OP/BP 4.36); and Involuntary Resettlement (OP/BP
+   4.12).
+
+   Environmental Assessment, Physical Cultural Resources and Natural Habitats. The ICR (paragraph
+   76) noted that due to nature of the construction activities, no negative environmental impacts were
+   anticipated in The Gambia and Guinea. The three countries prepared and publicly disclosed Environmental
+   and Social Management Plans (ESMP). The potential negative environmental impacts were expected to
+   come from the construction works in Burkina Faso. Burkina Faso conducted an Environmental and Social
+   Audit in 2018. The ICR noted that there were no significant environmental impacts in the three
+   countries. According to the clarifications provided by the team, the project was in full compliance with the
+   safeguards on Physical Cultural Resources and Natural Habitats.
+
+
+
+
+                                                                                                  Page 15 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     WARCIP - APL-1B: , GN, BF (P122402)
+
+
+
+   Involuntary Resettlement. A Resettlement Action Plan (RAP) was prepared and publicly-disclosed in The
+   Gambia and Burkina Faso. A RAP was not prepared for Guinea as the landing station was in a shore zone
+   in an unused government-owned land.
+
+   The Gambia. The RAP for The Gambia noted that although land acquisition was not envisioned, about 27
+   people could be temporarily inconvenienced. The implementation of the RAP was subject to delays in the
+   initial years. The total number of people who were affected was listed as fifteen during implementation. Six
+   people had received compensation when the project closed. The team clarified that after a rigorous and
+   extensive campaign to reach the fifteen people, only six were identified and compensated. The team also
+   clarified that the actions taken were appropriate and sufficient.
+
+   Burkina Faso. 274 households affected by the project activities were compensated out of a total of 277
+   households. Burkina Faso also implemented a Grievance Redress Mechanism (GRM) and a Gender-based
+   violence (GBV) information campaigns in the project-intervened areas. Neither the GRM nor the GBV were
+   solicited during implementation.
+
+
+
+
+b. Fiduciary Compliance
+   Financial management. At appraisal, the Bank conducted an assessment of the financial arrangements in
+   the three countries. Financial management in the three countries was rated as moderately satisfactory
+   during implementation (ICR, paragraphs 82, 85 and 86). In the three countries unqualified external audit
+   reports were submitted in a timely fashion.
+
+   Procurement. The Bank conducted a procurement assessment at appraisal. In The Gambia and Guinea,
+   the project financed payment of the fee to access ACE, which resulted in disbursements of 70% of the
+   funds shortly after effectiveness. In contrast, the activities in Burkina Faso required standard fiduciary
+   processing. Procurement management was moderately satisfactory in the three countries. There were
+   procurement delays in all the countries due to the weak capacity of the implementing agencies. These
+   were eventually resolved and the ICR does not report any case of mis-procurement in the three countries.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   The ICR does not mention any unintended impacts.
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                Reason for
+Ratings                         ICR                   IEG
+                                                                                Disagreements/Comment
+
+
+                                                                                                  Page 16 of 18
+       Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+       WARCIP - APL-1B: , GN, BF (P122402)
+
+
+
+                                Moderately
+Outcome                                              Moderately Satisfactory
+                                Satisfactory
+                                Moderately
+Bank Performance                                     Moderately Satisfactory
+                                Satisfactory
+Quality of M&E                  Substantial          Substantial
+
+Quality of ICR                  ---                  Substantial
+
+
+12. Lessons
+
+The ICR draws the following main lessons from the experience of implementing this project, with
+some adaptation of language.
+
+1. A regional approach to fostering broadband services can help in moving forward the
+agenda of regional integration. This project helped the small coastal countries of The Gambia and
+Guinea which were circumvented by the private submarine cable consortia, in connecting to the
+ACE submarine cable. Likewise, the project aided landlocked Burkina Faso in developing direct and
+virtual landing point in Ghana. Developing direct and virtual landing points through the region helps
+to drive an expansion to broadband coverage and a decrease in broadband prices, hence
+contributing to less heterogeneity in broadband markets across the region.
+
+2. Government commitment on PPP and open access principles in itself may not guarantee
+open access. The lessons from The Gambia and Guinea showed that the PPP model does not
+guarantee open access and that regulatory safeguards are required for realizing the intended
+outcomes. To ensure fair and equitable access, further regulatory frameworks needs to be in place,
+including the appropriate monitoring by the sector regulator of the terms and conditions for
+accessing the international capacity, to ensure that prices are appropriately set, that there is no
+collusion between the shareholders, and that the terms of access are nondiscriminatory to all
+players.
+
+3. The outcome indicators may require regular assessment and modification in ICT projects.
+Compared to other sectors, the telecommunication market evolve more rapidly, due to the fast pace
+of development of the underlying technologies. The lesson from this project is that targets and
+values of indicators in such projects need to be regularly assessed and revised against market
+development trends for proper attribution of results.
+
+4. Flexible implementation strategies may help in operations in Fragile, Conflict and Violence
+(FCV) countries. Lessons from Burkina Faso in this project demonstrated the need for adopting
+flexible implementation strategies, based on "on the ground" staff and closely monitoring the security
+situation.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+
+                                                                                                  Page 17 of 18
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     WARCIP - APL-1B: , GN, BF (P122402)
+
+
+
+
+14. Comments on Quality of ICR
+
+The ICR is clear. The theory of change provided in the ICR clearly articulates the links between project
+activities, outputs and the intended outcomes. The ICR candidly discusses the issues pertaining to the
+Governments of The Gambia and Guinea not divesting their shares as required at design. The evidence
+provided in the text is adequate for assessing project performance in the three countries. The ICR draws good
+lessons from the experience of implementing this project.
+
+There were minor shortcomings. There is a discrepancy in the rating for outcome and Bank performance in the
+Data sheet and the main text (pages 13 and 26). The ICR in the datasheet mentions that changes in safeguard
+policies were triggered in the June 26, 2019 but does not discuss this in the main text. The main body of the
+text at 31 pages, is twice the recommended length of 15 pages. The ICR would have benefitted from better
+editing.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                 Page 18 of 18
+

@@ -1,0 +1,834 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     PY Energy Sector Strengthening Project (P114971)
+
+
+
+                                                                                   Report Number: ICRR0021787
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P114971                                    PY Energy Sector Strengthening Project
+
+ Country                                    Practice Area(Lead)
+ Paraguay                                   Energy & Extractives
+
+
+ L/C/TF Number(s)                           Closing Date (Original)                 Total Project Cost (USD)
+ IBRD-79940                                 31-Dec-2015                                           90,105,042.62
+
+ Bank Approval Date                         Closing Date (Actual)
+ 30-Nov-2010                                31-Oct-2018
+
+                                            IBRD/IDA (USD)                                       Grants (USD)
+
+ Original Commitment                           100,000,000.00                                                 0.00
+
+ Revised Commitment                            100,000,000.00                                                 0.00
+
+ Actual                                         90,105,042.62                                                 0.00
+
+
+
+
+ Prepared by                 Reviewed by                  ICR Review Coordinator           Group
+ Ihsan Kaler Hurcan          Dileep M. Wagle              Ramachandra Jammi                IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to both the Loan Agreement (LA, p.5) and the Project Appraisal Document (PAD, p.5) the project
+   development objectives were "to increase the quantity and quality of the provision of electricity services by the
+   Borrower, while improving the Borrower’s performance," where the Borrower was defined as Administración
+   Nacional de Electricidad (ANDE), the national power utility of Paraguay.
+
+
+
+
+                                                                                                     Page 1 of 16
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     PY Energy Sector Strengthening Project (P114971)
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project had three components with multiple sub-components.
+
+   1. Modernizing the Borrower’s Distribution Management System and Installing an Advanced
+   Metering System for Large Consumers (Appraisal cost: US$25.00 million of which US$20.00 was to be
+   financed by the International Bank for Reconstruction and Development (IBRD); Actual cost is not reported.)
+   1.1. Installation of a state-of-the-art integrated distribution management system integrating technical and
+   commercial operations consisting of Supervisory Control and Data Acquisition (SCADA), Energy
+   Management System (EMS), Demand Management System (DMS), Operations Management System
+   (OMS) and Integrated Electrical Distribution Management System (SGIDE- Sistema de Gestión Integral de
+   Distribución Eléctrica).
+   1.2. Installation of advanced remote metering systems for medium voltage customers.
+
+   2. Improving the Performance of the Transmission Network (Appraisal cost: US$96.25 million of which
+   US$77.00 million was to be financed by the IBRD; Actual cost is not reported.)
+   2.1. Construction of two new substations below the existing transmission lines in the Guajayvi and Minga
+   Porá districts.
+   2.2. Extension and transformation capacity expansion of ten existing substations.
+   2.3. Installation of reactive compensation at the Guarambaré substation.
+
+   3. Strengthening Paraguay’s Electricity Sector and the Borrower’s Institutional Capacity (Appraisal
+   cost: US$3.50 million of which 2.75 million was to be financed by the IBRD; Actual cost is not reported.)
+   3.1. Improvement of the performance of the electricity sector through: (i) the carrying out of an independent
+   institutional assessment of the legal framework, the organizational structure and operational procedures of
+   the electric sector in Paraguay; (ii) the development of an action plan; and (iii) the implementation of the key
+   priorities established in the action plan.
+   3.2. Institutional strengthening of the Borrower’s capacity in investment and project planning and
+   implementation through: (i) strategic advice to the Borrower’s Presidency on managerial decisions; (ii)
+   consultancy in the implementation of a distribution management system; (iii) strengthening of the Borrower’s
+   environmental and social unit; and (iv) strengthening of the Borrower’s financial and asset management
+   practices, its internal auditing unit, and provision of external auditors for the Project.
+
+   Revised Components
+   At the first restructuring (Restructuring Paper dated December 10, 2015, p.8-10), subcomponent 1.1 was
+   revised to undertake only the SCADA and EMS portion of the original activities with an estimated cost of
+   US$4.94 million, because of limited time left—even with an extension of the project closing date by 22
+   months—to complete all components of the distribution management system. New activities were added to
+   be financed by the balance from the original budget from subcomponent 1.1: supply and installation of fiber
+   optic network, active communication equipment, wireless meshed network, and digital carrier equipment.
+
+                                                                                                     Page 2 of 16
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    PY Energy Sector Strengthening Project (P114971)
+
+
+
+  Furthermore, due to the bids received lower than the estimated budget and the savings incurred accordingly
+  in the purchase of transformers, new investments were added to subcomponent 2.2: supply of transformers
+  for additional seven substations, supply of a mobile substation, purchase of a truck to transport power
+  transformers. Finally, the project team and ANDE agreed to replace the three studies originally planned
+  under subcomponent 3.1 by technical assistance to analyze ANDE’s organizational structure and human
+  resources, and the first activity under subcomponent 3.2, i.e., strategic advice to the Paraguayan
+  Presidency on managerial decisions, was deleted.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost: The total project cost was originally estimated at US$125.00 million including physical and
+  price contingencies and a front-end fee of US$0.25 million to be covered by the IBRD loan. In December
+  2018, the project closed with a total cost of US$98.89 million*. The actual cost was 79.1 percent of the cost
+  estimated at appraisal including physical and price contingencies.
+
+  * Annex 3, Project Cost by Component gives the IBRD loan allocations which were revised in the first
+  restructuring (please see the paragraph below about restructurings) rather than the project components’
+  actual costs. They are not reported in other parts of the ICR, either. Therefore, the actual project cost is
+  taken from the Data Sheet of the ICR (p.2).
+
+  Financing: At appraisal, the IBRD loan was estimated at US$100.00 million. At project closing, the IBRD
+  financing stood at US$90.11 million. The refund by ANDE of the unused portion of the loan in the amount of
+  US$3.47 million was pending at project closing. ANDE refunded the outstanding amount in June 2019, and
+  all funds were accounted for as of June 28,2019.
+
+  Borrower contribution: At appraisal, the borrower contribution was estimated at US$25.00 million, of
+  which US$19.25 million was for the project activities to improve the performance of the transmission
+  network under component 2. Due to the lower actual cost of the transformers, the borrower contribution at
+  project closing stood at US$8.78 million. It should be noted that due to the long delay in project
+  implementation start, ANDE used its own funds to finance the upgrading of original ten substations, which
+  was not accounted as borrower’s contribution.
+
+  Restructurings and Dates: There were two project restructurings:
+
+        First Restructuring (December 10, 2015): The project became effective in February 2012, more
+         than 14 months after the World Bank Board Approval, on account of the lengthy internal process in
+         Paraguay, which required approval of a specific law in the congress. After effectiveness, the project
+         implementation was slow until national elections in April 2013. As a result, at this restructuring, the
+         project closing date was extended by 22 months from December 31,2015 to October 31, 2017.
+         Furthermore, as explained in the previous section under Revised Components, subcomponents 1.1,
+         2.2, 3.1, and 3.2 were amended. This also led to the reallocation of IBRD funds among components,
+         which was possible due to savings accrued in component 2 because of bids received with amounts
+         lower than the estimated budget (Revised allocations are given in the table at the end of this
+         section). Lastly, in order to better monitor and evaluate the outcomes of the project, some irrelevant
+         indicators and indicators that measured the overall system parameters in the country rather than the
+         project related investments were deleted, and others were replaced or their methodologies were
+         revised. Project development objective (PDO) indicators measuring distribution losses, unscheduled
+
+                                                                                                     Page 3 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     PY Energy Sector Strengthening Project (P114971)
+
+
+
+          outages and project direct beneficiaries were deleted. The methodology of one the remaining two
+          PDO indicators; i.e., improvement of the voltage quality, was revised to count the number of hours
+          during which the voltage was in the acceptable range, rather than the number of days. A new PDO
+          indicator was added to measure the increase in energy invoiced to medium voltage customers.
+          However, the calculation method for the remaining PDO indicator, i.e., increase in energy supplied
+          through the transmission network, was later modified to measure the impact of the transformers
+          upgraded by the project funds, excluding the originally listed ten substations which were upgraded
+          by ANDE using their own resources during the initial long delay of project start. Hence, the target for
+          this indicator was revised down due to the different energy flow in the project-funded new
+          substations. These changes in the results framework allowed the project team to better and correctly
+          capture the impact of the project and they did not result in lowering the scope or the ambition of the
+          project. Since this was in line with the Bank Guidance on Implementation Completion and Results
+          Report (ICR) for Investment Project Financing Operations regarding indicator changes (please see
+          Paragraph 61 Changes to PDO indicators on page 18 of the Bank Guidance), a split rating will not
+          be implemented.
+         Second Restructuring (September 19, 2017): The project closing date was extended by 12
+          months from October 31, 017 to October 31, 2018, resulting in a total extension of project closing
+          date by 34 months. This was required to complete project activities related to the implementation of
+          the SCADA system, construction of the fiber optic network, establishment of a wireless network,
+          construction of two substations and consultancy works for the revision of energy planning and
+          human resources structure of ANDE. At the restructuring, IBRD funds were once more reallocated
+          among components due to more savings accrued under components 2 and 3, and higher costs
+          under component 1 (Revised allocations are given in the table below).　
+
+   Table 1. Allocation of IBRD Funds (US$ million)
+
+                                      First               Second
+                         Original
+                                     Restructuring        Restructuring
+   Component 1            20.00             25.63                30.15
+   Component 2            77.00             71.77                67.83
+   Component 3             2.75              2.35                 1.77
+   Front-end-fee           0.25              0.25                 0.25
+               Tota
+                        100.00             100.00                100,00
+   l
+
+3. Relevance of Objectives
+
+Rationale
+Despite a high electricity access rate of 99.3 percent of the population (Word Bank data 2017),
+uninterrupted, reliable and high-quality electricity supply, especially among the most vulnerable segments of
+the population, has been one of the obstacles for sustained poverty reduction in Paraguay (Country
+Partnership Strategy 2015-2018, p.7). Therefore, the project aimed at addressing this development problem
+through increasing the quantity and quality of electricity supply and improving the performance of the
+electricity utility ANDE. The project area was the Asuncion Metropolitan Area, where 15 percent of the
+population lived under poverty line. Furthermore, although Paraguay is a major electricity generator and
+
+                                                                                                    Page 4 of 16
+                                      Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+                                      PY Energy Sector Strengthening Project (P114971)
+
+
+
+               exporter in South America, electricity consumption per capita has been very low compared to the
+               consumption levels of Brazil and Chile—one third of the consumption in those countries at the time of
+               appraisal (PAD, p.3). Hence, the project objective has been relevant to the country conditions and to
+               ANDE’s ten-year Master Plan (2009-2018), which is built on three broad objectives: (i) reducing power
+               losses in transmission and distribution; (ii) expanding transmission capacity; and (iii) enhancing ANDE’s
+               efficiency and revenues. The project was to also support the emergency plan passed by the Congress in
+               2010 as a response to the increased outages and voltage fluctuations in the summer of 2009/10 (ICR, p.6).
+               Overall, the project objective was appropriately pitched for development status in the country.
+
+               At the time of project closing, the project objective was broadly aligned with the Country Partnership
+               Strategy (CPS) 2015-2018. Although the project objective fell under Pillar 2 Poverty, Results Area 2.
+               Boosting Pro-Poor Delivery of Public Goods and Services (CPS, p.27-28) and corresponded to Results 2.2:
+               Improved Access to Quality Public Services for the Poor, the strategy’s focus was more on the provision of
+               improved access to water and sanitation and improving the quality of services through institution building
+               activities. On the other hand, the Country Partnership Framework (CPF) 2019-2023, which became
+               effective after project closing, supports the strengthening of Paraguay’s electricity sector through improved
+               governance and performance of ANDE under Focus Area One, Objective 3: Improve governance in the
+               water and electricity sectors which aims at reducing ANDE’s total electricity losses.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             “to increase the quantity of the provision of electricity services by the Borrower”
+
+                             Rationale
+                             Theory of Change
+
+                             The project had three objectives: (i) to increase the quantity of power supply;(ii) to increase the quality of
+                             power supply; and (iii) to improve ANDE’s performance. The original project activities to install an integrated
+                             distribution management system and 1,060 medium voltage meters, and to increase transformation capacity
+                             in 12 substations by 426 megawatt ampere (MVA) were to directly lead to an increase in the quantity and
+                             quality of power supplied by overcoming the bottleneck in the transmission and distribution infrastructure,
+                             lowering commercial electricity losses and decreasing the voltage fluctuations. The outcomes of these
+                             activities were to contribute to the improvement of the technical and financial performance of ANDE, too.
+                             Furthermore, the technical assistance activities to be implemented under the third component were to help
+                             ANDE to increase the capacity of its environmental and social unit, to strengthen the financial and asset
+                             management practices, as well as internal audits. These activities were expected to improve the performance
+                             of ANDE in related fields. While the causal pathways from inputs to outputs and outcomes appear credible
+
+                                                                                                                                Page 5 of 16
+   Independent Evaluation Group (IEG)                                   Implementation Completion Report (ICR) Review
+   PY Energy Sector Strengthening Project (P114971)
+
+
+
+and robust, the original and the revised theory of change do not evaluate whether the choice of activities was
+the most appropriate to achieve the project development objectives, and whether the activities were of
+adequate scale to generate a critical mass of change.
+
+Achievement of the First Objective
+
+As a result of project activities, 2,773 advanced energy meters for medium voltage customers were installed
+against the original and revised targets of 1,060 and 2,388, respectively. This was supported by the
+installation of the SCADA system and related 38,200 tele-supervision points, with which the system can now
+be better monitored in real time (It was originally estimated that 53,000 tele-supervision points would be
+needed. During implementation, it was found that the actual number of points that were needed to be
+integrated in to the system was 38,200). Furthermore, the installation of 3,611 km of fiber optic network
+against a target of 2,952 km now allows a better communication among substations. These project outputs
+led to an increase in the amount of electricity invoiced by 30.0 GWh from a baseline of 571.9 GWh to 601.9
+GWh. The target was an increase of 17.2 GWh to 589,1 GWh. This increase in the electricity invoiced can
+also be interpreted as a decrease in commercial losses of ANDE, which, together with technical losses, was
+34.5 per cent in 2009 (PAD, p.18). The project indicators did not measure the decrease in commercial or
+technical losses.
+
+Moreover, targeted 17 existing substations were upgraded with new transformers; and two new substations
+were built as planned, increasing the installed capacity of these transformers form a baseline of 791 MVA to
+1,592 MVA, substantially achieving the revised target of 1,755 MVA. This resulted in a directly attributable
+increase in energy supplied through the transmission network in a year from a baseline of 3,008 GWh to
+4,704 GWh, again substantially achieving the revised target of 5,051 GWh.　
+
+Overall, the achievement of the first objective is rated Substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+“to increase the quality of the provision of electricity services by the Borrower”
+
+Rationale
+As explained in the previous section, 17 substations were upgraded, and two new substations were
+constructed, as planned. In addition, a reactive compensation was installed at the Guarambaré substation to
+improve the voltage quality in the system. These resulted in a substantial increase in the installed capacity at
+the upgraded substations and the voltage quality improved: the number of hours during which the voltage is
+between 198 kv and 242 kv in a year increased from 6,600 (275 days) to 8,729 (almost 364 days). The target
+was 8,040 hours (335 days). As such, the project was highly successful in achieving this objective.
+
+
+
+Rating
+
+                                                                                                      Page 6 of 16
+                                Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                                PY Energy Sector Strengthening Project (P114971)
+
+
+
+                            High
+
+
+                            OBJECTIVE 3
+                            Objective
+                            “to improve the Borrower’s performance"
+
+                            Rationale
+                            The results framework did not include any specific output indicator to measure the implementation of
+                            technical assistance activities. However, the ICR (p.28) states that following project activities were
+                            implemented:
+
+                                    Corporate diagnosis study and plan to improve ANDE’s corporate performance were carried out by
+                                     specialized consultants.
+                                    Consultants supported ANDE in implementing SCADA
+                                    Workshops were organized and survey equipment was purchased to support the Environmental and
+                                     Social Unit.
+                                    Training was given by consultants in financial and asset management practices and internal audits.
+
+                            The results framework did not include any PDO level indicator to measure the achievement of this objective.
+                            However, it can be argued that the increase in the quantity and the improvement in the quality of electricity
+                            supplied can be used as proxy to evaluate the improvement in the utility’s performance. The increase in the
+                            amount of electricity billed to medium voltage users should have a positive impact on the financial viability of
+                            the ANDE. Furthermore, the installation of SCADA is to be expected to allow ANDE to better operate and
+                            maintain the system.　
+
+                            Overall, the achievement of this objective is rated modest because while the PDO level indicator (on energy
+                            sales invoices) could be taken as proxy for financial performance of the utility, there were no other indicators
+                            to capture the utility's performance in distribution management, planning, environmental and safety
+                            management, etc.　
+
+
+
+                            Rating
+                            Modest
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            Through the installation of medium voltage meters and the upgrading of substations, including the installation
+                            of a reactive compensation, the project was substantially and highly successful in achieving the objectives to
+                            increase the quantity and quality of electricity supplied, respectively. However, there was insufficient
+                            information to measure the achievement of the third objective to improve the performance of the utility
+                            through technical assistance. It was partially measurable through first PDO level indicator, which is used as a
+
+
+                                                                                                                                Page 7 of 16
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      PY Energy Sector Strengthening Project (P114971)
+
+
+
+  proxy; therefore, its achievement is rated modest. Overall, the efficacy of the achievement of project
+  objectives is rated substantial.
+
+
+
+  Overall Efficacy Rating
+  Substantial
+
+
+
+5. Efficiency
+Economic Analysis
+
+Neither the PAD nor the ICR contains a "with project" or "without project" discussion. There is no discussion in
+the documents, either, whether the project is the least cost alternative to achieve the project objectives. The
+discussion in the PAD (p.8) about lessons learned and reflected in the project design does not provide
+information about which alternatives, if any, were considered during project design.
+
+At appraisal, an economic analysis was conducted for project activities under components 1 and 2. The
+economic analysis was typical and straightforward for such electricity infrastructure investments: costs were
+taken as the cost of investments, engineering and administration, and operation and maintenance (O&M),
+whereas benefits were restricted to incremental savings from loss reduction and total increased energy sales.
+Other long-term benefits of increased electricity consumption by consumers were not included in the economic
+analysis. The analysis time frame was 40 years. The economic analysis resulted in an economic rate of return
+(ERR) of 37 percent for base case and 21 percent for low case, which combines an increase of 20 percent in
+project costs, a decrease of 20 percent in additional electricity to be provided by the investment, and a 20
+percent increase in the foregone value of electricity sold to Brazil (PAD, p.12). The net present value (NPV)
+calculated at appraisal resulted in US$495 million for base case and US$218 million for the low case at a
+discount rate of 10 percent.　
+
+Economic analysis was repeated at project closing. Main differences in assumptions were lower than expected
+project costs, a higher opportunity cost of the energy used to meet the growing demand instead of selling it to
+Brazil or the regional market, and a lower difference between domestic and export prices of electricity (ICR,
+p.13). Furthermore, the quantity of electricity supplied increased less than the estimated amount. At project
+closing, domestic tariff levels were at a similar level in real terms when compared to the level at appraisal.
+Nevertheless, economic analysis at project closing resulted in an ERR of 15 percent and an NPV of US$48
+million at 10 percent discount rate. The longer-than-expected project implementation period adversely affected
+the economic benefits of the project, too.
+
+Financial Analysis
+Financial analyses were conducted at appraisal and project closing. The only difference between the economic
+analysis and financial analysis is that the latter includes financing costs and taxes in the costs (ICR, p.33). The
+calculations show that the financial rate of return of 34 percent at project closing was higher than 24 percent
+calculated at appraisal, whereas the NPV of US$70 million was at project closing was markedly lower than the
+NPV of US$190 million calculated at appraisal.
+
+
+
+
+                                                                                                       Page 8 of 16
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      PY Energy Sector Strengthening Project (P114971)
+
+
+
+Operational and Administrative Efficiency
+There were major shortcomings in the operational and administrative efficiency of the project. Because of the
+lengthy legal approval process of the loan agreement in Paraguay, the elections held in April 2013 and the time
+required to complete the ongoing project activities, the project closing date was extended by 34 months. As
+explained under economic analysis above, this had adversely affected the ERR and NPV figures at project
+closing. Furthermore, the project components and indicators had to be restructured to improve the project
+design and monitoring and evaluation arrangements for better capturing project outcomes and the achievement
+of the objectives. Until early 2015, the project implementing unit did not have a dedicated manager and there
+were no clear action plans prepared (ICR, p.15). Lack of sufficiently trained personnel in ANDE to carry out
+procurement and fiduciary activities according to relevant World Bank guidelines was another factor adversely
+affecting project’s efficiency. These shortcomings required the World Bank project team to assume a more
+active role in project implementation through direct support to ANDE.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?              Point value (%)           *Coverage/Scope (%)
+                                                                                      96.80
+ Appraisal                                                  37.00
+                                                                                       Not Applicable
+                                                                                      97.80
+ ICR Estimate                                               14.00
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Although the project objectives are highly relevant to country context in Paraguay since it is directly related to
+poverty reduction, especially in rural areas, the Bank strategy at the time of project closing focused on water
+and social sectors more than the electricity sector. Therefore, the relevance of project objectives is rated
+substantial. The project was substantially successful in achieving its objectives to increase the quantity and to
+improve the quality of electricity supplied in the project area. The project partially achieved its objective to
+improve the performance of the electricity utility, ANDE. Overall, efficacy is rated substantial. The efficiency of
+the project is rated modest, mostly because of the shortcomings in operational and administrative efficiency,
+such as long delays, project design and M&E arrangement issues, and lack of capacity on the borrower side to
+implement the project. Overall, the project outcome is rated moderately satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+
+                                                                                                      Page 9 of 16
+      Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+      PY Energy Sector Strengthening Project (P114971)
+
+
+
+
+7. Risk to Development Outcome
+
+A deterioration of the financial viability of ANDE and potential corporate governance issues may
+pose a low risk to the development outcome. Currently, ANDE’s financials are sound. Following the tariff
+adjustment in March 2017, ANDE had a net profit after tax and interest of US$67.5 million and US$97.8
+million in 2017 and 2018, respectively. However, although ANDE is an autonomous and decentralized public
+institution, it is a government institution and is subject to tariffs determined by the government. In the future, if
+the government follows populist policies and tariffs are not sufficiently increased to cover ANDE’s increasing
+operating costs, the financial condition of ANDE might deteriorate and this might have an adverse impact on
+the sustainability of the project’s development outcome.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The objectives were strategically relevant to the country context, but they were not clearly stated,
+  especially the third objective to improve the performance of ANDE. The theory of change was robust for
+  the first two objectives to increase the quantity and improve the quality of electricity supply, whereas a
+  direct link could not be established between the project activities and the objective to improve ANDE’s
+  performance, nor did exist any indicators to measure the achievement of this objective. Since the original
+  indicators were difficult to track and measure, they were revised in the first restructuring (Restructuring
+  Paper dated December 10, 2015, p.6). The project was designed to address the priorities of the country.
+  However, the project components had to go through a revision because of a long delay after approval
+  caused by the lengthy internal approval process in Paraguay, which was a risk not identified at appraisal.
+  Lessons learned and reflected in the project design are briefly and generically explained in the PAD;
+  therefore, it is not clear how the project benefited from lessons learned in similar projects in other
+  countries and recent projects in Paraguay (PAD, p.8).
+
+  An economic analysis conducted at appraisal was adequate for such an investment although project
+  benefits were restricted to incremental revenues from increased billing and sale of additional electricity
+  but did not include other economic benefits. Technical aspects of the project were sound and the
+  equipment and technology to be used in the project were sector standards. The project being ANDE’s
+  first project funded by the World Bank, training　was　given to ANDE’s staff on the World Bank’s
+  financial management procedures, and fiduciary arrangements were in place to ensure compliance with
+  the World Bank financial management guidelines during project implementation (PAD, p.13-14). Despite
+  detailed implementation arrangements being in place (PAD, p.23-34), the legal framework under which
+  the ANDE would execute this project was not adequately incorporated into the project design; ANDE’s
+  cumbersome operational and financial processes, since it operates as a government institution but not
+  like a state-owned economic enterprise, caused delays in project implementation (ICR, p.20). Risks
+  related to ANDE’s project implementation and procurement capacity, which materialized during project
+  implementation, and their mitigation measures were among the risks identified in detail during project
+  management (PAD, p.35-39). Relevant safeguards policies were triggered at appraisal.
+
+
+
+                                                                                                         Page 10 of 16
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     PY Energy Sector Strengthening Project (P114971)
+
+
+
+  Overall, the quality of entry is rated moderately unsatisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Unsatisfactory
+
+
+b. Quality of supervision
+ There were 16 supervision missions during project implementation. Due to lack of institutional capacity of
+ ANDE to implement the project and the absence of exclusively dedicated project manager and clear action
+ plans, supervision missions assumed a very active role in project implementation (ICR, p.15). Bank
+ supervision led to the appointment of a dedicated project implementing unit (PIU) manager and full-time
+ qualified personnel in 2015 (ICR, p.15). As a result, PIU’s performance improved and project
+ implementation accelerated (ICR, p.18).　
+
+ After a long initial delay in project implementation, the project team restructured the project to better
+ capture the impact of the intervention and to monitor the achievement of the outcomes (Please see First
+ Restructuring in Section 2.e). Despite an improvement in the project’s monitoring and evaluation (M&E)
+ arrangements at this restructuring, the absence of indicators capturing the achievement of the third
+ objective to improve ANDE’s performance was not corrected (ICR, p.12).　
+
+ Supervision of fiduciary and safeguard aspects was adequate. Supervision of project’s financial
+ management was facilitated by the presence of a Bank fiduciary team in the region. The project team
+ closely supervised procurement activities, which were mostly carried out in compliance with the World
+ Bank guidelines, and intervened when there were issues in safeguards compliance: the project team was
+ actively involved in addressing the non-compliance with the environmental safeguard during the
+ construction of the Minga Pora substation, one of the two new project-funded substations.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ Project objectives were not clearly defined, especially the third objective to improve ANDE’s performance.
+ Theory of change for the first two objectives was robust. Original indicators were specific and mostly
+ measurable. However, there were irrelevant indicators, such as reduction in service interruption, which is
+ related to reliability of electricity supply, and there was no outcome or intermediate level indicator to capture
+ the achievement of the third objective. Some project development level (PDO) indicators were designed to
+ measure the system-wide changes, not the impact of the project in the project area. As the borrower,
+
+                                                                                                      Page 11 of 16
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     PY Energy Sector Strengthening Project (P114971)
+
+
+
+ ANDE was responsible from M&E, and the M&E arrangements were adequately well-embedded
+ institutionally.　
+
+
+
+b. M&E Implementation
+  The weaknesses in the M&E framework were mostly corrected at the first restructuring in December
+  2015. Irrelevant indicators were deleted and indicators which did not capture project’s impact were
+  revised; however, no indicator was added to the results framework to directly capture the achievement of
+  the third objective. This deficiency continued until project closing. ANDE monitored and shared project
+  outputs and intermediate results, as planned in the M&E design (ICR, p.16). ANDE’s regional and
+  headquarter offices provided project implementation data to project implementing unit to monitor project
+  progress and the achievement of project objectives. ANDE has adequate infrastructure, which is
+  strengthened with the installation of SCADA and tele-supervision points, to sustain M&E functions and
+  processes after project closing.
+
+
+
+c. M&E Utilization
+  M&E findings were adequately communicated to the government and the World Bank project team. They
+  were used to restructure project components and indicators to better capture the achievement of project
+  outputs, outcomes and objectives. However, absence of relevant indicators hindered the evaluation of
+  the achievement of the third objective. M&E data was sufficiently used to provide evidence for the
+  achievement of the outcomes related to the first and second objectives to increase the quantity and
+  quality of electricity supply.
+
+  The project had moderate shortcomings in design and implementation, but overall M&E arrangements,
+  especially after the restructuring in December 2015, were generally sufficient to assess the achievement
+  of the objectives and test the links in the results chain.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as Category B under Environmental Assessment (OP/BP 4.01) and triggered
+   Natural Habitats (OP/BP 4.04), Forests (OP/BP 4.36), Physical Cultural Resources (OP/BP 4.11),
+   Indigenous Peoples (OP/BP 4.10), and Involuntary Resettlement (OP/BP 4.12).
+
+   Environmental Assessment (OP/BP 4.01): All project investments were expected to pose small-scale
+   direct and reversible environmental and social impacts (PAD, p.15). An Environmental and Social
+   Management Framework (ESMF) and Environmental and Social Management Plans (ESMP) for the
+   existing and new substations were prepared before approval and disclosed in Paraguay and in the World
+   Bank’s Infoshop between August and October 2010. Compliance with this safeguard was supervised by
+
+                                                                                                 Page 12 of 16
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    PY Energy Sector Strengthening Project (P114971)
+
+
+
+  ANDE with the support of two dedicated consultants. Supervision results were reported bimonthly. The
+  project was mostly in compliance with this safeguard; however, there were challenges in securing
+  compliance with environmental and social safeguards during the construction of the two new substations.
+  The reasons were the low environmental management capacity of the contractor, which required the project
+  team’s involvement to support ANDE address this issue (ICR, p.40) Under component 3, the project funded
+  activities to strengthen ANDE’s environmental social management capacity; however, “[t]he level of
+  [environment and social] management required by the World Bank was considered high against the
+  prevailing sector standards in Paraguay” (ICR, p.21).
+
+  Indigenous Peoples (OP/BP 4.10): The Indigenous Peoples Plans were prepared during project
+  implementation and disclosed in the country and the World Bank’s Infoshop but were not implemented
+  because indigenous people were not affected by project activities (ICR, p.18).
+
+  Involuntary Resettlement (OP/BP 4.12): Two resettlement action plans (RAPs) were prepared for the
+  construction of two new substations. The RAP for one of the new substations was not implemented,
+  because the substation was constructed on land owned by ANDE. Other RAP was implemented in
+  compliance with the safeguard policy. A grievance redress mechanism was effective in resolving claims
+  (ICR, p.40).
+
+  Natural Habitats (OP/BP 4.04), Forests (OP/BP 4.36), and Physical Cultural Resources (OP/BP 4.11):
+  The ICR did not provide information about the implementation and results of these three safeguard policies.
+
+
+
+
+b. Fiduciary Compliance
+  Financial Management
+  ANDE was the primary borrower of the loan, which was guaranteed by the Government of Paraguay, and
+  responsible for the financial management of the project. Interim and annual financial reports were mostly
+  submitted on time. Audited financial statements were unqualified and they were acceptable to the World
+  Bank. Financial arrangements were in compliance with the World Bank guidelines; however, at project
+  closing in October 2018, the final audit report was not received by the World Bank and US$3,473,166 of
+  the unused loan amount was not refunded by ANDE. In June 2019, ANDE submitted the final audit report,
+  and refunded the unused loan amount. All IBRD funds were accounted for at the time of this review.
+
+  Procurement
+  Procurement was implemented in accordance with the Work Bank procurement guidelines. However, lack
+  of coordination among different departments of the ANDE, especially during the early stages of project
+  implementation, resulted in longer contract processing times. Until 2015, the project implementing unit
+  (PIU) did not have trained personnel to carry out procurement (ICR, p.15). The World Bank project team
+  had to closely monitor the procurement process to accelerate contracts’ processing and ensure
+  compliance with the World Bank guidelines (ICR, p.18). After the appointment of a dedicated manager to
+  the PIU in 2015, performance of the PIU, including procurement activities, improved substantially.
+  Training on World Bank procurement rules was given to the personnel of the PIU. International bidding
+  allowed non-traditional providers, i.e., providers that have not traditionally provided equipment and services
+  in this sector or in the region, to participate in the bidding process, which required closer supervision (ICR,
+  p.18).
+
+
+                                                                                                   Page 13 of 16
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     PY Energy Sector Strengthening Project (P114971)
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   The primary purpose of the SCADA system and fiber optic network installed under the project was to
+   improve ANDE’s performance in monitor the electricity network. However, the fiber optic network will now
+   allow the national communications company, Compañia Paraguaya de Comunicaciones, to improve
+   communications in the country, which is expected to have a positive impact on the quality of services in
+   health, education and security (ICR, p.14).
+
+
+
+d. Other
+   None.
+
+
+
+11. Ratings
+                                                                                  Reason for
+Ratings                         ICR                     IEG
+                                                                                  Disagreements/Comment
+                                Moderately
+Outcome                                                 Moderately Satisfactory
+                                Satisfactory
+                                Moderately
+Bank Performance                                        Moderately Satisfactory
+                                Satisfactory
+                                                                                  Despite some shortcomings in
+                                                                                  design and implementation, the
+                                                                                  M&E system was generally
+Quality of M&E                  Modest                  Substantial               sufficient to assess the
+                                                                                  achievement of the objectives
+                                                                                  and test the links in the results
+                                                                                  chain.
+Quality of ICR                  ---                     Modest
+
+
+12. Lessons
+
+First lesson was selected from the ICR with some adaptation of language. Second lesson was
+derived from the ICR.
+
+If internal approval processes necessary for project effectiveness and the legal framework
+under which the project implementing agency will execute the project are not fully taken into
+consideration and incorporated into project design, project implementation can face serious
+delays and require a closer supervision by the World Bank project team. The project became
+effective 14 months after it was approved by the World Bank Board, because a law had to be
+passed by the parliament in Paraguay. Furthermore, being a government institution, but not a state-
+owned economic enterprise, ANDE had complex and cumbersome operational and financial
+processes. This manifested itself in slow processing of contracts and inadequate monitoring of
+
+                                                                                                     Page 14 of 16
+       Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+       PY Energy Sector Strengthening Project (P114971)
+
+
+
+project activities, including safeguard policies. As a result, the World Bank project team had to
+supervise the project implementation more closely than such a project would require with a more
+flexible and agile project implementing agency experienced in executing projects according to the
+relevant World Bank guidelines.
+
+Proactivity of the project team in revising the results framework based on the findings during
+early stages of project implementation will help better capture the achievement of the project
+objectives. In this project, the original results framework included indicators which were not
+directly related to the achievement of the project objectives. Furthermore, other indicators were
+designed to measure the system wide changes, not the changes caused by project intervention.
+Also, baseline figures and targets for some indicators needed to be revised to capture the full impact
+of the project. The restructuring resulted in some indicators being dropped, others being revised
+and new ones being added, reflecting different and better measures of the project’s achievement.
+After the revision, these indicators were better able to encompass outcomes related to the first and
+the second objectives (though, unfortunately, for the third objective, no new PDO indicator was
+introduced to capture improvements in the performance of ANDE)
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is concise and candid in presenting the shortcomings in project design, results framework and project
+implementation. The discussion of theory of change is adequate. The narrative is detailed and internally
+consistent and supports the ratings with available evidence. It mostly follows the Bank Guidance.　
+
+On the other hand, although the lessons are useful and supported by evidence in the ICR, they are fairly
+general and not all linked to specific events or actions. Secondly, the ICR fails to provide information on three
+safeguard policies (out of six) which were triggered at appraisal. It should be mentioned also that the project’s
+actual component costs are not reported. Finally, given that key outcome indicators were revised in the first
+restructuring, the ICR does not provide an explanation why a split rating was not implemented.
+
+
+
+  a. Quality of ICR Rating
+       Modest
+
+
+
+
+                                                                                                    Page 15 of 16
+Independent Evaluation Group (IEG)                 Implementation Completion Report (ICR) Review
+PY Energy Sector Strengthening Project (P114971)
+
+
+
+
+                                                                                Page 16 of 16
+

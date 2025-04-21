@@ -1,0 +1,968 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     Vietnam Energy Efficiency Financing (P151086)
+
+
+
+                                                                                  Report Number: ICRR0023385
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P151086                                    Vietnam Energy Efficiency Financing
+
+ Country                                    Practice Area(Lead)
+ Vietnam                                    Energy & Extractives
+
+
+ L/C/TF Number(s)                           Closing Date (Original)               Total Project Cost (USD)
+ IBRD-87390,IDA-60110                       31-Jul-2022                                        53,418,038.90
+
+ Bank Approval Date                         Closing Date (Actual)
+ 14-Apr-2017                                31-Jul-2022
+
+                                            IBRD/IDA (USD)                                    Grants (USD)
+
+ Original Commitment                           101,700,000.00                                             0.00
+
+ Revised Commitment                             53,379,113.01                                             0.00
+
+ Actual                                         53,418,038.90                                             0.00
+
+
+
+
+ Prepared by                 Reviewed by                  ICR Review Coordinator        Group
+ Maria Shkaratan             Dileep M. Wagle              Ramachandra Jammi             IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   As mentioned in the Project’s Loan Agreement (August 18, 2017, page 6), the Project Development Objective
+   (PDO) is “to improve energy efficiency (EE) in Vietnam's industrial sector”. The PDO was stated the same
+   way in the Project Appraisal Document (PAD). The Loan Agreement also states that the Project “would
+   contribute to achieving the Borrower's energy efficiency and greenhouse gas reduction objectives”.
+
+   The PDO was not revised.
+
+
+                                                                                                 Page 1 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Vietnam Energy Efficiency Financing (P151086)
+
+
+
+   For the purposes of this ICR review, the objective will not be parsed into sub-objectives but will be assessed
+   as formulated in the PDO statement.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  16-Sep-2021
+
+c. Will a split evaluation be undertaken?
+   Yes
+
+d. Components
+   1. Original components
+
+   The PAD states that this Project was “designed to help remove the principal barriers to investments in
+   industrial EE projects”. The technical assistance (TA) was to “address the knowledge, institutional, and
+   capacity-building needs of the banking and industrial sectors, mitigate risk concerns of enterprises, and
+   strengthen government supervision of industrial EE and energy conservation. Those efforts” would “be
+   accompanied by an EE financial intermediary lending program, which” would “demonstrate viable
+   mechanisms for financing industrial EE investments, in direct support of the Government’s EE targets and
+   green growth strategy”. (PAD, page 7) Most of the World Bank funding (US$100) was to support the
+   creation of the demonstration financial intermediary for industrial EE, and a small part of the loan was to
+   finance the TA (US$1.7 million).
+
+   Component 1 EE Investment Lending (cost at appraisal: US$156.3 million; actual cost: US$140.5 million)
+   was to invest in financially viable EE subprojects. The component was designed to mainstream EE
+   financing business lines in PFIs through a learning by-doing process (PAD, page 11). The PFIs were
+   expected to benefit from the creation (with the support from the Project) of new loan products for industrial
+   EE, thereby building technical capacity for EE investment appraisal and monitoring, which would enable
+   them to scale up EE lending to IEs. The IEs would benefit from adopting improved technologies and
+   optimizing production, thus reducing energy consumption and production costs and increasing their overall
+   competitiveness in the domestic and international markets. It was expected that the PFIs would build
+   expertise in EE lending to specific industries and project types, based on their project portfolios and
+   targeted markets.
+
+   EE financing to subprojects was to be provided through a credit line to the Ministry of Finance (MoF), a
+   LIBOR-based U.S. dollar denominated instrument for US$100 million, with fixed spread (commitment fee)
+   and disbursement-linked repayments. The MoF would on-lend to the participating financial institutions
+   (PFIs) on the same financial terms. The PFIs would then on-lend to the industrial enterprises (IEs), either in
+   U.S. dollars or Vietnamese dongs, and charge commercial interest rate, which would include the PFI’s
+
+
+
+                                                                                                    Page 2 of 18
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    Vietnam Energy Efficiency Financing (P151086)
+
+
+
+  margin (based on cost to the PFI, subproject risk, and sub-borrower’s creditworthiness) and foreign
+  exchange risk premium.
+
+  The subprojects would support technologies such as:
+
+       i. Energy systems: upgrading boilers and switching fuels, using cogeneration facilities and electric-
+         driven systems, including compressed air systems, electric chillers, machinery, and lighting;
+      ii. Process technology: upgrading and replacing equipment, machinery, and facilities; and
+     iii. Waste heat and waste use: use of waste heat (of hot/warm gases, liquids and solids) and burning
+         combustible waste (gases, liquids, solids);
+
+  with investments in EE subprojects utilizing renewable energy (RE) potentially also being considered,
+  including:
+
+       i. Cogeneration facilities or process furnaces and stoves, and
+      ii. Solar water heaters for sanitary hot/warm preparation.
+
+  Component 2 Project Implementation Support (cost at appraisal: US$1.7 million; actual cost: US$ 0.457
+  million) aimed to provide the following technical assistance and capacity building: (i) to the Ministry of
+  Industry and Trade (MOIT) on Project’s monitoring and supervision; (ii) to the relevant government agencies
+  on developing the regulatory framework, and EE standards and guidelines (PAD, page 6); and (iii) to the
+  PFIs in evaluating and extending EE loans; for generating an EE lending pipeline; for providing due
+  diligence of eligible EE sub-loans; and for developing EE-related financing instruments.
+
+  2. Changes in components during implementation
+
+  The Project’s components remained unchanged during implementation.
+
+  The Project underwent one restructuring, requested by the Government on August 16, 2021 and approved
+  by the Bank on September 16, 2021. The restructuring was needed to cancel the undisbursed loan amount
+  of US$47 million and to adjust the scope of the Project, the allocation of financing to the disbursement
+  categories, and the results framework (RF) accordingly. The cancellation was requested due to: (i) the
+  regulatory banking constraints (a cap on medium-term credit, limited US$ lending to IEs, credit limit for a
+  single borrower, and high foreign exchange premium), which prevented many enterprises from accessing
+  the credit line supported by the Project and (ii) the impact of the COVID-19 pandemic, which slowed down
+  investment in general and in EE particularly, as it was not a high priority for the PFIs. The amount disbursed
+  at the time of restructuring was US$34.4 million.
+
+  Additionally, a new Government regulation, which was not in effect at appraisal and was enacted on June
+  30, 2018 (ICR, page 30), prevented the use of ODA funds for capacity building activities, affecting
+  Component 2. The regulation was related to the Government’s efforts to reduce the overall public debt,
+  which was reaching the debt ceiling set at 65 percent of GDP. However, the Project team mobilized
+  US$350,000 from the Bank-executed Korean Green Growth Trust Fund (KGGTF), which made it possible to
+  implement capacity building under Component 2 as planned at appraisal.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+
+                                                                                                   Page 3 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Vietnam Energy Efficiency Financing (P151086)
+
+
+
+   Project Cost: The appraisal estimate was US$158.0 million, and the actual Project cost was US$140.9
+   million.
+
+   Project Financing: The Project financing comprised an IBRD loan (appraisal amount: US$100 million; actual
+   amount: U$53.0 million) and an IDA loan (appraisal amount: US$1.7 million; actual amount: U$0.457
+   million).
+
+   Borrower/Recipient contribution: The Borrower’s contribution was US$56.3 million at appraisal and US$87.5
+   million at closure.
+
+   Project Dates: The Project was approved on April 14, 2017 and became effective on December 29, 2017.
+   The mid-term review was held on September 28, 2020. The original closing date was July 31, 2022. The
+   Project was not extended, and the actual closing was on the same date.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and Sector Context: Vietnam is one of the most energy-intensive countries in East Asia; the energy
+elasticity of GDP is estimated at 2, compared to less than 1 for most industrial countries. Industry is the
+most energy-intensive economic sector, and the continuing industrialization of the economy is contributing
+to the increase in the country’s energy intensity. Vietnam’s limited domestic energy resources and growing
+reliance on imported coal raise concerns about energy security and greenhouse gas (GHG) emissions. The
+World Bank’s Vietnam Low Carbon Study estimated that comprehensive demand-side EE investments
+would result in up to 11 GW savings in new generation capacity by 2030, which would support Vietnam’s
+commitment to the Paris Agreement goals.
+
+Relevance to Government Strategies. Vietnam has advanced experience with supporting EE initiatives.
+Prior to Project’s approval, the Government passed the Vietnam Green Growth Strategy for the period
+2011–2020 with vision to 2050, which aims to restructure and improve economic institutions toward more
+efficient use of natural resources and improved competitiveness of the economy. One of the important
+strategic objectives is to encourage EE. Vietnam’s Energy Efficiency Program includes national level
+targets and comprehensive plans to improve EE and energy conservation in all economic sectors. Law on
+Energy Efficiency and Conservation was passed in 2010, and a series of national level decrees to promote
+EE was issued afterwards, setting a target to reduce energy consumption by 5–8 percent as compared to
+the forecast for 2015. To achieve the Program’s targets, barriers to EE investment had to be lowered, and
+the Project was to support this goal. The Project was also aligned with Vietnam’s green banking initiative,
+which aims to strengthen the climate finance capacity of financial institutions and to motivate them to build
+up green investment portfolios. Specifically, the Project addressed the need in long-term maturity loans for
+EE investments.
+
+Furthermore, the Project was expected to contribute to Vietnam’s National Energy Development Strategy
+up to 2020 with a vision to 2050; the Vietnam Green Growth Strategy for 2011–2020, with a vision to 2050;
+the Law on Energy Efficiency and Conservation; and Vietnam Power Development Plan VII for 2010–2020,
+with a vision to 2030.
+
+
+                                                                                                    Page 4 of 18
+                       Independent Evaluation Group (IEG)              Implementation Completion Report (ICR) Review
+                       Vietnam Energy Efficiency Financing (P151086)
+
+
+
+Relevance to the World Bank Group's (WBG’s) Assistance Strategies:
+
+The Project was aligned with the World Bank Group’s Vietnam’s Country Partnership Strategy (CPF) for
+2012–2016, specifically, with its “Sustainability” pillar, which had a focus on improvements in supply- and
+demand-side EE. The Project directly supported both energy sector and climate change outcomes of the
+CPF, specifically: (a) Outcome 1.2: Improved Quality and Efficiency of Infrastructure Services, and (b)
+Outcome 2.2: Climate Change Mitigation: CO2 Emissions Reductions. The Project was also aligned with
+the World Bank’s Energy Engagement Strategy for Vietnam, contributing to its key engagement pillar
+focused on supply- and demand-side EE.
+
+More importantly, the Project was aligned with the World Bank Group’s CPF for 2018-22, specifically, with
+Focus area 3 Ensure Environmental Sustainability and Resilience, Objective 9 Promote low carbon energy
+generation, including renewables and energy efficiency, and reduce GHG emissions. The CPF provides the
+following details to this Objective: “the WBG energy sector program seeks to help the country transition in
+its energy mix: (i) increase energy efficiency (demand and supply sides), including targeting enterprises to
+upgrade inefficient production systems and introduce new and clean technologies; (ii) scale up non-
+hydropower renewable energy, with particular focus on solar and wind, and gas-to-power; (iii) promote the
+financial viability of EVN and the power sector; (iv) introduce competition in gas and electricity markets; and
+(v) improve sector governance.
+
+Link to other WBG operations
+
+Importantly, the Project was based on lessons learned for setting up an EE financing mechanism from
+several Bank EE credit lines in other countries, including the China Energy Efficiency Financing (CHEEF,
+China), Uzbekistan Energy Efficiency Facility for Industrial Enterprises (UZEEF, Uzbekistan), Ukraine
+Energy Efficiency, and Tunisia Energy Efficiency. This experience demonstrated that dedicated credit lines
+are effective in mainstreaming EE financing in PFIs and can leverage substantial debt contributions from
+the PFIs themselves and equity financing from the IEs, as well as revolve the loans that are paid back and
+continue to provide EE financing after the Bank’s project closure.
+
+While this was the first IBRD/IDA project in Vietnam that aimed to demonstrate a financial mechanism for
+EE investments in the industry, it had links to several WBG operations that supported EE development and
+one that supported a credit line for renewable energy (RE) investment. Specifically, the World Bank’s Clean
+Production and Energy Efficiency (CPEE) Project provided analytical underpinnings and was to advise the
+Project on industrial energy consumption surveys, EE benchmarking, and service agreements. The Project
+was also using the experience of the ongoing IFC’s EE financing advisory services to the PFIs, including for
+EE in the industry. Also, the Project was to be implemented in parallel with the ongoing IFC project - a
+credit line to Techcombank for EE investment in SMEs, which promoted a similar financing instrument in
+the business sector.
+
+The relevance of objective is rated High.
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+High
+
+
+
+
+                                                                                                     Page 5 of 18
+                  Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                  Vietnam Energy Efficiency Financing (P151086)
+
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+               OBJECTIVE 1
+               Objective
+               To improve EE in Vietnam's industrial sector.
+
+               Rationale
+               The theory of change (ToC) for the Project was developed for the ICR. It showed a direct, logical causal link
+               from inputs to outputs and to expected PDO outcomes of this Project. Investment in financially viable EE
+               subprojects with innovative technologies, in combination with related capacity building and awareness raising
+               activities, were intended to result in the adoption of the EE technologies by the IEs and in new EE
+               investments by IEs and PFIs. These outputs were logically linked to the outcomes, and the TOC showed how
+               the combination of outputs supported the following: (i) demonstration of financially viable EE investments (by
+               creating a credit line through the PFIs to IEs) and (ii) application of innovative EE technologies (by supporting
+               the EE subprojects). Overall, the Project would lead to improved EE in the industrial sector and avoided GHG
+               emissions by IEs. There is one small limitation in the TOC: the missing interlinks from specific outputs to
+               intermediate outcomes. If the links were present, it would be easier to understand what processes were
+               employed to transform the outputs into the project-level outcomes.
+
+               Original project:
+
+               Outcomes (as per the ToC in the ICR):
+
+               Outcome 1. Credit line financing for EE investment was demonstrated and was financially and functionally
+               sustainable. The mechanism of industrial EE financing through a credit line to PFIs and further to IEs had
+               been created, was functional, and led to a scale-up of the industrial EE financing even prior to Project’s
+               closure. This was an important intermediate outcome of the Project (as per the ToC), as the PDO was to be
+               achieved through this mechanism. The Project team has confirmed that the credit line supported by the
+               Project was the first industrial EE financing instrument in the country and played the role of an “ice breaker”,
+               inspiring development partners and commercial banks to scale-up Project outcomes. The ICR reports that the
+               Project was able to mobilize private financing for EE from PFIs and IEs in the amount of US$87 million (by
+               Project design, the PFIs were to co-finance investment in IEs at 20 percent of the loan amount; and the IEs
+               were also to contribute 20 percent of the investment as equity financing). The financing model developed by
+               the Project has been presented as a best practice experience at various discussion forums, in the country
+               and beyond.
+
+               Outcome 2. Pilot investments in EE technologies: the original target was exceeded. At Project closure, the
+               share of investment in EE subprojects by the IEs and PFIs was 62 percent, against the original target of 36
+               percent. Note that this indicator was not part of the RF in the Project’s PAD, however, its baseline and target
+               were defined both in the PAD and in the 2021 Project Restructuring Paper. This indicator reflected
+               sustainability of the Project’s outcomes by providing evidence that private sector entities were incentivized to
+               invest in industrial EE and therefore important conditions for a scale-up of EE investments demonstrated by
+               the Project have been established.
+
+
+
+                                                                                                                  Page 6 of 18
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Vietnam Energy Efficiency Financing (P151086)
+
+
+
+Outcome 3. The original PDO target for energy savings was achieved. By closure, the Project had achieved
+total (investments’ lifetime) energy savings of 92,101,479,871 MJ, against the original target of
+16,700,400,000 MJ (Note that the ICR presents the Original Project’s energy savings data in MWh, the unit
+used at appraisal. At restructuring, the units were changed to MJ to comply with a new Corporate Results
+Indicators’ requirement to measure energy savings in MJ. At EIG’s request, the Project team recalculated the
+Original target data in MJ for the purposes of this ICR review, to present outputs of the Original and Revised
+Projects in the same units of measurement).
+
+Outcome 4. A related avoided emissions’ original target was not achieved. At closure, annual avoided GHG
+emissions amounted to 996,250 tCO2e, against the target of 5,027,000 tCO2e.
+
+Outcome not captured on the ToC:
+
+1. Capacity building outcome. Capacity building activities resulted in improved skills of the PFIs’ officers to
+appraise EE subprojects, including the capacity to estimate the benefits of EE investments in terms of energy
+savings and GHG emissions’ avoidance, as well as to monetize these estimates. During the ICR preparation,
+the beneficiaries of the Project reported that the capacity building activities provided them with knowledge and
+competence for screening and appraising energy efficiency subprojects. As a result, a barrier to EE lending
+was removed, increasing the incentives of the PFIs to provide loans to the IEs for EE investments. Note: This
+information was provided by the Project team at IEG’s request.
+
+Outputs (as per the ToC in the ICR):
+
+1. At closure, the Project had delivered 48 bankable EE subprojects, against the original target of 60
+subprojects. This target was not achieved. Some of the targeted subprojects were dropped from the pipeline
+for the following reasons: (i) regulatory constraints to EE financing (a cap on medium-term credit, limited US$
+lending to IEs, credit limit for a single borrower, and high foreign exchange premium); (ii) decisions by the IEs
+not to participate in the Project due to the COVID-related slow-down in investments and the low priority of EE
+investments; and (iii) inability to complete the loan applications due to COVID-related constraints.
+
+2. Number of IEs who have invested in EE technologies: this original PDO target was not achieved. At Project
+closure, the number of IEs who invested in the Project-supported EE technologies was 11, against the
+original target of 25. The ICR reports that the adopted EE technologies included three waste heat recovery
+and co-generation at sugarcane plants, three waste heat recovery for power generation at cement factories,
+one rooftop solar subproject, two biomass/waste steam generation subprojects, one retrofit production line in
+a steel factory, and one switching fuel subproject at a glass production factory (ICR, page 19).
+
+3. Capacity building for staffs of the MOIT/ Project Management Board (PMB) and PFIs resulted in the
+following outputs:
+
+      A Project website was developed for marketing, raising awareness of EE technologies, and sharing
+       lessons learned from the Project.
+      Training was conducted for 20 PFI staff on marketing and due diligence of EE sub-loans and
+       development of EE-related financing instruments and risk management tools.
+      Training was conducted for MOIT/PMB on subproject monitoring and supervision including auditing
+       and safeguards monitoring.
+
+
+
+                                                                                                    Page 7 of 18
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Vietnam Energy Efficiency Financing (P151086)
+
+
+
+
+      Project-supported information workshops were conducted, with hundreds of participants from PFIs,
+       IEs, and industrial associations.
+
+Overall, by closure, the Project had accomplished the creation of an “EE financial intermediary lending
+program” through the demonstrated “viable mechanism for financing industrial EE investments” (PAD, page
+7), which was the core activity under Component 1. The Project achieved or exceeded the original RF targets
+for the following indicators: the share of investment in EE subprojects by the IEs and PFIs (reflecting the
+potential for a scale-up) and lifetime energy savings. However, the Project did not achieve several of its
+original targets, namely: annual GHG emissions savings, the number of IEs who had invested in EE
+technologies, and the number of bankable EE subprojects developed. It should be noted that an extension
+with the objective of providing more time to fully achieve Project’s objectives was not possible due to the
+previously noted new government regulations on using ODA loans (as per IEG’s communication with the
+Project’s TTL).
+
+Rating. Based on the evidence provided in the ICR, the Original Project only partially achieved its
+objectives/intended outcomes, and its efficacy is rated as Modest.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 1 REVISION 1
+Revised Objective
+To improve EE in Vietnam's industrial sector.
+
+Revised Rationale
+Please see the ToC discussion under Original Project.
+
+At restructuring, three types of changes were applied:
+
+1. The scope of the Project was reduced. The original Project did not take into account important regulatory
+barriers for the IEs to access the credit line supported by the Project. Many IEs were not able to participate,
+and part of the loan had to be cancelled. The negative impact of COVID-19 on investment in general and in
+EE particularly led to additional reduction in the Project’s scope.
+
+2. The outcome indicators were modified. The indicator “Projected lifetime energy savings (MWh)” was
+replaced by the indicator “Projected lifetime energy savings (MJ)” (to comply with the Corporate Results
+Indicators’ (CRIs’) requirement to report energy savings in MJ); and the indicator “Annual GHG emissions
+avoided in IEs (tCO2e/year)” was replaced by the indicator “Projected lifetime GHG emissions avoided in IEs
+(tCO2e)”.
+
+3. The RF targets were lowered for the following indicators: energy savings (a PDO outcome indicator target),
+avoided GHG emissions (a PDO outcome indicator target), and the number of EE subprojects developed (an
+output indicator target). This was necessary not only due to the reduction of the Project’s scope, but also
+because the design-stage estimate of energy and emissions savings from subprojects was exaggerated. This
+
+
+                                                                                                   Page 8 of 18
+                                 Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+                                 Vietnam Energy Efficiency Financing (P151086)
+
+
+
+                              happened because it was unknown at design which EE technologies would be adopted by the subprojects,
+                              and the indicative pipeline had a larger share of IEs with high savings potential than the actual pipeline.
+
+                              Outcomes (only for the outcomes that were not achieved by closure under the Original Project):
+
+                              1. At closure, the Project had achieved total (investments’ lifetime) energy savings in the amount of
+                              92,101,479,871 MJ, against the revised target of 50,000,000,000 MJ. This PDO target was exceeded.
+
+                              2. Related lifetime avoided GHG emissions amounted to 21,333,659 tCO2e, as compared to the revised
+                              target of 18,000,000 tCO2e. This target was exceeded.
+
+                              Output:
+
+                              1. At closure, the Project had delivered 48 bankable EE subprojects, against the revised target of 42
+                              subprojects. The revised target was exceeded.
+
+                              2. At Project closure, the number of IEs who invested in the Project-supported EE technologies was 11,
+                              against the target of 25 (this target was not revised at restructuring). The target was not achieved.
+
+                              Overall, by closure, the Revised Project had achieved most of its outcomes and outputs and reached most of
+                              the RF targets. Specifically, it had demonstrated the mechanism of EE financing and created conditions for a
+                              scale-up of EE investments; achieved the revised energy and emissions targets; and improved the capacity of
+                              the PFIs, IEs, and the MOIT in relation to industrial EE financing. The target for the “Number of IEs adopting
+                              improved EE technologies” was however not achieved - which was of consequence to the goal of improving
+                              EE in the industrial sector.
+
+                              Rating. Taking account of the fact that the Project achieved most but not all of its objectives, its efficacy is
+                              rated as Substantial.
+
+
+
+                              Revised Rating
+                              Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            For the Original Project, the efficacy is Modest because ToC outcomes and outputs were achieved only
+                            partially.
+
+
+
+                            Overall Efficacy Rating                                      Primary Reason
+                            Modest                                                       Unintended negative effects
+                  OBJR1_TBL
+
+
+
+
+                                                                                                                                   Page 9 of 18
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       Vietnam Energy Efficiency Financing (P151086)
+
+
+
+
+  OVERALL EFFICACY REVISION 1
+  Overall Efficacy Revision 1 Rationale
+  For the Revised Project, the efficacy is Substantial. The Revised Project almost fully achieved its ToC
+  outcomes and outputs, with the exception of one RF target. Specifically, by closure, the Project had
+  demonstrated the usefulness of the credit line mechanism for EE financing and created conditions for a scale-
+  up of EE investments: developed a pipeline of EE subprojects adapting the EE technologies and motivated
+  the PFIs and IEs to contribute to the Project’s EE investments (mobilized significant private capital). The
+  revised targets for the outcomes of energy and emission savings were reached.
+
+
+
+  Overall Efficacy Revision 1 Rating
+  Substantial
+
+
+
+ 5. Efficiency
+I. Economic and Financial Analysis.
+
+Economic and financial analysis was conducted for Component 1 (investments in subprojects), both at appraisal
+and closure. The same methodology was used at both points of time.
+
+1. At appraisal.
+
+The analysis was done separately for specific (representative) technologies used in the subprojects, such as
+cogeneration from waste heat recovery in the cement industry, variable speed motors and regenerative burners
+in steel industry, and energy-efficient pulp washers in pulp and paper industry.
+
+a. Financial analysis. The financial internal rate of return (FIRR) on the PFI loans for the IEs was estimated in
+the range from 19 percent to 103 percent depending on the technology assessed. The benefits included avoided
+costs of purchased fuel oil, coal, and electricity, estimated at nominal financial prices; and increased revenue
+from the additional power generated.
+
+b. Economic analysis. The economic rate of return (ERR) and the net present value (NPV) were calculated with
+and without consideration of the avoided emissions externality. Without accounting for the externality, the ERR
+ranged from 17 percent to 124 percent, and when the externality was considered, the ERR was in the range
+from 30 percent to 325 percent. The NPV for the IEs was positive, while the NPV for the utility (Vietnam
+Electricity (EVN)) was negative, as expected, due to the loss in tariff revenue from the IEs. The economic
+benefits included industry’s savings of electricity, reduced usage of thermal generation, avoided purchases of
+imported coal and oil, reduced transmission grid losses, avoided power capacity to be added, and avoided GHG
+emissions. The estimates of benefits were based on the simulations by the National Load Dispatch Centre for
+calculation of the avoided cost tariff (ACT) for small renewable energy (RE) producers and on international
+(border) prices. For valuing the externalities, the Bank’s guidance for carbon accounting and social value of
+carbon were used.
+
+1. At closure.
+
+
+                                                                                                   Page 10 of 18
+       Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+       Vietnam Energy Efficiency Financing (P151086)
+
+
+
+The analysis was done for all subprojects.
+
+a. Financial analysis. All 11 subprojects had a positive financial return on investment. The estimated FIRR for
+all subprojects (the entire Component 1) was 52 percent, ranging from 14 percent for the co-generation
+technology in the Tra Vinh Sugarcane plant to 188 percent for the retrofit production line technology in the Toan
+Thang Steel plant.The approach to calculating Project benefits was the same as at appraisal, except actual
+annual energy savings (as opposed to expected) and actual financial benefits of saving coke (for steel
+production) were used.
+
+b. Economic analysis. The ERR and NPV of Component 1 without accounting for the avoided emissions
+externality were 73 percent and US$259 million, respectively. When accounting for the avoided emissions
+externality, the aggregate ERR and NPV were 105 percent and US$425 million, respectively. These estimates
+are close to the appraisal level ones, indicating that the Project was efficient based on the ERR indicator. All 11
+subprojects had sound economic return on investment, above 14 percent before the GHG avoidance externality
+is considered, which is above the economic opportunity cost of finance in Vietnam (10 percent). The
+methodology of calculating the benefits was the same as at appraisal, except actual annual energy savings at
+Project completion were used and the Economic Net Present Value (ENPV) was calculated (only NPV was
+calculated at appraisal).
+
+II. Administrative and Operational efficiency.
+
+The project was able to implement its activities, however with a significantly reduced scope, without an
+extension of its closing date (note that the extension was not possible due to a new government regulation
+limiting the usage of ODA financing) and without a corresponding decrease in administrative and operational
+costs. The impact of COVID-19, which accounted for 44 percent of the implementation period, was however
+managed efficiently. Procurement was conducted through competitive bidding, which did result in some cost
+savings (approximately US$350,000; ICR, page 25).
+
+Based on this, the Project’s efficiency is rated substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                 Rate Available?                Point value (%)        *Coverage/Scope (%)
+                                                                                       98.90
+ Appraisal                                                     30.00
+                                                                                        Not Applicable
+                                                                                       99.70
+ ICR Estimate                                                  105.00
+                                                                                        Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+
+                                                                                                      Page 11 of 18
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Vietnam Energy Efficiency Financing (P151086)
+
+
+
+6. Outcome
+
+Original Project:
+
+Relevance of objectives: High
+
+Efficacy: Modest
+
+Efficiency: Substantial
+
+Outcome: Moderately Unsatisfactory (a value of 3).
+
+Revised Project:
+
+Relevance of objectives: High
+
+Efficacy: Substantial
+
+Efficiency: Substantial
+
+Outcome: Satisfactory (a value of 5).
+
+Due to the Project restructuring, a split evaluation has to be applied. When a split evaluation is undertaken, the
+overall outcome rating is calculated by weighting the outcomes of the Original and the Revised projects using
+the shares of disbursed financing before and after the restructuring. Based on the shares of the disbursed
+funds before and after restructuring (US$34.4 million or 63.5 percent before the restructuring in September 2021
+and US$19.1 or 36.5 percent after restructuring), the overall project outcome rating is Moderately Satisfactory
+(0.635*3+0.365*5=3.73).
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+Government ownership. This risk could arise if EE development in the industrial sector loses its priority
+position in the Government agenda, as it relates to the IEs’ energy efficiency improvements. However, there
+is a high degree of confidence that the Government’s commitment to the industrial EE investments will stay
+as a top priority because it supports industrial modernization and constitutes a critical and most cost-efficient
+measure of the Vietnam’s climate change mitigation agenda. The risk is assessed as negligible.
+
+Policy. This risk could arise if there were further policy or legal barriers to EE investment in the industrial
+sector or disincentives for the private sector to invest in EE. Considering the Government’s commitment to
+climate change mitigation, related priority of the EE development, and a track record of developing
+regulations that support EE, this risk is low. However, as it happened during Project implementation, new
+regulations, which are not directly aimed at EE development, can have a negative impact on EE investments.
+
+
+                                                                                                      Page 12 of 18
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Vietnam Energy Efficiency Financing (P151086)
+
+
+
+In Project’s case, the regulations created limitations for ODA lending. Overall, this risk is estimated as
+moderate.
+
+Financial. This risk could arise if the PFIs are not able to maintain the created credit line, and the Project’s
+outcomes are not scaled up as a result. However, this risk has been mitigated. First, to sustain the credit line,
+the Project included capacity building support to the PFIs, which resulted in PFI’s improved ability to appraise
+EE subprojects and increased incentives to provide loans to the IEs for EE. Second, an ongoing Bank project
+Vietnam Scaling Up Energy Efficiency (P164938), approved in June 2019, complements the Project
+reviewed here by supporting EE investments in the IEs through a risk sharing facility, which will finance
+partial credit guarantees to the PFIs to cover potential IEs’ defaults on the loans they provided for EE
+investments. This risk is assessed as low.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The Project’s design was adequate to respond to the need to incentivize EE investment in the industrial
+  sector by financing a credit line for those PFIs that require long-term funding to be able to lend to IEs for
+  EE. Most of the related risks were analyzed and mitigated during the preparation stage. The ICR reports
+  that the Project’s design “covered the required aspects of the project implementation, such as a list of
+  103 potential subprojects in the pipeline, project operation and maintenance (O&M), and capacity-
+  building activities needed for project implementation” (ICR, page 33). In addition, as reported in the
+  Efficiency section, the Project is among the most cost-efficient EE projects financed by the World Bank,
+  based on unit cost of both energy and emissions savings.
+
+  However, certain weaknesses in design, in combination with external challenges that were outside of the
+  Project’s control, led to the need to restructure the Project. The regulatory constraints to the IEs’
+  borrowing for EE from the PFIs, as well as the PFIs’ due diligence process, could have been analyzed
+  and mitigated at the preparation stage. However, this opportunity was missed, and “the PFIs applied
+  restricted credit appraisal and collateral requirements”, disqualifying some ”IEs with high potential thermal
+  energy saving” (ICR, page 33). This is considered a moderate shortcoming because most of the risks
+  were anticipated at appraisal and the consequences of missing the opportunity to mitigate this risk from
+  start had a moderate impact on Project outcomes.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ During implementation, the Project was supervised by a locally-based multi-disciplinary team consisting of
+ highly qualified technical specialists, enabling hands-on supervision. The Project was regularly monitored:
+ eleven implementation support missions took place and were thoroughly documented. Project performance
+ indicators and ISR ratings were shared with the client and also used as early warning signs of the
+
+                                                                                                      Page 13 of 18
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Vietnam Energy Efficiency Financing (P151086)
+
+
+
+ challenges to achieving Project’s objectives. Importantly, the team was able to realize the necessity to
+ restructure the Project on time while it was still possible to significantly improve its efficacy by adapting the
+ Project to both the negative impact of COVIID-19 on demand for loans for EE and the regulatory
+ constraints that were not mitigated at appraisal. At restructuring, the Project’s scope was reduced, and the
+ IEs that satisfied the PFI’s requirements for EE lending were targeted. This timely restructuring provides a
+ good practice example for future operations.
+
+ During implementation, the PFIs were not always capable of providing support to IEs in the preparation of
+ loan applications, and the team should have stepped in but missed such an opportunity. As a result, IEs
+ were dependent on individual consultants’ help with the completion of loan applications, which included
+ such complicated and time-consuming tasks as conducting feasibility studies and preparing investment
+ appraisal reports. Due to this constraint, some of the applications were not completed, and the related
+ subprojects were not financed. This is considered a deficiency.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The Project's RF adequately reflected the logic of Project interventions and was sufficiently linked to the
+ PDO. All indicators were quantitative, time-bound, had baselines and targets, and were attributable to the
+ Project. There was a gender-disaggregated indicator. The RF adequately measured the project-level
+ outcomes (energy and emission savings) and the outputs, including the key ones: number of IEs adopting
+ improved EE technologies and number of EE bankable subprojects developed.
+
+ However, the RF had minor deficiencies. First, the RF did not have any outcome level indicators measuring
+ results of capacity building activities, which were important for Project’s sustainability. Second, the RF
+ indicator “number of direct project beneficiaries” incorrectly defined the staff of the beneficiary IEs as
+ Project’s beneficiaries. In fact, since the Project’s objective was to improve EE in the industry, the benefits
+ were in reduced energy usage and increased climate change mitigation, benefitting three main
+ constituencies: global population, the population of Vietnam (through such economic benefits as reduced
+ demand for imported fossil fuel and improved industrial sector efficiency), and local population (through
+ reduced pollution from fossil fuel combustion). The Project did not aim at benefiting the staff of the
+ beneficiary IEs, and if such unintended benefits occurred, this population constitute a very small part of the
+ beneficiary population.
+
+ The Project’s M&E is assessed by the IEG as Substantial, due to the minor weaknesses.
+
+
+
+
+                                                                                                       Page 14 of 18
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     Vietnam Energy Efficiency Financing (P151086)
+
+
+
+b. M&E Implementation
+  Data collection and reporting of the M&E indicators were provided to the Project team quarterly and
+  biannually using a standard template. The financial and disbursement data were well collected and
+  presented by the PMB/MOIT in an appropriate manner. (ICR, page 31)
+
+
+
+c. M&E Utilization
+  The ICR reports that the M&E data was utilized to inform Project management and decision making. The
+  data and the proposals to address arising issues were shared and discussed with the Government
+  stakeholders. The M&E supported Project restructuring. A web-based reporting system was developed
+  for online reporting of Project indicators, including disbursements, energy savings and emission
+  reductions, and the financing plan. Also, loan applications from the IEs could be submitted through the
+  online system. Related training on the use of system was provided to IEs, PFIs, and the MOIT. (ICR,
+  page 31-32)
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   Environmental Safeguards. The Project was classified as Environmental Category F; potential impact was
+   minor to moderate. The following Bank’s safeguard policies were triggered: Environmental Assessment
+   (OP/BP) 4.01, Physical Cultural Resources (OP/BP) 4.11, Involuntary Resettlement (OP/BP 4.12), and
+   Indigenous Peoples (OP/BP 4.10). Safeguard instruments - the Resettlement Policy Framework (RPF), the
+   Ethnic Minority Development Framework (EMDF), and the Environmental Management Framework (EMF) -
+   were prepared, consulted, and disclosed at design. Environmental Management Plans for the 11
+   participating subprojects and Environmental Due Diligence and Environment Protection Commitments for
+   other subprojects were prepared, consulted, approved, and disclosed per the Bank’s and Government's
+   requirements. Throughout implementation, the Project complied with safeguard policies. No accidents,
+   environmental issues, or affected households were reported during implementation.
+
+   Social Safeguards. The Project closed without any outstanding social safeguard issues. The Project
+   followed the World Bank's social safeguard policies, guidelines, and quality standards, including during
+   construction works and fiduciary and environmental and social safeguards that ensure compliance with OP
+   4.12, OP 4.01 and other safeguard policies.
+
+
+
+
+b. Fiduciary Compliance
+   Procurement. The ICR reports that procurement was efficient, contributing to the Project's successful
+   completion. Eight consultant bidding packages were completed. All bidding processes were conducted in
+
+                                                                                                 Page 15 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Vietnam Energy Efficiency Financing (P151086)
+
+
+
+   compliance with the required procedures as confirmed through World Bank prior and post reviews. (ICR,
+   page 33)
+
+   Financial Management (FM). The ICR reports that financial management was in compliance with the World
+   Bank's financial management policies and procedures. Quarterly financial reports were submitted by the
+   MOIT/PMB to the World Bank. Financial audits by an independent firm were conducted annually and were
+   of acceptable quality and submitted in accordance with the Loan Agreement. The MOIT and PFIs were
+   submitting their annual audited financial statements, prepared as per international financial reporting
+   standards. The audit reports were unqualified and stated that the financial management was well-executed
+   and the Project had no financial management issues. (ICR, page 33)
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                 Reason for
+Ratings                         ICR                    IEG
+                                                                                 Disagreements/Comment
+                                                                                 IEG agrees with the ICR’s rating
+                                                                                 of the Original Project as Modest
+                                                                                 but disagrees with the ICR’s
+Outcome                         Satisfactory          Moderately Satisfactory    rating of the Revised Project as
+                                                                                 High and rates it as Satisfactory
+                                                                                 because one of the RF targets
+                                                                                 was not achieved.
+Bank Performance                Satisfactory          Moderately Satisfactory
+
+Quality of M&E                  Substantial           Substantial
+
+Quality of ICR                  ---                   Substantial
+
+
+12. Lessons
+
+The following lessons were derived from the ICR with some modifications by IEG (ICR, pages 35-
+36):
+
+1. The Project has been recognized by the Government and private sector for demonstrating
+economic, financial, and environmental benefits of EE investments and for creating an on-lending
+mechanism, which was effective in mobilizing remarkable private capital funding. The credit line
+supported by the Project had a significant leveraging effect, mobilizing a sizable private financing for
+EE in the amount of US$87 million, from PFIs and IEs, and turned out to support a scale-up. Such
+an important outcome would not be possible if the Project did not address such EE financing barriers
+
+                                                                                                    Page 16 of 18
+       Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+       Vietnam Energy Efficiency Financing (P151086)
+
+
+
+as the lack of incentives, insufficient liquidity, and short-term maturity of the loans. It did so by using
+the KGGTF grant funding and by utilizing TA support from other Bank and IFC projects. The lesson
+is that in countries with economic and political incentives to implement EE and a strong Government
+ownership in relation to EE projects, a parallel development of a financial mechanism for EE and
+capacity building for EE can be a most effective and efficient approach to EE mainstreaming.
+
+2. Selection of strong PFIs with dedicated project teams was vital for the success of the EE credit
+line created by the Project. The Project benefited from a sound commitment of the PFIs’
+management to the EE lending strategy and their dedicated project teams. The Project also
+benefited from a wide PFI participation, which enhanced the IE client base, covering a range of
+industrial clients and increasing the opportunities for EE lending. The lesson is that during the
+preparation stage, a careful selection of strong PFIs with dedicated project staff is critical for a
+successful creation of an EE financing mechanism.
+
+3. The Project relied too much on the risk tolerance of the PFIs and credit ratings of the IEs, which
+explains why it was not successful in attracting the expected number of subprojects and a variety of
+EE technology types. The Project suffered from risk aversion of some PFIs (in particular, to lending
+to steel and cement IEs), and many perspective EE subprojects were not financed because the PFIs
+considered the IEs’ credit ratings to be too low. The lesson is that to avoid such experience: (i) a
+more intensive, well-financed, and well-supervised TA to the PFI would be a good mitigating
+mechanism; and (ii) a wider range of EE technologies and additional financial instruments could be
+considered. Specifically, the follow-up Vietnam Scaling up Energy Efficiency Project (P164938,
+approved in 2019) used a US$8.3 million grant for TA and focused on the development of a risk
+sharing facility to provide partial credit guarantees to the PFIs.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provides sufficient technical details to understand the value-added of the activities and the outcomes
+of the Project; a good justification of the PDO relevance; comprehensive and robust evidence on all aspects of
+Project’s evaluation; and a clear linking of evidence to findings. The ICR is analytical and has internal
+consistency. The lessons learned are linked to the narrative and the ratings and are useful for future lending
+operations. At the same time, the ICR has the following minor weaknesses:
+
+    1. The ICR could have provided more evidence regarding one of the central Project outcomes: the creation
+       of the mechanism of EE financing and the conditions for a scale-up of EE investments (establishment of
+       a credit line for EE financing, development of a pipeline of EE subprojects adapting the EE technologies,
+       and creation of incentives for the PFIs and IEs to contribute to the Project’s EE investments).
+    2. Evidence of the outcomes of capacity building activities could have been included in the ICR, in addition
+       to the listed inputs/outputs, such as the number of workshops conducted, the number of people trained,
+       and a website developed. The outcomes would include relevant skills developed by the trained staff,
+
+
+                                                                                                       Page 17 of 18
+  Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+  Vietnam Energy Efficiency Financing (P151086)
+
+
+
+    increased awareness due to the workshops conducted, and the acknowledgement of the applicability of
+    the information on the website that was created by the Project.
+ 3. Data presentation could have been more rigorous: the ICR could have included clearer disbursement
+    data and report on energy and emission savings (major RF indicators using consistent units of
+    measurement.
+
+
+
+a. Quality of ICR Rating
+   Substantial
+
+
+
+
+                                                                                           Page 18 of 18
+

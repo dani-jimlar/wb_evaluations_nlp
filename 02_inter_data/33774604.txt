@@ -1,0 +1,848 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     NP: PPCR: Climate Hazards (P127508)
+
+
+
+                                                                                Report Number: ICRR0022803
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P127508                                   NP: PPCR: Climate Hazards
+
+ Country                                   Practice Area(Lead)
+ Nepal                                     Urban, Resilience and Land
+
+
+ L/C/TF Number(s)                          Closing Date (Original)               Total Project Cost (USD)
+ TF-13557,TF-13665                         30-Nov-2018                                         24,918,956.35
+
+ Bank Approval Date                        Closing Date (Actual)
+ 15-Jan-2013                               15-Nov-2020
+
+                                           IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                          31,000,000.00                                    31,000,000.00
+
+ Revised Commitment                           24,918,956.35                                    24,918,956.35
+
+ Actual                                       24,918,956.35                                    24,918,956.35
+
+
+
+
+ Prepared by                Reviewed by                  ICR Review Coordinator         Group
+ Katharina Ferl             Fernando Manibog             Victoria Alexeeva              IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to the Project Appraisal Document (PAD) (p. v) and the Financing Agreement of April 30, 2013 (p.
+   4), the objective of the project was “to enhance government capacity to mitigate climate related hazards by
+   improving the accuracy and timeliness of weather and flood forecasts and warnings for climate-vulnerable
+   communities, as well as developing agricultural management information system services to help farmers
+   mitigate climate-related production risks.”
+
+
+
+                                                                                                 Page 1 of 16
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     NP: PPCR: Climate Hazards (P127508)
+
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project included four components:
+
+   Component A: Institutional Strengthening, capacity building and implementation support of the
+   Department of Hydrology and Meteorology (DHM) (appraisal estimate US$5.1 million, actual US$3.35
+   million) was to finance three sub-components:
+
+   Sub-component A.1: This sub-component was to finance: i) DHM institutional development and strategic
+   planning, ii) development and/or strengthening of a legal and regulatory framework for DHM operations,
+   including development of standard operating procedures, assessment of new business models and
+   enhancing public private partnerships; and iii) “twinning” operational support from advanced National
+   Weather Services (NMSs) and World Meteorological organization (WMO).
+
+   Sub-component A.2: This sub-component was to finance capacity building including: i) development and
+   implementation of a DHM capacity building program including DHM personnel training and retraining,
+   professional orientation for DHM senior staff; education in universities and training in WMO regional training
+   centers; and ii) Implementation of training activities for major users (i.e., agriculture, water resources
+   management, health, energy, transportation).
+
+   Sub-component A.3: This sub-component was to finance systems design and integration, project
+   management and monitoring including: i) provision of support for detailed design, procurement and
+   implementation of DHM systems; ii) project management, reporting, monitoring and evaluation for
+   Components A, B and C; iii) development of a needs assessment and design for air quality, water quality
+   and sediment monitoring networks; iv) development of design documents for reconstruction/refurbishment
+   of DHM’s headquarters and regional offices; and v) support for environmental and social due diligence and
+   protection.
+
+   Component B: Modernization of the Observation Infrastructure and Forecasting (appraisal estimate
+   US$16.45 million, actual US$13.99 million): This component was to finance the following sub-
+   components:
+
+   Sub-component B.1: Technical modernization of observation networks including: i) rehabilitation and
+   technical re-equipment of the hydrological network; ii) improvement of the environment of the hydrological
+   stations (bank stabilization, improvement of flow conditions, engineering works, etc.); iii) special equipment
+   for hydrological stations (current meters, sediment samplers, tracer laboratory equipment, training, staff
+   gauges, boats); iv) delivery and installation of weather radar for detection of heavy precipitation and other
+   meteorological phenomena; v) renewal of temperature-wind sounding of the atmosphere; vi) upgrading and
+   expansion of automated surface observing systems for aviation safety; vii) surface meteorological and
+   lightning detection networks; viii) glacier and snow monitoring (equipment and surveys); ix) establishment of
+   DHM calibration facilities; and x) vehicles to support DHM field operations, maintenance and inspections.
+
+
+                                                                                                    Page 2 of 16
+  Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+  NP: PPCR: Climate Hazards (P127508)
+
+
+
+Sub-component B.2: Modernization of DHM’s Communication and ICT Systems including: i) communication
+equipment; ii) archiving and data base development; and iii) Satellite receiving system, remote sensing and
+GIS laboratory.
+
+Sub-component B.3: Improvement of the Numerical Hydrometeorological Prediction System including
+modern computer equipment for numerical weather prediction.
+
+Sub-component B.4: Design and pilot operation of an environmental monitoring network including piloting
+operation of air quality, water quality, and sediment monitoring networks.
+
+Sub-component B.5: Refurbishment /reconstruction of DHM offices and facilities including access to
+uninterrupted power supply.
+
+Component C: Enhancement of the Service Delivery System of DHM (appraisal estimate US$3.45
+million, actual US$1.61 million): This component was to finance:
+
+Sub-component C.1: Introduction of a public weather service including: i) forecaster workstations; ii)
+specialized communications instruments including TV studio, radio alert services, internet websites; and iii)
+development and operationalization of a forecast accuracy verification system and survey of forecast utility.
+
+Sub-component C.2: Strengthening of Disaster Risk Management (DRM) operations including piloting of
+“end-to-end” early warning systems in two river basins in the western and eastern parts of Nepal including:
+i) development of Standard Operating Procedures (SOPs), early information protocols and signals agreed
+with all basin and DRM stakeholders including Emergency Operations Centers and District Development
+Committee/Village Development Committee (DDCs/VDCs); ii) forecaster workstations, communication
+systems and software development; and iii) operational training and drills with government stakeholders,
+non-government stakeholders and communities.
+
+Sub-component C.3: Improvement of service delivery (i.e., warnings and advisories) to communities
+including introduction of mobile applications.
+
+Sub-Component C.4: Establishment of a national climate service including: i) computer systems to access
+climate information; ii) support for the development of a National Framework for Climate Services and
+sectoral working groups; iii) development of a digital library of climate-relevant information from all sectors
+for Nepal; iv) software development to downscale climate forecasts and v) operational support and
+information exchange between water resources, public health and climate databases.
+
+Component D: Creation of an Agriculture Management Information System (appraisal estimate
+US$6.0 million, actual US$5.97 million): This component was to finance the following sub-components:
+
+Sub-component D.1: AMIS Portal, Hardware and Software including: i) detailed design of the AMIS Portal
+and assessment of information requirements; ii) acquisition and installation of AMIS Portal (e.g., software,
+data and web server, computer, monitor, printer, digital color scanner, plotter) at the Ministry of Agriculture
+and Livestock Development (MoALD); iii) rehabilitation of the offices of the MoAD Geographical Information
+System (GIS) Section to facilitate communication with the AMIS Portal; iv) acquisition of vehicles and motor
+bikes to support field operations including outreach to farmer communities and data collection; v) acquisition
+and installation of communication links to district level extension offices and outreach stations of the Nepal
+
+
+
+                                                                                                   Page 3 of 16
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    NP: PPCR: Climate Hazards (P127508)
+
+
+
+  Agriculture Research Council (NARC); and vi) Agriculture Management Information System (AMIS)
+  infrastructure (software and hardware) at NARC’s central office.
+
+  Sub-Component D.2: Information Products including: i) agricultural and spatial data digitizing and archiving;
+  ii) development of agriculture monitoring products and decision support tools such as mapping of climate-
+  vulnerable farming communities and establishment of a crop monitoring system; and iii) exploratory
+  research to develop financial risk transfer instruments for the agriculture sector, such as agricultural
+  insurance.
+
+  Sub-component D.3: Information Dissemination including: i) development of mobile applications based on
+  data from AMIS; ii) production and dissemination of advertisements for mass media (FM radio, TV
+  channels); iii) production and dissemination of publications; and iv) feasibility studies for AMIS Portal
+  product dissemination.
+
+  Sub-component D.4: Capacity Building including: i) provision of training to staff of selected agencies in
+  weather data analysis, including short term training and advanced degrees; ii) provision of training to staff of
+  selected agencies at the regional, district and community level in the use of AMIS Portal tools and in
+  awareness of climate resilience; iii) building partnerships with farmers to raise awareness and capacity,
+  including provision of basic thermometers and rain gauges to selected farmers; and iv) organization of agro-
+  climate workshops at the regional and district levels.
+
+  Sub-component D.5: Support for project management and monitoring, and for social outreach,
+  communication, and evaluation activities under component D.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost: The project was estimated to cost US$31.0 million. Actual cost was US$24.9 million.
+
+  Financing: The project was to be financed by a Trust Fund of US$16.0 million (of which US$12.96 million
+  was disbursed) and a Trust Fund of US$15.0 million (of which US$11.96 million was disbursed).
+
+  Borrower Contribution: The Borrower was to contribute US$300,000. Actual contribution was US$2.34
+  million.
+
+  Dates: The project was restructured twice:
+
+        On August 14, 2018 the project was restructured to change the project’s loan closing date from
+         November 30, 2018 to December 31, 2019 to allow for the completion of project activities of
+         components A, B and C which were being implemented by DHM. Implementation of these activities
+         had been delayed due to several events such as the 2015 earthquakes, trade blockade on the
+         Indian border, flooding in Southern Plains, and delays due to 2017 three-tier elections as well as
+         some internal procurement delays and lengthy governmental approval processes.
+        On December 10, 2019 the project was restructured to change the project’s closing date from
+         December 31, 2019 to November 15, 2020 to allow for various specialized training packages being
+         awarded, which had been delayed because of low budget estimation by the implementing agency,
+
+
+
+
+                                                                                                     Page 4 of 16
+     Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+     NP: PPCR: Climate Hazards (P127508)
+
+
+
+          Department of Hydrology and Meteorology (DHM), compared to the significantly higher quoted
+          budget by prospective vendors.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+At the time of appraisal, Nepal made marked gains in eradicating poverty, but remained one of the poorest
+countries in the world. The Gross Domestic Product (GDP) per capita remained low at US$712 (2011) and
+poverty varied widely across geographic location, ethnicity, caste and gender. The population was largely
+rural and heavily dependent upon agriculture. According to the PAD (p. 1) at the time of project appraisal
+about 82 percent of the population (estimated at around 26.6 million) lived in rural areas and agriculture
+contributed 35 percent of the country’s Gross Domestic Product (GDP). Poverty was much more severe in
+rural areas (27 percent) compared to urban areas (15 percent) and especially severe in mountainous areas
+(42 percent).
+
+According to the PAD (p. 2), in 2011 the global risk analysis firm Maplecroft ranked Nepal the 4th most
+climate-vulnerable country in the world due to its extremely varied and challenging geography, its poor,
+resource dependent population, and its weak institutional capacity. Also, climate projections for the country
+had been predicting increases in temperature and in the frequency of extreme events. The impacts of
+climate change have started to negatively impact economic growth, food security, and wildfires.
+
+The PAD further stated (p. 3) that food security was further threatened since climate change was expected
+to affect agricultural productivity through three primary channels: i) rising temperatures, ii) climate variability
+and related changes in the timing, intensity, and volume of rainfall, and iii) rising carbon dioxide levels. The
+threat of climate change on Nepal’s rich biodiversity changed agro-ecological zones, prolonged dry spells,
+encroachment of alien and invasive species, and increased prevalence of disease and pests.
+
+Especially, the poor population was largely dependent upon subsistence agriculture for its livelihoods. At
+the time of appraisal, recent records in Nepal showed increasing incidents of droughts, floods, hailstorms,
+landslides and crop disease. As a result, the need for a well-functioning early warning system was identified
+as a key priority in the government’s National Strategy for Disaster Risk Management.
+
+The project’s objective supported the government’s 2020 Second Nationally Determined Contribution (NDC
+II), which reinforces the government’s commitment to developing and implementing adaptation policies,
+plans, and actions. Also, the objective of the project was in line with the government’s Disaster Risk
+Reduction National Strategic Plan of Action for 2018-2030 (DRRNSPA), which aims to expand and
+modernize the real-time weather observation systems and real-time water level and rainfall observation
+systems in major flood-prone river basins.
+
+According to the ICR (p. 7), the project was one of five program components identified in Nepal's Strategic
+Program for Climate Resilience (SPCR). The SPCR was developed by the government with support from
+the Bank, the International Finance Corporation (IFC), and the Asian Development Bank (ADB) and
+approved in June 2011.
+
+
+
+                                                                                                         Page 5 of 16
+                                      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+                                      NP: PPCR: Climate Hazards (P127508)
+
+
+
+               The objective of the project was in line with the Bank’s most recent Country Partnership Framework (CPF)
+               for Nepal (FY19-23) which aims to increase resilience to natural disasters and climate change under focus
+               area three. The Bank had been engaged in the sector since 2011 through the Building Resilience to
+               Climate Related Hazards (BRCH) Project, which was one of five program components identified in Nepal's
+               Strategic Program for Climate Resilience (SPCR).
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To enhance government capacity to mitigate climate related hazards by improving the accuracy and
+                             timeliness of weather and flood forecasts and warnings for climate-vulnerable communities, as well as
+                             developing agricultural management information system services to help farmers mitigate climate-related
+                             production risks
+
+                             Rationale
+                             Outcome 1: Improved accuracy and timeliness of weather and flood forecasts and warnings
+
+                             Theory of Change: The project’s theory of change envisioned that project activities such as the development
+                             of the DHM’s legal, regulatory and institutional frameworks, development and implementation of a capacity
+                             building and trainings program as well as design and implementation of an integrated hydromet system were
+                             to result in the following outputs: A hydromet bill and regulation being drafted, capacity building and training
+                             programs being developed and implemented, as well as an integrated hydromet system being developed and
+                             implemented. These output activities were to result in the higher-level outcome—critical for Nepal—of
+                             improved accuracy and timeliness of weather and flood forecasts and warnings for climate-vulnerable
+                             communities.
+
+                             Outputs:
+
+                                        The project supported the drafting of a hydromet bill and regulation (“development of legal and
+                                         regulatory framework of DHM operations”) as well as the standard operation procedures (SOPs) for
+                                         DHM on hydromet services. The hydromet bill and regulation envisioned a cost recovery mechanism
+                                         through fees levied on civil aviation for providing aviation weather services to enable continued
+                                         upgrading of the DHM aviation forecasting capability. The project did not completely achieve its target
+                                         of supporting DHM’s mission and implementing fully functional DHM regulations and operational
+                                         guidelines.
+                                        The percentage of DHM professional staff being trained increased from 22 percent in 2015 to 72
+                                         percent in 2020, not achieving the target of 100 percent. Some of the trainings envisioned by the
+
+
+                                                                                                                                   Page 6 of 16
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   NP: PPCR: Climate Hazards (P127508)
+
+
+
+        System Integrator (SI) were incomplete such as weather presentation system, hydromet workstation,
+        aviation meteorology, quality management system, and nowcasting.
+       16 synoptic stations of DHM were transmitting all of the surface synoptic observations from its central
+        database to the World Meteorological Organization’s (WMO’s) Global Telecommunication System
+        (GTS) / WMO Information System (WIS), resulting in a 94 percent data transmission rate, almost
+        achieving the target of 95 percent.
+       The percentage of automated weather stations (AWSs) operating in line with the hydromet services’
+        Standard Operating Procedure (SOP) of DHM increased from 10 percent in 2013 to 100 percent in
+        2020, surpassing the target of 90 percent. The project installed and operationalized 88 AWSs.
+       The percentage of hydrological stations operating in line with the hydromet services’ SOPs of DHM
+        increased from 10 percent in 2013 to 100 percent in 2020, achieving the target of 80 percent.
+       The percentage of stations providing reliable and uninterrupted real-time information in an appropriate
+        form to users increased from 10 percent in 2013 to 80 percent in 2020, achieving the target of 80
+        percent.
+       A National Framework for Climate Services (NFCS) was prepared by the Asian Disaster
+        Preparedness Center through a parallel project (“Climate Adaptation and Resilience to South Asia
+        (P171054)) but remains to be adopted by the government. Also, an assessment of climate impact by
+        sector was not started. Therefore, the project did not achieve the target of conducting a climate impact
+        assessment by sector.
+
+Outcomes:
+
+     The financial sustainability of DHM operations increased from 40 percent in 2013 to 100 percent in
+      2020, achieving the target of 100 percent. This achievement meant DHM budgeted sufficiently for
+      O&M expenditure. The allocated total DHM operational budget for FY2019-20 was US$2.7 million and
+      for FY 2020-21 it was US$8.9 million. Annual maintenance and reinvestment costs were estimated at
+      US$1.44 million. According to the ICR (p. 28), these budget allocations were sufficient to cover 100
+      percent of the Operations & Maintenance needs of the DHM. It is not entirely clear how the financial
+      sustainability of DHM operations reflects improvement in accuracy and timeliness of weather and flood
+      forecasts and warnings.
+     The accuracy and timeliness of DHM’s weather forecasts—a skill measured between zero and one for
+      weather forecasts of 24 hours lead time--was 0.47, not achieving the target of 0.75. The weather
+      forecast verification skill score for 2019-2000 was computed by the DHM for a 24-hour lead time
+      forecast using a complex formula. The ICR (p. 11) stated that the target was not achieved since the
+      forecast verification system was not updated with a more advanced automated system by the end of
+      project implementation as was originally planned.
+     User satisfaction remained at its baseline of 51 percent, not achieving the target of 65 percent.
+      However, user satisfaction surveys reported a five percent increase compared to the baseline in
+      terms of the timeliness, adequacy, and accuracy of DHM’s services. In flood prone communities such
+      as in Sunsari, Saptari, Mahottari, Rupandehi, Banke, and Kailali districts where the DHM provides
+      early warnings for extreme weather events, the CUSI score was 43 percent compared to the end
+      target of 65 percent, indicating that the DHM needs to further improve the accessibility and quality of
+      its services.
+
+Outcome 2: Availability of AMIS services for farmers to mitigate climate-related production risks
+
+
+
+                                                                                                  Page 7 of 16
+                               Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                               NP: PPCR: Climate Hazards (P127508)
+
+
+
+                            Theory of change: The project’s theory of change envisioned that project activities such as the development
+                            of an Agriculture Management Information System (AMIS) , the provision of AMIS interface infrastructure to
+                            users, the development and dissemination of agromet information products to users in pilot districts as well as
+                            training of technical agency staff and farmers on agromet information interpretation were to result in the
+                            following outputs: an AMIS being developed, an AMIS interface infrastructure being delivered to targeted
+                            farmers as well as AMIS information products being developed and disseminated. These outputs were to
+                            result in the outcome of staff farmers capacity to interpret agromet information being improved.
+
+                            Outputs:
+
+                                  The linkage between AMIS and the World Meteorological Organization (WMO) AMIS was improved by
+                                   linking 100 percent of AMIS products to the WMO AMIS, surpassing the target of linking 80 percent of
+                                   AMIS products to the WMO AMIS.
+                                  100 percent of farmer groups and cooperatives in all 26 pilot districts were provided with AMIS
+                                   infrastructure (software and hardware) to interface with AMIS, achieving the target of 100 percent. A
+                                   total of 1,263 sets of smart mobile phones, rain gauges, and thermometers were purchased and
+                                   distributed to 1,263 selected farmers and cooperatives in the pilot districts. Also, one central-level and
+                                   52 district-level Kisan Call Centers (KCCs) were established in the District Agricultural Development
+                                   Offices and District Livestock Services Offices to be later transferred to 51 Agriculture Knowledge
+                                   Centers (AKCs) and 47 Veterinary Hospital and Livestock Service Expert Centers (VHLSECs) under
+                                   the provincial government to improve the interface with farmers and cooperatives using local dialect
+                                   and facilitate information exchange with agromet experts. However, at the time when the ICR was
+                                   written (p. 14), the KCCs in all pilot district offices were not functioning due to an unclear
+                                   administrative structure within these offices.
+                                  72 percent of DHM staff received technical and professional training, not achieving the target of 100
+                                   percent of staff. According to the Bank team (December 7, 2021) a full‐fledged capacity
+                                   building activity could not be undertaken as originally envisioned due to procurement related issues
+                                   between the DHM and System Integrator.
+                                  The percentage of users who were satisfied with AMIS main services increased from 28.03 percent in
+                                   2015 to 40.7 percent in 2019, not achieving the target of 65 percent.
+
+                            Outcomes:
+
+                                  Access to AMIS was improved by monthly updates and improvements of the AMIS portal, achieving
+                                   the target of monthly updates and improvements.
+
+
+
+                            Rating
+                            Modest
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+
+
+                                                                                                                               Page 8 of 16
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      NP: PPCR: Climate Hazards (P127508)
+
+
+
+  Achievement of the first outcome was Modest since the target for the accuracy and timeliness of weather
+  forecasts provided by the DHM and the target for user satisfaction were not achieved. Achievement of the
+  second outcome was Substantial due to improvements achieved in the access to AMIS by monthly updates
+  and in the AMIS portal, as well as an increase in user satisfaction for AMIS services. Taking everything
+  together, the overall efficacy rating is Modest.
+
+
+
+  Overall Efficacy Rating                                     Primary Reason
+  Modest                                                      Low achievement
+
+
+5. Efficiency
+Economic efficiency:
+
+The PAD (p. 18) assessed the economic efficiency of the project through two different methodologies: a
+benchmarking methodology and a sector specific methodology. While the PAD’s analysis indicated that the
+project was a worthwhile investment, the analysis is outdated since it was done ten years ago.
+
+The ICR (p. 15) conducted an ex-post economic analysis, which quantified benefits such as those arising from
+reduced asset losses from natural hazards due to improved hydromet and EWS services (components A, B, C).
+improved agricultural productivity due to improved agromet services (component D), and improved productivity
+in other weather-sensitive sectors due to improved hydromet services (components A, B, C).
+
+The ICR made several assumptions that were adequate (see ICR p. 53 for a detailed list). Also, the ICR
+identified the differences to the analysis conducted at appraisal. These differences included: i) actual costs
+instead of projected costs; ii) costs were presented in economic rather than financial prices; iii) the ICR used an
+annual discount rate of 9 percent while the ex-ante methodology at appraisal did not apply discounting; iv) a
+gradual, rather than a sudden, stream of project benefits was assumed due to the lagged adoption of new
+services by the beneficiaries; and v) changes in Nepal’s GDP and agricultural output during the 15-year
+economic life of the project (2013–2027) were incorporated into the analysis rather than presuming them as
+constant. The ICR’s use of economic costs, a discount rate, and a gradual onset of benefits were distinct
+improvements compared to the PAD assumptions.
+
+The analysis calculated a benefit-cost ratio ranging from 2.8 to 14.0. With a discount rate of 9 percent, the
+analysis calculated an Expected Net Present Value (ENPV) of US$42.2 million and an Economic Internal Rate
+of Return (EIRR) of 40.4 percent. The analysis did not include non-quantifiable benefits. Therefore, the ICR
+assumed that actual benefits were higher.
+
+However, the ICR's economic analysis did not take into account that several significant outputs/outcomes were
+not achieved. For example, the accuracy and timeliness of DHM’s weather forecasts was not improved, and the
+target for user satisfaction was not achieved. Also, as stated in the section above, it is not entirely clear how the
+financial sustainability of DHM operations measures improvement in accuracy and timeliness of weather and
+flood forecasts and warnings. Therefore, the ICR’s economic analysis was overly optimistic.
+
+Operational efficiency:
+
+
+
+                                                                                                        Page 9 of 16
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      NP: PPCR: Climate Hazards (P127508)
+
+
+
+According to the ICR (p. 16), the project was able to obtain cost savings of more than US$2.3 million by
+practicing competitive selection processes for most of the project’s procurement packages. However, the project
+was extended twice for a total of two years due to a slow implementation start, the late arrival of the System
+Investigator, lengthy procurement process for high-value packages, frequent staff turnover and exogenous
+factors such as earthquakes, Terai unrest and fuel crisis in 2015-2016 as well as the Covid-19 pandemic.
+
+Given the overly optimistic Economic analysis as well as implementation delays, the project’s overall efficiency is
+rated Modest.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)            *Coverage/Scope (%)
+                                                                                       0
+ Appraisal                                                  0
+                                                                                        Not Applicable
+                                                                                       0
+ ICR Estimate                                               0
+                                                                                        Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Relevance of the objective was High given the project’s objective alignment with the Bank’s most recent Country
+Partnership Framework (CPF) for Nepal (FY19-23), which aims to increase resilience to natural disasters and
+climate change under focus area three. Efficacy was Modest due to the project not being able to improve flood
+and weather forecasting and warnings for disasters. Efficiency was Modest due to an overly optimistic Economic
+analysis and operational inefficiencies. Taking everything together, the project’s overall outcome rating was
+Moderately Unsatisfactory.
+
+
+a. Outcome Rating
+   Moderately Unsatisfactory
+
+
+7. Risk to Development Outcome
+
+The risks to the project’s outcomes can be classified into the following categories:
+
+Government commitment: According to the ICR (p. 26), the hydromet bill and regulation to establish the
+DHM as legally authorized agency for hydromet services had not been promulgated by the parliament by the
+
+                                                                                                    Page 10 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     NP: PPCR: Climate Hazards (P127508)
+
+
+
+time the ICR was written due to frequent changes of the Irrigation Secretary in the MOEWRI in 2021. In the
+absence of the bill’s promulgation, it has not been possible to establish a cost-recovery mechanism for the
+O&M of hydromet infrastructure, which is critical to ensure the sustainability of the project outcomes.
+
+Financial resources: The government continues to be committed to the project’s objective as demonstrated
+by the government allocating sufficient budget to the DHM for FY20/21 to implement activities that could not
+be finalized by the end of project implementation. Activities that had been completed since project closure
+included trainings on the hydromet workstation, and the development of a web portal for public web service.
+According to the ICR (p. 26) the DHM made provision to its annual budget since project closure to allow for
+O&M equipment to be installed. However, the DHM’s recurring budget was not increased sufficiently for
+continuous O&M. Also, the MOALD moved the AMIS over to the AITC which became responsible for the
+O&M of the system, upgrading of modules, and conducting capacity building activities for the operation of the
+AMIS portal. However, the annual budget of US$26,000 for FY20/21 might not be sufficient to maintain all
+functions of the AMIS without negatively impacting the quality of the agromet information and services.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  According to the PAD (p. 12), the project was built on lessons learned from previous Bank engagement in
+  the country and from other projects on sustainability of hydromet modernization activities in developing
+  countries. These lessons learned identified the importance of designing a system with equipment well-
+  suited for the local geography, needs and capacities. Also, according to the ICR (p. 19) these lessons
+  learned emphasized the importance of the DHM being transformed into a modern service-oriented
+  agency aiming to deliver products to other government agencies and the importance of sound
+  coordination among ministries. The ICR (p. 25) stated that the project conducted a sound analysis and
+  consulted extensively with various stakeholders resulting in strong ownership within the government.
+
+  The Bank team also identified relevant risks related to procurement, governance, and capacity of
+  implementing agencies. The Bank’s mitigation measures were inadequate in relation to the recruitment of
+  the System Integrator (SI) and procurement consultants at the PMUs and lack of capacity of the DHM
+  PMU in managing the deliverables of the SI. As a result, the project experienced implementation delays.
+
+  The project’s Results Framework had several shortcomings (see section 11a for more details).
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ According to the ICR (p. 26), the Bank team conducted regular supervision missions, field visits, high-level
+ discussion with the government and technical meetings with the implementing agencies and development
+
+
+                                                                                                  Page 11 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     NP: PPCR: Climate Hazards (P127508)
+
+
+
+ partners. On a monthly basis, the Bank team conducted progress review meetings and every three months
+ the Bank team conducted technical missions to provide support and monitor implementation progress.
+
+ However, the Bank team did not revise the Results Framework during the two project restructurings even
+ though it would have been beneficial for measuring implementation progress towards the project’s
+ objective.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ According to the PAD (p. 15), the DHM and MoAD were to be responsible for monitoring and reporting on
+ the progress of their respective components. The project’s M&E activities were to include: i) trimester
+ monitoring and preparation of implementation progress reports (IPRs); ii) bi-annual reporting on IRIs and
+ annual reporting on PDO-level indicators; iii) bi-annual compliance monitoring based on the
+ ESMF progress reports and/or field verification; and iv) program-level reporting by the Ministry of Forests
+ and Environment (MOFE).
+
+ The project’s theory of change and how key activities and outputs would lead to the intended outcomes
+ were sound and adequately reflected in the Results Framework.
+
+ However, the project’s M&E had several shortcomings. First, the objective of the project was overly
+ complex and complicated. Second, the selected indicators were often not sufficiently specific, clear,
+ measurable and relevant for measuring the achievement towards the objective. For example, PDO
+ indicator four (“introduction of a sustainable AMIS”) was measured by a Composite User Satisfaction Index
+ (CUSI) instead of a set of system features and as a result not measuring progress towards the
+ achievement of the objective.
+
+
+
+b. M&E Implementation
+  According to the ICR (p. 22), the PMUs produced Implementation Progress Reports (IPRs) on a regular
+  basis and the two agencies’ focal points were trained on methodology and processes for program and
+  project reporting. The project supported the establishment of two technical committees, which
+  collaborated with the PPCR to mainstream M&E into regular DHM and MOALD processes to allow for
+  monitoring of project outcomes after project closure.
+
+  When the project was restructured twice, the Results Framework’s shortcomings were not addressed
+  despite challenges with the selected indicators as discussed in the section above. The end-term surveys
+
+                                                                                                  Page 12 of 16
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     NP: PPCR: Climate Hazards (P127508)
+
+
+
+  were integrated into the DHM and MOALD’s 2018 procurement plans, which resulted in reporting on the
+  indicators included in the Results Framework. However, since the end-line surveys were completed only
+  in 2019, they did not fully capture the results of the project implementation.
+
+  According to the Bank team (December 7, 2021), the M&E data was reliable and of good quality.
+  However, the PMUs struggled to produce consistent data for complex and technical indicators (e.g. IRI 3
+  and 6) due to ambiguities in the indicator definition and unit of measurement. Also, the Bank team stated
+  that It is likely that the agencies continue to carry out some of the M&E functions as they continue to
+  benefit from the SPCR Program and CARE Regional Project. However, the capacity of PMUs could be a
+  bottleneck for the continuation of the full M&E processes.
+
+
+
+c. M&E Utilization
+  According to the ICR (p. 22), M&E data was used to prepare IPRs and bi-annual/annual reports as well
+  as to inform the PPCR annual reporting. Also, M&E data was used for the Implementation Status and
+  Results Reports (ISRs) and to inform decision making such as the need to extend the implementation
+  period twice. Furthermore, the project closely coordinated with the Pilot Program for Climate Resilience
+  (PPCR) to assess the overall impact of climate adaption-related projects.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as category B and triggered the Bank’s safeguard policies OP/BP 4.01
+   (Environmental Assessment), OP/BP 4.04 (Natural Habitats), and OP/BP 4.36 (Forests) due to the potential
+   impact that the proposed sub-projects (such as hydrological and meteorological stations, and the DHM
+   building) might have on people and local land and water resources. According to the ICR (p. 23) the DHM
+   prepared an Environmental and Social Management Framework (ESMF), which required each sub-project
+   to undergo environmental screening and biannual compliance monitoring. Also, two audits/evaluations were
+   to be conducted in the second and last year of implementation. Furthermore, an environmental specialist
+   was to be hired to support the development and implementation of the Environmental and Social
+   Management Plans (ESMPs). The ICR (p. 23) stated that the consultant ensured that all hydromet stations
+   and building sites’ constructions complied with the ESMPs and performed the planned environmental
+   screening. Field staff at the regional offices received hazardous waste management training to ensure that
+   hazardous waste from dismantled stations was dealt with appropriately. The project also complied with
+   occupational health and safety procedures during the construction of the DHM building.
+
+   The project also triggered two social safeguard policies OP/BP 4/.12 (Involuntary Resettlement) and OP/BP
+   4.10 (Indigenous People) due to the potential adverse impacts during the construction phase of investments
+   such as loss of land or structures, loss of income or access to areas for livelihood support, and public safety
+   issues. In order to address these issues, the ESMF included a Resettlement Policy Framework, a
+
+
+
+                                                                                                    Page 13 of 16
+     Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+     NP: PPCR: Climate Hazards (P127508)
+
+
+
+   Vulnerable Community Development Framework, and a Gender Development Framework. According to the
+   ICR (p. 24) the project complied with the Bank’s social safeguard policies.
+
+   Furthermore, the project established a Grievance Redress Mechanism (GRM) which comprised information
+   officers at the PMU level and grievance redress cell at the district level. During implementation only one
+   grievance was submitted, which was addressed.
+
+
+
+
+b. Fiduciary Compliance
+   Procurement:
+
+   According to the ICR (p. 24), the PMUs had adequate systems of accountability with well-defined
+   procurement and decision-making responsibilities. Also, the PMUs developed and maintained records of
+   all procurement and contract documents. Furthermore, even though procurement audits were not
+   performed in the country, the Office of the Auditor General assessed procurement decisions during the
+   regular accounts’ audit.
+
+   However, the project faced several procurement related challenges. The PMUs lacked an effective
+   complaints management system to review and resolve complaints at the different stages of the
+   procurement cycle. To mitigate this issue the Bank and the PMU performed post reviews of technically
+   complex contracts and monitored high-value contracts on a regular basis. Also, the PMU did not publish
+   contract award details, maintenance of contract implementation documentations, and submission of
+   complete evaluation reports. Furthermore, the DHM lacked capacity to manage contracts and was
+   responsible for delays in contract awards and payment as well as initial low disbursement.
+
+   Financial Management:
+
+   According to the ICR (p. 25), the project complied with all the financing agreement’s legal covenants.
+   However, the project experienced several issues related to financial management. Interim unaudited
+   financial reports and audit reports were not always submitted on a timely manner. Also, the PMUs did not
+   address issues such as weak internal controls and delayed payments to contractors in a timely manner
+   since the project did not have a dedicated financial officer throughout the implementation period.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   NA
+
+
+
+d. Other
+   ---
+
+11. Ratings
+
+
+                                                                                                Page 14 of 16
+       Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+       NP: PPCR: Climate Hazards (P127508)
+
+
+
+                                                                                   Reason for
+Ratings                          ICR                    IEG
+                                                                                   Disagreements/Comment
+                                 Moderately            Moderately
+Outcome
+                                 Unsatisfactory        Unsatisfactory
+                                 Moderately
+Bank Performance                                       Moderately Satisfactory
+                                 Satisfactory
+Quality of M&E                   Modest                Modest
+
+Quality of ICR                   ---                   Substantial
+
+
+12. Lessons
+
+The ICR (p. 28) provided several lessons learned, which were adapted by IEG:
+
+        For highly technical and complex projects such as hydromet and early warning
+         services projects, it is critical to provide substantial technical support and to consider
+         a multi-phased long-term engagement. This project required capacity building, especially
+         in the DHM, during the initial years resulting in slow implementation progress. Also, a longer-
+         term multi-phase approach taking into account the cascading implications of the key
+         elements of the hydromet value chain would have been more appropriate.
+        Considering a SI for hydromet programs to bring together a group of key technical
+         providers to support system design, implementation planning, procurement, and
+         capacity building can be challenging. In this project, the hiring of a SI was challenging for
+         several reasons such as immaturity of the System Integrator (SI) market, lack of SIs’ local
+         presence and client engagement, lack of clients’ capacity to manage a big consultancy, and
+         the requirement for high-level approvals of the SI contract within government. An alternative
+         option for providing technical support could be developing prototypes that can be scaled up
+         gradually and leveraging innovative technologies.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provided an adequate overview of project preparation and implementation. It was internally consistent
+and concise. The ICR included lessons learned for future Bank engagement in this field. Finally, the ICR was
+sufficiently outcome driven. However, the economic analysis did not take into account that the project did not
+achieve key outcome targets, which might have resulted in an overestimation of the ENPV and benefit-cost
+ratios. Taking everything together, the quality of the ICR is rated Substantial.
+
+
+
+
+                                                                                                     Page 15 of 16
+  Independent Evaluation Group (IEG)    Implementation Completion Report (ICR) Review
+  NP: PPCR: Climate Hazards (P127508)
+
+
+
+a. Quality of ICR Rating
+   Substantial
+
+
+
+
+                                                                     Page 16 of 16
+

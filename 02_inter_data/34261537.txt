@@ -1,0 +1,1023 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     WS: Pac Reg Connect Phase III: Samoa (P128904)
+
+
+
+                                                                                Report Number: ICRR0023774
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P128904                                   WS: Pac Reg Connect Phase III: Samoa
+
+ Country                                   Practice Area(Lead)
+ Samoa                                     Digital Development
+
+
+ L/C/TF Number(s)                          Closing Date (Original)               Total Project Cost (USD)
+ IDA-D0630,TF-A2332                        31-Jul-2020                                         13,275,396.83
+
+ Bank Approval Date                        Closing Date (Actual)
+ 19-Jun-2015                               31-Dec-2022
+
+                                           IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                          16,000,000.00                                     1,500,000.00
+
+ Revised Commitment                           14,556,313.67                                       868,060.80
+
+ Actual                                       13,275,396.83                                       868,060.80
+
+
+
+
+ Prepared by               Reviewed by                   ICR Review Coordinator         Group
+ Ranga Rajan               Vibecke Dixon                 Avjeet Singh                   IEGSD (Unit 4)
+ Krishnamani
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objective (PDO) as stated in the Financing Agreement (Schedule 1, page 5) and in
+   the Project Appraisal Document (PAD, page 7): is:
+
+   " To reduce the cost and increase the availability of Internet services in Samoa ".
+
+
+
+
+                                                                                                 Page 1 of 19
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     WS: Pac Reg Connect Phase III: Samoa (P128904)
+
+
+
+   The project restructuring paper of August 16, 2016 added another objective. The PDOs as stated in the
+   restructuring paper are:
+
+   PDO 1: To reduce the cost of internet services.
+
+   PDO 2: To increase the availability of internet services.
+
+   PDO 3: Facilitate the development of initial foundations for digital government, including digital Identification
+   (ID).
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  16-Aug-2016
+
+c. Will a split evaluation be undertaken?
+   Yes
+
+d. Components
+   This project in Samoa was the third phase of the Bank-financed Pacific Regional Connectivity Program
+   Series of Projects (SOP). The first phase financed the Tonga-Fiji cable system. The second supported the
+   East Micronesia Cable System. This project had three components (PAD, pages 8 - 9).
+
+   1. Samoa - Fiji cable. The estimated cost at appraisal was US$47.64 million. The actual cost was
+   US$32.70 million. There were three sub-components.
+
+   (a) Submarine Cable System. This sub-component planned to finance installation of a submarine cable
+   system connecting Samoa (Upolu and Savai'i) with Fiji (Suva). Activities included undertaking a marine
+   survey, and financing for the cable manufacture and deployment.
+
+   (b) Landing stations and ancillary equipment. This sub-component planned to finance the costs of
+   constructing landing stations and ancillary facilities in Upolu and Savaii and onshore equipment.
+
+   (c) Additional costs. This sub-component planned to finance a 15-year indefeasible rights of use (including
+   acquiring long-term landing services in Fiji and capacity) and the operational costs of establishing the
+   Samoa Submarine Cable Company (SSCC).
+
+   2. ICT Regulatory Technical Assistance. The estimated cost at appraisal was US$1.44 million. The actual
+   cost was US$0.91 million. This component planned to finance activities aimed to enhance the regulator's
+   capacity. Activities in this sub-component: (i) developing regulation for the Information and Communication
+
+
+
+                                                                                                       Page 2 of 19
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    WS: Pac Reg Connect Phase III: Samoa (P128904)
+
+
+
+  Technology (ICT) sector (with a focus on wholesale markets); (ii) reviewing and updating the legal
+  regulatory framework; and (iii) conducting a nationwide beneficiary survey of the sector.
+
+  3. Project implementation and administration. The estimated cost at appraisal was US$0.86 million. The
+  actual cost was US$1.26 million. This sub-component planned to provide capacity building support to the
+  Ministry of Finance (MoF): Activities in this sub-component; (i) assistance for designing and operationalizing
+  Public-Private-Partnership (PPP) arrangements; (ii) costs of project coordination, fiduciary management,
+  reporting, audits, communications and outreach and monitoring and evaluation.
+
+  The following component was added with the project restructuring on August 16, 2016 (discussed below).
+
+  4. National Digital Identification (NDID). The estimated cost at appraisal was US$4.10 million. The actual
+  cost was US$1.04 million. Activities in this component; (a) activities aimed to provide a legal and regulatory
+  enabling environment; (b) advisory assistance for a Samoa Digital Government Platform; and (c)
+  establishing the NDID system and upgrading the Civil Registration (CR) system. Activities in this component
+  were to be implemented in phases: The first phase supported enactment of NDID legislation. The second
+  aimed at procuring the NDID and Civil Registration (CR) systems; The third aimed to support mass
+  enrollment and the final phase aimed to link the NDID and CR systems.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project cost. The estimated cost at appraisal was US$49.94 million. The actual cost was US$35.62 million.
+
+  Project financing. The financing was US$17.50 million (US$16.00 from the International Development
+  Association (IDA) and US$1.50 million from the Australia's Department for Foreign Affairs and Trade
+  (DFAT)). The amount disbursed was US$13.27 million (US$12.40 million from IDA and US$0.86million from
+  DFAT). US$1.97 million of financing was cancelled in view of cancellation of component four activities
+  (discussed below).
+
+  Co-financing of US$18.50 million from the Asian Development Bank (ADB) and US$8.18 million from the
+  Samoan Submarine Cable Company (SSCC) were expected at appraisal. The actual contribution from ADB
+  was US$13.35 million and US$8.09 million from SSCC. US$1.50 million from the Australian Department of
+  Foreign Affairs and Trade (DFAT) Trust Fund was expected at appraisal. The actual contribution from DFAT
+  was US$0.86 million.
+
+  Recipient contribution. The appraisal estimate was US$5.76 million. Their actual contribution was much
+  less than planned at US$0.90 million.
+
+  Dates. The project was approved on June 19, 2015, became effective on September 4, 2015 and was
+  scheduled to close on July 31, 2020. However, the project closed two and half years behind schedule on
+  December 31, 2022.
+
+  Other changes. There were four Level 2 restructurings.
+
+  The Bank supported the following changes through the first restructuring on August 16, 2019 (that is,
+  four years after project start-up and only a year before the original closing date).
+
+
+
+                                                                                                   Page 3 of 19
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     WS: Pac Reg Connect Phase III: Samoa (P128904)
+
+
+
+         The Project incurred savings of US$4,38 million. At Government request, the Bank agreed the
+          Government to utilize the savings for supporting the initial foundations of digital government.
+         A new PDO was added "facilitate the development of initial foundations for digital government,
+          including digital identification". The project scope was expanded. The results framework was revised
+          and new targets were incorporated.
+         New legal covenants associated with component four activities were added.
+         The closing date for the Bank financing for the Project was extended by 23 months from July 31,
+          2020 to June 30, 2022, for completing the ongoing activities.
+
+   Funds were reallocated between disbursement categories through the second restructuring on January
+   22, 2020.
+
+   The closing date of the DFAT grant was extended from July 31, 2020 to June 30, 2022 through the third
+   restructuring on June 4, 2020.
+
+   The main changes made through the fourth restructuring on October 26, 2022.
+
+         There were significant delays in implementing component four activities, due to factors such as: (i)
+          delays in developing the legal framework (a Financial Agreement withdrawal condition); (ii) travel
+          restrictions triggered by the COVID - 19 pandemic meant that technical assistance activities had to
+          be carried out remotely which was suboptimal, given the complex feature of the digital government
+          platform; (iii) key decisions were put on hold following the April 2021 election; and (iv) the untimely
+          demise of the Government statistician and Chief Executive Officer of the Samoa Bureau of Statistics
+          in November 2021. Two months before project closing, the Government informed the Bank that
+          passage of NDID legislation (a Financing Agreement withdrawal precondition) was unlikely before
+          closing. Therefore, the scope of component four activities was reduced drastically (with phases two
+          to four of this component cancelled).
+         The closing date was extended by six months to December 31, 2022 for completing the limited
+          scope of component four activities.
+         US$1.97 million of Bank financing was cancelled.
+
+   Split rating. An additional PDO and a new component was added with the first project restructuring.
+   However, the scope of this component was drastically reduced with the fourth project restructuring.
+   Therefore, this review is based on a split rating of objectives due to the significant reduction of the scope,
+   when 70% of the Bank financing was disbursed with the first project restructuring and the balance
+   thereafter.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country context. Samoa is a small island country in the Pacific Ocean with nine islands. Samoa's
+population is spread across of its two main islands (with Upolu accounting for over 75% of its population
+and the remainder in Savai'). Like many island states, Samoa faced challenges of isolation from major
+
+
+                                                                                                      Page 4 of 19
+                       Independent Evaluation Group (IEG)               Implementation Completion Report (ICR) Review
+                       WS: Pac Reg Connect Phase III: Samoa (P128904)
+
+
+
+markets and limited economic opportunities. The objectives of improving competitiveness and service
+delivery were important to the Government's strategy.
+
+Sector context. Samoa was one of the first regional countries to liberalize its Information and
+Communication Technology (ICT) sector. It enacted the Telecommunications Act in 2005, privatized its
+state-owned telecommunications company and established an independent regulator in 2006. Sector
+liberalization promoted competition and led to price reductions that allowed more people to access
+telephony services. At appraisal, about 73% of the population had access to 3G networks, and households
+with mobile phones increased from 34% in 2006 to 96% in 2011.
+
+Despite the reforms, internet access in Samoa lagged substantially. Although connected globally through
+the primary subsea international link, American Samoa Hawaii Cable System (ASH), the cable did not have
+sufficient bandwidth to meet the growing demand for higher bandwidth. Although prices of
+telecommunications services had fallen, affordability was a concern as prices were high relative to the
+income levels of the population. The Government and the three main operators in Samoa agreed
+unanimously in favor of a new long-term cable solution option connecting Samoa with Fiji. The option
+offered a connection to an established cable system and attractive bandwidth pricing. The government and
+the private sector agreed in principle on adopting a Public-Private-Partnership (PPP) framework for the new
+system.
+
+Regional strategy. The PDOs were well-aligned to the regional strategy outlined in - the Framework for
+Action on ICT for Development in the Pacific. This regional strategy, endorsed by ministers and regional
+agencies in 2010 - articulated the need for leveraging ICT for development, governance and sustainable
+livelihoods.
+
+Bank country and regional strategy. The PDOs were consistent with the Bank Strategy for Development
+of Samoa (SDS) for 2012-2016 and the Country Partnership Strategy (CPS) at appraisal. The SDS and the
+CPF underscored the need for supporting inclusive growth through high-quality services. The PDO was
+aligned with the Bank's Regional Partnership Framework (RPF) for 2017 - 2021 (extended to 2023) through
+the Performance and Learning Review. The Bank's regional Country Diagnostic (Pacific Islands -
+Systematic Country Diagnostic (SCD) Update: Growth and Resilience) of 2023 included a priority "to
+improve digital connectivity and services in private and public sectors". The PDOs were consistent with the
+SCD's four focus areas: (i) exploiting economic opportunities, (ii) enhancing employment opportunities, (iii)
+protecting incomes and livelihoods through laying the foundations of digital infrastructure, and (iv)
+strengthening growth through infrastructure investments.
+
+Previous Bank experience. When this Project was being prepared, the Bank had a Samoa Development
+Policy Operation (DPO) and investment projects in transport and agriculture. This project was the third
+phase of the Bank-financed Pacific Regional Connectivity Program SOPs with multi-donor funding. The
+project components were similar to those of the other phases of the project. The Project was pitched at an
+appropriate level, and its scope was expanded substantially with the savings realized during
+implementation. The overall relevance of the objective is rated as High.
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+High
+
+
+                                                                                                      Page 5 of 19
+                  Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                  WS: Pac Reg Connect Phase III: Samoa (P128904)
+
+
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+               OBJECTIVE 1
+               Objective
+               PDO 1: To reduce the cost of internet services.
+
+               Rationale
+               Theory of change. The causal links between inputs, outputs and outcomes were logical. The outputs of
+               activities such as installing a cable system linking Samoa to Fiji, constructing landing stations, and prepaying
+               for buying capacity on Southern cross cable and landing services in Fiji, together with institutional reforms
+               aimed at providing an enabling environment for private sector participation. The outputs of these activities
+               were likely to help in increasing international bandwidth capacity and encouraging private sector participation
+               in Samoa. These outputs were likely to aid in realizing the desired outcomes of lowering cost of internet
+               services. The intended outcomes were monitorable.
+
+               Outputs.
+
+               The following outputs were completed as targeted.
+
+                     1,385 kilometers (km) of fiber optic network were built, exceeding the target of 1,300 km. The Tui
+                        Samoa submarine cable was installed. The landing station was operational in February 2018, two
+                        years before the scheduled closing date, with 8.8% savings (US$4,392 of IDA funds). The high data
+                        capacity from the cable helped facilitate downstream competition, with operators extending coverage
+                        of their networks. The domestic cable segment cable to Suva'i and Upolu was installed as targeted.
+                       The Samoa Submarine Cable Company (SSCC) was established as targeted to supply capacity to
+                        telecommunications and Internet service providers under agreed telecommunication contracts and at
+                        standardized prices. The providers contributed to the share capital of the Samoa Submarine Cable
+                        Company (SSCC) and were represented on its Board.
+                       The Special Purpose Vehicle for cable construction was established. The staff of the Office of the
+                        Regulator (OoTR) were trained (no targets for this indicator).
+                       Cost modelling exercise was developed as targeted for the regulator to determine wholesale and retail
+                        prices.
+                       The PPP arrangement resulted in a 50:50 share of SSCC between three state-owned enterprises and
+                        three internet private sector internet service providers. US$8,097,426 of private capital was mobilized,
+                        achieving the target of US$8,000,000. The ICR (para 41) noted that the amount of private capital
+                        would be even higher if allowance is made for the downstream investments in telecom networks
+                        triggered by Tui Samoa.
+                       A regulatory business plan was developed for OoTR as targeted to identify the technical, economic,
+                        and legal issues, capacity needs, and resources over the next three years.
+                       The monthly peak data rate (speed of data download from Tui Samoa cable to all service providers in
+                        Samoa) decreased from 4 Megabits per second (Mbps) to 10,800 Mbps, far exceeding the target of
+                        7Mbps. This increase was due to a combination of factors including, Tui Samoa's fiber-optic
+
+
+                                                                                                                  Page 6 of 19
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   WS: Pac Reg Connect Phase III: Samoa (P128904)
+
+
+
+       technology, ongoing investments by telecom operators, and increased demand for data in the wake of
+       the COVID-19 lockdowns.
+      A consumer survey of business, government and wholesale works was completed as targeted and
+       published on the OoTR website. The OoTR used the results of the survey to formulate programs for
+       encouraging the use of the Internet in villages as targeted. A program of targeted training courses and
+       learning events for the OoTR staff was held under the project (no targets were specified for this
+       indicator).
+      A Management Information System (MIS) was procured for OoTR. However, this system was lost in
+       an office fire in April 2020. As OoTR neither had back-up copies of the software nor insurance against
+       losses, this was not a sustainable outcome.
+
+Outcomes.
+
+The outputs described above were expected to reduce the cost of internet services to households and
+businesses.
+
+      According to the data volume published on the operator’s websites that were verified by the regulator,
+       the retail price of Internet services to households decreased from US$43.00 at the baseline to
+       US$0.58 when the project closed, exceeding the target of US$19.00.
+      According to the data volume published on the operator’s websites that were verified by the regulator,
+       the retail price of Internet services to businesses decreased from US$630.00 to US$15.40, far
+       exceeding the target of US$100.00.
+      The wholesale Internet bandwidth price (S/Megabits per second (Mbps)//month) decreased from
+       US$1,500 at the baseline to US$72.00 Gigabits per second per month, exceeding the target of
+       US$400.00 Mbps/month.
+
+The activities helped in reducing the wholesale Internet bandwidth price. While it is difficult to ascertain the
+extent to which the fall in prices could be attributed to the project alone (given that there were other external
+factors at work, such as ongoing investments in the sector), it is plausible that the fall in wholesale prices did
+contribute towards the reducing of retail price of Internet services. Therefore, the efficacy of this PDO is rated
+as Substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 1 REVISION 1
+Revised Objective
+The PDO was not revised.
+
+Revised Rationale
+Outputs.
+
+The outputs described above were relevant to this objective.
+
+
+
+                                                                                                     Page 7 of 19
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   WS: Pac Reg Connect Phase III: Samoa (P128904)
+
+
+
+Outcomes.
+
+The outputs described above were expected to reduce the cost of internet services to households and
+businesses.
+
+      The retail price of Internet services to households decreased from US$43.00 at the baseline to
+       US$0.58 when the project closed, exceeding the target of US$5.00.
+      The retail price of Internet services to businesses decreased from US$630.00 to US$15.40, far
+       exceeding the revised target of US$30.00.
+      The wholesale Internet bandwidth price (S/Megabits per second (Mbps)//month) decreased from
+       US$1,500 at the baseline to US$72.00 Gigabits per second per month, exceeding the target of
+       US$400.00 Mbps/month.
+
+While it is difficult to ascertain the extent to which the fall in prices could be attributed to the project alone
+(given that there were other external factors at work such as ongoing investments in the sector), it is plausible
+that the fall in wholesale prices, did help in the reducing the retail price of Internet services. Therefore,
+efficacy of this PDO is rated as Substantial.
+
+
+
+Revised Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+PDO 2: To increase the availability of internet services.
+
+Rationale
+Theory of change. The causal links between project activities, outputs and outcomes were as described
+above. Installing a new cable system, constructing landing stations, prepayment for buying capacity on
+Southern Cross Cable and institutional reforms aimed at providing an enabling environment for private sector
+development, were expected to help in the desired outcome of increasing availability of Internet services in
+Samoa. The intended outcomes were monitorable.
+
+Outputs.
+
+The outputs described above were also relevant to this objective.
+
+Outcomes.
+
+The outputs described above were expected to increase the availability of Internet services in Samoa.
+
+      The access to Internet services (number of subscribers per 100 people) increased from 27 at the
+       baseline in January 2015 to 55 as targeted.
+
+
+
+
+                                                                                                    Page 8 of 19
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   WS: Pac Reg Connect Phase III: Samoa (P128904)
+
+
+
+
+      According to the data from telecom operators, 110,500 people (including individuals, businesses,
+       government agencies using mobile or landline services) benefitted from improved access to Internet
+       services, exceeding the target: 96,000. 60,000 of the beneficiaries were females (target 48,000).
+      The consumer survey indicated that 65,000 of the beneficiaries felt that the project investments
+       reflected their needs, exceeding the target of 36,000. The survey results however indicated that
+       telecom operators felt that SSCC's pricing of the domestic cable to Savai'i was not competitive and
+       hence they opted to use microwave backhaul.
+
+Given that the targets were realized, project activities contributed to the desired outcome of increasing the
+availability of Internet services in Samoa. Efficacy of this PDO is rated as substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2 REVISION 1
+Revised Objective
+The PDO was not revised.
+
+Revised Rationale
+Outputs.
+
+The outputs described above were also relevant to this objective.
+
+Outcomes.
+
+The outputs described above were expected to increase the availability of Internet services in Samoa.
+
+      The access to Internet services (number of subscribers per 100 people) increased from 27 at the
+       baseline in January 2015 to 55 as targeted.
+      According to the data from telecom operators, 110,500 people (including individuals, businesses,
+       government agencies using mobile or landline services) benefitted from improved access to Internet
+       services, exceeding the target: 96,000. 60,000 of the beneficiaries were females, exceeding the target
+       of 48,000.
+      The consumer survey indicated that 65,000 of the beneficiaries felt that the project investments
+       reflected their needs, exceeding the target of 36,000). The survey results however indicated that
+       telecom operators felt that SSCC's pricing of the domestic cable to Savai'i was not competitive and
+       hence they opted to use microwave backhaul.
+
+Given that the targets were realized, project activities contributed to the desired outcome of increasing the
+availability of Internet services in Samoa. Efficacy of this PDO is rated as substantial.
+
+
+
+Revised Rating
+
+                                                                                                   Page 9 of 19
+   Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+   WS: Pac Reg Connect Phase III: Samoa (P128904)
+
+
+
+Substantial
+
+
+OBJECTIVE 3
+Objective
+PDO 3: Facilitate the development of initial foundations for digital government, including ID.
+
+Rationale
+Theory of change. The PDO aimed to develop in laying the foundations for digital government. The causal
+links between the project activities, outputs and outcomes were logical. The outputs of activities such as
+enacting legislation on updating the national digital bill, training the Office of the Regulator (OoTR) MoF staff,
+and creating citizen awareness of digital Identification, were likely to help in laying the foundations of digital
+government. Assuming that the Government approves and enacts the national digital bill (a withdrawal
+condition for the Bank financing for activities in this component), these activities were likely to help in realizing
+the desired outcome.
+
+Outputs.
+
+      A National Identification Unit (NDID) was established by the Samoa Bureau of Statistics (SBS), with a
+       strategic plan as targeted.
+      An options paper on Samoa Digital Government Platform was produced. The ICR (para 30) notes that
+       this paper did not however receive consideration due to the changes in administration and
+       government priorities.
+      There were delays in enacting the legislation on NDID and the eventually the government did not
+       enact NDID legislation.
+
+The following activities were not completed as targeted.
+
+      The NDID and data protection and privacy law were not enacted as per the original target.
+      The NDID system was not integrated with new Civil Registration (CR) system as targeted.
+
+Outcomes.
+
+The outputs of the activities were expected to help in "laying the initial foundations for digital government".
+However, the outcomes were contingent on the condition that the Government enacts NDID legislation (which
+was also a withdrawal condition). Since the law was not enacted, the desired outcome was unachievable.
+
+
+
+Rating
+Negligible
+
+
+OBJECTIVE 3 REVISION 1
+Revised Objective
+The objective was not revised, However the scope of the activities was reduced drastically with the fourth
+project restructuring.
+
+                                                                                                      Page 10 of 19
+                                 Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                                 WS: Pac Reg Connect Phase III: Samoa (P128904)
+
+
+
+
+                              Revised Rationale
+                              Outputs.
+
+                                    A National Identification Unit (NDID) was established by the Samoa Bureau of Statistics (SBS), with a
+                                     strategic plan as per the revised target.
+                                    An options paper on Samoa Digital Government Platform was produced as targeted. The ICR (para
+                                     30) notes that this paper did not however receive consideration due to the changes in administration
+                                     and government priorities.
+                                    There were delays in enacting the legislation on NDID and the eventually the legislation was not
+                                     enacted. As a result, the following activities were not completed as targeted.
+
+                              Outcomes.
+
+                              The outputs of the activities were expected to help in "laying the initial foundations for digital government".
+                              However, the outcomes were contingent on the condition that the Government enacts NDID legislation (which
+                              was also a withdrawal condition for the Bank financing for this component). As the law was not enacted, the
+                              outcome was unachievable.
+
+
+
+                              Revised Rating
+                              Negligible
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            Of the three PDOs, there is evidence that the project substantially contributed to reducing the cost of internet
+                            services and increasing the availability of internet services in Samoa. However, the Government did not
+                            approve and enact the national digital law (a precondition for withdrawing Bank financing for activities in this
+                            component). Hence most of the activities were dropped. The project, hence, made no progress on laying on
+                            the PDO of laying the foundations for digital government. So the overall efficacy is substantial with moderate
+                            shortcomings.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+                  OBJR1_TBL
+
+
+
+
+                            OVERALL EFFICACY REVISION 1
+                            Overall Efficacy Revision 1 Rationale
+                            Post restructuring, there is evidence that the project substantially contributed to reducing the cost of internet
+                            services and increasing the availability of internet services in Samoa. However, for the third objective even
+
+                                                                                                                                Page 11 of 19
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      WS: Pac Reg Connect Phase III: Samoa (P128904)
+
+
+
+  though most activities were dropped, the PDO was the same, and the Government did not approve and enact
+  the national digital law (a precondition for withdrawing Bank financing for activities in this component). The
+  project, hence, made no progress on laying on the PDO of laying the foundations for digital government. So
+  the overall efficacy remains substantial with moderate shortcomings.
+
+
+
+  Overall Efficacy Revision 1 Rating
+  Substantial
+
+
+
+ 5. Efficiency
+Economic analysis. An economic analysis was conducted activities of associated with component one
+activities (Samoa-Fiji Cable). These activities accounted for 72% of actual cost. The analytical underpinnings of
+the analysis were based on the 2007 World Bank study "The effect of broadband deployment on output and
+employment". This study concluded that broadband penetration in Samoa (both fixed and mobile Internet) would
+rise from 18% to 53% within ten years due to the submarine cable and that a 10% increase in broadband
+penetration correlated with a 1.38% increase in Gross Domestic Product (GDP) in developing countries.
+
+Economic analysis at appraisal. The net economic impact was estimated at US$201.00 million. The ex-
+ante Economic Rate of Return (ERR) was 33%. The Project was cost-effective as benefits were expected to be
+reaped for the next twenty-five years at 10% discount rate. The ex-ante analysis could not be replicated due to
+the lack of data provided by the borrower and lack of documentation of the task team on the original modelling
+exercise (ICR, para 35).
+
+Economic analysis at closure. The ex-post analysis estimated the maximum economic impact on GDP to be
+around 3.86% between 2015 and 2022. This analysis calculated the aggregate consumer surplus of mobile
+connectivity. The consumer surplus was about US$8,638 between 2015 - 2022. Although small at the per capital
+level, the estimate signified positive consumer welfare impacts.
+
+About 20 months elapsed from the Project Concept Note to Board Approval at a cost of US$308,887.91 (around
+40% of the total cost of supervision) at 34 staff weeks. The ICR (para 33) notes that this cost was lower than the
+cost compared to the cost and staff-weeks of the first phase of the connectivity program (46 weeks and a cost of
+US$958,718.66. About 8.8 savings were realized from implementing component one activities. This saving was
+utilized for scaling-up project activities. The Project pooled in resources from another project, namely the
+Centralized Technical Services Support Unit (CTSSU) for implementing component three activities. CTSSU,
+established as part of the Bank's transport project in 2018, was housed in the Ministry of Finance and this unit
+provided high-level guidance and hands-on support on project implementation in the areas of fiduciary
+management and safeguards.
+
+Administrative and operational issues during implementation. Implementation was hampered by frequent
+staff turnover at the office of the regulator. This contributed to lost productivity, loss of valuable knowledge and
+increased training costs for component one activities. There were significant delays in implementing component
+four activities. Eventually, most activities in this component could not be implemented due to a combination of
+factors (explained in section two).
+
+
+
+                                                                                                      Page 12 of 19
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      WS: Pac Reg Connect Phase III: Samoa (P128904)
+
+
+
+Overall efficiency is rated as substantial, in view of the shortcomings during implementation.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                      72.00
+ Appraisal                                                  33.00
+                                                                                       Not Applicable
+                                                                                      0
+ ICR Estimate                                                0
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of the PDO to the Government and Bank strategies is High. Efficiency is rated as substantial. Of
+the three PDOs, the project significantly contributed to reducing the prices of Internet services and increasing
+the availability of Internet services. The efficacy of the first two PDOs is rated as substantial, both before and
+after the first project restructuring. However, the Project's achievements in laying the foundation for digital
+identification were rated as negligible both before and after restructuring. Thus, overall efficacy was substantial,
+with moderate shortcomings both before and after restructuring. The share of disbursements was 70% before
+restructuring and 30% after restructuring. Given that the PDO remained the same as moderately satisfactory
+both before and after restructuring based on the split evaluation approach, the overall outcome is rated as
+moderately satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+Social risk. There is moderate risk to the sustainability of development outcomes. The project activities
+aimed to reduce the Internet prices and increase access to internet services. While the project activities did
+contribute to realizing the objectives of reducing Internet prices and increasing access to Internet services,
+affordability of services still remains a key challenge in remote parts of Samoa. According to the ICR (Annex
+Seven, page 53), the cost of one Giga Byte (GB) was 4.96% was above the regional median of 3.78% and
+far above the affordability target of two percent of monthly Gross National Income (GNI) per capita set by the
+United Nations Broadband Commission for Sustainable Development.
+
+
+                                                                                                      Page 13 of 19
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      WS: Pac Reg Connect Phase III: Samoa (P128904)
+
+
+
+Exposure to natural disasters. There is moderate risk to availability of Internet services, due to Samoa's
+vulnerability to natural disasters (such as tropical cyclones, tsunamis), and to some extent, earthquakes that
+could compromise the physical security of submarine cables and land facilities.
+
+Government commitment. There is risk to the development outcomes pertaining to the activities of
+developing the foundation of digital government. including ID. There is substantial risk to the
+operationalization of the NDID system from political, governance and institutional capacity perspectives.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The Bank prepared this project based on the lessons from previous Bank-financed ICT projects like the
+  Tonga-Fiji Connectivity Project. The key lessons incorporated at design included: (i) the Project allocated
+  substantial financing for supporting regulatory interventions, as a constructive relationship between the
+  public and private sector was deemed to be important for successful development of telecommunication
+  sectors at the national and regional levels; (ii) extensive upfront consultations with private sector
+  investors; and (iii) given the limited institutional capacity, the project minimized the number of contracts
+  and allocated adequate resources for technical and management support (PAD, pages 10 - 11). The
+  design added grant financing covenants and disbursement conditions (such as a capped shareholder
+  rate of return, reference interconnection offer and nondiscriminatory open access obligations) for
+  safeguarding the interests of consumers.
+
+  The implementation arrangements made at appraisal proved to be appropriate during implementation.
+  The arrangements included: (i) The SSCC responsible for component one activities; (ii) The OoTR
+  responsible for component two activities; and (iii) The Ministry of Finance (MoF) in charge of component
+  three activities and overall project coordination (PAD, para 31).
+
+  The Bank identified several risks at appraisal including, risks with technical design, weak implementation
+  capacity, stakeholder risks and risks of PPP arrangements. Several mitigation measures were
+  incorporated. With mitigation measures, the project risk was rated as substantial. (PAD, para 36). The
+  arrangements made at appraisal for safeguards and fiduciary compliance were appropriate (Section 10).
+
+  However, there were moderate shortcomings. One, component two activities could have included
+  additional supply-side regulatory mechanisms to increase investments in middle and last-mile networks
+  that would have helped in addressing Quality of Service and affordability issues raised by end-users.
+  Two, the initial project risk assessment did not account for whether insurance of Bank-financed assets
+  was sufficient in the event of a hazard. The damage to OoTR's equipment and data assets caused by the
+  fire hampered the critical functions of the regulator and diminished its ability to contribute to the PDO. and
+  three, there were shortcomings in M&E design (discussed in section 9).
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+                                                                                                     Page 14 of 19
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     WS: Pac Reg Connect Phase III: Samoa (P128904)
+
+
+
+
+b. Quality of supervision
+ Seventeen Implementation Status Results (ISR) reports were filled (implying twice a year
+ supervisions). The Bank conducted a joint review mission with the ADB from August 20 to 24, 2018 for the
+ Mid-Term Review (MTR) and shared the Aide-memoires and other key data with ADB to ensure that the
+ Project complied with the Bank's safeguards requirements. The continuity of leadership was maintained,
+ with one change in the Task Team Leader (TTL) during the project. The supervision team aided in
+ mobilizing capacity through central support unit, such as the Centralized Technical Services Support Unit
+ (CTSSU), that provided hands-on support for the implementing agencies and the Project Management Unit
+ (PMU) staff for all Bank-financed projects. This arrangement proved to be effective in addressing fiduciary
+ issues. The supervision team aided in safeguards compliance (discussed in section ten).
+
+ There were shortcomings in supervision. One, the timeline for component four activities was overly
+ ambitious and did not have a buffer for potential delays involved in enacting legislation and/or other
+ unforeseen events. Since many of the component four activities were contingent upon the enactment of the
+ legislation , they had to be cancelled during implementation and two, the shortcomings in M&E were not
+ rectified during implementation.
+
+ Overall, Bank performance is rated as moderately satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ There were several shortcomings in M&E design. One, some PDO indicators and intermediate results
+ indicators such as, "the number of grievances registered", "impact on telecom sector of World Bank
+ technical assistance" and perception-based indicators such as "the number of beneficiaries that felt the
+ project investments reflected their needs" were clearly not aligned with project activities. Two, indicators
+ such as "Access to Internet Services" and "Retail price of Internet Services" were not fully attributable to
+ project activities, given the other external factors in the ICT sector. Three, the project could have
+ incorporated more relevant indicators for assessing the impact of the internet especially in rural areas and
+ for low-income families (such as measuring availability and affordability by income group or region).
+
+
+
+
+b. M&E Implementation
+
+
+                                                                                                   Page 15 of 19
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     WS: Pac Reg Connect Phase III: Samoa (P128904)
+
+
+
+  The Ministry of Finance (MoF) was in charge of M&E. The Office of the Regulator (OoTR) was in charge
+  of data collection (with data to be provided by the telecommunication service providers). The M&E
+  framework included a user survey to assess the project's impact on beneficiaries.
+
+  The ICR (para 56) noted that despite the agreement at appraisal, neither did the MoF did not have a M&E
+  specialist, nor the OoTR have a formal M&E process. Although the SSCC and telecommunications
+  service providers did supply data to OoTR, this was done only during supervision missions when
+  requested by the Bank team.
+
+
+
+c. M&E Utilization
+  The ICR (para 57) notes that there was limited use of results framework indicators outside of the project,
+  as there were no formal M&E processes within the implementing agencies.
+
+  Overall M&E is rated as Modest, because of the shortcomings in M&E design, implementation and
+  utilization. However, despite the shortcomings in the M&S system, there was sufficient evidence in the
+  results framework for a moderately satisfactory rating for Efficacy and Overall Outcome.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   This project was classified as a Category B (partial assessment) project under the World Bank safeguard
+   policies. Four safeguard policies were triggered at appraisal: Environmental Assessment (OP/BP 4.01);
+   Natural Habitats (OP/BP 4.04); Physical Cultural Resources (OP/BP 4.11); and Involuntary Resettlement
+   (OP/BP 4.12). (PAD, page vi).
+
+   Environmental Safeguards. The Project was not expected to have major environmental impacts. An
+   Environmental and Social Impact Assessment ESIA was prepared at appraisal and an Environment and
+   Social Management Plan (ESMP) was publicly disclosed (PAD, para 68). The Project's compliance with
+   environmental safeguards was deemed to be satisfactory, with no adverse environmental impacts during
+   marine operations or landing (ICR, para 59). There were no issues with the safeguards on Natural Habitats
+   and Physical Cultural Resources.
+
+   Involuntary Resettlement. The PAD (para 62) noted that two of the three landing sites were at existing
+   facilities. New infrastructure under the project included installing ducts along public roads to connect the
+   cable to landing sites and cable stations. A Resettlement Policy Framework was prepared and publicly
+   disclosed at appraisal to address involuntary resettlement issues (PAD, para 62). The Project's compliance
+   with social safeguards was rated as Satisfactory during implementation (ICR, para 62). The Project's
+   Grievance Redress Mechanism (GRM) received a complaint from a member of the public regarding lack of
+
+
+
+
+                                                                                                   Page 16 of 19
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     WS: Pac Reg Connect Phase III: Samoa (P128904)
+
+
+
+   proper permits and risks of 'toxicity" of the undersea cable. The implementing agency responded to the
+   complaint.
+
+
+
+
+b. Fiduciary Compliance
+   Financial management. The Bank conducted a financial assessment at appraisal. The Government had
+   implemented previous Bank-financed projects, The assessment concluded that the financial management
+   arrangements of the implementing agencies were satisfactory (PAD, para 42).
+
+   The financial management was rated as moderately satisfactory (ICR, para 60). There were issues with
+   poor contract management and delays in submission of interim financial reports. There was an ineligible
+   expenditure of US$53.52 during implementation. This expenditure was to be refunded when the project
+   closed. The team clarified that the amount is yet to be refunded to date. The team clarified that the audits
+   were unqualified.
+
+   Procurement management. The Bank conducted an assessment of the procurement arrangements at
+   appraisal. The assessment concluded that the procurement risk was high due to the possibility of delays
+   arising from the different rules of the co-financing partners and the uncertainties relating to the yet-to-be
+   established SSCC's arrangements for procuring a new submarine cable system (PAD, para 42).
+
+   The procurement management was rated as moderately satisfactory overall (ICR, para 61). There were
+   delays in recruiting a project manager within MoF to oversee project implementation within three months
+   after project effectiveness as per the legal covenant. The ICR does not report of any misprocurement.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   There were no unintended impacts.
+
+
+
+d. Other
+   Not applicable.
+
+
+
+11. Ratings
+                                                                                  Reason for
+Ratings                          ICR                    IEG
+                                                                                  Disagreements/Comment
+                                 Moderately
+Outcome                                                Moderately Satisfactory
+                                 Satisfactory
+                                                                                  There were moderate
+Bank Performance                 Satisfactory          Moderately Satisfactory    shortcomings both at Quality-at-
+                                                                                  Entry and during supervision.
+
+                                                                                                     Page 17 of 19
+       Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+       WS: Pac Reg Connect Phase III: Samoa (P128904)
+
+
+
+                                                                               Despite the shortcomings in the
+                                                                               M&E system, there was
+                                                                               sufficient evidence in the results
+Quality of M&E                  Negligible           Modest
+                                                                               framework for a moderately
+                                                                               satisfactory rating for Efficacy
+                                                                               and Overall Outcome.
+Quality of ICR                  ---                  Substantial
+
+
+12. Lessons
+
+The ICR draws the following main lessons from the experience of implementing this project, with
+some adaptation of language.
+
+1. A Series of Projects can be an efficient and effective approach to carrying out projects in a
+region. This approach enabled the Bank team to align the Project to a long-term regional goal and
+build partnerships with other development partners. This approach can arguably contribute to cost
+savings. For instance, the Bank team updated the financial, economic, and technical analysis of the
+previous Bank-financed phases, and this helped in cutting preparation time and cost. Based on the
+experiences from other phases of the project, the preparation team also understood the potential
+risks of collaborating with the private sector and used grant covenants and disbursement conditions
+to ensure open access and nondiscriminatory pricing of new international bandwidth.
+
+2. It would be useful to have insurance coverage for the activities procured under a project.
+Although a Management Information System (MIS) was procured under this project, the system was
+lost in an office fire in April 2020. As there were no back-up copies of the software or insurance
+against losses and failure, this was not a sustainable outcome. This is particularly important,
+especially for costly digital infrastructure.
+
+3. A careful consideration of the time required for enacting legislation can help in reducing
+delays during implementation. The lesson from this project is that, especially on a pivotal bill such
+as the National Digital Identification (NDID) that has far-reaching consequences such as data
+protection, privacy, and inclusion, it would be useful to allocate additional time for thorough
+deliberation and the drafting process for diverse perspectives to be heard and incorporated into the
+drafting of the bill.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is clear and well-written. The theory of change provided in the text clearly articulates the clear and
+logical links between project activities, outputs, and the desired outcomes. The ICR candidly acknowledges the
+
+
+                                                                                                  Page 18 of 19
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     WS: Pac Reg Connect Phase III: Samoa (P128904)
+
+
+
+shortcomings in monitoring and evaluation. The evidence provided in the text is adequate for assessing project
+performance. The information provided in Annex Seven provides useful information to the reader for assessing
+project outcomes. The ICR draws reasonably good lessons from the experience of implementing this project.
+
+There was one key shortcoming. Given that the project activities for component four activities were drastically
+reduced with the second project restructurings, the ICR should have done a split rating of objectives.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                   Page 19 of 19
+

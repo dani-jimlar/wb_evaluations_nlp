@@ -1,0 +1,987 @@
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     The Power Recovery Project (P144029)
+
+
+
+                                                                                     Report Number: ICRR0022879
+
+1. Project Data
+
+
+
+ Project ID                                   Project Name
+ P144029                                      The Power Recovery Project
+
+ Country                                      Practice Area(Lead)
+ Albania                                      Energy & Extractives
+
+
+ L/C/TF Number(s)                            Closing Date (Original)                  Total Project Cost (USD)
+ IBRD-84290                                  30-Nov-2019                                             84,481,687.62
+
+ Bank Approval Date                          Closing Date (Actual)
+ 29-Sep-2014                                 30-Jun-2021
+
+                                             IBRD/IDA (USD)                                        Grants (USD)
+
+ Original Commitment                            150,000,000.00                                                  0.00
+
+ Revised Commitment                             126,380,800.62                                                  0.00
+
+ Actual                                           84,512,506.98                                                 0.00
+
+
+
+
+ Prepared by                  Reviewed by                  ICR Review Coordinator            Group
+ Joel J. Maweni               Fernando Manibog             Ramachandra Jammi                 IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The objective of the project is to improve reliability of power supply and financial viability of the power sector
+   (Loan Agreement dated November 3, 2014, Schedule 1, page 6).
+
+   The project development objective (PDO) is parsed into two parts for the purpose of evaluation as follows:
+
+   Objective 1: To improve reliability of power supply.
+
+
+                                                                                                       Page 1 of 18
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     The Power Recovery Project (P144029)
+
+
+
+   Objective 2: To improve financial viability of the power sector.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component 1: Short Term Complementary Power Import Support: Estimated cost at appraisal
+   US$30.00 million, Actual cost US$25.55 million)
+
+   The purpose of this component was to support Korporata Elektroenergjetike Shqiptare (Albanian Power
+   Corporation - KESh) with the financing of complementary power imports to meet their short-term power
+   supply obligations and to enable the build-up of adequate reservoir levels at the Drin cascade over the
+   period of the project. This activity was to be complemented by analytical work under component 4 to
+   develop a robust risk management strategy for the mitigation of weather-related volatility.
+
+   Component 2: Upgrading Distribution Infrastructure: (Estimated cost at appraisal – US$138.30
+   million, Actual cost US$ 43.53 million)
+
+   The objective of this component was to support the Government of Albania (GoA) and its power distribution
+   company, Operatori i Shperndarjes se EnergjiseElektrike (OShEE) in implementing their plan to reduce
+   distribution losses, improve cash collection and reliability of power supply. The four subcomponents were:
+
+        1. Upgrading the sub-transmission distribution system to upgrade system reliability in Tirana area by
+          reinforcing two existing 35/MV substations (SSs) to 110/MV SSs with new 110 kV lines.
+        2. Targeted investments in the medium voltage grid (6-20kV) comprising MV cable lines, LV ABC lines,
+           LV concentric cable and concrete poles, MV metal clad switchgears, and MV/LV distribution cabins
+           with associated LV metering facilities.
+        3. Metering systems in the LV network consisted of the purchase and installation of about 230,000
+           single and three-phase meters; low voltage coaxial cables; ABC cables and accessories; and three-
+           phase regular conductor cables.
+        4. Upgrading the billing and collection system and provision of any required training for its
+           implementation.
+
+   Component 3: Transmission Meter/Data Center Upgrade: (Estimated cost at appraisal – US$26.00
+   million, Actual cost to completion – US$11.74 million)
+
+   This component was to support the move of medium voltage commercial customers into the deregulated
+   market, which was the next step after the earlier move of industrial customers in 2011. The two
+   subcomponents included:
+
+   Component 1: Short Term Complementary Power Import Support: Estimated cost at appraisal
+   US$30.00 million, Actual cost US$25.55 million)
+
+
+                                                                                                    Page 2 of 18
+  Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+  The Power Recovery Project (P144029)
+
+
+
+The purpose of this component was to support Korporata Elektroenergjetike Shqiptare (Albanian Power
+Corporation - KESh) with the financing of complementary power imports to meet their short-term power
+supply obligations and to enable the build-up of adequate reservoir levels at the Drin cascade over the
+period of the project. This activity was to be complemented by analytical work under component 4 to
+develop a robust risk management strategy for the mitigation of weather-related volatility.
+
+Component 2: Upgrading Distribution Infrastructure: (Estimated cost at appraisal – US$138.30
+million, Actual cost US$ 43.53 million)
+
+The objective of this component was to support the Government of Albania (GoA) and its power distribution
+company, Operatori i Shperndarjes se EnergjiseElektrike (OShEE) in implementing their plan to reduce
+distribution losses, improve cash collection and reliability of power supply. The four subcomponents were:
+
+    1. Upgrading the sub-transmission distribution system to upgrade system reliability in Tirana area by
+       reinforcing two existing 35/MV substations (SSs) to 110/MV SSs with new 110 kV lines.
+    2. Targeted investments in the medium voltage grid (6-20kV) comprising MV cable lines, LV ABC lines,
+       LV concentric cable and concrete poles, MV metal clad switchgears, and MV/LV distribution cabins
+       with associated LV metering facilities.
+    3. Metering systems in the LV network consisted of the purchase and installation of about 230,000
+       single and three-phase meters; low voltage coaxial cables; ABC cables and accessories; and three-
+       phase regular conductor cables.
+    4. Upgrading the billing and collection system and provision of any required training for its
+       implementation.
+
+Component 3: Transmission Meter/Data Center Upgrade: (Estimated cost at appraisal – US$26.00
+million, Actual cost to completion – US$11.74 million)
+
+This component was to support the move of medium voltage commercial customers into the deregulated
+market, which was the next step after the earlier move of industrial customers in 2011. The two
+subcomponents included:
+
+    1. (Operatori i Sistemit të Transmetimit (Transmission System Operator- OST) investments in meters
+       for MV customers, MV feeders, IPPs and data center: The project will finance power meters and
+       upgrade a data center at OST.
+    2. IT systems and rules: Under this subcomponent, the project will finance supplying and installing an
+       IT system for the data center and providing technical assistance for developing procedures for the
+       establishment of a market platform for IPP’s and eligible customers, among others.
+
+Component 4: Supporting Power Sector Reforms and Project Implementation: (Estimated cost at
+appraisal – US$7 million, Actual cost to completion – US$3.38 million)
+
+This component comprised:
+
+    1. The following sector reforms to facilitate the recovery of the power sector and improve the
+       performance of the distribution company: (i) revision of the power market model to introduce more
+       competition in the sector and reduce the Borrower’s power supply obligation as per the relevant EU
+       directives; (ii) revision of the renewable energy law to ensure sustainability of independent power
+       producers; (iii) introduction of a new cost-recovery tariff methodology to reflect updates in the power
+
+                                                                                                 Page 3 of 18
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     The Power Recovery Project (P144029)
+
+
+
+          market model; iv) updating of the Borrower’s current energy strategy; and (v) design implementation
+          and monitoring of social outreach programs targeting electricity consumers and key stakeholders.
+       2. Project implementation support: entailing establishment of a Project Management Unit, within the
+          Ministry of Energy and Industry (MoEI) through recruitment of relevant staff and provision of goods,
+          operating costs, and technical advisory services.
+       3. Management advisory services to support the implementation and monitoring of OSHEE’s
+          Performance Management Program, including among others, loss reduction and collections
+          increase for the period of the project.
+       4. Risk management mechanism for weather volatility involving the carrying out of a risk management
+          study to mitigate the impacts of weather volatility.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost and Financing: Total project cost at completion was US$84.20million (ICR, Annex 3, p. 42)
+   compared to US$201.3 million estimated at appraisal (PAD, Table 1, p. 9). The financing plan at appraisal
+   envisaged that US$150 million of the total cost would be financed by the World Bank Loan with the
+   Borrower’s contribution covering the balance of US$ 51.3 million (PAD, Datasheet, p. ii). However, the
+   actual total project cost was fully financed by the World Bank Loan and there was no contribution from the
+   Borrower. Further, the ICR shows a total project cost of US$84.2 million compared to US$84.5 million
+   system derived cost according to the datasheet, a discrepancy of US$0.3 million.
+
+   Dates: The project was approved on September 29, 2014, and it became effective on January 30, 2015.
+   The project was restructured twice. The first restructuring was approved on November 26, 2019, to extend
+   the Loan closing date for 12 months to November 30, 2020. The objective of the loan closing date extension
+   was to implement a partial cancellation of savings of EUR 17.6 million under the IBRD Loan arising from
+   restructuring of the project, allow adequate time for completion of some activities under components 2 and
+   3, and to update the project’s results framework and to revise the legal covenant related to OSHEE’s
+   escrow account. The second restructuring was retroactively approved on December 20, 2020, to extend the
+   closing date by seven months to June 30, 2021, to allow enough time for completion of some activities
+   whose implementation had been disrupted due to the coronavirus pandemic. The delay in extending
+   the closing date was caused by lengthy internal procedures within the Government of Albania (GoA)
+   and processing delays due to pandemic disruptions. The project closed on June 30, 2021,19 months after
+   the original closing date of November 30, 2019.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Alignment with The World Bank strategies: The Project was prepared and implemented under two World
+Bank strategies for Albania – the Country Partnership Strategy (CPS) for FY2011-FY2014 (Report No.
+Report No. 54188–AL), and the Country Partnership Framework (CPF) for FY2015-FY2019 (Report No.
+98254). The FY2015-19 CPF was extended through FY2019/20 under the Performance Learning Review
+of 2018 (Report No. 131038-AL). The CPF remained in effect at the closing date of the project because
+preparation of a new CPF in 2020 was delayed by Covid-19 and the Albanian general elections in 2021.The
+
+                                                                                                  Page 4 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     The Power Recovery Project (P144029)
+
+
+
+project sought to address the key developmental issues of unreliability of power supply and the fiscal
+burden caused by the sector’s poor financial performance. The CPS had highlighted that Albanian firms of
+all sizes regularly cited the unreliability and poor quality of electricity supply as being among the most
+critical business constraints (PAD, p.5). Several factors contributed to the unreliability of power supply,
+including, fluctuations in hydropower (the main source of power for Albania) due to hydrological variations,
+tight supply capacity in the regional countries, transmission capacity constraints and inefficiencies at the
+distribution level – especially high distribution losses and poor rates of revenue collection.
+
+The World Bank’s strategy for Albania at project closure (CPF FY2015-FY2019) was organized around
+three strategic objectives of: (i) restoring macroeconomic balances, (ii) creating the conditions for
+accelerated private sector growth, and (iii) strengthening public sector management and service delivery.
+The project was strongly aligned with the CPF strategic objective of creating conditions for private sector
+growth and, particularly with the sub-objective of supporting enhanced energy security, efficiency, and
+supply.
+
+The project addressed these issues by: (i) financing of short-term imports, thus helping KESh and
+KESh/WPS (the generation company and its wholesale power supplier agency) to meet their supply
+obligations to the regulated market while also diversifying sources of supply, and allowing for water
+reservoirs to fill up; (ii) supporting investments in the distribution system to improve system reliability,
+reduce losses, and improve billing and revenue collection; and (iii) financing meters for MV customers, MV
+feeders and IPPs and increasing the capacity of the transmission data center to support deregulation of MV
+commercial customers which would reduce KESh’s power supply obligations and the fiscal burden through
+GoA guarantees.
+
+Country context: The CPS was aligned the GoA priorities as expressed in the National Strategy for
+Development and Integration for 2007–13 (NSDI 1) and National Strategy for Development and Integration
+for 2015–20 (NSDI2). NDSI1 focused on two areas: (i) consolidation of the democratic system notably
+through electoral, judicial and property rights reform; and (ii) achievement of rapid and sustainable
+economic, human, and social development in line with EU criteria. Similarly, a key goal under NSDI 2 was
+to enhance competitiveness in key growth sectors by, among other measures, addressing infrastructure
+constraints, including energy. The CPS and CPF were well aligned with the NSDI1 and NSDI2 and the
+PDOs were aligned with both the World Bank’s and the GoA’s strategies for the sector.
+
+The PDOs were achievable, and outcome oriented with clear measurable indicators regarding reduction in
+system losses and improvement in reliability in the project area and distribution company level
+improvements in revenue collection and arrears indicators. The design of the project was appropriate for
+the sector’s implementation capacity with the support of management advisory services in some areas such
+as on implementation of OSHEE’s performance management plan and development of a risk management
+strategy for mitigating the impact of weather volatility on the sector.
+
+The PDO is rated High for relevance because it was aligned with both the World Bank’s strategy for
+Albania (CPF FY2015-19) and the Government NSDI 2 (FY2015-20) in seeking to relieve energy
+constraints to the competitiveness of key growth sectors. As further evidence of its high relevance, the
+PDO focused on improving reliability of electricity supply which has been regularly identified by Albanian
+firms as a key business constraint.
+
+
+
+
+                                                                                                    Page 5 of 18
+                                      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+                                      The Power Recovery Project (P144029)
+
+
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To improve reliability of power supply
+
+                             Rationale
+                             THEORY OF CHANGE
+
+                              The ICR constructed a theory of change (TOC) based on the project design described in the PAD (page 8 of
+                             the ICR). The TOC was that upgrading the sub-transmission distribution system in Tirana area – an activity
+                             under the Upgrading Distribution Infrastructure component would improve the reliability of power supply.
+
+                             The expected outcome was improved reliability resulting from the improved network in Tirana. The indicator
+                             of reliability was revised during project restructuring in November 2019 from reliability of MV level network in
+                             the Tirana area (“percentage overload in the project area”) to “added capacity of medium-voltage network
+                             level at Tirana area (Mega Volt Amp [MVA]). The target was accordingly revised from 70 percent overload in
+                             the project area to 80 Mega Volt Ampere (MVA) of distribution capacity added in the MV network in Tirana.
+                             The reason for the change in indicator was to measure the impact of the investment under the project rather
+                             than for the Tirana area which the original indicator was doing. The shortcomings of the original indicator
+                             were that it was measuring Tirana system impacts of the project which would also be affected by other
+                             activities outside the project. The revised indicator was also limited in that it measured outputs – added
+                             capacity instead of outcomes and in addition focused on the impact of one investment and excluding the
+                             impact of the upgrade of the distribution system (installation of transformers cabins and cables in
+                             several places) which was implemented, the extension of the supervisory control and data acquisition
+                             (SCADA) system to twelve substations and the installation of communication links to OST’s control center
+                             which was completed in immediately after loan closure in July 2021. Further, the substantial reduction in
+                             system losses contributed to improved reliability of power supply through increased availability of energy to
+                             consumers.
+
+                             OUTPUTS
+
+                             The outputs from upgrading of the electricity distribution infrastructure in Tirana were as follows:
+
+                                       1. Construction of the 80 MVA Kombinat distribution substation was completed.
+                                       2. Distribution transformer cabins and cables were installed in Tirana and several other locations (Fushe
+                                         Kruje, Durres, Kavaje, Lushnje, Fier, and Vlore).
+                                       3. OShEE’s distribution SCADA was extended to 12 substations and communication links with OST’s
+                                         control center were established.
+
+                                                                                                                                    Page 6 of 18
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   The Power Recovery Project (P144029)
+
+
+
+
+    4. Three (3) existing substations were rehabilitated in Tirana (Traktora, Farka, Kashari).
+
+OUTCOMES
+
+The outcome indicator of “added capacity of medium-voltage network level at Tirana area" was achieved with
+the construction of the Kombinat 80 MVA substation.
+
+ The project’s main contribution is the significant improvement in OShEE’s system-wide reliability indicators–
+system average interruption duration index (SAIDI) and system average interruption frequency index (SAIFI).
+The ICR cited OShEE’s business plan which stated that SAIDI and SAIFI had decreased from 122.00 hours
+to 58.79 hours and 49.10 to 29.99, respectively, between 2015 and 2019. In Tirana, the main load center,
+SAIFI and SAIDI reduced from 43 to 17 and 84 hours to 27 hours, respectively, between 2015 and 2020.
+
+Assessed against the outcome indicator and target specified in the project design, the objective of improving
+reliability of power supply was achieved. Despite the limitations of the indicator as described above the
+improvements in system SAIDI and SAIFI indicators (and for the Tirana area) to which the project contributed
+and the substantial reduction in system losses provides credible evidence that this objective was
+achieved. The objective of improving reliability of power supply is accordingly rated Substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+To improve financial viability of the power sector
+
+Rationale
+THEORY of CHANGE
+
+The theory of change was that improving financial viability of the sector would result from implementing
+measures to reduce system losses, improve revenue generation and collection and reduce huge
+
+intercompany arrears. At project appraisal the sector was in a precarious financial condition with large,
+accumulated deficits amounting to US$550 million in 2015 which were expected increase to US$ 800 million
+in 2018. A key factor which contributed to the sector’s dire financial performance was inefficiencies in the
+distribution sector, especially staggering system losses of about 45% in 2014 and a revenue collection rate of
+only 78 percent. In 2013 OSHEE had just been returned to Government control after a privatization attempt in
+2009 had failed to address the sector’s financial problems which had deepened with a deterioration in system
+losses and collection rates, and the expected investments (about US$150 million) had not materialized. The
+TOC envisaged that reductions in system losses and improvements in collection rates and intercompany
+arears would result from implementation of the following activities:
+
+    1. Upgrading of the sub-transmission distribution system in the Tirana area, installation of metering
+       systems in the LV network, and upgrading billing and collection systems. In addition, the improved
+
+
+                                                                                                 Page 7 of 18
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   The Power Recovery Project (P144029)
+
+
+
+       network would result in increased reliability of power supply and, therefore, more energy available for
+       sale and enhanced revenue generation for OShEE.
+    2. The ICR also linked technical assistance provided under component 4 on a metering strategy and on
+       developing a new cost recovery methodology to the objective of improving the sector’s financial
+       viability, the first through reduction of system losses and the latter through more efficient pricing of
+       electricity.
+
+OUTPUTS
+
+The outputs expected from implementation of the above activities were as follows:
+
+    1. An upgraded sub transmission distribution network in Tirana, including the 80 Mega Volt-Amperes
+         (MVA) Kombinat substation. Upgrading of the distribution feeder lines and associated infrastructure
+         was partial with about 44 distribution feeder lines upgraded instead of the expected 55 lines leaving 11
+         feeder lines without upgraded substations. The distribution SCADA was extended to 12 distribution
+         substations and communication links with OST’s control center established by July 2021. Overall, this
+         output target was partially achieved.
+    2.   Installation of meters installed in the LV network: About 230,000 single and three-phase meters were
+         installed in the LV network by OShEE.
+    3.   About 2,338 additional meters were to be installed by OST for metering of MV customers, MV feeders,
+         IPPs and for upgrading the data center. The actual number of meters installed was 1,704. This output
+         was partially achieved.
+    4.   An upgraded billing and collection system for OShEE: The distribution company’s billing and metering
+         system was to be improved to reduce non-technical losses and improve revenue generation and
+         collection. The system was satisfactorily upgraded, and target output was achieved.
+    5.   A metering strategy and a new methodology for cost recovery electricity prices. These outputs, which
+         were to be produced through technical assistance support under the project, were completed outside
+         the project with the support of other donors. The funding allocated under the project was canceled
+         during the first restructuring on November 26, 2019. These outputs were achieved although not under
+         the project.
+
+OUTCOMES
+
+The outcomes that signal the achievement of financial viability improvements were:
+
+    1. The target was a substantial reduction in system losses from 45 percent in 2014 to 23 percent at
+       project close. The original end of project target of 14 percent was revised during the Project
+       Restructuring approved in November 2019 because the scope of MV balancing meters which were to
+       contribute to loss reduction could not be procured in time. Nonetheless, the revised target
+       represented a substantial reduction in losses. The reduction in distribution losses would translate to
+       significant financial viability benefits by increasing revenue from additional sales to customers or
+       reducing power generation/import costs to meet a given level of electricity demand Upgrading of sub-
+       transmission systems, metering investments in the MV and LV networks and upgrading of the billing
+       and collection systems contributed to a reduction in systems losses from 45 percent to 22,6 percent -
+       slightly exceeding the target of 23 percent. Achieved.
+    2. The targeted improvement in the billing and collection system was to increase collection rates from 78
+       percent in 2014 to 93 percent in June 2021. The billing and collection system was installed and helped
+
+
+                                                                                                   Page 8 of 18
+                                Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                                The Power Recovery Project (P144029)
+
+
+
+                                    OSHEE to improve its collection rate to 95.3 percent, thus exceeding the targeted rate of 93 percent.
+                                    Achieved.
+                                 3. The level of intercompany arrears was 1,290 days (November 2020) slightly above the baseline of
+                                    1200 days and substantially above the target of 550 days. The intercompany arrears remained
+                                    elevated because of several reasons: the agreement for OSHEE’s arrears to be paid over 10 years
+                                    with the support of the European Bank for Reconstruction and Development (EBRD), disputes among
+                                    the utilities regarding balancing costs which are being handled by the courts, and lack of liquidity in the
+                                    sector due to the high costs of imports in recent years. Not Achieved.
+
+                            The outcome indicator on intercompany arrears was not tied to specific activities but would be an outcome of
+                            a general improvement in the finances of the electricity distribution company which is responsible for the bulk
+                            of the arrears to OST and KESH. However, it became clear that the indicator would not be met when the
+                            EBRD arrangements to finance KESH’s short term loans was reached, including the agreement for OSHEE’s
+                            arrears to be paid over a ten-year period. The outcome indicator on intercompany arrears should have been
+                            revised.
+
+                            With two out three indicator targets fully achieved and one not achieved, the efficacy rating for the objective of
+                            improved financial viability is Modest.
+
+
+
+                            Rating
+                            Modest
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project fully achieved the objective of improving reliability of power supply (Objective 1), but the objective
+                            of improving financial viability (Objective 2) was only partially met because one of the three outcome
+                            targets was not achieved. The efficacy rating for the Objective 1 is rated Substantial while that of Objective 2
+                            is rated Modest. Although the indicator for Objective 1 was not adequate to fully capture the impact of the
+                            project’s activities, there was credible evidence on loss reduction, based on SAIDI and SAIFI data, that the
+                            project had a significant impact on reliability of electricity supply.
+
+                            The overall efficacy rating for the project is Substantial because of a strong Substantial rating for Objective
+                            1.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+          5. Efficiency
+
+                                                                                                                                 Page 9 of 18
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      The Power Recovery Project (P144029)
+
+
+
+At appraisal the project’s EIRR was estimated at 12.1 percent compared to the ICR’s revised estimate of 6.4
+percent. Table 1 provides the assumptions used to estimate the EIRR at appraisal and the paragraphs below
+explain the reasons for the significant difference between the ex-ante and ex post EIRR. Estimated EIRR under
+different assumptions for valuing benefits from unserved energy and assuming successful implementation of the
+GoA’s current loss reduction plan reduction in losses are provided below.
+
+Table 1: EIRR assumption at appraisal
+
+Costs
+Capital costs          Total project costs – US$201.3 million
+O&M                    5 percent of capital costs
+Discount rate          8 percent
+                           1. Reduction in technical losses valued at the cost of power purchase.
+                           2. Reduction in consumption due to decreased non-technical losses valued at the
+                               cost of power purchase.
+                           3. Improved power reliability (reflecting reduction in unserved energy) valued at
+                               the cost difference between alternative diesel-based standby power generation
+Benefits                       and the average retail tariff.
+                           4. Import benefit to compensate for the loss of power due to the planned
+                               rehabilitation of KESH turbines was valued at the difference between the cost
+                               of standby power generation and the average retail tariff. The benefit was
+                               assumed to occur in the first year of project implementation.
+
+
+
+
+Re-estimated EIRR at completion (Case 1). The calculation uses the same methodology as at appraisal
+except that: (a) the calculations are based on actual data and results; and (b) the additional up-front benefit
+assumed at appraisal (item 4 above) is excluded since it did not materialize due to a change in
+GoA priorities. On this basis, the post-completion estimates are an EIRR of 6.4 percent and a negative ENPV
+of Lek 1,094 million (US$10 million).
+
+The comparable figures from the appraisal analysis (i.e., Without the import benefit) are EIRR 8.1 percent and a
+small positive ENPV at the same discount rate of 8 percent. The difference between the EIRR with both
+calculations excluding the import benefit, is due to the actual lower benefits than anticipated despite a significant
+cost saving.
+
+The difference between the estimated EIRR at appraisal (12.1 percent vs 6.4 percent) is accounted for the by
+two factors: (a) the upfront import benefit included at appraisal but excluded at post completion; and (b) the
+lower than projected benefits of technical and non-technical losses and unserved energy in the EIRR estimation
+at completion.
+
+The ICR includes a Case 2 calculation which differs from case 1 in the valuations of unserved energy at the
+average retail tariff instead of the differential between the average retail tariff and the cost of stand by
+generation. This results in an ERR of 12.2 percent. Based on the GoA’s plan to reduce losses further to 16.5
+percent by 2022 the ICR also estimates the project’s EIRR assuming the target 16.5 percent is achieved by
+
+
+
+                                                                                                       Page 10 of 18
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      The Power Recovery Project (P144029)
+
+
+
+2025 and 2029 respectively. The analyses show EIRRs of 22.2 percent and 20.5 percent for 2025 and 2029
+respectively.
+
+Administrative efficiency: The project incurred completion delays due to procurement and technical difficulties
+especially regarding procurement of smart meters. Additional delays arose from the covid pandemic. The ICR
+notes that the project had cost savings of about 17 percent, but this is also because several activities were
+dropped. In any case the cost impacts of delays are captured in the economic analysis. Nonetheless the
+completion delay of about 19 months would have had cost implications on the administrative budgets of the
+participating companies, government agencies and on the World Bank’s supervision budget suggesting less
+than fully cost-effective project implementation. Given low rate of the EIRR of 6.4 percent using the same
+methodology as at appraisal compared to the revised appraisal EIRR of 8.1 percent and the modest
+administrative efficiency, the overall efficiency rating is Modest.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                     100.00
+ Appraisal                                                 12.10
+                                                                                      Not Applicable
+                                                                                     84.00
+ ICR Estimate                                              6.40
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The PDO is rated High for relevance because it was aligned with both the World Bank’s strategy for Albania
+(CPF FY2015-19) and the Government NSDI 2 (FY2015-20) in seeking to relieve energy constraints to the
+competitiveness of key growth sectors. Further, the PDOs focus on improving reliability of electricity supply
+which has been regularly identified by Albanian firms as a key business constraint.
+
+The overall efficacy rating for the project is Substantial because of a strong Substantial rating for Objective 1–
+improve reliability of power supply and a Modest rating for Objective 2 – improve financial viability of the power
+sector.
+
+Efficiency is rated Modest because of a reduced ex post EIRR of 6.4 percent compared to the appraisal EIRR
+(adjusted for import benefit as discussed above) of 8.1 percent.
+
+With a PDO relevance rating of High, a Substantial rating for efficacy and a Modest rating for efficiency the
+Outcome rating is Moderately Satisfactory.
+
+
+                                                                                                    Page 11 of 18
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      The Power Recovery Project (P144029)
+
+
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+The project helped the sector to recover from financial crisis and to build a firm foundation for further
+improvements in energy security and financial sustainability. The distribution sector has stronger indicators
+for reliability of power supply, revenue collection and distribution losses – the latter although still high are
+continuing to decline further as the sector completes outstanding measures with its own resources, such as
+installing MV balancing meters that could not be implemented under the project.
+
+Albania will continue to be vulnerable to the impact of variations in weather patterns on domestic hydropower
+generation and high cost of imports. Developing a risk mitigation strategy will continue to be an important
+priority for managing this risk.
+
+The important reform agenda that was initially part of the project and subsequently funded by donors is
+critical for long term sustainability of the sector and will be important for Albania to continue
+implementing. These activities include the Albania power exchange, implementing a new energy strategy
+and cost recovery methodology for an evolving competitive power market.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  Overall, the project was well designed but had a few significant shortcomings. The timing of the project
+  was very important at a juncture when the country needed support to address the operational and
+  financial issues related to the failure of the distribution sector privatization. Thus, the project objectives
+  were appropriate given the urgent need to address the twin issues of reliability of electricity supply and
+  the financial crisis in the sector. The physical components were well selected to address infrastructure
+  problems, but it is not clear that Investment Project Financing was the most appropriate instrument for
+  addressing key reforms such as the power market model. A single sector Development Policy Loan
+  series may have been a better instrument to drive such far reaching reforms, which in addition needed
+  coordination among different agencies, especially the Ministry of Finance. Alternatively, a phased
+  Program for Results could have helped to phase the activities, including the policy reforms and to reduce
+  the overload that seems to have occurred. In the end most of the activities included under the reform
+  component were financed by other development partners, sometimes without any consultation with the
+  Bank. Coordination with other donors appear to have been absent or limited but has since improved,
+
+  For a project that sought to support an improvement in the financial viability of the sector a package of
+  measures with a set of operational and financial metrics would have been expected with implementation
+  of the package incorporated as an integral part of the results framework. While three PDO indicators are
+
+
+                                                                                                      Page 12 of 18
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     The Power Recovery Project (P144029)
+
+
+
+  included to track financial viability improvements additional substantive financial indicators such as cost
+  recovery could have been included. Another gap in the design of the results framework was that the
+  PDO-level reliability was tied to a single substation and yet there were other activities contributing to the
+  same PDO outcome.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The World Bank task team conducted regular implementation support missions during which meetings
+ were held with client counterparts in the Project Management Unit, Project Implementation Units of the
+ three power companies, consultants, development partners and officials from relevant ministries as
+ needed. The World Bank team was adequately staffed to supervise the project. A co-Team Leader was
+ based in the country and was able to provide appropriate coordination and quick responses to client
+ requests. The project was team-led by two Task Team Leaders for the entire period, thus, providing
+ consistency in approach and on substantive matters. The team was supplemented by consultants to
+ provide adequate support to the client in specialized areas such as procurement of smart meters and
+ related equipment.
+
+ The World Bank team prepared Implementation Status and Results Reports (ISRs) at least twice a year
+ and used these to inform the World Bank management on critical issues and clients to focus attention on
+ critical implementation issues. On the client’s side the PMU prepared semi-annual progress reports for both
+ their internal use and to share with the World Bank. An in-depth Mid-term Review was conducted in 2018
+ to assess overall progress and identify issues. By that time the project had been rated moderately
+ unsatisfactory on implementation progress at the end of 2017 and it remained in that status for about 18
+ months to June 2019. The ICR (page 29) noted that although the MTR surfaced some challenges facing
+ the project which required
+
+ project restructuring, such as the delays in balancing meters, it was more than 12 months before the
+ project was restructured in November 2019.
+
+ The World Bank’s implementation support missions were affected by travel restrictions starting in early
+ 2020 due to the Covid-19 pandemic and had to be conducted virtually. The pandemic contributed to the
+ need for the second extension of credit closing date which was granted retroactively on 20 December
+ 2020.
+
+ Shortcomings in the World Bank’s implementation support effort included a delay of more than 12 months
+ in restructuring the project after the MTR had identified the need and the non-revision of the indicator on
+ intercompany arrears when it had become apparent that the indicator target would not be achieved due to
+ changes in the circumstances.
+
+ Overall, the quality of The World Bank’s supervision of the project was Moderately Satisfactory
+
+
+
+
+                                                                                                      Page 13 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     The Power Recovery Project (P144029)
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The Project M&E system was generally well designed to include baseline data, target values, frequency of
+ reporting, data sources and responsibilities for data collection (Result Framework Annex 1, PAD). The
+ Results Framework (RF) comprised four outcome indicators: electricity losses, collection rate, reliability,
+ and intercompany arrears. The electricity losses indicator had two sub-indicators for non-technical and
+ technical losses, but the sub-indicators were dropped during project restructuring in November 2019. The
+ M&E design provided a framework for assessing the achievement of project objectives.
+
+ The ICR correctly points out two important shortcomings in the design of outcome indicators, i.e., that is the
+ linkage of the reliability indicator to one investment (substation) excluding other activities in the project
+ design which contributed to reliability; and the RF could have considered more substantive metrics for
+ assessing progress of financial recovery than intercompany arrears. However, the ICRR assesses that the
+ RF already considered reduction in losses and improvements in bill collection as measures for tracking
+ financial recovery but agrees that more substantive relevant measures could have included cost recovery,
+ and payments to suppliers, for example.
+
+ In addition, the RF had seven intermediate indicators to facilitate monitoring of progress towards the
+ achievement of outcomes. The ICR also makes several valid comments on the intermediate indicators,
+ including the following: (a) that no indicators were linked to component 1; and (b) additional or alternative
+ reliability indicators such as the number of rehabilitated MV/LV network feeders could have been included
+ in the results chain – these were tracked during project implementation.
+
+
+
+b. M&E Implementation
+  The responsibilities for data collection analysis lay with the parties as laid out in the RF. The PMU
+  consolidated the M&E inputs from KESH, OST and OSHEE and supported them as needed. The PMU
+  shared the M&E reports with the World Bank team which also used the data for inputs into ISRs and for
+  reviews of progress with the client.
+
+  As noted above some changes were made to the RF during project implementation and these included
+  the deletion of sub-indicators (i.e., technical, and non-technical losses) for system losses during the
+  project restructuring in November 2019. The ICR notes the delay in implementing this change and points
+  to the non-revision of the intercompany arrears targets even though it had become obvious that the
+  indicator target would not be achieved given the changed context.
+
+  Overall, implementation of the M&E system was generally well managed.
+
+
+
+                                                                                                    Page 14 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     The Power Recovery Project (P144029)
+
+
+
+
+c. M&E Utilization
+  The M&E system was useful to the World Bank and the clients in monitoring project implementation
+  progress, identifying issues and constraints, deciding on key actions such as project restructurings,
+  including extensions of closing dates. The M&E system was used alongside other systems such as
+  procurement milestones and Financial Management Reports. Overall, the M&E system was a valuable
+  project management tool for both the World Bank and the clients. Project implementation and
+  completion were facilitated by the utilization of M&E framework.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   The project triggered two The World Bank policies: Environmental Assessment OP/BP 4.01 and
+
+   Involuntary Settlement OP/BP 4.12. It was classified as a Category B project.
+
+   The impact on safeguards was not known at the time of project preparation and hence an Environmental
+   and Social Management Framework (ESMF) was prepared. The World Bank-funded TA assisted OSHEE
+   on Environmental and Social (E&S) issues, including for on-site monitoring activities. All issues that arose
+   were resolved onsite. The World Bank safeguards staff held regular meetings with PIUs. E&S reporting
+   was conducted in accordance with the requirements of the ESMF and Environmental and Social
+   Management Plans (ESMP). During the pandemic virtual meetings were held regularly based on reports
+   and works photos provided by the PIUs. Both face to face and virtual meetings with PIUs helped to
+   increase the knowledge and build capacity of counterparts on E&S matters.
+
+   OP/BP 4.12 Involuntary Resettlement was triggered in relation to the Kombinat substation which involved
+   land acquisition. Land acquisition was completed in December 2017 based on a Resettlement Action
+   Plan (RAP) prepared for the project. The Kombinat location was chosen after the initial selection of Tirana
+   was dropped to avoid land acquisition-related complexities since Kombinat was under public ownership.
+
+   For grievance redress, the project used OSHEE’s customer relations mechanism for logging and
+   addressing any project-related complaints in lieu of a stand-alone grievance redress mechanism, which was
+   acceptable to the World Bank.
+
+   The overall safeguards ratings for the project remained Satisfactory and the ratings for Environmental
+   Assessment (BP 4.01) and Involuntary Settlement (BP 4.12) were also Satisfactory.
+
+
+
+
+                                                                                                   Page 15 of 18
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    The Power Recovery Project (P144029)
+
+
+
+b. Fiduciary Compliance
+  The final ISR rated financial management Moderately Satisfactory. There were two outstanding audit
+  reports as of June 30, 2021 when the project closed. The delays were attributable to slippages caused by
+  the Covid-19 situation, and to the technical assistance for the improvement of the financial reporting and
+  audit disagreements, in the case of KESH. A functional unbundling process for OSHEE involving, amongst
+  other things, the separation of the accounts and financial statements (including assets and obligations) had
+  also contributed to the delayed submission of audit report. Other than the delayed audits project financial
+  statements submitted over the years were acceptable, and no issues were reported by the auditors.
+
+  Procurement was also rated Moderately Satisfactory at project closure due to procurement delays that the
+  project encountered for most of its duration. The delays had led to the cancelation of important MV
+  balancing meters which would have contributed to greater loss reduction than was achieved and were also
+  important to facilitate deregulation of MV customers.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+
+
+  Gender
+
+  The project was not designed to address gender issues but included an indicator for female
+  beneficiaries. The target for females was 52 percent of the beneficiaries by project close. The actual
+  indicator value was 50 percent indicating the efforts made to include females among persons who benefited
+  from access to quality power supply and to citizen engagement on energy matters. There were no
+  negative impacts observed on females due to the project activities.
+
+  Mobilization of private sector financing
+
+  The project had no specific focus on attracting private sector financing but improvements in the reliability
+  and affordability of power and in the financial viability of the sector would create conditions for private
+  investors to invest in the country. System losses have decreased significantly, revenue collection has
+  improved and so has the reliability of power supply. Albania will continue to build on this strong
+  base. Private investment will be attracted in several ways. First, existing firms which have held back on
+
+  expanding operations may be able to do so with reliable and affordable power. Second, efficiency
+  improvements such as reductions in system losses will help to make power more affordable to small
+  businesses and the informal sector thereby stimulating a sector that is critical for job creation. Third,
+  exporting firms can become more competitive and expand their businesses locally, and finally an efficient
+  and sustainable electricity sector will be attractive for IPPs and other power sector investors.
+
+  Institutional Strengthening
+
+
+
+
+                                                                                                   Page 16 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     The Power Recovery Project (P144029)
+
+
+
+   The complexity of the project provided varied opportunities for the participating companies and government
+   agencies to build their capacities in several areas including cutting edge metering technology, coordination
+   and monitoring, and evaluation of a multi-agency procurement packages. OShEE staff benefited from
+   working on loss reduction, billing and revenue collection and improving knowledge on the latest
+   developments in utility management practices.
+
+
+
+11. Ratings
+                                                                               Reason for
+Ratings                        ICR                    IEG
+                                                                               Disagreements/Comment
+                               Moderately
+Outcome                                              Moderately Satisfactory
+                               Satisfactory
+                               Moderately
+Bank Performance                                     Moderately Satisfactory
+                               Satisfactory
+Quality of M&E                 Modest                Modest
+
+Quality of ICR                 ---                   Substantial
+
+
+12. Lessons
+
+The ICR contains substantive lessons learned from the operation. The following suggestions are
+made to add to or elaborate on some of the lessons that have already been identified:
+
+Investment Project financing may not be an appropriate instrument for supporting complex
+projects comprising both infrastructure investments and substantive policy reforms. The
+Power Recovery Project contained important policy reforms for development of a power market
+alongside investment in transmission and distribution which made the operation complex. In the end
+the reform activities were taken over by other financiers. The World Bank could have selected
+separate instruments for supporting the infrastructure investments and policy reforms or prioritized
+between the two areas of engagement.
+
+Bringing about sustainable policy changes or supporting sector financial recovery requires
+intensive engagement over time. The World Bank could have selected a programmatic approach,
+a DPL series for policy reforms or a Program for Results either of which would have allowed phasing
+of activities to avoid the overload that appear to have occurred with the Power Recovery Project.
+
+The capacity issues that arose with the PIUs could have been better managed by
+strengthening the capacity of the PMU not just for financial management, disbursements,
+and M&E but also on procurement. The utilities’ PIUs could be made responsible for technical
+specifications while the PMU handles the rest of the procurement functions with a capacity building
+plan for gradual devolution of functions to the utilities.
+
+Designing and implementing power sector financial recovery requires buy-in at high levels in
+Government because of the political economy issues related to electricity tariffs,
+governance, transparency, and accountability of institutions. High level participation is key both
+
+
+                                                                                                  Page 17 of 18
+       Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+       The Power Recovery Project (P144029)
+
+
+
+at the design stage and during implementation is critical. At a technical level it is important to
+formulate plans comprising both operational and financial restructuring measures and metrics. In
+the context of the World Bank operations, getting formal commitment to the whole package for
+example through DPL prior actions raises the profile of the required actions.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+Overall, the ICR is well-written, but it also has some shortcomings as follows:
+
+    1. The justification of overall efficacy rating is confusing because; (i) the reliability and financial viability
+         objectives should have equal weight in assessing the overall efficacy as there is no indication of a
+         hierarchy of objectives in the PAD; and (ii) funding is not a valid basis for weighting objectives in the
+         efficacy assessment.
+    2.   Annex 1 Results framework: provides no comments on deviations of actual achievements from targets
+         for most of the indicators.
+    3.   There is small discrepancy in the value of the collection rate indicator between the Annex 1, page 32
+         (97.5 percent) and page 19 of the main text (95.30 percent).
+    4.   The results framework (Annex 1) has different dates for actual achievements at completion (November
+         2020 and June 15, 2021.
+    5.   System losses target shown as 23 percent on page 13 (Table 3) of the ICR and on page 5 of the Project
+         Restructuring Paper of 2019 and as 20 percent on pages 19 (Table 6) and 32 (Annex 1) of the ICR.
+
+
+
+  a. Quality of ICR Rating
+         Substantial
+
+
+
+
+                                                                                                          Page 18 of 18
+

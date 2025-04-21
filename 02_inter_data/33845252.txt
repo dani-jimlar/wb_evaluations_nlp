@@ -1,0 +1,862 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     EU/IPA Energy Sector TA Project II (P151934)
+
+
+
+                                                                                 Report Number: ICRR0022864
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P151934                                    EU/IPA Energy Sector TA Project II
+
+ Country                                    Practice Area(Lead)
+ Turkiye                                    Energy & Extractives
+
+
+ L/C/TF Number(s)                           Closing Date (Original)              Total Project Cost (USD)
+ TF-19255                                   31-May-2020                                        12,954,908.86
+
+ Bank Approval Date                         Closing Date (Actual)
+ 19-Jun-2015                                28-May-2021
+
+                                            IBRD/IDA (USD)                                    Grants (USD)
+
+ Original Commitment                            12,788,261.47                                  12,788,261.47
+
+ Revised Commitment                             13,542,967.13                                  12,610,254.31
+
+ Actual                                         12,954,908.86                                  12,954,908.86
+
+
+
+
+ Prepared by                 Reviewed by                ICR Review Coordinator          Group
+ Joel J. Maweni              Dileep M. Wagle            Ramachandra Jammi               IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The objective of the Project is to develop the administrative and technical capacity
+   of the Recipient's relevant institutions to achieve an increasing alignment with the EU
+   acquis and the Europe 2020 Targets in the areas of (1) energy efficiency, (2) internal energy
+   market, and (3) long-term energy planning and modelling (EU/IPA Grant Agreement Number TF019255,
+   Schedule1, page 6).
+
+
+
+                                                                                                 Page 1 of 16
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     EU/IPA Energy Sector TA Project II (P151934)
+
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The following is a high-level summary of the project components:
+
+        1. Energy Efficiency (Estimated cost at appraisal: EUR4.82 million, Actual cost: EUR5.07 million)
+           consisting of the following activities: (i) analysis of current energy efficiency (EE) conditions of the
+           Electricity Generation Company’s (EUAS) energy generation facilities; (ii) assessment of needs for
+           energy storage and frequency regulation systems; (iii) analysis of current EE of the electricity
+           transmission network of the Turkish Electricity Transmission Company (TEIAS); and (iv) assessment
+           of EE of the natural gas transmission system.
+        2. Electricity and Gas Market Development (Estimated cost at appraisal: EUR1.53 million, Actual cost:
+           EUR1.58 million). The activities under this component were as follows: (i) identification of technical
+           infrastructure needs for a properly functioning energy exchange; (ii) feasibility studies, roadmap, and
+           analysis to enhance the regulation, administration, and organization of an energy market; (iii)
+           trainings for capacity building in electricity and gas market development; and (iv) design of a
+           supervisory control and data acquisition (SCADA) system according to the needs of the liberalized
+           natural gas sector.
+        3. Long-term Energy Scenarios, Capacity Building and Establishment of an Energy Data Center
+           (Estimated cost at appraisal: EUR4.77 million, Actual cost: EUR4.21 million) consisting of the
+           following activities: (i) identification of gaps in the energy data collection system and preparation of
+           roadmap and draft legislation for improvement; (ii) purchase of software and hardware for energy
+           data center; and (iii) trainings in effective operation of the data center.
+        4. Visibility and Public Awareness Building (Estimated cost at appraisal: EUR0.47 million, Actual cost:
+           EUR0.61 million) comprising the following activities: (i) visibility and public awareness campaigns; (ii)
+           fora, seminars, and workshops to disseminate results of the project; and (iii) trainings on various
+           aspects of EE in electricity generation and transmission.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost
+
+   The total project cost at completion was EUR11.47 million compared to EUR12.04 million estimated at
+   project approval. (ICR, Annex 3, p. 54). The Data sheet shows that actual project cost was US$12.95 million
+   compared to the original cost estimate of US$12.79 million with the differences arising from exchange rate
+   changes.
+
+   Project Financing
+
+   The project was financed through a European Union/Instrument for Pre-Accession Assistance (EU/IPA)
+   Trust Fund administered by the World Bank. The funding was provided to the project through a recipient
+   executed trust fund agreement between the World Bank and the Government of Turkey. EUR 11.59 million
+
+                                                                                                      Page 2 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     EU/IPA Energy Sector TA Project II (P151934)
+
+
+
+   was provided to cover all project costs, excluding EUR0.45 million which was expected to be contributed by
+   the Borrower to cover counterpart staff and administrative costs. The ICR did not provide information
+   regarding the Borrower’s contribution.
+
+
+
+   Dates
+
+
+
+    The Financing Agreement between the European Union (EU) and Government of Turkey was signed by
+   the European Commission (EC) on November 20, 2013 and by the Government of Turkey on January 20,
+   2014.The Trust Fund Administration Agreement between the EU and the World Bank was signed on
+   September 15, 2014. The project was approved on June 19, 2015 and became effective on November 24,
+   2015. The original closing date was May 31, 2020. A mid-term review carried out in January 2019 did not
+   indicate any need for project restructuring. The project was subsequently restructured (Level 2) on April 26,
+   2020 to extend the closing date by 12 months to May 28, 2021. The extension was required to allow
+   completion of outstanding activities which had suffered delays in the project start-up phase and due to the
+   disruptions caused by the Covid-19 pandemic. The disbursement rate was about 79 percent at the time of
+   the restructuring. Besides the extension of closing date, no other changes were made to the project and
+   there were no other restructurings.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Alignment with strategies
+
+The project development objective (PDO) was well aligned with the World Bank’s FY18-FY23 Country
+Partnership Framework (CPF) for Turkey at project closure on May 28, 2021. It was also aligned with the
+Government and the EU strategies and priorities for Turkey’s energy sector.
+
+The FY18-FY23 CPF has three focus areas: growth, inclusion, and sustainability. The PDO was relevant to
+Objectives 7 and 9 under the sustainability focus area. Objective 7 – "improve reliability of energy supply
+and generation of green energy" – emphasized investments in energy security, gas storage expansion,
+renewable energy (geothermal development and renewable energy integration) and energy efficiency. The
+project supported this CPF objective through: (i) assessments of the potential for energy efficiency in
+electricity generation, transmission and gas transmission, identifying projects for implementation, and
+strengthening capacity of relevant institutions; (ii) evaluating electricity and gas markets and recommending
+measures for improvement and alignment with EU strategies; (iii) supporting long term energy planning and
+modelling of different scenarios, including for decarbonization and building capacity of the Ministry of
+Energy and Natural Resources (MENR) in these areas; and (iv) designing and launching a visibility and
+public awareness campaign promoting energy efficiency. By including capacity building measures in each
+of these areas the project was relevant to Objective 9 of the CPF which emphasized capacity strengthening
+of energy institutions to enable them to prioritize green investments in support of a green growth agenda.
+
+
+                                                                                                    Page 3 of 16
+                       Independent Evaluation Group (IEG)             Implementation Completion Report (ICR) Review
+                       EU/IPA Energy Sector TA Project II (P151934)
+
+
+
+The PDO was consistent with the Government’s national and sector development objectives. To support
+development of the economy the national development plans specified specific roles for the energy sector.
+The 10th Development Plan (2014-2018) sets the requirement for the sector as ensuring reliable,
+affordable, high quality and sustainable energy and highlighted energy efficiency, energy markets
+development and long-term energy demand and supply planning – all which were supported by the
+project. The 11th Development Plan (2019-2023) describes several long-term measures to: inter alia,
+increase the share of renewable energy in the generation mix, facilitate integration of renewables in the
+grid, including by developing energy storage systems, and to improve energy efficiency. At the sector level
+MENR’s strategic plans set out specific objectives and corresponding performance indicators for tracking
+them. The main objectives included the key areas supported by the project – security of energy supply,
+energy efficiency, strengthening institutional and organizational capacity.
+
+Country context
+
+At project preparation stage, Turkey’s main challenges in the energy sector included how to: (i) maintain
+energy security in the face of rapidly increasing energy demand and rising imports; and (ii)
+increase alignment of the development of its energy sector with the EU’s priorities and strategies. The PDO
+supported three of the five cooperation areas that had been agreed between the EC and the Government of
+Turkey – energy efficiency, internal energy market and energy planning and modelling – all of which were
+also important for increasing energy security of supply.
+
+The PDO was outcome oriented with outcome indicators and clear targets. Although not quantifiable as with
+most technical assistance projects the indicators and targets were assessable. The implementation
+capacity of MENR’s Project Implementation Unit while weak at the beginning was improved with the support
+provided under this project and under Phase 1 of the EU/IPA Energy Sector Technical cl Assistance Project
+(P131921), whose implementation overlapped with that of this project. Thus, overall, the PDO was
+appropriately pitched for development status and capacity in the country.
+
+Previous sector experience
+
+This project was the second operation in a multi-year technical assistance program to support the
+EU/Turkey energy agenda. The overall objective of the program is the achievement of a secure, liberal and
+transparent Turkish energy market in line with the EU Acquis and Europe 2020 energy sustainability
+targets. The first operation under the EU/IPA Energy Sector Technical Assistance (TA) Program - Phase 1
+Project (P132921) was approved on May 30, 2014 about a year before the approval of this project. The
+PDO of the Phase 1 operation was the enhancement of the Turkish energy sector in line with the European
+Union’s (EU) energy priorities and strategies in energy efficiency, renewable energy, and the natural gas
+market. In contrast the PDO for the second phase was more specific and focused on the development of
+administrative and technical capacity of Turkey’s energy institutions.
+
+The PDO is rated High for relevance because it was aligned with both the Bank’s FY18-FY23 CPF at
+project closure on May 28, 2021 and the Government’s 11th National Development Plan for 2019-23. The
+latter is aligned with the CPF and with the EU-Turkey energy agenda agreed between the EC and the
+Government of Turkey.
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+
+                                                                                                    Page 4 of 16
+                      Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+                      EU/IPA Energy Sector TA Project II (P151934)
+
+
+
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                OBJECTIVE 1
+                Objective
+                To develop the administrative and technical capacity of the Recipient's relevant institutions to achieve an
+                increasing alignment with the EU Acquis and the Europe 2020 Targets in the areas of (1) energy efficiency,
+                (2) internal energy market, and (3) long-term energy planning and modelling.
+
+                Rationale
+                THEORY OF CHANGE
+
+                The theory of change was that the provision of consultancy services, non-consultancy services, goods and
+                supply and installation of goods would support implementation of activities in the areas of energy efficiency,
+                development of internal electricity and gas markets and long term planning and modelling and that the
+                resulting outputs would lead to: (a) identification of the potential for EE improvements; (b) improvements in
+                the operation of the internal electricity and gas markets; and (c) development of long-term energy planning
+                and modelling. The ICR presented a detailed theory of change in Table 1, p.9. The activities undertaken by
+                the project were:
+
+                Energy efficiency
+
+                       1.   Analysis of EUAS’s hydro and thermal generation plants.
+                       2.   Analysis of energy storage systems.
+                       3.   Analysis of electricity transmission systems.
+                       4.   Analysis of natural gas transmission system operated by the Petroleum Pipeline Company (BOTAS).
+
+                Internal electricity and gas markets
+
+                Assessment: included identification of technical infrastructure needs for a properly functioning energy
+                exchange, feasibility studies, road maps and analysis to enhance the regulation, administration, and
+                organization of the exchange market.
+
+                Recommendations: Exchange Recommendations Report was prepared based on the assessment reports
+                and provided the basis for preparation of the Draft Legislation Elements on Natural Gas Exchange and
+                Implementation Report that followed.
+
+                Capacity building of all key market participants for operation of the energy markets.
+
+                Long-term planning and modelling
+
+                Capacity building for running the Energy system for Turkey (EST) planning model.
+
+
+                                                                                                                  Page 5 of 16
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   EU/IPA Energy Sector TA Project II (P151934)
+
+
+
+Establishment of an energy data center.
+
+Visibility campaigns
+
+Dissemination of the results of the project outputs through a variety of activities such as workshops, seminars,
+etc.
+
+Public awareness regarding EE using social media.
+
+The causal links between the activities supported by the project, the outputs and outcomes were strong and
+credible.
+
+The ICR presents some quantitative data on outputs (number of reports prepared, people trained, etc.), but
+except for a few there were no ex-ante targets against which the actuals could be compared. To the extent
+that other donors provided support to the same institutions as supported by the project some capacity
+strengthening that occurred might not be fully attributable to the project. By way of example, the European
+Bank for Reconstruction and Development (EBRD)’s support for renewable energy development (and
+demand-side energy efficiency) – point 4 on the EU-Turkey energy agenda – was also delivered through
+MENR.
+
+OUTPUTS
+
+Energy efficiency
+
+    1. Generation: Condition assessment studies were completed for 24 hydropower and two thermal power
+       plant units. Feasibility studies were completed for selected hydropower power plants including the
+       scope of work, prioritization and cost estimate prioritization, cost estimates.
+    2. Energy storage systems: Ten tasks including, analysis of battery storage technologies, needs
+       assessment for battery energy storage systems, market research on deployment of feasibility of
+       storage systems, battery storage pre-feasibility study, analysis of Turkey’s transmission system. Two
+       workshops, 5 training sessions and a site visit were conducted.
+    3. TEIAS transmission system: Activities such as: System performance benchmarking, preparation of
+       an investment plan for an optimal asset replacement schedule, recommendations for an improved
+       transmission planning methodology based on comparison with best practices (European Network off
+       Electricity Transmission System Operators Network); and capacity building through workshops,
+       working groups, training, and site visits were completed.
+    4. Natural gas transmission system: Needs assessment was completed, energy savings potential
+       identified.
+
+Internal electricity and gas markets
+
+    1. Assessments: The current situation was assessed; gaps and improvement areas were identified.
+    2. Recommendations: Possible solutions recommended based on international experience,
+       recommendations provided on electricity and gas market development, transparency and market
+       surveillance, balancing power market operations, market coupling, guarantees of origin demand side
+       management and capacity remuneration scheme.
+
+
+
+                                                                                                  Page 6 of 16
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   EU/IPA Energy Sector TA Project II (P151934)
+
+
+
+
+    3. Capacity building: 37 reports and 22 capacity building activities /events on assessments and
+       recommendations delivered, 19 trainings delivered for capacity building in electricity and gas market
+       development.
+
+Long-term planning and modelling
+
+    1. Capacity building: Energy system for Turkey (EST) model developed and delivered to MENR, results
+       of eight different scenarios run by the EST model presented, eleven (11) sets of trainings for more
+       than 300 hours in total were delivered.
+    2. Data center: Survey Information Management System (SIMS) software developed and launched
+       online, data center hardware, including virtualization servers, disk servers, monitoring screens,
+       desktop computers, and notebooks required for proper functioning of the EST model and SIMS were
+       purchased, installed and in operation.
+    3. 495 personnel trained in the operation of the energy model and the data center.
+
+Visibility campaigns
+
+    1. Booklet on EE for school children completed and 1 million copies disseminated by MENR.
+    2. Visibility and awareness campaign run on social media accounts– Facebook, Twitter, YouTube, and
+       Instagram.
+    3. MENR’s communication plan on future EE activities prepared and published on MENR’s website.
+    4. 467 people trained through site visits, symposiums, and workshops on various aspects of EE in
+       electricity generation and transmission.
+
+OUTCOMES
+
+The following outcomes were realized in each of the three outcome areas:
+
+EE potential in TEIAŞ, EUAŞ, and BOTAŞ assessed, and projects identified for implementation.
+
+    1. Generation: EE projects were identified. EUAS capacitated to make EE investment plans based on
+       output data generated by the project. Achieved.
+    2. Energy storage systems: Institutional capacity established in MENR for the assessment of energy
+       storage applications and frequency regulation systems. Achieved.
+    3. Electricity transmission: EE projects were identified for implementation, TEIAS network planning
+       capacity enhanced based on EE assessments and recommendations provided for reinforcements and
+       operations. Estimated savings of EUR225 million. Achieved.
+    4. Gas transmission: EE projects identified for implementation, institutional capacity for optimized gas
+       network investment and operations built, BOTAS capacity built to carry out medium- and long-term
+       load projections using Synegi Pipeline Simulator (SPS) model to further increase improve energy
+       savings. Achieved.
+
+Legal, structural, and administrative functioning of EPIAŞ improved to align with EU energy markets
+
+    1. Assessments: Legal, structural, and administrative basis for EPIAS’s proper operation of the
+       exchange markets achieved and EPIAS made fully functional in operating the electricity and gas
+       markets. Achieved.
+
+                                                                                                 Page 7 of 16
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                EU/IPA Energy Sector TA Project II (P151934)
+
+
+
+
+                                 2. Capacity building: Sector agencies (MENR, EPIAS, TEIAS, BOTAS EMRA) now capable of
+                                    developing the electricity market further to align with the respective EU rules, foundation laid for the
+                                    operation of futures products in both gas and electricity through EPIAS, monitoring capacity of the gas
+                                    network by BOTAS has been improved through the SCADA system and other tools required for the
+                                    operation of the liberalized gas sector. Achieved.
+
+                            Improved long-term energy scenarios available for energy policy and strategy decision-making.
+
+                                 1. Capacity building: Long -term energy scenarios now available for energy policy and strategic
+                                    decision making and MENR’s institutional and human resources capacity strengthened to build other
+                                    scenarios for energy policy and strategy decision as needed. Achieved.
+                                 2. Energy data center: Energy data made available from new energy data center. MENR enabled to
+                                    gather more reliable and robust data through an online data management module, and SIMS gathered
+                                    industrial facilities data energy consumption values for the 2019 Energy Balance Table. Achieved.
+
+                            In addition to these outcomes the project, through its visibility campaign, had the following outcomes: (a)
+                            public awareness for EE and RE reached more than 35 million users (65 percent of 54 million active social
+                            media users in the country); and (b) visibility and dissemination of project results provided to all through
+                            stakeholders’ forums, seminars, and workshops.
+
+                            The project fully achieved all the outcomes in each of the three outcome areas as indicated above, Hence,
+                            the PDO’s efficacy rating is High.
+
+
+
+                            Rating
+                            High
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The objective of improving administrative and technical capacity of relevant Turkish energy sector institutions
+                            was achieved because (a) investments for efficiency improvements in electricity generation and
+                            transmission, energy storage systems, and gas transmission network were identified and the capabilities of
+                            the relevant institutions (EUAS and TEIAS and BOTAS) to conduct further analysis were institutionalized; (b)
+                            the legal, structural and administrative framework for operation of the electricity and gas markets was
+                            developed, capacity was improved for MENR, EPIAS, TEIAS, BOTAS, EMRA to operate and further develop
+                            the market and for BOTAS’ monitoring of the gas network using the SCADA and other tools necessary in a
+                            liberalized gas market; (c) MENR’s capacity was built for planning long term energy scenarios using the EST
+                            model and an online data management center was completed. Further, the capacity built for long-term
+                            planning has had operational results, including publication of the biennial “Report on Turkey’s Electrical
+                            Energy Demand Projection for the years 2020-2040” and Turkey’s ratification of the Paris Agreement on
+                            climate change which was facilitated by the assessment of the impacts to the energy sector and the economy
+                            of decarbonization and carbon pricing policy scenarios – all prepared using the EST model.
+
+
+                                                                                                                              Page 8 of 16
+      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+      EU/IPA Energy Sector TA Project II (P151934)
+
+
+
+  The project is rated High for efficacy because expected outcomes were achieved in all three outcome areas.
+
+
+
+  Overall Efficacy Rating
+  High
+
+
+
+ 5. Efficiency
+As typical of technical assistance projects, economic and financial analyses were not carried out at appraisal
+stage because of the problem of quantifying benefits. The ex-post analysis adopted by the ICR involved an
+assessment of the economic value of expected outputs and of the degree to which available resources were
+efficiently utilized. The analyses concluded that: (a) the benefits of the project proposals to improve the
+efficiency of electricity generation, transmission and gas transmission were reasonable – for example for an
+investment of US$0.42 million in electricity transmission efficiency improvements the overall savings potential
+was estimated at US$261.5 million; and (b) a large number of high quality outputs and outcomes were delivered
+on time and within budget; (c) competitive bidding resulted in savings which were used to finance additional
+outputs; and overall the project budget was almost fully disbursed.
+
+The methodology used to carry out the ex-post efficiency analyses was sound, and the results were consistent
+with the ICR’s record of implementation experience and with the outputs and outcomes achieved. The project
+is, therefore, rated Substantial for efficiency.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?            Point value (%)          *Coverage/Scope (%)
+                                                                                   0
+ Appraisal                                                0
+                                                                                    Not Applicable
+                                                                                   0
+ ICR Estimate                                             0
+                                                                                    Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The PDO rating for relevance is High because of its alignment with the World Bank’s CPF (FY18-FY23) for
+Turkey at project closure on June 30, 2021 and its consistency with the Government’s 11th National
+
+
+                                                                                                  Page 9 of 16
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      EU/IPA Energy Sector TA Project II (P151934)
+
+
+
+Development Plan (2019-23). The overall efficacy rating is High because the project fully achieved expected
+outcomes in all three outcome areas. The efficiency rating is Substantial because the economic value of the
+project’s outputs was positive, and the outputs were achieved within budget.
+
+Therefore, the overall outcome rating is Highly Satisfactory.
+
+
+a. Outcome Rating
+   Highly Satisfactory
+
+
+7. Risk to Development Outcome
+
+The project helped to strengthen technical and administrative capacity in energy efficiency, internal energy
+markets and in long term energy planning in relevant key institutions in Turkey. Overall, the institutional
+capacity built with the support of the project is likely to be maintained in the future. This includes the capacity
+built: (a) in EUAS for conducting condition assessments of hydropower plants, identifying and prioritizing
+investments for implementation and its institutionalization with the establishment of a new energy efficiency
+unit; (b) in TEIAS for network planning; (c) in BOTAS for optimized gas network planning and monitoring, and
+for carrying out medium- and long-term load projections ; (d) in MENR for assessing energy storage
+applications and frequency regulation systems; (e) in key agencies (MENR, EPIAS, TEIAS, BOTAS EMRA)
+for further development of the electricity and gas markets in alignment with the respective EU rules; and (f) in
+MENR for conducting long-term energy scenarios planning and modelling and for operating an online
+energy data center.
+
+However, while the capacity has been institutionalized, the main risk relates to maintenance of trained
+personnel due to staff turnover. This is to some extent compensated by the training of more people than
+needed in most cases, but continued efforts will be required to train new personnel and to update skills of
+those already trained.
+
+In some cases, the systems developed will require updating and/or further development in future. This is
+particularly the case with the development of the internal gas and electricity markets in which further work is
+required to increase alignment with the EU rules. The Bank and other development partners’ continued
+support will ensure progress on this aspect. Further, the EU-Turkey energy agenda and the EU/IPA energy
+sector technical assistance program provides a framework for support on the liberalization of electricity and
+gas markets.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  At the strategic level, the quality at entry was sound in that the project was designed within the context of
+  the five-point EU-Turkey energy cooperation agenda and the selected areas for support were well aligned
+
+
+
+                                                                                                       Page 10 of 16
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     EU/IPA Energy Sector TA Project II (P151934)
+
+
+
+  with both the World Bank’s Country Partnership Strategy for Turkey (FY2018-23) at the time, and with the
+  Government’s 11th National Development Plan.
+
+  At the operational level there were several positive aspects as pointed out by the ICR (p.31), including: (i)
+  in-depth communication and coordination with all key stakeholders (MENR, EUAS, TEIAS, BOTAS,
+  EMRA and EPIAS) to create ownership for each project component; (ii) deployment by the World Bank of
+  extensive expertise in various fields of the energy sector from both internal and external sources; (iii)
+  technical design of the components to match contracts to components, thereby simplifying
+  implementation arrangements.; (iv) identification of implementation agency risks and appropriate
+  management measures,; and (v) strong safeguards and fiduciary measures.
+
+  The ICR also acknowledges the complexity of the project by noting that the number of contracts was
+  large leading to delays in the implementation phase and raising significant challenges in progress
+  monitoring and suggesting that a “clear matrix of responsibilities among key stakeholders could have
+  been prepared at the design stage and annexed to the PAD”. An additional shortcoming is that the level
+  of preparation was not sufficiently advanced at appraisal stage with the result that the first year of
+  implementation was spent in preparing terms of reference, requests for expressions of interest for various
+  consultancy services leading to initial implementation delays. The delays were worsened by the weak
+  implementation capacity of MENR’s PIU which was already affecting implementation of the first phase of
+  the EU/IP Energy Sector Technical Assistance Project (P131921).
+
+  With the conclusion of the trust fund administration agreement between the EC and the World Bank in
+  September 2014 the project was quickly prepared even before any noteworthy progress had been made
+  under the first phase. The speed with which the operation was prepared suggests that there was a
+  desire in the World Bank to maintain the momentum of the EU/World Bank cooperation in the energy
+  sector in Turkey under the EU/IPA Energy Sector Technical Assistance.
+
+  Program. The cost of the hurried preparation was the fact of implementation delays which the World
+  Bank’s team was, however, able to deal with during the supervision phase.
+
+  On balance, despite shortcomings the project design demonstrated strengths at entry. Implementation
+  risks were identified and mitigation measures introduced to address. Safeguard and fiduciary policy
+  compliance and policy institutional arrangements were strong. As such, the Bank’s performance at entry
+  is rated Satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ Mission aide memoires and ISRs indicate that the project was intensively supervised and important issues
+ were discussed with the Borrower and raised to management's attention ISRs were prepared at about six
+ months intervals, except during the last ten months before project closure on June 30, 2021. Thus, the last
+ ISR was archived on August 14, 2020. Notwithstanding this the ICR (p.32) indicated that supervision efforts
+ remained at high quality during this period despite the challenges posed by the Covid-19 pandemic.
+
+
+                                                                                                    Page 11 of 16
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     EU/IPA Energy Sector TA Project II (P151934)
+
+
+
+ In addition to the aide memoires and ISRs and the continuation of intensive supervision efforts during
+ Covid-19, the ICR (pgs. 31 and 32) highlights several strong features of the World Bank Team’s
+ supervision efforts such as: (i) intensive support on financial management, procurement and ownership,
+ which resulted in improved capacity of the PIU; (ii) support that helped to resolve procurement issues; (iii)
+ identification of the need for triggering OP/BP 7.50; (iv) timely action that was taken to extend the project
+ closing date to allow for completion of activities that had been delayed by the pandemic.
+
+ One shortcoming, highlighted by the ICR, was that the World Bank should have prompted the PIU to find a
+ solution for the overpopulated Steering Committee more quickly. Apart from its size, the Steering
+ Committee held no meetings for about a year, a situation that may have arisen from the difficult political
+ situation in the country in 2016.
+
+  Overall, the quality of supervision is rated as Satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The project results framework designed at appraisal included all the essential elements – three outcome
+ indicators several intermediate indicators, baseline and target data, frequency, and responsibilities for
+ data collection. The outcome indicators were appropriately designed to enable assessment of the
+ achievement of the PDO but as is typical of technical assistance projects the assessment was to be in a
+ qualitative manner.
+
+ The project ‘s M&E arrangements included: (i) submission of quarterly monitoring reports by MENR to the
+ World Bank and the EU; (ii) quarterly supervision of the project by the World Bank; (iii) quarterly meetings
+ of a high-level steering committee chaired by MENR and comprising key representatives of participating
+ institutions; and (iv) a mid- term review by the World Bank. The quarterly progress reports prepared by
+ MENR provided the basis for the Bank’s supervision missions by focusing attention on key implementation
+ issues and progress towards meeting the PDO. The project was also monitored in accordance with
+ Turkey’s monitoring system for IPA funds. The Steering Committee was set to monitor the implementation
+ of the project and achievement of results, and to agree on corrective actions as appropriate.
+
+
+
+b. M&E Implementation
+  Quarterly progress reports and audited reports were consistently submitted according to schedule.
+  Interim and final progress reports, and a project implementation and completion report were prepared by
+  MENR. The World Bank conducted a mid-term review in January 2019, which did not reveal major issues
+
+                                                                                                    Page 12 of 16
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     EU/IPA Energy Sector TA Project II (P151934)
+
+
+
+  requiring project restructuring. The stationing in the World Bank Ankara office of the co-Task Team
+  Leader and senior energy, financial management, procurement, environmental, social and
+  communication experts enabled the Bank to provide implementation support to the client on a continuous
+  basis and not just during formal supervision missions. Steering committee meetings were held as
+  planned except for one year in 2016 when the committee did not meet, probably due to political instability
+  in that year.
+
+
+
+c. M&E Utilization
+  The use of the M&E system in tracking the progress of the project focused attention on the intermediate
+  and outcome indicators and on addressing issues related to ownership of some components, capacity of
+  the PIU and procurement delays of some contract packages. The close tracking of implementation
+  progress informed important World Bank decisions like the one-year extension of project closing date to
+  compensate for the delays caused by the pandemic (ICR, p.29). MENR was also able to use progress
+  monitoring data to decide on the use of savings on some activities to expand the scope of others as
+  appropriate.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project triggered OP/BP 4.01 “Environment Assessment” during preparation and was assigned a
+   Category ‘B’ rating. The rationale for a category B rating was that feasibility studies of projects to improve
+   the efficiency of electricity transmission and generation and gas transmission were to be prepared under the
+   energy efficiency component of the project. The project complied with the requirements of OP/BP 4.01 and
+   the overall safeguards rating was satisfactory in the last ISR.
+
+   During project implementation the World Bank triggered its operational policy on “Projects on International
+   Waterways’ (OP/BP 7.50) for EE in power generation. The policy was triggered because amendments to
+   the original contracts included EE on hydropower plants located on the Euphrates and Tigris Rivers – cross
+   border rivers. It was determined that the EE assessments would not lead to investments that could lead to
+   adverse changes in the quality or quantity of water flows to other riparian countries and, therefore, fell within
+   the exception under paragraph 7(b) of the Policy. An exception was requested and granted. The work
+   conducted under the project complied with the World Bank’s OP/BP 7.50 operational policy framework.
+
+
+
+
+b. Fiduciary Compliance
+   In the early stages of the project the FM requirements under the Guarantee Agreement could not be met
+   due to the unavailability of qualified FM staff in the PIU. These included (i) maintenance of an adequate
+   system of accounts for the project; (ii) preparation of interim un-audited financial statements on a quarterly
+
+                                                                                                     Page 13 of 16
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     EU/IPA Energy Sector TA Project II (P151934)
+
+
+
+   basis; (iii) having the project accounts audited on an annual basis. The impact was delays in payments to
+   contractors and suppliers and in submitting interim unaudited financial statements. These issues were
+   resolved after a full time FM specialist was appointed. At project closure there were no outstanding audit
+   reports, and the FM rating was Satisfactory.
+
+   Similarly, there were delays in procurement because of the weak capacity of the PIU. For this reason, the
+   project had been designed to have most of the contracts subject to post review. The World Bank devoted a
+   substantial time and effort to strengthen procurement capacity which gradually improved over time. For at
+   least the last two years before project closure, the procurement rating was Satisfactory.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   Gender. Gender did not form part of the project objectives and there were no gender disaggregated
+   project indicators at either the intermediate or outcome levels. Even the core indicator of project
+   beneficiaries (with a sub-indicator of female beneficiaries) was not included in the project results
+   framework. The ICR did not report any gender impacts of the project.
+
+   Institutional Strengthening. The project helped to build the capacity of several institutions in specific
+   functional areas. Key examples of such institutional strengthening were: (i) the establishment in EUAS of a
+   new energy efficiency unit to manage the identification of energy efficiency improvement in hydropower
+   plants; (ii) the set-up of a long-term scenarios planning unit within MENR’s General Directorate of Energy
+   Affairs; (iii) the provision of consulting services and training to the entities involved with the development of
+   the gas and electricity markets – MENR, EPIAS, EUAS, EMRA, TEIAS, BOTAS to enable them to further
+   develop their activities in alignment with the EU priorities; and (iv) the building up of project implementation
+   capacity of MENR’s PIU.
+
+   Mobilizing private sector financing. No project activities were directly aimed at promoting the
+   mobilization of private sector financing. However, enhanced performance of the electricity and gas markets
+   resulting from the development of exchange markets, strengthened sector planning and improved energy
+   efficiency would help to create an attractive environment for private sector investment.
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                   Reason for
+Ratings                          ICR                    IEG
+                                                                                   Disagreements/Comment
+Outcome                          Highly Satisfactory   Highly Satisfactory
+
+Bank Performance                 Satisfactory          Satisfactory
+
+Quality of M&E                   Substantial           Substantial
+
+Quality of ICR                   ---                   High
+
+                                                                                                      Page 14 of 16
+       Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+       EU/IPA Energy Sector TA Project II (P151934)
+
+
+
+
+12. Lessons
+
+The ICR had identified several good lessons of experience that can be drawn from this project. The
+ICRR suggests the following additional perspectives:
+
+Simple project designs with few stakeholders and components are easier to implement and
+have a better chance of success than those involving multiple stakeholders and components,
+however when a complex project design is deemed more suitable for achieving project
+objectives a conscious decision must be made whether to front load World Bank resources
+in project preparation or to shift more resources to the implementation phase. The project had
+an extensive list of activities involving many stakeholders (MENR, EUS, TEIAS, ESPIA, EMRA,
+BOTAS, including in some cases multiple units within the same stakeholder entity). The level of
+ownership and capacity was uneven such that the World Bank had to devote considerable effort
+interacting with stakeholders to ensure that there was adequate capacity (e.g., PIU) and ownership
+(e.g., EUAS) during the implementation phase. The approach was risky as it appears the issue of
+ownership was not adequately addressed at preparation stage although the implementation risk was
+well understood. There was no conscious decision to delay the World Bank’s support on ownership
+issues to the implementation phase, but the choice of the supervision staff team including a large
+part of it in the Ankara Office facilitated the constant attention that was needed on these aspects.
+
+Reforms typically require institutional capacity to implement and maintain, but capacity is
+subject to the risk of erosion due to staffing changes unless long range plans are put in
+place for continual training and recruitment of suitable personnel. Long term engagement of
+the World Bank and EU would help to keep the focus on safeguarding the achievements of the
+project, especially through later phases of the EU/IPA technical assistance program to the energy
+sector.
+
+The use of an alternative mechanism for implementing EU/IPA technical assistance from that
+used for other activities in the same sector program provided an opportunity for learning
+lessons and improving coordination with the EU. Other activities had been supported with the
+Central Financing and Contracting Unit of the Ministry of Treasury and Finance (CFCU) handling
+procurement and financial management. The implementation arrangement under this project
+involved project coordination within MENR and channeling of financing through a World Bank
+administered grant, thus providing an opportunity for capacity building within the sector while also
+enabling cross learning both within the sector and with the CFCU.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+
+
+
+                                                                                                 Page 15 of 16
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      EU/IPA Energy Sector TA Project II (P151934)
+
+
+
+The ICR was very well structured and written. Even though the absence of quantitative outcome indicator
+targets makes the efficacy ratings subjective, which is typical of technical assistance projects, the ICR provided
+cogent reasoning to justify the conclusions reached. In addition, efforts were made to strengthen conclusions
+on outcome achievements by providing examples of actual or potential impacts of the project beyond the
+strengthening of technical and administrative capacity. Examples include the actual application of the capacity
+built by the project on long term planning and modeling to the Government’s ratification of the Paris agreement
+on climate change and the indications of quantitative benefits that could accrue from implementation of the
+assessed energy efficiency improvements.
+
+The ICR was also very candid in its assessment of the Bank’s performance both at entry and during
+supervision. It appropriately highlighted the client capacity and ownership issues which required the World
+Bank’s substantial supervision inputs to ensure the success of the project.
+
+
+
+
+  a. Quality of ICR Rating
+      High
+
+
+
+
+                                                                                                    Page 16 of 16
+

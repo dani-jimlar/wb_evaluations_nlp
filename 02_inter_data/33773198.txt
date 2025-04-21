@@ -1,0 +1,1132 @@
+     Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+     NE-Urban Water and Sanitation Project (P117365)
+
+
+
+                                                                               Report Number: ICRR0022773
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P117365                                    NE-Urban Water and Sanitation Project
+
+ Country                                    Practice Area(Lead)
+ Niger                                      Water
+
+
+ L/C/TF Number(s)                          Closing Date (Original)              Total Project Cost (USD)
+ IDA-48930,IDA-58810,IDA-D1280             31-Dec-2015                                       152,362,760.03
+
+ Bank Approval Date                        Closing Date (Actual)
+ 26-Apr-2011                               31-Dec-2020
+
+                                           IBRD/IDA (USD)                                    Grants (USD)
+
+ Original Commitment                            90,000,000.00                                            0.00
+
+ Revised Commitment                           159,498,402.74                                             0.00
+
+ Actual                                       152,362,760.03                                             0.00
+
+
+
+
+ Prepared by                Reviewed by                  ICR Review Coordinator        Group
+ Wendy Schreiber Ayres      Ihsan Kaler Hurcan           Ramachandra Jammi             IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objective, as stated in the Financing Agreement dated May 12, 2011 (page 6), was
+   to increase access to sustainable water supply services and to improved sanitation services in some urban
+   areas in the Recipient’s territory.
+
+   The Project Development Objective as stated in the Project Appraisal Document (PAD) (page 4) was identical
+   to that in the Financing Agreement.
+
+
+                                                                                                Page 1 of 21
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     NE-Urban Water and Sanitation Project (P117365)
+
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  30-Jun-2016
+
+c. Will a split evaluation be undertaken?
+   Yes
+
+d. Components
+   The project is comprised of three components (PAD pages 5 to 6):
+
+   Component 1. Urban water supply (cost at appraisal: US$68.70 million, actual cost: US$132.21 million).
+   This component focused primarily on the expansion of distribution networks and the development of social
+   connections and standposts to serve the most vulnerable in the cities of Niamey, Agadez, Arlit, and Tahoua,
+   as well as in 18 secondary centers. The component included support for social connections and standposts
+   in other cities and secondary centers. This component also included works to improve water storage in
+   Niamey and water production, transmission, and storage across the remaining aforementioned urban areas.
+   Finally, it contained support for water treatment facilities in five towns (Gazaoua, Goudoumaria,
+   Guidanroumdji, Matankari, and Tessaoua) where groundwater quality did not comply with drinking water
+   standards due to excessive fluorine, iron, or nitrates.
+
+   Revised component 1. Following the cancellation of the construction of household latrines and washing
+   and soakaway facilities under component 2, US$7.75 million was transferred to component 1 to undertake
+   additional water supply works. These included works to improve water production, storage, transmission,
+   and distribution capacities in the semi-urban towns of: (a) Tillaberi-Sakoira-Diambala-Namarigoungou and
+   eight neighboring villages, (b) Gothèye-Kakassi-Koulikoira and two neighboring villages, (c) Galmi with
+   extension to neighboring villages, and (d) Famalé. Through the Additional Financing (AF), activities totaling
+   US$55.76 million in IDA financing were added to component 1. These included: works to improve water
+   production, storage, transmission, and distribution capacities and construct social connections, institutional
+   connections (to schools and health centers), and standpipes within the cities of Agadez, Zinder, Tillaberi,
+   Niamey, and three secondary centers.
+
+   Component 2. Urban sanitation (cost at appraisal: US$18.0 million of which $17.2 million IDA and $0.8
+   million from beneficiaries [10 percent share of onsite sanitation facilities], actual cost: US$19.47 million).
+   This component aimed at supporting the construction of household and school latrines, public sanitation
+   facilities, household washing and soakaway facilities in Niamey and Dosso, and a fecal sludge treatment
+   plant in Niamey to provide an environmentally-sound disposal solution to septage haulers. With respect to
+   household latrines, the component intended to scale up a pilot on-site sanitation program that was
+   successfully tested in Niamey under the previous Bank-financed Water and Sanitation Project, which
+   included the training of local masons and contractors. The component also included support for Information,
+   Education and Communication (IEC) activities to promote behavior change, including media campaigns and
+
+                                                                                                     Page 2 of 21
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    NE-Urban Water and Sanitation Project (P117365)
+
+
+
+  hygiene education, as well as the preparation of bidding documents and the supervision of works for the
+  fecal sludge treatment plant.
+
+  Revised component 2. Under the Project’s first restructuring, component 2 activities related to the
+  construction of household latrines and washing and soakaway facilities were cancelled. With this
+  cancellation, the beneficiary contribution of US$0.80 million, which consisted of a 10 percent share of the
+  cost of onsite sanitation facilities, was no longer required. The associated IDA financing was reallocated to
+  component 1. Through the AF, additional activities totaling US$10.02 million in IDA financing were added to
+  component 2. These included the construction of school latrines and handwashing stations, and the
+  implementation of sanitation awareness and demand creation campaigns, in the cities of Niamey, Dosso,
+  and Tillaberi. The construction of a second fecal sludge treatment plant and the development of a fecal
+  sludge management service chain were also added.
+
+  Component 3. Institutional strengthening and capacity building (cost at appraisal: US$4.10 million,
+  actual cost: US$8.51 million). This component included institutional support to the urban water sub-sector to
+  consolidate sector reform, including through assistance to update the subsector financial model and
+  capacity building of Water Assets Holding Company (Société de patrimoine de l’eau du Niger, (SPEN)) and
+  the Multi-Sectoral Regulatory Authority (Autorité de Regulation Multisectorielle) staff in project management,
+  regulation, procurement and financial management. The component also contained capacity building and
+  support to the project implementation agencies responsible for urban water supply and sanitation within the
+  Ministry of Water, Environment, and Fight against Desertification (Ministère de l’Eau, de l’Environnement et
+  de la Lutte contre la Désertification). The component included capacity building and training in environment
+  and social management to entities involved in applying World Bank safeguards procedures. Finally, the
+  component included support for coordination and project management.
+
+  Revised component 3. Under the AF, US$4.22 million in IDA was allocated to component 3 to further the
+  same activities included in the parent project.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost: The original estimated project cost was US$90.8 million. With the AF, the original estimated
+  project cost was US$160.0 million. The actual cost at completion was US$152.4 million.
+
+  Financing: The project’s cost was financed through an IDA Credit of US$160 million equivalent. Funds from
+  beneficiaries declined from an estimated US$0.80 million to US$0 due to the cancellation of the
+  construction of household latrines and washing and soakaway facilities.
+
+  Borrower Contribution: No Borrower’s contribution was foreseen.
+
+  Restructuring:
+
+  First Restructuring. The project was restructured on May 23, 2013 to cancel the household sanitation and
+  hygiene activities, because procurement of a delegated management firm could not move forward because
+  the first-ranked firm was partly owned by a member of parliament, who was prohibited by the Niger
+  Constitution to participate in public procurement. Because this rule is inconsistent with the Bank’s
+  procurement rules, the project team could not then select the second-ranked firm. The Borrower requested
+  that the activities related to the onsite sanitation be cancelled and that the funds be reallocated from
+
+                                                                                                   Page 3 of 21
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     NE-Urban Water and Sanitation Project (P117365)
+
+
+
+   component 2 to component 1 to support additional urban water supply activities. Other changes included
+   revisions to the results framework to align with the activities to be supported and to modify indicator targets.
+
+   Second Restructuring. A second restructuring on March 26, 2015 extended the closing date by one year to
+   December 31, 2016 to allow time to complete the works added to component 1. It took more time than
+   initially anticipated to prepare the technical studies for these works and to complete bidding processes to
+   award the civil works.
+
+   Third Restructuring. A third restructuring on June 9, 2016 provided an additional grant of US$60 million and
+   an additional credit of US$10 million to undertake additional activities and expand the project’s development
+   impact and extended the closing date by three years and six months to June 30, 2020, to allow for
+   completion of the additional works financed by the AF. Other changes included (a) revisions to the results
+   framework to reflect the additional funding and extended implementation period and to add an intermediate
+   results indicator to track resolution of complaints, (b) changes in Safeguard Policies triggered, (c) changes
+   to disbursement arrangements, (d) changes in disbursement estimates, (e) changes in procurement, and (f)
+   changes in implementation schedule.
+
+   Fourth Restructuring. A fourth restructuring on May 12, 2020 extended the project’s closing date by an
+   additional six months to December 31, 2020 and added activities to help the government respond to the
+   Covid-19 emergency. The results framework was revised to reflect the extended implementation period and
+   to modify a PDO-level indicator, from “Restoration of the financial equilibrium of the urban water sector” to
+   “Water sector financial equilibrium improved,” as restoration of the financial equilibrium of the urban water
+   sector would require a tariff adjustment that was not achievable during the remaining project life; (b) and two
+   intermediate outcome indicators were added to capture Covid-19 response: health centers provided with
+   water connections and number of hygiene packages delivered in schools, health centers, and refugees’
+   sites. Other changes included changes in disbursement estimates and in project implementation schedule
+   to reflect the extension in the closing date.
+
+   Dates: The project was approved on April 26, 2011 and became effective on September 1, 2011. The
+   project closed on December 31, 2020, five years after the original closing date of December 31, 2015, as
+   discussed above under restructuring.
+
+   Split Rating. Since the target values of the sanitation PDO outcome indicators were modified during project
+   restructuring, efficacy of the project in achieving objective 2 is assessed against both the original targets
+   and the revised targets. Therefore, the review will conduct split rating for objective 2.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and Sector Context at Appraisal
+
+
+
+Niger is a landlocked country with an estimated population of 15.3 million people, with insufficient and
+erratic rainfall. Niger is among the world’s poorest countries with a per capita income of only US$340 in
+
+                                                                                                      Page 4 of 21
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     NE-Urban Water and Sanitation Project (P117365)
+
+
+
+2009 and ranks last in terms of its human development index. The access rate to safe water in Niger was
+estimated in 2009 at 72 percent in urban areas and 62 percent in rural areas, and to improved sanitation at
+38 percent and 5 percent in urban and rural areas, respectively. The urban population was growing at 6
+percent a year, and many unserved residents paid up to 10 percent of their monthly income for water. This
+situation called for the development of technical solutions that were affordable to the broadest strata of the
+population and at the same time ensures the financial viability of the sector. Improving access to improved
+sanitation services required focusing on low-cost solutions and strategic planning.
+
+Alignment with Country Priorities
+
+The PDO was well-aligned with Niger’s socio-economic development and water supply and sanitation
+sector policies. The project is aligned with Niger’s Vision 2035, as expressed through the Sustainable
+Development and Inclusive Growth Strategy, in particular under Strategic Axis 3 “Development of Human
+Capital,” through which the government aims to ensure access to drinking water, sanitation, and a decent
+standard of living. The PDO also supports (a) Axis 2 “Modernization of the Government” by supporting
+capacity building of relevant ministries, departments, and agencies to ensure that citizens enjoy quality
+public services; and (b) Axis 5 “Development of a Dynamic Private Sector” by supporting public-private
+partnerships in water, sanitation, and hygiene service provision.
+
+The PDO was also aligned with the National Action Plan for Integrated Water Resources Management
+2017–2030. This defines the framework for water resources management in the country. It includes five
+specific objectives, including notably to improve equitable and sustainable access to potable water supply
+and sanitation facilities and to improve good governance in the water sector. In addition, the PDO was
+aligned to the Water, Sanitation, and Hygiene Sector Program 2016–2030, which replaced the PN-AEPA.
+
+Alignment with Bank Strategy
+
+The project’s objectives are assessed as highly aligned with the World Bank’s current strategy as laid out in
+Country Partnership Framework (CPF) for fiscal 2018–2023. The project sought to address the
+development problem of lack of access to water supply and sanitation services in urban areas by financing
+the related infrastructure investments. The project also aimed to address weak sector institutions to
+continue delivering services and expanding services to new customers through provision of technical
+assistance and advice. The project objectives correspond to “Objective 9: Improved urban environments for
+income generation and growth” under the “Focus Area 3: Better Governance for Jobs, Service Delivery and
+Growth (CPF, pp. 26–30). In addition, the provision of water supply, sanitation, and hygiene services is
+identified as a prioritized intervention for the Sahel by the Bank’s Africa Sustainable Development Practice
+Group.
+
+Previous World Bank Experience.
+
+The World Bank has been a prominent partner in the water supply and sanitation sector since 2001. The
+WSP (closed in December 2009) was instrumental in increasing access to piped water, reforming the urban
+water sub-sector, and improving its operational performance. The Urban Water and Sanitation Project
+(UWSP) was designed to follow-up on the gains from the WSP, safeguard and expand the progress
+achieved thus far in the face of increased fragility and conflict and serve as critical support to the
+implementation of PN-AEPA in urban areas. Although it was first conceived in early 2009, the UWSP was
+not approved by the board until April 2011 when the World Bank decided to resume the extension of new
+financing to Niger following democratic presidential elections.
+
+
+                                                                                                     Page 5 of 21
+                                      Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+                                      NE-Urban Water and Sanitation Project (P117365)
+
+
+
+               However, while the objective remained relevant throughout the project cycle and was a necessary response
+               to a development gap in Niger, a significant shortcoming was the lack of clarity in the project formulation
+               around what outcomes would be achieved through increasing access to sustainable water supply services
+               and improved sanitation services. The causal chain between funding and outcomes was clear, albeit with
+               most targets at output level, as the objective was closer to the output level, rather than the outcome level.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             Objective 1: “Increase access to sustainable water supply services in some areas of the Recipient’s territory.”
+
+                             Rationale
+                             Theory of Change
+
+                             The project’s theory of change indicates that the project’s inputs—IDA’s financial and technical assistance
+                             support—would directly lead to the achievement of project outputs of (a) expanded and improved water
+                             production, transmission, storage, and distribution infrastructure; (b) increased household connections to the
+                             water network and community waterpoints; (c) new water treatment plants; and (d) strengthened capacity of
+                             the water sector institutions to sustainably provide services.
+
+
+
+                             In turn, these outputs would be expected to result in the outcome of more people in targeted urban centers
+                             using safe water that would be supplied sustainably by Société d’Exploitation des Eaux du Niger (SEEN, the
+                             Niger Water Operating Company). Overall, the causal pathways from inputs to outcomes were valid and
+                             direct, and the outcomes achieved could be mostly attributed to the project’s interventions.
+
+                             The key assumptions for achieving this objective were: (a) the construction of a water production,
+                             transmission, storage, distribution infrastructure, and water treatment plants would lead to increased
+                             availability of potable water; and (b) construction of social connections would lead to an increase in the
+                             number of people served.
+
+                             Outputs
+
+                                        1,004 improved community water points (standposts) constructed or rehabilitated under the project.
+                                          The revised target set at the AF was 953.
+                                        67,850 new piped household water connections were constructed under the project. The original
+                                          target set at the AF was 61,100.
+
+                                                                                                                                 Page 6 of 21
+   Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+   NE-Urban Water and Sanitation Project (P117365)
+
+
+
+
+      Some 100,000 people gained access to enhanced water supply services (that is water quality
+       compliant with standards, increased pressure, increased continuity) under the project. The revised
+       target set the AF was 100,000 people.
+
+Outcomes
+
+Compared against the end-project targets
+
+PDO Indicator 1: 929,500 people were provided with access to “Improved Water Sources” under the
+Project. The revised target set at the AF was 849,250 people.
+
+PDO Indicator 4: Some 1,029,500 people directly benefited from the project (52 percent female). The revised
+target set at the AF was 949,250 people (50 percent female).
+
+PDO Indicator 5: Restoration of financial equilibrium of the urban water supply sector was fully achieved by
+project closing. This indicator measured the contribution of the project towards the sustainability of the urban
+water sector. The financial equilibrium is considered maintained when SPEN’s revenues cover operating
+costs and reimburse debt service while generating a surplus to finance new investments. The project team
+worked to include two prior actions in the Bank-financed Second Laying the Foundation for Inclusive
+Development Policy Financing (P173113, approved on August 6, 2020). The first was that “the Recipient has
+paid arrears due to SEEN and the overdue balance to SPEN up to April 2020.” To meet this prior action, the
+government cancelled SPEN’s major debt payments, restoring its financial equilibrium. The second was the
+President has issued a decree approving the water tariff adjustment plan in urban and semi-urban areas. To
+meet this prior action, the President issued Decree No. 2020‐384/PRN/MH/A of May 19, 2020 approving the
+water tariff adjustment plan. Also supporting the sustainability of the urban water sector was the support the
+project provided for the renegotiation of the government’s contracts with SPEN and SEEN to include technical
+and commercial performance indicators to be tracked, with financial penalties or reductions in remuneration if
+select targets are not met.
+
+Overall, efficacy of the project in achieving this objective is substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+Objective 2 “Increase access to improved sanitation services in some urban areas in the Recipient’s territory”
+
+Rationale
+Theory of Change
+
+A direct causal link can be drawn between the project’s original activities and the expected outcomes. The
+activities consisted of (a) construction of household sanitation facilities; (b) Education, and Communication
+activities outreach; (c) training of masons and contractors for sanitation infrastructure; (d) construction of fecal
+sludge treatment facilities; (e) construction of school sanitation facilities; and (f) construction of public
+
+                                                                                                      Page 7 of 21
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   NE-Urban Water and Sanitation Project (P117365)
+
+
+
+sanitation facilities. The key outputs were household, school, and public sanitation facilities. The main
+outcomes were (a) people with access to improved sanitation under the project; and (b) students provided
+with access to appropriate sanitation facilities in their schools under the project. Overall, the causal pathways
+from inputs to outcomes were valid and direct, and the outcomes achieved could be mostly attributed to the
+project’s interventions.
+
+The key assumption leading to this objective was that the construction of latrines at households and at
+schools would lead to people and students gaining access to improved sanitation under the project.
+
+Outputs
+
+      No improved latrines at households were constructed under the project. The target at appraisal was
+       23,500.
+      No on-site greywater facilities were constructed under the project. The target at appraisal was 5,000.
+       As noted above, the household latrines and greywater facilities were cancelled during the first
+       restructuring in May 2013.
+      3,164 new school latrines were constructed under the project. The revised target set at the time of the
+       AF was 3,164.
+      20 public sanitation facilities were constructed under the project, matching the target set at project
+       appraisal.
+      Although not in the results framework, two fecal sludge treatment were constructed under the project.
+
+Outcomes
+
+Compared against the original target
+
+PDO Indicator 2: No people were provided with access to “Improved Sanitation” under the project, which for
+this indicator referred only to people benefiting from improved latrines at households.
+
+PDO Indicator 3: Some 86,940 students provided with access to appropriate sanitation facilities in their
+schools under the Project. The revised target set at AF was 86,940.
+
+The sustainability of improvements to the sanitation service chain under the Project depends on the effective
+implementation of newly established management models and continued engagement of relevant
+stakeholders. The Project supported the municipalities in developing public-private partnership arrangements
+for the management of the two fecal sludge treatment plants and the public sanitation facilities. Municipalities
+are responsible for monitoring and enforcing their provisions and negotiating new contracts in a timely
+fashion. In addition, schools must ensure sustained contributions from parents or obtain earmarked budget
+allocations for the maintenance of constructed latrines to facilitate the work of management committees.
+
+Overall, the efficacy of the project in achieving this objective is modest.
+
+
+
+Rating
+Modest
+
+
+
+                                                                                                    Page 8 of 21
+                                 Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+                                 NE-Urban Water and Sanitation Project (P117365)
+
+
+
+
+                              OBJECTIVE 2 REVISION 1
+                              Revised Objective
+                              Objective 2: “Increase access to improved sanitation services in some areas of the Recipient’s territory.”
+                              (Revised indicators)
+
+                              Revised Rationale
+                              Theory of Change (ToC). In the ToC activities and outputs related to construction of improved household
+                              latrines and greywater facilities were dropped, along with the associated PDO indicators.
+
+                              Outputs
+
+                              Two output indicators were dropped. These were improved latrines and on-site greywater facilities
+                              constructed under the project.
+
+                              Outcomes
+
+                              Compared against the revised target set at the AF, June 9, 2016.
+
+                              PDO Indicator 3: 86,940 students were provided with access to appropriate sanitation facilities in their
+                              schools under the Project. The revised target set at AF was 86,940 students.
+
+                              Overall, the efficacy of the project in achieving this objective is rated substantial.
+
+
+
+                              Revised Rating
+                              Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            Overall efficacy for the original objectives is rated Modest. Although the project exceeded its targets for
+                            objective 1 of increasing access to sustainable water supply services in some areas of the Recipient’s
+                            territory, it did not achieve the targets for objective 2 increasing access to improved sanitation services in
+                            some areas of the Recipient’s territory.
+
+
+
+                            Overall Efficacy Rating                                       Primary Reason
+                            Modest                                                        Low achievement
+                  OBJR1_TBL
+
+
+
+
+                            OVERALL EFFICACY REVISION 1
+                            Overall Efficacy Revision 1 Rationale
+                            Overall efficacy is rated Substantial. The objective of increasing access to sustainable water supply services
+                            in some areas of the Recipient’s territory was overachieved and is rated high. The objective of increasing
+
+                                                                                                                                  Page 9 of 21
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      NE-Urban Water and Sanitation Project (P117365)
+
+
+
+  access to improved sanitation services in some areas of the Recipient’s territory was fully achieved and is
+  rated substantial. Overall efficacy is rated high.
+
+
+
+  Overall Efficacy Revision 1 Rating
+  Substantial
+
+
+
+5. Efficiency
+Economic and Financial Efficiency
+
+Economic efficiency. An economic analysis of the project was conducted at appraisal, consisting of (a) a cost-
+benefit analysis of the urban water component of the proposed project (75 percent of total costs); and (b) an
+assessment of the cost effectiveness of sanitation investments (PAD, page 10). The assumptions and
+methodology used in the cost-benefit analysis were appropriate. The benefits comprised the profit from water
+sales and the consumer surplus measured as increases in volume of water consumed per person. The costs
+included the investment costs and the operation and maintenance costs of the water supply network. The net
+present value (NPV) of the water supply component was estimated to beUS$2.02 million using a discount rate of
+10 percent, and the internal rate of return (IRR) was estimated to be 10.5 percent. This is an underestimate,
+because the benefits of reduced time spent collecting water, improved health, and other benefits were not
+included in the estimate of the NPV and EIRR. The economic analysis of the urban sanitation investments
+confirmed that the technical options selected were cost-effective approaches to increase access to sanitation
+services.
+
+The economic analysis was updated for the AF, using the same methodology as for appraisal AF Project Paper,
+page 37–38). The net present value (NPV) of the water supply component was estimated to be US$8.8 million
+using a discount rate of 5 percent, and the internal rate of return (IRR) was estimated to be 7.2 percent. (The
+discount rate was adjusted from 10 percent at appraisal to 5 percent as per the World Bank guidelines for these
+types of development investments.)
+
+
+
+The economic analysis was again updated at project completion, using the same assumptions and methodology
+as the previous estimates. The net present value (NPV) of the water supply component was estimated to be
+US$51.5 million using a discount rate of 5 percent, and the internal rate of return (IRR) was estimated to be 10.4
+percent. The sanitation component is assumed to have been implemented at minimum cost as a result of
+competitive procurement.
+
+Financial assessment. The project sought to improve the sustainability of urban water supply services by
+restoring the financial equilibrium of the sector, which was achieved in the last project year. Given the unpaid
+water bills of public institutions (that is, recurrent arrears) and with a regulated tariff for service provision,
+currently at about US$0.6 per cubic meter, revenues cover slightly more than the O&M costs of the urban water
+supply system. Thus, the system is found to be financially viable covering all its O&M costs and limited
+investments out of tariff revenues. Investment costs are mostly co-financed for tertiary networks and ordinary
+private water supply connections, with major water infrastructure investments financed by the national
+
+
+                                                                                                     Page 10 of 21
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      NE-Urban Water and Sanitation Project (P117365)
+
+
+
+government through loans and grants. Also, SPEN/SEEN have full financial and administrative independence
+with no recurrent subsidies from the government. According to financial statements, its net cash flow has been
+positive for the last several years.
+
+Design and implementation efficiency. As noted above, the planned investments in household latrines and
+soakaway facilities had to be canceled because of issues with procurement, a significant shortcoming in
+implementation efficiency. However, the project team restructured the project early in project implementation
+when disbursement was low, which led to an improvement in the efficiency of the project. In addition, not all
+contracts were complete by project closing due to the poor performance of contractors. The project closing date
+was extended by one year through the March 2015 restructuring because preparation of the technical studies for
+proposed new activities and completion of the bidding process took longer than expected. Inadequate
+procurement and management of some contracts resulted in multiple amendments and significant delays and
+contract cost overruns. Site selection for a fecal sludge treatment plant did not take account of the need to
+resettle 116 project-affected persons, delaying construction by more than a year while to allow for preparation of
+a resettlement action plan and negotiations with project-affected persons. Despite these challenges, the project
+was implemented according to budget (no cost overrun/underrun), implying that there were significant gains
+from lower costs for some other contracts, off-setting overruns in others. All major activities were completed, and
+the loan was fully disbursed.
+
+
+
+Overall, the quantified long-term benefits are substantial in comparison to the costs. However, there were
+shortcomings in preparation of technical studies, procurement, contract management, and implementation of
+safeguard policies that delayed project implementation. The efficiency of the project is rated substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)          *Coverage/Scope (%)
+                                                                                     75.00
+ Appraisal                                                 10.50
+                                                                                      Not Applicable
+                                                                                     80.00
+ ICR Estimate                                              10.40
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Under the original outcome targets. With substantial relevance of objectives, modest efficacy, and substantial
+efficiency, the overall rating is Moderately Unsatisfactory (3)
+
+
+                                                                                                     Page 11 of 21
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      NE-Urban Water and Sanitation Project (P117365)
+
+
+
+Under the revised outcome targets for objective 2. With substantial relevance, substantial efficacy, and
+substantial efficiency, the overall rating is Satisfactory (5).
+
+A split rating is applied based on the disbursement shares before and after the project restructuring in 2013,
+with a disbursement share 7.21 percent (total financing was US$152.36 million). The overall outcome rating is
+the average of the weighted value of outcome ratings, that is, 3 (moderately unsatisfactory) x 7.21 percent of
+disbursements = .2163 and 5 (satisfactory) x 92.79 percent of disbursements = 4.6395. The weighted average
+score is the sum of the two, 4.8558, which translates to Satisfactory. Please see the table below.
+
+　                                 Original Objectives Revised Objectives
+Relevance of Objectives         Substantial
+Efficacy                        Modest               Substantial
+Efficiency                      Substantial
+                                Moderately
+Outcome Rating                                       Satisfactory
+                                Unsatisfactory
+Outcome Rating Value (a)        3                    5
+Amount Disbursed (US$
+                                10.98                   152.36
+million)
+Disbursement (%) (b)                    7.21%               92.79%
+Weight Value (a)x(b)                    0.2163              4.6395
+Total weights                                4.8558 (rounds up to 5)
+Overall Outcome Rating                          Satisfactory (5)
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+The risk to development outcome is considered to be moderate. The government’s ability to effectively
+negotiate new 10-year contracts with SPEN and SEEN, is likely, given the nearly 20-year engagement of
+both entities in the sector. A new water sector regulator has been established as an independent entity in
+accordance with international best practices. The GoN’s continued support for this nascent structure will be
+critical to its success in better enforcing SPEN’s and SEEN’s contractual performance targets and in
+anchoring the sector’s tariff setting in sound policy.
+
+Failing to increase tariffs and avoid future arrears is a risk to the financial equilibrium of the water
+sector. The project successfully supported the urban water sector in restoring its financial equilibrium
+through the GoN’s payment of accumulated arrears. However, for this regained equilibrium to be sustained,
+the GoN will need to follow through with its commitments to longer-term change through: (a) the
+implementation of the multi-year tariff adjustment plan, with an initial tariff adjustment planned for January
+2022 in accordance with a prior action of the second Development Policy Operation; and (b) the
+establishment of a mechanism for the timely payment of arrears that may arise in the future. Given the
+country’s status as one of the world’s poorest, and domestic and regional conflict and instability, there
+remains a high risk that the government may choose to further delay tariff increases and that it may not
+allocate sufficient resources to the sector in the face of competing fiscal priorities.
+
+
+                                                                                                    Page 12 of 21
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      NE-Urban Water and Sanitation Project (P117365)
+
+
+
+Failure to place adequate emphasis on commercial performance is also a risk. However, although
+SEEN and SPEN have nearly doubled their number of clients, they have maintained high technical
+performance and staff productivity, and are regional leaders in service reliability and quality. While not a
+focus of the project, the bill collection rate for non-governmental customers has decreased from 96.9 percent
+to 87.7 percent during this period, likely due to the overrepresentation of poor and vulnerable communities
+among new customers.
+
+The effective implementation of newly established management models will reduce the risk to
+development outcomes. With complementary support from the World Bank’s Public-Private Infrastructure
+Advisory Facility, the project supported the development of a five-year public-private partnership
+arrangement between the municipality of Niamey and a private operator for the management of the fecal
+sludge treatment facilities, as well as a financial model to help ensure the sustainability of the infrastructure.
+The first plant is currently operating at an average capacity of 87 percent, demonstrating a high demand for
+such services. The second plant is planned to become operational later in 2021. Niamey’s sanitation service
+chain was further strengthened through capacity building activities for the city’s mechanical emptiers and the
+newly contracted fecal sludge treatment plant private operators (ICR, page 20). The public-private
+partnerships put into place to manage the delivery of water services have been successful and have
+provided lessons in how to formulate and manage such contracts, so these arrangements are expected to
+succeed.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  At project entry, the objective to increase access to sustainable water supply services and to improved
+  sanitation services by expanding water and sanitation services in the urban areas in accordance with the
+  targets set in Niger’s National Water and Sanitation Program and its poverty reduction strategy (2008–
+  2012) was of high strategic priority. Project design built on sector policies, and previous Bank
+  engagements and experience. The project’s approach was straight forward, expanding water production,
+  storage and distribution capacities, and facilitating access to services through programs for constructing
+  social water connections, public standposts, and on-site sanitation facilities; and consolidating the
+  achievements of the urban water sub-sector reform and strengthening capacities to deliver and manage
+  services. The project provided support to improve the financial performance of the water services
+  institutions. The project activities were sufficient to achieve the project objectives. The technical aspects
+  of the project were sound. The project supported implementation of proven technologies to address the
+  development problem of limited access to water and sanitation services. Economic and financial aspects
+  of the project were sufficiently assessed justifying the viability of the project. A project coordination unit
+  set up under the previous Bank-funded project was responsible for the management and coordination of
+  the project, including procurement, financial management, preparation of annual work plans, and
+  monitoring and evaluation. The project implementing agencies, SPEN for water and the project
+  coordination unit for institutional strengthening and capacity building had capacity and experience to
+  implement the project. Although the Directorate of Basic Sanitation of the Ministry of Water, Environment
+  and Fight against Desertification did not have prior experience with implementing a Bank-financed
+  project, capacity building activities were identified to ensure it could play its role effectively. Further, the
+  household latrines and soakaway facilities would be implemented under a delegated management
+
+
+                                                                                                       Page 13 of 21
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     NE-Urban Water and Sanitation Project (P117365)
+
+
+
+  contract. To ensure the adequate implementation of activities, a project implementation manual was
+  prepared. Lessons learned from the recently closed Water and Sanitation Project similar water and
+  sanitation projects in West Africa countries, including Niger, were incorporated in the project design, such
+  as the implementation procedures for the household sanitation facilities (PAD, page 33). The indicators in
+  the results framework were sufficient to measure the project outputs and outcomes.
+
+  However, the quality at entry did have shortcomings. The preparation advance intended to advance
+  preparation of technical studies was not used. The capacity weaknesses of the General Directorate of
+  Sanitation, which lacked the dedicated staff required for successful implementation, was not adequately
+  identified during project preparation. The Bank team could have addressed this issue by requiring the
+  agencies to augment their human resources prior to effectiveness. In addition, although most risks were
+  appropriately identified, procurement risk was rated moderate. Challenges with procurement led to the
+  cancelation of the household sanitation and soakaway facilities and to delays in implementation of other
+  activities, and a restructuring of the project.
+
+  Overall, there were moderate shortcomings in the World Bank`s identification, preparation, and appraisal
+  of the project to achieve the project objectives. But quality at entry is still rated satisfactory, though
+  marginally so.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ Three task team leaders led project preparation and implementation. The first two task team leaders were
+ based in Bamako. The last task team leader had been part of the Bank team since preparation and was
+ based in Niamey, allowing consistent follow up, including weekly meetings with the project coordination unit
+ and implementing agencies during the final year of implementation. Such close supervision ensured that
+ the implementation teams focused on development impact, such as the need to restore the financial
+ equilibrium of the water sector institutions. Some 21 implementation support missions were held during
+ project implementation, one every six months. Aide memoires and Implementation Status and Result
+ Reports were of high quality and candid, thoroughly covering all key issues and providing practical
+ recommendations on how to address challenges. Supervision of safeguard and fiduciary aspects of the
+ project was appropriate. The Bank team closely monitored compliance with safeguards and flagged issues
+ when required procedures were not adequately followed. Similarly, the project team was actively involved
+ in resolving the delays in procurement by bringing the implementing agencies together with Minister of
+ Water and Sanitation to discuss the role of the procurement specialist at the project coordination unit in the
+ procurement process, which resulted in substantially improved compliance with the Bank’s procurement
+ guidelines. The Bank team also proactively introduced a performance evaluation spreadsheet for SPEN to
+ use to improve contract management. The task team proactively restructured the project four times to
+ extend the project closing date, adjust activities, reallocate funds, and amend the results framework. The
+ team’s decision to restructure the project early during implementation when disbursements were low led to
+ an improvement in the efficacy and efficiency of the project in achieving the project’s objectives.
+
+
+
+
+                                                                                                   Page 14 of 21
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     NE-Urban Water and Sanitation Project (P117365)
+
+
+
+ Overall, the quality of supervision is rated satisfactory, and the overall Bank Performance is rated
+ Satisfactory because of the project team’s proactive actions to improve project implementation and the
+ achievement of the project activities while disbursement was low.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The theory of change was sound, specifying how the key activities and outputs led to the outcomes as
+ reflected in the results framework. The project development objectives to increase access to sustainable
+ water supply services and to improved sanitation services in some urban areas in the Recipient’s territory
+ were clearly specified and reflected in the outcome indicators included in the results framework. The
+ intermediate results indicators, measuring outputs such as number of household connections, community
+ standpipes, and improved latrines to be constructed under the project were adequate to capture the
+ contribution of the operation’s activities and outputs toward achieving PDO-level outcomes as presented in
+ the project appraisal document. The indicators were specific, measurable, achievable, relevant, and time-
+ bound, with baseline and target values specified for all indicators. The proposed data collection methods
+ were adequate for all indicators. Overall, the project coordination unit had the capacity to implement the
+ M&E arrangements and the indicators were sufficient to measure the achievements of the project in
+ increasing the access to water and sanitation services. However, the design of the results framework had
+ two moderate shortcomings. First, despite many potential indicators related to sustainability, only one was
+ included in the results framework: the restoration of the financial equilibrium of the urban water sector.
+ Indicators measuring the sustainability of services, such as the number of hours of services per day, were
+ not included in the results framework, although the ICR in paragraph 49 notes that services were
+ maintained at 22 hours per day through the project period. Second, the results framework did not account
+ for improvements in the sanitation service chain beyond construction of new latrines. The results
+ framework did not capture the construction of new fecal sludge treatment facilities, the first in the country.
+
+
+
+b. M&E Implementation
+  The impact and performance of the project were effectively monitored through data collection and
+  reporting by the relevant entities (SPEN, the Directorate General of Sanitation, and the urban water
+  sector regulator), which were then compiled by the PCU. The results framework was revised during each
+  restructuring, dropping an indicator related to activity that was canceled, and updating targets to reflect
+  additional financing. The data were found to be reliable and of good quality by an independent technical
+  audit of all results against the project indicators conducted in 2018. SPEN reported on access and
+  financial sustainability indicators for the urban water sector, in compliance with its performance contracts,
+  which are verified by the regulator. These are likely to be sustained as long as the use of performance
+
+                                                                                                     Page 15 of 21
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     NE-Urban Water and Sanitation Project (P117365)
+
+
+
+  contracts remains in place. Further guaranteeing reliability and quality of data are the periodic,
+  independent evaluations of urban water sector performance by: (a) the technical auditor who periodically
+  verifies and validates the values of key indicators submitted by SPEN, SEEN and the GoN under the
+  relevant performance contracts, and (b) the financial auditor who annually assesses the reliability of the
+  financial model. Joint field visits by the Bank team, the PCU, and the implementing agencies during
+  missions verified results achieved and evaluated the quality of infrastructure constructed under the
+  project.
+
+
+
+c. M&E Utilization
+  Indicators were communicated effectively and used throughout implementation to assess project
+  progress, identify the need for adjustments and make decisions accordingly. For example, when the
+  Bank and government teams noted that the project was exceeding its water access targets, which
+  demonstrated the capacity of the SPEN to implement works, it sought additional financing to reach even
+  more people. In addition, consistent monitoring of the sectors’ financial situation showed the team that
+  restoration of the financial equilibrium was unlikely, which led to the Bank team proactively engaging in
+  dialog to include arrears clearance as a prior action in the Bank-financed Second Laying the Foundation
+  for Inclusive Development Policy Financing. The M&E data were used to provide evidence of
+  achievement of the increase in the access to water and sanitation services, which the government used
+  to update its coverage numbers. Finally, the M&E systems helped to improve SPEN’s capacity to assess
+  its financial performance. However, the results framework did not include outcome indicators, such as
+  time saved for fetching water, so evidence of such achievements is lacking.
+
+
+
+  The M&E system as designed and implemented was sufficient to assess the achievements of the project
+  objectives to increase access to water and sanitation services, but there were moderate shortcomings in
+  capturing the sustainability of these services.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   At appraisal the project was assigned Environmental category “B” because environmental risks and social
+   impacts were expected to be minimal and manageable, and, in most cases, reversible. Two safeguard
+   policies were triggered during preparation of the project: Environmental Assessment (OP/BP 4.01), and
+   Involuntary Resettlement (OP/BP 4.12). Two additional safeguard policies were triggered for the AF:
+   Physical Cultural Resources (OP/BP 4.11), and Projects on International Waterways (OP/BP 7.50).
+
+   Environmental Assessment (OP/BP 4.01) and Involuntary Resettlement (OP/BP 4.12). The ICR reports
+   (para. 99–100) that the project closed with a satisfactory safeguards rating. The government prepared an
+   Environmental and Social Management Framework (ESMF) and a resettlement policy framework (RPF)
+
+                                                                                                  Page 16 of 21
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    NE-Urban Water and Sanitation Project (P117365)
+
+
+
+  because the exact location of the works was not known before appraisal. The government had sufficient
+  consultation with the concerned populations and local governments in preparing the ESMF and the RPF.
+  The ESMF and RPF were disclosed in Niamey and at the Bank’s Info Shop on January 28, 2011. During
+  project implementation, work-specific Environmental and Social Impact Assessments (ESIAs) were
+  prepared and implemented satisfactorily, although with systemic delays. There were significant challenges
+  during the early years of implementation, as environment and social management plans were not yet
+  included in bidding documents and contracts and the National Office of Environmental Assessment (Bureau
+  National d’Évaluation Environnementale, BNEE) was not fully involved in monitoring, as was designed.
+
+
+
+  At the time of the additional financing, the government updated the ESMF and RPF to reflect the additional
+  activities. It was disclosed both in-country and at the Bank's InfoShop on May 18, 2016. A Resettlement
+  Action Plan (RAP) was prepared and consulted upon as part of the preparatory studies of the sludge
+  treatment facilities in Niamey. However, the RAP was not implemented as planned, delaying the
+  construction of the first fecal sludge treatment plant for over a year as the government finalized
+  compensation measures for project affected households. These issues were corrected by the time of the AF
+  with the effective integration of environment and social requirements into terms of reference along with the
+  inclusion of environment and social specialists in all relevant consultancies preparing technical studies or
+  conducting construction supervision. During this time, the BNEE, in close collaboration with the PCU, took
+  the lead in validating environment and social screening and in the monitoring and oversight of associated
+  mitigation and corrective measures.
+
+  Physical Cultural Resources OP/BP 4.11. The ICR does not report on compliance with this safeguard.
+
+  Projects on International Waterways (OP/BP 7.50). The ICR does not report on compliance with this
+  safeguard.
+
+
+
+
+b. Fiduciary Compliance
+  Financial Management. The project’s implementing agencies complied with the Bank’s fiduciary policies.
+  The project benefited from the financial management arrangements set up in the previous WSP, and
+  financial management risk during preparation was assessed to be medium. While the PCU had sufficient
+  capacity for financial management of the project, SPEN was required to implement recommendations of a
+  2009 external audit with support of the project. These recommendations—which included improving its
+  fixed asset management and reaching an agreement with the GoN on the treatment of depreciation of
+  fixed assets—were successfully implemented as part of the 2011 contract negotiations. The PCU
+  submitted the interim financial reports on time. The certified external audit reports were also submitted on
+  time (the ICR does not provide information on the audit opinion). There were no known issues of corruption
+  or misuse of funds associated with the project. At project close, US$0.53 million dollars remained under
+  the parent project and was returned to the Bank. All project funds were accounted for at project closing.
+  The project’s financial management was compliant with the World Bank’s requirements.
+
+
+
+
+                                                                                                 Page 17 of 21
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     NE-Urban Water and Sanitation Project (P117365)
+
+
+
+   Procurement. Lengthy delays in procurement slowed implementation of the project, particularly in its
+   early years. Procurement capacity was low at SPEN and especially at the General Directorate of
+   Sanitation, which was compounded by a lack of dedicated project staff. Further, the PCU lacked a
+   procurement specialist for more than a year following the resignation in 2015 of their procurement
+   specialist (ICR, paragraph 100). At the start of the project, implementing agencies did not permit the PCU
+   procurement specialist to participate in relevant processes, resulting in significant delays to address
+   instances when procurement process did not comply with Bank policies. The Bank team proactively
+   worked with the Ministry of Water and Sanitation and the implementing agencies to improve coordination,
+   and performance improved following the approval of the AF.
+
+   Lack of consistency between Bank and national procurement laws and regulations led to the cancelation of
+   a major household sanitation contract that had been won by a firm owned by a member of parliament,
+   which is prohibited under Niger’s constitution. However, the firm was eligible under Bank procedures. The
+   regional procurement specialist advised the team that the Bank would be open to liability and reputational
+   risk if the contract were to be awarded to a different firm. To avoid this risk, the Bank decided to cancel the
+   activity and reallocate the financing to other investments. The time required to prepare the technical
+   documents and complete the bidding process for the new activities led to a one-year extension of the
+   project closing date. Changes in Bank and GoN procurement procedures during implementation also
+   resulted in delays, arising from the need to take corrective actions to ensure compliance and from
+   confusion as to whether GoN procedures or Bank procedures apply, where these are not the same.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   To avoid any unnecessary resettlement, the government identified a site for the second fecal sludge
+   treatment plant that respected all necessary setbacks from surrounding villages. This led to construction of
+   a small water system with public standposts and a 3-kilometer paved road to serve both the treatment
+   plant and five nearby villages.
+
+   The fecal sludge treatment plants will provide an unanticipated source of revenue through the sale of
+   treated sludge as fertilizer. The University of Niamey analyzed dried fecal sludge from the first treatment
+   plant and determined that it could be used as a safe and effective agricultural fertilizer. The government
+   granted the required approvals in late 2020.
+
+
+
+d. Other
+   None.
+
+
+
+11. Ratings
+                                                                                  Reason for
+Ratings                         ICR                    IEG
+                                                                                  Disagreements/Comment
+Outcome                         Satisfactory           Satisfactory
+
+
+
+                                                                                                     Page 18 of 21
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     NE-Urban Water and Sanitation Project (P117365)
+
+
+
+Bank Performance                Satisfactory           Satisfactory
+
+Quality of M&E                  Substantial            Substantial
+
+Quality of ICR                  ---                    Substantial
+
+
+12. Lessons
+
+IEG derives the following lessons drawn from the ICR:
+
+Delegation of water service provision to private companies in public-private-partnership can
+be effective in achieving significant and sustained gains in access and service quality. From
+the implementation of its affermage model in 2001 to the time the project closed, Niger’s urban water
+sector has demonstrated substantial gains in operational performance, while simultaneously
+increasing the population served by nearly 220 percent, reaching nearly 4 million customers in 2020,
+98.4 percent of the population within SPEN’s service area (up from 73.4 percent in 2011).
+Nonrevenue water decreased from 20 percent to 15 percent of water production, and the bill
+collection ratio increased by 18 percentage points from 79 percent to 97 percent, before falling to
+percent to 88 percent by the time the project closed, likely due to the significant number of poor and
+vulnerable communities that started receiving services under the project (ICR pages 2 and 18).
+SEEN, a subsidiary of the French transnational company Veolia, has effectively leveraged the vast
+global experience of its parent company to introduce improved processes and build staff capacity for
+effective water systems management. Meanwhile, performance-based elements are embedded in
+the contracts of both SPEN and SEEN and monitored by the sector regulator to improve
+accountability and incentivize performance.
+
+The leveraging of complimentary Bank instruments and activities can improve the prospects
+of achieving ambitious objectives. To strengthen the financial sustainability of the water service
+providers, the project included as a PDO results target, restoration of financial equilibrium of the
+urban water sector. This required the government to clear its arrears and to implement a tariff
+adjustment plan, but neither the Ministry of Water and Sanitation, nor the implementing agencies
+had sufficient leverage to bring this about. The Bank team used the opportunity of the preparation of
+the Second Laying the Foundation for Inclusive Development Policy Financing to agree with the
+government on three prior actions to strengthen the sustainable delivery of water and sanitation
+services. These were (a) the clearance of arrears, (b) the issuance of a presidential decree
+approving a water tariff adjustment plan, and (c) issuance of presidential decrees appointing the
+director general of the Water Regulatory Authority and the president and members of the Water
+Regulatory Council. Similar synergies across the Bank portfolio can allow Bank teams to expand the
+scope and impact of projects—including through influencing higher-level government actors—and
+should be considered during preparation.
+
+
+
+Where government interference in procurement is a significant risk, clear measures need to
+be put into place to prevent mis-procurement and consequent delays in project
+implementation. Political interference in the procurement process led to significant delays
+throughout the project implementation period. In addition, commitments made by the GoN during
+
+
+                                                                                                   Page 19 of 21
+       Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+       NE-Urban Water and Sanitation Project (P117365)
+
+
+
+project preparation were not always respected by subsequent administrations. For example, in direct
+opposition to a provision in the subsidiary agreement with SPEN, Nigerien customs authorities
+sought to collect custom duties and indirect taxes for project-related expenses during its final year of
+implementation. Task teams can incorporate measures in the project design to reduce the likelihood
+of political interference and ensure continuity across administrations. For example, this project
+helped to reduce the impact of political interference by insisting on a role for the procurement
+specialist of the PCU in the procurement decisions of SPEN and the General Directorate of the
+Sanitation. Other useful measures included (a) leveraging ministerial general secretaries and other
+civil servants in key discussions to preserve institutional memory; and (b) thoroughly briefing new
+ministers at the start of their mandate on their responsibilities under the project, financing
+agreements, and prior commitments by previous administrations.
+
+Continuous dialogue by the Bank team throughout project implementation is critical to
+ensure challenges are addressed as they arise, particularly in fragile and low-capacity
+countries. Having members of the Bank’s project task team based in country allows for more
+consistent follow up to identify and address challenges. The Bank’s final task team leader, who had
+been a team member from the inception of the project, was based in Niamey. He met weekly with
+the PCU and implementing agencies during the final year of implementation. This allowed for the
+quick identification of challenges and implementation of remedies. For example, the task team
+maintained constant dialogue with the government officials to encourage them to take action to
+strengthen the sustainable delivery of water and sanitation services through clearing arrears,
+agreeing on a tariff adjustment plan, and reestablishing an independent water regulator.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is clearly written and consistent with guidelines. It provides adequate details of the project’s activities,
+including a detailed annex summarizing the efficiency analysis. The ICR provides a good theory of change in
+regard to the causal links and full results chain, and the reporting is outcome-focused. Its analysis is broadly
+evidence-based.
+
+The ICR, however, could have provided information on compliance with safeguards, covenants, and the
+condition of disbursement. The ICR does not provide information on whether the external audits were qualified.
+Tables 2 and 3 which report on achievements compared to targets should have presented the targets of the
+results framework in the respective restructuring papers, not just the final target. In addition, there are some
+inconsistencies in the figures presented in different sections of the ICR, for example para. 110 states that SEEN
+and SPEN have increased their number of clients by 85.4 percent, while paragraphs 41 and 50, footnote 19,
+and the government's comments on the ICR say that the number of clients rose by 96.4 percent. The figures for
+key outputs for component 1 on page 41 show the target figures for household connections (61,100) and
+community standposts (953), instead of the actuals achieved (67,850 and 1,004 respectively). Finally, the
+
+
+
+                                                                                                       Page 20 of 21
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     NE-Urban Water and Sanitation Project (P117365)
+
+
+
+figures for actual disbursements in the table in the datasheet (US$147.31 million) does not match the figure for
+actual project costs in annex 3 (US$160.00 million).
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                   Page 21 of 21
+

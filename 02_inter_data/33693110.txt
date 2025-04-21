@@ -1,0 +1,725 @@
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Citizen-centered public services (P151972)
+
+
+
+                                                                                    Report Number: ICRR0022634
+
+1. Project Data
+
+
+
+ Project ID                                   Project Name
+ P151972                                      Citizen-centered public services
+
+ Country                                      Practice Area(Lead)
+ Albania                                      Governance
+
+
+ L/C/TF Number(s)                            Closing Date (Original)                Total Project Cost (USD)
+ IBRD-85210                                  31-Dec-2020                                           32,191,739.90
+
+ Bank Approval Date                          Closing Date (Actual)
+ 25-Aug-2015                                 31-Dec-2020
+
+                                             IBRD/IDA (USD)                                       Grants (USD)
+
+ Original Commitment                              32,000,000.00                                               0.00
+
+ Revised Commitment                               32,000,000.00                                               0.00
+
+ Actual                                           32,191,739.90                                               0.00
+
+
+
+
+ Prepared by                  Reviewed by                  ICR Review Coordinator          Group
+ Jorge Garcia-Garcia          Paul Holden                  Jennifer L. Keller              IEGEC (Unit 1)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The project appraisal document (PAD) states that “The objective of the project is to improve the efficiency of
+   delivery and access to selected administrative services in Albania” (PAD, p. 6). The Loan Agreement of the
+   project states that “The objective of the Project is to improve the efficiency of delivery and access to Selected
+   Administrative Services in the Borrower's territory” (Loan Agreement, p. 5).
+
+
+
+
+                                                                                                     Page 1 of 14
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Citizen-centered public services (P151972)
+
+
+
+   For the purpose of this evaluation the objectives of the project are to increase efficiency in delivering
+   administrative services and increase access of the poor and vulnerable to selected administrative services.
+
+   PDO 1: Increased efficiency in delivering administrative services
+
+   PDO 2: Increased access of the poor and vulnerable to selected administrative services.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component 1: Enhancing the back-end systems. The component supported enhancing the backend
+   systems (original, not defined; actual, not reported in ICR). The component supported the enhancement of
+   the information technology (IT) systems and the reengineering of business processes (PAD, p. 31).
+
+   Component 2: Enhancing citizen interface with service delivery. The component supported enhancing
+   the interface with citizens in the delivery of services (original cost not defined in PAD; actual, not reported in
+   ICR).The component supported (a) the physical interface with citizens (e.g., reforming front offices in
+   existing agencies, developing and managing sector specific One Stop Shops); (b) improving online delivery
+   of services (e.g., business licensing and registration); (c) providing information on key services (e.g.,
+   providing information and actively promoting its availability); (d) implementing beneficiary feedback (e.g.,
+   feedback on hospital services property registration, improving capacity to analyze incoming data); and (e)
+   providing assisted access to internet services (e.g., setting up points of contact such as internet cafés and
+   community centers).
+
+   Component 3: Building capacity to deliver. The component supported building capacity to deliver
+   services (original cost not defined in PAD; actual cost, not reported in ICR). The component supports (a)
+   improving strategic planning (e.g., detail costing, sequencing, design choices of reform plan); (b) improving
+   performance management (e.g., quality of data reported and performance indicators) (c) improving capacity
+   of key reform drivers (e.g., Minister of State for Innovation, Agency for Delivery of Integrated Services in
+   Albania [ADISA], Delivery Unit in Prime Minister’s Office to monitor progress); and (d) communicating with
+   stakeholders (e.g., advertising benefits of citizens facilitation centers).
+
+   Each component was supported by three parts of the loan: a project preparation facility (PPF, US$2 million);
+   a technical assistance part (TA, US$5 million); and a results–based financing part (RBF, US$25 million).
+   Disbursing the results-based financing part was contingent on achieving agreed targets of five disbursed-
+   linked indicators (DLI) associated with the three components. This structure of the project explains why
+   there are no costs reported for each component. The indicators were:
+
+   Component 1 – Back-end systems.
+
+         DLI#1 - Development of online services with level 3 automation.
+
+
+                                                                                                        Page 2 of 14
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Citizen-centered public services (P151972)
+
+
+
+         DLI#2 – Re-engineering of administrative processes to reduce the time to citizens of obtaining
+          approval.
+
+   Component 2 – Front office interface
+
+         DLI#3 - Improved citizen interface for service provision.
+         DLI#4 - improved provision of information on government services on multiple platforms (DLI#4).
+
+   Component 3 – Capacity to deliver
+
+         DLI#5 - Policy Reform Document outlining strategic plan for the reform and PDO baseline survey.
+
+   DLI#5 had to be met before the World Bank to disburse any of the US$25 million of results-based funds.
+
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   The project was approved on August 25, 2015, became effective on March 22, 2016, and closed on
+   December 31, 2020, as planned.
+
+   The original project cost was US$32 million equivalent (EUR 29.3 million). Actual project cost was
+   US$32.19 million because of changes in the EUR-$US exchange rate. The project consisted of a PPF worth
+   US$2 million, a results-based financing part worth US$25 million, and a TA part worth US$5 million. The
+   PPF and TA parts were executed following the World Bank procurement guidelines and were disbursed
+   against eligible expenditures upon submission of Interim Financial Reports (IFRs). The RBF part was
+   disbursed against Eligible Expenditure Programs (EEPs) upon achieving the disbursed-linked indicators.
+
+   The project was restructured in September 28 of 2018 to reallocate funds for EUR 1.894 million from the
+   PPF portion to the TA part
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+The World Bank’s Systematic Country Diagnostic (SCD, 2015) identified the delivery of basic public
+services as a constraint to growth, inclusion and asset accumulation. Corruption and fragmented
+institutional arrangements contributed substantially to the low quality of service delivery, its inefficiency and
+the poor access of the poor, Roma people, rural residents and women to these services. Better quality and
+quantity of services would help raise productivity overall and in the public sector in particular.
+
+Although Albania had advanced in addressing these issues, corruption was particularly pronounced,
+especially in health, police, customs, and property registration services. While about 20 percent of citizens
+paid a bribe for getting a public service, these levels were reported to be high in health care (over 70
+
+
+                                                                                                       Page 3 of 14
+                                      Independent Evaluation Group (IEG)             Implementation Completion Report (ICR) Review
+                                      Citizen-centered public services (P151972)
+
+
+
+               percent to doctors and 45 percent to nurses); bribes to police were14 percent and to property registration
+               officers, 7 percent. Many people solved problems of service delivery using private intermediaries, but bribes
+               and “facilitation” payments eased access to their providers and to getting the service. This practice was
+               more common when users had to deal face-to-face with providers. There was evidence that reforms in
+               business processes and e-governance had improved business services, but little effort had been made to
+               improve administrative services. The country also had other reasons to improve the quality of its institutions
+               and combat corruption; they related to the country’s desire of becoming a full member of the European
+               Union for which it had to carry out several reforms, and to show its desire and commitment to fight
+               corruption. Fighting corruption was the country’s most important challenge to gain accession to the Union.
+               To this end, the European Union was assisting Albania to strengthen its democratic institutions and improve
+               its public administration through its Instrument for Pre-Accession (IPA II) for the period 2014-2020. The
+               World Bank Group (WBG) coordinated its support with the European Union and other development
+               partners.
+
+               After an initial assessment of constraints and opportunities, the Government of Albania codified its priorities
+               in the draft National Strategy for Development and Integration for 2014-2020. The government set as an
+               overarching national goal progress towards EU integration. The Strategy outlined its vision for a European
+               Albania through sustained economic growth and moving from greater wealth to enhanced well-being. To
+               attain these goals the Strategy defined four pillars: (a) Growth Through Fiscal Stability and Increased
+               Competitiveness; (b) Sustainable Growth through Effective use of Resources; (c) Investing in People and
+               Social Cohesion; and (d) Good Governance, Democracy and Rule of Law. The Good Governance pillar had
+               six sub-pillars of which the project supported that on effective governance, in particular public administration
+               and the transparency and fight against corruption. The project was aligned with and supported the
+               government's priorities.
+
+               The WBG’s Country Partnership Framework (CPF) for the period 2015-2018 had three focus areas that
+               addressed the issues that the SCD identified and the priorities of the Government’s National Strategy for
+               Development and Integration. The CPF’s Focus Area 3 (Strengthening public sector management and
+               service delivery) addressed aspects of governance, transparency and accountability which had been
+               identified by the SCD. The project contributed most to the CPF objective of increased efficiency of public
+               service delivery. The project also contributed to the government’s program of Innovation against Corruption
+               which started in June 2014, and which responded to its electoral mandate of reducing corruption and
+               improving the delivery of public services to its constituents. The government sought to innovate in providing
+               these services to reduce their cost and delivery time.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                                                                                                                    Page 4 of 14
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   Citizen-centered public services (P151972)
+
+
+
+PDO 1. Increased efficiency in delivering administrative services.
+
+Rationale
+Outcome indicators
+
+Three results were associated with PDO1. All of them referred to reducing the number of days –from
+submission to delivery– that it takes to get each of the three administrative services. The baseline and target
+values in the Project Appraisal Document were revised after completing the baseline survey in May 2016 and
+after revising some parts of the results framework in March 2017. The indicators reported below refer to the
+time it takes to deliver services in 9 focal institutions; the baseline and target values correspond to those
+reported in Table 3 of the ICR.
+
+      Obtain motor vehicle registration. Baseline: 5.3 days in 2016, target: 4 days in FY2019-20. The time to
+       obtain the service fell to 30 minutes in 2020; exceeding its target value. Achieved.
+      Process old age pension application. Baseline: 53 days in 2016; target: 40 days in FY2019-20. The
+       time to obtain this service fell to 29 days in 2020; exceeding its target value. Achieved.
+      Obtain health insurance card. Baseline: 5.5 hours; target: 4 hours. The time to obtain the insurance
+       card fell to less than 10 minutes in 2020, as the process is now automated and fully on-line. Achieved.
+
+Time to deliver services also fell in 70 of the services the project supported, with an average reduction of 37
+percent (ICR, par. 22). The reasons behind these improvements were regulatory reforms that reduced the
+number of documents demanded by the authorities, the lower number of steps in the back-office workflow to
+process the service, the online application and the electronic exchange of information between different
+government databases.
+
+Intermediate results indicators
+
+Achieving the above outcomes was possible because the intermediate results that supported achieving them
+were delivered. The intermediate results were:
+
+      Development of online services (DLI#1). This corresponded to the disbursement-linked indicator #1,
+       which consisted of increasing the number of new services with level 3 automation fully achieved.
+       Baseline: 0; target, 75. The actual result was 75 services with automation fully achieved; 11 of them
+       achieved level 4 automation, higher than level 3. Achieved.
+      Priority services with business processes reengineered (DL#2). This corresponded to the
+       disbursement-linked indicator #2, which consisted of increasing the number of priority services whose
+       business processes were reengineered. Baseline: 0 services; target: 100. The actual result was 100
+       services. Achieved.
+      Number of agencies with new or enhanced backend IT systems to improve service delivery. This
+       indicator was not part of the DLI group. Baseline: 0; target, 8. The actual number was 7, and the target
+       was almost achieved. Achieved.
+
+The project fully achieved this objective and its outcome indicators exceeded their targets by a substantial
+margin. The project also met or exceeded the targets for two of its intermediate results indicators and mostly
+achieved its target for the third one. Efficacy is High.
+
+
+
+
+                                                                                                   Page 5 of 14
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Citizen-centered public services (P151972)
+
+
+
+
+Rating
+High
+
+
+OBJECTIVE 2
+Objective
+PDO 2. Increased access of the poor and vulnerable
+
+Rationale
+Outcome indicator
+
+One result was associated with PDO2. The result is broken in three categories:
+
+        Percentage of the poor who stated that receiving services from institutions contacted was “easy” or
+         “very easy”. Baseline: 50 percent; target: 70 percent. The actual value was 69 percent. Achieved.
+        Percentage of Roma who stated that receiving services from institutions contacted was “easy” or “very
+         easy”. Baseline: 52 percent; target: 72 percent. The actual value was 65 percent.
+         Substantially Achieved.
+        Percentage of females who stated that receiving services from institutions contacted was “easy” or
+         “very easy”. Baseline: 50 percent; target: 71 percent. The actual value was 71 percent. Achieved.
+
+The PAD defines as poor the persons living below the poverty line, and as vulnerable the persons at the
+bottom 40 percent, women, older citizens, and ethnic minorities such as the Roma (PAD, par. 22 and Annex
+2, Box A2-1).
+
+Intermediate results indicators
+
+The above results were supported by several activities that sought to improve citizens’ interaction with public
+institutions and make services more citizen centric. The results associated with these activities were achieved
+in most instances, as shown below. The intermediate results were:
+
+        Citizen Service Centers (CSC) Established with Improved Customer Service (DLI#3). The indicator
+         was the number of services with improved front office interface. Baseline: 0; target 130. The actual
+         number was 140, exceeding the target. In total, 20 citizen service centers were established (instead of
+         one), and they provided about 750 services for about 20 central institutions and 70 local government
+         services. Achieved.
+        Information on Services Provided (DLI#4). The indicator was the number of services with information
+         available on multiple platforms. Baseline: 0; target 130 services. The actual result was 132 services.
+         Achieved.
+        Online Service Delivery Improved. Two results were expected:
+              o Number of registered users accessing e-government services (as percentage of adult
+                population). Baseline: 2.25 percent; target: 3.6 percent. The actual value was 13.7 percent,
+                exceeding the target. Achieved.
+              o The amount of data prefilled in public services' online forms (Percentage). Baseline: 58.4
+                percent; target: 71 percent. The actual result was 63 percent. Partially Achieved.
+
+
+                                                                                                  Page 6 of 14
+                                Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+                                Citizen-centered public services (P151972)
+
+
+
+
+                                   Number of institutions with proactive citizen feedback mechanism implemented. Baseline: 1; target 8.
+                                    The actual number was 4. Partially Achieved.
+                                   Improved capacity to deliver both PDO1 and PDO2. Two results were expected:
+                                        o Institutional prerequisites of Citizen Centric Service Delivery Program –Yes/No– (DLI#5).
+                                           Baseline: No; target: Yes. The prerequisites were present by 2020. Achieved.
+                                        o Number of institutions with key performance indicators reported and quarterly performance
+                                           reports circulated. Baseline: 0; target: 8. The actual number was 7 by 2020; the result was
+                                           substantially achieved. Substantially Achieved.
+
+                            The project achieved this objective and its outcome indicators were achieved or mostly achieved, in some
+                            cases . exceeding their targets. The targets were achieved for five intermediate results indicators and partially
+                            achieved for two. Efficacy is Substantial.
+
+                            The project achieved Objective 2 and efficacy is Substantial.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            Since efficacy is high for objective 1 and substantial for objective 2 overall efficacy is substantial.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+    5. Efficiency
+   The Project Appraisal Document pointed out potential financial and economic benefits and costs of the project.
+   Among the financial benefits, it noted the savings from lower administrative costs of providing the service, an
+   increase in government revenue as the demand for the services increases caused by a fall in the cost of getting
+   the service. Among the financial costs, the PAD notes those associated with the creation, maintenance and
+   periodical upgrade of the Citizen Service Centers. The economic analysis of the project centers on the direct
+   benefits and costs associated with the changes in citizens’ economic welfare. The main benefits identified by the
+   PAD are the reduction in compliance costs for citizens (e.g., getting documents to register property) and the
+   reduction in time and travel costs for citizens, a third of which visited government agencies only to get
+   information; the cost of getting that information can fall sharply if citizens have electronic access to it on
+   government websites. The PAD notes that the cost savings could be significant for registering property, one of
+
+
+
+                                                                                                                                      Page 7 of 14
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      Citizen-centered public services (P151972)
+
+
+
+the most affected by bribery. Citizens also benefit from paying fewer fees to intermediaries and other agents for
+supporting documentation. The government saves staff time that can be allocated to other government activities.
+
+Limitations on data availability at the time of project closing prevented replicating the above calculations. Instead
+of calculating the benefits from citizens’ time savings, the ICR estimates the benefits accruing to the government
+from improvements in business processes associated with 46 services where delivery time fell by 90 percent.
+The net present value of these estimated benefits was US$52 million and US$246 million for 5 and 10 years of
+project life.
+
+The net benefits estimated in the ICR are likely to underestimate the benefits of the project. First, the results
+presented in the section on efficacy suggest that the gains are likely to be larger than the ones estimated in the
+PAD because the actual time saved exceeded by far the target values on which the ex-ante net present value of
+the project was estimated. Second, over the project’s life real per capita income rose by about 15 percent (it
+includes 2020), meaning that the benefits of time saved are underestimated. Third, people who now have
+access to health services are likely to have better health than they would have otherwise, which is likely to be
+reflected in better performance at work, fewer working days lost to sickness, and a longer life expectancy.
+Fourth, the ICR assumes that the benefits accrue to the government only in 2020, the fifth year of project
+implementation.
+
+The above reasons suggest that the efficiency of the project was substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?              Point value (%)           *Coverage/Scope (%)
+                                                                                       0
+ Appraisal                                                   0
+                                                                                        Not Applicable
+                                                                                       0
+ ICR Estimate                                                0
+                                                                                        Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The program shows positive results in reducing the time it takes to get government services and in increasing
+the access of the poor and vulnerable to these services.
+
+On time to get government services, there was a generalized average reduction of 37 percent in 70 of the
+services the project supported. Noteworthy reductions happened in getting a motor vehicle registration (95
+
+
+
+                                                                                                       Page 8 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Citizen-centered public services (P151972)
+
+
+
+percent) and a health insurance card (99 percent); also notable is the 45 percent reduction in the number of
+days it takes to process an old age pension application.
+
+On access to services, about 70 percent of the poor, 65 percent of Roma people and 71 percent of females
+consider that it was easy or very easy receiving services from the agencies they contacted.
+
+Over the five years of project life, the government reduced its operating costs through improvements in business
+processes in 46 services where delivery time fell by 90 percent. The cost reductions are estimated at US$52
+million in terms of net present value.
+
+The project had some minor shortcomings, mainly in the intermediate indicators for access of the poor and
+vulnerable to government services. The targets were not achieved in the number of institutions with proactive
+citizen feedback mechanism implemented and the amount of data prefilled in online forms
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+The risk to development outcome is modest, in part because citizens are benefiting from and therefore can
+be expected to be supportive of the reforms carried out. The gains from the reforms are substantial and
+citizens are likely to expect politicians and government administrators to, at least, maintain what they have
+now. Keeping a service of better quality requires maintaining a balance between the government’s desire to
+use online methods to deliver services and using the Citizen Service Centers to deliver the services
+physically. While the online delivery may become more important over time, there are groups that will still
+need physical contact with government agencies, making it unlikely that the government will eliminate
+physical delivery; therefore, it is unlikely that they will disappear in the short and medium term.
+
+In summary, the risk to development outcome is modest.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The Bank did good preparatory work to understand the constraints on and circumstances in which the
+  reform was going to take place. It also helped that the Bank had gained knowledge of Albania with two
+  earlier projects that used the Disbursed Link Indicator approach to structure the operation and the actions
+  that would have to be carried out. This approach permitted the Bank to make a strong case for using a
+  results-based instrument, focusing on a few but high-quality results indicators, and on the need for
+  technical assistance to support the project.
+
+
+
+
+                                                                                                    Page 9 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Citizen-centered public services (P151972)
+
+
+
+  The project had a clear results framework and a good monitoring and evaluation (M&E) system to ensure
+  that the actions agreed to were carried out.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The quality of supervision was good. The inputs and processes were adequate to supervise the project.
+ The country manager and staff supported the project throughout its life. Four task-co-team leaders
+ managed the project with one staying for its duration, providing continuity. The team supervised the project
+ twice a year, except in 2017 when the Bank authorized missions after the government elected that year
+ took over. During COVID 19 the missions were carried out virtually. The supervision of fiduciary and
+ environmental and social aspects was also satisfactory.
+
+ The Bank team also paid attention to the project’s development impact. In most instances it resolved the
+ threats to the project’s results, but it faced problems when the new administration 1) weakened the
+ institutional arrangements put in place for implementing the project and 2) decided to accelerate the
+ transition towards “online only” service applications from the dual approach of on-stop shops and e-
+ services the project supported. Overall, these changes affected the inter-institutional collaboration during
+ project implementation, but they did not prevent the Bank from supervising the project; the Bank acted
+ wisely by prioritizing implementation aspects and project results rather than triggering legal remedies to the
+ new implementation practices as the expected impact of litigation on results was uncertain.
+
+ The results achieved validated the Bank’s decision of avoiding the legal route to solving problems. The
+ route taken did not threaten the project’s achievements.
+
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The project had a good M&E design. Its theory of change and the objectives were clear and well specified.
+ The indicators covered all outcomes of the PDO statement and measured well the results expected. The
+ intermediate results indicators captured adequately the contribution of the operation’s activities and the
+ outputs that could deliver the expected outcomes. The indicators were specific, measurable, achievable,
+
+                                                                                                    Page 10 of 14
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Citizen-centered public services (P151972)
+
+
+
+ relevant, and time bound. The PAD defined baseline and target values and noted that the results
+ framework should be revised and all baselines established once a baseline survey was completed as part
+ of the global disbursed-linked-indicators, a necessary condition for disbursing the US$25 million funds
+ corresponding to the results-based-financing of the project. Linking the disbursement of the US$25 to
+ having baseline and target values for the results indicator ensured that the information would be available
+ and on time. Last, the PAD presented a detailed map of the institutional structure that would be in charge
+ of project administration.
+
+
+
+b. M&E Implementation
+  The input, output, outcome, and impact evidence anticipated in the design of the project was collected
+  and analyzed in a sound manner. The baseline data were collected and the indicators of the results
+  framework were reported on the ICR and the Implementation Status Reports. Some results indicators
+  were revised during implementation in response to the information gathered in the baseline surveys and
+  to change in the definition of one indicator, to make it precise. The data collected are reliable and of good
+  quality. It is unclear if the authorities are committed to continuing to gather the information after project
+  closing.
+
+  No information was collected to replicate the economic analysis of the PAD on the expected benefit of
+  the project. The ICR notes that this calculation could not be made because of limitations on data
+  availability.
+
+
+
+c. M&E Utilization
+  The data collected during implementation provided information about achievement of outcomes besides
+  outputs and intermediate indicators. They were not used to inform important policy decisions by the
+  Borrower and it is unclear if they were used to implement decisions and reforms and sustain the results
+  achieved beyond the project’s closing date. Albania has strong institutional capacity to carry out reforms;
+  missing this opportunity to enhance the project’s benefits was unfortunate.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project did not trigger OP4.01 when the Board approved it, but the World Bank helped the authorities to
+   prepare a Checklist Environmental Management Plan (EMP) to mitigate some problems of dust, noise and
+   waste management in Tirana arising from the renovation of existing buildings where the Citizen Service
+   Centers would operate. The environmental and social risks were rated low from project appraisal to project
+   completion.
+
+
+
+
+                                                                                                     Page 11 of 14
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     Citizen-centered public services (P151972)
+
+
+
+
+b. Fiduciary Compliance
+   Financial Management. Financial management, flow of funds and disbursement arrangements for the
+   project were adequate and complied with Bank requirements, for both the TA part, the PPF and the
+   results-based-financing part. RBF part, throughout the project term. Experienced and qualified experts
+   supported the financial management function which complied with financial reporting principles and
+   disbursement requirements. The ratings for financial management were affected by delays in the audits
+   and their quality but these issues were resolved at project closing.
+
+   Procurement. Procurement risk was substantial because of the weak capacity of the project
+   implementation unit and delays in launching some procurements.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   The ICR does not report on them.
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                              Reason for
+Ratings                          ICR                 IEG
+                                                                              Disagreements/Comment
+Outcome                          Satisfactory       Satisfactory
+
+Bank Performance                 Satisfactory       Satisfactory
+
+Quality of M&E                   Substantial        Substantial
+
+Quality of ICR                   ---                Substantial
+
+
+12. Lessons
+
+The ICR offers the following lessons with which IEG agrees:
+
+      The experience with the project demonstrates that a clear vision and purpose must underpin
+       the digitalization efforts of a government which seeks to deliver better services to the
+       country’s citizens.
+      For reforms to succeed, selecting the correct delivery model is fundamental. For Albania, the
+       creation of high-quality physical access points, alongside efforts for the service to be more
+       citizen-centric (via feedback and service standards), created a new culture, which raised
+       citizens’ expectations and increased the demand for more complex institutional service
+       delivery reforms. Building CSCs produced quick gains and visible changes, creating the
+
+                                                                                                 Page 12 of 14
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Citizen-centered public services (P151972)
+
+
+
+        space for more ambitious institutional reforms. The customer-orientation of the CSCs and
+        their professionalism changed the service delivery culture in the country.
+       Selecting appropriate results indicators must constitute a central point of project design,
+        since the information and communications technology inputs (ICT) alone are insufficient to
+        ensure that the project delivers services and benefits citizens.
+       Sustained and informative dialogue with the client regarding the instrument is critical to
+        ensure that there is strong alignment between the incentives it provides and the incentives of
+        the relevant implementing agencies.
+
+The results of the project illustrate the continued relevance and importance of physical channels of
+service delivery, especially for the vulnerable groups. In other instances, further financing and
+investment should be encouraged to support scaling up e-service ambitions to ensure more resilient,
+citizen centric and transparent service delivery. To strike the “right” balance, it is important to take
+into account the local context, the characteristics of service users and the characteristics of the
+services provided.
+
+
+
+13. Assessment Recommended?
+
+  Yes
+  ASSESSMENT_TABLE
+  Please Explain
+  The project was extremely successful and can provide good examples of what is required to help improve the
+  quality of government service to its citizens.
+
+
+
+14. Comments on Quality of ICR
+
+The ICR provides good information to assess the achievements of the project and its shortcomings, mostly
+minor ones. Its rating of results is fair. The information is relevant, credible and verifiable. The quality of its
+analysis is good, The report summarizes the salient points well and links evidence to findings. Its structure and
+organization is consistent with the guidelines for ICR preparation. The ICR, at 60 pages, could have been a bit
+shorter avoiding some repetition, such as that on section II which already embedded in the discussion on the
+outcome (Section II).
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                      Page 13 of 14
+Independent Evaluation Group (IEG)           Implementation Completion Report (ICR) Review
+Citizen-centered public services (P151972)
+
+
+
+
+                                                                          Page 14 of 14
+

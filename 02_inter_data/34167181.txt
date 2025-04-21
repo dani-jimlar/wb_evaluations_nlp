@@ -1,0 +1,918 @@
+     Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+     PAISA (P168266)
+
+
+
+                                                                               Report Number: ICRR0023505
+
+1. Project Data
+
+
+
+ Project ID                               Project Name
+ P168266                                  PAISA
+
+ Country                                  Practice Area(Lead)
+ Afghanistan                              Finance, Competitiveness and Innovation
+
+
+ L/C/TF Number(s)                         Closing Date (Original)               Total Project Cost (USD)
+ IDA-D4530,TF-B0027                       31-Oct-2024                                           5,014,813.12
+
+ Bank Approval Date                       Closing Date (Actual)
+ 25-Apr-2019                              31-Oct-2024
+
+                                          IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                            45,000,000.00                                 35,000,000.00
+
+ Revised Commitment                              9,980,051.92                                  4,380,211.26
+
+ Actual                                          5,014,813.12                                  3,911,554.26
+
+
+
+
+ Prepared by                Reviewed by                 ICR Review Coordinator         Group
+ Antonio M. Ollero          Christopher David           Avjeet Singh                   IEGSD (Unit 4)
+                            Nelson
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to the Project Appraisal Document (page 13) and the Financing Agreement (page 5), the project
+   development objective of the Payments Automation and Integration of Salaries in Afghanistan Project was "to
+   support the development of digital government-to-person payments in Afghanistan." The project development
+   objective was retained at restructuring.
+
+
+
+
+                                                                                                Page 1 of 17
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     PAISA (P168266)
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  24-Dec-2020
+
+c. Will a split evaluation be undertaken?
+   Yes
+
+d. Components
+   Biometric Identification System of Civil Servants and Pensioners (US$9 million at appraisal, US$5
+   million after partial cancellation and restructuring as of August 15, 2021) would support the establishment
+   and operationalization of a Biometric Information System for civil servants and pensioners (i.e., recipients of
+   government salaries and transfers) through the: (a) use of biometric technologies to identify and enroll civil
+   servants and pensioners; (b) issuance of a unique registration number to each civil servant and pensioner,
+   both processes to be administered by the National Statistics and Information Authority; (c) establishment of
+   the legal and regulatory framework for the biometric information system, including provisions for data
+   protection and privacy rights; (d) acquisition of hardware and software for the system, including its
+   configuration, customization, and the upgrading of existing infrastructure (other than those related to the e-
+   Tazkira electronic national identity card system introduced in 2014 to verify the citizenship of residents); (e)
+   funding of operational costs for the rollout of the biometric registration; and (e) extension of technical
+   assistance to the National Statistics and Information Authority and other entities for the management of the
+   Biometric Information System.
+
+   Integration of the Identification, Verification, and Payment Systems (US$14 million at appraisal,
+   US$9.6 million after partial cancellation and restructuring as of August 15, 2021) would focus on the
+   integration of various systems in the payments process to achieve full-fledged straight-through
+   processing (i.e., the automated end-to-end processing of trades and/or payment transfers, including the
+   automated completion of confirmation, matching, generation, clearing and settlement of instructions, without
+   the need for re-keying or reformatting data). This component would support the achievement of the
+   objective in two parts.
+
+          Integration of the Public Financial Management Infrastructure with the Digital ID and Payments
+           Ecosystems (US$6.5 million at appraisal, US$3.5 million after partial cancellation and restructuring
+           as of August 15, 2021) would support the Ministry of Finance to: (a) develop an enhanced payment
+           module within the Afghanistan Financial Management Information System; (b) integrate
+           the Afghanistan Financial Management Information System and the Human Resource Management
+           and Information System; (c) run diagnostics and design an integration roadmap for the Pensions
+           Management Information System and the Martyrs' Survivors and the Disabled Management
+           Information System; and (d) build institutional capacity at the Ministry of Finance for government
+           payments management.
+          Integration of the National Payments Infrastructure with the Digital ID Infrastructure (U$$7.5million at
+           appraisal, US$6.1 million after partial cancellation and restructuring as of August 15, 2021) would
+           support the Da Afghanistan Bank (the central bank) to: (a) integrate the Afghanistan Payments
+
+                                                                                                      Page 2 of 17
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    PAISA (P168266)
+
+
+
+         System with the Biometric Information System; (b) integrate Da Afghanistan Bank's core banking
+         system (i.e., the back-end system that processed daily banking transactions and posted updates to
+         accounts and other financial records) with those of financial institutions including e-money providers;
+         (d) develop Da Afghanistan Bank's National Domestic Electronic Payment Card
+         scheme (AfPay scheme); and (e) build institutional capacity at Da Afghanistan Bank for the
+         integration of the central bank's operating and information systems to the Afghanistan Payments
+         System.
+
+  Expansion of Financial Services and Access Points (US$18 million at appraisal, US$8.4 million after
+  partial cancellation and restructuring as of August 15, 2021) aimed to convey the benefits of electronic
+  payments to civil servants and pensioners (e.g., withdraw cash from their accounts from safe and
+  convenient locations or use their accounts to make cashless payments for goods and services). This
+  component would support the: (a) development of the access point expansion strategy; (b) development of
+  an agent/cash-out point monitoring platform; (c) development of financial access points; (d) expansion of
+  cashless payments (including by offering financial incentives to payment service providers to expand their
+  electronic payment system); (e) provision of technical assistance to the Da Afghanistan Bank and the
+  Afghanistan Payments System to strengthen the cashless ecosystem; and (f) extension of technical
+  assistance and training to financial institutions to expand their agent networks, improve their product
+  portfolio, and strengthen their liquidity management.
+
+  Project Management (US$4 million at appraisal, US$2 million after partial cancellation and restructuring as
+  of August 15, 2021) would support the management of the project by Ministry of Finance..
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost. The project was estimated to cost US$45 million at appraisal. A restructuring, which
+  reduced the scope of the project, and partial cancellations reduced the project cost to US$25 million
+  on August 15, 2021 and US$9.98 million after August 15, 2021.
+
+  Financing. The project was financed by: (a) an IDA grant of SDR 7.2 million (US$10 million equivalent), of
+  which SDR 3.6 million (US$4.4 million equivalent) was cancelled in June 2020 (to release funds for the
+  emergency response to the COVID-19 pandemic), reducing the available resources to US$5.6 million, of
+  which US$1.1 million was disbursed; and (b) an Afghanistan Reconstruction Trust Fund grant of US$35
+  million, of which US$15 million was cancelled in June 2020 (to release funds for the emergency response to
+  the COVID-19 pandemic) and US$15.6 million was cancelled in March 2022 (to release funds for the
+  delivery of humanitarian services through the United Nations), reducing the available resources to
+  US$4.4 million, of which US$3.9 million was disbursed. Of the original financing of US$45 million, the
+  revised financing (after partial cancellations of parts of the grants) was US$25 million on August 15, 2021
+  and US$9.98 million after August 15, 2021, of which US$5.014 million was disbursed.
+
+  Dates. The project was approved on April 25, 2019, became effective on September 25, 2019, and was
+  restructured on December 24, 2020. The Bank suspended all disbursement to Afghanistan on August 25,
+  2021, following the takeover by the Taliban of the government on August 15, 2021. The original project
+  closing date was October 31, 2024.
+
+
+
+
+                                                                                                   Page 3 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     PAISA (P168266)
+
+
+
+   Restructuring. The restructuring in December 2020, with US$5.0 million disbursed: (a) reduced the scope
+   of the project and changed the project costs; and (b) revised the results framework. The project
+   development objective was not changed.
+
+   Split Evaluation. This ICR Review will conduct a split evaluation of the project, the first, to account for
+   changes in the output and outcome indicators and targets at restructuring in December 2020 (although the
+   project development objective was not revised), and the second, to account for the takeover by the Taliban
+   of the government in August 2021 and the project closed prematurely before completion.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Binding Constraint to Development. The Afghanistan Systematic Country Diagnostic
+2016 identified improving and modernizing the national payment system and developing a digital finance
+infrastructure as a priority. For a country caught in a decades-long violent conflict and highly dependent on
+foreign aid flows, Afghanistan remained a weak state unable to capably execute administrative functions as
+elementary as delivering government payments to private parties. A digital payment system, overlain on
+ongoing efforts by Da Afghanistan Bank to progressively develop the country's financial market
+infrastructure, would help address this binding constraint. A digital, rather than manual payment system,
+would also help overcome the impediments to connectivity and mobility posed by the country's forbidding
+landscape of mountains and deserts – while the urban population (one fourth of the total population of 32
+million) was concentrated in roads linking Kabul, Kandahar, Herat, and Mazar el Sharif, the rural population
+(three fourths of the total population) was unevenly distributed across the rest of the landlocked country.
+
+Country Priorities. The project objective was consistent with the national development strategy of the
+Government. The Afghanistan National Peace and Development Framework 2017–2021
+(ANPDF) advanced three development priorities: Governance and state effectiveness, Social capital and
+nation building, and Economic growth and job creation. The third ANPDF priority focused on eleven
+national priority programs. The project objective was consistent with the third national priority program,
+Private Sector Development Program, which argued for financial sector reform among others: "Successful
+development of any type requires a stable, efficient financial sector. We have a two-pronged strategy for
+financial sector reform. First, it must consolidate financial stability by addressing sectoral weaknesses, and
+provide a credible system for banking regulation and oversight to rebuild public confidence. These actions
+will advance the banking sector and provide incentives for growth-friendly initiatives. We will focus on
+improving sustainability, increasing efficiency and facilitating access to financial services."
+
+Bank Group Strategy. The project objective was aligned with the Bank Group strategy in
+Afghanistan. The Country Partnership Framework for the Islamic Republic of Afghanistan for the Period
+FY17 to FY20 (CPF) committed Bank Group support for the country's development priorities organized
+around three pillars: Building strong and accountable institutions, Supporting inclusive growth, and
+Expanding and deepening social inclusion. The project objective was aligned with the second CPF pillar,
+specifically with the goal to "lay the foundation for private sector development over the medium to longer
+term, including [by] strengthening the financial sector and [by providing] more inclusive access to finance for
+micro, small, and medium enterprises."
+
+
+                                                                                                     Page 4 of 17
+                                      Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+                                      PAISA (P168266)
+
+
+
+               Shortcomings. Although the relationship of this government payments digitization project to the larger
+               program to develop the country's financial market infrastructure was well vetted, the relationship of the civil
+               servants' and pensioners' biometric identification system to the government's e-Tazkira electronic national
+               identity card system was less robustly assessed and clarified.
+
+
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To support the development of digital government-to-person payments in Afghanistan
+
+                             Rationale
+                             Theory of Change. Mired in a decades-long violent conflict and highly dependent on foreign aid flows,
+                             Afghanistan was unable to capably execute many basic administrative functions including delivering
+                             government payments to private parties, notably civil servants and pensioners. A digital payment system,
+                             paired with ongoing efforts by Da Afghanistan Bank to gradually develop the country's financial market
+                             infrastructure, would help address this binding constraint. The digital payment system would be developed in
+                             three stages: first, a biometric information system would be implemented for civil servants and pensioners;
+                             second, the identification system would be integrated with both the Government salary and pension payment
+                             systems and the Afghanistan Payments System's national payment infrastructure; and third, financial firms
+                             would be assisted to expand their network of access points for cash transactions (additionally, the central
+                             bank and the Afghanistan Payment System would be assisted to begin to develop an ecosystem for cashless
+                             payments). The principal outcomes of this project were that: (a) civil servants and pensioners
+                             were biometrically registered; (b) they received government payments electronically; and (c) they could
+                             transact in more financial access points than in the past. The results chain rested on three crucial
+                             assumptions: (a) that the Government, the Da Afghanistan Bank, and the Afghanistan Payments System had
+                             the technical, staff, and institutional capacity to implement the project activities (e.g., procure the computer
+                             hardware, software, and services, install and connect the operating systems, operate the electronic
+                             processes); (b) that civil servants, pensioners, and financial firms were willing to participate in the project and
+                             use the digital payment system; and (c) that a modicum of peace, order, and security prevailed in the country
+                             to allow this project to be implemented.
+
+                             Outputs. The project did not make headway with any of the outputs defined for the objective to support the
+                             development of digital government-to-person payments in Afghanistan.
+
+                                        The unified biometric identification system for civil servants and pensioners was not implemented by
+                                         August 15, 2021, failing to meet the target. A Government request to use the e-Tazkira electronic
+
+                                                                                                                                  Page 5 of 17
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   PAISA (P168266)
+
+
+
+        national identity card system for the biometric registration of civil servants and pensioners derailed the
+        implementation of the first component of this project (Biometric Identification System of Civil Servants
+        and Pensioners), substantially departing from the original plan designed at appraisal for a dedicated
+        biometric registry for civil servants and pensioners. In response to the Government request, the
+        Bank and the National Statistics and Information Authority conducted a rapid diagnostic assessment
+        of the e-Tazkira platform, focusing on the infrastructure, operating systems, and utility. TA planned
+        discussions of the findings, conclusions, and recommendations of the joint assessment with the
+        Government were overtaken by the Taliban takeover on August 15, 2021.
+       A "comprehensive" legal and regulatory framework for the Biometric Information System, including
+        provisions for data protection, was not established by August 15, 2021, failing to meet the target. The
+        legal and regulatory framework for the system remained "inadequate" as at baseline.
+       The percentage of civil servants that were active users of digital payments was zero percent by
+        August 15, 2021, failing to meet the target of 5 percent. The third component of this project
+        (Expansion of Financial Services and Access Points) was not started as Da Afghanistan Bank
+        was unable to finalize the strategy for the expansion of financial access points, a key document that
+        would have provided the framework to design an incentive structure for market participants to
+        adopt digital payments.
+       The percentage of female civil servants that were active users of digital payments was zero percent by
+        August 15, 2021, failing to meet the target of 5 percent.
+       The number of agents at licensed financial institutions was 1,879 on August 15, 2021, the same as
+        at the baseline, failing to meet the original target of 2,500.
+       The number of female agents at licensed financial institutions was 180 on August 15, 2021, the same
+        as at the baseline, failing to meet the original target of 250.
+       The percentage of civil servants who were satisfied with the level of service was zero percent by
+        August 15, 2021, failing to meet the target of 75 percent.
+       The percentage of women civil servants who were satisfied with the level of service was zero percent
+        by August 15, 2021, failing to meet the target of 75 percent.
+       The percentage of grievances that were addressed within stipulated time was 0 percent by August 15,
+        2021, failing to meet the target of 80 percent.
+       The percentage of grievances raised by women that were addressed within stipulated time was 0
+        percent by August 15, 2021, failing to meet the target of 80 percent.
+
+Outcomes. The project did not make headway with any of the expected outcomes either.
+
+     The percentage of civil servants and pensioners who were biometrically registered and issued a
+      unique identifier for payment purposes was zero percent by August 15, 2021, failing to meet the
+      original target of 95 percent.
+     The percentage of female civil servants and pensioners who were biometrically registered and issued
+      a unique identifier for payment purposes was zero percent by August 15, 2021, failing to meet the
+      original target of 95 percent.
+     The percentage of civil servants and pensioners who received government payments through
+      electronic channels (bank accounts and mobile wallets) was zero percent by August 15, 2021, failing
+      to meet the target of 80 percent.
+     The percentage of female civil servants and pensioners who received government payments through
+      electronic channels was zero percent by August 15, 2021, failing to meet the target of 80 percent.
+
+
+                                                                                                    Page 6 of 17
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   PAISA (P168266)
+
+
+
+
+      The number of financial access points (branches of commercial banks and licensed electronic money
+       institutions, active agents of licensed financial institutions, in-service automated teller machines of
+       commercial banks, and point-of-sale terminals accepting electronic payments) was 2,890 on August
+       15, 2021, the same as in the baseline, failing to meet the original target of 3,500.
+
+The project did not achieve the objective to support the development of digital government-to-person
+payments in Afghanistan. Civil servants and pensioners were not biometrically registered; they did not
+receive government payments electronically; and they could not transact in more financial access points than
+in the past.
+
+
+
+Rating
+Negligible
+
+
+OBJECTIVE 1 REVISION 1
+Revised Objective
+To support the development of digital government-to-person payments in Afghanistan.
+
+Revised Rationale
+Theory of Change. The project development objective and the theory of change remained the same at
+restructuring, which reduced the scope of the project and changed the results framework (i.e., downwardly
+revised many targets). It was argued at restructuring that changes in the scope of the project would "not
+materially affect the attainment of the project development objective" – the project activities dropped at
+restructuring would still be implemented by the Government, Da Afghanistan Bank, and the Afghanistan
+Payments System, but outside the scope of, and without funding by, the project. The other material change
+to the scope of the project – the expansion of financial access points in two rather than three stages – would
+reduce the volume of financial access points expected (for which the results target was lowered) but did not
+alter the theory of change either.
+
+Revised Outputs. The project made some progress with the Integration of the National Payments
+Infrastructure with the Digital ID Infrastructure (the second part of the second component of the project). The
+partial achievement would have been counted for Objective 1 as well, except it was not part of the results
+framework for Objective 1. The associated outputs – government systems integrated with the Afghanistan
+Financial Management Information System and digital transactions facilitated through the Afghanistan
+Payments System – were added at restructuring.
+
+      The number of government systems integrated with the Afghanistan Financial Management
+       Information System was two by August 15, 2021, exceeding the target of one (this was a new
+       indicator introduced at restructuring). The second component of the project (Integration of the
+       Identification, Verification, and Payment Systems) achieved meaningful progress with the integration
+       of financial institutions (banks and mobile network operators) with the Afghanistan Payments System,
+       advancing interoperability in the financial sector. According to Da Afghanistan Bank, 68 percent of
+       all targeted financial institutions were onboarded onto the Afghanistan Payments System by May 15,
+       2021. Moreover, Da Afghanistan Bank systems were successfully connected to the major systems of
+       the Ministry of Finance – the Afghanistan Financial Management and Information System, the
+       customs management system, SIGTAS, and the revenue collection system, ASYCUDA – and to that
+
+                                                                                                   Page 7 of 17
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   PAISA (P168266)
+
+
+
+       of the utility company, De Afghanistan Brishna Shirkat, to enable the digitization of government
+       payments. By August 15, 2021, the Afghanistan Payments System had processed around 240,000
+       digital transactions, from 40,000 in the baseline. The project, however, did not make progress with the
+       procurement of goods, consultancy services, and other services to maintain or upgrade the
+       Afghanistan Payments System infrastructure at Da Afghanistan Bank. The project also did not make
+       progress with the procurement of servers and licenses to enable the Ministry of Finance to integrate
+       its systems with those of other government agencies – procurement was initiated but never
+       completed.
+      The number of digital transactions facilitated through the Afghanistan Payments System
+       increased from 37,811 in the baseline to 239,601 by August 15, 2021, partially achieving the target
+       of 419,063 (this was a new indicator introduced at restructuring).
+
+A downward revision of the targets for the number agents licensed at financial institutions did not make a
+difference – the less ambitious targets adopted at restructuring were not met.
+
+      The number of agents at licensed financial institutions was 1,879 on August 15, 2021, the same as in
+       the baseline, failing to meet the downwardly revised target of 2,250.
+      The number of female agents at licensed financial institutions was 180 on August 15, 2021, the same
+       as in the baseline, failing to meet the downwardly revised target of 225.
+
+The performance on the rest of the output indicators carried over from the original results framework were
+unchanged (see Section 4 - Objective 1).
+
+Revised Outcomes. The project partially achieved the outcome for financial institutions connected to
+the Afghanistan Payments System, an outcome newly introduced with the restructuring. Otherwise, the
+project failed to achieve all other outcomes defined for the objective, even as the results targets were
+downwardly revised.
+
+      The percentage of financial institutions connected to the Afghanistan Payments System increased
+       from 14 percent in the baseline to 68 percent by August 15, 2021, partially meeting the target of 100
+       (this was a new indicator introduced at restructuring).
+
+A downward revision of the targets for civil servants and pensioners who were biometrically registered and for
+the number of financial access points did not make a difference – the less ambitious targets adopted at
+restructuring were not met.
+
+      The percentage of civil servants and pensioners who were biometrically registered and issued a
+       unique identifier for payment purposes was zero percent by August 15, 2021, failing to meet the
+       downwardly revised target of 70 percent.
+      The percentage of female civil servants and pensioners who were biometrically registered and issued
+       a unique identifier for payment purposes was zero percent by August 15, 2021, failing to meet the
+       downwardly revised target of 70 percent.
+      The number of financial access points (branches of commercial banks and licensed electronic money
+       institutions, active agents of licensed financial institutions, in-service automated teller machines of
+       commercial banks, and point-of-sale terminals accepting electronic payments) was 2,890 on August
+       15, 2021, the same as in the baseline, failing to meet the downwardly revised target of 3,250.
+
+
+                                                                                                 Page 8 of 17
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                PAISA (P168266)
+
+
+
+                            The performance on the rest of the outcome indicators carried over from the original results framework were
+                            unchanged (see Section 4 - Objective 1).
+
+                            Notwithstanding some partial progress with connecting financial institutions with the Afghanistan Payments
+                            System, the project did not achieve the objective to support the development of digital government-to-person
+                            payments in Afghanistan. Civil servants and pensioners were not biometrically registered; they did not
+                            receive government payments electronically; and they could not transact in more financial access points than
+                            in the past.
+
+
+
+                            Revised Rating
+                            Negligible
+
+
+                            OBJECTIVE 1 REVISION 2
+                            Revised Objective
+                            To support the development of digital government-to-person payments in Afghanistan.
+
+                            Revised Rationale
+                            Theory of Change. The project development objective and the theory of change remained the same
+                            following the Taliban takeover of the government and until project closing as at restructuring (see Objective 1
+                            - Revision 1).
+
+                            Revised Outputs. The project outputs remained the same following the Taliban takeover of the government
+                            and until project closing as at restructuring (see Objective 1 - Revision 1).
+
+                            Revised Outcomes. The project outcomes remained the same following the Taliban takeover of the
+                            government and until project closing as at restructuring (see Objective 1 - Revision 1).
+
+
+
+                            Revised Rating
+                            Negligible
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project did not achieve the objective to support the development of digital government-to-person
+                            payments in Afghanistan.
+
+
+
+                            Overall Efficacy Rating                                  Primary Reason
+                            Negligible                                               Low achievement
+
+
+                                                                                                                              Page 9 of 17
+             Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+             PAISA (P168266)
+
+
+
+ OBJR1_TBL
+
+
+
+
+         OVERALL EFFICACY REVISION 1
+         Overall Efficacy Revision 1 Rationale
+         The project did not achieve the objective to support the development of digital government-to-person
+         payments in Afghanistan.
+
+
+
+         Overall Efficacy Revision 1 Rating                      Primary Reason
+         Negligible                                              Low achievement
+ OBJR2_TBL
+
+
+
+
+         OVERALL EFFICACY REVISION 2
+         Overall Efficacy Revision 2 Rationale
+         The project did not achieve the objective to support the development of digital government-to-person
+         payments in Afghanistan.
+
+
+
+         Overall Efficacy Revision 2 Rating                      Primary Reason
+         Negligible                                              Low achievement
+
+
+ 5. Efficiency
+Economic Efficiency. The Project Appraisal Document estimated an economic rate of return for the project,
+ex-ante, of 24 percent in the base case. With the project unable to implement the Biometric Identification
+System of Civil Servants and Pensioners and the Expansion of Financial Services and Access Points, the ICR
+did not calculate an economic rate of return for the project, ex-post.
+
+Operational Efficiency. The project disbursed US$5.014 million – 20 percent of the revised project cost of
+US$25 million on August 15, 2021 or 50.2 percent of the revised project cost of US$9.98 million after August 15,
+2021. The original implementation period of five years was reduced to two years following the takeover by the
+Taliban of the government on August 15, 2021 and the suspension by the Bank of all disbursements to
+Afghanistan on August 25, 2021. Policy reversals derailed the implementation of the Biometric Identification
+System of Civil Servants and Pensioners and the Expansion of Financial Services and Access Points (see
+Section 4). Moreover, institutional deficiencies at the implementing agencies hampered progress with the
+project activities – the Ministry of Finance implementation unit was not fully staffed until August 2021, while the
+Da Afghanistan Bank only managed to have a fully staffed implementation unit in the last six months of the
+project and staff turnover was frequent.
+
+
+Efficiency Rating
+Negligible
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+
+                                                                                                        Page 10 of 17
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     PAISA (P168266)
+
+
+
+
+                              Rate Available?             Point value (%)            *Coverage/Scope (%)
+                                                                                     0
+Appraisal                                                24.00
+                                                                                      Not Applicable
+                                                                                     0
+ICR Estimate                                              0
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+
+
+                                                      Pre-August 2021                     Post-August
+                                                                                          2021
+                                                      Original          Restructured
+Relevance of Objectives                               Substantial
+Efficacy
+Objective 1 - To support the development of digital   Negligible        Negligible        Negligible
+government-to-person payments in Afghanistan
+Efficiency                                            Negligible
+Outcome Rating                                        Highly            Highly            Highly
+                                                      Unsatisfactory    Unsatisfactory    Unsatisfactory
+Amount Disbursed, cumulative, US$ million             5.000             5.014             5.014
+Amount Disbursed, period, US$ million                 5.000             5.014 - 5.000 =
+                                                                        0.014
+Disbursement, percent                                 5/25* = 20%       0.014/25* =       100 - 20 - 0.06 =
+                                                                        0.06%             79.94%
+Weight Value                                          1 * 0.2 = 0.2     1 * 0.0006 =      1 * 0.7994 =
+                                                                        0.0006            0.7994
+Total Weights                                         1
+Outcome Rating                                        Highly Unsatisfactory
+
+* Commitment after cancellation and restructuring, US$ million, as of August 15, 2021 = 45 - 4.4 - 15.6 = 25
+(see Section 2.E).
+
+
+a. Outcome Rating
+   Highly Unsatisfactory
+
+
+7. Risk to Development Outcome
+
+There are no outcome sustainability risks for the Biometric Identification System for Civil Servants and
+Pensioners, the Integration of Public Financial Management Infrastructure with the Digital ID and Payments
+
+                                                                                                   Page 11 of 17
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      PAISA (P168266)
+
+
+
+Ecosystems, and the Expansion of Financial Services and Access Points as the project did not achieve any
+of the expected outcomes for these project components.
+
+For the limited results achieved under the Integration of the National Payments Infrastructure with the Digital
+ID Infrastructure, the sustainability risk is high. Reports from the Da Afghanistan Bank indicate that since
+August 2021 the automated payment infrastructure is not fully utilized because the central bank cannot pay
+for the maintenance of the system. Similarly, the interoperability that was achieved from the integration of
+banks, mobile network operators, and other electronic money institutions (financial institutions that primarily
+operate online and facilitate digital or e-money transactions on behalf of its clients) to the Afghanistan
+Payments System is not fully functional as Da Afghanistan Bank has failed to sustain the external
+maintenance contract. Clearing and settlements, including for interbank transactions, have
+been impaired. Moreover, only a handful of automated teller machines remain functional because of the
+liquidity crisis. The use of mobile money remains extremely low in Afghanistan, which has a predominantly
+cash-based economy, and people have become even more reliant on cash since August 2021.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  With this project designed as part of a larger program to digitize government services
+  throughout Afghanistan, the project team consulted and collaborated closely with other Bank teams as
+  well as with external donors preparing and implementing related digitization projects in the country.
+
+         According to the Project Appraisal Document, project activities pertaining to the Biometric
+          Identification System of Civil Servants and Pensioners (see Section 2.D) were aligned with the
+          preparation by the Civil Service Commission of a national Human Resource Management
+          Information System under the Bank's Tackling Afghanistan’s Government Human Resource
+          Management and Institutional Reforms Project as well as with the automation of the Education
+          Management Information System under the Bank's Education Quality Reform in Afghanistan
+          Project.
+         Additionally, the Bank coordinated with the United States Agency for International Development,
+          which supported the development of a Management information System for the Ministry of
+          Health. The Ministry of Education and the Ministry of Health systems would be the largest civil
+          servant databases in the Government's Human Resource Management and Information System.
+         The project team reported considering relevant lessons learned from a related Bank operation in
+          Afghanistan, the Mobile Salary Payments Pilot implemented by the Ministry of Labor, Social
+          Affairs, Martyrs, and the Disabled, including that identification, authentication, and payment be
+          integrated as a unitary process.
+         The project team also engaged the Bank's Identification for Development Initiative (ID4D) for
+          technical advice on digital identification systems and the Payment Systems Development Group
+          for technical advice on digital and mobile payments solutions.
+
+  However, when taking into account the challenging context and political risks, the operational design
+  appeared quite ambitious. It sought to integrate (i) support for digital infrastructure, (ii) identification,
+  authentication, and payment systems, and (iii) the expansion of access points. Although these elements
+
+                                                                                                      Page 12 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     PAISA (P168266)
+
+
+
+  were essential for long-term sustainability, such a comprehensive approach proved to be ambitious within
+  the Afghan context. Moreover, recognizing the complexity of the project and the involvement of multiple
+  stakeholders in its implementation, the design incorporated several layers of coordination, which hindered
+  effective implementation.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ Supervision. The Bank supervised the project regularly. The Bank team filed seven Implementation
+ Status and Results Reports (ISRs) and three Aide Memoires, the latter covering the implementation
+ support missions of August-September 2019, January 2020, and July-September 2020. While the ISR
+ were fairly straightforward and cited the latest values of the results indicators (mostly zero or unchanged
+ from the baseline), the Aide Memoires were more informative and discussed the missions' findings about
+ implementation issues and recommendations or moving forward. The Aide Memoires documented
+ agreements reached between the Bank and the Government on action plans.
+
+ Adaptation. The Bank was responsive to changed conditions in Afghanistan during project
+ implementation.
+
+       The restructuring in December 2020 introduced new output and outcome indicators. The new
+        results indicators were relevant to the project objective as they provided a measure to
+        illustrate achievement of the second part of the second component of the project - Integration of the
+        National Payments Infrastructure with the Digital ID Infrastructure (see Section 4 - Objective 1
+        Revision 1). The restructuring also downwardly revised the targets for several results indicators.
+       Thereafter, the Bank agreed to a government request in June 2020 to cancel US$4.4 million of the
+        IDA grant and US$15 million of the Afghanistan Reconstruction Trust Fund grant to release funds
+        for Afghanistan's response to the COVID-19 pandemic. The first case of COVID-19 in Afghanistan
+        was reported on February 2020, when 15,000 nationals returned from the Islamic Republic of Iran
+        to Herat. By October 2020, there were 39,422 confirmed cases and 1,466 deaths. The Ministry of
+        Health predicted an 80 percent infection rate and "upward of 125,000 deaths in Kabul alone if
+        preventative measures were not followed" (World Health Organization, September 2020, "Early
+        Responses to COVID-19 in Afghanistan," Eastern Mediterranean Health Journal, Volume 26, Issue
+        12).
+       In March 2022, the Bank cancelled US$15.6 million of the Afghanistan Reconstruction Trust Fund
+        grant to release funds for the delivery of humanitarian services through the United Nations. The
+        decision followed the Bank policy, adopted in coordination with the international community,
+        development partners, and the Afghanistan Resilience Trust Fund donors, to unlock the funds of
+        the Afghanistan Resilience Trust Fund to support the Afghan people and deliver critical health,
+        education, and livelihood support.
+
+
+
+
+                                                                                                   Page 13 of 17
+     Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+     PAISA (P168266)
+
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The results indicators were relevant to the project development objective. They would have been mostly
+ adequate (except for missing indicators for the second part of the second component of the project -
+ Integration of the National Payments Infrastructure with the Digital ID Infrastructure) to measure the impact
+ of the project activities – biometric identification of civil servants and pensioners, integration of identification
+ and payment systems, and expansion of financial service access points – toward the achievement of the
+ project objective, namely, the development of digital government-to-person payments.
+
+
+
+b. M&E Implementation
+  Because many project activities were not implemented, and those that were started made very slow
+  progress, the M&E plan could not be implemented as conceived. Nonetheless, according to the ICR, the
+  Ministry of Finance and the Da Afghanistan Bank reported monthly on the status of project activities for
+  which they were responsible. The Bank also filed regular ISRs, although the Bank could only report that
+  there was "no change in value" in the listed results indicators, and that the "relevant activities have not
+  started."
+
+
+
+c. M&E Utilization
+  The M&E data supplied evidence that the project achieved little to no progress with the project activities
+  and the project outputs and outcomes.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   Environmental Safeguards. The project was classified as an environmental assessment category "C"
+   project at appraisal and did not trigger any Bank environmental safeguards policy.
+
+
+
+                                                                                                         Page 14 of 17
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     PAISA (P168266)
+
+
+
+   Social Safeguards. The project did not trigger any Bank social safeguards policy either. The
+   Government planned to hire a safeguards specialist and develop a Grievance Redress Mechanism. Neither
+   was done. Despite pressure from the Bank, the Ministry of Finance was unable to recruit a
+   safeguards specialist or develop a Grievance Redress Mechanism
+
+
+
+
+b. Fiduciary Compliance
+   Procurement. The Da Afghanistan Bank completed only two of 21 planned procurement activities. The
+   Bank was aware of limitations with the capacity of the central bank, based on past projects and the early
+   record with this project. To achieve efficiency, the Bank and the central bank agreed that all
+   procurement above $100,000 would be processed by the National Procurement Authority beginning
+   on January 1, 2021 – the details were specified in a checklist also agreed to by the National Procurement
+   Authority. Nonetheless, no substantial progress was achieved, as the capacity of the National
+   Procurement Authority was limited as well.
+
+   Financial Management. Overall disbursement for the project was low. Budget utilization by the Ministry
+   of Finance was zero percent, and by the Da Afghanistan Bank, 11 percent. Neither implementing agency
+   had the required financial management staff.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                               Reason for
+Ratings                        ICR                   IEG
+                                                                               Disagreements/Comment
+                                                                               Negligible ratings for both
+Outcome                        Unsatisfactory        Highly Unsatisfactory     efficacy and efficiency result in a
+                                                                               highly unsatisfactory result.
+                               Moderately
+Bank Performance                                     Moderately Satisfactory   .
+                               Satisfactory
+Quality of M&E                 Modest                Modest
+
+Quality of ICR                 ---                   High
+
+
+12. Lessons
+
+
+                                                                                                  Page 15 of 17
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       PAISA (P168266)
+
+
+
+Three lessons are drawn from the ICR, with some adaptation.
+
+Firm levels of government commitment and consistency of government policy with regards
+to activity approaches are paramount especially to ambitious government projects. In this
+project, which aimed to develop a digital payments ecosystem for the Government and recipients of
+government salaries and transfers, the Government wanted, midway during project implementation,
+to enroll civil servants, pensioners, and other payees in the controversial e-Tazkira Electronic
+National Identity Card system, launched earlier in 2018 to verify the citizenship of residents, rather
+than establish a separate biometric registry as designed at appraisal. The decision derailed the
+implementation of the Biometric Identification System for Civil Servants and Pensioners. Separately,
+the installation of new management at Da Afghanistan Bank derailed the implementation of
+the Expansion of Financial Services and Access Points as the component was no longer the priority
+for the new managers. None of the related project activities could commence thereafter.
+
+Countries with high levels of institutional and social fragility require a careful sequencing of
+project activities. In this project, the three components to a digital payments system were pursued
+simultaneously. Instead, support to the digital ID infrastructure could have been tackled first, as the
+ability to reliably verify identities would be a prerequisite for a workable digital payment system. The
+integration of the identification, verification, and payment systems could have been pursed next, or
+packaged as a separate project, as this phase would focus on the integration, at the wholesale level,
+of large institutions into the infrastructure of the biometric identification and the digital payments
+system. Finally, the expansion of access points could have been addressed last, or similarly
+packaged as a separate operation, as this phase would now enable more and more customers, at
+the retail level, to receive and make small-value payments digitally.
+
+Institutional capacity pertains not just to the ability of individual agencies to implement
+discrete projects but to the joint ability of multiple agencies to collaborate among
+themselves. In this project, there were multiple implementing agencies working to link their
+information and payment systems with the Biometric Information System for civil servants and
+pensioners and the Afghanistan Payments System – the Ministry of Finance, Da Afghanistan Bank,
+the National Statistics and Information Authority, the Independent Administrative Reform and Civil
+Service Commission, the Asan Khedmat (the one-stop shop for public services), and numerous line
+ministries and independent agencies. Where a government's ability to coordinate
+implementation across agencies is generally limited, a high level of implementation readiness should
+be assured by the time of project approval, both in the individual agencies and in the coordinating
+agency, through intensive institutional capacity building efforts, including staff recruitment,
+appointment, and training. The decision to create a coordinating unit at the Ministry of Finance
+would have helped except that the unit was not fully staffed until August 2021.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+
+                                                                                                    Page 16 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     PAISA (P168266)
+
+
+
+The ICR's account of changes made to the project scope, the results framework, the project cost and financing,
+and the discussion of disruptions caused by the COVID-19 pandemic and the Taliban takeover of the
+government, were informative and allowed for a clear understanding of the project narrative.
+
+The ICR was candid about the political and institutional problems that plagued the implementation of this
+project – essentially, the Government reversed project design decisions that were agreed upon with the Bank at
+appraisal or was otherwise unable to execute basic administrative functions such as procurement and financial
+management (see Section 4, Section 8.A, and Section 12). The ICR's discussion of the risk to the development
+outcome was also candid, especially about how the partial gains made with connecting financial institutions to
+the Afghanistan Payments System have since been undermined (see Section 7).
+
+The lessons drawn by the ICR would be helpful to Bank operations in countries where politics is unsettled, and
+institutions are weak.
+
+
+
+  a. Quality of ICR Rating
+      High
+
+
+
+
+                                                                                                 Page 17 of 17
+

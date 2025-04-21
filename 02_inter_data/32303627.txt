@@ -1,0 +1,773 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Road Rehabilitation (P148023)
+
+
+
+                                                                                   Report Number: ICRR0022099
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P148023                                    Road Rehabilitation
+
+ Country                                    Practice Area(Lead)
+ North Macedonia                            Transport
+
+
+ L/C/TF Number(s)                           Closing Date (Original)                Total Project Cost (USD)
+ IBRD-84200                                 30-Sep-2019                                           56,641,457.13
+
+ Bank Approval Date                         Closing Date (Actual)
+ 23-Sep-2014                                30-Sep-2019
+
+                                            IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                            70,980,000.00                                                0.00
+
+ Revised Commitment                             70,980,000.00                                                0.00
+
+ Actual                                         56,641,457.13                                                0.00
+
+
+
+
+ Prepared by                 Reviewed by                  ICR Review Coordinator          Group
+ Chikako Miwa                Ebru Karamete                Ramachandra Jammi               IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The objectives of the Project were: (i) to enhance the connectivity of selected national and regional roads,
+   primarily to Corridors X and VIII; and (ii) to improve the Borrower's capacity for road safety and climate
+   resilience (Loan Agreement dated October 21, 2014, Schedule 1, page 5).
+   The PDOs in the PAD were the same as that in the Loan Agreement.
+
+
+
+
+                                                                                                    Page 1 of 15
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Road Rehabilitation (P148023)
+
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project had two components:
+
+   1: Road Civil Works (Appraisal cost: EUR57.76 million. Actual cost: EUR46.67 million, which was 80
+   percent of the approved cost.)
+
+   Component 1 intended to support road rehabilitation, technical audits, and land slide remediation.
+
+   2: Institutional Strengthening and Project Management (Appraisal cost: EUR3.44 million. Actual cost:
+   EUR3.63 million, which was 105 percent of the approved cost.)
+
+   Component 2 intended to support project management, road safety technical assistance, road asset
+   management, a five-year strategic program preparation, and impact analysis.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost: At appraisal, the original cost estimate was EUR61.33 million (US$83.72 million) (PAD, para
+   24, PAD Datasheet). At ICR submission, the actual cost was EUR51.69 million (US$56.64 million) (ICR,
+   page 51, page 2) (84.3 percent of the appraised amount in EUR). The cost reduction was due to the
+   exchange rate fluctuation in US dollars against Euros (ICR, para 41), as well as the exemption from the
+   value added tax (VAT) of 18 percent based on the amendment to the Law on Loan Guarantee that was
+   official on January 22, 2015 (ICR, page 10).
+
+   Financing: At appraisal, expected financing sources were: EUR52 million (US$70.98 million) from the IBRD
+   and EUR9.33 million (US$12.74 million) for VAT from the Borrower (PAD, Table 2, page 8; PAD
+   Datasheet). At ICR submission, the project was financed with around EUR51.69 million (US$56.64 million)
+   from the IBRD (99.4 percent of the planned amount from the IBRD) with no contribution from the
+   Borrower due to the above reasons (ICR, page 51; page 2).
+
+   Dates: The project was approved on September 23, 2014, and became effective on December 22, 2014.
+   The Mid-Term Review (MTR) was completed on October 31, 2016. The project was closed on September
+   30, 2019, on the original closing date.
+
+   Restructuring: There was no restructuring.
+
+
+
+
+                                                                                                  Page 2 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Road Rehabilitation (P148023)
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and Sector Context. The Republic of North Macedonia is a small landlocked country with the GDP
+of US$10.2 billion in 2013, of which exports accounted for 54 percent (ICR, para 1). The country relied upon
+the Trans-European transport network, such as Corridor X from Austria to Turkey and Corridor VIII from
+Albania to the Black Sea ports in Bulgaria. The main challenges were the economic distance to markets
+and the high costs of transportation caused by the degraded Corridor X and the delays for crossing borders.
+The country’s exports were dependent on roads, as 93 percent of freight in the first two quarters of 2013
+was transported via roads (ICR, para 2). The lack of market access was one of the drivers of poverty.
+Around 40 percent of the population lived in rural areas, of which two thirds were poor (ICR, para 1). An
+enhanced transport network was expected to improve market access of the rural population, contributing to
+the country’s poverty alleviation.
+
+Relevance to Bank Assistance Strategies. At appraisal, the project was aligned with the draft Country
+Partnership Strategy (CPS) for FY15-18, supporting Pillar 1: Growth and Competitiveness by rehabilitating
+roads, as well as the overarching country goal of increasing economic growth and creating employment by
+investing in transport infrastructure for the two trade corridors. In line with the CPS, the project also
+intended to improve the road asset management system in Public Enterprise for State Roads (PESR).
+Moreover, the project adjusted road engineering to better withstand heavier snow and rainfall, contributing
+to climate change adaptation as recommended by the CPS. At project closing, the project was highly
+relevant to the Country Partnership Framework (CPF) for 19-23, as the PDOs were integrated as the two
+sub-objectives of Objective 1: Improve Connectivity and Access to Markets.
+
+Relevance to Government Strategies. The project aligned with the National Transport Strategy (2007-17),
+which prioritized the improvement of regional and national road connectivity to enhance the efficient use of
+Corridors X and VIII. The project also contributed to the promotion of road safety outlined in the National
+Strategy for Improvement of the Road Traffic Safety (2009-14).
+
+Previous Sector Experience. The Bank had a long-term engagement in the country’s road sector and
+PESR, including the construction of a new motorway section under the Second Trade and Transport
+Facilitation Project and the investment in the regional and local road infrastructure and the introduction of a
+foundation of a road asset management system (RAMS) under the Regional and Local Roads Program
+Support Project (RLRPSP). Building on the achievements of the RLRPSP, the project aimed to expand the
+cooperation with PESR by strengthening its investment planning and financial management capacity.
+During implementation, the RAMS was expected to establish a comprehensive database for the country’s
+road network and support PESR to manage its capital investment budgets sustainably.
+
+Institutional Capacity and Realism. The Borrower, PESR, had an abundant prior experience and a
+cooperative relationship with the Bank in implementing projects funded by the Bank. The capacity of PESR
+to prepare, implement, and supervise road contracts had been strengthened throughout the preceding
+projects described above. Financial sustainability of PESR’s operations was regularly monitored by the
+Bank as an integral element of the RLRPSP project. The Bank team had a realistic understanding on
+PESR’s capabilities through the long-term engagement, accurately measuring the readiness of PESR to
+
+
+
+                                                                                                      Page 3 of 15
+                                      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                      Road Rehabilitation (P148023)
+
+
+
+               adopt the transformative concepts such as introducing the concept of climate resilience and road safety
+               through the use of RAMS and output-based contracting.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To enhance the connectivity of selected national and regional roads, primarily to Corridors X and VIII
+
+                             Rationale
+                             Theory of Change of Objective 1: Rehabilitating roads, improving black spots, conducting technical audits,
+                             and installing land slide remediations were intended to improve the roads. The roads would be improved both
+                             in terms of quantity (kilometers of the rehabilitated roads) and the quality (condition of the rehabilitated roads).
+                             These outputs would lead to reductions in travel time and vehicle operating costs, enhancing connectivity of
+                             selected national and regional roads to the corridors.
+
+                             Outputs:
+
+                             Key outputs of Objective 1 were as follows:
+
+                                        280 kilometers of national and regional roads linking to Corridors X and VIII were rehabilitated,
+                                          exceeding the target of 112 kilometers (250 percent of the original target; ICR, para 27).
+                                        87 percent of the roads were in good or fair condition, compared to the baseline of 64 percent and the
+                                         target of 74 percent (118 percent of the original target; ICR, para 27). The condition of road network
+                                         was assessed by PESR by using standard road asset management practices and the road roughness
+                                         index (IRI). The breakdown of the result was: 22 percent in very good, 40 percent in good, and 25
+                                         percent in fair condition (The TTL/ICR team’s response to IEG’s questionnaire).
+                                        Based on the road safety audit recommendations, the rehabilitation of eight black spots and the road
+                                         safety enhancement interventions in 12 roads were conducted (ICR, para 31). Following the World
+                                         Road Association (PIARC)’s methodology, the road safety audit assessed aspects including road
+                                         function; cross section; alignment; intersections; public and private services, rest areas and public
+                                         transport; vulnerable road users; traffic signs, markings and lighting; roadside features, and passive
+                                         safety installations (The TTL/ICR team’s response to IEG’s questionnaire). Implemented measures
+                                         included vertical and horizontal signaling; traffic calming measures; guardrails; slope protection
+                                         against rock fall; introduction of elevated pedestrian crossings and segregation of pedestrians (Ibid).
+                                        The design and reconstruction of 11 critical land-slide prone locations along the network were
+                                         completed.
+
+
+                                                                                                                                       Page 4 of 15
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Road Rehabilitation (P148023)
+
+
+
+
+      Direct project beneficiaries were 123,461, compared to the baseline of 118,410 and the target of
+       125,000 (99 percent of the original target; ICR, para 36). Of the direct project beneficiaries, 49 percent
+       was female, meeting the target of 49 percent (ICR, page 32).
+
+Outcomes:
+
+The achievements of relevant PDO outcome indicators were as follows:
+
+      As measured by the RAMS, travel time for passenger cars on the rehabilitated roads was reduced by
+       12.5 percent, exceeding the target of 10 percent (ICR, para 28).
+      As measured by the RAMS, Vehicle Operating Costs (VOC) for heavy trucks on the rehabilitated
+       roads were reduced from the baseline of EUR0.79 to EUR0.69 per vehicle-kilometer, fully meeting the
+       target of EUR0.69 per vehicle-kilometer (ICR, Table 3, page 12). The reduction of VOC was achieved
+       even though there was an increase in the cost of fuel from EUR0.5 in 2016 to EUR0.65 in 2018 (ICR,
+       para 28).
+      According to the ex-post beneficiary survey, 84.5 percent of beneficiaries expressed satisfaction with
+       condition of the project roads, compared to the baseline of 50 percent and the target of 70 percent
+       (121 percent of the original target). The beneficiary survey observed that the comfort and duration of
+       travel were greatly improved, especially among daily commuters, workers, students, and youth (ICR,
+       para 30; Final report of beneficiary survey and impact evaluation, Figure 6, page 30). The beneficiary
+       survey was aimed to assess beneficiary perceptions and expectations, as well as the livelihood
+       outcomes, covering all road sections in 11 municipalities that were rehabilitated and collecting
+       responses from 25 experts and 281 project beneficiaries who were frequent users of the rehabilitated
+       roads and people living in its vicinity (The TTL/ICR team’s response to IEG’s questionnaire; Final
+       report of beneficiary survey and impact evaluation by BAR E.C.E. provided by the TTL/ICR team).
+      68 percent of women perceived the rehabilitation of roads as having a positive impact on local
+       economic development, according to the ex-post beneficiary survey (ICR, para 46). The same survey
+       showed that female respondents were more satisfied with the increased access to public transport
+       services followed by the improvements in road conditions.
+
+      However, the beneficiary survey showed notable differences regarding the level of satisfaction with
+       the local road infrastructure among respondent groups in different gender, age groups, and education
+       levels. Women, elders, and people not completed primary education tended to have lower satisfaction
+       levels (Final report of beneficiary survey and impact evaluation).
+
+The rehabilitated roads reduced the travel time and the VOC, which enhanced the connectivity of the roads to
+the corridors in terms of the quantity as described in the TOC above. In terms of the quality of the
+enhancement, the beneficiaries in general expressed satisfaction with condition of the project roads,
+while there were noticeable differences in satisfaction levels among respondents grouped by gender, ages,
+and education levels. Overall, the achievement of Objective 1 is rated substantial.
+
+
+
+Rating
+Substantial
+
+
+
+                                                                                                   Page 5 of 15
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   Road Rehabilitation (P148023)
+
+
+
+
+OBJECTIVE 2
+Objective
+To improve the Borrower's capacity for road safety and climate resilience
+
+Rationale
+Theory of Change of Objective 2: Providing technical assistance on road safety was intended to support
+preparing road safety design audit guidelines and conducting a road safety survey for the road network.
+Advancing the Road Asset Management System (RAMS) with the availability of all relevant data and staff
+skilled to apply the system to define quality criteria for the roads and preparing a 5-year strategic program
+were intended to support preparing climate resilience design guidelines and a 5-year rolling program for
+national and regional roads preservation works. The outputs would lead to the incorporation of guidelines and
+recommendations into road projects and internal designs, contributing to the improved capacity of PESR for
+road safety and climate resilience.
+
+Critical assumptions included: (1) PESR’s previous and ongoing experiences with the Bank-financed projects
+would prepare it to include road safety and climate resilience into their operations; (2) Potential leadership
+change in PESR would not affect the progress of project activities and the political commitment to the project;
+and (3) Capacity and resources were adequate for maintaining the roads and the RAMS after project closing.
+The critical assumption (3) was unrealistic as there were gaps with the capacity and performance of the
+maintenance company in charge of road maintenance.
+
+Outputs:
+
+Key outputs of Objective 2 were as follows:
+
+      Guidelines for road safety design audit and climate resilience design were prepared.
+      4,000 kilometers of road network were surveyed for road safety through the International Road
+       Assessment Programme (iRAP) survey, compared to the baseline of 500 kilometers and meeting the
+       target of 4,000 kilometers (100 percent of the original target). The data about the road safety provided
+       by the iRAP survey was additional input in the RAMS enabling PESR to consider road safety needs in
+       prioritizing maintenance works.
+      A five-year rolling program for national and regional roads preservation works was prepared based on
+       the RAMS, which incorporated road safety and climate resilience aspects. The RAMS was expanded
+       by combining the network safety data from the iRAP survey and the climate risks data, which enabled
+       PESR to analyze flooding and landslide risks in the system.
+      70 traffic counters were installed for all national roads on the network and 10 mobile traffic counters
+       were made available, to benefit the five-year strategic program in the future.
+      Annual performance report was prepared and published by PESR.
+
+Outcomes:
+
+The achievements of relevant PDO outcome indicators were as follows:
+
+      100 percent of PESR’s road projects incorporated road safety audit recommendations, meeting the
+       target. The road safety audit was preformed after the first round of 11 roads with a length of 166
+       kilometers were rehabilitated, thus the recommended measures were implemented as a separate
+       activity under the project. For the second round of roads, the audit recommendations were
+
+                                                                                                  Page 6 of 15
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Road Rehabilitation (P148023)
+
+
+
+       incorporated into the designs of the rehabilitation works. Based on the audit recommendations,
+       vertical and horizontal signaling; traffic calming measures; guardrails; slope protection against rock
+       fall; introduction of elevated pedestrian crossings and segregation of pedestrians were implemented,
+       as described for the achievement of Objective 1. These contributed to adopting new speed
+       management techniques on roads following the best practices in the European Union.
+      According to the ex-post beneficiary survey, 70 percent of beneficiaries expressed that rehabilitation
+       of project roads increased road safety (ICR, para 31). Beneficiaries who perceived safety as below
+       average decreased from 57.6 percent to 29 percent before and after the rehabilitation (Ibid).
+      According to the Ministry of Interior, the numbers of human damages from road crushes in eight major
+       cities (i.e. Skopje, Bitola, Veles, Kumanovo, Ohrid, Strumica, Tetovo, and Stip) decreased from 150
+       for fatalities and 3752 for injuries in 2016 to109 and 3124 in 2019, respectively (The TTL/ICR team’s
+       response to IEG’s questionnaire). While the data for 2020 was not available due to the country’s state
+       of emergency to address the COVID-19 crisis, the black spots in Robovo and Vranista villages had no
+       fatalities since the rehabilitations under the project until April 6, 2020, according to the Ministry of
+       Interior (Ibid). These data on the incidence of human damages supplemented and supported the
+       beneficiaries’ perceptions on the increase in road safety measured by the beneficiary survey;
+       however, to what extent the project activities contributed to the decrease in the numbers of human
+       damages was not fully measurable with the available data.
+      The Climate Resilience Design Guidelines was prepared and integrated by PESR in their internal
+       design process for construction and rehabilitation of roads in the future, meeting the target.
+
+PESR’s Capacity for Road Safety:
+
+PESR’s capacity for road safety was improved by the advancement of RAMS and the installation of road
+asset management equipment such as the traffic counters. The RAMS also monitored the overweight trucks
+on the network, helping PESR to record the axle weights and gross vehicle weights in order to develop and
+implement a weigh-in-motion (WIM) system in key transit points of the road network.
+
+PESR’s Capacity for Climate Resilience:
+
+PESR improved the capacity for climate resilience by developing the Climate Resilience Design Guidelines
+with the data collected by the RAMS and adopting it to their internal design process for the future road works.
+The climate risks data inputted in the RAMS enabled PESR to analyze flooding and landslide risks in the
+system. However, to adequately analyze to what extent PESR actually used the system and equipment
+introduced by the project and to what extent the climate resilience of the road networks was strengthened,
+more evidence would be needed, when data is available in the future.
+
+In sum, PESR’s capacity for road safety and climate resilience was improved in line of the stated objective,
+while direct outcome-level evidence on climate resilience capacity was not yet available. On balance, the
+achievement of Objective 2 is rated substantial.
+
+
+
+Rating
+Substantial
+
+
+
+
+                                                                                                  Page 7 of 15
+                                Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+                                Road Rehabilitation (P148023)
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The achievement of Objective 1 was substantial, as the reduction in the travel time and the VOC improved
+                            connectivity of the roads to the corridors. The achievement of Objective 2 was substantial on balance, as the
+                            incorporation of guidelines and recommendations based on data collected by the RAMS into road projects
+                            and internal designs improved capacity of PESR for road safety, but with limited direct evidence on its
+                            capacity on climate resilience. Overall, the Efficacy is rated substantial.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+    5. Efficiency
+   Economic Analysis: At appraisal, the economic internal rate of return (EIRR) was 30.9 percent with the Net
+   Present Value (NPV) of 9.7 million Euros, for the three roads included in the first-year program under
+   Component 1: Civil Works with the estimated length of 36.7 kilometers out of the 112 kilometers of the all
+   planned program (ICR, Table 1, page 40 and page 43; The TTL/ICR team’s response to IEG’s questionnaire).
+   The EIRR at appraisal was calculated for the estimated construction cost of 10.12 million Euros, which covered
+   16.5 percent of the total project cost of 61.33 million Euros (ICR, Table 1, page 40; PAD, Table 6, page 28). At
+   project closing, the EIRR of the three roads with the actual length of 36.1 kilometers was 30.2 percent with the
+   NPV of 12.8 million Euros (ICR, Table 2, page 40 and page 43). The EIRR at project closing was calculated
+   for the actual construction cost of 9.91 million Euros, which covered 19.2 percent of the total project cost of
+   51.69 million Euros (ICR, Table 1, page 40 and page 51).
+
+   Both economic analysis at appraisal and at project closing used the same methodology and assumptions,
+   considering a period of 20 years at a discount rate of 10 percent. Using three selected roads, the economic
+   benefits were calculated based on savings in road maintenance costs, savings in travel time and savings in
+   vehicle operating cost (VOC) due to the improved road conditions as well as growth in traffic volume.
+
+   The EIRR and the NPV at project closing for the main three roads of around 36 kilometers were in line with the
+   appraisal estimates, which were higher than the sector average. On the other hand, when the calculation of the
+   EIRR was expanded to consider the regional roads and to cover the twenty roads of 243.9 kilometers out of the
+   actually rehabilitated roads of 280 kilometers, the EIRR decreased by 7.6 percentage points from 30.2 percent
+   to 22.6 percent.
+
+   Aspects of Design and Implementation that Influenced Efficiency: The project had no restructurings and
+   closed on the original closing date. It lowered the administrative costs by using only 119 staff weeks (ICR, para
+   42) with adequate mix of skills, compared to the original estimate of 185 staff weeks (PAD, page 46). Moreover,
+   the project became effective in just 2 months after signing of the loan agreement, contributing to accelerate the
+   project implementation in early years. Implementation of civil works advanced quickly during the first half of
+   project due to PESR’s strong implementation readiness at entry with designs and bidding documents prepared
+   ahead of time. On the other hand, rehabilitation of Phase 2 roads and retrofits of black spots were delayed due
+   to the political turmoil and prolonged elections, the initiation of the output-based contracting, and the late
+
+                                                                                                                             Page 8 of 15
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Road Rehabilitation (P148023)
+
+
+
+submission of the environmental compliance documents. These delays did not affect the overall implementation
+of project activities.
+
+The EIRR and the NPV of the main three roads at project closing were comparable with these at appraisal;
+however, the notable decrease in the EIRR at project closing with the twenty roads, including regional ones,
+weakened the economic justification of the project. All the project activities were completed within the original
+timeframe and budget. Cost control of the civil works was good despite the delay in the procurement of the
+second round of roads and did not delay the achievement of the PDOs. The project rehabilitated longer roads
+than they planned for. In sum, overall, the Efficiency is rated substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                      16.50
+ Appraisal                                                  30.90
+                                                                                       Not Applicable
+                                                                                      19.20
+ ICR Estimate                                               30.20
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project’s objective is highly relevant to the strategies of the World Bank and the Government both at
+appraisal and at closing. The Efficacy in achieving the development objectives is rated as substantial based on
+the evidence on improved connectivity as well as improved institutional capacity on road safety albeit the
+evidence regarding institutional capacity on climate resilience was indirect. Efficiency is rated substantial based
+on the project’s EIRRs and NPVs with no administrative or operational bottlenecks. Based on these three sub-
+ratings, the project’s overall outcome is rated satisfactory.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+There were following risks to the sustainability of the achieved results:
+
+
+
+                                                                                                       Page 9 of 15
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Road Rehabilitation (P148023)
+
+
+
+1. Fiduciary risks for maintenance of the roads: The contracts with the road maintenance company,
+Makedonija Pat, did not include periodic maintenance of the rehabilitated segments. Combined with this, the
+weak capacity of Makedonija Pat would pose a risk for the sustainability of the outcomes. During project
+implementation, routine maintenance was not adequately conducted due to the insufficient cooperation
+between PESR and the maintenance supervision teams on quality assurance. To mitigate the risk, PESR
+increased the financing for maintenance of the rehabilitated roads in annual programs. Moreover, the RAMS
+established under the Project was expected to support PESR to develop realistic maintenance plans, check
+the status of paved roads, and supervise the performance of Makedonija Pat.
+
+2. Financial and technical risks for maintenance of the RAMS: The regular data collection for the RAMS
+would not be sustained if adequate resources in terms of technical staff and financing would not be secured.
+To mitigate the risk, PESR made efforts to retain the full-time specialized staff to work on the RAMS.
+Moreover, PESR continued implementing the program for network data collection, which presented detailed
+timelines and resource requirements to periodically collect data on roughness, deflections and surface
+distress. PESR also made investments in the RAMS to include data on all bridges in the country, showing
+their commitment to the system.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The Project was designed to link regional and national roads to the main trade corridors and expand the
+  use of the RAMS to adopt climate resilience and road safety considerations, aligning with the
+  Government’s priorities and building upon the achievements of the preceding project. Regarding the
+  technical aspects, PESR prepared detailed designs and bidding documents for the first-year program of
+  roads beforehand, aiming to accelerate implementation. The technical analysis at entry was proved to be
+  accurate as all the project components were completed within the original budget and timeframe. The
+  project secured political commitment to introduce a transformative change to PESR, installing evidence-
+  based tools such as the RAMS to improve its approach on road maintenance and investment. On the
+  other hand, the design could have better incorporated: (1) maintenance arrangements with road
+  maintenance company Public Enterprise, Makedonija Pat, to mitigate the risk to sustainability of the
+  project; and (2) an analysis on establishing a permanent system to enforce axle load limits to improve
+  road safety.
+
+  On balance, strategic and technical aspects were well considered, while the sustainability risks would
+  have been mitigated by more comprehensive and detailed arrangements at project entry. On this basis,
+  the Quality of Entry is rated satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+
+                                                                                                  Page 10 of 15
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Road Rehabilitation (P148023)
+
+
+
+ According to the ICR (para 82), the continuity in supervision was ensured throughout the project, as the
+ same Task Team Leader (TTL) provided oversight throughout the project duration. The majority of the
+ team members was based in the region, enabling the Bank team to provide support swiftly and frequently.
+ A full-fledged supervision mission was conducted biannually, supplemented by shorter missions in between
+ to address specific issues. During implementation, the Bank team provided guidance to PESR to improve
+ compliance to the safeguard policies, the speed of procurement preparation, and the reporting of
+ performance monitoring. Moreover, the Bank team proactively supported the country to improve road
+ safety. For example, the Bank team provided support for strengthening capacity of PESR staff on road
+ safety, conducting a road safety capacity review, and improving the road safety management. There were
+ factors outside the control of the Bank or PESR, such as a prolonged political turmoil and long election
+ cycles that brought changes in the management of PESR. Notwithstanding the challenges, PESR team
+ implemented the project activities on time with the help of the Bank’s guidance and supervision.
+
+ The Bank team’s supervision enabled the project to complete its activities with no extensions or additional
+ financing even during the political disturbance. On this basis, the Quality of Supervision is rated
+ satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The objectives were clearly specified, which enabled the results framework to be well structured. The PDO
+ and intermediate results (IR) indicators, as well as their data collection methods, were appropriately and
+ realistically designed. No indicator was revised during implementation. The Theory of Change in the ICR
+ illustrated causal relationships of the project activities and the outcomes. On the other hand, the key
+ indicators were not measurable prior to the completion of civil works.
+
+
+
+b. M&E Implementation
+  M&E data was collected through the beneficiary surveys, the RAMS, and the semi-annual reporting from
+  PESR staff. No M&E specialist was placed in the PMU due to the lack of local specialists. This had a
+  negligible impact on M&E implementation, as none of the indicators needed periodic monitoring and
+  could not be fully measured before completion of civil works and road safety improvements. The delays in
+  reporting and its insufficient quality negatively, specifically, the delay in implementing the RAMS, which
+  was the main source of data, had affected M&E implementation. In addition, monitoring of the beneficiary
+  related indicators was hindered by the delay in the beneficiary surveys due to the lack of market interest.
+  Despite of these challenges, the status against indicators were routinely reported in the ISRs throughout
+
+
+                                                                                                  Page 11 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Road Rehabilitation (P148023)
+
+
+
+  the project duration. M&E tools such as the RAMS and the International Road Assessment Programme
+  (iRAP) survey were used effectively in the absence of M&E specialist.
+
+
+
+c. M&E Utilization
+  PESR used the RAMS to collect data on the overweight trucks on the road network, which were causing
+  premature road damages and road safety risks. The data on the axle weights and gross vehicle weights
+  informed the development of a weigh-in-motion (WIM) system, which was implemented by PESR
+  together with the Ministry of Interior and the State Transport Inspectorate. Furthermore,
+  the implementation of the WIM would be enhanced by the ITS component under the ongoing Regional
+  Trade and Transport Facilitation project.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   At appraisal, the project was in Environmental Category B, triggering the safeguard on Environmental
+   Assessment (OP/BP 4.01). PESR prepared the Environmental and Social Assessment and Management
+   Framework (ESAMF), which focused on the road rehabilitation to identify the relevant environmental risks
+   and present a roadmap for developing the Environmental Assessments and Management Plans (EAMPs).
+
+   The Unit for Environmental Protection and Social Aspects in PESR lacked sufficient staffing at the initial
+   stage of the project, especially because the unit staff had to make up for the insufficient oversight of
+   environmental safeguards by the supervision engineers. Following the Bank team’s recommendations,
+   PESR increased the number of environmental specialists in the Unit from one to three. Overall safeguards
+   rating in the latest ISR was moderately satisfactory, according to Operations Portal. Citizen engagement
+   practices and the grievance redress mechanism were appropriately conducted throughout the project
+   duration.
+
+   No social safeguard was triggered as the Project’s interventions focused on the rehabilitation. PESR
+   modified the technical designs or the geographical coverage to avoid dealing with the land access and the
+   land acquisition as much as possible, such as the cases of the Debar-Boshkov section and the Tetovo-
+   Popova Shapka section.
+
+
+
+
+b. Fiduciary Compliance
+   Financial Management: The arrangements for financial management were appropriate throughout the
+   project duration, including the staffing arrangements at PESR and the internal control system.
+   Disbursement was handled with accuracy and timeliness. The Interim Financial Reports (IFRs) provided
+   reliable information to the Bank quarterly. The financial audit of the project was replaced by the audit for
+
+                                                                                                     Page 12 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Road Rehabilitation (P148023)
+
+
+
+   the entity’s financial statements, as it was considered to have provided sufficient details about the project
+   transactions (ICR, para 77).
+
+   Procurement: The procurement of the first round of civil works was not sufficiently participated by the
+   bidders. To resolve the procurement difficulty, the Bank team provided guidance on the mitigation
+   measures. The procurement team in PESR improved their capacities through gaining knowledge and
+   experience on the Bank’s procurement procedures and guidelines. Their strengthened capacities were
+   reflected in the improved quality of procurement and technical documents overtime. The Project introduced
+   output-based contracting in the second-half of the project duration only after the RAMS was
+   fully implemented by PESR, in order to avoid any potential delays that might have caused by the additional
+   workload.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   The activities to strengthen the capacity of PESR had a spillover effect to expand the capacity of the
+   private sector and engineering school of the University, as their services for design and construction of civil
+   works were essential for PESR. For instance, the private sector and academia participated in the training
+   to integrate climate resilience and road safety into design and construction process. Their accumulated
+   knowledge and capacity would be useful to conduct the maintenance of the roads in the future. Moreover,
+   the improved network supported the emerging sectors such as agribusiness and tourism.
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                  Reason for
+Ratings                         ICR                    IEG
+                                                                                  Disagreements/Comment
+Outcome                         Satisfactory           Satisfactory
+
+Bank Performance                Satisfactory           Satisfactory
+
+Quality of M&E                  Substantial            Substantial
+
+Quality of ICR                  ---                    Substantial
+
+
+12. Lessons
+
+The following two lessons in the ICR stood out as important and relevant to other projects in the
+road sector and are presented here with some editing.
+
+1. Output and performance-based contracting could be introduced successfully after
+adequate implementation and internalization of the Road Asset Management System (RAMS);
+this would provide the road agencies with the means to collect data needed to carry out such
+
+                                                                                                     Page 13 of 15
+       Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+       Road Rehabilitation (P148023)
+
+
+
+contracts. Under the project, the decision to introduce output-based contracting only after adequate
+implementation and internalization of RAMS by PESR allowed it to use a fully functional RAMS to
+obtain accurate data on the road network to avoid any serious delays in procurement and the project
+failing to achieve its objectives due to a premature introduction of output-based contracting.
+
+2. The RAMS can help a road agency make strategic decisions to improve financial
+sustainability of the road sector and fiscal management, under close collaboration among
+key government agencies. The adoption of the RAMS concurrently happened with the time when
+the government sought for innovative financing measures which might not be fully financially
+feasible. PESR used the RAMS to rationalize the investments in road safety and climate resilience
+with close collaboration and exchange of data among key government agencies. Strategic decision
+making in a sector level supported by the RAMS further benefits the whole economy, by contributing
+to an improved fiscal management.
+.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provides a good overview of the project with concise texts structured around the project development
+objective that support the ratings. The ICR includes a clear figure describing the project’s results chain and
+critical assumptions. Moreover, the ICR is candid to present the key factors that affected implementation and
+outcome as well as the risks to development outcomes. The lessons are useful, which are based on the specific
+experiences and findings for the project. Regarding the quality of the evidence and of the analysis, the ICR
+could have been more comprehensive to provide an analysis on disaggregated data of evidence and detailed
+explanations on methodologies of surveys, and outcome level data on capacity building outcomes in order to
+strengthen their arguments on achievements of objectives. In sum, overall, the quality of the ICR is rated
+substantial.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                Page 14 of 15
+Independent Evaluation Group (IEG)   Implementation Completion Report (ICR) Review
+Road Rehabilitation (P148023)
+
+
+
+
+                                                                  Page 15 of 15
+

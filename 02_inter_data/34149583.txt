@@ -1,0 +1,878 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     RCIP - APL 4 Comoros (RI) (P118213)
+
+
+
+                                                                                Report Number: ICRR0023463
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P118213                                   RCIP - APL 4 Comoros (RI)
+
+ Country                                   Practice Area(Lead)
+ Eastern and Southern Africa               Digital Development
+
+
+ L/C/TF Number(s)                          Closing Date (Original)               Total Project Cost (USD)
+ IDA-D3820,IDA-H8780                       30-Jun-2018                                         29,965,953.78
+
+ Bank Approval Date                        Closing Date (Actual)
+ 10-Sep-2013                               30-Sep-2022
+
+                                           IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                          22,000,000.00                                               0.00
+
+ Revised Commitment                           32,000,000.00                                               0.00
+
+ Actual                                       30,053,317.78                                               0.00
+
+
+
+
+ Prepared by               Reviewed by                   ICR Review Coordinator         Group
+ Ranga Rajan               Avjeet Singh                  Avjeet Singh                   IEGSD (Unit 4)
+ Krishnamani
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objective (PDO), as stated in the Financing Agreement (Schedule 1, page 5) and
+   the Project Appraisal Document (PAD, page 6), is:
+
+   " To support the Union of the Comoros's (hereafter Comoros) efforts to lower prices for international
+   capacity and extend the geographic reach of broadband connectivity. "
+
+
+
+                                                                                                 Page 1 of 16
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     RCIP - APL 4 Comoros (RI) (P118213)
+
+
+
+   This review is based on the two PDOs:
+
+   PDO 1: To lower prices for international capacity.
+
+   PDO 2: To extend the geographic reach of broadband connectivity.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  19-Nov-2018
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   This project in Comoros was the fourth phase of the Regional Communications Infrastructure Program
+   (RCIP). The first phase was implemented in Kenya, Burundi, and Madagascar, the second in Rwanda, and
+   the third in Malawi, Mozambique, and Tanzania. This program was designed as a regional operation to (i)
+   accelerate the roll-out of the terrestrial regional and related national backbone infrastructure to ensure
+   access to the submarine cables across Eastern and Southern Africa (E&SA) and to extend access to
+   broadband services within countries; (ii) finance purchase of broadband capacity (domestic, regional and
+   international) for use by Governments and other targeted users (schools, universities and hospitals); and
+   (iii) finance related activities such as implementing e-Government applications and extending the
+   Information and Communication Technology (ICT) Services in rural areas.
+
+   There were three components (PAD, page 9):
+
+   1. Enabling Environment. The estimated cost at appraisal was US$3.30 million. The revised estimate with
+   Additional Financing (AF) was US$5.20 million. The actual cost was as per the revised estimate. This
+   component aimed to promote further regional market integration, ICT sector liberalization through the award
+   of a second license, and legal and regulatory reforms. This component included technical assistance (TA)
+   and capacity building activities, including TA to assist the government with preparatory work for the
+   proposed submarine cable FLY - LION3 (the name of the submarine cable consortium to link Comoros with
+   Mayotte and Madagascar), including environmental studies and demand analysis.
+
+   The scope of this component was expanded with the AF to include (a) TA, capacity building on national
+   market issues such as infrastructure sharing and interconnection principles, restructuring Comoros Telecom
+   (CT) and Comoros Cables (CC), access and authorization for Internet Service Provider (ISP) and sector
+   taxation; and (b) TA program to develop, implement and manage new government applications through
+   study visits, workshops, and training on new applications for key stakeholders and support for developing a
+   strategy for digitizing government functions.
+
+
+                                                                                                 Page 2 of 16
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    RCIP - APL 4 Comoros (RI) (P118213)
+
+
+
+  2. Connectivity. The estimated cost at appraisal was US$17.00 million. The revised estimate with AF was
+  25.50 million. The actual cost was US$24.24 million. This component planned to finance: (i) Comoros's
+  membership fee for participating in the FLY - LION 3 link under Public-Private-Partnership (PPP)
+  arrangement for connectivity with LION 2; (ii) advance purchase of additional broadband capacity from the
+  East African Submarine System (EASSy), FLY LION 3 and/or LION 2 for providing affordable bandwidth to
+  key users such as universities, schools, and hospitals; (iii) additional measures to stimulate demand
+  including through creating Internet Service Providers (ISPs) and establishing a carrier- independent Internet
+  Exchange Point (IXP).
+
+  The scope of this component was expanded significantly to include (a) developing a backbone network for
+  the government and a backup government center, extending bandwidth for central government agencies by
+  acquiring an indefeasible right of use for a minimum of five years, facilitating the transfer the country code
+  top-level Comoros Telecom domain to the National Authority for the Regulation of Information and
+  Communication Technology (ANRTIC) and developing a multi-stakeholder governance framework,
+  strengthening cybersecurity, introducing a basic e-visa system and introducing additional e-Government
+  services (such as for, online business registration, e-procurement, citizen tax filing system, government
+  interoperability platform and coordinating e- Government agency; and (b) introducing a dedicated co-
+  working space for ICT business innovation and training.
+
+  3. Project management. The estimated cost at appraisal was US$1.70 million, including US$0.2 million for
+  contingency. The revised estimate with AF was US$2.50 million. The actual cost was US$2.56 million. This
+  component is planned to finance project management and coordination costs, procurement, and financial
+  management. Monitoring and evaluation, communication. Environmental and social safeguards costs, cost
+  of equipment, and incremental operating and audit costs.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project cost. The estimated cost at appraisal, including AF, was US$32.00 million. The actual cost was
+  US$30.05 million.
+
+  Financing. The project was financed by an International Development Association (IDA) Grant of US$22.00
+  million. AF of US$10.00 million was approved on November 19, 2018. With this, the Bank financing was
+  US$32.00 million. The amount disbursed was US$30.05 million. There were exchange rate changes during
+  implementation.
+
+  Co financing. The private sector was expected to contribute US$12.00 million. According to the team, the
+  private sector contributed US$12.00 million during implementation.
+
+  Dates. The project was approved on September 10, 2013, became effective on November 19, 2013, and
+  was scheduled to close on June 30, 2018. However, the project closed 51 months, that is, four years and
+  three months later, on September 30, 2022.
+
+  Changes. There were four level 2 restructurings, and AF was approved. The changes made are listed
+  sequentially as follows.
+
+  The main changes made through the first level 2 restructuring on February 28, 2018, are as follows.
+
+
+
+                                                                                                   Page 3 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     RCIP - APL 4 Comoros (RI) (P118213)
+
+
+
+         The closing date was extended by 18 months to December 31, 2019, for completing the construction
+          of the FLY-LION3 land station that was behind schedule due to the delays in the telecom operators
+          reaching an agreement and to allow time for Bank negotiations for the AF.
+
+   The AF was approved on November 19, 2018, to scale up the demand stimulation component (including
+   support for digitization of public administration and government services) and account for the budget
+   shortfall from exchange rate losses sustained during the initial years. (The project lost about 10% (US$2.00
+   million) of original financing due to exchange rate changes). The scope of component one and two activities
+   were expanded (discussed above). Although the original PDO was retained, the targets for some original
+   activities were expanded with the AF.
+
+   Funds were reallocated from component two to components one and three for strengthening support for
+   resolving crucial market issues and capacity building needs through the second project restructuring on
+   June 18, 2020.
+
+   The following changes were made through the third project restructuring on May 28, 2021:
+
+         The closing date was extended by a year to June 30, 2022, for completing the ongoing activities.
+         Two activities (e-visa and interoperability platforms) were cancelled after the feasibility studies
+          concluded that arrangements were not in place for implementing those activities.
+
+   The main changes made through the fourth project restructuring on May 27, 2022, are as follows:
+
+         The closing date was extended by three months to September 30, 2022, for completing the ongoing
+          activities.
+         Funds were reallocated from component two to component three activities.
+
+   Split rating of Objectives. The PDOs did not change, and the project scope and targets expanded
+   substantially with AF. Two indicators on fixed-line internet subscriptions and fixed mainline subscriptions
+   were dropped during the AF because they were considered technologically outdated. Therefore, this review
+   is not based on a split rating of objectives.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and sector context. Comoros is a small island developing state in the Indian Ocean. Nearly 40%
+of Comoros's population is poor, living on less than US$3.25 a day in 2014. This is due to a combination of
+factors, including several political coups in the past and frequent government changes in recent years. The
+World Bank classifies Comoros among the fragile, conflict and violent (FCV) countries due to its high
+institutional instability (ICR, footnote 1).
+
+At appraisal, the ICT sector in Comoros was underperforming compared to the rest of Sub-Saharan Africa
+(SSA). The sector contributed just one percent of Gross Domestic Product (GDP), compared to around four
+percent average in the region. Comoros's broadband services were among the most expensive in SSA in
+
+                                                                                                    Page 4 of 16
+                       Independent Evaluation Group (IEG)          Implementation Completion Report (ICR) Review
+                       RCIP - APL 4 Comoros (RI) (P118213)
+
+
+
+2011. The price of a basket of prepaid mobile services in 2010 was US$24.25 per month (almost double
+that of SSA's average of US$14.98). Comoros faced many challenges in terms of connectivity due to its
+remote location and the small size of its economy (which meant little scope for economies of scale),
+absence of competition in the sector, and weak regulation. Improving the regulatory framework and
+increasing private sector participation in the sector to drive down prices was part of the Government
+strategy.
+
+Government strategy. The PDO is well-aligned with the Government strategy. At appraisal, the
+Government's Poverty Reduction and Growth Strategy Paper (PRGSP) of 2005 identified the ICT sector as
+critical for economic growth. The PRGSP also highlighted the need to increase international and in-country
+connectivity and provide affordable communications. Before the appraisal, the Government had taken many
+steps to liberalize the sector. The steps included enacting the 2014 Communications Act and partially
+liberalizing the Internet Service Provider (ISP). The activities added with the AF responded to the
+Government strategy outlined in the Strategie Comores Numerique 2028. This strategy recognized the
+critical role of fiber optic network infrastructure in increasing national broadband coverage and quality of
+service.
+
+Bank strategy. The PDOs continue to be relevant for the Bank strategy for Comoros. At appraisal, the
+County Partnership Strategy for 2014 - 2017 highlighted the need for supporting more robust governance,
+entrepreneurship and building public sector capacity for ICT sector innovations. The PDO was well-aligned
+with the current Country Partnership Framework (CPF) for 2020 -2024. The second focus area of the CPF
+articulated the need for promoting inclusive growth through (i) improving the business environment and
+governance and (ii) improving connectivity. The PDO was relevant to the Bank's 2020 COVID-19 Response
+Paper - "COVID-19 Crisis Response to Resilient Recovery ". This paper viewed digital connectivity as an
+enabler for building back better after the pandemic. The PDO was well-aligned with the Bank's Africa
+Regional Integration Assistance Strategy (RIAS) dated March 21, 2011, updated in 2018 and 2020.
+
+Bank experience. The Bank had financed three phases of the RCIP aimed to address the connectivity
+constraints by leveraging ICTs in SSA. In line with the overarching regional framework, this project sought
+to address the connectivity gaps in Comoros through a combination of supply and demand side
+interventions. Supply-side interventions included support to finance Comoros' membership and participation
+in the FLY-LION 3 regional submarine cable to expand access to broadband services. On the demand side,
+the interventions sought to stimulate market demand for connectivity services among target users, including
+through advanced purchase of broadband capacity.
+
+The project scope was expanded substantially with AF to scale up the demand stimulation component
+(including through digitizing public administration and government services). These activities went far
+beyond the original PDO of lowering prices for international capacity and extending the geographic reach of
+broadband connectivity. Despite the significant increase in project scope, the original PDO was retained.
+The PDO did not reflect the significant changes to the project scope (e-Government services). Therefore,
+the relevance of the objective is rated as substantial.
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+Substantial
+
+
+
+
+                                                                                                  Page 5 of 16
+                  Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                  RCIP - APL 4 Comoros (RI) (P118213)
+
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+               OBJECTIVE 1
+               Objective
+
+               PDO 1: To lower prices for international capacity.
+
+               Rationale
+               Theory of change. The project aimed to address the development challenge of high price for wholesale
+               international bandwidth. Activities such as capacity building support for formulating policy, strengthening
+               regulatory oversight and enacting legislation and financing studies on the ICT enabling environment were
+               expected to help enacting legislation on sector regulation, enabling the use of regional broadband, creating
+               the Special Purpose Vehicle (SPV) for strengthening institutional accountability, and the landing of new
+               submarine cables. These outputs were expected to aid in lowering prices of international capacity and the
+               long-term outcomes of sustaining growth and national and regional integration. The causal links between
+               activities, outputs and outcomes were logical. The intended outcomes were monitorable.
+
+               The assumption underlying the theory of change is that the government is committed to separating the fibre
+               optic cable assets of CT into a separate SPV called Comores Cables (CC).
+
+               Outputs. (ICR, pages 14 - 16 and 29 - 36).
+
+                     Technical Assistance (TA) was provided under the project as targeted. This contributed to the
+                        Government adopting the 2014 Telecom Law, which introduced a licensing regime. The TA also
+                        supported the regulations related to interconnection and access to networks and services (Decree
+                        Number 15-091/PR of June 10, 2015) and introduction of a new authorization regime to make it easier
+                        for potential ISPs to enter the market (Decree Number 15 -093/PR).
+                       Prior to the project, wholesale and retail markets were vertically integrated within CT's monopoly. The
+                        Government awarded the license for a second telecom license as targeted, thereby breaking the
+                        monopoly of the incumbent in both the wholesale and retail markets. The evolution of the market
+                        structure from a monopoly to a duopoly was reflected in the Herfindahl-Hirschman Index (which
+                        measures market concentration) steadily decreasing for Comoros from a maximum of 10,000 in 2012
+                        to 6,752 in 2022 (A measure of 10,000 means that only entity holds 100% of market shares).
+                       The project supported the creation of Comores Cable (CC) a Special Purpose Vehicle (SPV) in 2013
+                        and subsequent transfer of ownership of all international cables from Comores Telecom (CT) to CC as
+                        targeted.
+                       846 women benefitted from the dedicated co-working space financed by the project for ICT business
+                        innovation and training (the Comor' lab) when the project closed, far exceeding the target of 100.
+                       During the COVID - 19 pandemic, the project supported the Government's capacity for home-based
+                        work by procuring 300 laptops for key government officials and a secure government e-
+                        mail/productivity suite was installed on the laptops.
+                       The project leveraged for Comoros more than US$90 million by way of telecom licensing fees and
+                        private sector infrastructure investment (estimated at US$122.00 million).
+
+
+                                                                                                                 Page 6 of 16
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   RCIP - APL 4 Comoros (RI) (P118213)
+
+
+
+The following activities were not fully completed when the project closed.
+
+      The number of licensed Internet Service Providers (ISPs) increased from one to five when the project
+       closed, exceeding the target of four. However, three of the five authorized ISPs were not operational
+       when the project closed, as they had not been able to deploy their access networks, due to the lack of
+       a proper regulatory framework for ISPs, and the ISPs ' inability to negotiate successfully with the two
+       main telecom operators to reach an interconnection agreement.
+      Some recommendations of the TA activities of the project aimed to support regulatory reforms such as
+       open access, infrastructure sharing, and spectrum management were not enforced due to insufficient
+       Government commitment. The PPP arrangement for managing the FLY-LION3 cable was not
+       implemented.
+
+Outcomes.
+
+The outputs described above were expected to lower the wholesale price of international capacity in
+Comoros.
+
+      The average price of wholesale internet capacity dropped from US$ 5,500 at the baseline to
+       US$60.00 on September 30, 2022, surpassing the target of US$1.000.
+
+Given that the project aided in breaking the de facto monopolies of the incumbent in both the wholesale and
+retail markets with the approval of a license to a second operator, it is reasonable to assume that the project
+contributed substantially to lowering the wholesale price of international capacity in Comoros. The ICR also
+notes that the new FLY-LION3 cable created a more diverse supply of international capacity, which allowed
+ISPs to leverage competition between cables and led to a further reduction in prices.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+PDO 2: To extend the geographic reach of broadband connectivity.
+
+Rationale
+Theory of change. The project activities addressed the development challenge of fostering competition in the
+ICT sector. The outputs of activities such as participating in the FLY-LIONS cable, capacity building to assist
+the Government with constructing and maintaining the new submarine cable, advance purchase of capacity,
+and promoting Internet Service Providers (ISP) with an Internet Exchange Point (IXP), were likely to increase
+competition in the sector and connecting households, businesses, ministries and departments to internet
+services. These outputs will likely help extend the geographic reach of broadband services. The causal link
+between activities, outputs, and outcomes is logical, and the outcomes are monitorable.
+
+The project outcomes were predicated on three assumptions: (i) The Government remains committed to
+separating the fiber optic cable assets of Comores Telecom (CT) into a separate particular purpose vehicle;
+(ii) Negotiations are ongoing between the telecom operators Comors and neighboring countries to create a
+
+                                                                                                   Page 7 of 16
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   RCIP - APL 4 Comoros (RI) (P118213)
+
+
+
+consortium to enhance regional connectivity through addition submarine cable (FLY-LION3); and (iii) The CT
+is privatized subject to a parallel project financed by the International Finance Corporation (IFC) when this
+project was under preparation.
+
+Outputs (ICR, pages 35 - 36).
+
+In addition to the above activities relevant to this objective, the following outputs were completed as targeted.
+
+      The project aided as targeted in providing the FLY-LION3 cable construction and maintenance
+       consortium fees, and Comoros became a member of the FLY-LION3 consortium.
+      The international internet bandwidth capacity increased from 456 Megabits per second (Mbit/s
+       increased from 456 Mbit/s at the baseline on December 31, 2011, to 6,940 Mbit/s on September 30,
+       2022, far exceeding the target of 3611 Mbit/s.
+      Physical infrastructure to enable cross-connections in Comoros was established at the landing station
+       at CC, as targeted. As of June 2019, the new landing station in Moroni was completed as targeted.
+       The ICR (page 15) noted that with its investment, CC set up another station to the Africa 2 cable,
+       allowing Comoros to be liked with a third cable beyond FLY - LION 3 and EASSy. This cable officially
+       landed in Comoros on 12 January 2023.
+      The ICR notes that the Internet Exchange Point (IXP) was not established due to the lack of
+       commitment from the telecom operators.
+
+Outcomes.
+
+The outputs described above were expected to contribute to the following outcomes: (i) increase international
+internet bandwidth capacity, (ii) increase access to internet services and mobile subscriptions, and (iii)
+increase the number of direct project beneficiaries with access to internet services.
+
+      The number of people with access to internet services (number of subscribers per 100 people)
+       increased from 0.62 at the baseline to 65.93, exceeding the original and revised targets of 4.13 and
+       37.70, respectively. The total number of internet subscriptions increased from 5,416 at the baseline to
+       536,596, exceeding the original and revised targets of 66,030 and 300,000, respectively
+      The number of mobile subscriptions increased to 781,579, exceeding the original and revised targets
+       of 459,999 and 582,000. The total number of mobile subscriptions (per 100 inhabitants) increased
+       from 27.39 at the baseline to 97.10 when the project closed, exceeding the target of 72.75.
+      372 355 people directly benefitted from project activities (new mobile subscribers), exceeding the
+       original and revised targets of 215,000 and 365,562, respectively. 50.10% of the beneficiaries were
+       women, exceeding the target of 50%. The beneficiaries included people in areas that had no fiber
+       optic network coverage.
+
+Given that the outcomes were realized, the efficacy of this PDO is rated as substantial.
+
+The ICR also notes that even though capacity strengthening was not an explicit aspect of the PDO, the
+project did contribute towards 'improved institutional resilience and capacity.' As part of the PDO above, the
+project helped strengthen the institutions and legislation that regulate the ICT sector. Funds were also
+reallocated from Component 2 to Component One under the June 2020 restructuring to ensure sufficient
+funding remained to continue supporting the planned national sector reform through TA. In addition to the TA,
+e-government services and applications were included as new activities to increase demand stimulation for
+
+                                                                                                    Page 8 of 16
+                                Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+                                RCIP - APL 4 Comoros (RI) (P118213)
+
+
+
+                            targeted institutions and measured through intermediate results. The project delivered two e-government
+                            platforms to improve the efficiency of government services for the citizens with the online one-stop shop for
+                            business registration and transparency in the public procurement process. The project also supported the
+                            establishment of the country's first national Tier 3 data center located at CC and managed by ANADEN and
+                            acts as the central repository for all government data.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            Although some outputs were not met, they did not have substantive implications for achieving the PDO. The
+                            overall efficacy is rated as substantial, given that the project met its objectives and the outcome targets.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+    5. Efficiency
+   Economic analysis. Although an economic analysis was conducted at appraisal, the ICR (para 43) noted that it
+   was not possible to compare the results of the economic analysis at appraisal with the results at project closing
+   due to the various restructurings and also because the original model used at appraisal could not be located.
+   Therefore, an ex-post cost-benefit analysis (CBA) was conducted to measure the project's net present value
+   (NPV) and Economic Rate of Return (ERR) for activities that accounted for 92% of the actual cost (including the
+   original financing and the AF). Given the difficulties associated with quantifying the full range of positive network
+   effects and spillovers derived from the project, the potential macroeconomic benefits were assumed to come
+   from the ICT sectors' contribution to the Gross Domestic Product (GDP). The NPV at a 10.5% discount rate was
+   US$3.67 million at project closing, and the ex-post EIRR was 32.6%.
+
+   Administrative and Operational Issues during implementation. There were several shortcomings in the
+   initial years. The Government failed to abide by several agreed commitments for the project. For example, open
+   access policies for the new cable landing station established by the project were to be incorporated into the
+   state-owned Comores Cable (CC) statute. However, the National Authority for the Regulation of the Information
+   and Communications Technology (ICT) sector (ANRTIC) granted exclusivity of usage of that landing station to
+   CC (not allowing other telecom operators to cross-connect). This was only remedied in July 2022 when a new
+   Director General was appointed, and negotiations with Telma Comres were reopened. These factors contributed
+   to the delays during the initial years. The delays were exacerbated by frequent changes in the Project
+
+
+
+                                                                                                                             Page 9 of 16
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      RCIP - APL 4 Comoros (RI) (P118213)
+
+
+
+Implementation Unit (PIU) during implementation. These factors contributed to the project closing four years and
+three months behind schedule.
+
+The project demonstrated good value for money despite the FCV conditions that prevailed throughout the
+project's lifetime. Project activities were completed within the budget. The ICR (para 41) notes that procurement
+and project management costs were comparable to similar Bank-financed projects in other countries. The
+enabling environment and connectivity activities created significant value, which amounted to US$1.25 for every
+dollar spent in the neutral scenario, US$0.92 for the pessimistic scenario, and US$1.50 for the optimistic
+scenario). The project also attracted US$3 in private investment for every dollar invested in the project.
+
+Overall efficiency is rated as substantial. Although there were administrative and operational shortcomings
+during implementation, the project was economically viable and demonstrated good value for money despite the
+FCV context in which the project was implemented.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?             Point value (%)          *Coverage/Scope (%)
+                                                                                    0
+ Appraisal                                                  0
+                                                                                     Not Applicable
+                                                                                    92.00
+ ICR Estimate                                              32.60
+                                                                                     Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Relevance of the PDO to the Government and Bank strategy is substantial. Efficacy of the PDO is substantial
+with minor shortcomings. Efficiency is substantial. Therefore, overall outcome is rated as satisfactory.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+Government commitment. There is a substantial risk to the sustainability of development outcomes. This
+project aided in enacting the 2014 Telecommunications Act aimed at improving the regulatory oversight of
+the ICT sector. However, there were issues with the enforcement of the law. The ICR (para 78) notes that
+
+                                                                                                   Page 10 of 16
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      RCIP - APL 4 Comoros (RI) (P118213)
+
+
+
+although the Government is working on a new Electronic Law to enhance the now obsolete 2014 Act, it has
+limited the consultation process to only key interlocutors at the Ministry of Posts, Telecommunications and
+Digital Economy (MPTEN). The ICR also notes that the draft of the new law still has some regulatory gaps.
+
+Furthermore, although Comoros has a national regulatory authority, ANRTIC, established in 2009, it still has
+a board mainly appointed by MPTEN. The ICR notes that throughout the project, successive ministers of
+MPTEN introduced decrees and decisions that ANRTIC had to apply and implement, even if they went
+against the current regulatory, competitive principles. The lack of regulatory oversight limits private sector
+participation in the ICT sector.
+
+Financial risk. There is a risk that the project development outcomes could be undermined due to lack of
+financing. The National Agency for Digital Development (ANADEN) remains vastly underfunded and
+understaffed. This project aided in providing a series of laptops and pre-purchase of internet connections.
+The continuation of these activities could be undermined due to lack of funding.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The Bank prepared this project in Comoros based on the experiences from the previous Bank-financed
+  RCIP phases 1 to 3. Lessons incorporated at design included: (i) Capacity building activities for
+  negotiations with the private sector to establish durable Public-Private-Partnership (PPP) arrangements;
+  and (ii) Given the limited availability and short supply of qualified staff for project and fiduciary
+  management, the project used an existing Project Management Unit (PMU) discussed below. (PAD,
+  paras. 33 and 35). The project appropriately included a Project Preparation Advance (PPA) to cover
+  preparation activities consisting primarily of regulatory and technical assistance for the open-access
+  broadband backbone infrastructure. The project preparation was facilitated by the preparatory studies
+  conducted by the Bank before approval (ICR, para 54).
+
+  The implementation arrangements made at the appraisal were appropriate. The unit for follow-up of
+  Economic and Financial Reforms (CREF) within the Ministry of Finance was responsible for overall
+  project coordination. An existing PIU, which was implementing an ongoing Bank-financed project
+  (the Appui a la Bonne Govrnance Economique project), was in charge of day-to-day project
+  implementation (PAD, para 36).
+
+  The technical aspects of project design were similar to those of the previous three phases, adapted to the
+  country context and set within a coordinated regional framework. The preparation team identified several
+  risks at appraisal, as the project envisioned a PPP model in a sector that did not have any private
+  sector. At appraisal, the Bank analyzed to assess the project's economic viability. The arrangements
+  made at appraisal for safeguards and fiduciary compliance were appropriate (discussed in sections 9 and
+  10).
+
+  There was one shortcoming. The preparation team underestimated the governance risk, as demonstrated
+  by the fact that the government wavered in its commitment to sector regulation (discussed in section
+  five).
+
+
+                                                                                                   Page 11 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     RCIP - APL 4 Comoros (RI) (P118213)
+
+
+
+  Bank Performance at entry is rated as Satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ Nineteen Implementation Status Results Reports (ISRR) were filed over the project lifetime of roughly ten
+ years, implying twice a year supervision mission. During implementation, the Bank provided sector policy
+ notes for the incoming governments in 2014 and 2019 to address particular issues experienced during
+ project implementation and provided a background on the failed privatization process. The supervision
+ team restructured the project in a timely fashion and the team proactively proposed changes to budget
+ reallocation and included new activities at the government request with the AF for the project.
+
+ However, there were moderate supervision shortcomings. One, although the project activities were
+ expanded AF to scale up the demand stimulation component (including through digitization of public
+ administration), the original PDO was retained. The original PDO did not reflect the increased level of
+ ambition of project activities that were added with the AF for the project. Two, the Financing Agreement of
+ the AF grant stipulated that the Bank could suspend the operation if the Special Purpose Vehicle failed to
+ perform any of its obligations under the SPV agreement. Proving open access was explicitly stated in CC's
+ statute as one of its obligations. However, although ANRITC had agreed to open access, issues about
+ cross-connection between CC and Telco were not fully resolved. In hindsight, the supervision team could
+ have explored the option to suspend or cancel parts of the project in line with the General Conditions of the
+ Financing Agreement or at least signal the intention to do so, which could have accelerated the issue's
+ resolution.
+
+ Bank performance at supervision is rated as moderately satisfactory.
+
+ Overall, the Bank performance was rated as moderately satisfactory due to the shortcomings in
+ supervision.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The key outcome indicators were standard industry indicators and the same as those for the Regional
+ Communications Infrastructure Program (RCIP). These indicators were appropriate for monitoring project
+
+                                                                                                   Page 12 of 16
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     RCIP - APL 4 Comoros (RI) (P118213)
+
+
+
+ performance. The indicators were: (i) increased volume of international traffic, (ii) lower average price of
+ international communications, and (iii) the number of direct project beneficiaries (including female
+ beneficiaries).
+
+ However, there were M&E design shortcomings. The M&E framework did not include any indicator that
+ could be used to measure the geographic reach of the broadband network. The framework included only
+ one indicator for measuring the prices for international connectivity. This made it challenging to link every
+ sector development in the country to the project. The assessment of the demand stimulation of e-
+ government activities was only through intermediate indicators.
+
+
+
+b. M&E Implementation
+  The deficiencies in M&E design were not corrected during implementation. The data for monitoring
+  progress was collected by the Project Implementation Unit (PIU) from external sources (such as
+  TeleGeography, International Telecommunication Union (ITU), and the Global System for Mobile
+  Communications Association (GSMA) and information retrieved from the laws passed.
+
+  The ICR (para 62) notes that despite the limited capacity, the PIU regularly collects the data for
+  monitoring progress. However, there were difficulties in updating sectoral data, particularly by the
+  National Authority for the Regulation of Information and Communications Technologies (ANRTIC). The
+  weak institutional capacity at ANTRIC exacerbated these difficulties. Without accurate data from ANTRIC,
+  the PIU had to get data for monitoring performance directly from the operators.
+
+
+
+c. M&E Utilization
+  The ICR (para 64) notes that the data collected during implemented was utilized when the AF was
+  approved for reassessing and increasing the original targets.
+
+  Overall, M&E is rated as modest for the shortcomings in M&E framework and M&E implementation.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as a Category B (partial assessment) under the World Bank safeguard policies.
+   Three safeguard policies were triggered at appraisal: Environmental Assessment (OP/BP 4.01), Involuntary
+   Resettlement (OP/BP 4.12), and Projects in Disputed Areas (OP/BP 7.60) (PAD, page ix).
+
+   Environmental Assessment. The deployment of the FLY-LION 3 cable was not expected to have
+   significant environmental impacts (PAD, para 61). A draft Environmental and Social Management
+
+
+
+                                                                                                     Page 13 of 16
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    RCIP - APL 4 Comoros (RI) (P118213)
+
+
+
+  Framework (ESMF) consistent with national laws was prepared and publicly disclosed at appraisal to
+  address environmental impacts (PAD, page 62).
+
+  The ICR (para 69) observed that the approved Environmental and Social Impact Assessment was
+  implemented appropriately without any incident during implementation.
+
+  Involuntary Resettlement. A Resettlement Policy Framework (RPF) was prepared and publicly disclosed
+  at appraisal to address land acquisition and resettlement impacts (PAD, para 61).
+
+  The ICR (para 69) noted that around 20 project-affected persons (PAPs) were relocated due to the
+  construction work. There were no complaints from PAPs as they had received appropriate compensation.
+
+  Projects on Disputed Areas. This safeguard was triggered as the Island of Mayotte was under French
+  administration, although Comoros claims sovereignty over it; the project team discussed the issue with both
+  the Comorian government and the Counsellor for Cooperation and Culture at the French Embassy in
+  Moroni on September 11, 2012. Both the French Embassy and the Comorian Government
+  representatives confirmed that they would have no objection to the project. As per Bank Policy, the Bank
+  approved a memorandum to this effect on February 14, 2013 (PAD, para 65).
+
+
+
+
+b. Fiduciary Compliance
+  Financial management. The Bank conducted an assessment of the financial management of the PIU at
+  appraisal. The assessment concluded that the PIU staff had the requisite experience with the Bank's
+  financial procedures. The financial management risk was rated moderate at appraisal (PAD, para 57).
+
+  The ICR (para 67) noted that on April 10, 2021, an external auditor issued a qualified audit opinion on the
+  financial statements of fiscal year 2019 of the original grant regarding the loss of three computers. This
+  resulted in an ineligible expenditure of US$4,065. As these issues were common in Comoros due to its
+  FCV context and the amount involved was low, the bank did not request a refund. The ICR also noted that
+  the PIU reinforced its internal control following this incident based on these findings and the external
+  auditor's recommendations. The team clarified that the Bank has not yet received the most recent audit
+  (dated June 30, 2023).
+
+  Procurement. The Bank conducted a procurement assessment of the PIU at appraisal. The assessment
+  concluded that the procurement risk was moderate (PAD, para 58).
+
+  The Bank (para 68) noted several procurement issues during implementation, such as (i) Two cases of
+  conflict of interest pertaining to individual consultants in the PIU. The Bank notified the Ministry of Finance
+  (MoF) to resolve the issues. As the MoF failed to resolve them, these contracts were declared to be mis
+  procurement. The Bank sought refunds of expenditure (around US$80,000). When the project closed, the
+  Government had not yet refunded the amount. (ii) Two successive complaints from unsuccessful bidders
+  were submitted in October and November 2021 concerning selecting a contractor to implement the e-
+  procurement platform. The Bank clarified the reasons for the selection in January and April 2022; (iii) Telco
+  filed a complaint in the context of a procurement for the pre-purchase of internet capacity under the project.
+
+
+
+                                                                                                   Page 14 of 16
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     RCIP - APL 4 Comoros (RI) (P118213)
+
+
+
+   Telco submitted a late bid, which was not considered. The complaint alleged collusion by the PIU
+   contractor. The Bank found no grounds for the complaint.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   The ICR does not report any unintended impacts.
+
+
+
+d. Other
+   None.
+
+
+
+11. Ratings
+                                                                                 Reason for
+Ratings                         ICR                    IEG
+                                                                                 Disagreements/Comment
+Outcome                         Satisfactory          Satisfactory
+                                                                                 There is a discrepancy between
+                                                                                 the rating for Bank performance
+                                                                                 in the data sheet and the main
+Bank Performance                Satisfactory          Moderately Satisfactory    text. This review rates overall
+                                                                                 Bank performance as
+                                                                                 moderately satisfactory due to
+                                                                                 the shortcomings in supervision.
+                                                                                 There is a discrepancy in the
+                                                                                 rating for M&E in the data sheet
+                                                                                 and main text. The review rates
+Quality of M&E                  Substantial           Modest
+                                                                                 the M&E quality as Modest due
+                                                                                 to shortcomings in design and
+                                                                                 implementation.
+Quality of ICR                  ---                   Substantial
+
+
+12. Lessons
+
+The ICR draws the following three main lessons from the experience of implementing this project.
+
+1. A careful analysis of political economy considerations of state-owned assets at appraisal
+may help prevent delays during implementation. This is particularly so for countries in FCV
+settings. This project experienced difficulties bringing together key stakeholders for policy dialogue
+aimed at sector liberalization.
+
+2. Prior Government commitment may not be enough for sustained follow through on key
+principles agreed for the project. In this project, the Government reneged on its commitment to
+
+                                                                                                    Page 15 of 16
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       RCIP - APL 4 Comoros (RI) (P118213)
+
+
+
+ensure open access. The lesson is that beyond legal covenants and disbursement conditions, it may
+be useful to have other mechanisms to encourage the realization of such commitments and reforms,
+such as budget support programs that can accompany the Government's effort to reforms.
+
+3. Additional support, particularly on fiduciary matters, may help in low-
+capacity environments. Given the fiduciary issues faced during implementation, the lesson is that
+systematic capacity building on fiduciary issues needs to be incorporated both during preparation
+and during implementation.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is clear and adheres to the recommended length for the most part. The theory of change provided in
+the ICR clearly articulates the links between project activities, outputs, and outcomes. The ICR also explicitly
+states the assumptions underlying the theory of change. The ICR acknowledges the issues associated with
+retaining the PDO while the scope of activities was increased with the AF for the project. The analysis and the
+evidence provided in the text is sufficient for assessing project performance.
+
+There are minor shortcomings in the ICR. There is a discrepancy for both Bank performance and M&E in the
+data sheet and main text of the ICR. Annex 3 on project costing is incomplete.
+
+Overall the quality of the ICR is rated as Substantial.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                    Page 16 of 16
+

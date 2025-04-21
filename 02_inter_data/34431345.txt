@@ -1,0 +1,1086 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     UY E-Gov Services for Citizens&Business (P161989)
+
+
+
+                                                                                  Report Number: ICRR0024169
+
+1. Project Data
+
+
+
+ Project ID                                   Project Name
+ P161989                                      UY E-Gov Services for Citizens&Business
+
+ Country                                      Practice Area(Lead)
+ Uruguay                                      Governance
+
+
+ L/C/TF Number(s)                             Closing Date (Original)              Total Project Cost (USD)
+ IBRD-87780                                   31-Dec-2021                                        11,833,544.08
+
+ Bank Approval Date                           Closing Date (Actual)
+ 03-Aug-2017                                  15-Dec-2023
+
+                                           IBRD/IDA (USD)                                       Grants (USD)
+
+ Original Commitment                             12,000,000.00                                              0.00
+
+ Revised Commitment                              12,000,000.00                                              0.00
+
+ Actual                                          11,913,679.55                                              0.00
+
+
+
+
+ Prepared by                Reviewed by                     ICR Review Coordinator        Group
+ Gloria Carolina            Miria A. Pigato                 Kandi Magendo                 IEGEC (Unit 1)
+ Gutierrez Tejada
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to the Financing Agreement (FA) dated November 7, 2017 (p. 5) and the Project Appraisal
+   Document (PAD, p. 6), the Project Development Objective (PDO) was:
+
+   To improve the quality of selected e-government services for citizens, businesses and the Borrower’s public
+   entities, and facilitate their access.
+
+
+
+                                                                                                   Page 1 of 20
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     UY E-Gov Services for Citizens&Business (P161989)
+
+
+
+   For the purposes of this review, the PDOs have been parsed as follows:
+
+   PDO1: To improve the quality of selected e-government services for citizens and facilitate their access.
+
+        1. PDO2: To improve the quality of selected e-government services for businesses and facilitate their
+          access.
+        2. PDO3: To improve the quality of selected e-government services for the Borrower’s public entities and
+          facilitate their access.
+
+   The PDO remained unchanged over the project lifecycle.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component 1: Improving the Delivery of e-Government Services to Citizens (Approved: US$4.0
+   million; Actual: US$3.8 million).
+
+   This component aimed to improve the quality of selected e-government services to citizens and to facilitate
+   their access. Activities primarily focused on improving delivery systems, provider management and user
+   engagement. The participating entities were the Agency for the Development of Electronic Government
+   Management and an Information and Knowledge Society (Agencia para el Desarrollo del Gobierno de
+   Gestión Electrónica y la Sociedad de la Información y del Conocimiento, AGESIC), and the Digital
+   Technology Center for Public Education Innovation (Centro CEIBAL) (PAD, p. 7). There were two
+   subcomponents:
+
+        1. Strengthening AGESIC’s e-government service provision.
+        2. Strengthening Centro CEIBAL’s Capacity to manage its programs.
+
+   Activities to strengthen AGESIC’s services included: (a) development and implementation of a national
+   government data architecture; (b) design of new smart services and a business analytics and intelligence
+   platform; (c) development of a framework for citizen participation, transparency and oversight mechanisms,
+   including e-participation tools and their impact evaluation; (d) development and piloting of collaboration
+   mechanisms between the government’s public entities and citizens; and (e) facilitating access to
+   government services and information, particularly in remote areas.
+
+   Activities to strengthen CEIBAL’s services included: (a) improvement of customer service; (b) establishment
+   of a computer security incidence response team (CSIRT); (c) strengthening CEIBAL’s management and
+   back-office by implementing new modules to their Enterprise Resource Planning (ERP) system; (d)
+   improvement of CEIBAL’s data management; (e) technical assistance (TA) and last-mile connectivity to the
+   national broadband infrastructure to provide broadband internet access in rural schools; and (f)
+   strengthening CEIBAL’s strategic planning capacity.
+
+
+                                                                                                   Page 2 of 20
+  Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+  UY E-Gov Services for Citizens&Business (P161989)
+
+
+
+Component 2: Improving the Delivery of e-Government Services to Businesses (Approved: US$3.4
+million; Actual: US$2.2 million).
+
+This component aimed to improve the quality of selected e-government services to businesses and to
+facilitate their access. The focus was on improving delivery systems (including the scope of services),
+provider management, and cross-entity collaboration within key agencies such as the International Trade
+Single Window (Ventanilla Única de Comercio Exterior, (VUCE)), the Directorate General of Taxation
+(Dirección General Impositiva, DGI), and the National Research and Innovation Agency (Agencia Nacional
+de Investigación e Innovación, (ANII)) (PAD, p. 8). There were three subcomponents:
+
+    1. Improving export-related services for businesses.
+    2. Implementing e-invoicing for small and medium businesses.
+    3. Improving access to specialized information to businesses.
+
+Activities to improve export-related services for businesses included: (a) TA and training to optimize
+administrative processes for public entities using VUCE; (b) institutional strengthening of VUCE, including
+enhancing its quality management system; (c) implementation of a new interoperability platform for
+international information exchange; and (d) expansion of the coverage of VUCE’s integrated platform and
+re-engineering administrative process across the value chain for priority exports.
+
+Activities to implement e-invoicing for small and medium businesses included: (a) development and
+implementation of an e-invoicing system for small and medium taxpayers that were under the electronic tax
+invoicing regime; (b) enhancement of DGI’s fiscal risk management system to enable strategic planning of
+taxpayer compliance and the management of audit cases, in line with DGI’s new organizational model; and
+(c) operationalization of DGI’s new governance model.
+
+Activities to improve access to specialized information to businesses included: (a) expansion of services
+provided through Portal Timbó (a web platform launched in 2009 by ANII which provides free and full
+access to the most relevant scientific and technological publications to Uruguay’s citizens); (b) and
+development of an online knowledge exchange platform (Trama Portal) for the Trama Project (launched in
+2014 by ANII to create opportunities for networking, exchange, and the creation of alliances among its
+users) in order to reach a wider audience giving it greater visibility and facilitating communication among
+beneficiaries (PAD, p. 32).
+
+Component 3: Improving the Delivery of e-Government Services to Government Entities (Approved:
+US$2.1 million; Actual: US$5.3 million).
+
+This component aimed to improve the quality of selected e-government services to public entities and
+facilitate their access. The activities focused on improving provider monitoring and payments, provider
+management, government delivery systems, and cross-entity collaboration between the General Accounting
+Office (Contaduría General de la Nación, (CGN)), the Ministry of Economy and Finance (MEF), and other
+entities with a direct link to MEF’s priorities (PAD, p. 10). There were two subcomponents:
+
+    1. Enabling the receipt of electronic invoices by state entities.
+    2. Strengthening the MEF’s management of information.
+
+Activities to enable the receipt of electronic invoices by state entities included: (a) development of a system
+for budget executing units to receive and manage electronic invoices generated by providers; (b) acquisition
+
+                                                                                                  Page 3 of 20
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    UY E-Gov Services for Citizens&Business (P161989)
+
+
+
+  of the necessary software and hardware for the Integrated Financial Information System (Sistema Integrado
+  de Información Financiera, SIIF); and (c) installation of the SIIF in approximately 243 executing units, along
+  with training and the establishment of a help desk.
+
+  Activities to strengthen the MEF’s management of information included: TA for the production, processing,
+  analysis and dissemination of information within MEF’s priority areas; strengthening of the national statistics
+  system; and support for other entities involved in implementing activities in the MEF’s priority areas.
+
+  Component 4: Strategic Diagnostics, Activities and Knowledge Sharing, and Project Coordination
+  (Approved: US$1.6 million; Actual: US$0.8 million).
+
+  This component aimed to strengthen the government’s capacity to support strategic reforms in areas that
+  are critical to achieving the PDO (PAD, p. 10). There were no sub-components.
+
+  Activities included: (a) strengthening the government’s monitoring and evaluation capacity; (b)
+  disseminating lessons learned on e-government service provision across the borrower’s public entities and
+  internationally; (c) TA and training to improve the quality of e-government services for the three groups of
+  beneficiaries, and facilitate their access; (d) defining and implementing change management strategies in
+  the areas addressed by the project; and (e) supporting overall project coordination and management.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost: The project cost at appraisal was US$12.0 million (PAD, p. 11). The actual cost was US$11.9
+  (ICR, p. 2). The slight difference was due to the timing of disbursements. Some contracts extended beyond
+  the loan closing date and payments made after the loan's closure were covered by government resources
+  rather than project funds.
+
+  Financing: The actual project financing at closing was US$11.9 million. The project was originally financed
+  by an IBRD loan of US$12.0 million approved on November 7, 2017 (FA, p. 4)
+
+  Borrower Contribution: The Republic of Uruguay did not intend to provide counterpart funding. However,
+  due to procurement delays, some activities initially intended to be funded by the project were instead
+  financed with government resources. The total government contribution was not reported in the ICR.
+
+  Dates: The WBG approved the project on August 3, 2017, and it became effective on December 26, 2017,
+  with an original closing date of December 31, 2021. The first restructuring, approved on August 30, 2021,
+  extended the closing to June 30, 2023. The second restructuring, approved on May 23, 2023, further
+  extended the closing date to December 15, 2023. These extensions were intended to provide additional
+  time to complete project activities, achieve the PDO outcomes (PDO Indicators 1.1, 2 and 3), and ensure a
+  smooth transition to the follow-up Institution Strengthening for Greater Competitiveness Operation
+  (P180638), approved in November 2023. The Project mid-term review (MTR) was finalized on June 1, 2022
+  (ICR, p. 2).
+
+  Restructurings: The project underwent two level 2 restructurings. There were no changes to the PDO,
+  PDO Indicators, Outcome Targets, or Components. The main changes were as follows:
+
+
+
+
+                                                                                                    Page 4 of 20
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     UY E-Gov Services for Citizens&Business (P161989)
+
+
+
+   In addition to extending the project closing date, the first restructuring (level 2) reallocated funds between
+   components. For 18 months, some project activities stalled due to the COVID pandemic and the transition
+   to a new government elected on March 1, 2020. There were fiscal and operational constraints imposed by
+   the pandemic, and a re-prioritization of government resources. The new government was updating the
+   National Digital Agenda Uruguay 2030 and needed to appoint a new coordinator for the project coordination
+   unit (UCP) which it did not do until January 2021 (RES 47670, p. 3). In addition, the project’s 2021 annual
+   work program and the relaunching of procurement processes was not ready until June 2021. Meanwhile,
+   AGESIC, VUCE and ANII continued implementing project activities with the government’s own resources,
+   identifying priority areas where other funding existed, such as the standardization of government web
+   portals for ease of access by users, such as VUCE (ICR, para 16). Thus, funds originally allocated to these
+   activities (US$3.9 million) were reallocated to other ongoing activities as follows: US$0.8 million to
+   Component 1, US$0.6 million to Component 2, US$2.2 million to Component 3 to expand TA for the use of
+   electronic invoices and information management, and US$0.2 million to Component 4. In particular, the
+   reallocation was to i) enable the receipt of electronic invoices by State entities; and ii) strengthen MEF’s
+   capacity to manage information through the provision of TA for the production, processing, analysis and
+   dissemination of information within MEF’s priority areas. As of July 2021, 61.3 percent of the original Project
+   funding had been disbursed (RES47670, p. 3).
+
+   A second restructuring (level 2) approved some minor funds reallocations and further extended the
+   Project’s closing date by 5.5 months to allow for the following activities to be completed: i) adding
+   functionalities to the Electronic Invoice Reception System for vendors (Sistema de Recepción de Factura
+   Electrónica, SIRFE); and ii) designing and deploying specific MEF-related electronic services, thus
+   expanding the catalog of online services for citizens and firms including about 30 new electronic services.
+   Resources (US$0.8 million) were reallocated as follows: US$0.3 million to Component 2, US$0.3 million to
+   Component 3, and US$0.25 million to Component 4. As of May 2023, 87.7 percent of the loan amount had
+   been disbursed (RES56230, p. 3-4)
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country context: A strong and progressive social compact had been a defining feature of Uruguayan
+society and politics, with consistent emphasis placed on protecting vulnerable groups, assuring worker
+dignity, and promoting equitable growth. This compact, combined with rapid economic growth since 2003,
+contributed to the development of a sizeable middle class, the largest in Latin America at 60.0 percent as
+the proportion of the total population, as well as effective institutions, good governance and a high degree
+of public trust in government (CPF, para 1).
+
+Sector context: Uruguay had made important advances in connectivity and the provision of e-government
+services. In 2016, 87.0 percent of people had internet access at home (71.0 percent on their mobile
+phones), nearly all schools had wireless internet, and 96.0 percent of public-school students had access to
+a personal laptop provided by the State. Since 2009, the ANII, offered citizens free access to the most
+relevant scientific and technological publications through Portal Timbó. Additionally, e-invoicing services for
+large taxpayers had been available from DGI since 2010, and in 2013, Uruguay’s Investment, Export and
+
+
+
+                                                                                                     Page 5 of 20
+                                      Independent Evaluation Group (IEG)                  Implementation Completion Report (ICR) Review
+                                      UY E-Gov Services for Citizens&Business (P161989)
+
+
+
+               Country Brand Promotion Agency (Uruguay XXI) implemented VUCE, enabling the processing of selected
+               export-related requirements through a single electronic gateway (PAD, p. 3).
+
+               The project supported the Digital Uruguay Agenda and the prioritization of seven agencies (AGESIC, ANII,
+               CGN, CEIBAL, DGI, the MEF, and VUCE) with important roles in implementing the Digital Uruguay agenda.
+               It sought to address Uruguay’s supply and demand side challenges in the delivery of e-government
+               services. On the supply side, only 60.0 percent of the schools covered by Plan CEIBAL had broadband
+               internet access and only 400 out of 1,400 administrative processes were able to be completed online (600
+               could be started online). On the demand side, 43.0 percent of people preferred to go to a public office for an
+               administrative process against 27.0 percent that preferred to do it online (PAD, p. 3-4).
+
+               The Project’s activities were well-aligned with global thinking on how to increase e-government service use
+               through supply and demand side interventions. For example, it was planned to have proactive citizen
+               services, a mobile citizen access point, and the design of new services targeted at specific needs. In
+               addition, the project also contemplated space for activities to strengthen the monitoring and evaluation
+               capacity to research the impact of activities which is key for identifying future improvements to effectiveness
+               (PAD, p. 4-5).
+
+               Alignment with strategy. The project was aligned with the CPF at appraisal (FY16-21), contributing to
+               Pillar 3, which focused on integrating Uruguay’s small economy into the global value chain, and Pillar 2,
+               which aimed to strengthen government services for citizens, with an emphasis on education and
+               marketable labor skills. The PDO to improve the quality of and access to selected e-government services
+               was also aligned with Objective 5 of the FY23-27 Country Partnership Framework (CPF), which aimed to
+               improve the capacity of the public administration to implement policies and deliver services.
+
+               Previous Bank experience: In the decade prior to the project, the World Bank (WB) and the Inter-
+               American Development Bank (IDB) had supported the country’s efforts in reducing the digital divide and
+               improving service delivery using ICT. The WB supported a number of areas for strengthening public
+               administration, including monitoring and evaluation, procurement, and social program information
+               managements, through the Institutions Building Technical Assistance Loan (IBTAL, P097604). As part of
+               these efforts, in 2005 AGESIC was created under IBTAL, a general e-government strategy was defined,
+               and the first applications of online administrative processes were launched (PAD, p. 2)
+
+               The project’s objectives were highly relevant to the country and sector context and fully aligned with the
+               CPF. The project’s activities fully addressed important development problems and sought to contribute
+               solution built on lessons learned from previous interventions.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                                                                                                                        Page 6 of 20
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   UY E-Gov Services for Citizens&Business (P161989)
+
+
+
+
+OBJECTIVE 1
+Objective
+Improve the quality of selected e-government services for citizens, and facilitate their access.
+
+Rationale
+Theory of Change (ToC). The original PAD did not include an explicit ToC, but one was added in the ICR
+focusing on key project interventions and targeted outcomes at appraisal (ICR, Figure 1). PDO 1 aimed to
+improve the quality and facilitate access of selected e-government services for citizens and was to be
+measured by two indicators: PDO Indicator 1.1: Improved delivery of distance learning materials to targeted
+schools (number); PDO Indicator 1.2: Increased accessibility to online administrative processes, as measured
+by the number of citizens’ administrative processes attended to by the Mobile Citizens Access Point (PAC)
+(PAD, p. 6).
+
+The project aimed to improve CEIBAL and AGESIC’s delivery systems, provider management, and user
+engagement. It enhanced CEIBAL’s capacity for distance learning in rural areas by contracting the National
+Telecommunications Company (ANTEL) to boost broadband in 300 schools, with 236 funded by the project.
+Additional support included strengthening CEIBAL's management, cybersecurity, customer service (via
+WhatsApp and Chatbot), and providing computers to students.
+
+The project enhanced AGESIC's face-to face and non-face-to-face Citizen Access Points (PACs). The unified
+government portal (gub.uy) was enhanced with PACs that included online chat, social media (Facebook), and
+videocalls, and training provided to manage these channels. Initially, the project aimed to create face-to-face
+mobile PACs, but they became less demanded during and after the COVID-19 pandemic as citizens’ uptake
+of online services significantly improved. In 2019, almost half of the number of services provided were done
+face to face, while in 2020 the face-to-face interactions dropped below 30.0 percent and online channels
+started to take the lead in citizen interaction. By 2021, non-face-to-face channels, particularly emails, became
+the main interaction mode, while phone channels were the most used at project closing.
+
+By the end of the project, these reforms were expected to deliver broadband capacity to 300 rural schools,
+covering 50 percent of the beneficiary population without broadband access before; and attend 150,000
+(revised target) citizen’s administrative processes through the Mobile Access Points. In addition, they were to
+increase the number of users performing research online before carrying out an administrative process,
+increase the number of entities using the government data platform to improve management, increase the
+number of entities which had implemented at least one of the components of the e-Participation solution,
+increase productivity of customer service provided by CEIBAL, and improve satisfaction with CEIBAL’s
+customer service.
+
+The causal links between project activities (inputs), outputs and some intermediate outcomes were clearly
+defined, except for PDO indicator 1.1. This indicator aimed to improve delivery of distance learning materials
+to targeted schools, but the target measured connectivity which does not necessarily translate into effective
+delivery of learning materials and improved quality of distance education.
+
+The broadband access indicator aligns with the project’s objective, as reliable connectivity is essential for
+delivering quality distance learning. By focusing on broadband capacity, it captured both access and service
+quality in rural schools, although additional indicators on educational content quality could have been
+beneficial. While CEIBAL's survey (IRI 1.5 in the ICRR and IRI 1.2.2 in the ICR) showed high user
+satisfaction, it assessed service accessibility and experience, not learning outcomes.
+
+
+                                                                                                   Page 7 of 20
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   UY E-Gov Services for Citizens&Business (P161989)
+
+
+
+Outputs
+
+The project delivered the following outputs (ICR, Key Outputs by Component, p. 29-31)
+
+      Provision of broadband internet connections in rural schools.
+      Incorporation of additional channels in CEIBAL’s customer service (WhatsApp, Chatbot).
+      Strengthening of the Computer Security Incident Response Center and cybersecurity standards
+         (management of IT risks, agreements with AGESIC for training, information security audits, and
+         vulnerability analysis system).
+        Strengthening of CEIBAL’s back-office systems and data center (implementation of Workday Adaptive
+         tool for planning, and training in DevOps methodology for collaborative management of software
+         products).
+        Incorporation of online channels of access to Citizens Access Points (online chat, social media, and
+         videocalls)
+        Development of an information architecture for standardized web government portals.
+        Development of a data analysis framework.
+
+Outcomes
+
+The achievement of the PDO was assessed using the indicators listed below (ICR, Annex 1).
+
+PDO Indicator 1.1. Improved delivery of distance learning materials to targeted schools (number). Baseline:
+0 rural schools. Target: 300 rural schools. Actual: 1,027 rural schools. During the project lifespan, a total of
+1,027 rural schools were connected to broadband internet, transitioning all rural schools in the country from
+narrowband to broadband connectivity. Of these, 236 connections were funded by the project, with the
+remainder funded with CEIBAL's own resources. Although the project directly funded broadband internet
+connection for only 236 rural schools, its contribution was fundamental, as it facilitated the hiring of ANTEL to
+provide broadband connectivity. (PDO Indicator 1.1: Exceeded).
+
+PDO Indicator 1.2. Increased accessibility to online administrative processes, as measured by the number of
+citizens’ administrative processes attended to by PAC (cumulative number). Baseline: 0. Target: 150,000
+(revised). Actual: 175,771. The project exceeded the end-target. (PDO Indicator 1.2: Exceeded).
+
+Due to the pandemic, AGESIC chose to strengthen the channels not requiring the physical presence of users,
+which led to measure this PDO slightly different, by covering all citizen administrative requests processed
+online through the existing PACs. At the peak of the pandemic in 2021, 24,241 requests were processed, and
+the government set the new target of 150,000 in 2022 (ICR, para 23).
+
+The quality dimension was measured through user satisfaction, which was not tracked by the project, but
+improved. IRIs 1.1 and 1.2 below show evidence an increase in the number of users performing research
+online before carrying out an administrative process and an increase in the number of public entities using the
+government data analysis platform to improve their management. Likewise, a number of entities implemented
+at least one of the components of the e-Participation tool Decidim which offered modules that enabled public
+entities to conduct a range of consultations.
+
+The ICR noted that although the IRIs were achieved, it is unclear to what extend they demonstrated improved
+quality of the targeted services. IEG notes that an increase in the percentage of users performing
+
+                                                                                                    Page 8 of 20
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   UY E-Gov Services for Citizens&Business (P161989)
+
+
+
+research online, before carrying out an administrative process, is not sufficiently indicative of the quality of the
+services provided. Similarly, an IRI measuring the number of public entities using the government data
+analysis platform(s) to improve their management does not indicate how management improved. To measure
+quality, AGESIC tracked a user satisfaction indicator which showed that 88 percent of users reported
+satisfaction with the use of digital channels to access e-government services in 2022, compared to 85 percent
+for the last request conducted face-face, and 80 percent in 2016 (ICR, para 24).
+
+Intermediate Results Indicators (IRIs)
+
+There were 5 IRIs that informed the achievement of the PDO (ICR, Annex 1). All five were achieved
+exceeding their end-targets (IRIs are numbered in the order they are in Annex 1):
+
+IRI 1.1: Increase in users performing research online before carrying out an administrative process
+(percentage). Baseline: 27. Target: 50. Actual: 56. The project exceeded the end-target. (IRI 1.1: Exceeded)
+
+IRI 1.2: Entities using the government data analysis platform to improve management (number). Baseline: 0.
+Target: 6. Actual: 12. The project exceeded the end-target. (IRI 1.2: Exceeded)
+
+The PAD (p. 19) notes there were 243 government executing entities operating within the SIIF which would
+reflect that, although IRI 1.2 was exceeded, it was not very ambitious. This also applies to IRI1.3 below.
+
+IRI 1.3: Number of entities which have implemented at least one of the components of the e-Participation
+solution (number). Baseline: 0. Target: 6. Actual: 12. The project exceeded the end-target. (IRI 1.3:
+Exceeded)
+
+IRI 1.4: Increase in productivity of customer service provided by CEIBAL (text). Baseline: 60.0 UY pesos cost
+per interaction. Target: 37.0 UY pesos. Actual: 21.0 UY pesos. The project exceeded the end-target. (IRI 1.4:
+Exceeded)
+
+IRI 1.5: User satisfaction with CEIBAL’s customer service (text). Baseline: 80.0 percent. Target: 80.0 percent.
+Actual: 90.0 percent. The project exceeded the end-target. (IRI 1.5: Exceeded)
+
+
+
+Rating
+High
+
+
+OBJECTIVE 2
+Objective
+Improve the quality of selected e-government services for businesses, and facilitate their access.
+
+Rationale
+Theory of Change. The original PAD did not include an explicit ToC, but one was added in the ICR (ICR,
+Figure 1). PDO 2 aimed to improve the quality and access of selected e-government services for businesses
+and was to be measured by one indicator: PDO 2: Reduced processing time of foreign trade related
+administrative requirements by VUCE (PAD, p. 6).
+
+
+                                                                                                      Page 9 of 20
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   UY E-Gov Services for Citizens&Business (P161989)
+
+
+
+These outcomes were to result from improving the delivery systems, scope of services, provider management
+and cross-entity collaboration in VUCE, the DGI, and ANII.
+
+To strengthen VUCE, the project implemented activities to reduce the average processing time of foreign
+trade related administrative requirements. Key activities included: expanding the coverage of procedures that
+can be accessed through VUCE and strengthening capacity in participating organizations by providing the
+necessary human and financial resources; and strengthening interoperability with the VUCE equivalent in
+other countries to expedite the exchange of documentation; and institutional strengthening. The project also
+supported obtaining the ISO certification (9001-2015) for VUCE’s management quality system. The system
+focused on incorporating three ministries (Industry, Energy and Mining; Public Health; and Livestock,
+Agriculture and Fisheries) to the platform which collectively issued 90 percent of the export and import
+certificates needed for trade transactions.
+
+The perceived value added by VUCE was measured by a business survey (IRI 2.1.1 in the ICR) on the
+percentage of users satisfied with the quality and effectiveness of the services provided by VUCE (PAD, p.
+21; ICR, para 26). The perceived value added by VUCE increased from 89 to 95 percent (compared to the
+project's end target of 96 percent), which, according to the ICR, underscored satisfaction with the quality and
+effectiveness of the services provided.
+
+To strengthen DGI, the project increased the coverage of electronic tax invoices and strengthened DGI’s
+fiscal risk management system for greater efficiency and control. Activities included expanding DGI’s e-
+invoicing services from only large taxpayers to all taxpayers subject to the electronic tax invoice
+(Comprobante Fiscal Electrónico, CFE) targeting first, small, and medium firms. This was done by hiring of a
+firm to first expand e-invoices services to small businesses and providing related training for DGI. The
+expansion was underpinned by the project’s activities to strengthen DGI’s capacity to deliver e-government
+services to businesses. Activities also included the formulation of a centralized taxation plan and a new
+comprehensive risk rating matrix through the development of new functionalities of the Fiscal Intelligence
+Integrated Technological Solution (FIS-T). This was to enhance DGI’s fiscal risk management system which
+the entity had started deploying it to all its offices.
+
+To strengthen ANII, the project supported greater access to national scientific content relevant to businesses
+and entrepreneurs. The project supported ANII’s provision of services through Portal Timbó and helped the
+Trama Project reach a wider audience. The Trama Portal facilitated more interactions than the end-of-project
+target, but it remained a pilot and later went into standstill due to a lack of funds. In relation to Portal Timbó,
+uptake from businesses was low, as the platform continued to be primarily oriented towards academic users
+and, by project’s end, most users were from academia. The project also focused on supporting the
+development of a national repository system to address concerns that international publications were easier
+to access through Portal Timbó than national research.
+
+By the end of the project, these reforms were expected to reduce time to carry-out an administrative process
+in VUCE, improve perception of the value added by VUCE, increase the percentage of administrative
+processes integrated into VUCE’s single window platform, increase the number of taxpayers incorporated into
+the CFE and issuing e-invoices, facilitate interactions through Portal Trama (text), and increase the number of
+registered users using Portal Timbó (number).
+
+
+
+
+                                                                                                     Page 10 of 20
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   UY E-Gov Services for Citizens&Business (P161989)
+
+
+
+The causal links between project activities (inputs), outputs and intermediate outcomes were clearly defined.
+The links to the PDO outcomes were also clearly defined: to improve the quality of selected e-government
+services for businesses, and to facilitate their access.
+
+Outputs
+
+The project delivered the following outputs (ICR, Key Outputs by Component, p. 29-31)
+
+        Implementation of a new interoperability platform for exchange of information between VUCE and
+           other countries.
+          Development of a data exchange platform with three targeted ministries (Industry, Energy and Mining;
+           Public Health; and Livestock, Agriculture and Fisheries).
+          Hiring of technicians to boost the capacity of targeted ministries for the integration.
+          Implementation plan and obtention of ISO91 certification for VUCE platform.
+          Development of functionalities to expand e-invoices services to small and medium businesses.
+          Development of a new comprehensive tax risk rating model and matrix.
+          Development of an online portal for the Trama Project. Development of a national repository system of
+           scientific literature.
+
+Outcomes
+
+The achievement of the PDO was assessed using the indicators listed below (ICR, Annex 1).
+
+PDO Indicator 2. Reduced processing time of foreign trade related administrative requirements by VUCE
+(hours). Baseline: 50.40 hours. Target: 33.00 hours. Actual: 27.37 hours. The project exceeded the end-
+target. (PDO Indicator 2: Exceeded)
+
+IRIs
+
+There were 5 IRIs that informed the achievement of the PDO (ICR, Annex 1). Four out of five IRIs were
+achieved, three exceeded their end-targets (IRIs are numbered in the order they are in Annex 1):
+
+IRI 2.1: Improved perception of the value added by VUCE (percentage). Baseline: 89.0 percent. Target: 96.0
+percent. Actual: 95.0 percent. The project achieved the end-target. (IRI 2.1: Achieved)
+
+IRI 2.2: Increase in the percentage of administrative processes integrated into VUCE’s single window
+platform (percentage). Baseline: 36.0 percent. Target: 90.0 percent. Actual: 83.0 percent. The project partially
+achieved the end-target. (IRI 2.2: Partially Achieved)
+
+IRI 2.3: Percentage of taxpayers incorporated into the CFE and issuing e-invoices, as a percent of the total
+population of taxpayers to be incorporated into the CFE (percentage). Baseline: 50.0 percent. Target: 96.0
+percent. Actual: 99.2 percent. The project exceeded the end-target. (IRI 2.3: Exceeded)
+
+IRI 2.4: Number of interactions facilitated through Portal Trama (text). Baseline: No platform. Target: 70.0
+percent increase from the first year. Actual: 83.0 percent increase from the first year. Although the end target
+was exceeded, the Trama Portal remained in the pilot stage. Furthermore, aside from the needs assessment
+study, which was funded by the project, the Government financed the development of the Trama Portal
+
+                                                                                                  Page 11 of 20
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   UY E-Gov Services for Citizens&Business (P161989)
+
+
+
+with its own resources due to procurement delays and incompatibilities between the WB and the
+Government’s procurement procedures (ICR, p. 13). (IRI 2.4: Exceeded)
+
+IRI 2.5: Increased number of registered users using Portal Timbó (number). Baseline: 40,450 registered
+users. Target: 47,782 registered users. Actual: 85,498 registered users. The project exceeded the end-target.
+(IRI 2.5: Exceeded)
+
+
+
+Rating
+High
+
+
+OBJECTIVE 3
+Objective
+Improve the quality of selected e-government services for public entities, and facilitate their access.
+
+Rationale
+Theory of Change. The original PAD did not include an explicit ToC, but one was added in the ICR focusing
+on key project interventions and targeted outcomes at appraisal (ICR, Figure 1). PDO 3 aimed to improve the
+quality and access of selected e-government services for public entities and was to be measured by one
+indicator: PDO 3: Increased number of government’s executing units managing electronic invoices received
+from their providers (PAD, p. 6).
+
+These outcomes were to result from implementing a series of activities focused on improving the monitoring
+of payments to providers, as well as on provider management and government delivery systems and
+supporting cross-entity collaboration between the CGN, the MEF, and other entities with a direct link to MEF’s
+priorities.
+
+The project deployed electronic invoicing for government entities, streamlining the payment process and
+enhancing its efficiency. Electronic invoicing with businesses started in 2012, with 50.0 percent of tax receipts
+being electronic, but not all public entities were able to accept electronic receipts from their business
+providers. DGI was responsible for defining the regulatory and technical requirements for electronic invoices.
+The CGN was responsible for developing a system to receive electronic invoices for use by the budget
+executing units within the Government’s Integrated Financial Management Information System (IFMIS) which
+is also interoperable with DGI’s system. The project thus financed the development of the SIRFE and its
+deployment starting in late 2022, as well as the related training of users framed by change management
+activities. CGN set up a change management team that conducted a diagnostic of needs and worked hand-
+in-hand with a contracted firm to develop a resulting strategy which relied heavily on in-person communication
+and capacity building for the executing units.
+
+By the end of the project, these reforms were expected to increase the number of government executing units
+that could accept electronic invoices from their providers.
+
+Outputs
+
+The project delivered the following outputs (ICR, Key Outputs by Component, p. 29-31)
+
+
+                                                                                                   Page 12 of 20
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                UY E-Gov Services for Citizens&Business (P161989)
+
+
+
+
+                                    Development and deployment of the SIRFE, training and establishment of a helpdesk.
+
+                            Outcomes
+
+                            The achievement of the PDO was assessed using the indicators listed below (ICR, Annex 1).
+
+                            PDO Indicator 3. Increased number of government executing units managing electronic invoices received
+                            from their providers (number). Baseline: 0 units. Target: 243 units (243 represents the total number of
+                            government’s executing units operating within the SIIF). Actual: 156 units (64%) and 190 as of April 2024
+                            (78%). The project partially achieved the end-target. (PDO Indicator 3: Partially Achieved).
+
+                            By project end, 156 government executing units were able to receive electronic invoices against a target of
+                            243. The rollout continued after the project closed through the Institution Strengthening for Greater
+                            Competitiveness Operation (P180638) which increased the PDO result to 190 executing units as of April
+                            2024. Additionally, CGN was pursuing a more ambitious objective by providing approximately 100 entities
+                            with the capability to issue electronic invoices by incorporating an additional module in the SIRFE (ICR, para
+                            30). Although the PDO Indicator 3 was only partially achieved at the time of the ICR review, it is likely to be
+                            achieved post project.
+
+                            IRIs
+
+                            There were no IRIs that informed the achievement of the PDO (ICR, Annex 1).
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project achieved most its development objectives. It exceeded targets for three out of four PDO
+                            indicators and eight out of ten IRIs, achieved targets for one IRI, and partially achieved targets for one PDO
+                            and one IRI. PDO Indicator 3, increased number of government’s executing units managing electronic
+                            invoices received from their providers was partially achieved with 64 percent of its targeted change, but likely
+                            to be achieved post-project. IRI 2.2, increase in the percentage of administrative processes integrated into
+                            VUCE’s platform was also partially achieved. Nonetheless, it is worth highlighting PDO 1.1, for which the
+                            target was very low, and the project only funded 79 percent of the targeted results (236 of the connections),
+                            and PDO 1.2, for which the target was surpassed because the approach to measure the indicator changed. In
+                            addition, IRI 1.2 and IRI 1.3 had low ambition targets given the total number of government entities. Finally,
+                            the Trama Portal facilitated more interactions than the end-of-project target, but remained a pilot and later
+                            came to a standstill. Government ownership played a key role in surpassing project targets.
+
+
+
+
+                                                                                                                              Page 13 of 20
+       Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+       UY E-Gov Services for Citizens&Business (P161989)
+
+
+
+
+  Overall Efficacy Rating
+  Substantial
+
+
+
+ 5. Efficiency
+Economic Efficiency: There was an Economic and Financial Analysis (EFA) prepared at the time of appraisal.
+On one hand, the EFA focused on future savings from reduced paper needs and time savings in invoicing
+resulting from the implementation of electronic invoicing for 25,000 estimated small and medium firms. The NPV
+was equivalent to US$546,041 based on an internal rate of return (IRR) of 13 percent. Benefits were both
+financial in terms of reduced purchases of paper needed for invoicing as well as economic in terms of time
+saved by taxpayers through reduced travel costs. The cost analysis considered prior (pre-project) investments
+estimated at US$1.5 million and project costs for the relevant activities (PAD, Annex 4, para 2).
+
+On the other hand, the EFA focused on future savings from reduced time spent traveling, reduced travel costs,
+and reduced paper costs resulting from the automation of additional administrative processes online within
+VUCE. The NPV was equivalent to US$875,202 based on an IRR of 14 percent. Benefits were both financial in
+terms of reduced purchases of paper and transport costs as well as economic in terms of time saved by those
+travelling to submit paperwork and are assumed to start accruing one year after project initiation. The cost
+analysis considered prior (pre-project) investments estimated at US$2.5 million and project costs for all activities
+carried out with VUCE under the project (PAD, Annex 4, para 3).
+
+The ICR replicated the EFA at project closure using conservative assumptions and the numbers achieved during
+implementation. The estimated costs and benefits for the introduction of electronic invoicing for small and
+medium sized taxpayers yielded a NPV of US$9,084,356 with an IRR of 55 percent. The EFA assumed a much
+higher number of taxpayers being incorporated in the CFE (82,600). The calculated benefits are significantly
+higher than those estimated at appraisal. On the other hand, the estimated costs and benefits for the automation
+of additional administrative processes online within VUCE yielded a NPV of US$1,140,644 with an IRR of 17
+percent. The calculated benefits with the overall cost of developing VUCE with co-financing from the
+government and other sources are also significantly higher than those estimated at appraisal (ICR, p. 15).
+
+On activities aimed to benefit citizens, CEIBAL estimated savings of between 20 to 30 percent annually for its
+operations between 2020 and 2022, given more automation and the introduction of additional digital channels of
+access to its customer service (ICR, para 33).
+
+Operational Efficiency: The onset of the COVID-19 pandemic coincided with the transition between
+governments and led to the project stalling for 18 months. However, the impact of the lost time was mitigated by
+the 23-month extension and the delays did not significantly affect the achievement of the project’s main
+objectives. Moreover, the government ensured a substantial amount of co-financing or financing from other
+sources, as the activities supported by the project and embedded within the Digital Uruguay Agenda were
+complementary to the Government and other development partners’ efforts, but also due to incompatibilities
+between the WB and the government’s procurement procedures (ICR p.13).
+
+In their comments on the ICR (Annex 5), the government noted that WB procurement procedures may have
+been too rigid for parastatal entities, which, under national procurement rules, benefit from greater flexibility.
+These procedures may have contributed to delays, especially in activities involving innovation or exploratory
+work. The government recommended adopting procurement procedures similar to those used by public
+
+                                                                                                        Page 14 of 20
+      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+      UY E-Gov Services for Citizens&Business (P161989)
+
+
+
+agencies operating outside the government, such as ANII. This approach would allow for a more streamlined
+and agile workflow and a more efficient use of project resources.
+
+Nevertheless, additional resources from the government and other development partners enabled the continuity
+of select activities deemed high priorities for the government, such as VUCE. Operational efficiency was not
+affected by the transition in governments and the pandemic.
+
+The ICR did not report project management costs as percent of the total cost, which would have been helpful to
+analyze if costs were deemed reasonable when compared to country and regional averages (ICR, para 34).
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?            Point value (%)         *Coverage/Scope (%)
+                                                                                  0
+ Appraisal                                               .13
+                                                                                   Not Applicable
+                                                                                  0
+ ICR Estimate                                            .55
+                                                                                   Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The PDO was of high relevance, and there were only minor shortcomings in the project’s achievement of its
+objectives and its efficiency. The overall outcome rating of the project is Satisfactory.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+The risk to development outcome is low as the government remains committed to continuing and expanding
+e-government services, which are crucial to its digital agenda, and has ensured continued financing for the
+implementation of these initiatives despite external shocks, such as the pandemic, or domestic events, such
+as government transition periods. E-invoicing is now mandatory and irreversible. A follow-up project is
+enhancing the MEF’s capacity in data analytics, climate change governance, and market institutions. Citizen
+
+
+
+                                                                                                 Page 15 of 20
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      UY E-Gov Services for Citizens&Business (P161989)
+
+
+
+adoption of e-services has increased significantly, driven by a preference for non-face-to-face interactions,
+especially during the pandemic.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The original project design benefitted from Uruguay’s strong foundations for effective institutions and
+  important previous advances in increasing connectivity and e-government services. The project design
+  was also aligned with the country’s Digital Government Plan, incorporating global best practices and
+  provisions for successful implementation and complemented the government’s previous reforms with
+  other donors such as the IDB. The design benefitted from global thinking on increasing e-government
+  service use through both supply-side (e.g., strengthening single window services) and demand-side
+  interventions (e.g., multi-channel access and user feedback).
+
+  Financial management and procurement arrangements were deemed adequate at project appraisal, and
+  included the use of existing country budgeting, audit and control systems and capacities within the MEF
+  handling coordination.
+
+  The main design shortcomings were related to moderate weaknesses in M&E quality, and the missed
+  opportunity to formally revise PDO indicator 1.2 to reflect the shift from mobile PACs to online channels
+  due to the pandemic. The results framework did not include an indicator for the significant investment in
+  standardizing government portals which consumed a significant proportion of the project’s funds and was
+  a significant contribution toward achieving the PDO. IEG also notes the project’s design did not identify
+  an appropriate indicator to measure PDO 1’s outcome related to improved delivery of distance learning
+  materials to targeted schools.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The WBG provided satisfactory supervision and demonstrated flexibility during the project’s
+ implementation, conducting regular support missions and adapting to the pandemic by shifting to virtual
+ missions. There were 12 Implementation Status Reports (ISRs). The ICR noted ISRs highlighted key
+ issues, but they could have offered more detailed narratives on progress and results (ICR, para 50). The
+ project benefited from stable leadership, with two Task Team Leaders over six years which helped
+ coordination with the government authorities. The WBG showed adaptability by approving project
+ extensions and redirecting funds as needed, and it supported the government in preparing a follow-up
+ project to ensure continued progress.
+
+
+
+
+                                                                                                    Page 16 of 20
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     UY E-Gov Services for Citizens&Business (P161989)
+
+
+
+ However, The MTR was conducted late in the project’s timeline, in January 2022—four years into
+ implementation, after the original closing date of December 31, 2021, and only 18 months before the twice-
+ extended final closing date of December 15, 2023.
+
+ The results framework was not revised, despite the increased allocation under Component 3 from
+ reductions in Components 4 and 2 (ICR, para 16).
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ M&E design did not provide a ToC at appraisal. Nevertheless, the PDO indicators were generally adequate
+ to monitor progress toward improved access to selected e-government services, except for PDO indicator
+ 1.1 which was not adequate. PDO indicator 1.1 made it difficult to deduce the expected results on quality of
+ distance education. Indeed, the ICR noted (ICR, para 43) that the quality dimension was not sufficiently
+ captured at the PDO level but through several IRIs, and the relevance of the quality dimension was not
+ always clear. This was especially true for the assessment of quality of the administrative e-services
+ delivered to citizens (PDO 1). An increase in the number of users performing research online before
+ carrying out an administrative process is not necessarily and indication of the quality of the services
+ provided. Similarly, an IRI measuring the number of public entities using the government data analysis
+ platform(s) to improve their management is not an indication of management improvement. In addition, the
+ IRI related to the use of the Portal Timbó was not necessarily reflective of increased access for businesses
+ given the platform’s orientation towards academic users.
+
+
+
+b. M&E Implementation
+  M&E implementation was rated satisfactory throughout implementation due to proactive and regular data
+  collection and reporting throughout project implementation. The PCU was adequately staffed and
+  regularly submitted bi-annual progress reports to the WB (ICR, para 45). Implementation also benefited
+  from the PCU’s high capacity and experience in managing the WB-financed Institutions Building
+  Technical Assistance Loan operation (which closed in 2016) and the agencies’ experience in publicly
+  reporting their activities and results on their websites.
+
+  On the shortcomings, the WB lacked proactivity in setting more ambitious targets once project indicators
+  were surpassed.
+
+
+
+
+                                                                                                  Page 17 of 20
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     UY E-Gov Services for Citizens&Business (P161989)
+
+
+
+c. M&E Utilization
+  The M&E data was used to inform project management and decision making, but despite several end-
+  targets being exceeded, no new targets were set. In the case of VUCE, the government and the WB
+  decided to redirect project funds to other activities once the end target of increasing the number of
+  administrative processes incorporated was met. More ambitious targets could have been set for the
+  project indicators that were quickly surpassed.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   Environmental/ Social Safeguards: The project was classified under Category C (no assessment project)
+   under the WB safeguard policies at appraisal, as it did not include any activities that involved environmental
+   or social risks.
+
+
+
+
+b. Fiduciary Compliance
+   There were no key fiduciary issues in the implementation of key activities and procurement processes.
+   Notwithstanding the delays in planning and implementing project activities during the pandemic,
+   procurement steps were properly documented, and implementation progress updated in the WB’s
+   Systemic Tracking of Exchanges in procurement (STEP) platform regularly.
+
+   Financial Management (FM) and procurement performance were rated satisfactory throughout the project’s
+   lifetime. The PCU had adequate FM arrangements in place and provided timely and reliable financial
+   reports to monitor project implementation (ICR, para 48).
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   Institutional strengthening: The project significantly enhanced the capacity of individual government
+   institutions in Uruguay, contributing to the longer-term development of the country's public sector through a
+   comprehensive approach. A key focus was strengthening the ability of institutions like AGESIC to deliver e-
+   services, leading to more cost-effective and efficient innovations. The project also advanced the
+   standardization of government web portals and supported initiatives like VUCE and e-invoicing, which
+   improved efficiency and institutional capacity. Finally, the project broadened the role of institutions like
+   ANII, helping them evolve from merely financing to facilitating access to research and innovation (ICR,
+   para 37).
+
+   Best practices: AGESIC shared its project experiences at the 2023 WB GovTech Forum and with the
+   Chilean government on digital health initiatives. Additionally, a new WB-financed project in the Dominican
+
+                                                                                                   Page 18 of 20
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     UY E-Gov Services for Citizens&Business (P161989)
+
+
+
+   Republic focused on public administration modernization (P180302) incorporated key lessons from this
+   project, particularly in the use of interoperable systems, cross-institutional data exchange, and
+   standardization, to accelerate the rollout of digital services (ICR, para 37).
+
+   Other positive long-term impacts. DGI reported that the expansion of e-invoicing, initially aimed at
+   efficiency, was now significantly reducing errors and fraud through cross-verification and early detection,
+   with most fraud traced back to paper invoices. E-invoicing data also enabled DGI to monitor the impact of
+   the COVID-19 pandemic on businesses and sectors, aiding in the implementation of relief measures. CGN
+   highlighted positive outcomes like the development of new functionalities in SIRFE, enabling public entities
+   to issue e-invoices. CGN views SIRFE as a powerful tool for improving interoperability with tax and
+   procurement platforms, enhancing public expenditure auditing and statistics. Additionally, the reduction in
+   paper use from e-invoicing has had a positive environmental impact.
+
+
+
+d. Other
+   N/A
+
+
+
+11. Ratings
+                                                                                 Reason for
+Ratings                         ICR                      IEG
+                                                                                 Disagreements/Comment
+Outcome                         Satisfactory          Satisfactory
+
+Bank Performance                Satisfactory          Satisfactory
+
+Quality of M&E                  Substantial           Substantial
+
+Quality of ICR                  ---                   Substantial
+
+
+12. Lessons
+
+IEG agrees with the lessons learned in the ICR, specifically on strategically leveraging
+complementary financing from development partners and other co-financing, and on the importance
+of change and knowledge management activities for the digital transformation.
+
+IEG proposes an additional lesson: Government commitment is one of the most critical
+components for project success. Despite the COVID-19 pandemic and an 18-month standstill,
+Uruguay remained dedicated to its core objectives, such as bringing broadband internet to rural
+schools. This commitment not only addressed immediate educational needs but also laid the
+groundwork for future opportunities, highlighting the importance of continuity in policy and project
+implementation. Uruguay's example shows that strong government dedication can overcome
+significant challenges and ensure the successful delivery of critical projects.
+
+
+
+
+                                                                                                       Page 19 of 20
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       UY E-Gov Services for Citizens&Business (P161989)
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR presented a clear, coherent and well-organized overview of the project. The analysis provides
+sufficient evidence for assessing project performance. The report is concise, follows most of the guidelines, and
+is focused on results. The ICR lessons are useful and logically flow from the data and analysis provided in the
+ICR.
+
+The evidence provided is aligned with the messages outlined in the ICR, although there were some
+shortcomings in the completeness and consistency of information, such as missing information on the MTR and
+data inconsistencies on the project’s final cost as well as shortcomings in the interpretation of survey results.
+
+The ICR failed to report project management costs as percent of the total cost, which would have been helpful
+to analyze if costs were deemed reasonable when compared to country and regional averages (ICR, para 34).
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                   Page 20 of 20
+

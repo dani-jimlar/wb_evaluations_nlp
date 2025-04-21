@@ -1,0 +1,956 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     BJ-Cities Support Project (P122950)
+
+
+
+                                                                                  Report Number: ICRR0022635
+
+1. Project Data
+
+
+
+ Project ID                                  Project Name
+ P122950                                     BJ-Cities Support Project
+
+ Country                                     Practice Area(Lead)
+ Benin                                       Urban, Resilience and Land
+
+
+ L/C/TF Number(s)                            Closing Date (Original)               Total Project Cost (USD)
+ IDA-52740                                   30-Jun-2020                                         56,009,004.17
+
+ Bank Approval Date                          Closing Date (Actual)
+ 21-Jun-2013                                 31-Dec-2020
+
+                                             IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                            60,000,000.00                                               0.00
+
+ Revised Commitment                             60,000,000.00                                               0.00
+
+ Actual                                         56,125,844.32                                               0.00
+
+
+
+
+ Prepared by                 Reviewed by                   ICR Review Coordinator         Group
+ Cynthia Nunez-Ollero        Kavita Mathur                 Victoria Alexeeva              IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to the Financing Agreement (FA, p. 5) and the Project Appraisal Document (PAD, paragraph 19),
+   the Project Development Objective (PDO) of the Benin Cities Support Project (Projet d'Amenagement Urbain
+   et d'Appui a la Decenralisation or PAURAD) was "to increase access to urban services and improve urban
+   management in selected cities of Benin."
+
+
+
+
+                                                                                                   Page 1 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     BJ-Cities Support Project (P122950)
+
+
+
+   In this review, the project performance is assessed against the achievement of the PDO under two sub-
+   objectives, in line with the ICR assessment:
+
+         to increase access to urban services in selected cities of Benin
+         to improve urban management in selected cities of Benin
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   1. Service Delivery Improvement through infrastructure rehabilitation, maintenance, and expansion
+   (US$49 million at appraisal, US$48.74 million actual). This component would finance the rehabilitation and
+   expansion of urban infrastructure based on the development plans of 10 participant cities. The subprojects
+   would include urban drainage systems, urban roads, water supply, sanitation facilities, local markets, and
+   preservation and rehabilitation of cultural assets.
+
+   2. Municipal Management and Deepening Decentralization (US$5 million at appraisal, US$4.56 million
+   actual). This component would finance training and capacity building of cities and municipalities in
+   procurement, project management, financial management (FM), social and environmental safeguards
+   design and implementation, monitoring and evaluation (M&E) and disaster management. Training would
+   also strengthen the local government financial base through improved revenue collections. Capacity
+   building efforts would also be directed at the National Local Finances Commission (Commission Nationale
+   des Finances Locales or CONAFIL) to manage the Municipal Development Fund (Fonds d'Appui au
+   Developpement des Municipalities or FADeC). This component would also finance equipment purchase.
+
+   3. Institutional Strengthening, Capacity Building, Monitoring and Evaluation (M&E) and Project
+   Management (US$6 million at appraisal, US$4.45 million actual). This component would
+   finance project management, including M&E of results, and train city, municipal, and central government
+   officials involved in project implementation and on FADeC or Intergovernmental Fiscal Transfer System
+   (IFTS).
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost: The total project cost was US$60 million equivalent. The credit disbursed US$56.12 million
+   equivalent. The balance was due to foreign exchange losses, as confirmed by the Task Team in their
+   September 9, 2021 email to IEG.
+
+   Financing: The International Development Association (IDA) fully financed this project.
+
+
+                                                                                                  Page 2 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     BJ-Cities Support Project (P122950)
+
+
+
+   Borrower Contribution: The recipient had no counterpart contributions.
+
+   Dates and Restructurings: The project was approved on June 21, 2013 and made effective on June 6,
+   2014. It was originally scheduled to close on June 30, 2020. A Mid Term Review (MTR) was completed on
+   January 19, 2018. A level 2 restructuring extended the project closing date by 6 months to December 31,
+   2020. There were two level 2 restructurings:
+
+         On June 29, 2019, to introduce two sets of changes informed by the MTR. The first, to the results
+          framework: (i) drop one outcome indicator, (ii) drop four intermediate indicators; (iii) increase target
+          values of 3 outcome and 6 intermediate outcome indicators due to changes in data collection
+          methodologies. The second, to the institutional arrangements, to allow direct project implementation
+          by the remaining 8 (of 10) cities.
+         On May 27, 2020, to extend the project closing date from June 30, 2020 to December 31, 2020 due
+          to the impact of the Covid 19 pandemic.
+
+   Split Rating: A split rating of the outcome was not undertaken. Target values for outcome indicators were
+   significantly increased due to a change in methods for collecting target beneficiaries data and changing the
+   basis for end target values of infrastructure sub-projects. The previous method of extrapolating from the
+   2013 census was replaced by statistical surveys to collect empirical data on beneficiaries. In addition,
+   foreign exchange gains financed additional sub-projects (ICR, paragraph 25 and footnote 11). An outcome
+   indicator -- Number of additional operational Neighborhood Development Committees (NDC) formed -- was
+   dropped at restructuring because there was no activity to support its creation (ICR, paragraph 17, 24, and
+   Annex 6).
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country Context. The coastal country of Benin adopted a new constitution in 1990 and shifted its
+economy from a centrally planned to a market based one. By the 2000s, rural to urban migration had fueled
+rapid urbanization growing at a rate of 38.3 to 47.0 percent between 2000 and 2019. Forty one percent of
+the country's population was urban with about half coming from the three main cities of Cotonou, Porto
+Novo, and Parakou. The urban population continued to grow at a rate of 5 percent compared to 3.5 percent
+for the rest of the country. The existing urban infrastructure was strained by this growing demand for
+services. In a disastrous flooding caused by heavy rains in 2010 and 2012, under-funded services,
+insufficient asset management, and poor maintenance further exposed the inadequate state of
+infrastructure in these dense urban areas. In 1999, laws defined the legal and institutional framework for
+decentralization, created 77 communes, 12 administrative regions, and assigned "Special Municipal" status
+to Cotonou, Porto Novo, and Parakou. In 2008, the government created the National Commission for
+Municipal Finance (Commission Nationale des Finances Locales or CONAFIL) and a Municipal
+Development Fund (Fonds d'Appui au Developpement des Municipalities or FADeC). FADeC was an
+intergovernmental transfer mechanism that financed both current operating and capital investment needs of
+decentralized services. The PDOs at closing were relevant to addressing the urban infrastructure needs of
+the country's urban areas.
+
+
+
+                                                                                                     Page 3 of 18
+                       Independent Evaluation Group (IEG)            Implementation Completion Report (ICR) Review
+                       BJ-Cities Support Project (P122950)
+
+
+
+Alignment with Country Development Plans: The government adopted a National Decentralization and
+Deconcentration Policy (Politique Nationale de Decentralisation et de Deconcentration or PONADEC)
+covering 2009-2019. PONADEC laid the institutional conditions for sustainable development through
+coordinated local governance, transparency, and city/municipal empowerment. The Government Action
+Program for 2016−2021 (Programme d’Actions du Gouvernement or PAG) premised on the 2030 Agenda
+for Sustainable Development, outlined the following initiatives, sectoral policies, and reform plan for the
+period: (i) consolidation of democracy, the rule of law, and good governance; (ii) structural transformation of
+the economy; and (iii) improvement of social wellbeing. The National Development Plan (Plan National de
+Developpement or PND) for 2018−2025 supported a program of growth and sustainable development with
+a goal of inclusive sustained growth of at least 10% by 2025 by improving agroindustry, tourism, and local
+and national governance with improvements in human capital and infrastructure. The PDOs were highly
+relevant to these plans, particularly those focusing on local governance and infrastructure improvement.
+
+Alignment with World Bank Strategy in the Country: The PDO remained relevant to the World Bank's
+Country Partnership Framework (CPF) for Benin for FY19-FY23. The CPF focused on (i) structural
+transformation of the economy to promote competitiveness and productivity; (ii) investing in human capital;
+and (iii) enhancing resilience and reducing climate-related vulnerabilities. The PDOs contributed to Focus
+Area 1: Structural Transformation for Strengthened Competitiveness and Productivity through Objectives 2:
+Improving the quality of Infrastructure; and 3: Improving governance in management of public finances and
+improving the central government's administration of decentralized public service delivery. The PDOs were
+also relevant to Focus Area 3: Increasing Resilience and Reducing Disaster and Climate-Related Risks
+through support to Objectives 7: Building resilience at the community level and 8: Reducing vulnerability to
+climate-related threats. The PDOs were directed at increasing the capacity of urban governments in a
+decentralized system to deliver social and infrastructure services that may be disrupted by climate induced
+shocks (CPF, paragraph 34). Increased capacity in urban management would lead to efforts
+in reducing risks from climate-led disasters and informing speedy restoration of delivering urban
+services. The PDOs remained relevant to the Bank's programs directed at strengthening and improving
+services down to the commune level.
+
+Prior World Bank Experience in the Country and in the Sector: The Bank supported urban development
+and management in Benin in three successive operations for almost two decades (1993-2012). These
+included:(i) Second Decentralization City Management Project (Projet de Gestion Urbaine Decentralisee or
+PGUD II); (ii) Emergency Urban Environment Project (Projet de Gestion de l'Environement et Management
+Urbaine or PGEMU); and (iii) the Decentralized Community-Driven Services Project (Projet de Services
+Décentralisés Conduits par les Communautés or PSDCC). These operations focused on infrastructure and
+capacity building for a subset of municipalities as part of decentralization. The present project was the
+fourth urban-focused intervention and was designed to build on the outcomes of these prior interventions to
+further strengthen decentralization (see also Section 8 Assessment of Bank Performance (a) Quality at
+Entry below).
+
+Overall, the relevance of the PDOs is rated high. The operation built on the outcomes of over two decades
+of urban management interventions and complemented government decentralization plans.
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+High
+
+
+                                                                                                     Page 4 of 18
+                  Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                  BJ-Cities Support Project (P122950)
+
+
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+               OBJECTIVE 1
+               Objective
+               To increase access to urban services.
+
+               Rationale
+               Theory of Change: The results framework at appraisal (PAD, Annex 1) showed the main causal chain to
+               achieve the PDO. Inputs such as construction or rehabilitation of infrastructure, would result in outputs such
+               as improved/increased length of roads, drainage, and flood reduction works, and intermediate outcomes such
+               as increased income due to the number of person-days associated with labor-intensive jobs created during
+               the construction or rehabilitation works. These inputs and intermediate results would lead to three outcomes
+               defined at appraisal as the number of: (i) direct beneficiaries; (ii) additional people protected from seasonal
+               flooding; and (iii) additional people with improved access to all season roads. The outcome indicators at
+               appraisal were the same as in the TOC at closing, except for the increased end target values introduced at
+               restructuring due to changes in data collection methodology. The TOC was valid because the project
+               interventions were properly sequenced, in scale appropriate to each infrastructure element since these were
+               identified in respective local plans, and sufficient to achieve the expected outcome as defined.
+
+               The TOC in the ICR did not identify assumptions for this objective such as foreign exchange gains although
+               its impact was acknowledged to lead to additional investments that benefitted an increased number of
+               beneficiaries than originally envisaged (ICR, paragraph 28). Also, the component description assumed that
+               the infrastructure improvements were identified in the development plans of the ten participating cities. The
+               beneficiary survey conducted at closing provided additional justification for outcomes achieved.
+
+               OUTPUTS: The following outputs were exceeded:
+
+                     33.82 km (original target 8) of roads were rehabilitated. Foreign exchange gains increased project
+                      investments in roads than originally planned.
+                     8.4 km (original target 4) of primary drainage network and one water catchment basin were put in
+                      place. Foreign exchange gains increased project investments in drainage infrastructure than originally
+                      planned.
+                     Other basic services were provided, as targeted such as (i) 1,117 solar street lighting poles (23
+                      kilometers) installed; (ii) 5 local markets rehabilitated including 38 hangars (shaded portions of trading
+                      areas) built; (iii) three tourist sites in two cities (a temple, a palace, and three afro-Brazilian houses)
+                      rehabilitated; (iv) a bus station in Bohicon for local and regional traffic upgraded; and (v) 65 serviced
+                      classrooms, including toilets and ablution facilities built.
+                     156,000 person-days of employment (original target 2.5, revised to 14,200) were created, with 3.8
+                      percent (original target 10 percent, not achieved) for women.
+
+               OUTCOMES: The following outcomes were exceeded as well.
+
+
+
+
+                                                                                                                   Page 5 of 18
+Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+BJ-Cities Support Project (P122950)
+
+
+
+
+  936,975 residents (original target 95,000, revised target at restructuring to 900,000), benefited directly
+     from the infrastructure investments. 51 percent of these direct beneficiaries were female, as targeted.
+    369,477 beneficiaries (original target 40,000, revised to 151,000) were protected from seasonal
+     flooding.
+     250,939 persons (original target 25,000, revised to 246,000) were provided access to other basic
+     services
+     At closing, an independent consultant carried out a beneficiary assessment on a sample of 2,500
+     households living within a radius of 500 meters of project interventions. 78 percent were satisfied with
+     the quality of improved services in the ten cities. 81 percent were satisfied or very satisfied with the
+     usefulness of the completed works. The following outcomes of the infrastructure investments were
+     noted but without supporting data beyond reference to the response to the beneficiary assessment
+     conducted at closing:
+           o Solar streetlights addressed road accidents, sense of insecurity, and lack of evening
+             activities. The new poles facilitated access to social infrastructure at night and in areas where
+             street vendors, especially women were present. Solar powered lighting decreased the
+             urban carbon-footprint. Safer streets were created (no data on reduced incidence of crimes).
+           o Drainage / flood control. Drainage works led many to move back to previously flooded
+             neighborhoods, reclaim their lands, and increased population settlements. These drainage
+             investments improved infrastructure needed to prevent recurring floods. 369,477 beneficiaries
+             (original target 40,000, revised to 151,000) were protected from seasonal flooding. Project
+             design allowed flexibility and an ability to respond to unforeseen events (e.g., a public
+             space/playground was created following a flood event in a flood prone area). 70 percent of
+             beneficiaries agreed that there was no more flooding in their neighborhoods following the
+             project interventions.
+           o Transport. The bus station, along with the road investments, improved traffic (according to 87
+             percent of respondents) and eased home-to-work travel (according to 84 percent of
+             respondents). Mobility of residents improved in segments where major flooding issues in roads
+             caused traffic disruption or detours (impeding people's access to markets, schools, and
+             community facilities). 378,352 beneficiaries (original target 60,000, revised to 315,000) were
+             provided access to all season roads. Drains constructed along some of these roads reduced
+             localized flooding during the rainy season (369,477 beneficiaries (original target 40,000,
+             revised to 151,000) were protected from seasonal flooding). Large quantity of debris (no data
+             reported), especially in markets, were removed improving sanitation. Foreign exchange gains
+             resulted in additional roads works.
+           o Markets. The respondents to the beneficiary assessment estimated that work in markets
+             contributed to an increase in: (i) market attendance (56.6 percent), (ii) sales volume (73.3
+             percent), (iii) number of clients (70.5 percent), (iv) the emergence of new sales outlets (75.1
+             percent), and (v) commercial exchanges between communities (67.2 percent).
+           o Education. Improvements in pre-schools and primary schools increased school attendance
+             (71 percent).
+           o Tourism. Respondents to the beneficiary assessment estimated that this contributed to the
+             increase in the number of tourists by 84 percent in one city and 40 percent in the other.
+    Jobs were created in works that relied on manual labor. Incomes increased (no value reported).
+     However, the project did not proactively attract women to participate in urban civil works as noted in
+     the output above. Low female participation in the labor-intensive works was due to access to year-long
+     economic opportunities (such as small-scale retail or catering activities) for women in urban areas
+     unlike women in rural areas. These were more often profitable alternatives of income generation
+
+                                                                                                Page 6 of 18
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   BJ-Cities Support Project (P122950)
+
+
+
+       and often perceived as less difficult and more attractive than labor-intensive public works programs. At
+       closing, beneficiary assessment indicated that the original and revised target for the number of jobs
+       created by the Delegated Contract Management (Maîtrise d'Ouvrage Déléguée or MOD)-supervised
+       works were underestimated and those generated by works implemented by the participating cities
+       after the MTR were not captured.
+
+Overall, the efficacy of the project to achieve this objective is rated Substantial because original and revised
+targets for outcome indicators were exceeded. Beneficiary assessments at closing supported substantial
+satisfaction with the completed works.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+To improve urban management.
+
+Rationale
+Theory of Change: The results framework at appraisal (PAD, Annex 1) showed the causal chain to achieve
+the PDO. These inputs - training and technical assistance of city/municipal and central government officials in
+management and fiduciary and safeguards compliance - would result in outputs expressed as the number of
+officials trained, cities with publicly-disclosed budgets, with budgets that allocated for operations and
+maintenance (O&M), and with asset inventories conducted. Outcome indicators were the number of additional
+operational Neighborhood Development Committees formed, additional cities disclosing annual budgets, and
+growth rate of FADeC funds transferred to communes. Note that two of these outcome indicators were
+outputs. These PDO outcome and intermediate outcome indicators were the same at appraisal and in the
+TOC at closing except for changes introduced during restructuring. These changes included dropping one
+outcome indicator because there were no inputs that would lead to the expected outcome (formation of
+additional Neighborhood Development Committees); and three intermediate outcome indicators because
+these were unclear or were existing functions. These were the number of cities (i) with staff basic training
+package because the training package was undefined; (ii) with O&M targets because the targets were
+unclear; and (iii) with markets with management systems because local governments already managed these
+markets.
+
+The TOC made two assumptions under this objective: (i) after the MTR, the remaining 8 cities would have
+built their implementation capacities without MOD supervision, and (ii) procedures at the national level would
+be amended to allow local implementation of their respective infrastructure investments as designed. These
+assumptions were realized during implementation and led to achieving the PDO. The TOC was valid because
+the results chain showed the causal link from project interventions (inputs) that led to outputs and were
+sufficient to achieve the expected outcomes, as defined.
+
+OUTPUTS:
+
+
+
+
+                                                                                                    Page 7 of 18
+  Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+  BJ-Cities Support Project (P122950)
+
+
+
+
+    Overall, all technical and social and environmental safeguards requirements were met by the selected
+       cities and works were completed with MOD supervising the execution of 135 works and equipment
+       and the 10 participating cities directly implementing 44 infrastructure works.
+      All 10 participating cities, as targeted prepared and used a manual of administrative and financial
+       management procedures; generated, disclosed, and discussed quarterly progress reports of their
+       annual budgets beginning in 2019; completed and updated their annual asset inventory using
+       equipment acquired under the project; and dedicated at least 15 percent of revenues to infrastructure
+       maintenance in 2019 and 2020. Appropriate operations and maintenance arrangement were put in
+       place to ensure the sustainability of investments after project closing.
+      The central government and the cities agreed and implemented an intergovernmental financial
+       transfer system (IFTS) formula, as targeted. Starting in 2017, the government publicly disclosed the
+       IFTS formula to allocate FADeC resources on the CONAFIL website. 99.4 percent (original target 100
+       percent) of the resources allocated to the performance-based tranche were disbursed through the
+       FADeC earmarked window in 2020. This target was almost achieved because the final amount spent
+       on public works contracts was lower than what was originally planned.
+      Two independent city/municipal capacity assessments were carried out - one in 2017 and another at
+       closing.
+      The following tools were implemented to support decentralization reforms and improve local urban
+       governance: (i) the Local Government Training Center (Centre de Formation pour l'Administration
+       Locale – CeFAL) delivered 10 training modules; (ii) a manual on local administrative and financial
+       procedures; (iii) two manuals on procurement procedures; (iv) evaluations of the public FM system
+       according to the Public Expenditure and Financial Accountability (PEFA) framework (at the level of the
+       ten cities); (v) two handbooks on decentralization; and (vi) a guide on how to promote the local
+       economy. The following new urban planning and management tools were also produced: (i) storm
+       water management master plan studies for five cities; and (ii) urban mobility plans for five other cities.
+      Capacity building activities at the central and local levels resulted in 58 (original target 12) central
+       government officials trained in IFTS management and financial auditing of cities and municipalities, 68
+       central government staff were trained including officials of the public deconcentrated services and two
+       national inspection institutions (Inspection Générale des Affaires Administratives or IGAA and
+       Inspection Générale des Finances or IGF), on topics related to inter-communality, administrative and
+       financial oversight. Local staff in charge of accounting and FM and tax collectors (Receveurs
+       Percepteurs) in all 77 municipalities of Benin received training on maintaining satisfactory
+       bookkeeping. 297 local officials (original target 40) trained in fiduciary, safeguards, project
+       management, and engineering services in local taxation by 2020. The ten participating cities received
+       training in the maintenance of urban infrastructure and climate change and disaster risk management
+       issues.
+
+OUTCOMES:
+
+    At project closing, all participating cities delivered all planned investments they directly implemented
+     as designed, by accurately budgeting the infrastructure investments and overseeing procurement and
+     implementation. All cities and municipalities were now legally required to disclose budgets and
+     progress reports.
+    All ten participating cities, as targeted, increased their infrastructure assets to improve service delivery
+     in drainage, transport, education, achieving their respective development priorities. The average
+     annual city investment executed from 2013-2019 ranged from US$0.48 million to US$7.2 million while
+
+
+                                                                                                   Page 8 of 18
+                               Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                               BJ-Cities Support Project (P122950)
+
+
+
+                                     project-financed investments over the project duration were equivalent to 6 times more (ICR, Annex
+                                     6.6).
+                                    An independent consultant carried out two municipal capacity assessments that
+                                     showed improvements in the performance of municipalities in the areas of planning and budgeting,
+                                     financial management, and revenue mobilization. Specifically, (i) planning and budgeting had a 12
+                                     percentage point increase from 2017 to 2020 and FM and revenue mobilization had a 27 percentage
+                                     point increase over the same period; (ii) performance levels in the areas of procurement and human
+                                     resources and organization were found acceptable; (iii) secondary cities outperformed the three
+                                     largest cities (Parakou, Porto Novo and Cotonou); (iv) difficulties in infrastructure operations and
+                                     maintenance persisted. Porto Novo and Sèmè Podji showed lower scores in 2020 than in 2017,
+                                     because of structural constraints, according to MOD staff interviews (ICR, footnote 19)
+                                    IFTS now mainstreamed as evident in the use of FADeC to course project funds through this IFTS
+                                     system in 2020. Sectoral ministries used IFTS to reinforce fiscal decentralization. Starting 2017, as
+                                     targeted, the government publicly disclosed the IFTS formula to allocate FADeC resources on the
+                                     CONAFIL website. To render the resource distribution process transparent and objective, the annual
+                                     amounts allocated per city/municipality were adopted by ministerial orders (arrêtés) published on the
+                                     website of the CONAFIL and Ministry of Economy and Finance.
+                                    Materials on how to promote the local economy were distributed to all 77 cities and municipalities of
+                                     Benin and served as a key reference in the training that is being provided by the CeFAL. These were
+                                     produced in close collaboration with the cities and municipalities and other stakeholders and were
+                                     validated at the technical level. The new urban planning and management tools would guide future
+                                     investments in the national and local development plans.
+                                    By way of comparison, only five out of the 67 municipalities that did not benefit from this project
+                                     (PAURAD) allocated 15 percent of their resources to O&M (7.5 percent vs. 100 percent for the
+                                     PAURAD cities). These were important results to help institute financial accountability that uses
+                                     publicly accessible financial information as a mechanism beyond voting to hold the public services
+                                     providers accountable. The ten beneficiary cities continued this practice in 2021. The rest of the 67
+                                     municipalities in Benin also adopted this good practice.
+
+                            Overall, the efficacy of the project to achieve this objective is rated Substantial because target indicators were
+                            achieved or exceeded. The ICR acknowledged that the institutional outcomes could have been further
+                            strengthened in two aspects. First, a single system such as a unified national audit or performance
+                            assessment could have been used to reinforce national decentralization efforts. Second, using the first
+                            component to leverage activities from the two other components. For example, offering municipalities with
+                            learning-by-doing opportunities (component 2) in small-scale works (component 1); or creating incentives
+                            (component 3) by allocating local government grants (component 1) based on achieving a minimum score for
+                            performance improvements (ICR, paragraph 30) (see also Section 12 Lessons below).
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                                                                                                                                Page 9 of 18
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      BJ-Cities Support Project (P122950)
+
+
+
+
+  Rationale
+  Overall, the efficacy of the project to achieve the objectives is rated Substantial because all target indicators
+  were achieved or exceeded. The project interventions were not changed but at MTR the outcomes were
+  clarified to better show the causal link between inputs and outputs. End target values were adjusted at
+  restructuring to take advantage of changes in data collection methodology (see Section 9 Monitoring and
+  Evaluation Design below), although some original targets values were not adjusted even as resources were
+  added by foreign exchange gains. The project's overall efficacy is rated Substantial.
+
+
+
+  Overall Efficacy Rating
+  Substantial
+
+
+
+ 5. Efficiency
+Economic and Financial Efficiency: At appraisal, the PAD did not provide a detailed methodology for the
+economic and financial analysis of the project (ICR, paragraph 37). Nevertheless, the PAD presented a cost
+benefit analysis to justify the viability of both rehabilitation investments and institutional development of local
+administration. The analysis used two (unexplained) discount rates- one at 12 percent for the economic analysis
+related to flood prevention and adaptation; and the other at 5 percent for the financial analysis related to
+institutional capacity building. The ex-ante economic analysis yielded an economic Internal Rate of Return
+(EIRR) of 31 percent and 11.24 in benefit cost ratio for flood protection. An ex-ante financial analysis for
+institutional capacity building yielded a 10 percent EIRR and a 1.5 benefit cost ratio. The project components
+remained viable even after a sensitivity analysis considered factors such as reducing to 2 days the number of
+flood-days; reducing incremental land value by 5 percent; a 5 percent increase in city operating costs and a 2
+percent decrease in revenues. No details were provided in the PAD.
+
+At closing, no comparative methodology could be applied. No methods and assumptions used at appraisal were
+available. COVID 19 prevented the conduct of onsite surveys to conduct ex-post economic analysis (ICR,
+paragraph 37). The following alternative valuation methods were used: (i) hydro meteorological event risk
+affecting health and activity; (ii) hydro meteorological event producing damages to public and private assets, (iii)
+fee payment avoided to third party for tendering, (iv) economic multiplier effect due to labor income activities; (v)
+improved livelihood associated with income generating activities; (vi) improved schooling - were used to
+analyze the economic efficiency of the project. Several assumptions were identified including a 6 percent
+discount rate the World Bank recommended for economic analysis (as opposed to the 12 percent discount rate
+used ex ante). Benefits were derived from (i) prevented premature death; (ii) avoided damages and loss of
+opportunities associated with reduced floods; (iii) improved project management; (iv) socio economic value
+added from urban infrastructure and labor intensive works. Sensitivity analysis used 4, 6, and 12 percent
+discount rates yielding positive project viability. The ex post EIRR was 20 percent and benefit cost ratio ranged
+from 2.5 at 4 percent discount rate, 2.1 at 6 percent and 1.5 at 12 percent.
+
+Administrative and Operational Efficiency: The design called for a two-step implementation process reflecting
+lessons learned from similar World Bank operations in the sector; existing local capacity and to
+leverage ongoing government programs such as PONADEC (see Section 8 Assessment of Bank Performance,
+(a) Quality at Entry below). The project was restructured twice, one after the MTR to adopt the second step of
+the implementation design and the second to extend completion in the face of the COVDI 19 pandemic. There
+
+                                                                                                       Page 10 of 18
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       BJ-Cities Support Project (P122950)
+
+
+
+were notable implementation delays: (i) an 8- month delay in effectiveness of the credit after a procurement
+complaint against MOD (AGETUR) to implement the first phase of the project; (ii) a 6- month hold on
+disbursements while social safeguard compliance was addressed (see Section 10 Other Issues below); (iii) a
+12-month delay after MTR recommended that the remaining period of implementation be handed over
+by MOD to the participating cities. The two step approach proved beneficial. AGETUR was an experienced
+MOD. Infrastructure outputs were delivered early on while local capacities were preparing to take over
+implementation after the MTR (ICR, paragraph 49). Cities took over implementation in the last 18 months of the
+project. Project was completed with a 6 month extension of the original closing date. The experience provided
+the evidence that enhanced local capacities could deliver decentralized services. According to the ICR
+(paragraph 38 and footnote 27), this transfer of service delivery from central to local authorities was achieved
+without a perceived loss of central government power. Project management with the initial MOD fees did not
+exceed 8 percent of the total project cost (ICR, paragraph 38 and Annex 3).
+
+Overall, the efficiency of the project is rated Substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                 Rate Available?               Point value (%)        *Coverage/Scope (%)
+                                                                                      0
+ Appraisal                                                     0
+                                                                                       Not Applicable
+                                                                                      0
+ ICR Estimate                                                 20.00
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of the objectives is rated High. Overall efficacy of the project to achieve the objectives
+and efficiency are rated Substantial. As a result, the project outcome is Satisfactory.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+The following pose risks to development outcomes:
+
+
+                                                                                                     Page 11 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     BJ-Cities Support Project (P122950)
+
+
+
+     Government Commitment: The risk of the government's commitment to decentralization is rated
+      low. The government is currently implementing its Government Action Plan for 2016-2021 (Le
+      Programme d’Actions du Gouvernement or PAG) and drafting a new one for 2021-2026. Both these
+      plans reinforce their commitment to decentralization focusing on the legal framework for
+      intergovernmental transfers to build on the momentum from PAURAD activities. Local elections were
+      held In May 2020, in the middle of the Covid 19 pandemic, indicating active citizen engagement.
+      A stable fiscal environment would foster local government's’ ability to fulfill their assigned mandates
+      and fortify Benin’s decentralization policies. The follow-on program - Benin Resilient and Inclusive
+      Cities Program-for-Results (P176653) - would further mitigate this risk and target municipalities to
+      strengthen its governance and financing for public infrastructure.
+     Resource Mobilization: There is moderate to high risk in the capacity of target cities to
+      mobilize resources to finance O&M, asset management, and capital investment planning. The local
+      government's ability to mobilize resources was also affected by the COVID-19 pandemic as it
+      affected the national government's own ability to raise revenues. Mitigation may be offered by the
+      follow-on program for results. .
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  Project design was simple. Objectives were stated in the tradition of a classic infrastructure service
+  delivery and municipal capacity project. Design was informed by the country's urban development and
+  decentralization priorities. The Bank's over two decades of prior operations in the country (see Section 3
+  Relevance of Objectives, Prior Experience in the Country and Sector above) and this fourth urban sector
+  project complemented the government's National Decentralization and Deconcentration Policy (Politique
+  Nationale de Decentralisation et de Deconcentration or PONADEC). Design included the following
+  lessons from these operations: (i) focus on a smaller number of reforms, in this case releasing funds to
+  municipalities through a window of the existing intergovernmental transfer mechanism; (ii) more direct
+  commitment at the local level (city/municipal and community priorities) that support decentralization, such
+  as community involvement in generating commune development plans that identify priority investments;
+  (iii) complete technical studies before effectiveness and establish follow-up of institutional components
+  (PAD, paragraph 35). The PMU, familiar with Bank-financed projects, acquired sufficient capacity to
+  support the two step implementation approach. In the first step, a Delegated Contract Management
+  ((Maîtrise d'Ouvrage Déléguée or MOD) would first implement the project while building capacity of the
+  cities. In the second step, MOD would turn over to the cities to complete sub-project implementation. This
+  approach, together with the strategy of working out the challenges of the IFTS as the project was
+  implemented and the availability of completed technical studies (ICR, paragraph 45) marked readiness to
+  implement the project.
+
+  The ten target beneficiary cities ensured geographic spread (ICR, paragraph 44). At appraisal, baseline
+  data were collected from participating cities on revenues and infrastructure (ICR, paragraph 44) but not
+  baseline data for institutional assessment that could have informed how the three simultaneously
+  implemented components could better institutionalize a decentralized service delivery (ICR, paragraph
+  44). The Bank team conducted fiduciary, policy and institutional, implementation, M&E arrangements, risk
+  assessment. Mitigation measures addressed the unfamiliarity by the 10 municipalities with World Bank
+
+                                                                                                  Page 12 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     BJ-Cities Support Project (P122950)
+
+
+
+  implementation procedures. Among these were having an MOD in place and hiring an M&E specialist as
+  key PMU staff (ICR, paragraph 46).
+
+  Overall, the Quality at Entry is rated Moderately Satisfactory. The ICR (paragraph 67) notes that, in terms
+  of readiness, safeguards and accompanying arrangements fell behind, and the targets set at appraisal
+  could have been more ambitious if a baseline study complemented the experience of the preceding
+  Second Decentralized City Management Project (Project de gestion urbaine decentralisee or PGUD II)
+  experience.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The Bank team conducted 15 supervision missions over the 7-year implementation period. There were
+ three task team leaders during preparation and implementation of the project with some transition overlap.
+ No disruption in continuity was reported, although initial missions were conducted in an irregular manner;
+ clearances of Procurement Plans, No-Objections to terms of reference and project documents submitted in
+ bulk were delayed; and composition of the team handicapped by overstretched and understaffed fiduciary
+ and safeguards experts (ICR, paragraph 69).
+
+ Proactive measures were undertaken in response to safeguards non-compliance
+ by suspending disbursements for a period while the implementing entity adopted corrective measures (see
+ Section 10 Other Issues below). Separate Financial Management (FM) missions supplemented staff
+ constraints to maintain low FM risks. Procurement shortcomings during implementation were addressed by
+ closer monitoring by the World Bank team and training. Until September 2017, there was a high turnover in
+ the Bank's social safeguards staff and consultants. Frequent social safeguard missions were conducted
+ outside of the project missions. These factors resulted in institutional memory gaps and
+ diminished attention to social safeguards issues (see Section 10 Other Issues below). Monitoring
+ compliance of social safeguards improved after staff was hired. After the MTR discovered shortcomings in
+ the parallel simultaneous implementation of the project components, restructuring introduced features to
+ better integrate the activities under Components B (municipal management) and C (institutional
+ strengthening) to reinforce Component A (infrastructure investments). The MTR also strengthened
+ definition of indicators in the results framework. The output targets remained unchanged even when
+ investments were added due to foreign exchange gains.
+
+ Overall, the Quality of Supervision is rated Moderately Satisfactory due to delays and issues in the
+ implementation of fiduciary and safeguards aspects of the operation.
+
+ Overall, the quality of Bank performance is rated Moderately Satisfactory based on the same ratings for the
+ quality at Entry and at Supervision.
+
+
+
+  Quality of Supervision Rating
+
+
+                                                                                                  Page 13 of 18
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     BJ-Cities Support Project (P122950)
+
+
+
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ M&E design was reflected in the project’s results framework, which established a causal link between
+ 17 intermediate and 7 PDO outcome indicators. Inputs were based on the three project components. Some
+ indicators, however, would have benefited from a better description or defined activities to support target
+ outcomes. For example, there was no activity that would lead to ‘the formation of additional operational
+ neighborhood development committees' as an output. This was later dropped at restructuring.
+
+ Original target values, set at appraisal, were modest (ICR, paragraph 56). However, M&E design was
+ improved during implementation by addressing these conservative targets. Data collection methods were
+ revised from extrapolating from the 2013 census to conducting surveys. At the Mid Term Review (MTR),
+ targets increased to more realistic values to capture the change in data collection methodology,
+ acknowledge the influx of new migrants attracted by the project, and implementation progress. Project
+ baselines and data sources were identified. Some, however, were not differentiated from the general
+ decentralization efforts of the government. As a result, institutional outcomes could not be solely attributed
+ to those generated by the project. The design of the M&E framework did not include the impact of
+ intermittent ministerial orders to the formula used for the intergovernmental transfer in allocating funds to
+ cities and municipalities. The results framework had limited gender specific indicators.
+
+
+
+b. M&E Implementation
+  M&E was implemented by the Technical Secretariat (TS) in the Ministry of Environment, Housing and
+  Urban Development (MEHU) as designed. An M&E Specialist was hired. Independent capacity
+  assessment, works supervision reports, and other data were communicated to the TS and consolidated
+  into the regular project monitoring report and reviewed by the Inter-ministerial Steering Committee (ISC).
+
+  Data collection methods were refined during M&E implementation. Target indicators were increased at
+  restructuring to accommodate the change in data collection methods and to acknowledge completed sub-
+  projects by the time of the MTR. Two city/municipal capacity assessments were carried
+  out. These provided details on the impact from improvements in urban services and management
+  introduced by the project.
+
+
+
+c. M&E Utilization
+  M&E data informed project management, the ISRs, and the Mid Term Review (MTR). M&E data
+  informed the restructuring to allocate resources for direct implementation by the participating cities.
+  At closing, M&E data informed the dissemination of results through print media and videos. The project
+
+
+
+                                                                                                    Page 14 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     BJ-Cities Support Project (P122950)
+
+
+
+  also used the beneficiary assessments at closing to capture some evidence of impact that supplemented
+  the inadequately defined outcome indicators (ICR, Annex 6).
+
+  On balance, the quality of M&E is rated Substantial. Design was improved by more realistic targets to
+  accommodate change in methods for obtaining beneficiary data, the influx of new urban migrants to the
+  target municipalities, and implementation progress achieved so far. Implementation captured the
+  improvements achieved in urban services through two capacity assessments. Utilization also showed
+  how M&E data informed project progress and the outcome of the project through multimedia
+  dissemination. Beneficiary assessment at closing strengthened the justification for achieving outcomes.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   At appraisal, the project received an environmental category "B" because no activity was expected to have
+   significant negative environmental or social impacts. The project triggered three safeguard policies:
+   Environmental Assessment (OP/BP 4.01), Physical Cultural Resources (OP/BP 4.11) and Involuntary
+   Resettlement (OP/BP4.12). The project sites were not known at preparation, an Environmental and Social
+   Management Framework (ESMF) and the Resettlement Policy Framework (RPF) were prepared. These
+   instruments were complemented by other instruments such as actionable notes in aide memoires.
+
+   There were some social safeguards compliance issues in specific resettlement plans, but these were
+   resolved before the project closed. For example, in implementing the Resettlement Action Plan, insufficient
+   communication with the Project Affected Peoples (PAPs) was noted. Also, a not fully completed RAP was
+   under implementation; PAPs were not fully compensated before the start of civil works as planned. A 6-
+   month hold on disbursement was made for a social safeguards audit and corrective measures to be
+   carried out. The PMU safeguards specialist left in 2018 and was replaced by four city social and
+   environmental safeguards officers. At closing, the ICR indicated overall compliance with the social
+   safeguards (ICR, paragraph 62) but did not specify the implementation of Physical Cultural Resources
+   safeguards.
+
+   Environmental safeguards compliance also noted implementation issues. These included (i) failure to
+   provide environmental control offices with an outline for the environmental monitoring report of the works to
+   be completed; (ii) lack of environmental monitoring and social implementation of ESMPs by the National
+   Environment Agency (Agence Béninoise de l’Environnement); and (iii) MOD failed to send to the
+   PMU ESMF-compliant report for completed works (ICR, paragraph 63). At closing, the ICR reported
+   compliance with environmental and social safeguards as moderately satisfactory (ICR, paragraph 61).
+
+
+
+
+b. Fiduciary Compliance
+
+
+                                                                                                   Page 15 of 18
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     BJ-Cities Support Project (P122950)
+
+
+
+   Financial Management (FM). FM arrangements during project implementation were reported to be
+   satisfactory (ICR, paragraph 65). All the interim financial reports were submitted on time and were of
+   acceptable quality to the World Bank. External auditors issued unqualified opinions on annual financial
+   statements. Audit recommendations were implemented.
+
+   Procurement. The project complied with the World Bank’s Procurement guidelines (ICR, paragraph 64).
+   Procurement staff in the PMU and MOD attended an Africa Region World Bank procurement training in
+   May 2018. The project employed the World Bank's Systematic Tracking of Exchanges in Procurement
+   (STEP) in implementing the Procurement Plan. However, project documents showed some issues such as:
+   (i) similarities in offers for some civil works tender; (ii) bias in method used to evaluate 'Consultant's
+   Qualification'; (iii) single, rather than the required two signatures on contracts; (iv) the frequent use of lump-
+   sum contracts; and (v) delays in procurement. Securing World Bank's No-Objections were delayed by
+   the bulk submission of Terms of Reference and project documents (see Section 8 Assessment of Bank
+   Performance, (b) Quality of Supervision above).
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                    Reason for
+Ratings                          ICR                     IEG
+                                                                                    Disagreements/Comment
+Outcome                          Satisfactory           Satisfactory
+                                 Moderately
+Bank Performance                                        Moderately Satisfactory
+                                 Satisfactory
+Quality of M&E                   Substantial            Substantial
+
+Quality of ICR                   ---                    High
+
+
+12. Lessons
+
+Following are three of the five lessons offered in the ICR, with minor additions from IEG (ICR,
+paragraphs 74-78).
+
+      Customized capacity development interventions may best enhance readiness by cities
+         to implement decentralization reform. In this project, the two-step implementation
+         arrangement allowed the delivery of needed infrastructure while capacities in delivering
+         decentralized services at both the city and central levels were bolstered. This approach also
+         showcased how increased autonomy of cities and municipalities to execute investments that
+         deliver services to their constituents. At closing, beneficiary cities showed improvements in
+         urban management performance and delivered investments in a timely manner. Two
+
+                                                                                                       Page 16 of 18
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       BJ-Cities Support Project (P122950)
+
+
+
+         city/municipal capacity assessments identified where longer-term reforms and support were
+         needed:(i) in local asset management, and (ii) local resource mobilization. Areas of future
+         local capacity development support may include (i) interventions using this
+         project's experiences; (ii) allow cities or municipalities to plan and implement civil works
+         after their capacities improve; and (iii) consider changing needs of the recipients, such as city
+         or municipality size/tier of government/geographic situation etc.
+        Using an existing window for intergovernmental transfers may provide a central entity
+         with the incentive to make the system work effectively. In this project, funds were
+         coursed through an earmarked window of FADeC. The sectoral ministry test ran its fiscal
+         transfer system (FADeC) and provided a level of ownership for the project to work, rather
+         than establishing a standalone mechanism. FADeC was an important vehicle for sectoral
+         ministries to transfer earmarked funds to cities and municipalities in accordance with locally
+         determined priorities while maintaining an oversight role. Optimal use of the FADeC by line
+         ministries may include further incentives and support such as improving the predictability of
+         transfers, regular notification by the central government to cities and municipalities on their
+         allocations, and creating a more systematic transfer of responsibility of decentralized
+         services to cities and municipalities.
+        A multidimensional approach may be useful to encourage women participation in
+         labor intensive public works. In this project more proactive measures
+         may encourage women to participate in labor intensive, civil works e.g., road
+         construction/rehabilitation, and street cleaning. Measures may include working with
+         contractors to: (i) use flexible task-based payment to attract women to worksites; (ii)
+         reach out to women’s groups, since working in groups fosters safety and help overcome
+         perceived danger; (iii) provide childcare facilities and allow flexible working hours; (iv)
+         sensitize employees and subcontractors on gender-based violence codes of conduct; (v)
+         set a quota, where possible, for minimum participation by female workers.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is concise and provides a clear picture of the project design and implementation. It is outcome -
+oriented, and follows the guidelines. The overall quality of evidence and analysis is satisfactory. The ICR is
+candid, in particular, in reporting on the Bank performance, and provides a good explanation behind the target
+setting revisions. The annexes are very helpful, especially the cost comparison, by component (Annex 3),
+showing foreign exchange gains that led to exceeding the original targets for roads and drainage investments.
+Annex 4 details an economic analysis of the sub-projects using various methods to justify efficiency at closing,
+acknowledging that a comparison with the ex-ante economic efficiency method could not be made.
+The recipient assessment (Annex 5) adds specifics, and a detailed beneficiary satisfaction with components by
+city (Annex 6) supports the project outcomes. Lessons are informed by the project experience and useful for
+similar operations in the sector.
+
+
+
+                                                                                                      Page 17 of 18
+  Independent Evaluation Group (IEG)    Implementation Completion Report (ICR) Review
+  BJ-Cities Support Project (P122950)
+
+
+
+
+a. Quality of ICR Rating
+   High
+
+
+
+
+                                                                     Page 18 of 18
+

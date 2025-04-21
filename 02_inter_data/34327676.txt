@@ -1,0 +1,632 @@
+        Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+        IQ: PFM Oversight & Accountability (P170704)
+
+
+
+                                                                                     Report Number: ICRR0024064
+
+1. Project Data
+
+
+
+ Project ID                                    Project Name
+ P170704                                       IQ: PFM Oversight & Accountability
+
+ Country                                       Practice Area(Lead)
+ Iraq                                          Governance
+
+
+ L/C/TF Number(s)                              Closing Date (Original)                Total Project Cost (USD)
+ TF-B1910                                      31-Aug-2022                                             538,440.59
+
+ Bank Approval Date                            Closing Date (Actual)
+ 30-Oct-2020                                   13-Sep-2023
+
+                                               IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                                   8,500,000.00                                  8,500,000.00
+
+ Revised Commitment                                    8,500,000.00                                    538,440.59
+
+ Actual                                                 538,440.59                                     538,440.59
+
+
+
+
+ Prepared by                    Reviewed by                   ICR Review Coordinator         Group
+ Alma Pekmezovic                Christopher David             Donna Kaidou Jeffrey           IEGEC (Unit 1)
+                                Nelson
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The project development objective was "to strengthen institutions and mechanisms of fiscal accountability and
+   oversight at federal and regional levels." (PAD, p. 15).
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+
+
+                                                                                                      Page 1 of 12
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     IQ: PFM Oversight & Accountability (P170704)
+
+
+
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project comprised three components:
+   Component 1: Enhancing Fiscal Accountability (Appraisal: US$7.70 million, Actual: US$0.60 million):
+   This component was expected to contribute tofiscal accountability through three sub-components. These
+   included: (a) refining payroll processes for transparent reporting; (b)improving efficiency and oversight in
+   public procurement to prevent fund misuse; (c)and strengthening fiscal oversight over budget and non-
+   financial State-Owned Enterprises (SOEs). Initiatives such as expanding coverage of digital payment
+   systems, automating employee identification, and establishing an e-government procurement system were
+   expected to contribute to achieving these objectives. Additionally, enhanced external audit and legislative
+   oversight would ensure proper resource management and fiscal discipline. This component aimed to enable
+   the following: (i) scaling up the coverage of the Central Payroll Management Information System (CPMIS),
+   (ii) automating the process for generating unique employee identification (IDs), (ii) expanding the coverage
+   of the Central Bank of Iraq’s e-payment, (iii) establishing and piloting an e-government Procurement (e-GP)
+   system and coordinating the ongoing e-procurement activities of the Kurdistan Regional Government (KRG)
+   with those of the Federal Ministry of Planning (MoP), and (iv) strengthening external audit and legislative
+   oversight of the budget, and financial oversight of nonfinancial SOEs.
+
+   Component 2: Transparency, Integrity and Legal Certainty (Appraisal: US$ 3.95 million, Actual: US$
+   0.00 million, Undisbursed): This component was designed to improve fiscal transparency such that financial
+   information would be more accessible to the public. This component also included measures for the
+   identification and mitigation of corruption risks within fiscal processes,and promoting integrity. Other
+   interventions around legal clarity and the establishment of clear guidelines and regulations, were expected
+   to contribute to a reduction in ambiguity and enhance compliance within the fiscal system.
+
+   Component 3: Project Management and Implementation Support (Appraisal: US$ 0.85 million, Actual:
+   US$0.00 million): This component included activities such as coordinating project activities, providing
+   technical assistance, and ensuring proper monitoring and evaluation to facilitate the successful execution of
+   reform initiatives.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost: The Project was approved as Investment Project Financing of $12.5 million of which $8.5
+   million were Recipient Executed (RE) and $4.0 million were Bank Executed (BE) on behalf of the client. The
+   actual project cost was significantly lower than the cost estimated at appraisal because of implementation
+   constraints.
+
+   Financing: Of the approved total of US$12.5 million, only US$0.60 million was utilized, accounting for just
+   about 5% of the approved funds. The project was funded through a WB Grant, Grant No TF0B1910.
+
+   Borrower Contribution: At appraisal, no borrower’s contribution was estimated, and none materialized at
+   project closing.
+
+
+                                                                                                    Page 2 of 12
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     IQ: PFM Oversight & Accountability (P170704)
+
+
+
+   Dates: The project closing date was extended from August 31, 2022, to September 13, 2023. This
+   extension did not involve any alterations to the PDO Result framework, or Components. The decision to
+   extend was prompted by the Government's request, dated March 3, 2022, for additional time to finalize
+   project implementation, which had experienced delays since its inception. The Government also requested
+   that certain priority activities be implemented by the Bank on its behalf under the Recipient-Executed via the
+   Bank-Executed arrangement. However, the request for Bank Execution on behalf of the Government was
+   not accommodated.
+
+   A desk-based Mid-term Review (MTR) conducted in August 2022, replacing the initially planned in-country
+   MTR scheduled for April 2022. The in-person mission was not feasible due to security concerns and the
+   client's reluctance to engage in virtual meetings. Additionally, disruptions arose from the suspension of
+   World Bank missions in August 2022 due to security reasons. Consequently, a proactive restructuring
+   during the MTR extended the project implementation period by 13 months, with a revised closing date of
+   September 13, 2023. While the European Union (EU) approved the extension to allow more time for project
+   activities, the EU did not agree to convert Recipient-Executed (RE) to Beneficiary Engagement (BE).
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country Context: Following the regime change in 2003, Iraq endured prolonged social and political
+turmoil, rendering it one of the world's most fragile states in 2020 ranked the 17th most fragile country in the
+world according to the 2020 Fragile States Index).
+
+At the time of appraisal, governance in Iraq had declined, evidenced in various indicators. Perceived
+governance along its six dimensions captured by the World Governance Indicators, was low.\ Previous
+gains in controlling corruption, political stability, and regulatory quality had diminished. Transparency
+International's Corruption Perceptions Index placed Iraq among the lowest performers, ranking 168th out of
+180 countries. Trust in public institutions eroded significantly, with 47% of respondents citing corruption as
+their main concern in 2019, while 83% believed corruption was worsening.
+
+    1. Trust in public institutions had eroded and corruption undermined government effectiveness In terms
+       of fiscal oversight, the 2017 Public Expenditure and Financial Accountability Assessment found
+       Iraq's Public Financial Management system unsatisfactory, with significant weaknesses such as
+       poor financial monitoring of State-Owned Enterprises (SOEs) and weak external audit
+       functions. Trust in justice and lower government tiers also deteriorated. The lack of legal certainty
+       and availability of information made it difficult for citizens and investors to hold public officials
+       accountable, since the underlying rules were not fully disclosed, (PAD, pg. 2).
+
+Alignment with Government Reform Agenda: The Government of Iraq (GoI) and the KRG prioritized
+governance reforms and accountability. GoI aimed to rebuild state legitimacy and enhance public resource
+management efficiency through the adoption of a modern financial management system. The enactment of
+a new Financial Management Law demonstrated this commitment. KRG, on the other hand, focused on
+fighting corruption, ensuring transparency in economic fields, and supporting key institutions like the
+Supreme Audit Institution and the Commission of Integrity and Public Prosecution.
+
+
+                                                                                                      Page 3 of 12
+                                      Independent Evaluation Group (IEG)                       Implementation Completion Report (ICR) Review
+                                      IQ: PFM Oversight & Accountability (P170704)
+
+
+
+               The PDO was closely aligned with Iraq's overarching development strategies, including the National
+               Development Plan 2018-2022, the Poverty Reduction Strategy 2018-2022, Iraq Vision 2030, and the 2020
+               Iraq’s Council of Ministers White Paper. Specifically, Pillar 5 of the White Paper emphasized the importance
+               of enhancing economic governance and strengthening the legal and regulatory framework of public
+               administration. This focus aimed to empower institutions and individuals to implement reforms that promote
+               transparency, combat corruption, and enhance the effectiveness of public procurement and administration.
+
+               Alignment with World Bank Strategy (WB) and Country Partnership Framework (CPF) 2021-2025:
+               The project supported the WB’s engagement and policy dialogue in Iraq on fiscal and economic
+               governance reforms. The PDO was fully aligned with Pillar 1 of the WB’s Country Partnership Framework
+               (CPF) 2021-2025: Improved Governance, Transparency, and Accountability through Transparent, Open,
+               And Effective Government which underscored the critical importance of improving governance and
+               implementing fundamental reforms that promote transparency and accountability in the public sector.
+
+               The project was also in line with the two pillars of the World Bank Group’s MENA Strategy, focusing on
+               renewing the social contract and supporting recovery and reconstruction efforts. It aimed to enhance
+               government effectiveness and strengthen its social contract with citizens by bolstering fiscal oversight,
+               accountability mechanisms, and institutions. This also included improving revenue collection, managing
+               fiscal risks (including those incurred by SOEs), and ensuring the efficiency of public expenditure.
+               Furthermore, the project sought to facilitate dialogue between the government and civil society by
+               promoting public participation in the budget process.
+
+               Overall, the project's objectives were inherently ambitious, particularly within the context of Iraq's fragile,
+               conflict-ridden, and volatile (FCV) status, which was compounded by a challenging security landscape.
+               Building upon previous Bank initiatives such as the Modernization of Public Financial Management Systems
+               Project (IFMIS) and the Iraq Reform, Recovery, and Reconstruction project (I3RF), the project aimed to
+               strengthen institutions and mechanisms of fiscal accountability and oversight at both federal and regional
+               levels. However, despite aligning with both the Bank’s and the country’s objectives, there was a notable
+               lack of acknowledgment regarding capacity constraints and the project's intended short duration. Given
+               these complexities, adjustments were necessary to ensure optimal alignment with Iraq’s context and
+               constraints. Given the moderate shortcomings, the relevance of Objectives is assessed as Substantial.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To strengthen institutions and mechanisms of fiscal accountability and oversight at federal and regional levels
+
+                             Rationale
+
+                                                                                                                              Page 4 of 12
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   IQ: PFM Oversight & Accountability (P170704)
+
+
+
+According to the Theory of Change (ToC) outlined in the PAD (p. 23) the project aimed to enhance financial
+accountability and oversight by addressing critical constraints such as decentralized payroll management,
+procurement accountability issues, weak oversight on SOEs, and limited external audit capacity. In addition,
+the project sought to address significant deficiencies in Iraq's financial management systems, particularly
+regarding budget transparency and adherence to international standards in the extractive industry. The ToC
+targeted three main issues: Operationalizing the CPMIS which was expected to streamline payroll processes
+and ensuring centralized control and improving transparency in salary disbursement across government
+entities. Second, responding to the low Open Budget Index Rating and the lack of compliance with the
+Extractive Industry Transparency Initiative (EITI) 2019 standards. Third, the ToC concentrated on project
+activities aimed at enhancing the weak external audit function within the context of Iraq's PMF systems, which
+were rated poorly (“rated D”) on various fiscal accountability dimensions. Additionally, the Federal Board of
+Supreme Audit (FBSA) had not published the Annual Financial Statement audit report since 2014; and in KRI,
+no budget was appropriated for this purpose for the past five years.
+
+Recognizing these challenges, the ToC sought to implement measures to enhance budget transparency,
+including improving public access to budget information, gender-based budgeting, enhancing reporting
+mechanisms, and strengthening accountability mechanisms. Additionally, the project aimed to address the
+completion of risk-based external audit reports, aiming to incentivize their publication based on risk
+assessments. Moreover, efforts were to be made to develop and adopt manuals for auditing oil revenue and
+social expenditures, aiming to enhance social auditing. These reforms were expected to lead to strengthened
+fiscal management information systems, as well as enhanced fiscal accountability and oversight mechanisms
+at both the federal and regional levels.
+
+Outputs:
+
+      Piloting of centralized payroll management information system (CPMIS): (Not Achieved).
+      Operationalization of an e-procurement IT platform: Despite efforts to establish the platform and pilot
+       it for 10 percent of large procurement transactions in two federal ministries, the platform's deployment
+       and piloting were not realized. This setback underscores the challenges faced in integrating electronic
+       procurement mechanisms into government operations. (Not Achieved).
+      Increased rating on budget transparency (under the Open Budget Index): Despite efforts to enhance
+       budget transparency, the actual rating fell significantly short of the ambitious target (an increase to
+       20.00), reaching only 6.00 from a baseline of 9.00, highlighting the need for further steps to improve
+       transparency in budget processes. This represents a regression from the baseline rating rather than
+       any progress. While efforts may have been exerted to enhance budget transparency, they proved
+       insufficient to meet the ambitious target set. This shortfall underscores the need for further steps to be
+       taken to effectively enhance transparency in budget processes in the future. (Not Achieved).
+
+Progress in implementing Extractive Industry Transparency Initiative (EITI) 2019 standards: While Iraq made
+some (moderate) progress in implementing the EITI 2019 standards, as attested by the EITI board in a report
+released in July 2022 that Iraq made moderate progress in meeting the 2019 EITI standards, this fell short of
+the significant advancements anticipated at the project's closure, indicating a need for continued efforts to
+strengthen governance and accountability within the extractives sector. (Not Achieved, with some partial
+progress toward achievement).
+
+
+
+
+                                                                                                   Page 5 of 12
+                                Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                                IQ: PFM Oversight & Accountability (P170704)
+
+
+
+
+                                  Completion of risk-based external audit reports: Only 0.50 risk-based external audit reports were
+                                   completed against a target of two, indicating a delay or shortfall in achieving the planned external
+                                   audit reports. (Not Achieved, with only half a report completed).
+                                  Design of e-GP strategy and roadmap: Separately, the draft e-GP strategy and roadmap, developed
+                                   under the Bank-Executed part of the project, were not approved and launched. Despite efforts to
+                                   strengthen anti-corruption measures and enhance public investment management, this aspect of the
+                                   initiative did not progress as anticipated. (Not Achieved)
+
+                            Overall, the theory of change was sound with clear activities aligned to driving reforms to governance
+                            processes and operational needs. However, progress towards the achievement of the PDO is deemed
+                            negligible. Very little activity was carried out, was partially delivered and not sufficiently supported which
+                            ultimately led to limited progress made towards the objective.
+
+
+
+                            Rating
+                            Negligible
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            There was one over-arching objective with a range of governance tools aligned to moving ahead to improve
+                            and strengthen institutions and their functions. However, delivery against these commitments was poor and
+                            ultimately little progress was made. Thus, the overall efficacy is rated Negligible.
+
+
+
+                            Overall Efficacy Rating                                    Primary Reason
+                            Negligible                                                 Low achievement
+
+
+    5. Efficiency
+   The PAD anticipated significant economic benefits, including improved efficiency in procurement processes,
+   wage bill management, and the operational and financial management of SOEs. However, no quantitative
+   economic analysis was conducted during the project's design phase to assess cost-effectiveness or compare
+   cost to benefits. These anticipated economic benefits were not realized due to the limited implementation of
+   project activities. Additionally, actual fund disbursement was much lower than forecast. Only seven percent of
+   the Recipient-Executed project funds were disbursed, resulting in negligible results. Thus, efficiency is rated
+   negligible.
+
+
+   Efficiency Rating
+          Negligible
+
+
+                                                                                                                                  Page 6 of 12
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      IQ: PFM Oversight & Accountability (P170704)
+
+
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                      0
+Appraisal                                                    0
+                                                                                       Not Applicable
+                                                                                      0
+ICR Estimate                                                 0
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of the objectives is deemed Substantial. There was clear need for the reforms and a reasonable
+set of activities aligned to this end. However, given that efficacy of the project is rated Negligible, and its’
+efficiency is rated Negligible, the overall outcome is rated Highly Unsatisfactory.
+
+
+a. Outcome Rating
+   Highly Unsatisfactory
+
+
+7. Risk to Development Outcome
+
+The lack of substantial advancements in project implementation and PFM reform in preceding years,
+combined with the Government's inclination to cancel main activities, suggests a significant shift in priorities.
+This circumstance diminishes the likelihood of sustaining the minimal outcomes achieved thus far.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The WB’s quality of entry for the project is considered unsatisfactory. Despite notable efforts to align it
+  with the country's development challenges and capacity constraints, the project's scope was too broad
+  and ambitious, as noted in decision review meetings and by peer reviewers. Objectives and indicators
+  were overly ambitious, given the short implementation timeline and the challenging context of fragility,
+  complex institutional arrangements, and low capacity at both Federal and Regional levels. The tight
+  timeline, influenced partly by EU financial programming constraints and the Administrative Agreement
+  with the WB, led to a technical design prioritizing financing availability over technical soundness.
+  Implementing reforms, such as automating payroll and procurement systems, proved complex, requiring
+  extended procurement processes. Additionally, insufficient consideration of lessons learned from
+  previous projects hindered a more realistic project design and implementation strategy. Finally, the
+
+                                                                                                       Page 7 of 12
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     IQ: PFM Oversight & Accountability (P170704)
+
+
+
+  intended reforms relied on intentional change management activities, which were not adequately
+  incorporated into the project design and implementation phase. Thus, the quality at entry is rated
+  unsatisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Unsatisfactory
+
+
+b. Quality of supervision
+ The WB sought to engage with government counterparts amid challenging security concerns, as evidenced
+ by the production of five Implementation Status and Result Reports (ISRs) spanning March 2021 to March
+ 2023. These reports offer insights into the efforts undertaken to address challenges, particularly regarding
+ Recipient-Executed activities. While 2022 saw no official field or virtual implementation support missions,
+ and two ISRs relied on desk reviews, the WB utilized alternative strategies such as regular monthly check-
+ in meetings with government counterparts to advance project implementation.
+
+ Moreover, through Beneficiary Engagement (BE) initiatives, the team provided hands-on support by
+ assisting with critical tasks like payroll requirement analysis, risk-based audits, and facilitating the adoption
+ of digital asset declaration systems. Despite these proactive measures, however, the quality of supervision
+ remained unsatisfactory, primarily due to the absence of official missions in 2022 and the identified need
+ for more robust engagement in specific project areas to move activities along and align them with required
+ changes.
+
+
+
+
+  Quality of Supervision Rating
+  Moderately Unsatisfactory
+
+  Overall Bank Performance Rating
+  Unsatisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ There were several weaknesses in M&E design. The ToC framework exhibited various inconsistencies and
+ weaknesses. Crucially, the TOC failed to include necessary assumptions, such as political stability or
+ stakeholder cooperation, which are essential for understanding external factors impacting project success.
+ Furthermore, it lacked indicators for activities on behalf of the client and failed to differentiate between
+ results at the Federal and Kurdistan Regional Government levels.
+
+ It's also worth noting the lack of alignment between the project's objectives and the indicators outlined in
+ the TOC. While most of the indicators were measurable, achieving them within the project's short timeline
+
+                                                                                                        Page 8 of 12
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     IQ: PFM Oversight & Accountability (P170704)
+
+
+
+ was unrealistic. Specifically, the absence of an Intermediate Result Indicator for the Payroll system
+ hindered progress measurement. Additionally, there was a notable lack of indicators to assess outcomes
+ related to Component 3. In summary, these shortcomings highlight the need for a comprehensive revision
+ of the TOC to effectively address these deficiencies and ensure a robust framework for project planning
+ and monitoring.
+
+
+
+b. M&E Implementation
+  The project encountered several issues with M&E implementation within its framework. Firstly, the
+  absence of recruited M&E Specialists at the Project Implementation Unit (PIU) hampered the monitoring
+  of all indicators outlined in the Result Framework. Moreover, semi-annual progress reports, mandated by
+  the Grant Agreement, were not generated due to recipient-executed activities not being included in the
+  national budget. Additionally, although indicators were reported in Implementation Status Reports by the
+  WB team, data collection and reporting were not conducted by implementing partners as intended,
+  resulting in gaps in project monitoring and evaluation processes.
+
+
+
+c. M&E Utilization
+  The WB team periodically updated M&E data to facilitate decision-making. During implementation
+  support missions, both the WB and the Government utilized actual progress data from the result
+  framework to guide discussions and actions aimed at enhancing project implementation performance.
+  Nevertheless, more effective utilization of the M&E data could have enabled more realistic corrective
+  actions, such as restructuring and revising indicators. Weaknesses in the design, implementation, and
+  utilization of the M&E system led to challenges in effectively evaluating progress toward objectives.
+  Consequently, there was limited proactive assessment of progress and inadequate support for informed
+  decision-making, highlighting a critical need for improvements in M&E practices.
+
+
+
+  M&E Quality Rating
+  Negligible
+
+10. Other Issues
+
+a. Safeguards
+   A Grievance Redress Mechanism (GRM) was developed but remained non-operational. The online
+   complaint registration system was not implemented, and alternative measures, such as a complaint box
+   accessible to all stakeholders, including those with disabilities, were not provided. Additionally, the hiring of
+   an experienced communication professional for stakeholder awareness programs and the recruitment of a
+   Social Safeguard Specialist at both Federal and Regional levels did not occur as planned.
+
+
+
+
+                                                                                                       Page 9 of 12
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     IQ: PFM Oversight & Accountability (P170704)
+
+
+
+b. Fiduciary Compliance
+   The Financial Management (FM) performance had a number of shortcomings: (i) failure to open all Project
+   Designated Accounts except at KRG-MoP, (ii) lack of experience among FM seconded staff in WB-
+   financed project policies, (iii) absence of updated accounting books by implementing entities except KRG-
+   MoP, and (iv) non-inclusion of the project in the national budget.
+
+   Similarly, the Procurement performance was constrained, with three implementing agencies maintaining
+   minimum procurement capacity, leading to progress only in KRI component activities. However, no
+   progress was made in other project components due to the project's exclusion from the annual budget,
+   hindering contract signings and implementation activities under Federal components.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   The project made some contributions to strengthening institutional and human resource capacities in
+   several areas including various trainings, committee support and knowledge exchanges, though the impact
+   of these activities remains inconclusive.
+
+   Additionally, although the project was not gender-tagged, capacity-building activities were provided to
+   women. Thus, ten women from the Parliament received training on budget analysis and monitoring, and
+   ten women from the FBSA and KRG-BSA participated in training on International Public Sector Accounting
+   Standards (IPSAS) and got the IPSAS certificate. The Bank requested counterparts to be gender-sensitive
+   when selecting participants for training. (ICR, p. 10).
+
+
+
+d. Other
+   n/a
+
+
+
+11. Ratings
+                                                                                Reason for
+Ratings                         ICR                  IEG
+                                                                                Disagreements/Comment
+                                Highly
+Outcome                                             Highly Unsatisfactory
+                                Unsatisfactory
+Bank Performance                Unsatisfactory      Unsatisfactory
+
+Quality of M&E                  Negligible          Negligible
+
+Quality of ICR                  ---                 Substantial
+
+
+12. Lessons
+
+
+                                                                                                  Page 10 of 12
+       Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+       IQ: PFM Oversight & Accountability (P170704)
+
+
+
+The IEG agrees with the lessons outlined in the ICR. With some modification, they are provided
+below:
+
+        Realism in Project Expectations and Timelines: Assessing implementation capacity,
+         especially in areas like e-GP, payroll, and corruption, should have informed the
+         establishment of more flexible expectations. Given the intricate nature of PFM reforms,
+         particularly in contexts characterized by low capacity and poly-crisis situations, it is
+         imperative to foster realism and adaptability in project planning, choose appropriate activities
+         and ensure disciplined execution.
+        Proactive Course Correction: Despite initial efforts to extend the project's closing date and
+         provide support to bolster performance, the underlying issues persisted, necessitating a
+         reevaluation of the project's trajectory. In such circumstances, proactive restructuring or
+         considering non-extension becomes imperative, especially when rooted in underlying political
+         economy factors that remain unresolved. Where limitations exist in the project design, radical
+         course correction should acknowledge the fundamental areas for change.
+        Robust Analytical Bases: Lastly, while high-level governance reform aspirations outlined in
+         the Government of Iraq's 2020 White Paper failed to materialize into tangible reforms,
+         conducting a repeat Public Expenditure and Financial Accountability (PEFA) assessment,
+         supplemented by Climate Responsive Public Financial Management (PEFA Climate) and
+         Gender Responsive Public Financial Management (GRPFM) assessments, could have
+         provided a comprehensive understanding of the Iraq PFM landscape. Such assessments,
+         coupled with stakeholder participation and oversight at the highest levels, are necessary to
+         provide the groundwork for a comprehensive reform strategy, fostering transparency and
+         accountability in PFM reforms.
+
+The IEG adds the following:
+
+        Co-ordination with Development Partners in FCV Contexts: In developing programs for
+         fragile and conflict-affected contexts like Iraq, it is vital to align interventions with evolving
+         priorities amidst the transition to a more stable environment. Identifying comparative
+         strengths and focusing on areas where effective delivery is feasible should guide strategic
+         planning. Coordination with relevant stakeholders, including other donor partners and
+         governmental bodies, is essential for increasing the likelihood of success for reform projects.
+        Scoping of Achievable Project Activities in Long-Term Reform Projects: Additionally,
+         extensive consultations with local stakeholders and the government are essential to better
+         assess implementation capacity and to facilitate effective collaboration. Such engagement
+         enables a comprehensive understanding of the local context, including potential challenges
+         and gaps, thereby allowing for more precise scoping of project activities.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+
+                                                                                                        Page 11 of 12
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      IQ: PFM Oversight & Accountability (P170704)
+
+
+
+
+The ICR is candid, internally consistent and concise, offering a clear overview of the project and its objectives.
+The report draws attention to the weaknesses in the ToC framework, and identifies strengths and weaknesses
+in the M&E system, offering lessons for future reform projects in FCV contexts. Nevertheless, the report lacks
+in-depth coverage of implementation issues (especially those pertaining to the regional versus federal levels),
+which could have enriched the understanding of project execution. Also, it would have been advantageous to
+delve further into the specifics of some of the indicators.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                     Page 12 of 12
+

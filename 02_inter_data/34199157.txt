@@ -1,0 +1,745 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     DR Dist. Grid Moderniz & Loss Reduction (P147277)
+
+
+
+                                                                                 Report Number: ICRR0023554
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P147277                                    DR Dist. Grid Moderniz & Loss Reduction
+
+ Country                                    Practice Area(Lead)
+ Dominican Republic                         Energy & Extractives
+
+
+ L/C/TF Number(s)                           Closing Date (Original)               Total Project Cost (USD)
+ IBRD-85630                                 31-Dec-2020                                        112,219,480.63
+
+ Bank Approval Date                         Closing Date (Actual)
+ 15-Dec-2015                                30-Nov-2022
+
+                                           IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                          120,000,000.00                                               0.00
+
+ Revised Commitment                           112,219,480.63                                               0.00
+
+ Actual                                       112,219,480.63                                               0.00
+
+
+
+
+ Prepared by                Reviewed by                   ICR Review Coordinator         Group
+ Dileep M. Wagle            Christopher David             Ramachandra Jammi              IEGSD (Unit 4)
+                            Nelson
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The project’s development objectives were “to improve the financial viability of the electricity distribution
+   companies (EDEs) by reducing energy losses and increasing revenue collections in the circuits rehabilitated
+   under the Project and consequently increase the supply of electricity”. This was as per the Loan Agreement,
+   December 29, 2015, Schedule 1, p.6, as well as the Project Appraisal Document (PAD), p.5.
+
+
+
+
+                                                                                                  Page 1 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     DR Dist. Grid Moderniz & Loss Reduction (P147277)
+
+
+
+   In the analysis that follows, the PDO can be parsed as follows: (i) “to improve the financial viability of the
+   electricity distribution companies by reducing energy losses and increasing revenue collections in the circuits
+   rehabilitated under the Project, and (ii) to increase the supply of electricity”.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component 1: Rehabilitation of selected distribution circuits and upgrading of metering systems and
+   implementation of Environmental Management Systems (EMS) for the EDEs (Estimated cost at appraisal:
+   US$103.63 million; Actual cost at closing: US$97.9 million). The component was intended to support the
+   rehabilitation of circuits selected by each EDE, including: (i) Grid Rehabilitation and Modernization, (ii)
+   Macro and micro metering systems and loss reduction monitoring, (iii) Smart grid remote metering systems,
+   and (iv) EMS for residue sites following international best practices for hazardous waste management.
+
+   Component 2: Citizen engagement and community participation (Estimated cost as appraisal: US$4.56
+   million; Actual cost at closing: US$4.48 million). The component supported implementation of a Social
+   Management Strategy (SMS) aimed at restoring the confidence between users and EDEs, increasing cash
+   collection levels and promoting efficient and safe use of electricity. The component included, inter alia,
+   training of the communities, the signing of social compacts between the EDEs and the communities, and
+   customer service satisfaction surveys.
+
+   Component 3: Commercial management and project management (Estimated cost at appraisal:
+   US$11.16 million; Actual cost at closing: US$9.6 million). This component provided support for: (i) the
+   refurbishing and upgrade of existing offices and technical assistance (TA) to monitor the business cycle; (ii)
+   IT platform for CDEEE and the EDEs, and forecasting and demand analysis. Integration of CDEEE and
+   EDEs IT systems through fiber optic, support demand forecasting and setup of a data center at CDEEE; (iii)
+   institutional strengthening and coordination, monitoring of the grid modernization, and electrical loss
+   reduction, including technical advisory services to CDEEE and the EDEs in project management, monitoring
+   and evaluation, and support to EDEs in developing financial accounting reports in accordance with best
+   international reporting standards.
+
+   Component 4: Complementary tariff study (Estimated cost at appraisal: US$350,000; Actual cost at
+   closing: US$278,927). The study was complementary to an on-going IDB-supported study to weigh the
+   social implications of changes in tariff design and setting, and recommend mitigation measures.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   All of the project’s financing was provided through an IBRD credit of US$120 million followed. No other
+   development partners were involved in the financing of the project. Actual project costs at closing were just
+   over US$112 million, or about 93 percent of the aggregate project cost.
+
+
+                                                                                                    Page 2 of 14
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     DR Dist. Grid Moderniz & Loss Reduction (P147277)
+
+
+
+   Borrower contribution
+
+   No borrower contribution was envisaged at appraisal, nor did any take place subsequently.
+
+   Dates
+
+   The project was approved on December 15, 2015, becoming effective on January 27, 2017. The original
+   closing date was December 31, 2020. However, this date was extended through restructuring, first to
+   August 31, 2022, and again to November 30, 2022. The first extension was on account of the delay that
+   took place in reaching effectiveness (13 months after signing), and delays resulting from the impact of the
+   Covid 19 pandemic. The second extension was to allow time to finish two contracts: equipment for an IT
+   Data Center and the safe disposal of Polychlorinated Biphenyls (PCBs). Minor changes were made to the
+   targets for two results indicators (for CRI and ASAI), to account for the delay in implementation. In addition,
+   one indicator, related to the integrated environmental management system, had to be dropped because the
+   Government had initiated a process to liquidate CDEEE, leaving no institutional structure in place to
+   integrate with nor the need to do so.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and Sector Context
+
+The Dominican Republic had experienced a fairly rapid growth rate – of 5.3 percent per annum on average
+– between 1991 and 2014, among the highest rates in Latin America and the Caribbean. This sustained
+growth rate had not translated into a reduction of poverty. The percentage of the population living in
+moderate poverty increased from 32 percent in 2000 to 41 percent in 2013 – above the average in the
+region. The energy sector was a critical engine of growth for the country, but faced many challenges, most
+important of which were: (a) a high level of losses (ranging from 30 to 36 percent) due to theft of electricity
+and low quality of distribution networks, (b) unreliability of service, (c) high cost of energy production due to
+a mostly fuel oil-based generation matrix, (d) a weak governance framework, (e) inefficient targeting of
+subsidies, and (f) high vulnerability to external shocks (natural disasters and price of oil). Power outages in
+the network – despite reduction of blackouts - were six times higher than the regional average. The
+governance of the sector had undergone several transformations but the reforms had been undermined by
+low levels of transparency and accountability.
+
+The country’s 1,875 MW electricity market consisted of separate generation, transmission and distribution
+companies. Of the installed generation capacity, 67 percent was privately owned, with the remainder being
+in public-private and solely public sector hands. Over 37 percent of electricity was generated using fuel oil
+and 31 percent using natural gas. Coal (14 percent), hydro (13 percent) and wind (4 percent) accounted for
+the reminder of fuel sources. The Electricity Transmission Company (ETED) was the public company in
+charge of electricity transmission, and three state-owned regional distribution companies (EDE Norte, EDE
+Sur and EDE Este), coordinated by a public holding company, the Corporation of Dominican State
+Electricity Companies (CDEEE). A key factor in the performance of the electricity sector was the
+
+                                                                                                       Page 3 of 14
+                       Independent Evaluation Group (IEG)                  Implementation Completion Report (ICR) Review
+                       DR Dist. Grid Moderniz & Loss Reduction (P147277)
+
+
+
+governance of state-owned utilities. The EDEs had been originally privatized but later sold back to the
+Government in 2009 because of their poor financial situation – the result of a large proportion of unbilled
+and unpaid energy, on account of a lack of metering and theft. All three EDEs were financially
+unsustainable due to a combination of electricity retail tariffs set below cost recovery levels, high technical
+and commercial losses, and poor revenue collection, and the Government had to subsidize the power
+sector deficit to keep them afloat.
+
+In response to the sector crisis, CDEEE developed a Strategic Electricity Sector Plan (2013-16), focusing
+on three pillars: (i) Modification of the generation matrix, (ii) Loss reduction, and (iii) Management
+efficiency. CDEEE set a loss reduction target of 6 percent, planned the following measures: (a)
+Rehabilitation of networks and installation of meters for existing clients as well illegal connections, (b)
+Remote metering and macro metering, (c) community outreach activities, (d) improvement of commercial
+management and infrastructure, and (e) institutional strengthening.
+
+Alignment with Country Strategies
+
+The project was part of the country’s “Distribution Grid Modernization and Electrical Loss Reduction
+Program”, which was supported by the World Bank, the European Investment Bank, the IDB and the OPEC
+Fund for International Development. The overall objective of the Program was to reduce levels of
+distribution system losses from 32.1 percent to 25.2 percent in four years (2015-20). The Program was
+designed by CDEEE to ensure complementary investments by development partners. The project was also
+aligned with the country’s National Development Strategy for 2030 and with the World Bank’s Country
+Partnership Strategy (CPS, 2015-18), which was designed to support the Government’s efforts to make
+growth sustainable and more inclusive. Specifically, the second strategic results area of the CPS focused
+on improving access to efficient and reliable electrical distribution networks, ICT and other infrastructure – a
+core outcome of this results area being to ensure improved efficiency and reliability of the electricity sector,
+measured among other things by a reduction of commercial losses.
+
+The project’s development objectives were also consistent with the Government’s Strategic Electricity
+Sector Plan for 2013-16, and continued to be consistent with the World Bank’s Country Partnership
+Strategy (CPS) for FY15-18, whose validity extended to project closing. Results Area 2 of the CPS focused
+on “Improving access to efficient and reliable electrical distribution networks, ICT and other
+infrastructure”. Key outcomes here for the electricity sector were improved efficiency and reliability,
+measured among other things by a reduction in commercial losses and provision of a more reliable and
+continuous supply of electricity. The engagement was expected to build on ongoing work to rehabilitate
+distribution lines to improve electricity supply and strengthen incentives for payment for services through
+community outreach and similar measures, and greater focus on governance of distribution companies, and
+achieving greater transparency and efficiency.
+
+Based on this, the relevance of the project’s objectives is assessed as High.
+
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+High
+
+
+
+
+                                                                                                         Page 4 of 14
+                  Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                  DR Dist. Grid Moderniz & Loss Reduction (P147277)
+
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+               OBJECTIVE 1
+               Objective
+               “To improve the financial viability of the electricity distribution companies by reducing energy losses and
+               increasing revenue collections in the circuits rehabilitated under the Project”
+
+               Rationale
+               Theory of Change (TOC)
+
+               The project was designed to reduce energy losses and increase revenue collections. Project activities aimed
+               to rehabilitate selected distribution circuits and upgrade metering systems, improve commercial management
+               and loss reduction program, support citizen engagement and community participation in implementing a
+               Social Management Strategy, and undertake an electricity tariffs study. These activities were expected to
+               lead to outcomes such as improved financial viability of the electricity distribution companies by reducing
+               energy losses and increasing revenue collections in the circuits rehabilitated under the project, thereby
+               contributing to enhanced supply of electricity.
+
+               While the activities were broadly appropriate to achieving the desired outcomes, the theory of change (TOC)
+               discussion in the ICR does not specifically analyze whether they were of adequate scale to create a critical
+               mass for change.
+
+               Indicators used to measure the achievement of objectives were consistent with the above results chain. For
+               PDO Indicator 1 (financial viability), outcome indicators measured the increase in the Cash Recovery Index
+               (CRI) at the rehabilitated circuits of each EDE. For PDO2 (supply of electricity), the indicator measured the
+               increase in Average Service Availability Index (ASAI) in the rehabilitated circuits.
+
+               Key assumptions underlying the TOC included: (i) sustained political support in improving the performance of
+               the sector and in reducing losses, (ii) that the high cost of energy production would be reduced through
+               investments aimed at a more efficient generation matrix, and (iii) that CDEEE and EDEs would have better
+               capacity to manage a large number of contracts in terms of administrative monitoring and technical oversight.
+
+               Outputs
+
+               - Some 600 km of distribution networks were rehabilitated, against a revised target of 687 km (87 percent
+               achievement).
+
+               - The number of ‘remotely metered’ clients at the EDEs reached 112,896, against a (revised) target of
+               130,770, or 86 percent achievement.
+
+               - 61,120 illegal users were converted by closing to legitimate paying clients. This was against a (revised)
+               target of 71,320, or 85.7 percent achievement.
+
+
+
+
+                                                                                                                  Page 5 of 14
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   DR Dist. Grid Moderniz & Loss Reduction (P147277)
+
+
+
+The failure to achieve the target for all three of the above indicators was on account of changes in mature and
+scale of some of the circuits to be rehabilitated, and the fact that one of the sub-projects was not completed
+by project closing.
+
+- The number of ‘social compacts’ signed by EDEs with the communities was 18 by project closing, which
+fully achieved the target of 18.
+
+- The complementary tariff study (complementary to an on-going IDB-supported study), designed to weigh
+the social implications of changes in tariff design/setting, was launched and completed by project closing.
+
+
+
+Outcomes
+
+The Cost Recovery Index (CRI) at the rehabilitated circuits of each EDE was used as the primary indicator to
+assess the improvement in financial viability of the electricity distribution companies. The CRI accordingly
+increased from a 2015 baseline of 59.00 to 75.20, against a (revised) target of 83.20 (original target was
+83.60) – an achievement level of 90.4 percent. The target had been adjusted on account of initial delays in
+implementation, when some of the circuits originally considered at appraisal had experienced some changes,
+while some circuits with high losses had to be urgently rehabilitated and for that reason were reassigned to
+projects financed by other IFIs.
+
+Based on this and the progress made in rehabilitating distribution networks, remote metering, community
+social compacts and formalization of illegal users, whilst taking into account the shortfalls in achieving target
+goals, efficacy of this objective is rated Substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+“To increase the supply of electricity”
+
+Rationale
+The theory of change applicable to this objective is the same as for Objective 1. Relevant activities to meet
+this objective included commercial management and loss reduction programs, along with the installation of an
+IT Data Center.
+
+Outputs
+
+- The Energy Recovery Index (ERI) at the rehabilitated circuits of each EDE increased from a baseline of
+58.70 in 2015 to 76.00 at project closing, against a (revised) target of 82.70 (originally 83.10).
+
+- Installation of an IT Data Center was completed by project closing.
+
+
+                                                                                                     Page 6 of 14
+                                Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                                DR Dist. Grid Moderniz & Loss Reduction (P147277)
+
+
+
+
+                            Outcomes
+
+                            The Average Service Availability Index (ASAI) increased in the rehabilitated circuits from a base of 71.30 in
+                            2015 to 98.70 at project closing, higher (102 percent) than the revised target of 96.50 (which was in turn
+                            higher than the original target of 95.90). To this extent, the project was successful in expanding availability of
+                            electricity supply.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            As seen from the above, the project substantially achieved its two objectives. Progress was made in terms of
+                            increasing the financial viability of the electricity distribution companies, through infrastructure rehabilitation
+                            investments and achieving improvements in revenue collection. Though most indicators for Objective 1 fell
+                            somewhat short of their targets, there was clear progression towards the targets, good evidence of continued
+                            performance and strong alignment with objective 2 is terms of the project theory. For Objective 2,
+                            achievement of the ASAI target indicated that availability of electricity service did improve on account of the
+                            reduction of losses, and this improvement was proof that the project exceeded expectations.
+
+                            Based on this, Overall Efficacy is rated Substantial.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+   5. Efficiency
+   Economic efficiency:
+
+   The economic internal rate of return (EIRR) for the project at closing was estimated at 5.6 percent, with a Net
+   Present Value (NPV) of - US$21.1 million, based on a 10 percent discount rate, compared to the estimated rate
+   at appraisal of 16.4 percent and NPV of US$22 million at the same discount rate. The lower economic rate of
+   return at project completion was on account (a) of a lower level of energy purchased and billed, i.e. a smaller
+   size of market for the rehabilitated circuits relative to that estimated in the PAD, and (b) a lower projected level
+   of loss reduction (23.5 percent), in comparison to the PAD’s assumption of 25.4 percent.
+
+
+
+                                                                                                                                  Page 7 of 14
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      DR Dist. Grid Moderniz & Loss Reduction (P147277)
+
+
+
+Financial returns estimated were of the order of 12.6 percent ex-post and an NPV of US15.31 million, as
+compared to the projected rate in the PAD of 27.5 percent and US$67.3 million, respectively.
+
+Operational/Administrative Efficiency:
+
+The ICR did not assess Operational and Administrative efficiency. However, it is noted that the project’s closing
+date was extended by two years on account of a 13-month delay in effectiveness and delays on account of the
+impact of Covid-19.
+
+The project’s results were achieved at a total cost of US$112.22 million, which was slightly lower than the
+estimated cost of US$120 million. However, this was partly on account of a slight reduction in the scope of the
+project, reflected in a revision downwards of most indicator targets – especially the number of km of distribution
+networks rehabilitated.
+
+Based on the above, the project’s efficiency can be considered to be Modest.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                      0
+ Appraisal                                                 5.60
+                                                                                       Not Applicable
+                                                                                      0
+ ICR Estimate                                              16.40
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project’s development objectives were highly relevant to the needs of the Dominican Republic’s energy
+sector and remain so. Its overall efficacy is rated Substantial, and its efficiency was rated Modest, on the basis
+of the project economic analysis. As such, its overall outcome is rated Moderately Satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+
+                                                                                                      Page 8 of 14
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      DR Dist. Grid Moderniz & Loss Reduction (P147277)
+
+
+
+Key risks to development outcome relate to institutional, social and pricing issues. For instance, recent rising
+inflation caused the Government to freeze electricity prices so as to cushion the impact on households: the
+medium-term effects of which are indeterminate. Similarly, the medium-term effects of the aftermath of
+Covid-19 could also have sustained effects on the ability to maintain operational and commercial
+management of the EDEs, which call for continued participation of local communities.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The design of the project was based on a sound assessment of the electricity sector and formulated in a
+  way that directly addressed a concern of high relevance to the state – namely the precarious financial
+  situation of the EDEs and the urgent need to reduce distribution losses (ICR, p.20). Preparatory work
+  was reported by the ICR as fairly thorough, including assessment of safeguards, economic and financial
+  viability, and of the capacity of executing agencies to implement fiduciary and other responsibilities,
+  taking into account lessons learnt from prior operations. Implementation arrangements were based on
+  the capacity and experience of the existing PIU, which had previously implemented a World Bank
+  electricity project andf other IFI operations.
+
+  Arrangements for M&E, procurement and overall implementation planning were reported to be
+  appropriate, although – given the size of the main procurement package – a more advanced level of
+  preparation of the bidding documents would have helped move things along more smoothly. Also, the
+  project’s schedule and disbursement profile appeared to be optimistic, given Congress’ loan ratification
+  requirements.
+
+  Other than this, important governance and other risks were identified, as was institutional capacity, and
+  specific measures incorporated into the project design to address them. The impact of the Covid-19
+  pandemic could not realistically have been anticipated.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The project appears to have been adequately supervised. The Bank team conducted 13 bi-annual
+ supervision missions over a seven-year period, despite the constraints imposed by the Covid-19 pandemic.
+ The team engaged effectively with the PIU, keeping a focus on the project’s development
+ outcomes. Reporting on the project appears to have been objective and timely (ICR, p.21), monitoring
+ taking place vis-à-vis the results framework.
+
+
+
+
+                                                                                                     Page 9 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     DR Dist. Grid Moderniz & Loss Reduction (P147277)
+
+
+
+ Supervision of safeguards and fiduciary appears to have been satisfactory, with adequate resources
+ having been allocated. However, the absence of a World Bank financial management specialist was
+ something of an impediment to smooth implementation.
+
+ The ICR reports that the Bank’s overall dialogue with the Borrower and related agencies was constructive
+ and useful in overcoming implementation obstacles. The project was restructured twice, in a timely
+ fashion, to try and adapt better to changing conditions. The ICR also reports that a follow-on project is
+ under preparation, to continue to address the development challenges that the project was addressing.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ M&E design and arrangements appear to have been generally adequate. Though there were only two
+ outcome indicators, these were adequate to capture the nature and expected progress of (financial and
+ technical) of the PDO. Together with the intermediate indicators, the overall set of indicators were able to
+ reflect well the progress of the project. Targets established by the results framework (RF) were
+ measurable, and relatively unambiguous.
+
+ Baseline values for each indicator were provided, along with cumulative target values for the initial four
+ years of implementation. However, the ICR notes (p. 17) that the quality of the RF could have been
+ improved through incorporation of additional intermediate indicators designed to track the pace of
+ implementation of construction/rehabilitation works, and also of the supporting activities such as social
+ management.
+
+
+
+b. M&E Implementation
+  The responsibilities of all parties involved with M&E were well established by the Project Operational
+  Manual (POM). Under the PIU’s coordination, the EDEs collected data on the rehabilitation subprojects
+  and other components. The PIU submitted quarterly progress reports to the World Bank on achievement
+  of the results indicators, and of contracts and safeguards compliance. Some shortcomings were
+  observed in regard to the monitoring of contracts (ICR, p.17).
+
+
+
+c. M&E Utilization
+  Data reporting by the PIU was regularly reflected in Implementation Status and Results Reports (ISRs),
+  and were used by the Bank to identify problems and inform management on potential problems in
+
+                                                                                                    Page 10 of 14
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     DR Dist. Grid Moderniz & Loss Reduction (P147277)
+
+
+
+  various areas. According to the ICR (p.17), cumulative target values were however not made use of –
+  apparently on account of a constraint set by the ISR format).
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as Safeguards Category B, triggering the following policies: (a) Environmental
+   Assessment (OP 4.01), (b) Physical Cultural Resources (OP/BP 4.11), and (c) Natural Habitats (OP/BP
+   4.04). No social safeguard policies were triggered. The works involved mainly right-of-ways of the
+   rehabilitated distribution lines and installation of new metering systems. An Environmental Impact
+   Assessment was undertaken during project preparation for all circuits to be rehabilitated – most of which
+   were located in urban areas.
+
+   A sum of US$2.4 million was included in the project’s components to finance strengthening of each EDE’s
+   environmental safety unit created for the purpose of the project, as well as implementation of an
+   Environmental Management System (EMS) for improving the performance of the EDEs in this area – as for
+   instance with storage and disposal of hazardous waste.
+
+   The PIU prepared quarterly reports on the status of environmental, safety and health issues, to facilitate
+   monitoring of the project’s compliance with the World Bank’s safeguards requirements and standards.
+
+   A Grievance Redress Mechanism (GRM), administered by CDEEE and the EDEs, was put in place, and
+   was available to all parties that felt that their rights had been adversely affected by the project. In total, 210
+   complaints were presented to six contractors, all of which were processed according to the GRM, with 170
+   resulting in corrective actions.
+
+   According to the ICR (pgs. 18-19), the EDEs reported that use of the Bank’s safeguards policies made a
+   significant difference in terms of the utilities’ practices in dealing with environmental issues. The ICR also
+   notes that project’s environmental performance was rated either satisfactory or moderately satisfactory in
+   ISRs throughout the implementation period, closing with a satisfactory rating.
+
+
+
+
+b. Fiduciary Compliance
+   A Financial management (FM) assessment was undertaken at appraisal of CDEEE, the fiduciary entity and
+   coordinator of the project. It confirmed that its FM department was adequately staffed, with appropriate
+   systems and controls in place. Fiduciary tasks for all components were handled by the PIU, except for
+   Component 4, which was handled by SIE (for which purpose, SIE staff was strengthened through training
+   and installation of FM information systems prior to processing disbursements.
+
+   The project’s FM performance was adequate overall during the implementation period in terms of staffing,
+
+                                                                                                       Page 11 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     DR Dist. Grid Moderniz & Loss Reduction (P147277)
+
+
+
+   budgeting, reporting, accounting and external audit. Recommendations were generally implemented on an
+   ongoing basis. External audits did not identify reportable conditions, nor qualified opinions. FM
+   performance was rated moderately satisfactory during most of the implementation period and satisfactory
+   by closing.
+
+   Procurement activities were carried out in accordance with the World Bank’s guidelines for procurement of
+   goods and works (2011; revised 2014). CDEEE was responsible for all procurement activities, through its
+   PIU, barring the tariff study, which was managed by SIEE. Given SIE’s lack of experience of World Bank
+   procurement requirements, an experienced specialist was hired to strengthen capacity in this regard. Also,
+   a procurement strategy was prepared and agreed upon during project preparation. The PIU was
+   responsible for preparing all procurement documents and for signing contracts (to be overseen by the
+   EDEs). This included complete bidding document packages, management of the entire procurement
+   process, and preparation of supply and service contracts. CDEEE and the EDEs had responsibility for
+   evaluation of proposals and contract award recommendations, with the EDEs being responsible for
+   preparing technical specifications, managing contracts and supervising construction works. Staffs of both
+   the PIU and the EDEs received training in procurement and contract management.
+
+   The main procurement activity was the International Competitive Bidding (ICB) and execution package (of
+   around US$100 million) for 18 lots of circu9its to be rehabilitated. Discussions on the relevant bidding
+   documents began during preparation, but agreement on a World Bank procurement-compliant document
+   was not reached until mid-2017, resulting in considerable implementation delay. Once agreement was
+   reached, however, subsequent implementation proceeded relatively smoothly.
+
+   Delays also resulted from the impact of the Covid-19 pandemic, affecting most project activities once the
+   Government declared a state of emergency that slowed down works and commercial activities. The ICR
+   mentions (p.20) that a post-review identified some weaknesses in procurement activities. Some contract
+   activities had been extended and paid for without the prior signing of appropriate contract amendments,
+   requiring the Bank to implement an action plan involving the hiring of a specialized consultant to undertake
+   a field assessment and verify that the extensions and amendments were technically justified and
+   satisfactorily completed.
+
+   Apart from these initial delays, the ICR mentions that procurement responsibilities were handled
+   satisfactorily, being rated either moderately satisfactory or satisfactory during implementation, and closing
+   with a satisfactory rating.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                 Reason for
+Ratings                         ICR                      IEG
+                                                                                 Disagreements/Comment
+
+
+                                                                                                    Page 12 of 14
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       DR Dist. Grid Moderniz & Loss Reduction (P147277)
+
+
+
+                                  Moderately
+Outcome                                                 Moderately Satisfactory
+                                  Satisfactory
+Bank Performance                  Satisfactory          Satisfactory
+
+Quality of M&E                    Substantial           Substantial
+
+Quality of ICR                    ---                   Substantial
+
+
+12. Lessons
+
+IEG derives the following lessons drawn from the ICR:
+
+1. Achieving sustainability in distribution systems characterized by long-standing issues of
+high energy losses calls for a multidisciplinary effort: As illustrated by the project, the vicious
+circle of ‘no service, no payment’ culture needs to be broken, requiring a continuous commercial and
+social management effort, combined with technical monitoring, and with the active and coordinated
+participation of the distribution utilities and the affected communities. In areas where clients will be
+formalized, it is essential to monitor developments closely in order to avoid the influence/pressure of
+new or returning fraudulent initiatives. The Government’s political will plays an especially important
+role. Loss reduction projects require sustained support over the medium term, and a continued
+effort in strengthening institutions.
+
+2. Managing a large number of simultaneous contracts within a single project requires
+effective monitoring practices and tools: As illustrated by the project, these included adequate
+institutional arrangements (including staff capacity and quick access to information), ability to
+monitor contracts effectively, and the use of software to monitor all contract activities in the field in
+an integrated and comprehensive manner, so as to strengthen controls and achieve more efficient
+technical and administrative processes. In addition, a close working relationship between the
+Borrower and the World Bank is helpful in identifying problems early. The maintenance of rigorous
+construction records is essential in monitoring progress of works (and to help resolve any conflicts
+between contractors and utilities). Finally, it is a good idea for contracts to incorporate strong
+efficiency incentives, especially in their payment schedules.
+
+3. Adequate and timely procurement support by the World Bank (in terms of capacity and
+expertise) can be critical during initial stages of implementation: This is especially important
+when, as in the case of the project, a significant part of the project’s procurement relies on a single
+main package. The early preparation and approval of high quality and timely set of bidding
+documents, and the contribution of the Bank’s relevant specialized staff, can help determine the
+eventual success of the project.
+
+
+
+
+13. Assessment Recommended?
+
+  No
+
+
+                                                                                                       Page 13 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     DR Dist. Grid Moderniz & Loss Reduction (P147277)
+
+
+
+14. Comments on Quality of ICR
+
+The ICR is well written, concise and internally consistent and provides a fair amount of detail on implementation
+issues. The theory of change is appropriate and the achievement of objectives is adequately analyzed –
+although it would have benefited from greater detail on the performance of individual indicators, especially
+intermediate indicators. Strengths and weaknesses in the M&E system are highlighted and discussed. Overall,
+the narrative appears to support the ratings and available evidence.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                   Page 14 of 14
+

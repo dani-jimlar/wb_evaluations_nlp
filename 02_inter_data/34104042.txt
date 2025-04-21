@@ -1,0 +1,928 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Argentina Access to Finance for MSMEs (P159515)
+
+
+
+                                                                                 Report Number: ICRR0023468
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P159515                                   Argentina Access to Finance for MSMEs
+
+ Country                                   Practice Area(Lead)
+ Argentina                                 Finance, Competitiveness and Innovation
+
+
+ L/C/TF Number(s)                          Closing Date (Original)                Total Project Cost (USD)
+ IBRD-86590                                30-Nov-2021                                           48,180,681.14
+
+ Bank Approval Date                        Closing Date (Actual)
+ 18-Nov-2016                               31-Aug-2022
+
+                                           IBRD/IDA (USD)                                       Grants (USD)
+
+ Original Commitment                           50,000,000.00                                                0.00
+
+ Revised Commitment                            50,000,000.00                                                0.00
+
+ Actual                                        48,238,781.14                                                0.00
+
+
+
+
+ Prepared by                Reviewed by                  ICR Review Coordinator            Group
+ Burcin Pamuksuz            Ebru Karamete                Avjeet Singh                      IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to both Schedule 1 of the Loan Agreement (p.5) and the Project Appraisal Document (p.14), the
+   project objective was “to improve access to, and strengthen the framework for the provision of, longer term
+   finance for eligible micro, small and medium enterprises”.
+
+   This review will assess the project outcome based on the objective parsed as follows:
+
+
+
+                                                                                                   Page 1 of 17
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Argentina Access to Finance for MSMEs (P159515)
+
+
+
+   Objective 1: To improve access to longer term finance for eligible micro, small and medium enterprises,
+
+   Objective 2: To strengthen the framework for the provision of longer-term finance for eligible micro, small and
+   medium enterprises.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project consisted of three components:
+
+   Component 1. Line of Credit: (Estimated Cost at Appraisal: US$ 44.50 million; Estimated Cost After
+   Restructuring: US$ 45.14 million; Actual Cost at Closing: US$ 50.6 million-including revolving credits) This
+   component was to provide funds to the Bank for Investment and Foreign Trade (BICE) for on-lending
+   through Participating Financial Institutions (PFIs) to Micro, Small and Medium Enterprises (MSMEs). The
+   Ministry of Treasury and Public Finance (MoF) was to borrow the loan in US$ and lend to BICE in local
+   currency while bearing the foreign exchange risk. BICE was to be the implementing agency for this
+   component and was to select PFIs for on-lending to MSMEs (subject to the World Bank’s approval). The
+   selected PFIs was in turn to finance MSMEs (the final beneficiaries of the credit line) which were to be
+   determined pursuant to the eligibility criteria agreed by the World Bank. The risk of MSMEs was to be
+   assumed by the PFIs. All sectors were eligible for the Line of Credit (LoC) and was to be a revolving fund to
+   ensure continued second-tier lending by BICE. Taking the challenging macroeconomic conditions at
+   appraisal into account, the project was designed as a pilot project.
+
+   Component 2: Institutional Capacity Building for BICE, Financial Infrastructure Reforms, Credit
+   Guarantee Fund and Capacity Building for MSMEs: (Estimated Cost at Appraisal: US$ 4.55 million;
+   Actual Cost at Closing: US$ 2.73 million) The Ministry of Production Development (MoP) was to be the
+   technical counterpart for this component which was composed of three sub-components:
+
+   Subcomponent 2.1. Institutional capacity building of BICE: The project aimed to strengthen BICE’s
+   capacity to improve and expand its second-tier lending function based on international best practices
+   through (a) establishing a credit risk management unit for second-tier operations; (b) training personnel on
+   financial institution analysis; (c) enhancing the risk analysis of financial institutions supported by a software;
+   (d) enhancing the qualitative process of evaluating banks, with emphasis on risk management and internal
+   controls; (e) systematizing measurements of risks through an improved information technology (IT) platform;
+   and (f) improving the capacity of the financial department of the BICE by adding a treasury module to the
+   core IT system.
+
+   Sub-component 2.2 Technical assistance for improving the enabling environment for MSME access
+   to Finance: The project aimed to support improvement of the enabling environment through (a)
+   modernizing the borrower’s secured transactions framework; (b) strengthening the insolvency framework;
+   and (c) strengthening the public credit guarantee fund. Support under this subcomponent was to follow a
+   flexible approach to accommodate differential progress among focus areas and to include potential new
+
+                                                                                                       Page 2 of 17
+    Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+    Argentina Access to Finance for MSMEs (P159515)
+
+
+
+  activities that could arise in the financial sector reform agenda, in line with the objectives of this project. The
+  activities under this sub-component were to include drafting of a new Secured Transactions Law;
+  establishment of a modern online collateral registry and development of supporting regulations; and
+  capacity-building and awareness-raising activities. In addition, drafting amendments to the insolvency law;
+  drafting regulatory framework for insolvency practitioners; and dissemination activities to inform and train
+  key stakeholders about legislative and regulatory changes were to be implemented. Also, the project was to
+  support the public credit guarantee fund to provide partial credit guarantees directly to banks and
+  reinsurance to Mutual Guarantee Associations (SGAs).
+
+  Sub-component 2.3 Capacity building for MSMEs: This sub-component was to facilitate the
+  development of a diagnostic of the current Business Development Services (BDS) Program (Experto
+  PYME), development of online training material for MSMEs which was to become part of the new digital
+  learning platform for MSMEs, design, development, and implementation of an online and interactive
+  business service providers database; and strengthen the capacity of the MSME and Regional Development
+  Department (SEPYME)’s portal for MSMEs.
+
+  Component 3: Project management (Estimated Cost at Appraisal: US$ 0.82 million; Estimated Cost After
+  Restructuring: US$ 0.18 million; Actual Cost at Closing: US$ 0.12 million). This component was designed to
+  finance the project’s financial audits, support to coordinate, manage, implement, and supervise the project,
+  progress and results monitoring activities, and a midterm review survey to MSME beneficiaries.
+
+  Revised Components: The disbursement and institutional arrangements and financial management
+  arrangements for Component 1 were revised at the first and the second restructurings. However, the
+  principle of implementation remained unchanged while introducing the flexibility to BICE to lend to PFIs in
+  US Dollar in addition to pesos. The flow of funds arrangements was revised to meet the Borrower’s internal
+  requirements. Regarding the Component 2, some adjustments were made on activities covered under sub-
+  components 2.2. and 2.3. The activities with respect to credit guarantee fund, secured transactions
+  framework and movable collateral registry were cancelled in accordance with the Government of
+  Argentina’s changing needs. The activities related to the credit guarantee fund were already implemented
+  during the period between the approval of the project and its effectiveness through the government’s own
+  funds. Under sub-component 2.3, diagnostic of the current BDS Program and development of online
+  training material for MSME were not implemented. Instead, an SME platform and data repository were
+  developed. In addition, an action plan for the greater use of electronic credit invoicing was prepared. Please
+  see section on restructurings below for details.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost: The project cost estimated at appraisal was US$ 50 million. The actual cost at closing was
+  US$ 53.70 million. This amount includes revolving credits disbursed under Component 1 on top of the
+  proceeds of the Loan.
+
+  Financing: The project was financed through an IBRD loan. The Bank’s financing estimated at appraisal
+  was US$ 50 million. At project closing, actual disbursements reached US$ 53.70 million. The increased
+  amount is a result of revolving credits.
+
+
+
+
+                                                                                                       Page 3 of 17
+  Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+  Argentina Access to Finance for MSMEs (P159515)
+
+
+
+Borrower’s Contribution: Some Borrower’s contribution at the sub-loan level materialized, however, this
+was not measured and reported by the project.
+
+Restructurings:
+
+The project had four Level 2 restructurings:
+
+Restructuring 1-January 23, 2018: This restructuring changed the flow of funds arrangements on the
+request of the Borrower.
+
+Restructuring 2-October 4, 2018: The restructuring introduced flexibility in the light of the market
+conditions at the time for BICE to offer product to PFIs in both US Dollar and pesos. This enabled meeting
+market demand for FX-denominated loans as the interest rates in pesos were excessively high. Some
+additional activities were introduced, and some were modified under Component 2 with the overall scope
+remaining unchanged. The support under Component 2 would cover including (i) conducting a diagnostic of
+the secured transactions framework in Argentina, and based on the findings propose legal, regulatory, and
+institutional changes; (ii) conducting a diagnostic of the insolvency framework and proposing legal and
+regulatory recommendations; and (iii) strengthening of the national Partial Credit Guarantee Scheme
+(FOGAR), which started pilot operations. As part of sub-component 2.3, the project was to support
+implementation of a Central Balance Sheet Platform that would require the mandatory submission of
+companies’ financials, improving the transparency of their information, and thus contributing to improved
+bankability. In line with these adjustments, revisions were introduced in intermediate results indicators. The
+target value for the volume of bank support was decreased and the number of sub-loans by PFIs to MSMEs
+was increased. A new indicator for the Central Balance Sheet Platform was added. Indicators of the
+portfolio at risk, return on equity, and outstanding SME portfolio were deleted and moved to Project
+Operational Manual for monitoring purposes. The indicator related to the movable collateral registry was
+deleted.
+
+Restructuring 3-October 19, 2021: Project’s implementation period was extended by seven months to
+June 30, 2020. The extension was to allow BICE to complete the disbursement of the total amount
+allocated for the line of credit component and the MoP to complete the technical assistance activities under
+Component 2. Some additional revisions were introduced related to intermediate results indicators in the
+results framework. The targets for the volume of bank support and the number of sub-loans by PFIs to
+MSMEs were increased. The indicators for credit guarantee fund and secured transactions law were
+deleted. The Central Balance Sheet Platform was replaced by the agency’s new name “Data Repository
+(LUFE)”. A new indicator on Electronic Credit Invoice was introduced. The wording of other indicators was
+clarified to reflect actual activities.
+
+Restructuring 4-June 29, 2022: The implementation deadline was extended for another two months to
+August 31, 2022, for BICE to complete disbursements and allow time for delivery of laptops purchased
+under Component 2.
+
+Dates: The project was approved on November 18, 2016, and became effective almost two years later, on
+October 5, 2018. The original closing date was November 30, 2021, but it was extended by nine months in
+two restructurings (the third and the fourth). The project was closed on August 31, 2022.
+
+
+
+
+                                                                                                 Page 4 of 17
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Argentina Access to Finance for MSMEs (P159515)
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Nearly half of the firms in Argentina rate access to finance as the second major obstacle for doing business
+compared to 30 percent in LAC. It is particularly a major problem for MSMEs. Credit to MSMEs accounts for
+only 2 percent of GDP, while formal MSMEs account for at least 50 percent of GDP and generate about 71
+percent of total employment and 47 percent of total sales (PAD, p.10). Only a third of MSMEs in the
+industrial sector have had access to bank credit, and short-term working capital loans dominate this. About
+90 percent of the credit to MSMEs is short-term. In the absence of long-term finance, the MSMEs rely on
+internal funds for investments and thus have limited capacity to invest and grow.
+
+Bank Strategy: At appraisal, the project objectives aligned with the first objective of the Country
+Partnership Strategy (CPS) for the Argentine Republic (FY-15-FY18), which targeted sustained
+employment creation in farms and firms. As the project supported MSME's access to finance and improved
+business environment, it directly contributed to MSMEs’ increased productivity, profitability, and
+employment. At closing, the project's objectives remained fully aligned with the World Bank Country
+Partnership Framework (CPF) 2019–2022. The CPF highlighted the need to address the problem of access
+to long-term finance and the difficulties encountered in the financial sector in providing credit. Accordingly, it
+proposed actions to leverage private development capital, strengthen market institutions and productivity-
+led growth, and increase exports. In addition, the Performance and Learning Review of the CPF (2022)
+included the need to support MSMEs to sustain jobs during the pandemic. The changes introduced during
+the implementation, such as the flexibility to channel sub-loans to exporting MSMEs in US dollars,
+supported MSMEs in sustaining jobs and increasing exports.
+
+Country Context: The project objectives were aligned with the Government of Argentina’s priorities at
+appraisal. The government emphasized the financial infrastructure reforms and the development of
+nontraditional financial products for MSMEs as crucial issues for access to finance. These reforms included,
+among others secured transactions framework, insolvency and creditor rights, and a public guarantee
+scheme. The government’s reform agenda also included strengthening BICE's second-tier lending business
+model by providing longer-term funding to MSMEs through qualified financial institutions. The project's
+objectives remained highly consistent with the Government of Argentina’s strategies at closing. In 2021, the
+MoP adopted the Argentinian Productive Development Plan 4.0, which had, among others, the objective of
+providing support to MSMEs to adopt or develop productivity-boosting technological solutions.
+
+Previous Sector Experience: The project design benefited from lessons from the World Bank’s peer
+country projects, such as Turkey. In addition, at the design stage, the Independent Evaluation Group
+(IEG)’s review results of eight closed World Bank line of credits were considered. The lessons indicated that
+the line of credits is critical to alleviate longer-term finance to support investment growth and employment
+generation. However, they need to be complemented by policies and adequate financial infrastructure. In
+addition, for successful implementation of a line of credit, strong borrower accountability and management
+capacity, clearly defined indicators for monitoring the financial performance of PFIs, flexible project design,
+and close monitoring of the project’s impact were found to be critical elements. The project, therefore,
+included capacity building activities for BICE, support for improving financial infrastructure, and flexible
+project design. The IBRD team and the International Finance Corporation (IFC) have collaborated closely
+on the project's design. The IFC has provided technical assistance to diagnose the secured transactions
+framework (PAD, p.20.).
+
+
+                                                                                                       Page 5 of 17
+                                      Independent Evaluation Group (IEG)                         Implementation Completion Report (ICR) Review
+                                      Argentina Access to Finance for MSMEs (P159515)
+
+
+
+               According to PAD, the project was a pilot operation and was: (i) to test the role of BICE as a second-tier
+               lender with the stronger capacity to intermediate to the banking sector, the demand for longer-term
+               financing in local currency by banks as well as MSMEs, and (ii) whether, if given funding incentives, the
+               banking sector has an appetite for lending to certain segments of MSMEs that may be currently excluded,
+               such as MSMEs that employ indigenous groups or have them in their value chains, that promote gender
+               equality, or that are first-time borrowers of longer-term loans in recent years, as defined in the operational
+               manual (PAD, p. 15). However, the PDO statement was very broad, i.e., the articulation of the PDO did not
+               reflect the above-mentioned aims.
+
+               Thus, the relevance of the project's objectives is rated Substantial.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             Objective 1: To improve access to longer term finance for eligible micro, small and medium enterprises,
+
+                             Rationale
+                             Theory of Change: The casual links between project activities, outputs, and outcomes were direct.
+                             According to the theory of change, the WB would disburse the LoC of US$ 45.1 million to MoF (after
+                             restructuring to MoP), which would transfer the funds to BICE in pesos for on-lending to eligible PFIs. On-
+                             lending to the PFIs could either be in pesos or US Dollars. As output, the PFIs would get access to lines of
+                             credit to on-lend sub-loans to eligible MSMEs in pesos or in US dollars, depending on the need of the MSME.
+                             As an outcome, the MSMEs get access to longer-term sub-loans to cover their working capital and
+                             investment needs which would support them to invest and grow. BICE was expected to bear the credit risk,
+                             whereas the PFIs were expected to bear the risk of the MSMEs. The critical assumptions for the project were
+                             that the PFIs would demand the funds offered by the BICE and they would meet the eligibility criteria. The
+                             PDO indicator for this objective was to achieve a higher than 1 ratio of the average portfolio maturity of MSME
+                             sub-loans under the project over the average portfolio maturity of PFI’s MSME lending portfolio not financed
+                             under the project. It was to assess the impact of the line of LoC on the overall maturity of loans extended to
+                             MSMEs and was sound.
+
+                             Outputs:
+
+                             BICE disbursed the first credit to a PFI only six months after the effectiveness of the project due to the terms
+                             of the loans, complex environmental and social requirements, and documentation. Although the World Bank
+                             team addressed these issues, the entire credit line was disbursed in two years by four PFIs instead of four
+                             years. The project could not reach the revised target volume of BICE loans (US$ 54 million) but achieved
+                             US$ 50.8 million (including revolving funds). With respect to the number of sub-loans granted by selected
+
+                                                                                                                                Page 6 of 17
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Argentina Access to Finance for MSMEs (P159515)
+
+
+
+PFIs to MSMEs, the project achieved 162 sub-loans underachieving the revised target of 210 sub-loans.
+About 85 percent of the operations (72 percent of the resources) were used for working capital focused on
+pre-financing exports, placed in dollars, and 15 percent (28 percent) for investment in pesos. The average
+loan size for working capital loans was US$268,000, and US$537,000 for investment loans. (ICR, p.10). By
+project closing, none of the loans granted by PFIs had defaulted (zero NPL ratio). A survey for the beneficiary
+MSMEs of the LoC was conducted to assess their satisfaction level. All MSMEs participated in the survey (21
+MSMES out of 91 beneficiary MSMEs) and reported being very satisfied with accessing the credit line.
+
+Outcomes:
+
+The PFIs’ average credit loan maturity to MSMEs under the project exhibited longer terms than their
+comparable lending portfolio, evidencing improved access to longer-term finance for MSMEs (ICR, p.11). The
+average maturity of working capital loans not financed through the project was 4 months, and 31.8 months for
+investment loans. The maturities of the loans extended by the PFIs within the scope of the project reached
+6.3 months for working capital loans and 42.3 months for investment loans. The ratio of the average portfolio
+maturity of MEME sub-loans under the project over the average portfolio maturity of eligible PFIs’ MSME
+portfolio not financed under the project was 1.5, achieving the target of higher than 1. In addition, the ICR
+reports that a comparison with operations across the entire Argentina credit market made using alternative
+data sources from the Central Bank of Argentina also indicates longer maturities offered by the project (ICR,
+p.11).
+
+The credit line beneficiaries were diversified geographically and were evenly distributed among the provinces
+with a high concentration of MSMEs in Argentina. The LoC had a higher penetration in provinces with lower
+financial inclusion metrics when compared to the banking system (banks allocate more than 40 percent of
+their loan portfolio to the Federal Capital), thus having a positive impact on poverty reduction and shared
+prosperity by promoting greater access to long-term finance throughout the national territory (ICR, p. 17).
+
+Another positive outcome of the project was its impact on employment and increased sales of MSMEs in the
+context of COVID-19. Although during COVID-19, the private sector in Argentina lost more than 300,000
+formal jobs, the MSMEs that accessed working capital loans maintained their level of employment and
+increased their sales by almost 40 percent. On the other hand, the impact on the MSMEs that accessed
+investment loans could not be assessed as most of the firms in this sub-group borrowed in 2022, and the
+decisions to implement investments were yet to follow.
+
+The project’s results indicate that in the environment of macroeconomic uncertainty and the high exchange
+rate hedging costs for MSMEs, extending local currency loans at competitive rates by BICE could not be
+possible. Instead, MSMEs' demand for loans denominated in foreign currency (US Dollars) for pre-financing
+exports was relatively high, with income revenue in US Dollars contributing to Argentina’s objective of
+increasing exports. The project managed to promote gender equity by reaching out to companies managed
+by women. Around 40% of LoC beneficiary MSMEs were managed by women. This outcome significantly
+outperformed BICE’s first-tier operations, as their credit operations to women’s companies averaged 18
+percent for 2021–2022 (ICR, p.16). However, this result was not part of the results framework. On the other
+hand, the project results revealed that the outreach of the credit line to indigenous peoples proved difficult. As
+a pilot, providing a US$1 million increase in the credit line quota for PFIs to incentivize them to comply with
+social inclusion requirements was tested, but this could not attract demand. These outcomes are expected to
+shed light on future operations in Argentina and other countries with similar circumstances.
+
+
+
+                                                                                                    Page 7 of 17
+   Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+   Argentina Access to Finance for MSMEs (P159515)
+
+
+
+The project was designed as a pilot in a transitory macroeconomic environment, and the credit line
+represented less than 1 percent of the total bank credit portfolio for SMEs in Argentina. In this context, a
+change in market behavior could hardly be attributed exclusively to the credit line (ICR, p. 11).
+
+Overall, the project's efficacy in achieving the first objective is rated Substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+Objective 2: To strengthen the framework for the provision of longer-term finance for eligible micro, small and
+medium enterprises
+
+Rationale
+Theory of Change: The casual links between the project activities, outputs, and outcomes were logical. The
+project included activities such as the development of a platform to facilitate access of data by the MSMEs, a
+platform for MSMEs to share their financial data, training to BICE on strengthening their second-tier lending,
+drafting a proposal to reform insolvency framework, procurement of equipment and improving management
+systems of BICE. These activities were expected to result in outputs such as an established credit risk
+management system, document management system, contingency management system, comprehensive risk
+management system, and a risk management unit at BICE. In addition, a report on proposed changes to
+Electronic Credit Invoicing Law, a draft legislative proposal for insolvency regulatory framework, an SME
+platform, and LUFE were developed as outputs. As an outcome, this was expected to lead to MSMEs have
+better access to existing policies, and tools and increase their interaction with peers and potential clients. The
+LUFE, by regularizing, and formatting financial, economic, and accounting data of MSMEs for the use of
+financial institutions and other interested parties, improves the framework for access of MSMEs to finance.
+The draft legislation, when adopted, is expected to contribute to MSMEs' access to finance by enabling early
+collection of credits and notes receivables. The critical assumptions were the government's commitment to
+improving access to finance conditions for MSMEs continues and that BICE implements introduced
+management systems.
+
+The PDO level indicators for this objective were relatively output oriented. While activities and outputs for this
+objective were revised at the second and third restructurings, PDO indicators in the results framework
+remained unchanged.
+
+Outputs:
+
+The institutional capacity of BICE as a second-tier development bank was strengthened through training,
+management systems, and information technology platform improvement. A Comprehensive Risk
+Management System was developed to support BICE’s qualitative and quantitative risk analysis capacity. In
+addition, a Credit Management System was developed. Through the provided training capacity of second-tier
+credit line divisions was increased, and the BICE staff was informed about recent trends in environment and
+social factors that could be related to credit activities.
+
+
+                                                                                                     Page 8 of 17
+                                Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                                Argentina Access to Finance for MSMEs (P159515)
+
+
+
+                            An assessment report and proposed changes were developed concerning Electronic Credit Invoicing Law
+                            (Law 27,440). The report also included guidelines on improving e-commerce, designing a guarantee scheme
+                            related to FCE, and ensuring FCE sustainability. BICE developed an action plan to implement the suggested
+                            changes. Furthermore, BICE drafted a law to reform the insolvency regulatory framework for MSMEs, which
+                            has been submitted to the Government.
+
+                            A digital platform was designed and developed for MSMEs to share their financial, economic, and accounting
+                            data. Through the established Data Repository (LUFE), MSMEs’ data will be consolidated and regularized in
+                            a documentary format and could be submitted to financial institutions and other interested parties. This will
+                            save MSMEs time and effort and increase data regularity and transparency in the market. The ICR reports
+                            that the LUFE has also improved the relationship between the SEPYME and the MSME ecosystem,
+                            especially concerning easier decision-making and implementing evidence-based public policies (ICR, p.13).
+
+                            Outcomes:
+
+                            With the introduction of new management systems and particularly new systems related to risk management
+                            BICE has established a unit (staffed with eight personnel by the time of project closing) dedicated to
+                            comprehensive risk management. With the support of the established Credit Management system, the unit
+                            was able to evaluate and formalize the credit operations of companies and industries of different sizes. The
+                            MSME platform was developed and operated by SEPYME. The platform enabled the MSMEs to access all
+                            available programs and tools provided by SEPYME and increased interaction between MSMEs and the other
+                            relevant stakeholders. To assess the impact of the established platform, the BICE conducted a survey with
+                            the participation of 138 MSMEs. The survey results indicated that the firms that 71% of the MSMEs used the
+                            platform recommend the platform to other potential users. However, the take-up rate remained low.
+
+                            Overall, the project's efficacy in achieving the project's second objective is rated Substantial.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project’s efficacy in achieving both the first and the second objectives is Substantial. Therefore, the
+                            project’s overall efficacy is rated Substantial.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+
+                                                                                                                                Page 9 of 17
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      Argentina Access to Finance for MSMEs (P159515)
+
+
+
+5. Efficiency
+Economic and Financial Analysis:
+
+Ex-Ante Analysis: A thorough analysis was not conducted at appraisal. The PAD states that MSME sub-
+projects were to be identified by PFIS, with no limits on geography or sector; a traditional economic/financial
+analysis would not capture the potential gains from MSME investments under Component 1. Instead, positive
+quantitative results from other line of credit (Turkey) were reported as examples. An evaluation study of credit
+lines in Turkey in 2011 indicated that these credit lines helped firms undertake long-term investments enabling
+them to expand output and employment. As assessed by the client firms, a significant amount of additional
+employment has been generated due to these credit lines. A significant share of clients stated that they would
+reduce employment and output without the credits – the employment impact is around 2.6-2.7 percent of
+employment growth for SME clients (PAD, p. 22). Accordingly, taking these results into account, it was expected
+that the LoC would impact outputs and job maintenance in MSMEs through supporting access to finance.
+However, the direct employment effect was expected to be limited due to the pilot size of the operation. With
+respect to Component 2, supporting financial infrastructure reforms was expected to have significant long-term
+benefits which could not be easily captured in traditional economic and financial analysis models.
+
+Ex-post Analysis: The ICR reports that the credit line beneficiaries could sustain their level of employment and
+increase sales during the COVID-19 pandemic when massive job loss was experienced in Argentina. The
+MSMEs that accessed working capital loans in 2021 through the LoC maintained their level of employment and
+increased their sales by 39 percent (micro and small firms increased their sales by 12 percent). However, the
+ICR highlights that analyzing firms accessing investment loans is problematic as most firms in this subgroup
+borrowed in 2022, and only nine firms borrowed in 2021. Since implementing investment decisions usually takes
+time, indicative attributable impacts of such investments cannot be assessed yet (ICR, p.16). A survey among
+the beneficiaries of the investment loans could have contributed to the ex-post analysis of the project.
+
+During the implementation, some cost savings were achieved. BICE used its existing staff and infrastructure to
+implement project management activities, thus resulting in a saving of US$ 645,000. This amount was later
+transferred to Component 1, and loan resources were fully disbursed. In addition, establishing LUFE is expected
+to generate cost savings for the MSMEs as they will not have to notarize their financial statements for submitting
+a loan application. Assuming each company only makes one attempt at one bank, it is expected that the LUFE
+could save these companies approximately US$875,000 (35,000 companies multiplied by US$25 for
+notarization). If each company applied to at least two banks, the LUFE could generate savings for companies
+seeking financing of approximately US$1.75 million (ICR, p. 36).
+
+Administrative and Operational Efficiency:
+
+The significant delays in project implementation had a negative impact on administrative and operational
+efficiency. The project became effective twenty-three months after the approval due to economic and political
+crises and government transition in the country. The start of disbursements was later for another six months
+after the effectiveness. Under Component 1, the unattractive loan terms (pesos lending becoming excessively
+expensive due to substantial exchange rate depreciation), complex environmental and social requirements, and
+documentation requirements for eligible operations constituted obstacles to disbursements. As for Component 2,
+activities could start only in June 2020 due to the absence of the government’s budget allocation. With these
+delays, the disbursements were completed in two years instead of the originally planned four years. The ICR
+reports that some of the project’s targets, like several sub-loans and the volume of sub-loans by BICE, could not
+be reached because of these delays. (ICR, p. 15).
+
+
+                                                                                                    Page 10 of 17
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      Argentina Access to Finance for MSMEs (P159515)
+
+
+
+Overall, the project's efficiency is rated Modest due to a lack of financial/economic analysis and administrative
+and operational inefficiencies.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?              Point value (%)           *Coverage/Scope (%)
+                                                                                       0
+ Appraisal                                                   0
+                                                                                        Not Applicable
+                                                                                       0
+ ICR Estimate                                                0
+                                                                                        Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project objectives were substantially relevant to the country's context and the Bank's strategy. The project’s
+efficacy in achieving the first objective (to improve access to longer-term finance for eligible micro, small and
+medium enterprises) is rated Substantial. The efficacy in achieving the second objective (to strengthen the
+framework for providing longer-term finance for eligible micro, small and medium enterprises) is also rated
+Substantial. Overall efficacy rating is Substantial. The project’s efficiency is rated Modest because of the lack of
+analysis demonstrating the financial/economic efficiency of the project and significant shortcomings in
+operational and administrative efficiency. Based on these sub-ratings, the outcome is rated Moderately
+Satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+As ICR reports, the size of the credit line (less than 1 percent of the total SME credit portfolio) was relatively
+small to change the market behavior attributable to the line of credit. Nevertheless, the project contributed to
+improving the framework for providing longer-term finance to MSMEs by increasing BICE’s capacity,
+developing digital platforms for accessing information, and sharing financial data by the MSMEs. According
+to the additional information provided by the project team, the governance and institutional risk to
+development outcome is relatively low. The Central Bank of Argentina is committed to pursuing reform
+actions on using electronic credit invoicing initiated by the project and recently introduced additional
+measures to support this action further. Furthermore, building on the experience gained through this project,
+
+                                                                                                       Page 11 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Argentina Access to Finance for MSMEs (P159515)
+
+
+
+the Government of Argentina requested the WB help the country transition to a sustainable financial system
+that is aligned and contributes to the achievement of the Paris Agreement objectives and promotes access to
+sustainable financial products and services for MSMEs. The proposed project’s development objective is to
+promote access to sustainable finance for micro, small, and medium enterprises that would be implemented
+in five years. BICE will again be the project implementing agency. On the other hand, the macroeconomic
+risk to development outcome is high.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The project was strategically relevant to the Government of Argentina’s financial infrastructure reforms
+  and target of developing nontraditional financial products for MSMEs. The technical assistance and
+  capacity building components complemented the credit line. The project's technical design was overall
+  streamlined for the country and the sector; however, ambitious, particularly in the context of the
+  macroeconomic crisis and political transition. Considering the difficult macroeconomic context, the project
+  was designed flexibly to accommodate possible necessary changes during the implementation. The
+  project was a pilot; however, the PDO was not articulated in a way to reflect the testing/piloting aim of the
+  project. Particular emphasis was on the M&E framework for monitoring and evaluating the approach the
+  project was testing. But the results framework had weaknesses. Two PDO level indicators were relatively
+  output oriented. Although revised at the second and the third restructurings, the intermediate results
+  indicators did not capture the impact of the intervention fully (access to LoC by women and indigenous
+  peoples). The implementation arrangements were adequate. On the other hand, the environmental and
+  social requirements and the required documents were too complex. This resulted in the PFIs not
+  engaging in the LoC in the early years of implementation. Lastly, the economic analysis was not
+  conducted at the design stage; only lessons learned from other countries LoC experiences were
+  considered as examples.
+
+  Overall, the quality-at-entry is rated Moderately Satisfactory due to the abovementioned weaknesses.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The project team kept its focus on the development impact while closely monitoring shortcomings and
+ addressing them during the project implementation. The team benefited from flexible project design and
+ made necessary adjustments in the LoC process, enabling US Dollar lending by BICE and the PFIs. The
+ loans in US Dollars contributed to the financing of exporting MSMEs. Furthermore, the Bank simplified
+ environmental and social requirements and the documentation for eligible operations, significantly
+ facilitating disbursements. In line with the changing priorities, the activities under Component 2 were
+ revised to meet the demands of the Government. Accordingly, the results framework was modified to
+ reflect these changes. Although the indicators for women and indigenous peoples were not included in the
+
+                                                                                                    Page 12 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Argentina Access to Finance for MSMEs (P159515)
+
+
+
+ results framework, these indicators, as additional indicators related to the profile and performance of
+ MSMEs, were monitored separately by the PIU and enabled the project team to draw results out of the
+ intervention. The Bank team worked closely with BICE at the operational and technical levels and provided
+ continuous support during the implementation. The ICR reports that the World Bank support staff had a low
+ turnover rate during the implementation phase, and any reassignments did not affect the quality of
+ supervision and implementation (ICR, p.23).
+
+ Overall, the quality of supervision is rated as Satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The project was designed as a pilot, and as mentioned in the PAD, it was to test the demand for long-term
+ financing in local currency by banks and MSMEs, test the adequacy of incentives for difficult to reach
+ market segments (i.e., women and indigenous peoples) and the role of BICE as a second-tier lender. In
+ this respect, particular emphasis was on the M&E framework for monitoring and evaluating the approach
+ the project was testing. However, the PDO statement was very broad and did not specifically include these
+ aspects. In addition, the results framework was not adequately designed to capture all outcomes of the
+ PDO. Two PDO level indicators are relatively output oriented. The results framework could have been
+ strengthened by including additional indicators. For example, although the project was to test the adequacy
+ of incentives for difficult to reach market segments (i.e., women and indigenous peoples), the results
+ framework did not have any indicator which could reflect on the characteristics of the target beneficiaries. In
+ addition, indicators to assess the borrower's (MSMEs)’ repayment behavior could have strengthened the
+ framework and better tested the outcomes providing better evidence and input for future operations.
+ However, this weakness was partly compensated by monitoring additional indicators on the performance of
+ PFIs, the performance of MSMEs, the profile of MSMEs, and the profile of finance under the project by PIU,
+ which include variation in employment, sales, exports, size, economic sector and geographical location of
+ MSMEs, size, maturity, the interest rate of sub-loans. It would have been more beneficial to formally
+ include some of these indicators as part of the M&E framework and have an independent impact
+ assessment to assess these outcomes.
+
+
+
+b. M&E Implementation
+  The results framework was revised, reflecting on macroeconomic conditions (option to lend in US Dollars
+  in addition to pesos) and changing technical assistance and capacity-building needs of the borrower. The
+  Bank team and BICE worked mutually on developing the M&E strategy and the results framework. BICE
+  monitored progress in each project component and reported to the World Bank. Interviews with the
+
+                                                                                                    Page 13 of 17
+     Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+     Argentina Access to Finance for MSMEs (P159515)
+
+
+
+  MSMEs were conducted to collect input for the development of LUFE, and the MSME platform informed
+  the design of these virtual platforms. With respect to the reliability and quality of data, the data collection
+  methodology under Component 1 had some shortcomings. The project’s operation manual did not
+  specify how financial institutions were to calculate the average terms of their operations. This created
+  confusion, resulting in PFIs reporting either non-variation of the average term or no reporting. The ICR
+  reports that this fact does not detract from the credibility of the measurement of compliance with PDO 1
+  since this information was supplemented with market data (ICR, p.20). In addition, with respect to the
+  intermediate results indicator measuring the level of satisfaction by the MSMEs with the LoC, the results
+  represent 23 percent of the LoC beneficiaries and, therefore not providing substantive information.
+
+
+
+c. M&E Utilization
+  The M&E data collected regarding the project’s achievements and the results were used by project
+  management and regularly reported Implementation Status and Results Reports (ISRs) and decision-
+  making. The use of the M&E data facilitated the restructuring of the project and contributed to the
+  completion of project activities and achieving results. In addition, based on the findings of the pilot
+  project, the WB, upon the request of the Government of Argentina, will be proposing a financial
+  intermediation project again to support access of MSMEs to finance (see section Risk to Development
+  Outcome).
+
+  Overall, while the results framework was limited to capturing the outputs and outcomes of the project, it
+  was complemented by monitoring additional information.
+
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   The project was identified as a category FI (Financial Intermediary Assessment) project at appraisal. The
+   project was classified under the safeguards of Environmental Assessment (OP/BP 4.01), Natural Habitats
+   (OP/BP 4.04), Forests (OP/BP 4.36), Pest Management (OP/BP 4.09), Physical Cultural Resources (OP/BP
+   4.11), and Indigenous Peoples (OP/BP 4.10) as a precaution. Only the safeguards policies of
+   Environmental Assessment (OP/BP 4.01) and Indigenous Peoples (OP/BP 4.10) were implemented.
+   According to the ICR, when the LoC was designed, BICE did not have an Environmental and Social Risk
+   Analysis System Management Framework. With the assistance of the WB, through organizing public
+   consultations with key stakeholders such as indigenous peoples and the chamber of commerce, BICE
+   assessed the needs and expectations and developed an Environment and Social Management Framework
+   for the project (ICR, p.21). The project contributed to BICE’s updating environmental and social risk
+   management model, and this helped BICE to comply with the environmental and social requirements of
+
+                                                                                                       Page 14 of 17
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    Argentina Access to Finance for MSMEs (P159515)
+
+
+
+  other international organizations and access their credit lines. After the project closure, BICE continued to
+  provide its funds according to environmental and social eligibility criteria introduced by the project.
+
+  With respect to indigenous peoples, the ICR reports that Component 2 of the project improved conditions
+  for improving their access to finance. However, the outreach of the credit line to indigenous peoples
+  remained limited. Despite the mitigation measure of providing a US$1 million increase in the credit line
+  quota for PFIs to incentivize indigenous peoples to comply with social inclusion requirements, it was
+  insufficient to attract them (ICR, p.22). In any case, the World Bank team continued to work with BICE. It
+  provided support to identify key actors in the area, such as the National Institute of Indigenous Affairs and
+  Argentina’s Ministry of Women, Genders, and Diversity.
+
+
+
+
+b. Fiduciary Compliance
+  Financial Management: The project was the first project that the BICE acted as the implementing agency.
+  A PIU was established in BICE under Component 3 and was responsible for coordinating, managing,
+  implementing, supervising, and documenting all the project activities. Staffing, budgeting, accounting,
+  internal control, cash flow, financial reporting, and auditing consistently complied with the standards
+  required by the World Bank. Financial reports were submitted biannually, and, in accordance with the loan
+  contract provisions, an external audit reviewed the financial statements for 2017–2019, 2020, and 2021.
+  The review of the project closure financial statements was also completed without any opinion. No issues
+  of corruption or misuse of funds associated with the project were reported in the ICR. All reports were
+  submitted in a timely manner and accepted and with satisfactory quality as assessed by the World Bank
+  finance team (ICR, p.22). The loan was fully disbursed. There were no disbursements in the first two years
+  of project execution. From 2020, the project’s implementation proceeded apace due to improved
+  coordination with counterparts and adjustments to the line of credit (ICR, p.22). The Financial Management
+  was rated as Satisfactory at project closing.
+
+  Procurement: The project's procurement was conducted per the Legal Agreement and the Procurement
+  Regulations. BICE was not experienced in implementing the World Bank’s procurement rules or preparing
+  bidding documents. A procurement specialist in the PIU provided support. However, his/her recruitment
+  was delayed significantly, and the World Bank provided the required support and regular guidance to the
+  PIU. Despite these challenges, the procurement activities were completed successfully. Within the scope
+  of the project, procurement of services for sixty-six consultants and twenty-six processes were initiated for
+  the acquisition of goods and non-consulting services and systems. The Procurement was rated as
+  Moderately Satisfactory at project closing.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+  None.
+
+
+
+d. Other
+
+
+                                                                                                   Page 15 of 17
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Argentina Access to Finance for MSMEs (P159515)
+
+
+
+   None.
+
+
+
+11. Ratings
+                                                                                   Reason for
+Ratings                          ICR                    IEG
+                                                                                   Disagreements/Comment
+                                 Moderately
+Outcome                                                Moderately Satisfactory
+                                 Satisfactory
+                                                                                   Due to shortcomings of quality at
+Bank Performance                 Satisfactory          Moderately Satisfactory
+                                                                                   entry
+                                                                                   Due to weaknesses in the PDO
+Quality of M&E                   Substantial           Modest
+                                                                                   indicators
+Quality of ICR                   ---                   Substantial
+
+
+12. Lessons
+
+This ICR Review draws the following lessons from the ICR of this project (pages 24-25)
+
+-Flexibility of line of credit conditions can increase the project’s capacity to adapt to
+changing environment in the country or globally during the implementation. In the case of the
+project, the flexibility in the project design enabled the project team to adjust LoC terms and revise
+the project activities in line with the changing needs of the borrower. Without the option to disburse
+funds in US Dollars, the LoC could not be utilized entirely in pesos in high inflation and interest rates.
+
+-Clear and simple eligibility rules can facilitate application for an LoC. In the case of the
+project, one of the reasons for the delayed utilization of funds was the lack of clarity and complexity
+of the eligibility rules. Once clarified and coupled with simplified documentation, the appetite for PFIs
+improved. With respect to the environmental and social requirements, compliance with them and
+strengthened institutional capacity helped BICE access the credit lines of various international
+organizations.
+
+-Technical assistance components in financial intermediary projects can have more impact
+than a line of credit per se. The project experience showed that even small amounts of technical
+assistance components could contribute positively to reform processes by increasing institutional
+capacities, reducing information asymmetries, strengthening communication among stakeholders,
+and thus facilitating access to finance.
+
+The IEG also draws the following lesson on monitoring the outcomes of access to finance projects,
+including LoCs:
+
+-Conducting independent assessments regarding the economic/financial impact of the LoC
+on the final borrowers can strengthen the evidence on impact as well as provide additional
+input for the design of future LoC projects in other client countries. In addition, indicators such
+as access to finance by women and indigenous communities and other excluded segments in the
+results framework can help assess the outcomes of the LoC on social inclusion. The project’s M&E
+
+                                                                                                      Page 16 of 17
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       Argentina Access to Finance for MSMEs (P159515)
+
+
+
+system was weak concerning these areas; some additional information was collected in an ad hoc
+manner by the PIU.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provides a detailed overview of the project. It is candid in explaining the issues encountered at
+different phases of implementation. The report is concise and follows most of the guidelines. It is internally
+consistent. There is a logical linking of the various parts of the report. The ICR provides evidence based on the
+measurement of the indicators in the results framework as well as the additional indicators monitored by the
+PIU. The report adequately follows the Bank guidance with regard to ratings. The project achieved a majority of
+its expected outputs and outcomes. However, the ICR does not discuss whether the evidence regarding these
+achievements was sufficient to test conditions and inform a further decision for future LoC operations. This
+issue was clarified at the meeting, and the additional written information was provided by the project team. The
+assessment of the achievement of PDO was made on the compound PDO statement without parsing it. The
+discussion in the Lessons and Recommendations section is clear, helpful, and based on the evidence outlined
+in the ICR.
+
+
+
+Overall, the quality of ICR is rated Substantial.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                   Page 17 of 17
+

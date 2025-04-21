@@ -1,0 +1,1135 @@
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     VN-Distribution Efficiency Project (P125996)
+
+
+
+                                                                                   Report Number: ICRR0021771
+
+1. Project Data
+
+
+
+ Project ID                                   Project Name
+ P125996                                      VN-Distribution Efficiency Project
+
+ Country                                      Practice Area(Lead)
+ Vietnam                                      Energy & Extractives
+
+
+ L/C/TF Number(s)                             Closing Date (Original)               Total Project Cost (USD)
+ IDA-51560,TF-13456,TF-13468                  31-Dec-2018                                        439,004,299.90
+
+ Bank Approval Date                           Closing Date (Actual)
+ 11-Sep-2012                                  31-Dec-2018
+
+                                              IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                                478,900,000.00                                37,975,402.18
+
+ Revised Commitment                                 473,874,989.34                                27,320,691.52
+
+ Actual                                             439,004,299.90                                25,119,022.87
+
+
+
+
+ Prepared by                  Reviewed by                    ICR Review Coordinator        Group
+ Fernando Manibog             J. W. van Holst                Ramachandra Jammi             IEGSD (Unit 4)
+                              Pellekaan
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+
+
+   The project development objective (PDO) is “to improve the performance of the Recipient’s Power
+   Corporations in providing quality and reliable electricity services, and to reduce greenhouse gas emissions
+   through demand side response and efficiency gains.” (Financing Agreement dated November 8, Schedule 1,
+   page 6)
+
+
+                                                                                                    Page 1 of 21
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     VN-Distribution Efficiency Project (P125996)
+
+
+
+   For the purposes of this ICR Review, the following three sub-objectives within the PDO will be assessed
+   separately. The three sub-objectives are relevant in the context of an integrated, interconnected infrastructure
+   investment, thus making it technically inaccurate to create a full separate theory of change for each sub-
+   objective:
+
+   Sub-objective 1 (referred to as Objective 1 in Section 4): “To improve the performance of the recipient’s power
+   corporations in providing quality electricity services”. Providing quality electricity services meant reducing
+   voltage fluctuations.
+
+   Sub-objective 2 (referred to as Objective 2 in Section 4): “To improve the performance of the recipient’s power
+   corporations in providing reliable electricity services”. Providing reliable electricity services meant reducing the
+   duration and frequency of planned and unplanned outages.
+
+   Sub-objective 3 (referred to as Objective 3 in Section 4): “To reduce greenhouse gas emissions through
+   demand side response and efficiency gains”.
+
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project had three main components:
+
+   Component A: System Expansion and Reinforcement
+
+   (Appraisal estimate, US$694.4 million; actual cost, US$561.17 million)
+
+   This component was to support the construction and reinforcement of 110 kilovolt (kV), medium voltage
+   (MV) and low voltage (LV) electricity distribution networks, including substations, of the Power Corporations
+   (PCs), in order to meet load growth, address load supply constraints, reduce losses and improve reliability
+   and quality of supply.
+
+   Component B: Introduction of Smart Grid Technologies in Distribution
+
+   (Appraisal estimate, US$95.5 million; actual cost, US$53.07 million)
+
+   This component was to support energy efficiency improvements, which translate into lower carbon
+   emissions from energy generation, through: (i) automation of the PCs’ electricity distribution network
+   operations and data collection, through the introduction of supervisory control and data acquisition (SCADA)
+   systems; and (ii) introduction of Advanced Metering Infrastructure (AMI) systems, including two-way
+   communications systems, as smart grid technologies for key substations and consumers of selected PCs.
+
+
+
+                                                                                                       Page 2 of 21
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     VN-Distribution Efficiency Project (P125996)
+
+
+
+   Component C: Technical Assistance and Capacity-Building
+
+   (Appraisal estimate, US$10.5 million; actual cost, US$5.56 million)
+
+   This component was intended to support two main activities: (i) technical assistance and capacity-building
+   for Electricity Regulatory Authority of Vietnam (ERAV) to improve its efficiency in tariff-setting, incorporation
+   of smart grid technologies and renewable energy in the grid, preparation of distribution codes, development
+   of demand response and smart grid programs, and project management and monitoring and evaluation
+   (M&E); and (ii) technical assistance and capacity-building to assist the PCs in project implementation,
+   financial modeling and planning, customer surveys and improving customer satisfaction, implementation of
+   AMI systems, programs to promote efficient electricity use, and project M&E.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost. The original amount approved was US$800.4 million. The actual cost at completion was US$
+   619.3 million.
+
+   Financing. At appraisal, the financing commitments were US$448.9 million equivalent from IDA, US$30
+   million from the Clean Technology Fund (CTF), and US$8 million from the AusAID Trust Fund. At project
+   closing, the project was financed by IDA (US$413.86 million), the Clean Technology Fund (US$19.88
+   million), and AusAID (US$4.75 million).
+
+   Borrower Contribution. At appraisal, the Borrower committed US$313.5 million. At project closing, the
+   Borrower had provided US$180.81 million in counterpart financing.
+
+   Dates. The project was approved on September 11,2012 and declared effective about five months later on
+   February 7, 2013. A mid-term review was conducted on October 19, 2015. The project underwent a Level 2
+   restructuring that was approved on June 23, 2016, in response to the request from the State Bank of
+   Vietnam (SBV) to remove the project's performance indicators from the Legal Agreements and placed them
+   in the relevant project manuals. The original closing date was December 31, 2018 and the project closed on
+   that date, without any extensions.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+
+
+Country Context
+
+According to the Implementation Completion and Results Report (ICR, paras 1 to 3), Vietnam emerged
+from its status as a lower-middle-income, primarily rural agricultural economy in 2009, by which time it had
+transformed itself by the project’s appraisal in 2012 into a mixed economy with rapid growth in commercial
+
+                                                                                                       Page 3 of 21
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     VN-Distribution Efficiency Project (P125996)
+
+
+
+and industrial activities. In 2011, the country’s GDP growth was 5.1 percent, per capita income had reached
+US$1,515, and the poverty rate had fallen to 14.2 percent. By 2012, however, Vietnam was finding it harder
+to maintain high levels of growth because of periods of macroeconomic instability with high inflation levels,
+currency volatility and depreciation, and signs of significant internal capital flight. To address the structural
+drivers of macroeconomic instability and enhance the economy’s efficiency, the Government of Vietnam
+(GOV) defined its 2011-2020 vision through its Socio-Economic Development Strategy (SEDS). The overall
+goal of the SEDS was to “lay the foundation for a modern, industrialized society by 2020.” (para 3) This
+provided the national policy context for the project.
+
+Sector Context
+
+According to the Project Appraisal Document (PAD, paras 5 and 9), at the time of project appraisal in 2012,
+Vietnam was experiencing challenges in achieving energy security and sustainable growth in its electricity
+sector because of rapid urbanization, large increases in energy consumption in part due to the success of
+its own electricity access program, improvements in living standards, and growing industrialization. In the
+15-year period between 1995 and 2010, household electricity access increased from 50 percent to over 96
+percent, while annual per capital electricity consumption grew more than six times from 156 kilowatt-hour
+(KWh) to about 983 kWh. Industrial energy consumption was also growing at a faster rate than the national
+average. Meanwhile, power sector investments were insufficient to meet demand growth, resulting in load
+shedding particularly during periods of peak demand and dry hydrology. At the same time, greenhouse gas
+(GHG) emissions had more than doubled, with the industry, power and transport sectors expected to
+account for most of the future increases.
+
+To support economic growth and poverty reduction, the main challenge in the power sector is to increase
+the quantity, quality and reliability of electricity supplies at competitive costs(PAD, para 10). Vietnam
+Electricity (EVN), the state-owned utility, is a holding company established in 2010 that has five subsidiary
+power corporations (PCs) responsible for 110-Volt electricity distribution and retail supply services in their
+franchise areas:
+
+        Hanoi Power Corporation (HNPC)
+        Northern Power Corporation (NPC)
+        Central Power Corporation (CPC)
+        Southern Power Corporation (SPC)
+        Ho Chi Minh Power Corporation (HCMPC)
+
+In 2011, the PCs faced major hurdles in providing high quality and reliable electricity services. As explained
+in the ICR (para 9), the PCs inherited the low-voltage networks previously owned by local distribution units,
+which had low supply quality and high technical losses, and needed rehabilitation. The PCs also lacked
+modern tools to capture and analyze system reliability and were manually recording outage data. They had
+no call centers to attend to customer queries or complaints. At project appraisal, manual calculations—
+which were being used to estimate the System Average Interruption Duration Index (SAIDI) and System
+Average Interruption Frequency Index (SAIFI) levels in each PC—found that distribution losses (technical)
+were high and increasing steadily. These challenging sector conditions led the Government of Vietnam
+(GOV) to recognize the need for modernizing the country’s power system if its goals of energy security and
+power sector efficiency were to be achieved.
+
+Government Strategy
+
+
+                                                                                                       Page 4 of 21
+                       Independent Evaluation Group (IEG)              Implementation Completion Report (ICR) Review
+                       VN-Distribution Efficiency Project (P125996)
+
+
+
+At appraisal, the project’s objectives were highly relevant to the Government’s electricity sector strategy.
+GOV’s Power Development Master Plan identified the power sector investments needed to achieve reliable
+supply for the next 5 to 10 years. The Plan also called for the development of a smart grid road map for
+transmission and distribution (T&D). To achieve secure electricity supplies at the lowest possible costs, the
+expansion and upgrading of the distribution system, combined with modernization and enhancement of
+planning and operation of the PCs’ systems, were critically needed. Consequently, the GOV requested
+financial and technical support for the five PCs to improve distribution system efficiency and business
+operations and support ERAV’s regulatory activities.
+
+The project’s objectives remain highly relevant to the GOV’s current strategy. With the goal of laying the
+foundation for modern, industrialized society by 2020, SEDS identified three ‘breakthrough areas’, one of
+which was infrastructure development. SEDS calls for quick development of electricity sources and
+completion of the electricity network system together with the use of energy saving technologies to
+guarantee sufficient provision of electricity to meet demand. Concurrently, the Socio-Economic
+Development Plan (SEDP) 2011–2015 elaborated SEDS' objectives by identifying measures and resources
+for implementation. One of SEDP’s major targets is that “The energy consumption based on GDP will be
+cut 2.5–3 percent annually”; and one of its tasks is “…assuring energy security, while effectively controlling
+energy consumption demands.” (ICR, para 12) More specifically, this SEDP target refers to energy
+consumption per unit of GDP, or the energy intensity of the Vietnamese economy over time. The SEDP
+included this target, which was adopted by the Vietnamese National Assembly in November 2011, based
+on technical analysis of past trends and future projections of energy demand, taking into account the
+Government’s policies and plans. Actual energy consumption per unit of GDP has been decreasing from
+0.8 kWh in 2010 to 0.71 kWh in 2015, as reported in the latest SEDP for 2016-2020. Finally, the Vietnam’s
+Prime Minister’s decision approving the National Economic Development Strategy (NEDS) through to 2020
+called for, among other things, adequate supply of high-quality energy and the efficient use of domestic
+energy resources. The decisions in the NEDS included reducing investment needs in the power sector,
+strengthening energy security, controlling and mitigating environmental pollution in energy activities, and
+fostering socioeconomic sustainable development.
+
+Bank Strategy
+
+At the time of appraisal, the project’s objectives were highly relevant to the World Bank Country Partnership
+Strategy (CPS) 2012–2016. CPS Pillar 1 on competitiveness would address the low quality of key
+infrastructure services due to inefficiencies in power distribution and transmission, among others, while
+Pillar 2 on sustainability would address pollution control.
+
+The project’s objectives are also highly relevant to the current World Bank’s Country Partnership
+Framework (CPF) for Vietnam (2018–2022), which sets as its Objective No. 9 (Focus area 3) the promotion
+of low carbon energy generation and the reduction of greenhouse gas (GHG) emissions by improving the
+efficiency and reliability of electricity supply in Vietnam. The reduction in losses from the project’s system
+expansion and reinforcement, the energy improvements from the roll-out of smart grid technologies, and the
+capacity-building of ERAV and the PCs in the areas of smart grid programs, renewable energy and energy
+efficiency – are all highly consistent with improving distribution efficiency, thus requiring less generation fuel
+inputs, and leading to the goals of low carbon energy generation and reduction in GHG emissions.
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+
+                                                                                                       Page 5 of 21
+                      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                      VN-Distribution Efficiency Project (P125996)
+
+
+
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                OBJECTIVE 1
+                Objective
+
+                To improve the performance of the recipient’s power corporations in providing quality electricity services
+
+                Rationale
+
+
+                Theory of Change
+
+                As indicated earlier in Section 2(a), the project development objective (PDO) is “to improve the performance
+                of the Recipient’s Power Corporations in providing quality and reliable electricity services, and to reduce
+                greenhouse gas emissions through demand side response and efficiency gains.” For the purposes of this ICR
+                Review, the efficacy of the three sub-objectives (referred to in this Section as Objectives) of quality, reliability,
+                and reduction in greenhouse gas emissions will be assessed separately. Nevertheless, since the three sub-
+                objectives operate together in the context of an integrated, interconnected infrastructure investment, it is
+                technically inaccurate and inappropriate to create a separate theory of change for each of them.
+
+                Improving the quality of electricity services (meaning reducing voltage fluctuations) in Vietnam required the
+                new construction or rehabilitation of 110-V, MV and LV substations and electricity distribution networks
+                managed by the five PCs. The theory of change was that these investments would help the PCs to efficiently
+                meet the anticipated growth in electricity demand with less fluctuations in voltage, reduced supply constraints
+                due to system congestion, greater reliability, less electricity system losses, and a positive demand response
+                in terms of more efficient electricity use, thus contributing to the reduction in greenhouse gas emissions
+                (GHGs).
+
+                The project’s components and corresponding activities were comprehensive for achieving the
+                project's objectives. The resulting outputs from each component are logically and causally connected to the
+                achievement of the intermediate and final outcomes. The technical indicators were all appropriate and
+                adequate for measuring the extent to which each objective was achieved.
+
+                The energy system technologies are well known, hence the project’s system expansion and reinforcement, as
+                well as its smart grid technologies for electricity distribution, can be expected to directly deliver the physical
+                targets under the project. Figure 1 of the ICR is well designed and articulated (although some lines were
+                garbled in the third box under the second column, specifically the last three lines of the description of the 25
+                legal documents). The critical assumptions on the need for a stable macroeconomic environment, efficient
+                implementation, and adequate tariff structure, were all relevant; however, institutional capacity factors appear
+                to be missing, which would be important to indicate given the institutional strengthening needs of ERAV and
+                the PCs that were to be supported by the project’s Component 3.
+
+
+                                                                                                                       Page 6 of 21
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   VN-Distribution Efficiency Project (P125996)
+
+
+
+Overall, the project’s theory of change was robust and measurable, and readily translatable into a monitoring
+and evaluation (M&E) framework.
+
+Outputs
+
+      8,587 km of 110-kilovolt (kV), medium voltage (MV) and low voltage (LV) lines were newly constructed
+         or reinforced.
+      4,742 MVA of 110-kV, MV and LV substations were newly constructed or reinforced.
+
+Outcomes
+
+The ICR (paragraph 35, pages 15 to 16) define “quality” as “a steady supply voltage that stays within a
+prescribed range. Hence, the project’s outcomes were to be measured by the following indicators: (a) number
+per year of voltage excursions outside +/−5% at the outlet of 110 kV substations in the project area, (b)
+percentage of total losses in the project areas per year, and (c) annual reduction in GWh of electricity
+consumption by PC customers with the Advanced Metering Infrastructure (AMI) compared to the Business As
+Usual (BAU) scenario without the project.
+
+The quantitative evidence shows that the targets for measuring PDO 1’s outcomes were nearly all
+exceeded. The detailed Table 3 of the ICR (pages 14 to 15) provides the data for the five PCs. The highlights
+are:
+
+      The reduction in the percentage of distribution losses exceeded the targeted reductions by 1.6 to a
+         high of 7.5 percentage points, across the five PCs. EVN’s 2017 Annual Report also indicated that total
+         losses were reduced during the project period: “The power losses of the entire power system fell to
+         7.57 percent from 7.94 percent in 2015.” (ICR, para 37) According to the ICR, most of this reduction
+         came from the distribution system, hence supporting the assumed attribution of the reduced losses
+         recorded to the project’s new construction and reinforcement of substations. In 2016, EVN’s
+         distribution loss rate decreased further to 5.21 percent.
+        The reduction in the number of +/- 5% voltage fluctuations (per customer per year, when the voltage is
+         outside the prescribed range) met the target for the PCs, except for SPC, which exceeded the target
+         (4.00 targeted and 0.0005 achieved, in terms of number of fluctuations in a year as defined). SPC
+         installed Automatic Voltage Regulators in addition, hence voltage excursions were almost nil at project
+         completion.
+        The reduction in GWh of electricity consumption with advanced metering infrastructure (AMI)
+         exceeded targets for all the five PCs. The combined annual reduction for NPC, HCMPC, HNPC and
+         CPC is 448.5 GWh, thus exceeding the target of 414.5 GWh. The baseline is zero GWh without AMI
+         under the BAU scenario. SPC is not in this list as it did not procure smart meters; SPC only procured
+         the Metering Data Management System (MDMS) under the project to synchronize with the other PCs.
+        Regular customer service surveys have also shown consistent improvement of EVN’s services and
+         steadily increasing customer satisfaction indices in the project areas over the project’s lifetime. The
+         surveys included all classes of customers (residential, commercial, industrial) and questions related to
+         power supply quality, billing, communication, customer service, tariff awareness and customer
+         consensus. The data collection methods included face-to-face in-depth interviews, focus groups, and
+         questionnaires.
+        The call centers (see Outcomes under Objective 3 below) provide a channel for PCs to directly
+         interact with consumers, promptly deal with incidents and inefficiency of the system. The benefits were
+
+                                                                                                   Page 7 of 21
+   Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+   VN-Distribution Efficiency Project (P125996)
+
+
+
+           manifested in terms of reduced outage times, as the PCs can quickly react to consumer complaints.
+           This also had a material impact on GHG emission reductions.
+
+There is a high degree of attribution of project outcomes to its inputs, activities and outputs. According to the
+ICR team (October 22, 2019 email to IEG), the baseline values were determined taking into account the
+infrastructure that was already in place, hence existing infrastructure at the time of appraisal were not a factor
+in the eventual results. The incremental targets were determined based on the expected results from the
+planned additional technical interventions, while also benchmarking with comparable countries in the ASEAN
+region. Moreover, the ICR team also certified that there were no other similar projects that were being
+implemented in the project areas covered by the Distribution Efficiency Project that might have influenced the
+final results. The ICR team clarified that the project showed higher results that expected due to several
+reasons:
+
+        More subprojects were implemented than planned due to prudent procurement practices, thus
+           achieving higher results than estimated initially;
+          Consumer behavior improved due to (i) real time receipt of information on their electricity use and (ii)
+           the use of demand response pilots to encourage reductions in consumption (ICR, para 38);
+          Behavior of operators also improved due to the real time receipt of network information on SAIDI and
+           SAIFI figures (discussed in more detail under Objective 2 below);
+          The provision of an adequate legal framework incentivized the PCs to improve their overall
+           performance; and
+          Training and study tours improved the behavior of PC operators with respect to planned maintenance,
+           thus avoiding unnecessary outages.
+
+
+
+Rating
+High
+
+
+OBJECTIVE 2
+Objective
+
+To improve the performance of the recipient’s power corporations in providing reliable electricity services
+
+
+Rationale
+The theory of change presented under Objective 1 above also applies to Objective 2, for which the results are
+assessed below.
+
+Outputs
+
+        2 automated SCADA systems were installed and upgraded. The project funded SCADA only for
+           HCMPC and SPC. HNPC already had a SCADA system, while both NPC and CPC had mini-SCADA
+           systems in several provinces, which they upgraded using their own funds. [Note that SAIFI and SAIDI
+           indices (as discussed immediate below under Outcomes) are measures of the frequency and duration
+           of outages in the electricity network, as experienced by the consumer, whereas SCADA systems
+
+                                                                                                     Page 8 of 21
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   VN-Distribution Efficiency Project (P125996)
+
+
+
+       provide data used toward the calculation of these indices. SCADA systems also provide the PCs with
+       a real-time view of the MV systems, thus helping the grid operators to identify instantly the location of
+       faults within the MV system and enable them to react quickly in order to reduce the SAIDI figures. In
+       sum, a well-operating SCADA assists the PCs with network visibility and maintenance that in turn
+       contribute to the reduction of SAIDI and SAIFI figures.]
+      125,450 smart meters were installed. Smart meters and the MDMS (discussed immediately below)
+       comprise the Advanced Metering Infrastructure (AMI). These were installed for all targeted PC
+       consumers, including commercial customers and household consumers with consumption between
+       500 to 2,000 kWh per month. The baseline was the actual 2011 sales by the PCs to the customers
+       where AMI (i.e., a combination of smart meters and MDMS) would be implemented. The business-as-
+       usual (BAU) scenario was determined from the baseline plus forecasted demand growth. Once the
+       AMI was installed, the reduction in consumption would be seen from the total of the consumer’s bills
+       compared to the BAU scenario.
+      5 Meter Data Management Systems (MDMS) were installed in each of the 5 PCs. The MDMS stores
+       and processes the interval load data from multiple Head-End Systems (HESs) to perform further
+       processing such as billing, validation, editing and estimation (VEE). The consumption data are
+       aggregated in different forms according to the requirements of the upper-layer applications, including
+       multi-point data aggregation, metering data, and aggregation of consumption based on tariff structure,
+       critical peak pricing (CPP). The MDMS enables bidirectional communication with HES, including
+       outage data, disconnection/reconnection and load control. The MDMS provided a platform for the PCs
+       to quickly aggregate data on consumers consumption to provide reports on consumption reduction;
+       moreover, load analytics and control provided the PCs with information to improve their supply
+       service. In addition, timely and accurate provision of consumption and billing information to the
+       consumer motivates them to adjust their consumption behavior.
+
+Outcomes
+
+The quantitative evidence shows that achievement of reliability in the PC distribution system by reducing the
+duration and frequency of planned and unplanned outages as measured by SAIDI and SAIFI exceeded the
+targets. The details of the project’s performance were:
+
+      The improvements in the System Average Interruption Duration Index (SAIDI) exceeded targets by
+       significant amounts as summarized in Table 3 of the ICR. For example, the duration of interruptions
+       (per year for all customers) for SPC decreased from the December 2011 baseline of 6,958 minutes
+       and target of 5,525 minutes -- to the 599 minutes achieved by December 2018, representing a major
+       reduction of 4,927 minutes compared to the target. Based on the same timeframes: for NPC, the
+       baseline, target and actual figures were 5,145, 4,656 and 989 minutes, respectively, which also shows
+       a large reduction of 3,667 minutes compared to the target. For CPC, the baseline, target and actual
+       figures were 3,631, 3,234 and 1,027 minutes, respectively, indicating a large reduction of 2,207
+       minutes compared to the target. Lower numbers were achieved for HCMPC and HNPC, while still
+       marginally exceeding their respective targets.
+      The improvements in the System Average Interruption Frequency Index (SAIFI) were also significant
+       and exceeded targets in reducing the number of power interruptions, e.g., from the 20.95 targeted in
+       December 2011 to 9.11 achieved in December 2018 for CPC, and the 21.60 targeted and 3.23
+       achieved for SPC in the same timeframe. Lower numbers were achieved for the three other PCs,
+       while still exceeding their respective targets. [Note that for the foregoing SAIDI and SAIFI results, the
+
+
+
+                                                                                                  Page 9 of 21
+   Independent Evaluation Group (IEG)                                   Implementation Completion Report (ICR) Review
+   VN-Distribution Efficiency Project (P125996)
+
+
+
+           targets were determined based on the expected results of the planned investments and activities
+           under the project, while benchmarking with regional peers within ASEAN.
+          EVN’s 2017 Annual Report indicated that the SAIDI and SAIFI for Vietnam were reduced during the
+           project period: “A noteworthy improvement in the power supply quality was seen in 2016. The System
+           Average Interruption Duration Index (SAIDI) remarkably declined to 1,651 minutes per customer in
+           2016 from 2,281 minutes in 2015. The System Average Interruption Frequency Index (SAIFI) dropped
+           to only 10.6 times per customer (in 2016), equivalent to a 21% decrease as compared to 2015. The
+           Momentary Average Interruption Frequency Index (MAIFI) (comparing 2016 to 2015 figures)
+           experienced a considerable decrease of 28.7% to 1.51 times per customer.”
+          Beyond the PDO outcome indicators, a broader outcome of accurately measuring SAIDI and SAIFI is
+           the increased awareness of network operators of the benefits resulting from management, technical
+           and behavioral changes, which can lead to improved efficiency of network operations.
+          In terms of sustainability, given the success of the SAIDI and SAIFI interventions, the EVN
+           incorporated institution-wide the collection of outage data and reliability indices into their daily routine
+           at an institutional level. During 2014, the EVN formally announced that the SAIDI and SAIFI indices
+           will be used going forward to assess the performance of the PCs, which provides further incentive for
+           the PCs to ensure efficient use of the tools and information to improve network performance.
+          The call centers (see Outcomes under Objective 3 below) provide a channel for PCs to directly
+           interact with consumers, promptly deal with incidents and inefficiency of the system. The benefits were
+           manifested in terms of reduced outage times, as the PCs can quickly react to consumer complaints.
+           This also had a material impact on GHG emission reductions.
+
+The conclusion from these measures is that the reliability of electricity services to customers in the five project
+PCs has improved considerably during the project’s implementation. Attribution to the project is high based
+on the same discussion provided at the end of Objective 1 above. Briefly stated, the baseline values were
+determined taking into account the infrastructure already in place, hence the incremental outputs and
+outcomes resulted directly from the incremental investments and activities supported by the project.
+
+
+
+Rating
+High
+
+
+OBJECTIVE 3
+Objective
+
+To reduce greenhouse gas emissions through demand side response and efficiency gains
+
+Rationale
+The theory of change presented under Objective 1 above also applies to Objective 2, for which the results are
+assessed below.
+
+Outputs
+
+        25 legal documents were drafted and/or issued, including improved efficiency in electricity tariffs,
+           incorporation of smart grid technologies in the grid and distribution codes, regulations for smart grids,
+
+                                                                                                        Page 10 of 21
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   VN-Distribution Efficiency Project (P125996)
+
+
+
+       grid-integrated renewable energy, efficient pricing, and demand response programs. Several
+       examples of the contributions of these legal documents to the achievement of the project’s objectives
+       are provided under Outcomes below.
+      5 call centers were installed at the power corporations to respond to calls from electricity customers.
+      25 training courses and study tours were provided.
+      12 studies and surveys were conducted.
+
+Outcomes
+
+      The avoided GHG emissions (in tons CO2/year) exceeded the targeted levels for all the five PCs,
+       ranging from 10,907 tons CO2/year higher than targeted for CPC to 53,219 tons CO2/year for
+       NPC. The combined avoided GHG emissions for NPC, HCMPC, HNPC and CPC amount to 365,707
+       tons CO2/year, compared to a target of 269,148 tons CO2/year and a zero baseline.
+      The 25 legal documents also had beneficial outcomes, of which the significant ones include the
+       following, according to the ICR Team (October 22, 2019 email):
+
+(a) Demand Response (DR) Program. One of the 25 legal documents resulted in the issuance of Circular
+23/2017/TT-BCT dated November 16, 2017 on Incentive Mechanism for Demand Response (DR) Program.
+This decision was prompted by a TA subproject intended to support ERAV in: (i) the implementation of pilot
+demand response programs for PCs; and (ii) the testing of incentive mechanisms, implementation procedures
+of DR programs, and cooperation among PCs, consumers and stakeholders when operating a DR program.
+The DR programs would assist the PCs to register reduced consumption and hence contribute to Objective 1
+of the project.
+
+The pilot DR program was implemented in the management territory of HCMPC. ERAV cooperated with the
+consultant and HCMPC organized technical and marketing workshops to introduce benefits as well as all
+contents of the pilot DR programs to consumers. In addition, ERAV, the consultants and HCMPC organized
+face-to-face meetings with consumers to understand their thoughts and comments and explain to them
+contents related to the pilot DR programs. Those workshops and meetings were effective in convincing
+consumers to participate the pilot DR programs.
+
+The pilot DR programs were implemented successfully. With the active participation of consumers,
+consumption behavior during peak hours adjusted downwards and consumption reductions were realized.
+Thus, this activity had a direct impact on achievement of reduced consumption by consumers, which
+contributed to reducing GHG emission emissions.
+
+(b) The legal documents also contributed to developing improved regulations, by revising Technical Codes,
+Standards and Procedures on incorporating smart grids and integrating renewable energy generation. This
+created a favorable environment for using clean energy to replace fossil fuel energy. This had material impact
+on GHG emission reduction.
+
+(c) The legal activities also contributed to supporting ERAV in finalization of BST mechanisms in the transition
+to wholesale competitive market. This was implemented under the TA sub-project “BST Transition and Loss
+Reduction Incentive”. The objective of this TA was to provide a transition path for the BST to support more
+efficient pricing and loss reduction by PCs in the context of the wholesale competitive market and develop a
+mechanism to provide an incentive for distribution networks to reduce network losses.
+
+
+
+                                                                                                 Page 11 of 21
+                                Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                                VN-Distribution Efficiency Project (P125996)
+
+
+
+                            (d) ERAV developed and submitted to MOIT for issuance, the official document No. 11933/BCT-DTDL dated
+                            December 19, 2017, which provided guidance for EVN in developing 2018 BST framework for PCs. The legal
+                            document outlined a mechanism that provides incentives for distribution networks to reduce network losses
+                            for PCs. This contributed to incentivizing PCs to focus on reducing losses (thus directly supporting Objective
+                            1 of the project), which also had a material impact on GHG emission reduction.
+
+                                    The call centers provide a channel for PCs to directly interact with consumers, promptly deal with
+                                     incidents and inefficiency of the system. The benefits were manifested in terms of reduced outage
+                                     times (thus directly supporting Objective 2 of the project), as the PCs can quickly react to consumer
+                                     complaints. This also had a material impact on GHG emission reductions.
+                                    The training courses and study tours were also focused on enhancing performance and efficiency of
+                                     PCs, load research, DR, smart grid, electricity tariff for DR programs, integration of renewable energy
+                                     into national grid, enhancing technical code efficiency, etc. The training courses and study tours have
+                                     been evaluated and the results demonstrated improved staff capacity.
+
+                            Attribution to the project is high. As explained in greater detail at the end of Objective 1 above, the baseline
+                            values were determined taking into account the infrastructure already in place, hence the incremental outputs
+                            and outcomes resulted directly from the incremental investments and activities supported by the project,
+
+
+
+                            Rating
+                            High
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+
+
+                            The project's efficacy in achieving each of the three objectives is high. Targets were mostly exceeded, with
+                            only a few being fully met. No target was partially achieved or not achieved.
+
+
+
+                            Overall Efficacy Rating
+                            High
+
+
+
+   5. Efficiency
+   Economic and Financial Efficiency
+
+   Out of 99 subprojects planned at appraisal for the two-phased implementation, a total of 177 were actually
+   implemented, thus significantly exceeding by 180 percent the number that the PCs originally proposed. At the
+   project completion stage, economic and financial analyses were conducted for 174 out of 177 sub-projects
+
+                                                                                                                              Page 12 of 21
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       VN-Distribution Efficiency Project (P125996)
+
+
+
+under Components A and B, accounting for 76.2 percent (US$609.8 million) of the total project cost at the
+appraisal stage (US$800.4 million) and 98.3 percent of the total project cost at the completion stage (US$619.8
+million).
+
+The economic and financial analyses showed that the project was expected to achieve higher rates of return
+than estimated at appraisal. The detailed assumptions made for the economic analysis at appraisal are
+presented in Annex 4, pages 57 to 63 of the ICR. The estimated economic internal rate of return (EIRR) and the
+Net Present Value (NPV) for the whole project at completion were 38.3 percent and US$2,496.7 million,
+respectively. The Economic Internal Rate of Return (EIRR) at completion was higher than the 29.2 percent
+calculated for the Phase 1 subprojects at appraisal.
+
+The Financial Internal Rate of Return (FIRR) and the NPV for the whole project at completion were 19.7 percent,
+and US$1,720.3 million, respectively. At the time of project appraisal, the FIRR was estimated at 16.7 percent
+and the NPV at US$565.6 million. However, the financial returns at completion stage were significantly improved
+because (a) the actual investment costs were lower than appraisal estimates, (b) the system efficiency was
+better than expected, and (c) compared to appraisal levels, the margins between the Bulk Supply Tariff (BST)
+and the average retail tariff increased a little during project implementation. (See the more detailed explanation
+immediately below.) These favorable conditions produced healthy revenues that shortened the payback period
+for the PCs. (ICR, paragraph 22, pages 61 to 62) On the other hand, the ICR did not discuss the situation for
+household consumers as a result of the increases in retail electricity tariffs since the project was approved.
+
+The ICR Team clarified that the conclusion regarding the margins between BST and the average retail tariff
+having increased a little since appraisal was based on calculating the difference between the buying and selling
+price applicable for each PC as provided by EVN. Based on this data, the increase in the margins left for PCs is
+considered small after reducing the figures by 20 percent, which is the total percentage of tariff increase during
+the period. (The figures are provided in Tables 4.4 and 4.5 of the ICR.) Retail electricity prices did not keep pace
+with the rate of inflation. According to Section 3.4.1 of a forthcoming report (“Learning from Power Sector
+Reform Experiences: The Case of Vietnam” by Ian David Lee and Franz Gerner): “In the period from 2005 to
+2019, the nationally-determined average retail tariff was revised 13 times, at varying intervals of between 6 to 18
+months, and between 0.8 and 17.4 percent in nominal terms compared to the previous rate. Tariff increases
+have barely kept up with inflation. Nominal average electricity tariffs increased by 53 percent from January 2019
+to January 2015, whereas cumulative inflation for the same period was around 56 percent.”
+
+Administrative and Operational Efficiency
+
+The ICR reported some delays during implementation but the project was completed as scheduled and no
+closing date extensions were required. Those implementation delays included slow approval processes and
+difficulties in land acquisition in big cities and provinces that also delayed the AMI start-up. The ICR did not
+report any procurement-related delays, which was rated Satisfactory when the project closed
+
+
+Efficiency Rating
+High
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+
+                                                                                                      Page 13 of 21
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      VN-Distribution Efficiency Project (P125996)
+
+
+
+
+                                Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                      76.20
+Appraisal                                                  29.20
+                                                                                       Not Applicable
+                                                                                      98.30
+ICR Estimate                                               38.30
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of the project’s objectives to the Bank’s country strategy, and to the Government’s strategies for
+the Vietnamese economy and for the country’s energy sector, is high.
+
+The overall efficacy of achieving the project’s objectives is high. Achievement of each of the three objectives
+met or exceeded its original targets. Much better results than targeted were achieved due to the combined
+effects of installing AMI and MDMS for large customers, which resulted in behavioral changes that favored
+shifting to more energy-efficient equipment and lower energy consumption. Moreover, more efficient
+procurement practices led to project savings that enabled more subprojects to be carried out. Out of 99
+subprojects planned originally, 177 projects were implemented that resulted in improved network capability to
+meet load growth, reduce losses, and improve power supply reliability and quality.
+
+Efficiency is high, given the average economic and financial rates of return at project completion—38.3 percent
+and 19.7 percent, respectively, for the power companies—that significantly exceeded the appraisal estimates.
+Although there were delays related to land acquisition and slow approvals during the implementation period, the
+project was completed by the original closing date, without any extensions.
+
+Based on the above criteria, the overall project outcome is rated highly satisfactory
+
+
+a. Outcome Rating
+   Highly Satisfactory
+
+
+7. Risk to Development Outcome
+
+According to the ICR (para 92), the sustainability of this project’s outcomes faces risks related to growth in
+energy consumption, rate of investments in the sector, and environmental impacts. These risks are
+assessed below.
+
+Growth in energy consumption. Over time, given the average annual GDP growth rate projection of 8
+percent to 2030 in Vietnam, there is a risk that the corresponding growth in energy use would lead to
+decreased quality and reliability of electricity supply. This would result from an overly burdened distribution
+system, both in the network sections upgraded by the project and portions that were not upgraded. However,
+given the training provided to PCs in monitoring the network, identifying improvement needs, and conducting
+some of the works, it is expected that they will actively plan for continuous network upgrades and
+
+
+                                                                                                     Page 14 of 21
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     VN-Distribution Efficiency Project (P125996)
+
+
+
+reinforcement. As stated in to the ICR (para 93): “EVN has also included performance, reliability, and quality
+indicators in their annual performance evaluation of the PCs, which are added incentives to ensure continued
+improvement of their networks.” In view of the expected growth in energy demand, the project supported
+capacity-building for load research, tariff efficiency, and grid integration of renewable energy, among other
+key areas.
+
+Inadequate investments to match load growth. The Government is aiming to reduce its dependence on
+foreign public borrowing, yet the distribution network will require continuous upgrades and large funding
+amounts. Consequently, EVN will need to decrease its use of concessional loans for financing its capital
+expenditures. According to the ICR (paragraph 94, page 31): “In 2018, EVN achieved its first, positive rating
+(BB with ‘stable outlook’ for long-term foreign currency) from the Fitch ratings”, which would position EVN
+with an ability to access international capital markets on a non-sovereign basis. Moreover, the World Bank’s
+recent report on Maximizing Finance for Development also indicated that EVN can now access commercial
+financing or blended financing. This would enable EVN to continue maintaining its networks.
+
+Increases in greenhouse gas (GHG) emissions from new electricity generation. The Government’s
+estimated increases in required generation capacity—i.e., from the current 42 GW to 60 GW by 2020 and to
+100 GW by 2030 (ICR, para 95)—means that 5 GW would need to be installed each year between 2018 and
+2030. In view of the risk that generation sources that increase GHG emissions would be harnessed, the
+Government has approved the Renewable Energy Development Strategy and set up specific renewable
+energy (RE) targets in the Power Development Master Plan (PMDP). RE targets are assessed and updated
+when the that Plan is updated every five years.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  This project follows a previous series of Bank-financed energy projects in Vietnam. More specifically,
+  according to the PAD (para 35), “the Bank has been providing support to the PCs and ERAV for the
+  development of smart grid roadmaps, financed through the Rural Distribution Project and the System
+  Efficiency Improvement, Equitization and Renewables Project. Based on information in the ICR, the Bank
+  project team’s technical, economic and financial analyses, and the preparation of investment subprojects
+  at appraisal, were sound. The project’s design components were specifically geared towards achieving
+  improvements in reliability, efficiency, and quality of electricity supply. Moreover, certain design features
+  were also selected to help commercialize the PCs so they could operate in a wholesale market under a
+  new regulatory framework, while achieving independence from EVN. As such, the project’s objectives
+  and design were closely aligned with the Government’s prevailing energy sector priorities and strategies,
+  namely, the NEDS, SEDP and PDMP7, which aimed to achieve security of energy supply after 2016,
+  develop a smart grid, upgrade and expand the distribution system, and modernize planning in the PCs
+  and their operations.
+
+  The Bank team mobilized two trust funds (TF) to augment project funds aimed at providing technical
+  assistance. First, the Australian TF helped to implement a series of activities to assist the Electricity
+  Authority of Vietnam (ERAV) in reforming the power sector, preparing for a competitive market, and
+
+
+
+                                                                                                      Page 15 of 21
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     VN-Distribution Efficiency Project (P125996)
+
+
+
+  improving the capacity of PCs. The Clean Technology Fund helped PCs introduce smart metering,
+  improve their services to large customers, and help to reduce GHGs.
+
+  The design of the implementation arrangements appropriately combined Vietnam’s centralized and
+  decentralized institutional and governance structures. The arrangements also built upon the accumulated
+  experience from past World Bank projects and followed the Government’s regulations on projects with
+  official development financing. During preparation, the Bank team assisted the PCs in following the
+  practice of centralizing goods supply at the PC level to take advantage of economies of scale, while
+  decentralizing procurement and supervision of works at the PC level to facilitate the implementation of
+  projects covering a large area and many provinces. The latter arrangement also involved local authorities
+  more closely for easier management of land acquisition/compensation and environmental management
+  issues. In sum, the project had a flexible and decentralized design that readied the project or quick
+  implementation start up.
+
+
+
+  Quality-at-Entry Rating
+  Highly Satisfactory
+
+
+b. Quality of supervision
+ Regarding staffing, the ICR (paragraph 86, page 28) indicates that project supervision “had a competent
+ and experienced task team leader” supported by a task team with the required skills mix, including fiduciary
+ management, procurement, and safeguards. The whole team was based locally and provided “hands-on
+ and quick support to the IAs when required.”
+
+ Based on the ICR (para 86), the Bank’s supervision missions monitored and documented project progress
+ and implementation challenges through regular Implementation Status and Results reports (ISRs)—of
+ which 12 were prepared during the project’s lifetime—as well as Aide Memoires. At each month-long
+ supervision mission, the team conducted site visits nationwide, focusing more closely on the most
+ challenging subprojects that required support on resettlement, environment, and technical issues.
+
+ The Implementation Status and Results Reports (ISRs) and their ratings were shared with the PCs as
+ signals regarding their performance. The ICR (paragraph 87, page 29) indicates that: “The task team
+ provided valuable support to these implementing agencies throughout the project lifetime, contributing to
+ the project success.” The support covered a range of issues as they arose, including (a) procurement and
+ progress vis-à-vis the implementation plan, (b) compliance with social and environmental safeguards, (c)
+ compliance with the legal covenants of the project, (d) financial management guidance, and (e) technical
+ guidance. The Bank team also transferred knowledge to the IAs through workshops, e.g., on all aspects of
+ project management when the project was launched, and specifically tailored training during
+ implementation, such as smart systems for utilities, and sector reform experiences of other utilities. This
+ training proved valuable to the Hanoi Power Corporation (HNPC), which was implementing a Bank-
+ financed project for the first time
+
+
+
+  Quality of Supervision Rating
+
+
+                                                                                                  Page 16 of 21
+     Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+     VN-Distribution Efficiency Project (P125996)
+
+
+
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Highly Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The design and operation of the M&E framework was adequately prepared in the PAD. The Bank team
+ took into account the lack of familiarity of some PCs with M&E. For this reason, ERAV contracted a
+ consultant during project preparation to design the M&E framework. Moreover, support for capacity-building
+ was also given to the PCs to implement M&E functions. As a longer-term result, EVN has incorporated the
+ M&E framework in its other projects and operations.
+
+
+
+b. M&E Implementation
+  The ICR (para 72) states that “The M&E function was managed satisfactorily by ERAV for the purposes
+  of reporting.” The ICR indicated that the Bank task team agreed a common template with the PCs, which
+  collected and reported monthly on the M&E indicators to the Bank task team. The PCs collected
+  data using their Integrated Business Management System modules, including the Customer Management
+  System, Distribution Management System, and the Metering Data Management System which was
+  installed under the project. The data on PDO Indicators were calculated by the PCs (consistent with the
+  guidelines of the revised distribution code), aggregated, and submitted to EVN, MOIT, and the Bank. The
+  Bank task team also developed a special project monitoring template for the IAs to use to report monthly
+  on performance against intermediate indicators of implementation progress (e.g., procurement,
+  construction, and payment status). The ICR also stated that “if any issues emerged, the team gave
+  adequate support such as advice or site visits to help the IAs solve any problem early in the subproject
+  lifetime.”
+
+
+
+c. M&E Utilization
+  The M&E performance data proved effective in assessing implementation progress and making
+  decisions on remedial actions when there were delays. The data were submitted to ERAV and were
+  used for load forecasts and planning of network maintenance and improvements. According to the ICR
+  (para 71), “Some of the project indicators (SAIDI, SAIFI, and MAIDI) are now used by the EVN for
+  annual performance evaluation of the PCs.” EVN utilizes the M&E framework and draws from it for the
+  monitoring of all their projects.
+
+
+
+  M&E Quality Rating
+  High
+
+10. Other Issues
+
+                                                                                                Page 17 of 21
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    VN-Distribution Efficiency Project (P125996)
+
+
+
+
+a. Safeguards
+  The project triggered two social safeguard policies: Involuntary Resettlement (OP/BP 4.12) and Indigenous
+  Peoples (OP/BP 4.10). A Resettlement Policy Framework, Ethnic Minority Policy Framework, and where
+  relevant Resettlement Action Plans, and Ethnic Minority Development Plans were prepared, reviewed,
+  cleared and disclosed following requirements of the Bank and the Government.
+
+  The project also triggered the safeguard policy OP 4.01 on Environmental Assessment and was classified a
+  Category B given the potentially negative impacts during implementation of civil works for the sub-projects
+  under Component A. EVN prepared and adopted an Environmental Management Framework (EMF)
+  that was applied to all sub-projects, and for which Environmental Management Plans (EMPs) were prepared
+  in accordance with the EMF. The EMF and EMPs were disclosed in the Vietnamese language at the
+  Vietnam Development Information Center (VDIC), EVN, the PMUs, and the sub-project area provinces; they
+  were also disclosed in English at the Bank’s Infoshop.
+
+  The ICR (para 75) states that “Overall, the social and environmental safeguard issues were addressed
+  adequately in the project design to minimize social and environmental impacts and ensure compliance with
+  the relevant World Bank safeguard policies.” The PMUs allocated staff specifically dedicated for managing
+  environmental safeguards. Environmental requirements were included in all bidding documents and
+  achieved compliance, based on monitoring of the environmental performance of contractors. Reports on
+  safeguards compliance were periodically submitted to the Bank. Issues identified during implementation
+  supervision missions were always addressed and there were no outstanding environmental issues. The ICR
+  (para 76) indicates that “The safeguards rating at project close was ‘Satisfactory’ for both environmental and
+  social safeguards. Throughout the project cycle, the project complied with all safeguard policies triggered.”
+
+  The ICR further states (para 78) that “A major success of the project is the integration of the World Bank’s
+  safeguards policies into the EVN’s day-to-day project activities, owing to the success registered by following
+  the World Bank’s policies and procedures related to social and environmental safeguards management.
+  The EVN is now using the World Bank template for their own and other financier-funded projects.”
+
+
+
+
+b. Fiduciary Compliance
+  The ICR (para 80) indicates that “Financial management complied with the Bank’s policies and procedures
+  throughout the project’s life and was rated Satisfactory at project closing.” The ICR goes on to state that
+  the financial management (FM) function was managed by the Accounting and Finance division and project
+  management teams at all IAs. The FM arrangements were designed to be decentralized – with each PC
+  responsible for budget preparation, financial reporting and auditing, contract and expenditures
+  management, expenditures verification, and accounting records maintenance. The PCs also managed
+  project-designated accounts at commercial banks for each of IDA and CTF sources. The PCs submitted
+  quarterly Interim Financial Reports (IFRs) to the Bank. Independent firms conducted annual financial audit;
+  audit reports of acceptable quality were submitted to the Bank before end of June of the following year as
+  required by the Financing Agreement. EVN and the PCs also submitted to the Bank their entity audited
+  financial statements in line with International Financial Reporting Standards. The ICR (paragraph 80, page
+
+
+
+
+                                                                                                  Page 18 of 21
+     Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+     VN-Distribution Efficiency Project (P125996)
+
+
+
+   27) indicates that “Financial Management complied with the Bank’s policies and procedures throughout the
+   project’s life and was rated Satisfactory at project closing.”
+
+   Procurement. According to the ICR (para 79), “Procurement performance was rated ‘Satisfactory’ at
+   project closing” as a result of clear procurement regulations, training from the PCs and the World Bank,
+   and intensive guidance and monitoring from the procurement expert in actual preparation of the bidding
+   documents and the bid evaluation. During the project period, no cases of fraud and corruption were
+   detected.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                     Reason for
+Ratings                           ICR                     IEG
+                                                                                     Disagreements/Comment
+Outcome                           Highly Satisfactory    Highly Satisfactory
+
+Bank Performance                  Highly Satisfactory    Highly Satisfactory
+
+Quality of M&E                    High                   High
+
+Quality of ICR                    ---                    Substantial
+
+
+12. Lessons
+
+The ICR presented five useful lessons from the project. They are summarized below with some
+changes in presentation by IEG:
+
+To increase the likelihood of achieving PDOs, projects need to be designed in close
+alignment with government strategies and objectives; have high technical relevance and
+solid preparatory work; maintain strong government ownership during preparation and
+implementation; and receive support from strong governance structures. Power system
+planning in Vietnam’s energy sector is centrally managed but decision-making is collective. This
+process requires that all sub-projects for implementation should be aligned with the National Energy
+Development Strategy (NEDS). The lesson from implementing this project was that the collective
+decision-making process ensured that there was sufficient buy-in from the management and staff of
+the power companies, which increased incentives for successful project delivery.
+
+The achievement of outcomes depends on technically sound analysis of sub-projects and
+maintenance of technical expertise within the sector. The PCs carried out a series of technical
+studies during project preparation to facilitate the detailed design of specific project activities. All five
+
+                                                                                                         Page 19 of 21
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       VN-Distribution Efficiency Project (P125996)
+
+
+
+PCs conducted surveys during project preparation to assess the potential for smart grid technologies
+in each PC, identify implementation challenges, and propose technologies for future development.
+This laid the groundwork for defining the longer-term road map for introducing new technologies
+such as smart meters, SCADA, unmanned substations, and improvement in the business services
+such as call centers, customers’ satisfaction, and so on. Technical resources also typically remained
+within the energy sector, thus achieving technical stability within the sector institutions (MOIT,
+ERAV, EVN, and PCs), and thereby ensuring continuity and sustenance of the project outcomes.
+
+The successful implementation of a large, complex project requires close and effective
+supervision--both by the Implementing Agencies (IAs) and the Bank team—and capable staff
+in the IAs. Project management was complex given the large number of sub-projects under three
+different components that were implemented by five different IAs. The lesson was that the structure
+of project implementation encouraged decision making at the lowest practicable level, to facilitate
+quick decision-making during implementation. The field-based Bank task team consisted of
+experienced team members, which facilitated close monitoring of project implementation. The
+project management board established in each IA also had strong and capable teams, with cross-
+cutting technical and project management skills.
+
+Flexibility in project management—including aspects of physical scope and approvals—is
+essential for the sustained success of large complex projects. The lesson from this project was
+that it was essential that the PCs (the implementing agencies) be able to quickly adjust to
+unexpected conditions as they arose. The project benefited from the flexibility of the phased
+approach to project implementation as decisions on sub-project selections were made based on
+those which had the flexibility to be implemented more quickly. Continuously introducing further
+flexibility during project implementation also helped to shorten time for critical decisions.
+
+Involving all relevant stakeholders including local authorities early in the project preparation
+process is critical to successful safeguard activities. Land acquisition and resettlement activities
+required for investments are becoming increasingly difficult in Vietnam. The project suffered delays
+due to delayed approvals for land acquisition, and in some cases, the works portion of five sub-
+projects could not be completed within the project lifetime; hence the project financed only the
+relevant material supply. The lesson from this project’s experience was that there are benefits from
+early consultations with the relevant local authorities outlining the benefits and potential impacts of
+the project and receiving their consensus before project implementation. For further strengthening
+the implementation of social safeguards, the areas where more emphasis was needed included the
+following: (a) information disclosure and consultation at project preparation, in a more
+targeted/tailored manner; (b) implementation of developmental activities (for example, training)
+provided to ethnic minority communities; and (c) close collaboration with the local authorities to
+match the proposed developmental support and local needs.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+                                                                                                   Page 20 of 21
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      VN-Distribution Efficiency Project (P125996)
+
+
+
+
+The ICR was well prepared and thorough. The country, sector and strategic contexts were well articulated and
+provided solid justification for the project. The results chain was causally logical and included the critical
+assumptions, although the box on outputs for Component C was unclear. The ICR was evaluative and placed a
+large emphasis on accountability by providing concrete evidence behind the intermediate and final outcomes.
+Albeit long with 33 pages for the main text, the ICR put a lot of effort in delineating the project’s implementation
+record and how specific issues evolved and were resolved. The ICR’s format and internal substance within
+each section complied generally with the Bank’s guidelines on ICR preparation. The lessons were closely
+based on the project’s implementation experience and could have valuable and broad replicability for other
+similar Bank energy projects. The main messages, however, could have been more succinctly and clearly
+articulated. Some of the data, such as in Table 3 and paragraphs 35, 36 and 37, could have been more
+elaborated by providing more information
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                      Page 21 of 21
+

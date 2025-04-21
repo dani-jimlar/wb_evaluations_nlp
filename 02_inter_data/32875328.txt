@@ -1,0 +1,1343 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Financial Sector Rapid Response Project (P119047)
+
+
+
+                                                                                 Report Number: ICRR0022245
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P119047                                    Financial Sector Rapid Response Project
+
+ Country                                    Practice Area(Lead)
+ Afghanistan                                Finance, Competitiveness and Innovation
+
+
+ L/C/TF Number(s)                           Closing Date (Original)               Total Project Cost (USD)
+ IDA-D1400,IDA-H7320,IDA-H8930              30-Jun-2014                                         22,067,390.89
+
+ Bank Approval Date                         Closing Date (Actual)
+ 25-Aug-2011                                31-Oct-2019
+
+                                            IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                            19,000,000.00                                              0.00
+
+ Revised Commitment                             24,666,074.25                                              0.00
+
+ Actual                                         22,067,390.89                                              0.00
+
+
+
+
+ Prepared by                 Reviewed by                  ICR Review Coordinator         Group
+ Antonio M. Ollero           J. W. van Holst              Christopher David Nelson       IEGSD (Unit 4)
+                             Pellekaan
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to the original Emergency Project Paper (page 5) and the original Financing Agreement (page 5),
+   the project development objective (PDO) of the Afghanistan Financial Sector Rapid Response Project was "to
+   assist DAB to develop actions plans for improved banking supervision and implement a modern national
+   payment system for efficient and transparent payment transactions." Da Afghanistan Bank (DAB) is the
+   central bank.
+
+   According to the Project Paper (page 10) and the Financing Agreement (page 5) for the first restructuring and
+
+                                                                                                  Page 1 of 25
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Financial Sector Rapid Response Project (P119047)
+
+
+
+   first additional financing, dated November 3, 2014, the revised project development objective was "to assist
+   DAB to develop action plans for improved banking supervision and to establish key building blocks of financial
+   sector infrastructure: payment system, movable collateral registry, and public credit registry."
+
+   Contrary to the conclusion of the ICR (paragraph 18, page 10), this Review considers that the change in the
+   PDO at the first restructuring reduced the level of ambition of the original PDO and that the change was not
+   marginal. Both the original and revised PDOs aimed at assisting DAB "to develop actions plans for improved
+   banking supervision". Although the scope of the revised PDO was broader than the original PDO, the original
+   PDO was more ambitious because it sought to "implement a modern national payment system for efficient
+   and transparent payment transactions" which also had a defined end point, whereas the revised PDO sought
+   only to "to establish building blocks of an improved banking supervision and financial sector infrastructure,
+   movable collateral registry, and public credit registry" which had an undefined end point. The lack of change
+   in the PDO indicators is not regarded as signaling a marginal change in the project development objective.
+
+   For the purpose of the assessment of efficacy in Section 4 the PDO will be parsed as follows:
+
+          Objective 1: "To assist DAB to develop action plans for improved banking supervision."
+          Objective 1 - Revision 1: "To assist DAB to develop action plans for improved banking supervision" (no
+           change).
+          Objective 2: "To assist DAB to implement a modern national payment system for efficient and
+           transparent payment transactions."
+          Objective 2 - Revision 1: "To assist DAB to establish key building blocks of the financial sector
+           infrastructure: payment system, movable collateral registry, and public credit registry."
+
+   In Section 6, this Review will undertake a split rating of outcomes because of the formal revision of the project
+   development objective in 2014.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  04-Nov-2014
+
+c. Will a split evaluation be undertaken?
+   Yes
+
+d. Components
+   The original project had four components:
+
+          Audits of Commercial Banks (US$3.5 million estimated) covered the: (a) financial, portfolio, and
+           institutional audits of ten of the country's 17 commercial banks, following international audit
+           standards, to assess their financial condition and suggest action plans to address any identified
+
+                                                                                                     Page 2 of 25
+  Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+  Financial Sector Rapid Response Project (P119047)
+
+
+
+       weaknesses, and (b) assistance in the implementation of the bank actions plans resulting from the
+       audits.
+      Modernization of the Afghanistan Payments System (US$11 million estimated) supported the
+       development and deployment of the national payment system infrastructure to include: (a) the card
+       and mobile payment switch to support the settlement of card transactions and mobile payments at
+       the Afghanistan Payments System; (b) the Real-Time Gross Settlement System to process large-
+       value, systematically-important, and time-critical payments at the Automated Transfer System; (c)
+       the Automated Clearing House to settle and clear low-value retail payments at the Automated
+       Transfer System; (d) the Centralized Securities Depository to record securities account holdings of
+       market participants in a de-materialized form and to facilitate the automated pledging and lending of
+       securities, also at the Automated Transfer System; and (e) an inter-bank communications network to
+       support the payment systems infrastructure. The first of two pillars of the national payment system,
+       the Afghanistan Payments System was established by U.S. Task Force for Business and Stability
+       Operations and the DAB in 2011 to act as the private-sector national provider and operator of secure
+       financial message switching and interface for participating banks (three banks were members of the
+       Afghanistan Payments System at appraisal). The Automated Transfer System, the second pillar and
+       consisting of the Real-Time Gross Settlement System, Automated Clearing House and Centralized
+       Securities Depository, was envisioned to act as the DAB-operated processor of all electronic
+       payments, replacing the Afghanistan Clearing and Settlement System. This project component also
+       supported: (e) the upgrade of the DAB’s existing Core Banking System; (f) the development of the
+       DAB's other internal information technology (IT) systems; and (g) the financing of the initial operating
+       costs and maintenance of the national payment system.
+      Support to the Afghanistan Institute of Banking and Finance (US$1 million estimated)
+       supported the Afghanistan Institute of Banking and Finance to increase the types and quality of
+       training offered, in coordination with the Financial Access for Investing in the Development of
+       Afghanistan Project, funded by the U.S. Agency for International Development. The Afghanistan
+       Institute of Banking and Finance was created by the DAB and the Afghanistan Banking Association
+       in 2010, under the predecessor Financial Sector Strengthening Project (FSSP), to provide
+       education, training, and research to the banking and financial sector.
+      Technical Assistance, Training, and Project Implementation (US$3.5 million estimated) provided
+       technical assistance to strengthen the: (a) legal and regulatory framework for the settlement of
+       payments, remittances, and securities, including the development of a comprehensive national
+       payment system law; (b) technical capacity of the DAB to oversee, operate, and regulate the
+       national payment system; and (c) institutional capacity of the DAB to coordinate, monitor, and
+       evaluate this project, including by operating a Project Implementation Cell.
+
+The first restructuring, which broadened the project objective, consolidated the project components into
+three and added other activities.
+
+      Strengthening the DAB’s Capacity (US$8 million estimated) merged and expanded the original
+       first and third components to include support for: (a) the development and implementation of action
+       plans following the audits of ten commercial banks; (b) a stock-taking of capacity-building efforts in
+       financial supervision over the last ten years and development and implementation of a capacity-
+       building plan to strengthen the DAB Financial Supervision Department; and (c) review of the
+       bank regulation framework.
+      Development of the Financial Sector Infrastructure (US$14.7 million estimated) expanded the
+       original second project component to include support for the: (a) establishment of the Public Credit
+       Registry to collect information on loans required by law to be registered with the state, helping the
+
+                                                                                                 Page 3 of 25
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    Financial Sector Rapid Response Project (P119047)
+
+
+
+         DAB to better regulate and supervise financial institutions; and (b) establishment of the Movable
+         Collateral Registry to record legal claims to property used as collateral for loans, allowing lenders to
+         check if the collateral had been pledged to another lender, thus helping avoid disputes over property
+         rights. The Movable Collateral Registry would allow borrowers and banks to use movable property
+         rather than immovable property (land and buildings) as collateral, expanding the range of borrowers
+         who could provide security for loans. Both the Public Credit Registry and the Movable Collateral
+         Registry were initiated under the FSSP.
+        Technical Assistance and Training for Project Implementation (US$3 million
+         estimated) expanded the original fourth component to include: (a) project implementation support for
+         the Public Credit Registry, and (b) project implementation support for the Movable Collateral
+         Registry.
+
+  The fourth restructuring added activities to the three project components adopted during the first
+  restructuring.
+
+        Strengthening the DAB’s Capacity (US$9 million estimated) was expanded to include technical
+         assistance for: (a) development of DAB's internal audit function; (b) adoption by the DAB of the Risk
+         Based Internal Audit; and (c) adoption by the DAB of the International Financial Reporting
+         Standards.
+        Development of the Financial Sector Infrastructure (US$29.7 million estimated) was expanded to
+         include: (a) the acquisition and installation of a Core Banking System to processes
+         daily banking transactions and post updates to accounts and other financial records; (b) an
+         Enterprise Resource Planning to integrate the management of main business processes in real time
+         and using software and technology; (c) and a Data Warehouse to serve as the central repository of
+         integrated data from one or more disparate sources; (d) the automation of the DAB Internal Audit
+         System; (e) the automation of the DAB Financial Intelligence Unit; (f) the enhancement of the DAB’s
+         IT governance and risk management practices; (g) the acquisition and installation of video
+         conference equipment for the DAB; and (h) financial support for the Afghanistan Payments System
+         and Afghanistan Institute of Banking and Finance operating costs.
+        Technical Assistance and Training for Project Implementation (US$7 million estimated) was
+         expanded to include support for the skills development of the DAB technical staff, including through
+         a combination of intensive skill development courses offered by the Afghanistan Institute of Banking
+         and Finance, on-the-job learning, and financing for degree programs at Afghan universities.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost. The original Emergency Project Paper of August 2011 estimated the project cost at US$19
+  million. The Project Paper of November 2013 estimated an additional project cost of US$6.7 million. The
+  Project Paper of October 2016 estimated an additional project cost of US$20 million.
+
+  Project Financing. The project was financed with an SDR 11.9 million (US$19 million equivalent) grant from
+  the International Development Association (IDA) in August 2011, an SDR 4.4 million (US$6.7 million
+  equivalent) additional grant in November 2013, and an SDR 14.4 million (US$20 million equivalent)
+  additional grant in October 2016, for a total financing of SDR 30.7 million (US$45.7 million equivalent) in
+  IDA grants. The sum of SDR 26.4 million (US$22.1 million equivalent) was disbursed, and the undisbursed
+  balance of SDR 14.3 million (US$23.6 million) was canceled shortly before project closing.
+
+
+                                                                                                    Page 4 of 25
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Financial Sector Rapid Response Project (P119047)
+
+
+
+
+   Borrower Contribution. There is no record of government counterpart financial contribution to the project.
+
+   Dates. The project was approved on August 15, 2011, became effective on September 6, 2011, and closed
+   on October 31, 2019, more than five years after the original closing date of June 30, 2014.
+
+   Restructuring. The project was restructured five times: (a) on November 26, 2013, with US$5.61 million
+   disbursed (29.5 percent of the original financing), to revise the project objectives, revise the project
+   components, provide additional financing of SDR 4.4 million (US$6.7 million equivalent), and extend the
+   closing date from June 30, 2014 to June 30, 2016; (b) on January 26, 2015, with US$8.34 million disbursed
+   (32.5 percent of the revised financing), to reallocate funds between disbursement categories; (c) on May 25,
+   2016, with US$13.32 million disbursed (51.8 percent of the revised financing ), to change the loan closing
+   date; (d) on October 27, 2016, with US$13.43 million disbursed (52.3 percent of the revised financing), to
+   revise the project components, provide additional financing of SDR 14.4 million (US$20 million equivalent),
+   and extend the closing date from June 30, 2016 to June 30, 2018; and (e) on October 28, 2019, with
+   US$22.07 million disbursed (48.3 million of the twice-revised financing), to reallocate funds between
+   disbursement categories and to cancel the undisbursed financing of SDR 14.3 million (US$23.6 million
+   equivalent).
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+The project objectives were relevant to the critical problems faced by the financial sector in Afghanistan at
+the time of appraisal.
+
+      The failure of Kabul Bank, the country's largest private commercial bank in 2010, and the costly
+       government bailout of the institution in 2011 (costing about five percent of GDP), exposed
+       two serious problems with the country's financial sector: (a) weak banking supervision --- Kabul
+       Bank had US$900 million of bad loans on total assets of US$1.3 billion; and (b) a poor national
+       payment system --- Kabul Bank, which held a third of the banking system's total assets of US$4
+       billion, held a monopoly processing the payment of salaries to civil servants and security personnel.
+      The project objective to assist the central bank "to develop actions plans for improved banking
+       supervision and to implement a modern national payment system for efficient and transparent
+       payment transactions" was relevant to these two critical problems, aiming to prevent a repetition of
+       the Kabul Bank crisis.
+      Subsequently, the cancellation of the FSSP (the Bank project to assist the DAB to improve banking
+       supervision and regulation, strengthen access to banking, and promote financial sector reform) and
+       the reallocation of the undisbursed amount from the FSSP to this project broadened the project
+       objectives to cover assistance to the central bank "to develop action plans for improved banking
+       supervision and to establish key building blocks of the financial sector infrastructure, including:
+       payment system, movable collateral registry, and public credit registry" (the creation of the public
+       credit registry and the movable collateral registry had been initiated under the FSSP).
+
+
+
+
+                                                                                                     Page 5 of 25
+                       Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                       Financial Sector Rapid Response Project (P119047)
+
+
+
+                        This revised project objective remained relevant to the problems in the financial sector, which
+                         continued to deal with the aftermath of the Kabul Bank crisis, according to the Independent Joint
+                         Anti-Corruption Monitoring and Evaluation Committee that conducted the inquiry into Kabul Bank.
+
+The project objectives were aligned with development priorities in Afghanistan at the time of appraisal,
+restructuring and closing.
+
+                        The project objectives were aligned with the Afghanistan National Development Strategy 2008-
+                         2013 (ANDS), specifically with the Economic Governance and Private Sector Development pillar at
+                         appraisal and at restructuring. The ANDS envisioned a modern and competitive financial sector as
+                         one of the country's main development objectives, and articulated a strategy to expand the
+                         availability and range of financial products and services.
+                        At the time of completion, the project objectives remained relevant to the Afghanistan National
+                         Peace and Development Strategy 2017-2021 (ANPDS). The ANDPS listed eleven national priority
+                         programs. The project objectives were relevant to the first priority program which focused on private
+                         sector development and highlighted the importance of a private sector-led financial market, where
+                         strengthening banking sector oversight was a key priority.
+
+The project objectives were also aligned with the Bank Group strategy in Afghanistan at the time
+of appraisal, restructuring and closing.
+
+                        The project objectives were consistent with the Bank Group Interim Strategy Note for the Islamic
+                         Republic of Afghanistan for the Period FY09-FY11 (ISN), specifically with INS Pillar 3 - Supporting
+                         Private Sector Growth. Support under this pillar included lending and advisory services for
+                         improving access to finance and strengthening key financial sector foundations, including banking
+                         supervision and capacity building training for commercial banks.
+                        The project development objectives also remained relevant to Country Partnership Framework for
+                         the Islamic Republic of Afghanistan for the Period FY17 to FY20 (CPF), specifically with CPF Pillar 2
+                         - Supporting Inclusive Growth, which emphasized the need for a stable and efficient financial system
+                         a priority. Afghanistan’s financial system remained underdeveloped and constantly faced stability
+                         risks. Continued strengthening of financial sector regulation and supervision remained critical for
+                         enhancing financial stability, a key prerequisite for financial sector deepening.
+                        However, the expected achievement of the objectives such as "to develop action plans" and "to
+                         establish building blocks" without many specific outcome indicators reflected a low level of ambition.
+
+In a formal sense, the objectives were well aligned with the government's development priorities and the
+Bank's development strategies for Afghanistan. However, the project's level of ambition was low,
+although plausibly realistic for a fragile and conflict-affected state. On this basis, the relevance of the
+objective is rated substantial
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+Substantial
+
+
+4. Achievement of Objectives (Efficacy)
+
+                                                                                                                     Page 6 of 25
+                  Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                  Financial Sector Rapid Response Project (P119047)
+
+
+
+
+EFFICACY_TBL
+
+
+
+
+               OBJECTIVE 1
+               Objective
+               To assist DAB to develop actions plans for improved banking supervision.
+
+               Rationale
+               Theory of Change. The conduct of financial, portfolio, and institutional audits of ten commercial banks would
+               help the DAB develop plans to improve banking supervision. The implementation of the action plans based
+               on the findings of the audits, and with the support and oversight of the DAB, would strengthen the commercial
+               banking sector. Moreover, the review of the framework for bank regulation in the country, the development
+               and implementation of a capacity-building plan to strengthen the Financial Supervision Department, the
+               development of the internal audit function, the adoption of the Risk Based Internal Audit, and the adoption of
+               the International Financial Reporting Standards would all strengthen the institutional and technical capacity of
+               the DAB to regulate and supervise the banking system.
+
+               Outputs. The project fully met four and partially met one of the nine output targets for the objective to develop
+               actions plans for improved banking supervision. It failed to meet four output targets.
+
+                     The audit reports on ten banks were completed as planned, highlighting the strengths and
+                        weaknesses of each bank, meeting the target. There were no audit reports on banks in the baseline
+                        following the Kabul Bank crisis in 2010-11. Three actions plans were developed to guide supervision
+                        and oversight of the weak banks over a five-year period.
+                       The number of commercial bank staff trained at the Afghanistan Institute of Banking and
+                        Finance reached 10,068 by the project closing date, from 1,017 in the baseline, exceeding the target
+                        of 6,000. Of these, the number of women commercial bank staff trained reached 1,808, from 243 in
+                        the baseline, exceeding the target of 1,200. There was, however, no assessment in the ICR of the
+                        impact of this training.
+                       The DAB approved the regulations to implement the new Banking Law and the regulations for anti-
+                        money laundering and combating the financing of terrorism, that were consistent with international
+                        regulatory standards, meeting the target. The DAB also developed the following: (a) the Legal
+                        Assessment Report against International Standards; (b) the Regulation for the Licensing and
+                        Oversight of Payment and Securities Transfer Systems and of Money Service Providers; (c) the
+                        General Guidelines on Retail Payment Instruments; and (d) the Regulation on Electronic Fund
+                        Transfers. The target was for the DAB to approve regulations for the financial sector that were
+                        consistent with international standards, reversing the case in the baseline where the regulations were
+                        not fully aligned with international standards.
+                       The financial statements of the DAB for 2018 were not prepared using the International Financial
+                        Reporting Standards, the accounting standards issued by the International Financial Reporting
+                        Standards Foundation and the International Accounting Standards Board, but were prepared using
+                        local accounting standards, as in the baseline. The target was for the DAB to increase transparency
+                        of its finances and financial reporting with the adoption of international central bank accounting and
+                        auditing standards by the project closing date was not achieved.
+                       There was no reduction in the time spent by the DAB to prepare its balance sheet. The target was to
+                        reduce the time to prepare the balance sheet by 80 percent, an achievement that would have reflected
+
+
+                                                                                                                  Page 7 of 25
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Financial Sector Rapid Response Project (P119047)
+
+
+
+         the operational efficiency of the DAB. According to the ICR (pages 13-14), the new Core Banking
+         System, Enterprise Resource Planning and Data Warehouse, which would have provided a
+         centralized IT platform for the DAB and help it improve its operational efficiency, was not implemented
+         beyond the preparation of the technical specifications and terms of reference for contracts.
+        The target to have an effective Financial Supervision Department, with training processes in place to
+         ensure sustainable capacity development, was only partly achieved. According to the ICR (page 26),
+         the outcome of the technical assistance to help develop the institutional capacity of the department
+         was sub-optimal. The DAB had approved the organization structure of the Financial Supervision
+         Department in the baseline, and the plan was for the continuous implementation of the institutional
+         development action plan over the project implementation period. However, the technical assistance to
+         the department started late in November 2017, after many delays, was only partially delivered.
+        The number of on-site and off-site examinations conducted by the Financial Supervision
+         Department increased by 50 percent, exceeding the target for an increase by 10 percent.
+        The percentage of the operating costs of the Afghanistan Payments System and the Afghanistan
+         Institute of Banking and Finance covered by their own operating revenues was only 22 percent, well
+         under the target of 50 percent. The achievement of the target would have reflected an improvement in
+         the sustainability of the Afghanistan Payments System and the Afghanistan Institute of Banking and
+         Finance.
+        The number of key DAB staff trained was only 331, well under the target of 1,443. The number of
+         DAB staff who were enrolled in, or completed their, Bachelors or Masters programs was 227, slightly
+         under the target of 250. The number of eligible DAB staff in critical functions who completed
+         specialized professional training sessions increased by 76 percent, meeting the target for an increase
+         by 50 percent. The number of key DAB female staff trained under the project was 28, well under the
+         target of 172. However, the ICR provided no assessment of the impact of the training on DAB's
+         efficiency.
+
+
+Outcomes. The project achieved the sole outcome target defined for the objective to develop actions plans
+for improved banking supervision.
+
+      Following the audits, the DAB Financial Supervision Department developed Weak Bank Strategy and
+       Action Plans to improve the overall condition and performance of the weak banks. Three Weak Bank
+       Strategy and Action Plans were developed over five years. Two of these action plans were
+       successfully implemented and the third, which covers the period March 2019 to March 2021, was still
+       under implementation at project closing.
+      According to the ICR (page 10), there have been improvements in the capital adequacy, liquidity,
+       governance, and resolution of non-performing loans of the weak banks. This assessment means that
+       the original outcome target in the theory of change that "the commercial banking sector is
+       strengthened following implementation of action plans developed based on the findings of the audits,
+       with support and oversight of DAB" (ICR, Table 1, pages 5-6) was achieved.
+      Overall, by the time the project closed, the project was only modestly successful in its objective to
+       “assist DAB to develop actions plans for improved banking supervision” because the action plans
+       were ultimately prepared by DAB with support from the IMF, without specific support from the World
+       Bank (ICR, para 41, page 15). In addition, notwithstanding this achievement in banking supervision,
+       the financial sector itself remained vulnerable, considering the high-risk operating environment and the
+       institutional capacity challenges in the country, according to the ICR, citing the IMF Staff Report for the
+
+
+                                                                                                    Page 8 of 25
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   Financial Sector Rapid Response Project (P119047)
+
+
+
+       2019 Article IV Consultation and the Sixth Review under the Extended Credit Facility Arrangement for
+       the Islamic Republic of Afghanistan.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 1 REVISION 1
+Revised Objective
+To assist DAB to develop actions plans for improved banking supervision.
+
+Revised Rationale
+Theory of Change. Objective 1 - Revision 1 and the theory of change was the same as in Objective 1.
+
+Outputs. The outputs were the same as in Objective 1 for the entire project time period.
+
+Outcomes. The outcomes were the same as in Objective 1 for the entire project time period.
+
+
+
+Revised Rating
+Modest
+
+
+OBJECTIVE 2
+Objective
+To assist DAB to implement a modern national payment system for efficient and transparent payment
+transactions.
+
+Rationale
+Theory of Change. The development and deployment of the card and mobile payment switch at the
+Afghanistan Payments System to support the settlement of card transactions and mobile payments, the Real-
+Time Gross Settlement System to process large-value inter-bank payments, the Automated Clearing
+House to process retail payment transactions; and the Centralized Securities Depository to facilitate the
+automated pledging and lending of securities, all at the Automated Transfer System, would modernize the
+country's national payment system.
+
+Modern National Payment System
+
+Outputs. The project partially met three of the four output targets for the objective to implement a modern
+national payment system for efficient and transparent payment transactions.
+
+      The card and mobile payment system at the Afghanistan Payments System "went live" in December
+       2015, partially meeting the target. The other half of the target --- that the card and mobile payment
+       system process 80 percent of all inter-bank and inter-institutional card and mobile payment
+       transactions on an ongoing basis --- was not met. Only six of 12 domestic commercial banks and one
+
+                                                                                                 Page 9 of 25
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Financial Sector Rapid Response Project (P119047)
+
+
+
+       of four mobile network operators joined the platform. According to the ICR (page 12), the low
+       participation rate posed sustainability problems to the payment switch and to the
+       Afghanistan Payments System itself: (a) many of the hold-out banks and mobile network operators
+       had little incentive to join the platform, including that they did not issue cards; (b) a DAB attempt to
+       facilitate utilization of the platform through a circular mandating interoperability between banks and
+       mobile network operators through the Afghanistan Payments System left the decision to join the
+       platform at the discretion of the banks; (c) the Afghanistan Payments System was not able to
+       generate sufficient revenue to maintain the operations, requiring financial support from the project; (d)
+       the DAB took over the Afghanistan Payments System, integrating the latter's operations as a separate
+       department within the central bank, departing from the original vision that the Afghanistan Payments
+       System be a private-sector institution and operation.
+      The Real-Time Gross Settlement System, part of the Automated Transfer System, was established at
+       the DAB in 2019 after a lengthy delay (procurement and installation of equipment took seven years,
+       training of the DAB staff was transferred from a location in the United Arab Emirates to Azerbaijan,
+       and the disaster recovery site was relocated from the United Arab Emirates to India). However, the
+       Real-Time Gross Settlement System, while operational at the DAB, was not yet integrated with all
+       operating banks in the country, which implied that the target for the Real-Time Gross Settlement
+       System to be operational with transactions settled in real time could not be considered to have
+       been definitively achieved by the project closing date.
+      Interbank payments were settled on the same day across Afghanistan, at least according to tests of
+       settlements at the Afghanistan Payments System and the Automated Transfer System. According to
+       the ICR (page 29), card transactions were settled on the same day at the Afghanistan Payments
+       System using shared automated teller machine networks. All eight interbank transaction types were
+       settled between participant banks on a real time basis in the Real-Time Gross Settlement
+       System. The output target was to improve the timelines for inter-bank payments by project closing to
+       the "same day" in all areas in Afghanistan, from the baseline timelines of "T+1 days" in Kabul and
+       "T+3 days" in other areas.
+      The ratings assessed by the World Bank Global Payments System Survey for the Afghanistan
+       Payments System did not improve as targeted. Based on the World Bank's report: (a) the rating
+       for legal and regulatory framework remained "low", as in the baseline, failing to improve to a target of
+       "medium high"; (b) the rating for system design and policies for large value payment systems was not
+       available at closing, as in the baseline, failing to meet the target of "medium high"; (c) the rating
+       for usage of large-value payment systems was not available at closing, as in the baseline, failing to
+       meet the target of "medium low"; (d) the rating for retail payments infrastructure and policies for retail
+       payment systems remained at "medium low" at closing, as in the baseline, failing to improve to
+       a target of "medium high"; (e) the rating for efficiency of retail payment instruments and extensiveness
+       of usage of non-cash payment instruments remained "low" at closing, as in the baseline, failing to
+       improve to a target of "medium low"; and (f) the rating for oversight functions remained "low" at
+       closing, as in the baseline, failing to improve to a target of "medium high" (ICR, Table 1, pages 5-6).
+
+Outcomes. The project did not fully meet the sole outcome target defined for the objective to implement a
+modern national payment system for efficient and transparent payment transactions.
+
+      The national payment system conformed to modern international norms, as established by the Bank
+       for International Settlements and the Payment Systems Development Group of the Bank, contributing
+       to the safety and efficiency of the financial sector. The Afghanistan Payments System was "live",
+       with six banks and one mobile network operator being part of the system at project closing. Since
+
+                                                                                                  Page 10 of 25
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   Financial Sector Rapid Response Project (P119047)
+
+
+
+       then, there have been ongoing negotiations to increase the number of participants in the card and
+       mobile payment switch. The Automated Transfer System, the replacement for the Afghanistan
+       Clearing and Settlement System, settled transactions between banks on the same day, but the
+       settlement was still done manually rather than automatically. Automatic settlement would only be
+       possible once the full integration of the system with all commercial banks was completed. That
+       this project has created a new national payment infrastructure for that conforms to international norms
+       should play a key role in the development of the digital payment system in the country moving
+       forward. The implementation of a modern national payment system was only modestly achieved
+       when the project closed --- the Afghanistan Payments System remained underutilized and the
+       Automated Transfer System was half-operational, with both systems facing operational sustainability
+       hurdles.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 2 REVISION 1
+Revised Objective
+To assist DAB to establish key building blocks of the financial sector infrastructure: payment system, movable
+collateral registry, and public credit registry.
+
+Revised Rationale
+Theory of Change. The development and deployment of the card and mobile payment switch at the
+Afghanistan Payments System to support the settlement of card transactions and mobile payments, the Real-
+Time Gross Settlement System to process large-value inter-bank payments, the Automated Clearing
+House to process retail payment transactions, and the Centralized Securities Depository to facilitate the
+automated pledging and lending of securities, all at the Automated Transfer System, would modernize the
+country's national payment system, establishing one of the key building blocks for the country's financial
+sector infrastructure. In addition, the establishment and operation of a Public Credit Registry to collect data
+on loans to aid the DAB's supervisory function and of a Movable Collateral Registry to record legal claims on
+property used as collateral for loans would create registries for debt and collateral, establishing the other key
+building blocks for the country's financial sector infrastructure.
+
+Modern National Payment System
+
+Outputs. The project partially met three of the four output targets for the objective to build the key building
+blocks for the payment system.
+
+      The card and mobile payment system at the Afghanistan Payments System "went live" in December
+       2015, partially meeting the target. The other half of the target --- that the card and mobile payment
+       system process 80 percent of all inter-bank and inter-institutional card and mobile payment
+       transactions on an ongoing basis --- was not met. Only six of 12 domestic commercial banks and one
+       of four mobile network operators joined the platform. According to the ICR (page 12), the low
+       participation rate posed sustainability problems to the payment switch and to the
+       Afghanistan Payments System itself: (a) many of the hold-out banks and mobile network operators
+       had little incentive to join the platform, including that they did not issue cards; (b) a DAB attempt to
+
+                                                                                                    Page 11 of 25
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Financial Sector Rapid Response Project (P119047)
+
+
+
+       facilitate utilization of the platform through a circular mandating interoperability between banks and
+       mobile network operators through the Afghanistan Payments System left the decision to join the
+       platform at the discretion of the banks; (c) the Afghanistan Payments System was not been able to
+       generate sufficient revenue to maintain the operations, requiring financial support from the project; (d)
+       the DAB took over the Afghanistan Payments System, integrating the latter's operations as a separate
+       department within the central bank, departing from the original vision that the Afghanistan Payments
+       System be a private-sector institution and operation.
+      The Real-Time Gross Settlement System, part of the Automated Transfer System, was established at
+       the DAB in 2019 after a lengthy delay (procurement and installation of equipment took seven years,
+       training of the DAB staff was transferred from a location in the United Arab Emirates to Azerbaijan,
+       and the disaster recovery site was relocated from the United Arab Emirates to India). However, the
+       Real-Time Gross Settlement System, while operational at the DAB, was not yet integrated with all
+       operating banks in the country, which implied that the target for the Real-Time Gross Settlement
+       System to be operational with transactions settled in real time could not be considered to have
+       been definitively achieved by the project closing date.
+      Interbank payments were settled on the same day across Afghanistan, at least according to tests of
+       settlements at the Afghanistan Payments System and the Automated Transfer System. According to
+       the ICR (page 29), card transactions were settled on the same day at the Afghanistan Payments
+       System using shared automated teller machine networks. All eight interbank transaction types were
+       settled between participant banks on a real time basis in the Real-Time Gross Settlement
+       System. The output target was to improve the timelines for inter-bank payments by project closing to
+       the "same day" in all areas in Afghanistan, from the baseline timelines of "T+1 days" in Kabul and
+       "T+3 days" in other areas.
+      The ratings made by World Bank Global Payments System Survey for the Afghanistan Payments
+       System did not improve as targeted. Based on the Bank document: (a) the rating for legal and
+       regulatory framework remained "low", as in the baseline, failing to improve to a target of "medium
+       high"; (b) the rating for system design and policies for large value payment systems was not available
+       at closing, as in the baseline, failing to meet the target of "medium high"; (c) the rating for usage of
+       large-value payment systems was not available at closing, as in the baseline, failing to meet the target
+       of "medium low"; (d) the rating for retail payments infrastructure and policies for retail payment
+       systems remained at "medium low" at closing, as in the baseline, failing to improve to a target of
+       "medium high"; (e) the rating for efficiency of retail payment instruments and extensiveness of usage
+       of non-cash payment instruments remained "low" at closing, as in the baseline, failing to improve to a
+       target of "medium low"; and (f) the rating for oversight functions remained "low" at closing, as in the
+       baseline, failing to improve to a target of "medium high".
+
+Outcomes. The project substantially met the outcome target defined for the revised objective, namely to build
+the key building blocks for the payment system.
+
+      The national payment system conformed to modern international norms, as established by the Bank
+       for International Settlements and the Payment Systems Development Group of the Bank, meeting the
+       target. The Afghanistan Payments System was "live", with six banks and one mobile network
+       operator being part of the system at project closing. Since then, there have been ongoing
+       negotiations to increase the number of participants in the card and mobile payment switch. The
+       Automated Transfer System, the replacement for the Afghanistan Clearing and Settlement
+       System, settled transactions between banks on the same day, although the settlement was still done
+       manually rather than automatically. Automatic settlement would only be possible once the
+
+                                                                                                 Page 12 of 25
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Financial Sector Rapid Response Project (P119047)
+
+
+
+       full integration of the system with all commercial banks was completed. That this project has created
+       a new national payment infrastructure that conformed to international norms should play a key role in
+       the development of the digital payment system in the country moving forward. The
+       Afghanistan Payments System, however, is underutilized and the Automated Transfer System is half-
+       operational, with both systems facing operational sustainability hurdles. Notwithstanding these
+       challenges, the payment system building block was substantially established.
+
+
+Movable Collateral Registry
+
+Outputs. The project did not meet the sole output target for the objective to build the key building blocks for
+the movable collateral registry.
+
+      The number of items of collateral registered in the Movable Collateral Registry increased from 815 in
+       the baseline (November 2013) to 7,547 at project closing, failing to meet the target for an increase to
+       10,000 items. The establishment of the Movable Collateral Registry had been initiated in February
+       2013 under the FSSP, with the assistance of the International Finance Corporation
+       which supported the development of the legal framework, the technical specifications, and the public
+       awareness program for the registry. This project formally launched the Movable Collateral Registry in
+       2014, providing financing and support for the IT system and for the training of the staff to operate the
+       registry (ICR, para 37, page 14).
+
+Outcomes
+
+      There were no outcome indicators or targets defined for the objective to establish the building blocks
+       for the movable collateral registry According to the ICR, despite the initial gains, the Movable
+       Collateral Registry was not yet fully operational because of: (a) delays with the extension of the
+       support and maintenance contract for the registry, and (b) budgetary constraints at the DAB, which
+       was responsible for maintaining the registry. In the near- to medium-term, the continued operation of
+       the registry would depend on the ability of the DAB to maintain the system. Additional IT work on the
+       registry was planned under a new Bank project. The movable collateral registry building block was
+       established, but it would need more support.
+
+
+Public Credit Registry
+
+Outputs. The project met the sole output target for the objective to build the key building blocks for the public
+credit registry.
+
+      The number of credit reports sent by the Public Credit Registry to commercial banks rose from zero in
+       the baseline (November 2013) to 440,802 at project closing, exceeding the target for an increase to
+       250,000 credit reports (ICR, para 37, page 14). The establishment of the Public Credit Registry had
+       been initiated in February 2013 under the FSSP. The DAB issued a circular in November
+       2014 mandating all commercial banks to make an inquiry with the Public Credit Registry and obtain a
+       credit report before issuing a loan. Managed by the DAB, the Public Credit Registry held around
+       120,000 records and was linked to 15 commercial banks, four microfinance institutions, as well as the
+       Revenue Department at the Ministry of Finance (ICR, para 37, page 14).
+
+
+                                                                                                   Page 13 of 25
+                                 Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                 Financial Sector Rapid Response Project (P119047)
+
+
+
+                              Outcomes
+
+                                    There were no outcome indicators or targets defined for the objective to establish the building blocks
+                                     for the public credit registry. According to the ICR, while the gains were substantial relative to the
+                                     baseline, the coverage of the Public Credit Registry remained limited overall. Only about 1.5 percent
+                                     of the adult population (294,440 individuals) and 5,818 firms were covered by the registry, based on
+                                     data from the Bank’s 2020 Doing Business report. Additional IT work on the Public Credit
+                                     Registry was planned under a new World Bank project. The public credit registry building block was
+                                     established, but it would need more support.
+
+
+
+                              Revised Rating
+                              Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The degree of achievement of the original PDO is rated modest on the basis of a modest efficacy rating on
+                            Objective 1, namely "to assist DAB to develop actions plans for improved banking supervision" because the
+                            financial sector remained vulnerable, and a modest efficacy rating on Objective 2, namely "to assist DAB to
+                            implement a modern national payment system for efficient and transparent payment transactions" which was
+                            far from being achieved. Hence the overall efficacy with which the project's original objectives were achieved
+                            before restructuring was rated modest.
+
+
+
+                            Overall Efficacy Rating                                   Primary Reason
+                            Modest                                                    Low achievement
+                  OBJR1_TBL
+
+
+
+
+                            OVERALL EFFICACY REVISION 1
+                            Overall Efficacy Revision 1 Rationale
+                            The efficacy with which Objective 1 - Revision 1, namely "to assist DAB to develop actions plans for improved
+                            banking supervision," was achieved was rated modest. The efficacy with which Objective 2 - Revision 1,
+                            namely "to assist DAB to establish key building blocks of the financial sector infrastructure: payment system,
+                            movable collateral registry, and public credit registry." was rated substantial. Overall the efficacy of the
+                            achievement of the project's objectives after restructuring was rated modest.
+
+
+
+                            Overall Efficacy Revision 1 Rating                        Primary Reason
+                            Modest                                                    Low achievement
+
+
+          5. Efficiency
+
+                                                                                                                              Page 14 of 25
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Financial Sector Rapid Response Project (P119047)
+
+
+
+Economic Efficiency. The original Project Paper did not present an economic analysis of the project. The
+subsequent Project Papers, prepared for several rounds of restructuring, sketched brief arguments for the
+project having positive economic benefits: (a) the Project Paper of November 2013 stated that sound
+financial market infrastructure would improve access to credit --- strong collateral laws and good credit
+information systems would lead to higher bank lending and were associated with higher bank profitability, lower
+bank risk, and a higher ratio of bank credit to GDP; (b) the Project Paper of October 2016 stated that the project
+would contribute to the increased efficiency of central bank operations, more effective regulation and supervision
+of the financial sector, and improved quality of financial information --- the central bank would be more capable
+to deliver efficient services to the financial sector and improvements to the financial market infrastructure would
+restore confidence in the banking sector. No formal economic analyses were presented to support these
+arguments. The ICR did not present an economic analysis of the project either, although it submitted that:
+(a) the establishment of critical payment and credit infrastructure would lay the foundation for financial system
+development which was critical for economic development; and (b) financial stability and access to
+finance would expand opportunities for the poor and the vulnerable through savings, credit, and payments,
+leading to better economic opportunities for all.
+
+Operational Efficiency. The project's operation needed to be efficient to be successful, but, according to the ICR
+(paragraphs 44-46, pages 15-16), the project was marked by operational inefficiencies.
+
+      Procurement and contract management were problematic: (a) the project staff lacked the capacity to
+       develop technical specifications and manage complex procurement processes, despite implementation
+       support from the Bank task team; (b) every procurement package required layers of high-level
+       institutional approval --- each stage of the procurement process required review and approval by the
+       DAB Governor’s Office, leaving the project directors without any authority to approve or sign project
+       documents; (c) the creation and organization of the procurement evaluation teams took considerable
+       time and effort --- the evaluation team for each procurement contract required the approval by DAB
+       department directors and the DAB Governor; (d) there was a lack of interest from qualified bidders due to
+       security challenges and complex logistical arrangements that hindered travel; and (e) procurement and
+       contract management disputes resulted in numerous rounds of advertisement or rebidding, leading to
+       substantial delays.
+      There was a high turn-over of project staff: (a) there were four Project Implementation Cell directors
+       over 2017-2019; (b) all project directors were civil servants with other responsibilities apart from those
+       with the project, resulting in capacity constraints; (c) in early 2017, the project director was promoted and
+       assigned to the DAB human resources department; (d) a new project director was appointed but
+       resigned before the expiration of the12-month appointment; (e) another project director was hired in
+       November 2018 but was moved to a different DAB department in June 2019.
+      The project did not complete any of the activities planned under the fourth restructuring and second
+       additional financing of October 2016. The procurement activities could not be completed before
+       project closing and the project was unable to utilize US$23.6 million of the project funds. This amount
+       was subsequently cancelled through a restructuring ahead of the project closing date.
+
+
+Efficiency Rating
+Modest
+
+
+
+
+                                                                                                     Page 15 of 25
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Financial Sector Rapid Response Project (P119047)
+
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                              Rate Available?              Point value (%)         *Coverage/Scope (%)
+                                                                                   0
+Appraisal                                                  0
+                                                                                    Not Applicable
+                                                                                   0
+ICR Estimate                                               0
+                                                                                    Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The overall outcome rating for the project is moderately unsatisfactory The rationale for this rating is that the
+relevance of objectives was substantial, with the project objectives being: responsive to deficiencies in banking
+supervision by the DAB and to problems with the outdated national payment system; consistent with the
+government's Afghanistan National Development Strategy 2008-2013 and the Afghanistan National Peace and
+Development Strategy 2017-2021; and aligned with the Bank Group Interim Strategy Note for the Islamic
+Republic of Afghanistan for the Period FY09-FY11 and Country Partnership Framework for the Islamic Republic
+of Afghanistan for the Period FY17 to FY20. The overall efficacy of the project's achievements towards the
+original objective and the revised objective were both modest. The project's efficiency was assessed as modest
+because of the lack of evidence available to assess economic efficiency as well as a poor record on operational
+efficiency, marked by major procurement and contract management problems, a high-turnover rate in project
+management leadership, an inability to complete many project activities, and a failure to disburse 47 percent of
+the project financing. These elements in the project's performance are presented in the table below. It shows
+that the project's overall outcome is moderately unsatisfactory indicating significant shortcomings in
+the achievement of its efficacy, efficiency and relevance.
+
+Overall Outcome Ratings
+
+         Rating Dimension                  Original Objectives          Objectives After First Revision
+Relevance of Objectives                                           Substantial
+Efficacy
+Objective 1: To assist DAB to
+develop actions plans for improved                Modest
+banking supervision.
+Objective 1 - Revision 1: To assist
+DAB to develop actions plans for                                                      Modest
+improved banking supervision.
+Objective 2: To assist DAB to
+implement a modern national
+                                                  Modest
+payment system for efficient and
+transparent payment transactions.
+Objective 2 - Revision 1: To assist
+DAB to establish key building                                                       Substantial
+blocks of the financial sector
+
+                                                                                                   Page 16 of 25
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Financial Sector Rapid Response Project (P119047)
+
+
+
+infrastructure: payment system,
+movable collateral registry, and
+public credit registry.
+Overall Efficacy                                  Modest                               Modest
+Efficiency                                                           Modest
+Outcome Rating                           Moderately Unsatisfactory            Moderately Unsatisfactory
+Outcome Rating Value                                 3                                    3
+Amount Disbursed, US$ million                      5.61                                16.46
+Disbursement, percent                              25.4                                 74.6
+Weight Value                                       0.76                                 2.38
+Total Weights                                                        3.14
+Overall Outcome Rating                                     Moderately Unsatisfactory
+
+
+
+
+a. Outcome Rating
+   Moderately Unsatisfactory
+
+
+7. Risk to Development Outcome
+
+Afghanistan faces multiple risks in sustaining the development outcome of this project. Several measures,
+supported by international donors, are helping the government address some of these risks.
+
+Operational and Financial Risk. Although the key elements of the national payment system have been
+installed and are deployed, there are serious risks to their operational sustainability. The Afghanistan
+Payments System is underutilized with only six of 12 commercial banks and one of four mobile network
+operators participating in the card and mobile payment switch. The Automated Transfer System is not fully
+automated as the integration of the system with commercial banks has not been completed. The operational
+underperformance implies that the financial sustainability of these system is also at risk, earning less than
+the expected revenues that would support operations. Similarly, the DAB faces financial constraints
+maintaining the Movable Collateral Registry.
+
+Political Risk. Afghanistan remains in a "high-intensity conflict" situation, according to the Bank, which
+reports annually on fragile and conflict-affected situations globally. The level of violence in the country
+remains elevated, notwithstanding the signing of the "Agreement for Bringing Peace to Afghanistan" between
+the U.S. and the Taliban in February 2020. After a promising start, negotiations between the government
+and the Taliban have stalled in an impasse over sensitive procedural questions including Islamic
+law. Meanwhile, plans for the withdrawal of the last remaining U.S. troops and NATO forces are stirring
+fears of renewed large-scale conflict.
+
+Macroeconomic Risk. Afghanistan is still a fragile and aid-dependent country, where insecurity combined
+with episodes of political uncertainty and adverse weather events have kept real GDP growth low in recent
+years. As in the past, continued financial assistance from international partners is critical to helping the
+government pursue its economic objectives, including inclusive growth, poverty reduction, and self-
+
+                                                                                                   Page 17 of 25
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Financial Sector Rapid Response Project (P119047)
+
+
+
+reliance. The IMF and the government reached a staff-level agreement in August 2020 on an economic
+reform program to be supported by a new three-and-half year SDR 259 million (US$364 million) arrangement
+under the Extended Credit Facility. Building on the 2016-19 Extended Credit Facility program that
+was successfully completed in December 2019, the new arrangement will focus on addressing structural
+fragilities that hamper growth, economic resilience, and equitable social outcomes.
+
+Covid-19 Risk. The Covid-19 pandemic has inflicted heavy damage on the Afghan economy, which is
+expected to contract by about 5 percent in 2020, leading to a rise in unemployment and poverty. The
+authorities have taken emergency measures to respond to the pandemic, boosting critical health spending
+and rolling out social assistance to households hit hard by the crisis. The IMF approved Afghanistan’s
+request for emergency assistance in May 2020 with the disbursement of SDR 161.9 million (US$220 million
+equivalent) under the Rapid Credit Facility to help meet the urgent fiscal and balance of payments needs
+stemming from the crisis. The Bank also approved the Afghanistan Covid-19 Response Development Policy
+Grant in July 2020, with US$100 million from the IDA and US$100 million from the Afghanistan
+Reconstruction Trust Fund, to help the government strengthen policies that promote faster recovery and
+keep basic infrastructure such as water, electricity, and telecommunications afloat and running.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  Prompted by the Kabul Bank crisis of 2010-11, the project was prepared promptly, in three months. It
+  was also prepared in accordance with the Bank's Rapid Response to Crises and Emergencies Policy
+  (Operational Policies and Bank Procedures (OP/BP) 8.00).
+
+  The project's design was informed not only by insights drawn from the Kabul Bank crisis (see Section 3),
+  but also by lessons learned from the FSSP and from a separate analytic work on the country's payment
+  system.
+
+        The project succeeded the FSSP, approved in 2009 and scheduled to close in 2014, which aimed
+         "to help the DAB improve its core function of banking supervision and regulation and to help
+         improve access to formal banking services by establishing the key building blocks for further
+         financial sector reform." According to the ICR (page 8), the design of the FSSP had been overly
+         ambitious. In contrast, the scope of this project was more focused, aiming to help the DAB "to
+         develop actions plans for improved banking supervision and implement a modern national
+         payment system."
+        The project would eventually carry over two activities initiated but not completed by the FSSP ---
+         the creation and operationalization of the Public Credit Registry and the Movable Collateral
+         Registry. The Bank and the DAB considered it necessary to expand the project development
+         objective. The objective of this project "to assist DAB to establish key building blocks of financial
+         sector infrastructure: payment system, movable collateral registry, and public credit registry" was
+         more specific and focused than the objective of the FSSP "to help improve access to formal
+         banking services by establishing the key building blocks for further financial sector reform."
+        The project also benefitted from the FSSP having previously created the institutions to
+         help improve bank supervision, namely the Afghanistan Institute of Banking and Finance, and to
+
+                                                                                                    Page 18 of 25
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Financial Sector Rapid Response Project (P119047)
+
+
+
+         strengthen the national payment system, namely the Afghanistan Payments System (see Section
+         2.D).
+        The design for the national payment system was informed by the assessment done by the Bank's
+         Payment System Development Group in 2010 on the Afghanistan National Payment System,
+         part of the South Asia Strengthening Payments, Remittances and Securities Settlement Systems
+         Project, funded by the multi-donor trust fund Financial Sector Reform and Strengthening
+         Initiative. The study recommended the creation of the Automated Transfer System, including the
+         Real-Time Gross Settlement System and the Automated Clearing House, to replace
+         the Afghanistan Clearing and Settlement System for processing all electronic payments in the
+         country. The other key findings and recommendations of the assessment were summarized in an
+         appendix to the original Project Paper (pages 19-20).
+
+  The Bank conducted a comprehensive analysis of the operational risks faced by the project and offered
+  measures to mitigate the risks. The Project Paper (pages 25-31) rated country risk, economic
+  management risk, security risk, "systemic corruption" risk, and "delivery quality" risk as "high".
+
+        To mitigate "delivery quality" risk, the Project Paper recommended that government and the
+         Bank: (a) ensure high quality terms of references, (b) ensure the high quality of short lists, and if
+         a short list were not satisfactory, to re-advertise the assignment, (c) provide a provision for
+         security costs in the request for proposal for critical assignments, (d) rely on firms rather than
+         individuals for critical assignments, for which security would be easier to provide; (e) closely
+         monitor the work of the consultants and firms and take remedial actions early on.
+        To mitigate "systemic corruption" risk, the Project Paper recommended that the Bank: (a) support
+         strengthening the public accounting and auditing systems; (b) support tax administration reforms;
+         (c) provide strong upstream project preparation assistance, including for procurement; (d) provide
+         strong support to sectors more susceptible to corruption, with a strong focus on transparency; (e)
+         broaden and strengthen the policy dialogue with government on achieving greater transparency
+         and public accountability in government transactions.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The Bank relied on two institutional arrangements for the implementation of the project, drawn from the
+ FSSP. The Project Steering Committee, chaired by the DAB Governor and including the heads of all DAB
+ departments involved in the project, would provide strategic guidance and managerial direction for the
+ project and oversee its implementation. The Project Implementation Cell, led by the Project Director, would
+ be responsible for the preparation of the annual work program, the coordination of the work by the DAB
+ departments, and the provision of technical and supervision support for project implementation.
+
+ On one hand, there were particular strengths with Bank supervision.
+
+       The Bank provided implementation support through regular official supervision missions and
+        frequent virtual engagement with the Project Steering Committee and the Project Implementation
+
+                                                                                                    Page 19 of 25
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Financial Sector Rapid Response Project (P119047)
+
+
+
+        Cell. The conduct of the missions was facilitated by the low turnover of project task team leaders
+        (two task team leaders over nine years) and their frequent travel from duty stations in Kabul, Delhi,
+        Dubai and Washington DC. The Bank prepared 12 Implementation Status and Results Reports
+        over the eight-year life of the project.
+       In addition, the Bank provided programmatic advisory services and analytics, under which task
+        teams delivered technical assistance and capability development services to the DAB. The
+        Afghanistan Financial Sector Development Project delivered several technical assistance activities
+        to help build the digital payment system, improve the institutional capacity of the DAB, and promote
+        the broader financial sector stability objective. The key outputs included: a Banking Sector Review,
+        covering the legal and regulatory framework for banking; advice on corporate governance and risk-
+        management at the DAB; and an assessment and action plan for digital finance, as listed in the ICR
+        (paragraph 63, page 19).
+       The Bank also engaged the government in policy dialogue. The staff proactively identified
+        emerging issues which were subsequently addressed through five restructurings, including two
+        additional financing initiatives, each expanding the scope of the project with activities aligned with
+        the project objectives.
+
+ On the other hand, there were also significant deficiencies.
+
+       Formal supervision documents, notably Aide Memoires, which were important for relaying the
+        progress with the project implementation to the government, were not prepared bi-annually as
+        normally expected Only one Aide Memoire was filed in each of the last two years, 2018 and
+        2019, when project implementation experienced substantial delays.
+       The Bank task team downgraded the rating for project implementation only in the last
+        Implementation Status and Results Report, rather than when the project started to face
+        implementation challenges.
+       According to the ICR (paragraph 26, page 12; paragraph 54, page 18; and paragraph 61, page 19),
+        the institutional capacity of the DAB for procurement was not well vetted, particularly for
+        procurement related to the fourth restructuring and second additional financing. At that time, the
+        project management functions of the Project Implementation Cell, which was dissolved in 2016,
+        were transferred to various departments at the DAB. These departments had limited experience
+        with procurement, hindering progress with the implementation of the Core Banking System,
+        Enterprise Resource Planning, and Data Warehouse.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+
+
+
+                                                                                                  Page 20 of 25
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Financial Sector Rapid Response Project (P119047)
+
+
+
+a. M&E Design
+ The Financing Agreement called for the DAB, as project implementing entity, to monitor and evaluate the
+ progress of the project and to prepare: (a) quarterly project reports containing the project M&E data, and
+ (b) monthly reports containing the detailed balance sheet data of the commercial banks covered by the
+ project.
+
+ The original Project Paper listed one outcome and two output indicators for the objective to develop action
+ plans for improved banking supervision, and one outcome and four output indicators for the objective
+ to implement a modern national payment system for efficient and transparent payment transactions.
+
+       The outcome indicator for the first objective --- that the "commercial banking sector was
+        strengthened following implementation of action plans developed based on the findings of the
+        audits, with support and oversight of DAB" --- was not well defined and gave no indication on how it
+        would be measured.
+       The outcome indicator for the second objective --- that the "payment system conformed to
+        international norms, as established by the Bank for International Settlements and the Payment
+        Systems Development Group of the Bank, by the end of project, contributing to safety and efficiency
+        of the financial sector" --- was better defined, specifying the use of Bank for International
+        Settlements and Bank data to determine "conformity with international norms."
+
+ The revision of the project objectives and expansion of the project components following five restructuring
+ episodes revised the set of results indicators for the project. The final set consisted of one outcome and
+ nine output indicators for the objective "to develop action plans for improved banking supervision" and one
+ outcome and six output indicators for the objective "to establish key building blocks of financial sector
+ infrastructure: payment system, movable collateral registry, and public credit registry."
+
+       There was no outcome indicator for the activities related to strengthening the DAB's institutional and
+        technical capacity for banking regulation and supervision.
+       The single outcome indicator for the second objective --- that the "payment system conformed to
+        international norms" --- pertained only to the first of three financial sector infrastructure components
+        supported by the project. The other two, covering the Public Credit Registry and the Movable
+        Collateral Registry, had output indicators and had no outcome indicators, although outcome
+        indicators could have been readily defined for these project interventions.
+
+
+
+
+b. M&E Implementation
+  According to the ICR (page 18), there were no shortcomings in the quality of the data reported but the
+  reporting was irregular. Many indicators in the results framework were qualitative in nature, monitoring
+  whether a specific event occurred, and there was no need to design a sophisticated management
+  information system to collect and analyze the project data.
+
+
+
+c. M&E Utilization
+
+                                                                                                     Page 21 of 25
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Financial Sector Rapid Response Project (P119047)
+
+
+
+  According to the ICR (page 18), while the data collected under the M&E plan were utilized to inform
+  management decisions on issues related to the restructuring such as revising the project components
+  and extending the project duration, challenges were observed with preparation of quarterly and annual
+  progress reports. These reflected challenges with the capacity of both the DAB and the Project
+  Implementation Cell to perform their M&E functions. In particular, progress reports submitted by the
+  Project Implementation Cell were often late or irregular.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   Environmental Safeguards. The project was classified as an Environmental Assessment Category "C"
+   project at appraisal, for which no environmental review was required. The category classification was not
+   revised during restructuring. According to the ICR (page 18), no environmental compliance issues were
+   recorded during project implementation.
+
+   Social Safeguards. No social safeguards issues were raised or discussed at appraisal and during project
+   implementation.
+
+
+
+
+b. Fiduciary Compliance
+   Procurement. The Financing Agreements for this operation required: (a) compliance with the Guidelines:
+   Procurement of Goods, Works and Non-Consulting Services under IBRD Loans and IDA Credits and
+   Grants by World Bank Borrowers and the Guidelines: Selection and Employment of Consultants under
+   IBRD Loans and IDA Credits and Grants by World Bank Borrowers; and (b) the use of international
+   competitive bidding for the procurement of goods and non-consulting services and quality- and cost-based
+   selection for the procurement of consultant services. Other methods of procurement would have to be
+   specified in a Procurement Plan. Moreover, the Procurement Plan would have to specify contracts
+   requiring prior review by the IDA; all other contracts would be subject to post review by the IDA. The ICR
+   (page 19) reports that during implementation, several issues and complaints related to procurement and to
+   the management of several contracts were referred to Bank’s Integrity Vice Presidency (see Section
+   5). The last Implementation Status and Results Report rated procurement as unsatisfactory.
+
+   Financial Management. The Financing Agreements required: (a) compliance with the International
+   Development Association General Conditions for Credits and Grants and the World Bank Disbursement
+   Guidelines for Projects for the withdrawal of the proceeds of the financing and for the financing of eligible
+   expenditures; (b) the conclusion of the Afghanistan Payments System Sub-Grant Agreement between the
+   DAB and the Afghanistan Payments System and the submission to, and approval by, the IDA of the
+   Afghanistan Payments System Sustainability Plan; (c) the submission by the DAB to the IDA
+   of quarterly interim unaudited financial reports for the project; and (d) the submission by the government to
+   the IDA of annual audited financial statements. The ICR did not discuss any issues related to financial
+
+                                                                                                   Page 22 of 25
+     Independent Evaluation Group (IEG)                                   Implementation Completion Report (ICR) Review
+     Financial Sector Rapid Response Project (P119047)
+
+
+
+   management during project implementation. This was surprising sine the last Implementation Status and
+   Results Report rated financial management as moderately unsatisfactory.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                     Reason for
+Ratings                         ICR                      IEG
+                                                                                     Disagreements/Comment
+                                Moderately               Moderately
+Outcome
+                                Unsatisfactory           Unsatisfactory
+                                Moderately
+Bank Performance                                         Moderately Satisfactory
+                                Satisfactory
+Quality of M&E                  Modest                   Modest
+
+Quality of ICR                  ---                      Substantial
+
+
+12. Lessons
+
+Three lessons are drawn from the ICR (pages 20-21), with some adaptation.
+
+The development outcomes of project interventions are likely at risk without proactive steps
+to ensure their post-project operational sustainability. In this project, the card and mobile
+payment switch at the Afghanistan Payments System remains underutilized. The Automated
+Transfer System is half-operational. And the Collateral Registry has not been adequately
+maintained. The lesson is that measures for strengthening operational sustainability include: (a)
+cost recovery schemes; (b) options to shift responsibility over operational costs to government
+budgets; and (c) legal covenants mandating national rather than donor responsibility over
+operations. Incentives for banks to participate in an Automated Payment System include: (a) a fee
+structure that incentivizes the timely submission of payment transactions; (b) collateralized liquidity
+support to mitigate liquidity risk; and (c) settlement guarantee mechanisms.
+
+The complexity of projects needs careful consideration in fragile and conflict-
+affected settings. In this project, the creation of a new modern national payment system tested not
+only the political commitment of the government and the institutional and technical capacity of the
+central bank but also the business judgment of banks and financial services providers and the
+operational ability of technology suppliers and technical consultants to bid for projects and deliver on
+contracts. More extensive planning and stakeholder consultation at the design stage, including for
+contingencies in a wide range of adverse conditions, would have helped the government and the
+Bank prepare for a rough project implementation. However, scaling down the scope and scale of
+
+
+                                                                                                       Page 23 of 25
+       Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+       Financial Sector Rapid Response Project (P119047)
+
+
+
+the project to what could be reasonably achieved in a fragile and conflict-affected setting would have
+been a better alternative. In this project, the central bank was loaded with too many mandates
+compared with its staff and financial capacity. The lesson is that reducing the scope and scale of a
+project to what can be reasonably achieved in an fragile and conflict-affected setting is the best
+strategy.
+
+The inability to contract for, and to obtain the delivery of, quality consulting services can
+derail the implementation of technical assistance-intensive project activities. In this project,
+the contracting for consultant services proved to be difficult, delaying the delivery of technical
+assistance to key institutions and derailing the initiation and completion of several project
+activities. According to the ICR (page 20), problems with the procurement and delivery of consulting
+services were not unique to this project but are prevalent across Afghanistan owing to the difficult
+security situation in the country. The lesson is that at project design, consideration needs to be
+given to permitting consultants to use technology (audio and video conferences, remote
+communications, rather than in-person appearances) to deliver technical services, encouraging
+consultants, who would otherwise be deterred by difficult travel and living arrangements, to bid for
+projects. Another lesson, during implementation, was that more extensive use of the hands-on
+extended implementation support mechanism, in which the Bank deploys a dedicated procurement
+specialist to provide close support to implementing agencies throughout the procurement process,
+can be a successful option.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR presents a succinct and results-focused record of the project, in line with OPCS guidelines for the
+preparation of ICRs. Changes to the project objectives and components are well summarized in pages 6-9, the
+final set of results indicators is concisely presented, and the outputs and outcomes of the project are
+concisely recorded.
+
+The assessment of efficacy is candid. The conclusion was that the facilities for improved banking supervision,
+the National Payment System, the Movable Collateral Registry, and the Public Credit Registry were all
+established by the Afghanistan Payments System and DAB, but the operational sustainability of these
+innovations remain questionable. Many activities aiming to strengthen the institutional capacity of the DAB,
+such as the implementation of the International Financial Reporting Standards, was not achieved.
+
+The assessment of efficacy is more comprehensive than that required by the simple monitoring of the results
+indicators, given the weak M&E design for the project. The discussion of operational efficiency is well
+grounded, covering problems with procurement and contract management and the staffing of the project
+management function. However, there is no discussion of financial management, which at the end of the
+project's implementation was rated moderately unsatisfactory by supervision missions..
+
+
+
+                                                                                                  Page 24 of 25
+     Independent Evaluation Group (IEG)                  Implementation Completion Report (ICR) Review
+     Financial Sector Rapid Response Project (P119047)
+
+
+
+
+The lessons offered by the ICR are useful.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                      Page 25 of 25
+

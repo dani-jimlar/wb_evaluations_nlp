@@ -1,0 +1,1101 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     Sustainable Energy Industry Development (P152653)
+
+
+
+                                                                                Report Number: ICRR0023813
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P152653                                    Sustainable Energy Industry Development
+
+ Country                                    Practice Area(Lead)
+ Pacific Islands                            Energy & Extractives
+
+
+ L/C/TF Number(s)                           Closing Date (Original)              Total Project Cost (USD)
+ TF-A1235,TF-A1342,TF-A1505                 31-Aug-2020                                          5,176,220.19
+
+ Bank Approval Date                         Closing Date (Actual)
+ 29-Sep-2015                                28-Feb-2023
+
+                                            IBRD/IDA (USD)                                    Grants (USD)
+
+ Original Commitment                            5,660,000.00                                    5,660,000.00
+
+ Revised Commitment                             5,589,579.90                                    5,176,220.19
+
+ Actual                                         5,195,722.45                                    5,176,220.19
+
+
+
+
+ Prepared by                Reviewed by                   ICR Review Coordinator        Group
+ Hassan Wally               Vibecke Dixon                 Ramachandra Jammi             IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objective (PDO) of the Regional Sustainable Energy Industry Development Project
+   (SEIDP) as articulated in the Grant Agreement (GA, page 5) was identical to the one stated in the Project
+   Appraisal Document (PAD, paragraph 30) and aimed to:
+
+
+
+
+                                                                                                 Page 1 of 21
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Sustainable Energy Industry Development (P152653)
+
+
+
+   "Increase the data availability and capacity of power utilities of the Pacific Island Countries* (PICs)
+   and Papua New Guinea (PNG) to enhance their ability to incorporate and manage renewable energy
+   technologies and long-term disaster risk planning."
+
+   *The World Bank Group’s 10 Pacific Island member countries are: Federated States of Micronesia, Fiji,
+   Kiribati, Marshall Islands, Palau, Samoa, Solomon Islands, Tonga, Tuvalu, and Vanuatu.
+
+   Parsing the PDO. The PDO will be parsed based on the following three objectives:
+
+   1. To increase the data availability of power utilities of the PICs and PNG .
+
+   2. To increase capacity of power utilities of the PICs and PNG to enhance their ability to incorporate and
+   manage renewable energy technologies.
+
+   3. To increase capacity of power utilities of the PICs and PNG for long-term disaster risk planning.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The PDO was supported by the following three components:
+
+   1. Renewable Energy Resource Mapping Phase 1 to 3 (appraisal cost: US$2.27 million, actual cost:
+   US$1.69 million). This component funded solar and wind resource assessments/mapping across ten
+   Pacific Islands Countries (PICs) in three phases: i) initial resource estimate at the country level using
+   satellite atmospheric and meteorological data in phase 1, ii) solar and wind measurement campaigns to
+   collect ground-based higher quality data in phase 2, and iii) the validation of collected data.
+
+   2. Technical Assistance (appraisal cost: US$2.57 million, actual cost: US$2.55 million). This
+   component supported several activities including: i) acquisition of power modeling software and consultancy
+   services for renewable energy (RE) integration and capacity building, ii) development of an online
+   benchmarking platform, iii) development of industry guidelines and competency standards, iv) training and
+   workshops, v) development of utilities’ career development assessment plan, and vi) development of
+   disaster-recovery/risk-reduction tools based on targeted country assessment.
+
+   3. Project Implementation Support (appraisal cost: US$0.82 million, actual cost: US$0.952 million).
+   This component provided the Pacific Power Association (PPA) with resources to conduct and manage the
+   project, including: (a) hiring required expertise such as project implementation officers (PIOs) and
+   procurement advisors, (b) acquiring office equipment, and (c) covering incremental operating costs.
+
+   Revised Components. Component 1 was scaled down as part of the first restructuring, approved in
+   December 2017. The scope adjustment consisted of transferring the satellite-based resource assessment
+   (phase 1) and collected data validation (phase 3) from the PPA to the WB’s Energy Sector Management
+
+
+                                                                                                    Page 2 of 21
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    Sustainable Energy Industry Development (P152653)
+
+
+
+  Assistance Program (ESMAP) and increasing the number of sites for ground-measurement (phase 2) to be
+  led by PPA with the budget associated with the removal of two phases.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost. The total project cost was estimated at US$5.66 million. The actual cost according to the ICR
+  (Data Sheet, page 2) was US$5.20 million or 91% of the appraisal estimate.
+
+  Financing. The project was financed with a US$1.92 million Grant from South Pacific Regional
+  Environment Programme (SREP), a US$3.47 million Grant from the Small Island Developing
+  States Initiative (SIDS DOCK), and a US$0.27 million Grant from the Government of Japan under the
+  Global Facility for Disaster Reduction and Recovery (GFDRR). The total financing was US$5.66 million. The
+  actual amounts disbursed were US$0.2 million, US$3.47 million, and US$1.92 million for the GFDR, SIDS-
+  DOCK, and SREP, respectively, totaling US$5.20 million.
+
+  Borrower Contribution. The project was fully financed through the above-mentioned Grants with no
+  Borrower contribution.
+
+  Dates. The project was approved on September 29, 2015 and became effective six months later on March
+  23, 2016. The Mid-Term Review (MTR) was conducted on May 8, 2018. The PAD did not explicitly state a
+  date for the MTR, but mentioned that it would be at the mid-point of implementation, which was
+  approximately where the MTR was conducted in relation to the original closing date. The project closed on
+  February 28, 2023, which was thirty months beyond the original closing date on August 21, 2020. Each TF
+  had a different closing date, the closing date of the SIDS DOCK was extended four times, while that of the
+  SREP was extended twice, and the GFDRR closing was extended once. The first and second closing date
+  extensions of the SIDS DOCK were done due to mismatched closing dates of the SREP and the SIDS
+  DOCK grant which was expected to close in December 2017. The subsequent two extensions of the grants
+  were done to accommodate various delays according to the ICR (paragraph 16) that stemmed from more
+  time needed to: "(i) select a firm to conduct the ground measurement campaigns, (ii) secure land to install
+  equipment for on-ground measurements, (iii) replace defective wind measuring equipment - Light Detection
+  and Ranging (LiDAR), and (iv) to deliver training/workshops delayed due to PICs’ border closing during the
+  COVID-19 pandemic."
+
+  The project was restructured four times all of which were Level 2 Restructuring as follows:
+
+  1. On December 15, 2017, when the amount disbursed was US$0.62 million, in order
+  to change components and cost, extend the Loan closing date of the SIDS DOCK Grant from December 31,
+  2017 to December 30, 2019, and change the implementation schedule.
+
+  2. On April 22, 2020, when the amount disbursed was US$2.71 million, in order to extend the Loan closing
+  date of SIDS DOCK Grant to June 30, 2020, and change the implementation schedule.
+
+  3. On June 29, 2020, when the amount disbursed was US$3.43 million, in order to extend the Loan closing
+  dates of the SIDS DOCK and the SREP to February 28, 2022.
+
+
+
+
+                                                                                                 Page 3 of 21
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Sustainable Energy Industry Development (P152653)
+
+
+
+   4. On February 16, 2020, when the amount disbursed was US$4.21 million, in order to revise the Results
+   Framework (RF), and extend the Loan closing date of the SIDS DOCK and the SREP by twelve months
+   from February 28, 2022 to February 28, 2023.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Context at Appraisal. The Pacific Islands Countries (PICs) and Papua New Guinea (PNG) continue to be
+highly vulnerable to climate change impacts and natural disasters. Also, they are highly reliant on costly
+imported fossil fuels for power generation, and have weak capacity of power utilities. The heavy reliance on
+petroleum fuels contributed to very high retail electricity tariffs in some PICs, ranging from 18 to 79 US
+cents per kilowatt hour (kWh). Also, PICs and PNG Governments have ambitious targets to increase the
+share of renewable energy (RE) in their power generation mix. This project had a key objective to enhance
+knowledge and capacity of Pacific power utilities for the integration and management of RE technologies
+and disaster risk planning, with a regional implementation approach.
+
+Previous Bank Experience. The project benefited from the Bank’s experience in designing and
+implementing projects in other islands and PICs. There was a previous World Bank-supported regional
+approach for RE resource mapping and disaster risk management (The Renewable Energy Resource
+Mapping and Geospatial Planning Project - P145864) that was leveraged by the project. Also, the project
+benefited from the World Bank’s Pacific Regional Data Repository for Sustainable Energy for All (PRDR-
+P153190) as a basis for strengthening the availability, quality and comparability of energy data and
+statistics in the region. The Bank also drew on the experience of other countries that were rapidly
+transitioning to very high penetration of renewables, such as Tokelau (PV, batteries), Aruba (wind), and
+Cape Verde (wind, PV). This project complemented existing work being undertaken by other development
+partners in the sector as noted in the PAD (paragraph 20).
+
+Consistency with Bank Strategies. At appraisal, the PDO was in line with the Bank’s twin goals of ending
+extreme poverty and promoting shared prosperity by facilitating PICs’ efforts to adopt cleaner and more
+sustainable electricity in the medium term. The PDO was also in line with the Pacific Regional Framework
+for Action on Disaster Risk Management (2005–2015) and with the Strategy for Climate and Disaster
+Resilient Development in the Pacific (SRDP), where both documents identify the needs and priorities for
+responding to the PICs’ extreme vulnerability to the effects of climate change and natural hazards.
+
+At completion, the PDO continued to be in line with two focus areas reflected in the Bank's Regional
+Partnership Framework for the Pacific Islands (RPF, FY2017-FY2021). Specifically, the RPF’s focus area 3
+(Protecting Incomes and Livelihoods), objective 3.1: of strengthened preparedness and resilience to natural
+disasters and climate change, where the SEIDP activities contributed to: (i) training PIC and PNG power
+utilities to assess the impacts of potential natural disasters or climate change hazards on their infrastructure
+and operations, and (ii) developing actions that can be incorporated to better prepare for natural
+and climate hazards or/and implemented to enhance resilience. Also, under the RFP’s focus area 4
+(Strengthening the Enablers of Growth Opportunities), the SEIDP supported objective 4.2: increased
+access to basic services and improved connective infrastructure by mapping RE resources and training
+power utility staff so that they can add RE generation to improve access to electricity in a cleaner and more
+affordable manner (cheaper than the fossil fuel-based generation it displaces). Further, the RPF (page
+
+                                                                                                      Page 4 of 21
+                                      Independent Evaluation Group (IEG)                  Implementation Completion Report (ICR) Review
+                                      Sustainable Energy Industry Development (P152653)
+
+
+
+               66) explicitly indicated that the SEIDP was one of the projects that supported the achievement of the
+               objective 4.2. In addition, the RPF (pages 29, 62 and 97) emphasized that an appropriate balance of
+               regional and country-specific approaches was needed across the PICs and highlighted the role of the PPA.
+               Finally, at project closing, the extended FY22-23 RPF’s three objectives that are supported by the SEIDP
+               remained relevant.
+
+               Consistency with Country Strategies and Priorities. At appraisal, the PDO was in line with the
+               Framework for Action on Energy Security in the Pacific (FAESP) adopted at the 41st Pacific Islands Forum
+               meeting in August 2010. The FAESP encompassed the leaders’ vision for an energy-secure Pacific where
+               Pacific people at all times have access to sufficient sustainable sources of clean and affordable energy and
+               services to enhance their social and economic well-being. The PDO was also in line with objective of PICs
+               and PNG to increase energy security and lower energy usage costs. Governments were expected to
+               accelerate investments in RE and energy efficiency (EE). The PICs were addressing these issues through
+               the formulation of long-term energy policies and plans for implementing policy targets. At completion, the
+               PDO continued to be in line with the PICs’ current development strategies that emphasized the need to
+               scale up RE generation and adapt to climate change. At the 5th Pacific Regional Energy and Transport
+               Ministers’ Meeting held from May 8 to 12, 2023 in Vanuatu, PICs energy ministers reaffirmed, in the
+               outcome statement, the critical importance for a clear pathway for energy security, the urgent need for
+               decarbonization of energy systems (moving away from fossil fuels-based power generation), and the need
+               to address rising costs of fuel and knowledge gaps. The meeting outcome statement also highlighted that
+               climate change continued to be an existential threat facing the PICs. In addition, updated country Nationally
+               Determined Contribution (NDC) targets included objectives to transition to RE technologies. For example,
+               Nauru committed to achieve 50% RE in its national grid system by 2030. While FSM, PNG and Tonga were
+               set to move to more than 70% RE generation by 2030. Samoa also made a commitment for 100% RE by
+               2025, and Fiji and Vanuatu set to reach 100% RE by 2030.
+
+               Summary of Relevance of Objectives Assessment. The PDO was ambitious. Specifically, the element of
+               the PDO pertaining to disaster risk management was clearly challenging to achieve-given the limited
+               funding designated to the disaster risk management activities. Also, the formulation of the PDO statement
+               suggested that “increased data availability” could inform two separate objectives (one objective being data
+               availability to support the deployment of RE technologies and another objective being data availability to
+               support effective disaster risk planning). However, there were no PDO-level indicator(s) or intermediate
+               results indicator(s) that referred to increased data availability to support disaster risk planning. Furthermore,
+               the element of the PDO pertaining to increased technical and institutional capacity was not sufficiently
+               monitorable. At completion, the PDO continued to be line with the Bank's FY17-21 RPF, as well as with the
+               FY22-23 RPF. Also, the PDO continued to in line with the PICs energy and climate change mitigation and
+               adaptation priorities. Therefore, Relevance of Objectives is rated Substantial.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                                                                                                                        Page 5 of 21
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Sustainable Energy Industry Development (P152653)
+
+
+
+
+OBJECTIVE 1
+Objective
+To increase the data availability of power utilities of the Pacific Island Countries (PICs) and Papua New
+Guinea (PNG) to enhance their ability to incorporate and manage renewable energy technologies.
+
+Rationale
+Theory of Change (ToC). To achieve the stated objective, the project supported renewable energy (RE)
+resource mapping assessment of solar and wind capacity across 10 PICs. This aimed to enhance the
+awareness and knowledge among governments, utilities and the private sector about the resource potential
+for renewable technologies (solar and wind), and to provide the governments with a spatial planning
+framework to guide investment in the renewable energy sector. The project also provided technical
+assistance to increase capacity within the utilities in 10 PICs and PNG on planning for and management of
+the integration of variable RE in their systems, data collection and management, and knowledge sharing
+across jurisdictions. The expected outputs included 8 data sets of solar resource mapping, 5 data sets of wind
+resource mapping, organizing one workshop on resource mapping, developing an online benchmarking
+platform, and preparing 7 benchmarking reports. The intermediate outcome was the availability of publicly
+resource mapping assessments across the 10 PICs. The expected outcomes were increased data availability
+on solar/wind resources potential in 13 sites across the 10 PICs, and 7 years of utilities' benchmarking data
+including Key performance indicators (KPIs). All this would contribute to increasing the data availability of
+power utilities of the Pacific Island Countries and Papua New Guinea to enhance their ability to incorporate
+and manage renewable energy technologies. Anticipated long-term outcomes included enhancing the
+capacity of PIC and PNG utilities to incorporate and manage RE technologies, which was expected to
+contribute to affordable, reliable, and sustainable electricity service.
+
+The achievement of this PDO was underpinned by the following critical assumptions: PPA has adequate
+implementing capacity, utility staff has baseline capacity to utilize acquired knowledge, and no natural
+disasters that would disrupt implementation.
+
+Overall, the stated activities in the ToC were directly connected to the outputs, intermediate outcomes and
+outcomes in a plausible causal chain. The critical assumptions were logical and realistic.
+
+Outputs/Intermediate Results
+
+      Phase 1 (satellite based) resource mapping assessment of solar and/or wind capacity across 10 PICs
+       to be completed and available. The project collected solar irradiation and other meteorological data at
+       eight sites in the Federated States of Micronesia (FSM), Nauru, Republic of the Marshall Islands
+       (RMI), Palau, PNG, Solomon Islands, Tuvalu, and Vanuatu over 24 months, from February 2020 to
+       March 2022. In addition. it installed wind monitoring stations with Light detection and ranging (LiDAR)
+       and collected wind data at five sites in RMI, Samoa, Solomon Islands, Tonga and Tuvalu over
+       different periods. However, the ICR (Annex 1) noted that the phase 1 activity was transferred from the
+       PPA to the World Bank's Energy Sector Management Assistance Program (ESMAP) at the first
+       restructuring in 2017, and was completed by ESMAP. This intermediate indicator should have been
+       removed in the result framework.
+      Phase 2 (ground measurements) resource mapping assessment of solar and/or wind capacity across
+       10 PICs were completed and available. 13 solar and wind resource datasets in 9 PICs and PNG were
+
+
+
+                                                                                                  Page 6 of 21
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Sustainable Energy Industry Development (P152653)
+
+
+
+       collected and available online on the open data platform, which could also be accessible through the
+       PPA website (target achieved).
+      Phase 3 (validation) resource mapping assessment of solar and/or wind capacity across 10 PICs
+       completed and available. While the target of validation of resource mapping (phase3) was achieved,
+       this activity was transferred from PPA to ESMAP at the first restructuring in 2017, and was completed
+       by ESMAP. This intermediate indicator should have been removed (ICR, Annex 1).
+      59 training courses/workshops were provided significantly exceeding the target of 6. The 11 face-to-
+       face trainings on Power Factory, energy resilience assessment tools, Variable RE, power purchase
+       agreement, and project management were carried out, and the 48 workshops including 32 workshops
+       on industry guidelines on RE, storage and Supervisory Control and Data Acquisition (SCADA) were
+       delivered.
+      During the seven years of the project implementation, PPA surveyed all its power utility members,
+       and compiled and shared yearly reports that provide data on the utilities’ governance, operational, and
+       financial performance, captured through 46 key performance indicators (KPIs).
+
+Outcome
+
+      By project completion, the target of increasing public information on RE resources and
+       variability (PDO outcome indicator) was achieved. Ground-measured resource data and the utilities'
+       benchmarking data was made available on the PPA website including 13 ground-measured solar and
+       wind resource data for nine PICs and PNG. Also, solar ground-measured data for 8 sites in FSM,
+       Nauru, RMI, Palau, PNG, Solomon Islands, Tuvalu, and Vanuatu was collected over 24 months, and
+       wind data for 5 sites in RMI, Samoa, Solomon Islands, Tonga and Tuvalu was collected for a different
+       period.
+      The resource data was uploaded on the WB's open energy data platform had been viewed by 395
+       users by June 2023, and was used to inform the site identification, the preparation and implementation
+       of solar/wind power projects for the utilities.
+      In addition, the online benchmarking platform improved the availability and accessibility of key
+       performance data of power utilities. Seven benchmarking reports (intermediate outcome achieved)
+       were released throughout the implementation in a timely manner. According to the ICR (annex 1) the
+       online benchmarking data contributed to improving operations for many power utilities in Tonga,
+       Vanuatu and Solomon Power, helping them to reduce system losses (by comparing the efficiency of
+       their operations with their peers) and to address grid reliability issue through setting up a reliability
+       committee. It also notable that Tonga Power Limited (TPL), the national power utility in Tonga,
+       planned to share the wind data with the engineering, procurement, and contractor firm that is
+       implementing the 2.25 MW wind project at the eastern side of Tonga Tapu, the main island of Tonga
+       (ICR, paragraph 26).
+
+Summary of Efficacy Assessment. The project supported renewable energy (RE) resource
+mapping assessment of solar and wind capacity across 10 PICs in three phases. During implementation,
+phase 1 and 3 were moved from under the project to be implemented by and achieved by ESMAP. Phase 2
+was fully implemented and achieved under this project as noted above. The project achieved its outcome
+indicator target and met all its intermediate outcomes and most outputs. It is therefore plausible to assume
+that the improved accessibility to solar and wind data could have potentially increased PICs and PNG
+governments’ and utilities' awareness of their RE potential. Therefore, the efficacy with which this objective
+was achieved is rated Substantial.
+
+
+                                                                                                  Page 7 of 21
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Sustainable Energy Industry Development (P152653)
+
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+To increase capacity of power utilities of the PICs and PNG to incorporate and manage RE technologies.
+
+Rationale
+Theory of Change (ToC). To achieve the stated objective, the project provided technical assistance to
+utilities including: the acquisition of a power modeling tool combined with capacity building, development of an
+on-line benchmarking platform, development of industry guidelines and competency standards, support
+training and workshops, and supporting a utility career development assessment plan. These activities aimed
+to increase capacity within the utilities in 10 PICs and PNG on data collection and management, and
+knowledge sharing across jurisdictions. The expected outputs included: establishing an online portal,
+producing 7 bench marking reports, organizing 5 workshops, designing two power modeling tools with two
+training sessions, and conducting a utility training need analysis. Intermediate outcomes included: reports on
+industry guidelines and competency standards available through PPA. The expected outcomes included:
+improved technical and institutional capacity of the Pacific Power Association (PPA) and utilities to monitor
+grid key indicators, to develop in-house power analysis systems using power system modeling tools, to
+design; install and operate RE storage systems, and to plan technical specifications for VRE integration. The
+anticipated long-term outcomes included enhancing the capacity of PIC utilities to incorporate and manage
+RE technologies, which was expected to contribute to affordable, reliable, and sustainable electricity service.
+
+The achievement of this PDO was underpinned by the following critical assumptions: the PPA has adequate
+implementing capacity, utility staff has baseline capacity to utilize acquired knowledge, increased capacities
+are measurable to some extent, and no natural disasters that would disrupt implementation. Another
+assumption emphasized by this Review is that training of staff will automatically lead to increased capacity
+(which might not be the case). It is therefore important that the increased capacity is measured (in terms of
+actual changed behavior/changed working practices).
+
+Overall, the stated activities in the ToC were directly connected to the outputs, intermediate outcomes and
+outcomes in a plausible causal chain. However, the ToC did not explicitly capture the improvement in the
+technical capacity of utilities. While the critical assumptions were logical, the project should have included
+some measure of improved capacity.
+
+Outputs/Intermediate Results
+
+      59 training courses/workshops were provided exceeding the target of 6. These included 11 trainings
+       on Power Factory, energy resilience assessment tools, Variable RE, power purchase agreement, and
+       project management were carried out, and the 48 workshops including 32 workshops on industry
+       guidelines on RE, storage and SCADA.
+
+
+                                                                                                    Page 8 of 21
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Sustainable Energy Industry Development (P152653)
+
+
+
+
+      Planning tool was available (target achieved). The PPA purchased two power system modeling
+       software, DigSilent's Power Factory and Homer, and the software was accessible through a
+       designated link of the PPA webpage, allowing simultaneous access by two users. Also, two training
+       sessions were provided to the utilities by DigSilent in 2017 and 2023 to help utilities to utilize the
+       software. The DigSilent's Power Factory was used by at least 4 utilities including Solomon Power,
+       Samoa EPC, Vanuatu's UNELCO and PUB of Kiribati.
+      16 industry guidelines and competency standards were available through PPA (target achieved).
+       The industry guidelines covered aspects of design/installation/maintenance of solar photovoltaic (PV),
+       storage and SCADA were developed. Out of 16 guidelines, 4 were updated, and 12 were newly
+       developed.
+      Other notable achievements that were not part of the RF included a Bank-executed variable
+       renewable energy (VRE) assessment. This was composed eight individual VRE assessments
+       conducted by a private consulting firm from 2017 to 2019 for eight utilities in Samoa, FSM (Chuuk,
+       Kosrae, Pohnpei, Yap), Tonga, RMI, and Tuvalu, and carried out workshops in February 2019 to
+       disseminate the assessment findings. The assessment suggested the addition of battery energy
+       storage system to optimize the expected output of a solar PV plant that was being procured for
+       installation under an ADB -financed project for the Kosrae Utility Authority (KUA) in the state of
+       Kosrae.
+
+Outcome
+
+      By project completion, two planning tools were available and training was provided to both PPA and
+       utilities in the use of these tools (PDO outcome indicator, achieved). The PPA purchased two power
+       system modeling software, DigSilent's Power Factory and Homer, and provided utilities with two
+       training sessions in 2017 and 2023 in Fiji, attended by 44 utility staff. The DigSilent's Power Factory
+       was used by at least 4 utilities including Solomon Power, EPC (Samoa's power utility), UNELCO
+       (power utility in Vanuatu) and PUB (Kiribati's power utility). The online benchmarking platform was
+       developed and improved the accessibility of technical, operational, and financial data among PICs and
+       PNG utilities.
+      Also, the project contributed to improved technical and institutional capacity of the PPA and power
+       utilities (PDO outcome indicator, substantially achieved). The project identified training needs of PICs
+       and PNG utilities and delivered 11 training and 48 workshops according to the identified needs.
+       According to the ICR (Annex 1), these project-supported activities increased the in-house technical
+       capacity of PICs and PNG power utilities "to design, install and maintain solar PV/storage/SCADA
+       systems and informed the operation of power systems or its institutionalization like setting up and/or
+       updating grid code." Specifically, the Electric Power Corporation (the power utility in Samoa) reported
+       that the training empowered the utility engineers to address protection systems issues in the network.
+       Vanuatu's UNELCO indicated that the training timely provided its recently recruited engineers with
+       critical knowledge that enabled continuity of planning and design services in the utility. Also, Solomon
+       Power was able to produce in-house conceptual designs of solar hybrid mini grid systems and to
+       prepare technical specifications of bidding documents to select a contractor for procurement and
+       construction. It is noted that the target value of implementation of the capacity-building plan, measured
+       in percentage unit, would not be enough measurable and attributable to demonstrate improved
+       technical and institutional capacity, as the plan did not specify training activities and their timeframe.
+
+Summary of Efficacy Assessment. While the RF lacked specific indicators to measure improvement in
+capacity, the ICR provided evidence (as noted above) that this happened to some extent. For example, the
+
+                                                                                                   Page 9 of 21
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   Sustainable Energy Industry Development (P152653)
+
+
+
+project-supported training enabled power utility staff to do in-house design, such as the case of Solomon
+Power, maintain solar home systems, and use knowledge and data provided to make improvements (case
+with the benchmarking data). It is plausible to assume that the project contributed to increasing the capacity
+of power utilities of the PICs and PNG to enhance their ability to incorporate and manage RE technologies.
+This was possible through supporting training sessions, and establishing RE design, installation and
+maintenance guidelines. These activities in combination with the Bank-executed VRE assessment contributed
+to enhancing the ability of PICs and PNG power utility staff and contractors to design, incorporate, and
+manage RE technologies. Therefore, the efficacy with which this objective was achieved is rated Substantial
+with moderate shortcomings.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 3
+Objective
+To increase capacity of power utilities of the PICs and PNG for long-term disaster risk planning.
+
+Rationale
+Theory of Change (ToC). To achieve the stated objective, the project supported disaster-recovery and risk-
+reduction activities to support PICs power utilities’ efforts to improve their preparedness for responding to
+natural hazards/climate shocks and to reduce economic losses when disasters occur. This included the
+provision of advisory services to the utilities on the planning and prioritization of investments in resilience in
+the power sector, as well as an emergency response window to assist utilities with post-disaster damage
+assessment reports. Also, risk-reduction/adaptation measures included engineering (e.g., designing more
+robust design specifications; relocating or retrofitting extremely vulnerable existing infrastructure; designing
+new systems better able to capture the energy of increased wind speeds, flood protection, underground
+distribution for protection against wind, high temperatures, corrosion, and flooding), and non-engineering
+options (more robust O&M procedures, improved and better-coordinated land-use planning; for example,
+rezoning land use so that future power infrastructure is located in less vulnerable areas). The expected
+outputs were the development of two resilience tools with relevant training, and three resilience investments
+plans. The expected outcome was increased in-house capacity of utilities to develop resilience plans.
+Anticipated long-term outcome was enhancing the utilities' ability for long-term disaster risk planning.
+
+The achievement of this PDO was underpinned by the following critical assumptions: The PPA has adequate
+implementing capacity, utility staff has baseline capacity to utilize acquired knowledge, increased capacities
+are measurable to some extent, and no natural disasters that would disrupt implementation.
+
+Overall, the stated activities in the ToC were directly connected to the outputs, and outcome in a plausible
+causal chain. The critical assumptions were logical, however, the project should have included some measure
+of improved capacity.
+
+Outputs/Intermediate Results
+
+      Post-disaster and/or disaster-risk reduction needs assessment was developed (target achieved). The
+       project funded the development of energy resilience enhancement plans for three utilities: PNG,
+
+                                                                                                    Page 10 of 21
+                                Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+                                Sustainable Energy Industry Development (P152653)
+
+
+
+                                    Samoa, and Tuvalu (representing large, medium and small size PICs power utilities) based on
+                                    assessment of the vulnerabilities of their power infrastructure against climate change and extreme
+                                    weather events. As the SEIDP’s resilience funding (GFDRR grant of US$270,000) was limited and
+                                    given the fact that energy resilience is a relatively new concept for PICs that needs to be further
+                                    demonstrated, the Bank team leveraged Bank-Executed Trust Funds from GFDRR (US$ 400,000)
+                                    and funded the development of additional energy resilience enhancement plans for utilities in FSM
+                                    and RMI as well as a prefeasibility study to set up a mutual disaster assistance fund in the Pacific,
+                                    which together help build a stronger case to promote energy resilience in the Pacific.
+
+                            Outcome
+
+                                  The project increased planning capacity for disaster recovery and risk reduction for 9 utilities
+                                    exceeding the target of 3.
+                                  Investment plans on energy resilience for three utilities in Tuvalu, Samoa, and PNG, representing
+                                   small, medium and large utility of PICs were developed. The project also delivered training on the
+                                   tools to assess resilience of a utility's power system and viability of mitigation measures.
+                                  Additionally, the Bank team leveraged Bank-executed TF from GFDRR, which developed energy
+                                   resilience enhancement plans for six utilities in FSM and RMI.
+                                  The SEIDP-funded activities influenced Tonga Power limited to improve its disaster recovery plan,
+                                   which was focusing only on cyclones, to now incorporate various kinds of disasters like volcanic
+                                   eruptions, and tsunami events.
+
+                            Summary of Efficacy Assessment. The RF lacked specific indicators to measure improvement in capacity
+                            of power utilities for long-term disaster risk planning. That said, to verify improved capacity the utilities need to
+                            face a disaster to assess their increased capacity, which did not happen during the project implementation
+                            duration. The project provided utilities with energy resilience assessment and enhancement tools, which were
+                            expected to result in improving disaster management plans. The project exceeded its outcome indicator
+                            target. It is worth noting that the disaster risk plans supported by the project were yet to be tested under an
+                            real disaster situation. Overall, the efficacy with which this objective was achieved is rated Substantial with
+                            moderate shortcomings due to limited evidence on improved capacity.
+
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            Overall Efficacy is rated Substantial with moderate shortcomings, as two of the three objectives had limited
+                            evidence for achievements at the outcome level. The project supported activities that resulted in
+                            availing utility benchmarking data and ground-measured solar/wind data. This enabled utilities to use the data
+                            for operational improvements as well as informing design of other donor-funded projects. In addition, and with
+
+                                                                                                                                 Page 11 of 21
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      Sustainable Energy Industry Development (P152653)
+
+
+
+  the support of the project, some utility staff could plan/simulate RE integration using DigSilent Power Factory
+  software. Further, utilities were trained on disaster risk management (energy resilience enhancement) tools
+  and one utility (Tonga Power Limited) improved its disaster management plan. However, the project lacked
+  adequate indicators to measure enhanced technical capacity, a core part of the PDO. The overall Efficacy
+  rating is therefore Substantial with moderate shortcomings.
+
+
+
+  Overall Efficacy Rating
+  Substantial
+
+
+
+5. Efficiency
+Economic and Financial Analysis (EFA)
+
+ex ante
+
+     The PAD did not include a typical EFA and there was no overall economic rate of return (ERR) for the
+      project investments, but it stated that "an economic analysis will be conducted prior to the midterm
+      review for a minimum of two participating countries to gauze the economic benefits that could be derived
+      through the proposed project (paragraph 59)."
+     The economic benefits from component 1 could include among others, reduced cost, duplication,
+      overlap, and / or inconsistencies from country specific RE resource mapping. While the economic
+      benefits of component 2 would include costs saving due to: (i) development of local capacity for network
+      planning and renewable energy integration; (ii) improved efficiency in producing the annual Power
+      Benchmarking Report; (iii) improved network performance due to the availability of industry guidelines
+      and standards; (iv) improved capability of utility staff (hiring fewer international consultants); and (v)
+      improved preparedness, resilience and restoration capacity in the face of potential disasters.
+
+ex post
+
+     The ICR (paragraph 47) reported that no ground-based data sets were completed at the time of the MTR
+      in mid-2018, and the anticipated economic analysis was not conducted at MTR. Further, the ICR
+      highlighted that an economic analysis either at MTR or by closing was unrealistic, given the technical
+      assistance nature of the project, which made it challenging to value data availability and enhanced
+      capacity.
+     Despite the lack of an economic analysis, there were evidence of key economic benefits achieved due to
+      the project investment, which included: cost savings through enhanced capacity, operational
+      improvements from use of benchmarking, identification of sites with strong RE potential and associated
+      development cost savings, and increased power generation output from use of technical guidelines (ICR,
+      paragraph 49).
+     It is also worth noting that the regional nature of the project resulted in cost savings, for example, the two
+      training sessions on DigSilent costed US$50,000 and was attended by 14 utilities from 10 countries
+      compared to a cost of US$250,000 if each country conducted the training alone.
+
+
+
+                                                                                                     Page 12 of 21
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      Sustainable Energy Industry Development (P152653)
+
+
+
+      In addition, there were notable cost savings under the project including saving US$ 200,000 by
+       transferring two phases of the resource mapping to the ESMAP project and securing more wind sites for
+       measurement campaigns with the saved budget. The project also saved US$10,000 by engaging the
+       Bank gender experts instead of hiring a gender advisor (ICR, paragraph 51).
+      Implementation Efficiency. The project closed on February 28, 2023, which was about thirty months
+       beyond the original closing date on August 21, 2020. Four extensions were needed, the first two were to
+       adjust the mismatched closing dates of the project and SIDS DOCK grant while the last two extensions
+       were to accommodate implementation delays. There were implementation delays that stemmed from the
+       procurement of solar and wind mapping activities, in addition to delays that resulted from the COVID-19
+       restrictions.
+
+Summary of Efficiency Analysis. The lack of an EFA at both the appraisal and completion stages of the
+project makes assessing efficiency challenging. While the ICR (as noted above) cited several cost savings
+achieved under the project, those were cost-savings of the project implementation budget, not of the project
+outcomes. The project also experienced significant delays (30 months). Overall, efficiency is rated Modest, due
+to the lack of economic analysis at either appraisal, MTR or at closure and a 30 months extension.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?            Point value (%)          *Coverage/Scope (%)
+                                                                                   0
+ Appraisal                                                 0
+                                                                                    Not Applicable
+                                                                                   0
+ ICR Estimate                                              0
+                                                                                    Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Relevance of Objectives was rated Substantial. Overall Efficacy was rated Substantial with moderate
+shortcomings. The project supported activities that resulted in availing utility benchmarking data and ground-
+measured solar/wind data. The ICR also provided evidence that pointed to increased the capacity of power
+utilities of the PICS and PNG to incorporate and manage renewable energy technologies. Utilities were also
+trained on disaster risk management (energy resilience enhancement) tools and one utility (Tonga Power
+Limited) improved its disaster management plan. However, improved capacity of utilities was not
+comprehensively assessed due to M&E design shortcomings. Efficiency was rated Modest due to the lack of an
+EFA at both the appraisal and completion stages and the substantial project delays.
+
+
+
+
+                                                                                                  Page 13 of 21
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      Sustainable Energy Industry Development (P152653)
+
+
+
+Based on the assigned ratings for the three outcome criteria, Outcome is rated Moderately Satisfactory due
+to moderate shortcomings pertaining to the operation's efficacy, and Modest efficiency.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+The following risk could potentially impact the Development Outcome:
+
+Institutional risk. The enhanced ability from some project-supported utilities materialized and is likely to be
+sustained. Trained utility staff have been sharing their capacity with other utility staff and some practices (e.g:
+using benchmarking to improve performance, setting up a reliability committee, and offering training courses)
+are already established or almost mainstreamed. To support smaller utilities and improve their capacity, the
+Bank team mobilized US$0.2 million to provide one-on-one assistance. In addition, the Asian Development
+Bank (ADB) is funding a follow-on utility performance benchmarking reporting. Also, the Australian
+Government’s Department of Foreign Affairs and Trade is considering funding follow-on training. These
+follow-on initiatives will further reinforce and improve the capacity of Pacific Islands Country utilities (ICR,
+paragraph 77).
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+        Strategic relevance and approach. The project was strategically relevant and in line with the
+          goals of the PICs and PNG governments. The PDO was also in line with the Bank strategies (see
+          section 3 for details).
+         Technical, financial, and economic aspects. The project supported established technologies
+          and practices on which substantial experience was already accumulated in past projects. The
+          PAD lacked a typical economic and financial analysis, which could have provided a better
+          justification of the project investment. The inclusion of the third objective "to enhance ability to
+          incorporate and manage long term disaster risk planning" was overly ambitious and unrealistic
+          given the limited funding available (only US$0.27 million) for disaster risk management. Overall,
+          design suffered from three notable shortcomings, first, the limited funding for the disaster risk
+          planning activities; second, a composite PDO statement that was open to more than one
+          interpretation; and third, the lack of adequate indicators to capture the project outcome results.
+         Poverty, gender, and social development aspects. The project was a TA operation that
+          focused on capacity building and data availability. The PPA’s attention to gender mainstreaming
+          in the PICs’ energy sector included work on the Pacific Power Utilities Benchmarking Report
+          produced annually.
+         Environmental and fiduciary aspects. Screening of environmental and social risks and issues
+          was based on the preliminary information available on the proposed technical advisory studies
+
+                                                                                                       Page 14 of 21
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Sustainable Energy Industry Development (P152653)
+
+
+
+         and the installation of wind and solar monitoring equipment. The Bank conducted a procurement
+         capacity and financial management capacity assessment, and risk-mitigation actions were in
+         place. The PPA prepared a procurement plan for the first 18 months of the project. However,
+         procurement proved to be challenging during implementation and contributed to significant delays.
+        Implementation arrangements. The PPA was in charge of the project implementation as it had
+         experience in managing other donor projects. However, implementation readiness was not
+         adequate at the approval in terms of staffing, identification of the resource mapping scope and
+         needs assessment of utilities’ training (ICR, paragraph 61). Hiring a procurement advisor and an
+         electrical engineer to start implementation took 12 months. Also, the utilities’ training needs
+         assessment was not conducted during the preparation but was initiated in April 2017, a year after
+         effectiveness.
+        Risk assessment. Six main risks were identified at appraisal and the overall risk was rated
+         moderate. The identified risks related to political and governance, technical design, institutional
+         capacity for implementation and sustainability, fiduciary, environmental and social risks. However,
+         inadequate utility staff baseline capacity and lack of coordination with national governments were
+         two critical risks that were not adequately reflected at appraisal. Also, technical risk proved to be
+         more challenging as technical staff from Tuvalu, RMI, and FSM faced challenges in using
+         DigSilent software and applying other knowledge materials even after the training sessions.
+        M&E arrangements. M&E design suffered notable shortcomings as the Results Frame work
+         lacked indicators that measured increased technical and institutional capacity (See section 9 a for
+         details).
+
+  Summary of QAE Assessment. The project was strategically relevant, but the disaster risk planning
+  element of the PDO was overly ambitious. The design lacked a typical economic and financial analysis,
+  which made it challenging to assess efficiency at completion. While the design featured established
+  technologies, it suffered from notable shortcomings as noted above. Environmental and fiduciary aspects
+  were adequate, but procurement risk was not adequately mitigated. Implementation readiness was not
+  adequate and contributed to delays. Risk assessment overlooked two risks (utility staff baseline capacity
+  and lack of coordination with national governments) and technical risk was also underestimated. Also,
+  M&E had notable design shortcomings. Overall, Quality at Entry is rated Moderately Satisfactory due to
+  moderate shortcomings as noted.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+       The Bank conducted fourteen supervision missions, which according to the ICR (paragraph 75)
+        were "teamed by necessary specialists." The project benefitted from continuity and consistency in
+        supervision with three consecutive task team leaders (TTLs) during preparation and
+        implementation.
+       To support the PPA, the Bank team conducted on-site visits and provided trainings on the Bank’s
+        fiduciary systems by financial and procurement staff.
+       The Bank supervision team also made notable efforts in leveraging trust funds to complement the
+        project activities. This included writing two proposals for GFDRR and ESMAP review and approvals,
+
+                                                                                                   Page 15 of 21
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Sustainable Energy Industry Development (P152653)
+
+
+
+        recruiting consultant firms and supervising their work to carry out studies, engaging PPA and
+        country stakeholders to ensure ownership, partnering with the EAP gender and energy team, and
+        reporting on the activity outputs and outcomes to Bank management.
+       The Bank also oversaw four restructurings that were necessary to extend the closing
+        dates, adapt to implementation challenges, and improve the project efficiency, including through
+        budget optimization.
+       While the shortcomings in the RF persisted, the Bank team partially addressed these
+        shortcomings by capturing achievements through surveys and interviews with beneficiaries.
+
+ Summary of Quality of Supervision Assessment. The Bank task team made commendable efforts in
+ supporting the project implementation and leveraging trust funds to complement the project activities.
+ However, RF shortcomings could been addressed to better assess the project outcomes. Overall, the
+ Quality of Supervision is rated Satisfactory.
+
+ Based on the assigned rating for QAE and Quality of Supervision, the overall Bank Performance is rated
+ Moderately Satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+      The PAD did not include a Theory of Change (ToC) since it was not yet required by the Bank at the
+        time of appraisal. Nonetheless, the ICR included a ToC that reflected the relationship between the
+        project activities, outputs, outcomes and long-term impacts in a plausible causal chain. This Review
+        reconstructed a ToC for each objective based on the detailed project description in the PAD.
+       The PDO was composed of three objectives (see section 2). Those were assessed based on the
+        following four PDO outcome indicators: (1) Increased availability of data on RE resources in
+        targeted project areas (Objective 1); (2) Increased available planning tools and training to both PPA
+        and PIC power utilities in the use of these tools (Objective 2); (3) Improved technical and
+        institutional capacity of PPA and PIC power utilities (Objective 2); and (4) Increased planning
+        capacity for disaster recovery and risk reduction within PIC power utilities (Objective 3).
+       While the PDO outcome indicators appear relevant and connected to the stated objectives, the
+        outcome indicator target values of “100% of capacity building plan implemented” and “investment
+        plan on resilience available for at least three power utilities” for outcome indicators 2 and 4
+        respectively, could not clearly and comprehensively capture the “improved technical and
+        institutional capacity of PPA and PIC power utilities” and “increased planning capacity for disaster
+        recovery and risk reduction within PIC power utilities” respectively. Implementing a capacity building
+        plan and supporting a list of investments to be made on resilience could potentially contribute to
+        increased capacity, but this needs to be verified through adequate indicators.
+
+                                                                                                  Page 16 of 21
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Sustainable Energy Industry Development (P152653)
+
+
+
+       The Results Framework (RF) included 8 intermediate results indicators (IRIs) to track the progress
+        of the different project activities. The IRIs were measurable, reflected reasonable targets, and were
+        connected to the project activities. However, improved technical and institutional capacity of PPA
+        and PIC power utilities was not clearly captured.
+       Overall, M&E design suffered from notable shortcomings pertaining to the PDO outcome indicators
+        and their corresponding targets. The inadequacy of the indicator target values led to PPA not
+        recording outcomes from various activities, which made assessing the project outcomes at
+        completion challenging.
+
+
+
+b. M&E Implementation
+       The PPA documented and reported values of M&E indicators during implementation through the
+           submission of semi-annual progress reports.
+        Despite four restructurings, the M&E design shortcomings persisted.
+
+
+
+c. M&E Utilization
+       Assessing the outcomes of the project was challenging due to inadequate indicators.
+       The ICR (paragrap67) reported that "the Bank ICR team and PPA had to conduct surveys to
+         assess outcomes."
+        Despite M&E design shortcomings, the project experience was useful in informing other Bank-
+         funded operations.
+
+  Summary of M&E Quality Assessment. M&E design suffered notable shortcomings pertaining to the
+  targets of the outcome indicators, these shortcomings persisted throughout implementation and were not
+  rectified. Utilization was inadequate and the ICR relied on surveys to assess outcomes. Therefore, the
+  Quality of M&E is rated Modest. Despite the Modest rating of the Quality of M&E, there was sufficient
+  evidence to rate Efficacy Substantial with moderate shortcomings, due to the additional evidence
+  provided by the extra surveys conducted by the Bank’s ICR team and the PPA.
+
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+        The project was classified as a category B project because it focused on building capacity through
+            technical studies and trainings and providing solar and wind maps. Two environmental and two
+            social safeguard policies were triggered: Environmental Assessment (OP/BP 4.01) was triggered
+            based on the screening process and the requirement for a safeguards instrument to manage
+
+                                                                                                  Page 17 of 21
+    Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+    Sustainable Energy Industry Development (P152653)
+
+
+
+         potential impacts and ensure safeguards is mainstreamed into training materials; and Physical
+         Cultural Resources (OP 4.11) was triggered on a precautionary basis because such resources may
+         be identified through the site-selection screening process. Involuntary Resettlement (OP 4.12 ) was
+         triggered because of the installation of temporary wind monitoring equipment; and Indigenous
+         Peoples (OP 4.10) was triggered because the project was to be implemented in a number of
+         countries where Indigenous Peoples reside.
+        Compliance with Environmental and Social Safeguards. The ICR did not provide an explicit
+         statement on the compliance of the project with the Bank's safeguard policies, but reported that
+         "safeguards have been rated Satisfactory throughout the project implementation (ICR, paragraph
+         69)." An environmental and social management framework (ESMF) was prepared in 2015, and
+         a web-based GRM link was created at the PPA website in November 2018.
+
+
+
+
+b. Fiduciary Compliance
+        Financial Management (FM). The PPA oversaw FM which was implemented according to
+         procedures and processes stipulated in the PPA’s “Accounts Policy and Procedures Manual”, with
+         additional guidance included in the Project Operational Manual. According to the latest formal FM
+         review conducted by the Bank (May 30, 2022), the project submitted all required audits and interim
+         financial reports which were accepted with no major FM issues.
+        Procurement. Procurement was challenging and resulted in significant implementation delays.
+         Specifically, the resource mapping procurement took over two years to finalize bidding documents,
+         which led to contract signature with a selected bidder in March 2019. Due to significant delays,
+         procurement was rated as unsatisfactory from November 2016 to November 2019 due to significant
+         delays and moderately unsatisfactory from November 2019 until the project closing (except two
+         instances where the rating was moderately satisfactory in September 2020 and in October 2021).
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+  None.
+
+
+
+d. Other
+  "SEIDP-funded industry guidelines informed the development of similar quality assurance instruments in
+  Africa. The Global Sustainable Energy Solutions (GSES) used the industry guidelines to develop a solar
+  system quality assurance framework for the Uganda Rural Electrification Authority, under a World Bank-
+  financed project. Also, the industry guidelines and SEIAPI/PPA certification process are being used as basis
+  to develop a technician certification program for the 15 of the Economic Community of West African States
+  (ECOWAS) states in close collaboration with the Centre for Renewable Energy and Energy Efficiency (ICR,
+  paragraph 58)."
+
+
+
+
+                                                                                                Page 18 of 21
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Sustainable Energy Industry Development (P152653)
+
+
+
+11. Ratings
+                                                                               Reason for
+Ratings                        ICR                       IEG
+                                                                               Disagreements/Comment
+                                                                               Efficacy had moderate
+Outcome                        Satisfactory          Moderately Satisfactory   shortcomings and Efficiency was
+                                                                               rated Modest.
+                                                                               QAE had moderate
+Bank Performance               Satisfactory          Moderately Satisfactory
+                                                                               shortcomings.
+Quality of M&E                 Modest                Modest
+
+Quality of ICR                 ---                   Substantial
+
+
+12. Lessons
+
+The ICR included three lessons which are emphasized below with some adaptation of language:
+
+1. If regional technical assistance projects are well-designed and supported by adequate
+follow-on support to embed and enhance the progress in utility capacity building, it is likely
+that utility capacity will be enhanced in a cost-effective way. The project succeeded in
+enhancing capacity of some utilities, informing the design of donor-funded projects, and leveraging
+follow-on support. Despite limited funding, ambitious objectives, inadequate indicator target values,
+and implementation challenges, SEIDP-funded trainings and data collection activities showed that a
+regional approach saves costs compared to individual county training programs, fosters peer
+learning (through sharing of challenges and implemented solutions), and can yield positive
+outcomes. Key SEIDP success factors included the selection of a trusted regional champion as an
+implementing agency, identification of relevant trainings based on good assessment of utility
+capacity building needs, selection of a dedicated partner organization with strong links to the RE
+industry, and inclusion of utility performance benchmarking which drives healthy competition that
+leads to tangible improvements.
+
+2. If a differentiated approach that addresses various capacity baseline levels is adopted, it is
+likely that impacts of capacity building activities within a regional project will be maximized.
+The efficacy assessment of the SEIDP highlighted outcomes mostly from relatively high to medium
+size power utilities, while fewer substantial outcomes emerged from small utilities. These small
+power utilities have weaker capacity than the medium to high size ones, as some of them do not
+even have an electrical engineer. To address the differentiated capacity baseline levels, additional
+one-on-one follow-on assistance in some areas such as DigSilent Power Factory training, energy
+resilience enhancement tools training, and benchmarking reporting could be provided. The World
+Bank plans to help remedy this by providing Bank-executed assistance that targets small utilities.
+
+3. If additional provisions to ensure adoption by sector ministries and policy makers are in
+place, it is likely that changes in country policies will be institutionalized. Power utilities often
+do not have the mandate to develop and enforce country policies and regulations, so reaching out to
+critical policy makers and regulators is key to institutionalize or sustain outputs from regional
+technical assistance activities. Development agencies are encouraged to include support,
+collaboration, or other mechanisms to facilitate adoption and/or enforcement of project outputs by
+
+                                                                                                  Page 19 of 21
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       Sustainable Energy Industry Development (P152653)
+
+
+
+government officials. In the context of this project, greater impacts could be achieved if some of the
+outputs—such as technical guidelines/grid codes, solar and wind resource data, recommendations
+from VRE assessment—are adopted and enforced/promoted by Pacific Islands Country ministries in
+charge of the energy sector, as in the case of Vanuatu, where the technical guidelines were adopted
+and enforced by the Government, not the utilities.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+Quality of Evidence. While the ICR provided an evidence base to support the achievements reported, it was
+barely enough to assess the project outcomes due to M&E design shortcomings.
+
+Quality of Analysis. The ICR provided clear linking between evidence and findings to the extent possible
+and used the evidence base to serve the arguments under the different sections. However, the inadequacy of
+the outcome indicator targets undermined the assessment of the project outcomes.
+
+Lessons. Lessons reflected the project experience and were based on evidence and analysis.
+
+Results Orientation. The ICR included an adequate discussion on the achievement of the three elements of
+the PDO. The outcome discussion was balanced between reporting on the achievement of outcome indicators
+and what the project actually achieved on the ground.
+
+Consistency with guidelines. The ICR used the available data to justify most of the assigned ratings.
+
+Conciseness. The ICR was well written and provided adequate coverage of project activities
+and candidly reported on most shortcomings in a concise form. However, some sections could have benefited
+from further details including the sections on M&E implementation and Utilization.
+
+ Summary of the Quality of ICR Assessment. The ICR’s assessment of outcomes was adequate, and the
+lessons drawn by the ICR were relevant. Most sections were concise and reflected relevant
+information. Overall, the Quality of the ICR is rated Substantial.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                   Page 20 of 21
+Independent Evaluation Group (IEG)                  Implementation Completion Report (ICR) Review
+Sustainable Energy Industry Development (P152653)
+
+
+
+
+                                                                                 Page 21 of 21
+

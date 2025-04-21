@@ -1,0 +1,871 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     SO: ICT Sector Support - Phase II (P152358)
+
+
+
+                                                                                  Report Number: ICRR0022611
+
+1. Project Data
+
+
+
+ Project ID                                  Project Name
+ P152358                                     SO: ICT Sector Support - Phase II
+
+ Country                                     Practice Area(Lead)
+ Somalia                                     Digital Development
+
+
+ L/C/TF Number(s)                            Closing Date (Original)               Total Project Cost (USD)
+ TF-A0175,TF-A7699                           30-Sep-2019                                           9,500,000.00
+
+ Bank Approval Date                          Closing Date (Actual)
+ 08-Jun-2015                                 30-Jun-2020
+
+                                             IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                               9,500,000.00                                   9,500,000.00
+
+ Revised Commitment                                9,500,000.00                                   9,500,000.00
+
+ Actual                                            9,500,000.00                                   9,500,000.00
+
+
+
+
+ Prepared by                 Reviewed by                   ICR Review Coordinator         Group
+ Ranga Rajan                 Kavita Mathur                 Victoria Alexeeva              IEGSD (Unit 4)
+ Krishnamani
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objective (PDO), as stated in the Grant Agreement (Schedule 1, page 6) and in the
+   Project Appraisal Document (PDO, page 5), was "to support the Information and Communication
+   Technology (ICT) sector in Somalia by contributing to establishing an enabling environment and by
+   encouraging efficiency and equity in access to connectivity".
+
+
+
+
+                                                                                                   Page 1 of 16
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     SO: ICT Sector Support - Phase II (P152358)
+
+
+
+   This review is based on the two objectives: (1) to support the ICT sector by contributing to establishing an
+   enabling environment; (2) to encourage efficiency and equity in access to connectivity.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  19-Oct-2016
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   This project used a hybrid modality, by having both fully recipient-executed (RE) activities, and activities that
+   were bank-executed (BE) on behalf of the recipient. This modality was specifically designed for fragile
+   countries with limited capacity.
+
+   There were three components (PAD pages 10 -11):
+
+   1. Enabling environment (estimated cost at appraisal was US$4.5 million; actual cost was US$4.95
+   million). This component was BE and RE. This component aimed to support the regulatory and governance
+   framework of the ICT sector, following the passage of the new Communications Law, in particular for mobile
+   money. There were two sub-components.
+
+   a. Ongoing ICT regulatory support. Activities included support for designing and passing of the
+   Communications law, establishing and operationalizing the new telecommunications regulator (the National
+   Communications Authority (NCA), and regulatory support in areas such as spectrum management,
+   numbering, licensing, and the repatriation of the .so domain name.
+
+   b. Support and facilitate implementation of a framework for mobile money. Activities in this component
+   included research on using mobile money. This research was to be conducted through a through a
+   household survey covering about 1,800 households. This component was RE. This component would also
+   provide technical assistance for the implementation of a legal framework for mobile money, including
+   preparing draft legal documents.
+
+   Revised component. The focus on mobile money was expanded in scope, to include research aimed at
+   extending the use of mobile money in emergencies and other new thematic issues (such as, usage
+   of mobile money by women and vulnerable groups), and to cover a pilot program of humanitarian programs
+   made by the Central Bank of Somalia (CBS) to families affected by the drought.
+
+
+
+
+                                                                                                      Page 2 of 16
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    SO: ICT Sector Support - Phase II (P152358)
+
+
+
+  2. Efficiency and equity in access to connectivity (estimated cost at appraisal was US$7.8 million; actual
+  cost was US$7.34 million). This component aimed at developing the telecommunications infrastructure and
+  to make optimal use of the new fiber connectivity arriving in Somalia. There were three subcomponents.
+
+  a. Establishing a framework for Subscriber Identification Module (SIM) registration. Activities included
+  developing a framework for SIM card registration and commissioning a study on African best practices on
+  SIM card registration system This component would provide TA to the Somali Communications Commission
+  (SCC) in developing regulatory bylaws to handle security and privacy concerns related to SIM card
+  registration.
+
+  Revised component. The focus on SIM card registration was shifted to digital Identification (ID), as SIM
+  card registration was made mandatory for operators in the 2017 Law. The project would support research
+  on the potential for digital ID roll-out and would finance two studies on introducing a foundational Digital ID
+  system.
+
+  b. Supporting connectivity in the higher education sector. Activities included: (i) technical assistance
+  (TA) and connectivity support to the Somali Research and Education Network (SomaliREN), funding
+  Somalia's membership fees to the European Union's (EU) connect 2 program to provide connectivity
+  to universities, and establishing a network operations center (NOC), and purchasing a router. This
+  component would also cover the cost to enable Somalia to participate in the second phase of the
+  AfricaConnect program.
+
+  c. Extending communications rooms in key ministries across all economic zones. Activities
+  included, establishment of a government backbone network covering 26 government locations around
+  Mogadishu, and 30 communications rooms across the country equipped with videoconferencing equipment
+  and connectivity to the federal ministries and public institutions in the Federal Member States (FMS).
+
+  3. Support the Project Implementation Unit (estimated cost at appraisal was US$1.7 million; actual cost
+  was US$2.16 million). This component aimed to support capacity building of the Project Implementation
+  Unit (PIU), established in the Ministry of Posts, Telecommunications and Technology (MPTT).
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project cost. The estimated cost at appraisal was US$14.0 million. The actual cost was US$14.4 million.
+
+  Project financing. The project was financed by a Somalia Multi-Partner Fund Trust Fund (TF) of US$14.0
+  million. AF of US$2.0 million was approved from the State and Peace - Building TF on October 19, 2016.
+  With this, the total TF for the project was S$16.0 million. Of this, US$14.4 was disbursed. The undisbursed
+  amount of about US$1.5 million were returned to the TFs. There was parallel financing of US$1.5 million
+  from the European Union (EU), via AfricaConnect TF.
+
+  Recipient contribution. No contribution was planned at appraisal. There was no recipient contribution
+  during implementation.
+
+  Dates. The project was approved on June 8, 2015, became effective on June 15, 2015, and was scheduled
+  to close on March 30, 2018. AF was approved on October 19, 2016. The project closed on June 30, 2020.
+
+
+
+                                                                                                     Page 3 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     SO: ICT Sector Support - Phase II (P152358)
+
+
+
+   Restructurings. The project was restructured four times.
+
+   The ICR (paragraph 20) notes that although the project was appraised for US$14.0 million, it did not receive
+   this amount of financing from the outset, under the hybrid modality. Instead the funds were allocated in
+   tranches. The main reason for the first project restructuring on October 19, 2016, second restructuring on
+   June 6, 2017, and the third restructuring on April 24, 2019, was to increase the grant amount allocated for
+   BE/RE activities. The second restructuring extended the closing date by18 months to September 30,
+   2019, due to delays in receiving donor contributions.
+
+   The main changes made through the fourth restructuring on September 17, 2019 are as follows:
+
+         The closing date was extended by nine months from September 30, 2019 to June 30, 2020, for
+          completing activities that were delayed due to administrative reasons.
+         One indicator, on SIM card registration, was deleted due to the shift in focus of the project.
+         Funds were reallocated from component two to component three activities, as additional funds were
+          needed by the PIU due to the extension of the closing date.
+
+   Split Rating. This review is not based on a split rating of objectives, as the PDOs did not change and
+   targets were modified with the increased scope of Additional Financing (AF) for the project.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country context. Somalia, classified as a fragile, conflict and violence (FCV) affected country, has
+witnessed severe conflict and violence over the past decade, that destroyed legitimate
+institutions. Somalia's human development indicators are among the lowest in the world, with an estimated
+73% of the population classified as poor (61% in urban and 80% in rural areas respectively) and 43%
+classified as extremely poor. This project was prepared, when the Federal Government of Somalia came to
+power with a four year term under a provisional constitution approved by the new parliament, thus ending
+Somalia's long period of revolving transitional government at the federal level.
+
+Sector context. The ICT sector was strategically important to the economy. A survey of Telecom Finance
+in Somalia estimated that about 11% of gross domestic product in 2013 came from this sector. Mobile
+penetration rates were higher, and prices lower in Somalia than in neighboring Djibouti and Ethiopia, which
+had retained state-owned monopolies. In contrast, the sector was entirely with private companies in
+Somalia.
+
+That said, the sector was not formally regulated. The market structure was evolving towards consolidation
+around larger companies resulting from mergers and alliances, undermining effective competition in the
+sector. There were no interconnection agreements among operators, and no opportunities for mobile
+roaming either domestically or internationally. The sector did not formally contribute to the Treasury by way
+of taxes, and license and spectrum fees. Building up regulatory oversight and helping the sector transition
+from an unregulated market to a well-regulated market practices, was important to the government
+strategy.
+
+
+                                                                                                    Page 4 of 16
+                                      Independent Evaluation Group (IEG)                      Implementation Completion Report (ICR) Review
+                                      SO: ICT Sector Support - Phase II (P152358)
+
+
+
+               Alignment with the Government strategy. The PDOs were relevant to the Federal Government of
+               Somalia's (FGS) Economic Recovery Plan for 2014 - 2015 at appraisal. This plan sought funding for the
+               information, telecommunications and transport sector and providing a framework for the proposed ICT
+               Sector Support Project. The project was aligned with the Somali Compact Peace and State-building Goals
+               for Economic Foundations (PSG5) and Revenue and Services (PSG4). This project was to support PSG4,
+               as ICT is a productive sector that will support the enabling environment and enhance productivity through
+               infrastructure investment, as well as contribute to the generation of employment. This project was to
+               support PSG5 by contributing to the effective management of revenues and building capacity for
+               accountability and service delivery, while enhancing transparent and accountable revenue generation.
+
+               Alignment with the World Bank strategy. The PDOs continue to be well-aligned with the Bank
+               strategy. At appraisal, the project was aligned with two priority areas of the Bank's Interim Strategy Note
+               (ISN) for 2014 - 2016: (i) strengthening core institutions; and (ii) expanding economic opportunities. The
+               PDOs are aligned with the Bank's Country Partner Framework (CPF) for 2019 - 2022. The CPF prioritized
+               two focus areas: (i) building institutions for service delivery; and (ii) restoring economic resilience and
+               opportunities. Under Focus Area one of the CPF, the Bank planned technical assistance for tax policy for
+               the telecommunications sector. Under Focus Area two, the Bank proposed leveraging Public-Private
+               Dialogue (PPD) to spur policy and regulatory reforms, and develop enabling frameworks in catalytic sectors
+               like the ICT sector.
+
+               Prior World Bank Experience. This project was the second phase of the ICT sector support program.
+               The first phase of the program focused on regulatory support for the passage of the telecommunications
+               act, setting a Project Implementation Unit (PIU), and pilot communication rooms in three ministries. The
+               recommendations from the analytical studies financed under phase 1 were used for designing the second
+               phase. The second phase built on the progress achieved thus far, and besides including activities aimed at
+               strengthening regulatory oversight, added technical assistance activities of strategic value for Somalia, such
+               as mobile money (which had helped in expanding financial inclusion in the absence of a strong, formal
+               banking system), and SIM card registration (for verifying ownership of phones and mobile money accounts
+               to reduce the risks of money laundering and financing of terrorism). Other key challenges the project sought
+               to address were related to the limited, unreliable, and expensive communication facilities to government
+               and universities. The level of ambition was appropriately increased with the AF for the project (discussed in
+               the section 4). The relevance of PDO is rated as High.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To support the ICT sector by contributing to establishing an enabling environment.
+
+
+                                                                                                                            Page 5 of 16
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   SO: ICT Sector Support - Phase II (P152358)
+
+
+
+
+Rationale
+Theory of change. The causal links between project activities, outputs and outcomes were logical.
+The intended outcomes were monitorable. Capacity building activities aimed at improving the regulatory
+framework, capacity of the regulator and technical assistance (TA) for establishing ICT data collection unit
+were aimed at improving regulation and governance of the sector. TA aimed at implementing a taxation
+framework for the contribution of telecom sector to public finance were aimed at improving the governance
+framework for taxation. TA activities aimed at implementing a mobile money framework were aimed at
+improving the regulatory framework for mobile money. Assuming that the Government was committed to
+the legal and regulatory changes and that it was able to get sufficient technical expertise to implement the
+activities, these activities were likely to aid in creating an enabling environment for the sector, and thereby to
+the long-term development outcomes of improving sector performance and expanding economic
+opportunities.
+
+Outputs (ICR, pages 13 - 15).
+
+      The Parliament approved the Communications Law in 2017, thereby providing a regulatory framework
+         for the sector. The technical assistance activities provided under this project played a key role in the
+         development and passage of the law. This law was the first to be approved by the new parliament,
+         and one of the few sector laws approved in Somalia.
+        The independent federal regulatory agency - the National Communications Authority (NCA) -
+         was established.
+        The ICR (paragraph 27) notes that through the course of the project, Somalia leaped from the
+         absolute bottom of the International Telecommunication Union (ITU) Regulatory Tracker 16 of 100
+         points to 63 points, which positioned Somalia in the vicinity of regional peers with more mature
+         markets.
+        Six mobile licenses were issued by the regulator on June 1, 2020. However, the operators had not
+         accepted the licenses and had asked for further consultation. The licenses issued were later
+         invalidated. However, four new licenses were approved by the National Communications Authority
+         (NCA) in November 2020 as targeted.
+        Four Internet Service Providers (ISP) were authorized when the project closed, short of the target of
+         10.
+        TA was provided to the NCA on implementing the Communications Law, including support for
+         stakeholder consultations on the taxation and licensing framework, and to the Financial Governance
+         Committee for developing a framework for taxation.
+        A set of regulations and guidelines on numbering, spectrum allocation and interconnection were
+         adopted.
+        The project supported the Ministry of Posts, Telecommunications and Technology (MPTT) in
+         preparing the five-year ICT policy and strategy for guiding ICT investments. This policy was adopted
+         by the Cabinet in 2019.
+        The country code top level domain names for Somalia (.so) was repatriated, and an Internet
+         Exchange Point (IXP) was established. TA was provided to the Somali Research and Education
+         Network (SomaliREN) on developing procedures and a business model and to the Somali Network
+         Information Center (SONIC) on managing the .so domain name and installing IXP.
+        TA was provided to the MPTT and NCA to improve sector monitoring in the short term. The ICR
+         (paragraph 28) notes that a risk assessment was carried out to identify threats to the Critical
+         Information Infrastructure (CII) in Somalia, assess vulnerabilities, and evaluate the impact of potential
+
+                                                                                                     Page 6 of 16
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   SO: ICT Sector Support - Phase II (P152358)
+
+
+
+       threats to the ICT systems. This study was to inform a Cybersecurity Maturity Model (CMM)
+       assessment that is currently being conducted with Bank funding.
+      The AF ensured that the project supported timely project response to the drought in Somalia.
+
+Following activities were not completed.
+
+      The ICT Data Collection Unit for monitoring and tracking progress on PDO indicators was not
+       established as targeted.
+      Interconnection agreements among the operators based on the interconnection regulations published
+       in 2017 were not completed, due to the lack of adequate dispute resolution mechanism.
+
+Outcomes
+
+The project activities were expected to increase the ICT sector's contribution to the Treasury and improve
+communications through lower prices.
+
+      Before this project, the telecommunication sector did not contribute to the treasury. In 2014, following
+       the start of phase 1 of the program, mobile operators started contributing to the Ministry of Finance
+       (MoF), and the total payments by operators in 2014, was US$3.9 million. But at that time, this
+       contribution was based on a negotiated deal between the leading operator and the government for a
+       fixed monthly amount. For phase 2, a target of a cumulative contribution of US$12 million was set, to
+       be achieved by the end of the project. By the end of 2020, the telecommunication sector contributed
+       more than US$42.8 million to the MoF by way of license fees. Financial contributions from the telecom
+       sector aided the government to reach its revenue raising targets under the International Monetary
+       Funds (IMF) Staff Management Program and aided in the eventual partial cancellation of Somalia's
+       historical public debts (pre-1990) and the process of achieving Heavily Indebted Poor County (HIPC)
+       status. This enabled Somalia to start borrowing again initially under the pre-arrears clearance
+       financing (PACF) and latterly through full IDA lending. The ICR (paragraph 31) notes that sector
+       contributions to the public treasury are still partly through a "negotiated" process, and that while the
+       license operators now pay license fees, these are voluntary contributions and not by way of taxes. The
+       ICR reports (paragraph 29) that the establishment of the NCA as an independent regulator is
+       expected to lead to more significant contributions to the national treasury in future.
+      The project activities were expected to improve communications through lower prices. The ICR
+       (paragraph 30) notes that a reputed international price comparison database (cable.co.uk) ranked
+       Somalia as the cheapest country in Africa to purchase a Gigabyte (GB) of mobile data, and the
+       seventh cheapest country in the world at US$0.50. International Telecommunication Union (ITU) data
+       indicated that the price of a low-user basket of mobile services (70 minutes of calls, 20 SMS and 500
+       MB of data) for Somalia fell by 76% (from US$15.40 in 2015 to US$3.70 in 2020).
+
+The project significantly contributed to creating an enabling environment for the sector, given that the sector is
+now contributing to the Treasury. While the fall in prices of mobile services is not fully attributable to
+the project, given that the fall in prices is part of an industry-wide trend, it is reasonable to conclude that the
+project activities aided in moving towards a more stable and predictable environment for the sector.
+
+
+
+Rating
+
+                                                                                                     Page 7 of 16
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   SO: ICT Sector Support - Phase II (P152358)
+
+
+
+Substantial
+
+
+OBJECTIVE 2
+Objective
+
+To encourage efficiency and equity in access to connectivity.
+
+Rationale
+Theory of change. The causal links between project activities, outputs and outcomes were logical and the
+intended outcomes were measurable in principle. Activities such as best practice survey of mandatory SIM
+card registrations and recommendations on adapting them to the local context were likely to increase the
+number of registered SIMs. Advance purchase of international internet capacity for universities
+and ministries, departments and agencies, were likely to increase the number of universities and government
+agencies connected to the internet. The combination of these activities were likely to increase efficiency and
+to the long term development outcome of equity in access to connectivity.
+
+Outputs
+
+      A first market analysis and household survey undertaken in 2016- 2017 looked into the use of mobile
+         money and the wider state of mobile money in Somalia. The survey covered all economic zones and
+         Federal Member States, with field teams deployed in both urban and rural areas. The survey used
+         innovative digital tools for collecting primary data. A second round of research in 2018-
+         2019 addressed key issues, such as financial behaviors (that is, savings and borrowing using mobile
+         money), gender issues (such as the barriers women face when accessing or using mobile money, the
+         extent to which mobile money supported women's financial independence and economic
+         empowerment, and whether mobile money usage has translated into a greater role for women in
+         decision-making or increased their bargaining power within the household), identification access, risks
+         of fraud, usage patterns associated with the drought, and explored how mobile money might be
+         leveraged to boost resilience. Findings of the two surveys are discussed in the outcome section
+         below.
+        30 communication rooms were established key ministries across all economic zones (in Mogadishu,
+         Galmududg, Somaliland, South West, Jubbaland, Puntland, and Hirshabelle) under the project with
+         broadband equipment, for stakeholder consultations with partners, exceeding the target of 15.
+        50 universities (campuses) were provided with improved bandwidth, exceeding the target of 15.
+        The project supported competitive tendering of the pre-purchase of "high speed" international
+         bandwidth for 25 ministries and the Central Bank of Somalia (CBS) - allowing for a more affordable
+         rate, compared to what would have been achieved if each negotiated their own deals with suppliers.
+        The CBS staff were trained on the use of the mobile money bulk dispatch system.
+        550 people were trained under the project, as targeted, on areas such as membership of the
+         AfricaConnect 2 program, spectrum management, numbering, cybersecurity, ICT data collection and
+         analysis, on the use of mobile money bulk dispatch system, Digital ID, managing the .so domain name
+         and installing the Internet Exchange Point.
+        2,500 secure mobile payments were made using government systems, exceeding the target of 1,000.
+        A pilot aimed at assisting the Central Bank of Somalia (CBS) in using mobile money was completed.
+         This was used by the CBS in paying monthly salary benefits to public servants and making monthly
+
+
+                                                                                                  Page 8 of 16
+                                Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                                SO: ICT Sector Support - Phase II (P152358)
+
+
+
+                                    humanitarian payments to households in drought-affected areas through Non-Governmental
+                                    Organizations.
+
+                            Outcomes
+
+                            The project activities were expected to increase efficiency and equity in access to connectivity.
+
+                                   According to TeleGeography records, total international bandwidth available to the country was only 5
+                                    Gigabits per second (Gbit/s) in 2015, when phase 1 of the project started. By 2020, this had grown to
+                                    204 Gbit/s. At the time of phase 1, there were no international submarine cables serving the country.
+                                    By 2020, there were three (EASSy, DARE - 1, Somcable). The Results Framework target of
+                                    international bandwidth per subscriber was significantly exceeded, at 7,083 Mbit/s versus an expected
+                                    850 Mbit/s. It is not clear if this outcome could be fully attributed to the project, given the global
+                                    changes in the sector.
+                                   The ICR (paragraph 35) notes that the two rounds of household surveys on mobile money usage
+                                    commissioned by the project showed a reduction in terms of digital divides - regarding mobile phone
+                                    ownership and mobile money - for certain vulnerable groups (especially women). The overall
+                                    improvement in affordability of mobile communications improved digital inclusion.
+                                   The communications rooms were critical in responding to the COVID - 19 pandemic, in ensuring
+                                    business continuity and exchange both within Somalia and with external partners.
+                                   There were no indicators aimed at measuring the equity aspect of the PDO. In terms of equity to
+                                    access to connectivity for the entire population, the two rounds of household surveys on mobile money
+                                    usage commissioned by the project showed a reduction in terms of digital divides - regarding mobile
+                                    phone ownership and mobile money for certain vulnerable groups (such as women). Given this, the
+                                    project activities contributed to improving affordability, and this is likely to contribute to equity in
+                                    connectivity.
+
+                            The outcome and output targets were significantly overachieved under this objective, however there is a lack
+                            of more direct evidence on equity. The efficacy of this objective is rated substantial.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            Efficacy of the two objectives is substantial. There is credible evidence that the capacity building project
+                            activities aimed at improving the regulatory oversight of the ICT sector significantly contributed to creating an
+                            enabling environment of the ICT sector. There is adequate evidence that the project activities made a
+                            significant contribution to encouraging efficiency, and affordability of ICT services which are likely to
+                            contribute to equity in access to connectivity. Overall, the efficacy is rated substantial.
+
+
+
+                                                                                                                                 Page 9 of 16
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      SO: ICT Sector Support - Phase II (P152358)
+
+
+
+
+  Overall Efficacy Rating
+  Substantial
+
+
+
+ 5. Efficiency
+Economic analysis. There was no formal economic analysis of the project, given that the project mainly
+financed capacity building activities, aimed at creating an enabling environment for the sector. The main project
+benefits were expected from the sector's contribution to the treasury, and increased internet connectivity to the
+universities and government agencies.
+
+Cost effectiveness. In the absence of a formal analysis, the efficiency was assessed through comparing the
+costs of various activities financed under the projects with comparable projects. The cost of component activities
+associated with creating an enabling environment (US$2.97 million) was comparable to the costs associated
+with similar work in other countries (the cost for the Djibouti Digital project which included activities associated
+with operationalization of a newly established regulator was US$2.0 million). Activities related to connecting
+universities and the government agencies were completed below budget but still exceeded the targets
+considerably. Technical assistance activities on SIM and digital ID were completed below half the price of the
+original budget. Expenses associated with government connectivity (backbone network) were higher than
+expected, given the challenges associated with attracting supplier and international vendors in the FCV context.
+
+Administrative and operational issues. The project experienced delays in the initial years until 2016, due to a
+combination of factors, including the weak capacity of the implementing agency, lack of trust by stakeholders on
+regulatory issues, inadequate coordination between the Federal Government of Somalia (FGS) and the Federal
+Member States (FMS), exacerbated by changes in leadership (with the Minister of the Ministry of Post,
+Telecommunications and Technology (MPTT changing thrice during the project lifetime), changes in leadership
+in the Central Bank of Somalia (CBS), frequent staff turnovers at the PIU, the security situation, and the
+administrative complexity of the hybrid modality. Things were more stable since 2017, and this aided in
+acceleration of activities since then. The project also experienced delays in grant disbursements, the need for
+multiple trust funds, and the requirement to process many grant amendments and to deal with changes in trust
+fund rules (ICR, paragraph 43). The ICR (paragraph 41) notes that a recent Somalia Country Management Unit
+(CMU) benchmark showed that overall staff costs were just below the median, based a sample of 14 projects.
+
+In sum, efficiency is rated substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)           *Coverage/Scope (%)
+
+
+                                                                                                      Page 10 of 16
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     SO: ICT Sector Support - Phase II (P152358)
+
+
+
+                                                                                    0
+Appraisal                                                  0
+                                                                                     Not Applicable
+                                                                                    0
+ICR Estimate                                               0
+                                                                                     Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of the PDO to the Government and Bank strategies is rated as High. Efficacy of the two
+objectives "to support the ICT sector by contributing to establishing an enabling environment" and "to encourage
+efficiency and equity in access to connectivity" are rated substantial, as the outcomes were largely realized.
+Efficiency is rated substantial. Taking these ratings into account, overall outcome is rated satisfactory.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+The key risk is financial risk. While the telecommunication law was adopted by the Parliament, there
+are challenges associated with enforcement of the legislation. The ICR (paragraph 94) notes that while the
+NCA has licensed some operators, there are still systemic issues that could undermine its independence.
+The contributions made by license operators to the treasury is still voluntary and on a "negotiated" basis
+(license operators at project closure were paying license fees; taxes were still being paid on voluntary
+“negotiated” basis). It is not clear if the government may be able to raise the resources needed for
+maintaining the Communication Room and government network. This risk is rated as substantial.
+
+The ICR (paragraph 93) notes that the program was initially planned as a series of three projects. However,
+the Country Management Unit (CMU) decided not to move ahead with the third phase and decided to merge
+the Digital Development (DD) and Finance, Competitiveness and Innovation activities under the Somalia
+Capacity Advancement Livelihood and Entrepreneurship through Digital Uplift project (SCALED-UP), to
+maximize synergies and cross-Global Practice (GP) collaboration. This had an impact on project
+sustainability as only some activities were carried forward by the other projects. There is a substantial risk
+that some development outcomes might not be sustained, or may even be reversed, without support efforts
+through existing or planned World Bank or donor partner projects.
+
+The ICR (paragraph 95) notes that SomaliREN's financial sustainability is in jeopardy and the institution
+cannot extend further connectivity, especially as many universities are now struggling to pay their bandwidth
+subscription fees.
+
+
+
+
+8. Assessment of Bank Performance
+
+                                                                                                   Page 11 of 16
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     SO: ICT Sector Support - Phase II (P152358)
+
+
+
+
+a. Quality-at-Entry
+  The approach of supporting technical assistance activities aimed at strengthening ICT sector's
+  regulatory oversight was appropriate, given the strategic importance of the sector to the Somali economy.
+  The analytical underpinnings of the project were appropriate and based on the recommendations of the
+  Bank's World Development Report (WDR) on 2011 on Conflict, Security and Development and for the
+  ICT sector in particular on the recommendations of the WDR 2016 on Internet for Development.
+
+  The implementation arrangements were appropriate. The project was structured as a recipient-executed
+  grant, with component one activities executed by the Bank on behalf of the recipient, given the weak
+  implementation capacity. The Project Implementation Unit in the Ministry of Posts, Telecoms and
+  Technology (MPTT) was responsible for components two and three activities. Some aspects of
+  implementation of these components were delegated locally to a local project coordination unit (PCU)
+  within the Ministry of Information, Communication and Cultural Heritage (MICCH) of the Puntland State of
+  Somalia, to foster collaboration between the Federal Government of Somalia (FGS) and the Federal
+  Member States (FMS), and Puntland was at the time one of the most developed states to pilot such an
+  arrangement.
+
+  Several risks were identified at appraisal, including high risks with governance, macroeconomic
+  risk, weak implementation capacity, stakeholder risk and security risk (PAD, paragraph 45). Mitigation
+  measures incorporated at design, included transparent dialogue with stakeholders, seeking to increase
+  revenue from the telecommunication sector for the treasury and minimizing security risk through locating
+  project activities in ministries within secure compounds. Even with the mitigation measures, the overall
+  project risk was rated as High at appraisal (PAD, 47). The arrangements made at appraisal for fiduciary
+  compliance were appropriate (discussed in section 10).
+
+  There were minor shortcomings in preparation: (i) although the hybrid modality did help in expediting
+  work on regulatory support for the sector, issues relating to the availability of funding were not sufficiently
+  considered at design. Donor funds were pledged but not delivered, and the disbursement was aligned
+  with expected donor cycles; (ii) the team initially had no Somalis on the team to decipher and navigate
+  the political dynamics; and (iii) there were shortcomings in M&E design (discussed in section 9).
+
+  On balance, the quality at entry was satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ Nineteen supervision missions (on average four times a year) were conducted during the project
+ lifetime. The continuity of leadership was maintained with the phase 1 Task Team Leaders (TTL) ,
+ managing phase 2.. The co-TTLs was located in Nairobi during the main part of implementation and this
+ helped in saving costs. One of the TTLs had thirty years of ICT experience, as well as specific expertise in
+ handling FCV experience having coauthored a book on ICT in FCV countries (The Role of Information and
+ Communication Technologies in Post-Conflict Reconstruction). The supervision team appropriately shifted
+ focus on activities associated with digital Identification, once SIM registration was made mandatory
+
+                                                                                                      Page 12 of 16
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     SO: ICT Sector Support - Phase II (P152358)
+
+
+
+ following the passage of the telecommunications law in 2017. Although there were initial delays in
+ procurement, the support provided by the team aided in fiduciary compliance. Security issues added to the
+ complexity of supervision. Collaboration between different Bank units was strengthened and generated
+ important synergies, e.g. with the FCI-led SCALED-UP program and the Recurrent costs and Reform
+ Financing operation, as well as active engagement with the Financial Governance Committee.
+
+ There were minor shortcomings. One, given the difficulties associated with M&E, the team could have
+ provided more training to the PIU on M&E implementation. The ICR (paragraph 89) notes that the Bank
+ team could have interacted more with the local PCU established in Puntland.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ Given the paucity of data in Somalia and the low implementation capacity, the M&E design was simple,
+ with the chosen indicators having baselines and appropriate targets. The indicator associated with the PDO
+ of enabling environment was appropriate, with the indicator monitoring the contributions from the sector to
+ the treasury. However, there were shortcomings in M&E design.
+
+ One, there were no indicators associated with the PDO of achieving equity in access to connectivity. Two,
+ the indicator associated with international bandwidth per inhabitant was not fully attributable to the project.
+ Three, there were some disconnects between the PDO expected outcomes/results and the selected PDO
+ indicators (as noted by the ICR para 68, the expected outcome Improved communications, with lower
+ prices was not matched to a PDO indicator). An indicator on gender could have been useful (e.g., in
+ respect to persons trained – as the telecommunications sector is male dominated in Somalia).
+
+
+
+b. M&E Implementation
+  The ICR (paragraph 70) notes that the data collection methods were basic, mostly relying on the PIU and
+  task team to compile data from external sources (such as, using data from third party sources such as
+  TeleGeography and the International Telecommunication Union). Given the limited data on the ground,
+  the project appropriately relied on household surveys. This helped in overcoming many of the
+  shortcomings in M&E design. For instance, given that it was too difficult to get data on access to
+  connectivity for the entire population, the household surveys showed a reduction in terms of digital
+  divides - regarding mobile phone ownership and mobile money - for certain vulnerable groups (women).
+
+  The ICT Data Collection Unit that was envisioned at design for monitoring and tracking progress was not
+  established. Despite the M&E framework being simple, the task team overestimated the capacity of the
+
+                                                                                                     Page 13 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     SO: ICT Sector Support - Phase II (P152358)
+
+
+
+  PIU to collect the requested data. The project coordinator had to keep track of indicators as the PIU did
+  not have a M&E specialist. The ICR (paragraph 71) notes that the PIU staff felt that they could have
+  benefitted from more training on monitoring.
+
+
+
+c. M&E Utilization
+  The project's implementation and results were reported on a regular basis, and the collected data was
+  utilized for monitoring project progress (ICR, paragraph 72).
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   This project was classified as a Category C project under the World Bank safeguard policies. No safeguards
+   were triggered at appraisal (PAD, page ix and x). The ICR (paragraph 73) notes that there were no negative
+   impacts on livelihoods, land use or physical relocation of people.
+
+
+
+
+b. Fiduciary Compliance
+   Financial management. A financial assessment conducted at appraisal, concluded that the financial
+   management risk was high, in view of the low implementation capacity and security considerations (PAD,
+   paragraph 50). The mitigation measures incorporated at design, included setting an accounting system
+   and training the relevant staff.(PAD, paragraph 50). The overall financial management was rated as
+   'moderately satisfactory' in the first Implementation Status Results (ISR) Report, and 'satisfactory' in the
+   remaining six ISRs. The ICR notes that there were limited ineligible expenses. Most of these were rectified.
+   The ICR (paragraph 74) notes that to ensure sustainability it was decided to apply a pragmatic "Use of
+   Country Systems (UCS) approach. The audits were unqualified.
+
+   Procurement management. A procurement assessment conducted at appraisal concluded that the
+   procurement risk was high, due to the weak capacity of the PIU (PAD, paragraph 28). The mitigation
+   measures incorporated at design, included hiring a locally-recruited procurement specialist and updating
+   the procurement manual and training respective staff on procurement. The ICR (paragraph 76) reports that
+   there was compliance with the Bank's procurement procedures. Since the national procurement law was
+   not fully operational, customized World Bank standard procurement documents were used. Although there
+   were some procurement delays, these were eventually resolved. The ICR does not report any instance of
+   mis-procurement.
+
+
+
+
+                                                                                                   Page 14 of 16
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     SO: ICT Sector Support - Phase II (P152358)
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                    Reason for
+Ratings                          ICR                     IEG
+                                                                                    Disagreements/Comment
+Outcome                          Satisfactory           Satisfactory
+
+Bank Performance                 Satisfactory           Satisfactory
+
+Quality of M&E                   Modest                 Modest
+
+Quality of ICR                   ---                    High
+
+
+12. Lessons
+
+The ICR draws the following main lessons from the experience of implementing this project, which
+are presented here with some adaptation of language.
+
+1. The project design needs to be simple and adaptable, especially in a Fragile, Conflict and
+Violence (FCA) context. This project had a limited number of components and interdependent
+activities. Many of the project activities were dependent on the passing of the Communications Law,
+but were designed in a way that allowed for flexibility and adaptability, given that it was still uncertain
+whether the Act would be approved by the parliament.
+
+2. "Standard" interventions need significant adaptation. The choice to support a
+Communications Act and the National Communications Authority in this project was informed by
+telecom development across many countries (including FCV countries), and by the first phase of this
+project. While these interventions are fundamental building blocks for the evolution of the sector,
+looking forward, when developing this type of core sector interventions, it would be useful to
+incorporate features such as private sector incentives, understanding fragility drivers and developing
+adequate risk mitigation strategies and engaging stakeholders who can provide insight on what is
+needed to ensure sustainability.
+
+3. Reform drivers can help in expediting implementation. This project helped in the passage of
+the communication law and establishing the ICT regulator. A success factor was the ability to link the
+expected reforms under this project to the government goals of achieving High Indebted Poor
+Country (HIPC) status, enabling critical debt release. This was critical in a FCV context where policy
+reforms are needed to counteract power dynamics.
+
+4. Even if the hybrid modality is necessary in a FCV context, they are not always efficient,
+and hence steps to mitigate the effect of these inefficiencies are required. The lesson from this
+project is that, while this modality can be successful in kick-starting implementation, it adds to
+
+
+                                                                                                       Page 15 of 16
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       SO: ICT Sector Support - Phase II (P152358)
+
+
+
+administrative complexities, and the uncertainty over the availability of donor funding adds to the
+complication of project management.
+
+5. Local anchoring is particularly important in a low security environment. This project
+demonstrated the importance of employing local language speaking staff, and with an understanding
+of the local context, sensitivities and relationships. This project eventually did this through a Somali
+speaking consultant, and this proved to be essential in supporting the supervision team.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is clear. The quality of analysis provided in the ICR is clear and summarizes the salient points and
+clearly links evidence to findings. The ICR clearly discusses the positive and negative aspects of the hybrid
+modality of financing used for this project. The ICR is internally consistent and there is logical linking and
+integration of the various parts of the report. The ICR candidly discusses the issues with the design of M&E.
+The theory of change listing the causal links between the project activities, outputs and outcomes is well-
+articulated and the ICR draws good lessons from the experience of implementing this project. The ICR made
+good attempts to report on cost effectiveness of the project. Given the data limitations in a fragile country with
+weak implementation capacity, the ICR provides good narrative of how the shortcomings in M&E design were
+overcome during implementation.
+
+
+
+  a. Quality of ICR Rating
+       High
+
+
+
+
+                                                                                                      Page 16 of 16
+

@@ -1,0 +1,753 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Fin Sector Modern and Info Mgnt System (P088759)
+
+
+
+                                                                                 Report Number : ICRR0021463
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P088759                                    Fin Sector Modern and Info Mgnt System
+
+ Country                                    Practice Area(Lead)
+ Vietnam                                    Finance, Competitiveness and Innovation
+
+
+ L/C/TF Number(s)                           Closing Date (Original)               Total Project Cost (USD)
+ IDA-45050,TF-93085                         31-Dec-2014                                         54,590,187.94
+
+ Bank Approval Date                         Closing Date (Actual)
+ 30-Oct-2008                                31-Dec-2017
+
+                                            IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                           60,000,000.00                                       830,000.00
+
+ Revised Commitment                            60,830,000.00                                       830,000.00
+
+ Actual                                        49,559,479.84                                       830,000.00
+
+
+
+
+ Prepared by                Reviewed by                   ICR Review Coordinator         Group
+ Paul Holden                Vibecke Dixon                 Christopher David Nelson       IEGFP (Unit 3)
+
+
+
+
+2. Project Objectives and Components
+
+a. Objectives
+   The project development objective (PDO) was “To assist the State Bank of Vietnam (SBV), the Credit
+   Information Center (CIC) and the Deposit Insurance of Vietnam (DIV) to improve the delivery of their main
+   functions in accordance with relevant international standards for the banking sector. (Financing Agreement,
+   p. 8)
+
+   The PDO did not change in the restructuring.
+
+
+
+                                                                                                  Page 1 of 15
+       Independent Evaluation Group (IEG)                                       Implementation Completion Report (ICR) Review
+       Fin Sector Modern and Info Mgnt System (P088759)
+
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+                                                          PHEVALUNDERTAKENLBL
+
+
+
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project had 3 components, one for each of the 3 institutions involved in the project.
+
+   (A): Modernizing the State Bank of Vietnam (SBV), which involved:
+
+   •   Updating the reporting requirements of the credit institutions;
+   •   Developing a research program that supported monetary policy analysis and its implementation;
+   •   Streamlining core business processes;
+   •   Developing a systematic staff training program;
+   •   Designing and building a ICT system, which involved following international standards for;
+   •   A centralized data warehouse;
+   •   A resource planning and accounting system;
+   •   A human resource planning system;
+   •   A document management system;
+   •   Upgraded computer hardware and communications equipment;
+   •   Staff training in the use of the new systems.
+
+   (B): The reform of the Credit Information Center, which involved:
+
+
+   • Establishing a core data warehouse that would allow the storage of credit information;
+   • Software for effective data search and the production of credit reports;
+   • Enhanced security of the credit information;
+   • Integration with SBV’s data warehouse, that provided for supervision reports of Credit Institutions and
+   integration with the Enterprise Resource
+
+
+   (C): The reform of the Deposit Insurance of Vietnam, which involved:
+
+   •   Establishing a core data warehouse;
+   •   Installing risk management software that could be interrogated for the purpose of risk management;
+   •   Installing Enterprise Resource Planning software;
+   •   Connecting to SBV’s data warehouse to integrate DIV with SBV supervisory functions.
+
+
+                                                                                                              Page 2 of 15
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    Fin Sector Modern and Info Mgnt System (P088759)
+
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost: The project was approved on October 30, 2008 for SDR38.2 million, which at the time of
+  approval was the equivalent of US$60 million. There was no change in the SDR amount during the
+  restructurings. However, the substantial change in the US dollar SDR exchange rate, meant that
+  US$54.95 million was actually available to be utilized. There was additional trust fund financing of
+  US$830,000. The actual amount disbursed was US$53.76 million, and an additional US$830,000i\ in trust
+  fund financing for a total of US$54.59 million. There was additional development partner financing
+  consisting of US$11 million from Japan’s Ministry of Finance and US$830,000 in PHRD grants. Including
+  the grants, US$10.25 million was disbursed.
+
+  Borrower Contribution: The borrower did not contribute financially to this project.
+
+  Restructuring and Dates: There were three level 2 restructurings over the life of the project (ICR p. 14).
+  The need for the restructurings arose because of slow initial progress arising from design complexity,
+  initially inadequate capacity in the 3 agencies and the project implementation team, which resulted in
+  implementation activities only commencing in early 2011, over 2 years from project approval.
+
+  The first restructuring occurred on August 5, 2010, when extensions were requested for engaging
+  technical assistance under the covenants of the Financing Agreement and for an extension to the
+  procurement processes and schedules.
+
+  The project was restructured a second time on December 22, 2014, when the closing date was extended
+  by 2 years to December 31, 2016. Under this restructuring, the results framework was modified to reflect
+  actions already completed, there was a reallocation between disbursement categories, an intermediate
+  results indicator was added, and the scope of the research program was defined.
+
+  The third restructuring occurred on December 31, 2016 when the closing date was extended by a further
+  12 months to December 31, 2017 to allow time for completing the project’s activities and to give more
+  time for system installation, customization and testing.
+
+
+
+
+                                                                                                    Page 3 of 15
+            Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+            Fin Sector Modern and Info Mgnt System (P088759)
+
+
+
+   3. Relevance of Objectives
+
+       Rationale
+       The project development objective, namely to assist the State Bank of Vietnam (SBV), the Credit
+       Information Center (CIC) and the Deposit Insurance of Vietnam (DIV) to improve the delivery of their main
+       functions in accordance with relevant international standards for the banking sector was well aligned with
+       the policy objectives of the Government, as described in the Socio-economic Development Plan for the
+       2006-2011 period. It was also consistent with the World Bank CPS for FY2007 – 2011, which included
+       among its reform objectives banking reform and financial sector reform more generally.
+
+       At closure, the PDO remained consistent with the Government’s Socio-economic Development Plan for
+       2016 – 2020, one goal of which was to increase the stability of the financial sector. It was also consistent
+       with the World Bank Country Policy Framework for FY2018 – FY2022, which states (pp. 25 - 26) “Support
+       will focus on six main areas …(iv) financial stability…and (vi) capital market development".
+
+
+
+
+       Rating
+       Substantial
+
+   4. Achievement of Objectives (Efficacy)
+
+PHEFFICACYTBL
+
+
+    Objective 1
+    Objective
+     To assist the SBV, the CIC and the DIV to improve the delivery of their main functions in accordance with
+     relevant international standards for the banking sector.
+
+    Rationale
+    The Theory of Change was based on the assumption that if the 3 institutions adopted standards consistent
+    with international best practices. The reforms embodied in the project would result in contributing to the
+    financial system becoming more market oriented (PAD p.19). Best practices refer to:
+
+        •  A sound legal framework on which to base credit information systems and supervisory processes.
+        Initially, the legal framework did not support the design of the project. However, over the period of project
+        implementation, the legal and regulatory framework was strengthened (interview with the TTL;
+        • Business processes that integrate information collected by the CIC and the DIV and supplied to the SBV
+        for it to exercise regulatory oversight. An important input is the integration of the IT platforms of each
+        institution, so that data is passed seamlessly as it becomes available;
+
+
+
+
+                                                                                                          Page 4 of 15
+      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+      Fin Sector Modern and Info Mgnt System (P088759)
+
+
+
+  •This in turn leads to the output that provides the necessary information for the DIV to engage in risk
+  analysis and provide the SBV with the necessary tools to supervise the banking sector;
+
+
+Finally, the integration of data platforms and improved business processes in the 3 institutions enhances
+their ability to undertake their respective functions and move towards meeting international standards for
+financial sector supervision, credit information, and deposit insurance.
+
+This is plausible - research across many financial systems in a number of countries with respect has
+demonstrated:
+
+
+• The importance of effective banking system supervision regarding financial system stability;
+• The positive effect of having credit information on access to finance, through being able to better assess
+the risk of lending to credit applicants and;
+• The confidence building impact of deposit insurance on expanding use of banking systems (as long as this
+does not create perverse incentives regarding excessive risk taking by credit institutions).
+
+Inputs
+There were 3 inputs to achieve the anticipated outcomes. These inputs were:
+
+• Technical and advisory services to identify gaps in order to re-engineer business processes;
+• Designing IT software and hardware infrastructure and acquiring and implementing the appropriate
+systems;
+• Sharing of knowledge both within and between the 3 institutions and training staff.
+
+Outputs
+
+There were 6 expected outputs under the theory of change as outlined in the ICR (p. 11). They were:
+
+• New and upgraded regulations, business practices and operational policies for the 3 institutions;
+• For the SBV, the centralization of reporting by credit institutions, the introduction of economic and
+statistical research programs and ongoing medium-term training;
+• For all 3 institutions, integrated IT infrastructure, which included a data warehouse, and upgraded
+operational and business processes;
+• For the SBV and the DIV, upgraded human resource and document planning systems;
+• For all 3 institutions, training on how to use the new systems;
+• For the SBV, training on international best practices for supervision, ongoing training a study tours.
+
+Outcomes
+
+The expected outcome of the PDO was initially to be measured by 5 outcome indicators, that were
+
+
+                                                                                                   Page 5 of 15
+    Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+    Fin Sector Modern and Info Mgnt System (P088759)
+
+
+
+subsequently expanded to 6 and slightly revised during the restructuring. The first 3 indicators related to the
+SBV while the last 2 (3 after restructuring) related to the CIC and the DIV respectively:
+
+Outcome Indicator 1 (a): Coverage, timeliness and disclosure of monetary and financial statistics, would be
+consistent with IMF guidelines. In the restructuring this was revised to: Improving the accuracy and
+consistency of statistics submitted to the IMF and “the results of two research programs regularly published
+(ICR p. 13). Compliance was determined by the extent to which these were in accordance with IMF
+guidelines in its Manuals. Actual achievements under this indicator were;
+
+• The quality of input data was substantially approved through the elimination of duplication and
+inconsistency (ICR p. 16);
+• “Unwanted changes to the original data” were prevented (ICR p. 16);
+• By the closing of the project, the monthly monetary survey was submitted to the IMF within 45 days after
+the end of the previous month, compared to 60 days before the project commenced (ICR p. 17);
+• The results of 2 research programs on inflation and interbank risks were shared within the SBV, but were
+not published (ICR p. 17).
+
+The ICR (p. 17) states that "this outcome is considered largely achieved because publication of the research
+papers is outside of the Project control”. An issue, however, is that no baseline data were established in
+project design. While the theory of change is plausible, the construction of the indicators is independent of it,
+and it is difficult to assess the impact of the achievement on moving the Vietnam financial system towards
+market orientation. Presumably the results of the research programs improved the ability of the SBV to
+conduct monetary policy, but there is no statement of this in the PAD, nor in the ICR.
+
+Outcome Indicator 1 (b): The offsite supervision conducted by SBV would be partially compliant with Basle
+Core Principles (BCP) 16-20. This indicator was modified to: Principles of offsite supervision would be
+improved with respect to the reporting of banks’ risk profiles in accordance with BCP. The specific criterion
+was Core Principle 16.20 of the Bank for International Settlements. The ICR, (p. 17) states that processes
+connected with BIS 16.20 were followed and that risk profiles on individual credit institutions were assessed
+and reported on quarterly.
+
+This outcome was fully achieved.
+
+Outcome Indicator 1 (c): SBV’s financial statements would be compiled and issued in a timely fashion and in
+accordance with international standards. This was modified in the restructuring to: The statistics would be
+consistent with Vietnamese Accounting Standards as well as international ones that were in accordance with
+standards for central banks.
+
+The criterion was based on international standards for the presentation, consolidation and timeliness for
+central banks’ accounts. The ICR (p. 17) states that SBV’s financial statements were in compliance with
+Vietnam’s 2015 accounting standards, that were in turn mostly in compliance with international accounting
+standards. A daily balance sheet for the SBV was produced and the time taken to produces monthly balance
+
+
+                                                                                                      Page 6 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Fin Sector Modern and Info Mgnt System (P088759)
+
+
+
+sheets declined. Year-end closing of SBV’s accounts fell from 15 days before closing to 10 days by project
+completion.
+
+The ICR considers this outcome to be “largely achieved” because SBV’s accounting practices were in full
+compliance with Vietnam’s accounting standards. It states (p. 17) “Full compatibility with international
+accounting standards is a policy decision beyond the Project’s control since it requires changes to the legal
+framework for accounting and financial standards by the Ministry of Finance.” While the ICR also states that
+staff has been trained to quickly implement international standards once the legal framework has been
+changed, it begs the question of why this was not addressed in the design of the project.
+
+
+Outcome Indicator 2: The CIC core business would be strengthened to be consistent with practices of public
+credit registries in OECD countries. This was revised in the restructuring to: Ensuring that credit information
+provided by CIC was comprehensive and covered repayment histories, unpaid debts and outstanding credit
+obligations. It would be measured by the degree to which the CIC practices were in accordance with those of
+OECD public credit registries. By the end of the project, the CIC practices were in compliance with OECD
+public credit registry practices;
+
+• In the areas of accuracy information;
+• In the provision of credit scores;
+• In enhanced privacy and confidentiality;
+
+In addition:
+
+• The rankings under Getting Credit Scores of the World Bank DBIs, the Depth of Credit Information
+improved from 3 in 2008 to 7 in 2018. More relevant was that the coverage of the credit registry rose from 10
+million records before the project began, to 70 million by the time the project closed and has continued to
+increase thereafter (IEG's meeting with the project team, Feb 27th, 2019) .
+• Business volume for the credit registry increased significantly leading to a reduction in fees.
+
+
+The ICR (p. 17) states that this outcome was fully achieved. While this seems to be so, again having specific
+targets for some of the components of the indicator, explaining what these meant in terms of the CIC would
+have strengthened the analysis of the achievement. Furthermore, there is no mention of changes in the legal
+regime governing credit information in the ICR. IEG's meeting wtih the project team (Feb 27th, 2019)
+revealed that there were 12 CIC regulations and decisions issued in 2017 in compliance with international
+standards for public credit registries that governed the obligations of the CIC to rectify incorrect information
+in the registry, protect the rights of legal and physical persons regarding their credit reports, and specify
+future plans for software development, product development as well as information checking and updating.
+
+Outcome Indicator 3 (a): The DIV would produce risk assessment exposures that were in line with the
+recommendations of the International Working Group on Deposit Insurance under the Financial Stability
+
+
+                                                                                                    Page 7 of 15
+                  Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                  Fin Sector Modern and Info Mgnt System (P088759)
+
+
+
+             Forum. The ICR (p. 18) indicates that assessing insured credit institutions risk of failure covers both
+             qualitative and quantitative variables. The quantitative aspects include credit information on borrowers in
+             credit institutions portfolios, macroeconomic data from SBV, the findings from the examination of insured
+             credit institutions and other aspects of DIV’s functions.
+
+             The ICR (p. 19) states that this outcome was largely achieved, with the qualification due to more time being
+             needed to determine the usability of these indicators. It states, “The Project has endowed DIV with advanced
+             risk analysis systems and the information sharing between SBV and DIV indicates that the DIV systems can
+             be used productively as an offsite supervisory tool.” The TTL indicated that the system was being used
+             extensively to assess risk.
+
+             Outcome Indicator 3(b): In the restructuring, an additional indicator for the DIV was added, namely: Risk
+             assessment reports would be produced to cover all aspects of DIV exposure. Both DIV indicators were
+             required to be in line with the recommendations of the Financial Stability Forum. This necessitated improved
+             capacity to provide reports to the management of DIV on estimated risk-based premiums and estimates of
+             the risk level of the business reserve fund. It also required that DIV improve its compliance with the
+             International Association of Deposit Insurers Core Principles 8 and 9.
+
+             The ICR (p. 18) states that this indicator was largely achieved because more time in operation was needed
+             to assess compliance. It states that DIV has the capacity to calculate risk-based premiums in line with
+             international practices, but that they have not been applied. This begs the question of how the DIV capacity
+             is assessed, and if it was indeed achieved, why have international practices not been implemented. The
+             same applies the statement that “DIV has now the capacity and advanced risk-analysis systems to rank the
+             risk, give early warning to institutions and report to the SBV and other authorities…to take timely action for
+             maintaining the stability of the financial system. The interview with the TTL confirmed that the system was
+             being used.
+
+             In spite of the qualitative nature of the outcome indicators, and the lack of baseline data, there were
+             significant achievements under the PDO. The production of data by the SBV, the extended coverage of the
+             CIC and its compliance with OECD guidelines for public credit registries, and the improvement in risk
+             assessments have all contributed to the strengthening of key institutions governing the financial sector in
+             Vietnam. The efficacy of this PDO is therefore rated substantial.
+
+
+
+             Rating
+      Substantial
+     PHREVDELTBL
+
+
+PHOVRLEFFRATTBL
+
+
+
+
+Rationale
+Against the one objective, the rating was Substantial and thus, the overall Efficacy rating is Substantial.
+
+
+
+                                                                                                                 Page 8 of 15
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       Fin Sector Modern and Info Mgnt System (P088759)
+
+
+
+
+Overall Efficacy Rating
+Substantial
+
+5. Efficiency
+
+ The ICR (p. 21) states that an economic and financial analysis was not conducted on the project because of
+ the difficulty of quantifying its benefits, since there was not expected to be revenue generation for the 3
+ institutions involved. However, the ICR (p. 21) notes that the CIC did in fact generate revenue, and that the
+ project contributed to this. However, the ICR also states that “the accounting systems of these public sector
+ financial institutions could not produce and provide reliable information on the unit costs for delivering the
+ main functions.” This is an indictment of the management systems of the 3 institutions and is inconsistent with
+ PDO2. In particular, not being able to undertake a financial and unit cost analysis of the CIC is difficult to
+ understand. In many countries, credit registries are privately operated, selling their information. The was
+ certainly an opportunity to use this as a foundation for an economic and financial analysis of this component
+ of the project.
+
+ Because of the difficulty in quantifying variables, the ICR takes a qualitative approach in assessing the
+ project efficiency. It does so under the following headings:
+
+   • Economic benefits, which are evaluated on the basis of the importance of the 3 institutions for
+   macroeconomic and financial stability. This can be derived from the theory of change outlined in Section 4;
+   • Savings on operational costs and administration: The ICR states that all the institutions reported
+   improvements in these areas, through the integration of the information collection of the 3 institutions with
+   consequent reduction in the duplication of efforts – “the accounting function can focus more on financial
+   management” (ICR p. 21). This is difficult to reconcile with the inability to undertake financial analysis.
+   Nevertheless, the restructured system also reduced the burden of complex reporting requirements on the
+   part of the credit institutions so that efficiency has improved;
+   • Using common IT architecture for all 3 institutions reduced procurement costs of both hardware
+   and software as well as maintenance costs. The ICR (p. 21) states that no major IT hardware of
+   software purchases will be necessary for 5 years from project closure. IEG's meeting with the project team
+   (Feb. 27th, 2019) indicated that this was not completely accurate because the CIC will require additional
+   software and hardware as a result of the large expansion in data storage needs as well as the installation of
+   a more effective backup system. However, this was largely due to the success of the credit information
+   system, since the number of users has increased seven-fold since the start of the project. This is an area
+   where a more quantitative approach to estimating efficiency could have been followed;
+   • All software, hardware, and consultancy requirements were obtained through international
+   competitive bidding, which resulted in substantial savings that more than offset the decline in the US
+   dollar amount available for the project as a result of the depreciation in the US dollar – SDR exchange rate.
+   This allowed for the procurement of a higher quality data center for SBV than had been originally envisaged
+   and the hiring of a change management specialist and the engagement of 3rd party verification services.
+
+
+
+                                                                                                     Page 9 of 15
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      Fin Sector Modern and Info Mgnt System (P088759)
+
+
+
+
+The ICR (pp. 21 - 22) states that improvements in the 3 institutions were “extensive and foundational and that
+the “Project stands out for having largely achieved the expected outcomes without budget overruns”. This is a
+valid statement of the achievements of the project.
+
+The major drawback related to efficiency arose from implementation delays because of the complexity of the
+project and limited capacity of the implementation staff. This was an issue in project design, which
+significantly overestimated capacity and underestimated the effect of design complexity on the length of the
+project. In other countries, reforms of this type typically take up to a decade to implement – the initial design
+of the project did not allow for sufficient time.
+
+Given the limited effort to undertake economic analysis and the various delays imposed by the limited
+capacity of the institutions, efficiency is rated Modest.
+
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                    Rate
+                                                          Point value (%)            *Coverage/Scope (%)
+                                    Available?
+                                                                                     0
+Appraisal                                                 0
+                                                                                     Not Applicable
+                                                                                     0
+ICR Estimate                                              0
+                                                                                     Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+
+6. Outcome
+
+The project objectives were largely achieved and have provided the foundation for the modernization of the
+financial system of Vietnam.
+
+Based on a substantial rating for relevance of objectives, a substantial rating for efficacy and a modest rating for
+efficiency, the outcome of the project is rated moderately satisfactory.
+
+
+
+
+a.   Outcome Rating
+     Moderately Satisfactory
+
+
+                                                                                                     Page 10 of 15
+     Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+     Fin Sector Modern and Info Mgnt System (P088759)
+
+
+
+
+7. Risk to Development Outcome
+
+
+The ICR identifies risks to development outcome arising from 2 sources:
+
+
+• Technical risk: If the IT systems are not upgraded in a timely fashion, the long term viability of the project
+could be compromised. So far, this has not transpired – the upgrading of the CIC technology framework
+indicates commitment to ensuring that the technology systems are updated. Furthermore, this risk is mitigated
+by the CIC preparing a long-term IT strategy for the 2020 – 2030 period. The government also remains strongly
+committed to the project (interview with the TTL;
+• Institutional support risk: Capacity risk was a feature of the project and contributed to delays. If
+management commitment to upgrading staff skills to utilize the new business model based on the enhanced
+systems is not maintained. However, the ICR (p. 29) states that the SBV Human Resource department has
+prepared a 3-year staff training program and IEG's meeting with the project team (Feb. 27th, 2019) indicated
+that ongoing training is occurring.
+
+
+Both of these factors indicate strong prospects for project achievements to be maintained.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  Quality at entry was based on extensive constraints analysis (ICR p. 27) in order to upgrade the
+  compliance of the SBV, the CIC and the DIV to accord with international standards with respect to the
+  delivery of key functions of the institutions. The Bank team worked closely with the clients’ project
+  preparation team to ensure the confluence of project design by the SBV and the Bank’s PAD. This led to
+  strong government buy-in for the project. An issue in quality of entry was insufficient attention being given
+  to the legal framework necessary for such a complex and integrated operation to proceed. Furthermore,
+  the quality at entry did not, realistically estimate the amount of time required for project implementation, nor
+  did it effectively incorporate the initial lack of capacity in the 3 institutions into project design. This impacted
+  implementation and led to extensive delays. In addition, the ICR (p. 23) points out that change
+  management needs were not addressed in project design. These shortcomings, while impacting the initial
+  achievements of the project are considered moderate and quality of entry is therefore considered
+  moderately satisfactory.
+
+
+                                                                                                         Page 11 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Fin Sector Modern and Info Mgnt System (P088759)
+
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+b. Quality of supervision
+  The ICR (p. 28) describes project implementation support as “extensive”. There was a total of 15
+  implementation status reports over the life of the project. In addition, having the procurement and financial
+  management specialists based in Hanoi enhanced the preparation of the large-scale procurement packages
+  necessary to purchase the complex and costly IT hardware and software systems. The World Bank team
+  also had banking experts as part of the implementation team, and World Bank IT staff also participated and
+  provided advice on cyber-security.
+
+  As deficiencies in the development of the project were identified, including the legal and regulatory
+  framework, they were addressed. Additional technical assistance was provided to increase capacity of the
+  counterparts in the 3 agencies.
+
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+  M&E design is described in the ICR (p. 26) as being “relevant in the in the context of the project at the time of
+  preparation. While the theory of change was plausible, there were several deficiencies in M&E design, in
+  particular, relating the choice of indicators, some of which did not appear to add to the information necessary to
+  evaluate the project. Many of the indicators were only loosely related to the theory of change. For example,
+  exactly what reducing the time for sending the monetary survey data to the IMF from 60 days to 45 days related
+  to making the monetary system more market oriented. This applies to a number of the outcome indicators.
+  Similarly, the relevance of having a target of minimizing the duplication and inconsistencies of input data is
+  difficult to judge without knowing the impact this was having on the formulation of monetary policy. An additional
+  factor was that all of the M&E indicators were qualitative. Some areas were amenable to quantification; for
+  example, the number of records in the credit bureau could have been used to assess the quantitative impact,
+  especially since the ICR (p. 50) states that fees for credit reports were reduced by 60%.
+
+  The ICR also points out (p. 26) that a number of the indicators related to high level policy decisions that were
+  out of the control of the project. Indicators that do not reflect variables under the control of the project makes
+
+                                                                                                     Page 12 of 15
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Fin Sector Modern and Info Mgnt System (P088759)
+
+
+
+  them less than compelling.
+
+
+
+
+b. M&E Implementation
+  The PMU was responsible for M&E implementation. The ICR (p. 26) states that implementation progress was
+  tracked, and that the World Bank team helped personnel in the PMU and PIU receive training in M&E. It also
+  reports that weaknesses remained because of limited capacity as there was no full time M&E specialist in the
+  PMU. This appears to have been addressed both during and in the post-project period through further
+  intensive technical assistance from a variety of development partners (IEG's meeting with the project
+  team Feb. 27th, 2019). The ICR also points out (p. 26) that a number of the indicators related to high level
+  policy decisions were out of the control of the project. Indicators that do not reflect variables under the control
+  of the project makes them less than compelling.
+
+
+
+c. M&E Utilization
+  The ICR (p. 27) states that indicators were used to track the progress of the project, which resulted in the
+  revision of indicators in the restructuring following the mid-term review. The M&E results were also used to
+  publicize the success of the project within the SBV, the CIC, and the DIV once progress began to be made.
+  Overall, M&E implementation appears to have guided the restructuring and the long-term success of the
+  project.
+
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+  No environmental and social safeguards policies were applied to this Project as it was classified as
+  Category C during appraisal and implementation (ICR para 71).
+
+
+
+
+b. Fiduciary Compliance
+  The information on Procurement and financial management is relatively scarce in the ICR: However, it is stated
+  that the PMU had full-time staff in charge of procurement, financial management, and the ICR reports (para 55)
+  that WB procurement and financial management guidelines were followed. On page 57 in Annex 4, it is also
+
+                                                                                                      Page 13 of 15
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      Fin Sector Modern and Info Mgnt System (P088759)
+
+
+
+  stated that the “project financial management and procurement were conducted in compliance with the relevant
+  Vietnamese laws and regulations and the World Bank guidelines” and “because the Project’s Action Plan for
+  Improved Governance and Transparency in Procurement was implemented throughout the project life, there
+  were no project delays that was caused by financial irregularities or procurement”.
+
+
+
+c. Unintended impacts (Positive or Negative)
+  The ICR does not report on any unintended impact.
+
+
+
+d. Other
+    ---
+
+
+
+11. Ratings
+                                                                                    Reason for
+Ratings                        ICR                       IEG
+                                                                                    Disagreements/Comment
+                               Moderately                Moderately
+Outcome                                                                             ---
+                               Satisfactory              Satisfactory
+                               Moderately                Moderately
+Bank Performance                                                                    ---
+                               Satisfactory              Satisfactory
+                                                                                    While there were some
+                                                                                    shortcomings in the choice of
+                                                                                    indicators, the M&E system
+                                                                                    provided sufficient information
+Quality of M&E                 Modest                    Substantial
+                                                                                    to allow for appropriate
+                                                                                    adjustments to be made and
+                                                                                    to identify the achivements of
+                                                                                    the project
+Quality of ICR                                           High                       ---
+
+12. Lessons
+
+The following lessons are taken from the ICR with some adaptation of language:
+
+Complex IT projects require substantial time to implement. If this is not taken into account at the design
+stage and incorporated into the estimated time for the completion of the project, serious delays may arise that
+could even compromise the success of the project.
+
+The business models that rely on technology alone do not necessarily ensure that new procedures and
+processes are also developed to take advantage of upgraded IT systems, the usefulness of which is
+strongly dependent on users having the capacity to take advantage of the information that they supply
+
+                                                                                                     Page 14 of 15
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      Fin Sector Modern and Info Mgnt System (P088759)
+
+
+
+
+Project design and implementation may be strengthened if they incorporate the existing capacity of the
+implementing institutions from the outset.The limited capacity of all 3 institutions involved in the project led
+to serious initial delays.
+
+IEG draws an additional lesson:
+
+Project design that incorporates flexibility and change management into complex projects raises the
+probability of success, which was illustrated by the changes that occurred later in project implementation.
+
+
+
+
+13. Assessment Recommended?
+
+No
+
+14. Comments on Quality of ICR
+
+This is an excellent ICR, which clearly sets out the background to the project and the issues encountered at all
+phases. It describes the reasons for ratings, is systematic in its discussion and follows the guidelines
+consistently. Additional discussion on issues related to the indicators would have been welcome, but overall it
+is a very sound document.
+
+
+
+a. Quality of ICR Rating
+     High
+
+
+
+
+                                                                                                   Page 15 of 15
+

@@ -1,0 +1,999 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     GH-Transport Project SIL (FY09) (P102000)
+
+
+
+                                                                                 Report Number: ICRR0021776
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P102000                                    GH-Transport Project SIL (FY09)
+
+ Country                                    Practice Area(Lead)
+ Ghana                                      Transport
+
+
+ L/C/TF Number(s)                          Closing Date (Original)                Total Project Cost (USD)
+ IDA-46000,IDA-55490                       30-Jun-2015                                         243,000,033.37
+
+ Bank Approval Date                        Closing Date (Actual)
+ 30-Jun-2009                               31-Dec-2018
+
+                                           IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                             225,000,000.00                                             0.00
+
+ Revised Commitment                              249,995,112.75                                             0.00
+
+ Actual                                          243,000,033.37                                             0.00
+
+
+
+
+ Prepared by                Reviewed by                   ICR Review Coordinator         Group
+ Peter Nigel Freeman        Elisabeth Goller              Victoria Alexeeva              IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The project development objective (PDO) in the Financial Agreement [FA] (page 5) was to improve the
+   mobility of goods and passengers through reductions in travel time and vehicle operating costs, and to
+   improve road safety standards.
+
+   The PDO was revised at the time of additional finance (AF) approval of November 4, 2014 to read "to improve
+   mobility of goods and passengers on selected roads through reduction in travel time, reduction in vehicle
+   operating costs and enhanced road safety awareness." For ease of assessment, the revised objective is
+
+                                                                                                  Page 1 of 19
+     Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+     GH-Transport Project SIL (FY09) (P102000)
+
+
+
+   parsed into the following two parts: (i) to improve mobility of goods and passengers on selected roads through
+   reduction in travel time and vehicle operating costs (this is basically identical to the first original objective) and
+   (ii) to improve mobility of goods and passengers on selected roads through enhanced road safety awareness.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  04-Nov-2014
+
+c. Will a split evaluation be undertaken?
+   Yes
+
+d. Components
+   A – Support to Ministry of Roads & Highways (MRH): a) Integration of geographic information systems
+   (GIS) of Road Agencies; b) Organization of development partners’ conference to exchange ideas and
+   ensure coordination; c) Preparation of feasibility studies such as improved axle load control and
+   strengthening of the Road Fund; d) Capacity building including strengthening management information
+   systems and development of a human resource development strategy. Original cost US$ 4.200 million; at
+   AF US$ 4.200 million; at project closure US$ 4.127 million.
+
+   B - Support to Road Sector and Educational Entities: Support to the a) Driver and Vehicle Licensing
+   Authority (DVLA) to develop improved licencing methods, b) National Road Safety Commission (NRSC) for
+   road safety equipment, educational road safety materials, provision of facilities for emergency response
+   services and training in road safety audits, c) Kwame Nkrumah University of Science and Technology
+   (KNUST) for laboratory equipment, computers, additional classrooms and visits by specialist presenters,
+   and d) Government Technical Training Center (GTTC) for classrooms, a hostel and workshop, the setting
+   up of a pilot driving academy and the introduction of training in vehicle maintenance standards. Original
+   US$ 6.500 million; at AF US$ 6.140 million; at closure US$ 5.238 million.
+
+   C - Improvement of Trunk Roads: a) Rehabilitation of the Ayamfuri-Asawinso Road; b) Supervision
+   (including environmental and social safeguards), and c) Capacity building and equipment. Original US$
+   64.000 million; at AF US$ 71.640 million; at closure US$ 86.965 million.
+
+   D - Improvement of Urban Roads and Infrastructure: a) Provision of urban transport infrastructure; b)
+   Rehabilitation of Burma Camp Road; c) Rehabilitation of Giffard Road; d) Capacity building; e) Supervision
+   (including environmental and social safeguards). Original US$ 78.000 million; at AF US$ 95.860 million; at
+   closure US$ 79.442 million.
+
+   E - Improvement of Feeder Roads: a) Improvement/rehabilitation of feeder roads; b) Supervision (including
+   environmental and social safeguards); c) capacity building. Original US$ 50.500 million; at AF US$ 50.000
+   million; at closure US$ 46.763 million.
+
+
+                                                                                                         Page 2 of 19
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    GH-Transport Project SIL (FY09) (P102000)
+
+
+
+  F - Support to Ministry of Transport (MoT) and other transport entities: Support to a) MoT to make the
+  Ghana Railway Development Authority (GRDA) operational; b) Ghana Airports Company Ltd (GACL) to
+  carry out studies for the adaptation of Takoradi airport for civilian purposes and to prepare a master plan for
+  the development of regional airports; c) Ghana Civil Aviation Authority (GCAA) to develop regulations for
+  the aviation industry and carry out studies on aviation sector development; d) Ghana Maritime Authority
+  (GMA) for a feasibility study for the improvement of transport on Lake Volta; e) the Volta Lake Transport
+  Company (VLTC) concerning the development of landing stages and reception facilities on Lake Volta; f)
+  Ghana Ports and and Harbors Authority (GPHA) on the potential to double the carriageway on the Meridian
+  road in Tema; and g) the Regional Maritime University (RMU) to improve capacity to provide maritime
+  training services for the West Africa region.Original US$ 13.500 million; at AF US$ 13.500 million; at closure
+  US$ 12.145 million.
+
+  G - Project Management: Procurement of vehicles and equipment, human resource development. Original
+  US$ 8.300 million; at AF US$ 8.660 million; at closure US$ 8.320 million.
+
+  It should be noted that the components were not changed but that there were some changes to project
+  activities introduced with the restructurings.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project cost: The original project cost in 2009 was US$225.00 million. This amount was increased to
+  US$250 million in 2014 by adding US$25.00 million AF to fund a financing gap created as a result of cost
+  overruns on the rehabilitation of the Ayamfuri-Asawinso road and targeted urban roads in the Accra East
+  corridor. The actual final project cost was US$243.00 million or 108 percent of the original amount
+  approved. It was 7 percent lower than the total cost at AF because of the devaluation of the SDR against
+  the Ghanaian Cedi (the contracts were mostly in the local currency).
+
+  Financing: It comprised a Credit of SDR 150.5 million (US$225.00 million equivalent) [IDA-46000] and a
+  further Credit of additional finance of SDR 16.2 million (US$25.00 million equivalent) [IDA-55490]. The
+  Credits were fully disbursed.
+
+  Borrower contribution: No contribution was provided.
+
+  Dates: The project was approved on June 30, 2009 and became effective on November 12, 2009. The
+  original closing date was June 30, 2015. At AF the closing date was extended by three years to June 30,
+  2018 but later further extended for six months to December 31, 2018 due to delays in the payment of
+  resettlement compensation for the Ayamfuri-Asawinso road works.
+
+  Restructuring: Two level 2 restructurings occurred. In April 2010, two thirds of the US$3 million allocated to
+  Volta Lake Transport Co (VLTC) was earmarked for studies and to purchase engines for ferries operated by
+  VLTC. The June 29, 2018 restructuring extended the loan closing date by six months for the reasons
+  mentioned. It included a reallocation between disbursement categories and a change in the implementation
+  schedule.
+
+  Additional Financing (AF) and level one restructuring: This was approved by the Board on November 4
+  2014. The main purpose was to provide an additional US$25.00 million funding to complete the project in
+  accordance with the original scope because of the above-mentioned cost overruns. The PDO was revised
+
+                                                                                                    Page 3 of 19
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     GH-Transport Project SIL (FY09) (P102000)
+
+
+
+   to clarify that mobility improvements targeted project funded roads and not roads for the country as a whole.
+   It also introduced a notable change that road safety interventions supported were aimed at improving
+   mobility of goods and passengers through enhanced road safety awareness and not at improving road
+   safety standards. The AF and restructuring also included the dropping of two studies under component F,
+   changes in the cost by component, and changes to the results framework.
+
+   Note: The ten percent increase in funding during the AF was not because of changes to the scope but due
+   to a financing gap as a result of cost overruns. In this case, a split rating should be applied because the
+   objective to improve road safety standards was dropped and road safety awareness was added to the
+   objective of improving mobility. This downgraded the level of ambition of road safety and the respective
+   outcome indicator, the fatality rate, became an intermediate indicator (ICR paragraph 15). Disbursements
+   prior to the approval date were 46.4 percent and for the remainder of the project were 53.6 per
+   cent. Although the Board approved the indicator changes proposed, they were, however, not activated in
+   the operations portal and thus the revisions were not monitored during the remainder of the implementation
+   period.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+In 2009, when the project was under preparation, Ghana’s vision of attaining middle income status
+was underpinned by strengthening the provision of infrastructure services and improving the
+country's business environment to sustain broad-based growth. The importance of transport infrastructure
+was highlighted in Ghana’s Growth and Poverty Reduction Strategy (GPRS II) as an enabler for economic
+growth and poverty reduction (PAD, para 2).
+
+Roads were the predominant mode of transport, but the transport sector issues were multi-modal in nature.
+According to the PAD (paras 7 to 10), the roads sector received the highest budget allocations and this led
+to concerns that this funding imbalance could cause uncoordinated inter-modal planning and the
+predominance of roads over other transport modes. The country faced several institutional and policy
+challenges in the transport sector that included the need for (i) policy formulation and planning, (ii) the
+clarification of the roles of the sector agencies, (iii) a proper regulatory environment for the rail sector, (iv)
+better management and financing of road maintenance, (v) the implementation of axle load control, and (vi)
+the promotion of private sector involvement. Road safety was a concern and the country launched its
+second five-year national road safety strategy in 2006 (PAD, para 24).
+
+Although the development problem described in the PAD had a strong multi-modal and institutional
+dimension, this was not reflected in the original and revised PDOs, which focused on mobility improvements
+through reduced travel time and vehicle operating costs in the road sector and road safety. It was, however,
+reflected in the project components and, an earlier version of the PAD dated May 15, 2009, actually
+included an additional objective of "Strengthen the institutional management of the transport sector."
+However, this was dropped in the final version sent to the Board.
+
+
+
+                                                                                                        Page 4 of 19
+                                      Independent Evaluation Group (IEG)                         Implementation Completion Report (ICR) Review
+                                      GH-Transport Project SIL (FY09) (P102000)
+
+
+
+               The country and Bank strategies at project close continued with a multi-modal focus even though road
+               transport and safety were important. The Ghana Shared Growth and Development Agenda II, 2014-
+               2017 (according to the Bank task team, this is still the latest articulation of transport strategy) sees transport
+               as an enabler to economic growth and poverty reduction. According to this document, the main constraints
+               for the sector are the premature deterioration of the road network; poor quality and inadequate road
+               transport networks; growing traffic congestion on the roads, especially in the urban areas; increasing road
+               traffic accidents; a limited and poor rail network, and the declining rail traffic, both in goods and in
+               passengers; inadequate facilities at existing sea ports; and the inability to progressively improve
+               air transport infrastructure and facilities to meet appropriate international standards to make Accra a West
+               African hub and gateway.
+
+               The Ghana-World Bank Group Country Partnership Strategy (CPS) for FY2013-16 (later extended to FY18)
+               recognizes transport as one of the sectors to improve competitiveness and job creation, and cites the
+               potential for road, rail, air, maritime and inland water transport to open up access to markets through better
+               connectivity. The CPS also recommends the promotion of investments targeted at the decongestion of
+               urban roads; modernization of existing main corridors linking major regional centers and the capital as well
+               as neighboring countries; rehabilitation of major ports and airports; and improving roads to better serve rural
+               communities. The CPS's main transport outcome is improved mobility of goods and passengers with the
+               related indicator being the condition of trunk roads in fair and good condition.
+
+               The PDO's focus on mobility in the roads sector and road safety were and are highly relevant for country.
+               However, the PAD and the country strategies highlight significant other transport challenges, which this
+               project was meant to tackle. In addition, the exclusion of the multi-modal and institutional dimension in the
+               last minute did not sit well with the components, which included many outputs related to capacity building in
+               other transport modes. The concept of improving the mobility of goods and passengers was also not
+               defined and the original and revised objectives were both structured around reducing vehicle operating
+               costs and travel times with supporting indicators to measure such reductions in the road sector. Because of
+               these shortcomings, the relevance of the project's original and revised objectives is rated substantial.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To improve the mobility of goods and passengers through a reduction in travel time and vehicle operating
+                             costs.
+
+                             Rationale
+                             The Theory of Change (ToC) was not a requirement at the time of project preparation. Based on the
+                             information in the PAD, IEG understands that the ToC for the first objective was that the rehabilitation of
+
+                                                                                                                                Page 5 of 19
+   Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+   GH-Transport Project SIL (FY09) (P102000)
+
+
+
+roads and certain technical assistance activities in the road sector, such as the preparation and
+implementation of an axle load control action plan, would lead to better road conditions, reductions in travel
+time and vehicle operating costs and enhanced capacity of transport institutions. This, in turn, was expected
+to lead to improved mobility for goods and passengers.
+
+Outputs:
+
+      Rural roads rehabilitated. Target 52 km, at the closure of the project 52.2 km had been rehabilitated.
+         Target achieved.
+        Urban roads rehabilitated. Target 14.8 km, at closure 14.8 km had been rehabilitated. Target
+         achieved.
+        Feeder roads improved (spot improvements). Target 300 km, at closure 462 km had been
+         rehabilitated. Target exceeded.
+        Feeder roads rehabilitated. Target 250 km, at closure 309.7 km had been rehabilitated. Target
+         exceeded.
+        Two upgraded bus terminals.
+        Axle load control policy action plan. The ICR (paragraph 36) notes that the study recommendations on
+         axle load control have been incorporated into the MRH's decision-making process. However, it is not
+         clear if axle load control was enforced by project close.
+        Studies undertaken for the Ministry of Roads and Highways. These included a review of Ghana's
+         tolling policy, a monitoring and evaluation system for roads and a human resource strategy, and a GIS
+         integration pilot for road agencies. There is no discussion in the ICR as to the potential outcomes of
+         these studies.
+        Under component A, the organization of a development partners' conference was listed but the ICR
+         does not indicate whether this took place. The TTL confirmed that this was an omission and that the
+         conference was held. However, details of the discussion or decisions made at the conference were
+         not provided.
+        For the Ministry of Transport a public expenditure and institutional review for the transport sector as a
+         whole was undertaken but no information was provided on the findings or whether the review might
+         lead to any changes in policy.
+        The Kwame Nkrumah University of Science and Technology, Transport Research Center, was
+         provided with laboratory equipment, computers, classrooms, an asphalt laboratory and support for the
+         graduate training program. Higher learning links in transport technology were established with
+         overseas tertiary institutions in Munich and Lausanne.
+        At the Government Technical Training Center a four-story classroom block was completed
+         and learning materials were provided on vehicle maintenance including a vehicle maintenance
+         simulator. This raised the profile of the institution and fostered collaboration with the private sector firm
+         Scania, a truck manufacturer.
+        A feasibility study for the dual lanes on the Meridian Road in Tema was not carried out. The study was
+         dropped because the GoG decided to transfer the preparation of studies and works to funding from
+         the China Development Fund.
+        Increase the share of road funds to meet 80 percent of road maintenance needs. Not achieved - the
+         baseline was 60 percent and no further progress had been made by the time the project closed. This
+         meant that there remained doubts over the sustainability of the road system. The management of the
+         Road Fund was to have been evaluated. Very little is said about this in the ICR other than an
+         acknowledgement under risk to development outcome that the income to the Road Fund did not
+
+                                                                                                       Page 6 of 19
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   GH-Transport Project SIL (FY09) (P102000)
+
+
+
+         increase under the project and as a consequence the condition of the roads would suffer eventually
+         contributing to less mobility for both goods and passengers.
+
+Note: It should be observed that certain outputs related to marine, rail, and aviation have not been included
+above as they have no relevance to the original or the revised PDOs as stated.
+
+Outcomes:
+
+      Road Condition: (Note: The condition reports are based on all roads in the country, ICR pages 11 and
+         12).
+                o Condition of trunk network in good and fair condition. Baseline 83%. Target 88%; at completion
+                93%. Target exceeded.
+              o Condition of urban roads in good and fair condition. Baseline 35%. Target 50%; at completion
+                54%. Target exceeded.
+              o Condition of feeder roads in good and fair condition. Baseline 72%. Target 85%; at completion
+                75%. Target not met due to restrictions on available government funds for road maintenance.
+        Average travel time for the Ayamfuri-Asawinso Road: Baseline 90 minutes. Target 65 minutes; at
+         completion 50 minutes. Target exceeded.
+        Average time for the Burma Road: Baseline 60 minutes. Target 45 minutes; at completion 45 minutes.
+         Target achieved.
+        Average time for the Giffard Road: Baseline 40 minutes. Target 30 minutes; at completion 30 minutes.
+         Target achieved.
+        Average vehicle operating costs reduced (US$/vehicle km): Baseline 0.20. Target 0.17; at completion
+         0.23. Target not achieved. Note: These data according to the project team refer to the project roads.
+        Rural Accessibility Index for project roads: Baseline 53%. Target 57%; at completion 66.6%. Target
+         exceeded.
+
+For this review, IEG understands mobility of goods and passengers as referring to ease of movement of road
+users and ease of conveyance of goods and passengers by road. The limitation to roads is justified by the
+fact that the PDO includes a reference to vehicle operating costs and travel time reductions and the outcome
+indicators only cover the road sector.
+
+The project partially achieved the first objective. The improvement in the urban and trunk roads condition
+caused significant time savings on the urban and rural [trunk] roads rehabilitated under the project, which
+enhanced mobility for road users on these roads. However, the ICR does not provide evidence if these
+mobility improvements occurred in the same way for goods and passengers. The two upgraded bus terminals
+enhanced the mobility of bus users and drivers (ICR, para 30). According to the task team, the accessibility
+improvements for individuals and communities living within two km from an all-season roads measured
+through the Rural Accessibility Index refer to the country as a whole, and therefore the project's contribution
+to mobility improvements was relatively small. Mobility for users of feeder roads decreased because the
+gravel feeder roads improved under the project deteriorated again before project end because of lack of
+maintenance. This caused an increase in the vehicle operating costs compared to the baseline.
+
+
+
+Rating
+Modest
+
+                                                                                                  Page 7 of 19
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   GH-Transport Project SIL (FY09) (P102000)
+
+
+
+
+OBJECTIVE 1 REVISION 1
+Revised Objective
+To improve mobility of goods and passengers on selected roads through reduction in travel time and vehicle
+operating costs.
+
+Revised Rationale
+The revision of objective 1 consisted in the limitation of its scope to "specific project roads". This limitation
+was already implicit in the original objective because the outcome indicator referred to specific project roads.
+Therefore, the revised objective 1 was basically identical to the original objective 1 and the outputs,
+outcomes, assessment, and ratings were the same. The attempt made in the ICR to articulate the ToC for the
+project was based on the revised PDO after restructuring. In this articulation, it was not clear how certain
+multi-modal activities were expected to lead to the reduction in travel time and vehicle operating costs.
+
+
+
+
+Revised Rating
+Modest
+
+
+OBJECTIVE 2
+Objective
+To improve road safety standards.
+
+Rationale
+For the purpose of this review, IEG interprets "improving road safety standards" in the original PDO as
+establishing national traffic rules and road and vehicle specifications from a road safety perspective. With this
+interpretation in mind, the ToC was that the road safety related activities under the project would lead, among
+others, to improved driver and vehicle licensing methods, standardized licensing procedures, permits and
+associated revenue collection, improved enforcement procedures, and improved traffic rules. This, in turn,
+would lead to the reduction in road fatalities.
+
+Outputs:
+
+      Road Traffic Regulations were enacted on June 30 2015. The Bank's role in this is unclear from the
+       ICR. It is important to have up-to-date traffic regulations but their efficacy depends on a good
+       enforcement system. No details were provided on the nature or enforcement aspects of the
+       regulations.
+      Eight road accident emergency response centers were established. These enabled immediate first aid
+       to be given to accident victims prior to transfer to nearby hospitals.
+      Vehicle driving test grounds at Tema completed and in use. However, the test ground at Kumasi was
+       only 85 per cent complete at closure. These driving testing grounds were important to improve the
+       safety of driving teachers, new trainees, and road users.
+      Provision of road safety equipment for compliance monitoring. The ICR does not specify if this
+       equipment is used and compliance improved.
+
+                                                                                                   Page 8 of 19
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   GH-Transport Project SIL (FY09) (P102000)
+
+
+
+
+      Extensive road safety campaigns throughout the country, including the production of pamphlets and
+       production and distribution of road safety information materials.
+      Training of National Road Safety Commission staff in identifying black spots, and conducting road
+       safety audits undertaken. This knowledge is essential for reducing road accidents at high frequency
+       accident sites.
+
+Outcomes:
+
+      Fatality rate reduced (per 10,000 vehicles): Baseline 22. Target 19. At the AF, the fatality rate had
+       reduced to 14 per 10,000 vehicles. By completion it had reduced further to 9.74.
+
+The ICR does not provide evidence that road safety standards improved. The only project output that might
+have contributed to enhance road safety standards are the Road Traffic Regulations, but the ICR does not
+explain if and how this occurred. There is also no information in the ICR on the attribution of the reduction in
+road fatalities to improved road safety standards. Therefore, this objective is rated modest.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 2 REVISION 1
+Revised Objective
+To improve mobility of goods and passengers on selected roads through enhanced road safety awareness.
+
+Revised Rationale
+IEG understand that the ToC for this revised objective 2 was that the road safety awareness campaign and
+related activities would enhance road safety awareness. This would make roads safer and, in turn, improve
+the mobility of goods and passengers.
+
+Outputs:
+
+The outputs were the same as listed under the original objective 2.
+
+Outcomes:
+
+The project had no outcome indicators to measure enhanced road safety awareness or improved mobility of
+goods and passengers on selected roads through enhanced road safety awareness. The ICR reports that
+outputs related to this objective, such as the production of pamphlets and production and distribution of road
+safety information materials and the organization of safety awareness campaigns, were achieved. The
+enforcement equipment, if used, would have also helped to make the public more aware of safety issues.
+However, the ICR does not provide evidence on the achievement of this objective or on the contribution of the
+project to reduce road fatalities. Therefore, the efficacy of this objective is rated modest.
+
+
+
+
+                                                                                                    Page 9 of 19
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                GH-Transport Project SIL (FY09) (P102000)
+
+
+
+
+                            Revised Rating
+                            Modest
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The original objective 1 of improving the mobility of goods and passengers through a reduction in travel time
+                            and vehicle operating costs was only partially achieved, and for the original objective 2 of improving road
+                            safety standards the ICR provides no evidence. Therefore, the overall efficacy of the original PDO is rated
+                            modest.
+
+                            Similarly, the revised objective 1 of improving mobility of goods and passengers on selected roads through
+                            reduction in travel time and vehicle operating costs was only partially achieved, and for the revised objective
+                            2 of improving mobility of goods and passengers on selected roads through enhanced road safety awareness
+                            the ICR lacks evidence of its achievement. Therefore, the overall efficacy of the revised PDO is rated
+                            modest.
+
+
+
+                            Overall Efficacy Rating                                  Primary Reason
+                            Modest                                                   Insufficient evidence
+
+
+    5. Efficiency
+   Economic analyses were undertaken for the Ayamfuri-Asawinso trunk road and the Burma Camp and Giffard
+   urban roads at appraisal, at AF, and at project close. The costs involved for these three roads represented about
+   63 per cent of the project costs at appraisal and 60 per cent of the final project costs at completion. While this
+   was adequate it would have been better for analysis purposes if the feeder roads had also been included based
+   on their average costs for upgrading. The Highway Development and Management Model (HDM-4) was used
+   applying a 12 percent discount rate. The design life of the rural trunk road was deemed to be 15 years and that
+   of the urban roads 20 years. In IEG's view these assumptions were reasonable and the analysis was
+   satisfactory.
+
+   An overall economic rate of return (ERR) for the three sub-projects would have been fairly meaningless because
+   the characteristics of the rural and urban roads were completely different, so it was important to compare the
+   rural and urban roads separately.
+
+   The rural trunk road from Ayamfuri to Asawinso was 52.2 km long. At appraisal the ERR was 17.9 percent and
+   the Net Present Value (NPV) was US$55 million. At AF the ERR was still 15.0 percent and the NPV was
+   US$16.07 million, but by completion the ERR had fallen to 1.9 percent, well below the discount rate of 12
+   percent and the NPV was negative (-15.275 US$ million). The main reason was cost overruns associated with
+   the rehabilitation. Actual costs in 2018 exceeded the 2008 cost estimate by 36 percent; and they exceeded the
+   2015 AF cost estimate by 21 percent. The overruns occurred because of unforeseen ground conditions as well
+   as higher than expected growth in traffic after preparation of road designs, resulting in a need for design
+
+                                                                                                                             Page 10 of 19
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      GH-Transport Project SIL (FY09) (P102000)
+
+
+
+modifications. The annual average daily traffic grew by almost 300 percent between road design completion and
+commencement of construction. This change in traffic levels necessitated the strengthening of the pavement
+structure with an additional 100 mm of crushed rock base. Drainage requirements were also impacted and
+updated with additional provisions for slope stabilization (previously not considered critical) to prevent premature
+failure of specific cut sections (ICR par. 46).
+
+The urban roads, on the other hand, performed much better. At appraisal the Giffard Road had an ERR of 20
+percent and a NPV of US$2.5 million. The Burma Camp Road had an ERR of 15 percent and a NPV of 2.7
+million. At AF the Giffard Road ERR had improved to 48.4 percent and the NPV was US$23.82, while the Burma
+Camp Road was divided into two sections of 4.86 km and 3.4 km and presented ERRs of 21.7 percent and
+60.8 percent, respectively. The NPVs were US$8.76 million and US$24.88 million, respectively. The ex post
+analysis showed the Giffard Road with an ERR of 12.9 percent and a NPV of US$2.80 million. The Burma Camp
+for its two sections yielded ERRs of 33.1 percent and 40.0 percent, respectively (NPVs US$84.85 million and
+US$45.82 million). Traffic volumes were higher than anticipated on the urban sections leading to further savings
+in vehicle operating costs and time savings but without the necessity for major design changes.
+
+Operational and Administrative Efficiency: The project was extended twice for a total of 42 months due to
+implementation delays. Procurement of major activities was slow and procurement documents required several
+clarifications before contracts could be cleared for signature. Anticipated traffic on the trunk road had increased
+due to revival of mining activities in the area, while the alignment of the urban roads had been encroached upon
+by the time of contract signature and there were issues associated with the location of utilities. Compensation
+payments to project affected persons also caused further delays. Additional resources to cover overruns had to
+be obtained through AF in 2015. Cost increases for civil works were largely caused by an absence of due
+diligence in infrastructure design (ICR par. 64) and unforeseen technical occurrences. The negative foreign
+exchange movements meanwhile reduced the funding envelope.
+
+Given the poor ERR for the rural trunk roads and the issues associated with the operational and administrative
+efficiency, the rating for efficiency is modest.
+
+*Note that the efficiency rating and point value below is for the rural trunk road only as it was the most expensive
+section. A weighted average figure for all three roads would not be useful because of the greatly differing nature
+of the roads in question.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                      28.00
+ Appraisal                                                  17.90
+                                                                                       Not Applicable
+                                                                                      34.78
+ ICR Estimate                                               1.90
+                                                                                       Not Applicable
+
+                                                                                                      Page 11 of 19
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      GH-Transport Project SIL (FY09) (P102000)
+
+
+
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Under the original PDO, considering the substantial relevance of the PDO, the partial achievement of the
+objectives of improving the mobility of goods and passengers through a reduction in travel time and vehicle
+operating costs and of improving road safety standards, and the modest efficiency, the outcome is rated
+moderately unsatisfactory (3).
+
+Under the revised PDO, based on the substantial relevance, the modest efficacy of the PDO, and the modest
+efficiency, the outcome is rated moderately unsatisfactory (3).
+
+The overall outcome rating is moderately unsatisfactory (3). For a split-rating purpose, the disbursements
+before and after the AF on November 4, 2014 were 46.4 percent and 53.6 percent.
+
+
+a. Outcome Rating
+   Moderately Unsatisfactory
+
+
+7. Risk to Development Outcome
+
+There are three main areas where the development outcome is at risk:
+
+Insufficient funding for road maintenance: The indicator to measure an improvement in road maintenance
+funding was not met because there was no increase in contributions to the Ghana Road Fund during the
+implementation of the project. A negative impact on the project is inevitable because of reduced life of the
+funded roads due to lack of maintenance. Country dialogue on the shortfall in the Road Fund took place
+between the World Bank and the Government but failed to prevent the over-commitment of the Road Fund
+due to the funding of too many new capital investment projects.
+
+Level of political and institutional motivation to put in place inter-agency coordination: The project began the
+groundwork for cooperation among the various transport sector agencies. However, this platform needs to be
+utilized and extended considerably by the GoG through the key agencies involved to lead to proper
+coordination and prevent a reversion to the fragmented decision-making that existed prior to the project's
+inception. There remains a small risk that some project activities not directly related to inter agency
+coordination will fail to be implemented and hence not lead to the expected mobility improvements.
+
+Risk of rising road accident rate: While there has been success in reducing the road accident fatality rate, the
+rapid increase in vehicles on Ghana's roads means that additional resources must be invested in road
+safety to prevent a relapse in the progress made.
+
+
+
+
+8. Assessment of Bank Performance
+
+                                                                                                    Page 12 of 19
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     GH-Transport Project SIL (FY09) (P102000)
+
+
+
+
+a. Quality-at-Entry
+  Because an underlying goal of improving the capacity of transport institutions was not articulated as part
+  of the formally approved objectives, the capacity building aspects were subsumed as outputs in the
+  results framework, which in several cases involving non-road modes did not easily fit into a structure
+  where outcomes were specifically focused on reduced travel time, vehicle operating savings, and
+  improved road safety standards.
+
+  More time and resources could also have been focused on the preparation stage (ICR par 93). In
+  particular more attention could have been given to the readiness of the procurement and financial
+  management teams to mitigate the shortcomings of cumbersome procurement approval procedures and
+  inadequate financial reporting. In addition more effort could have been made in respect of the robustness
+  of the designs, which revealed several weaknesses once implementation began. Although arrangements
+  were made to ensure coordination between the various entities in the transport sector with a stake in the
+  project, an important omission was to not ensure the involvement of the Land Evaluation Division in
+  project implementation at an early stage, which led to delays in approving compensation payments for
+  project affected persons. The rapidly increasing rate of motorization in Ghana and plans to expand
+  mining activities were also given insufficient attention.
+
+  As seen below, the M&E framework had also shortcomings.
+
+  On the positive side, the structure used for inter-agency collaboration as a whole was sound because it
+  allowed agencies with experience of Bank-funded projects to guide agencies with no or limited
+  experience. The risk mitigation due diligence was adequately performed and a good relationship was
+  established with the appropriate government officials enhanced by the presence of in-country staff. The
+  Bank also gave support to the selection of the appropriate lending instrument and the compliance with
+  safeguards, as required. Overall, the quality at entry is rated moderately unsatisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Unsatisfactory
+
+
+b. Quality of supervision
+ The weaknesses identified in quality at entry manifested in the form of delays during implementation, which
+ in turn led to cost overruns. This required close supervision and frequent missions supported by local office
+ staff.
+
+ At AF, recognizing the difficulties of inter-agency coordination, the Bank supported dropping the inter-
+ agency procurement and financial management teams in favor of contract management specialists and a
+ project accountant. The Bank team, however, failed to notice that some changes made to the indicators at
+ AF were not being monitored. Although the project team urged the government to increase the available
+ funds for road maintenance, the country's macroeconomic situation gradually deteriorated during
+ implementation, and this worked against the project team's advice. The Bank team met with high level
+ officials of the LDV and GHA to agree a way forward following significant delays in payments of
+ compensation to project affected persons, while at the Country Management Unit level, the Country
+
+
+                                                                                                   Page 13 of 19
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     GH-Transport Project SIL (FY09) (P102000)
+
+
+
+ Director engaged with the Minister of Finance to ensure that the funds for compensation would be available
+ once the bottlenecks had been resolved.
+
+ Nevertheless, given the number of entities within the transport sector that needed attention, the team did a
+ creditable job in assisting smooth coordination and this was undoubtedly aided by having a strong
+ presence of in-country Bank staff. The Bank fiduciary and safeguards experts gave regular training on
+ Bank policies to project staff when it became clear that there were serious weaknesses in the performance
+ of these areas and that this was contributing to the delays.
+
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Unsatisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The project had no appropriate indicators to measure road safety standards. There was also no definition
+ as to what was meant by road safety standards, road safety awareness, and mobility.
+
+ For the road elements, conventional practice was followed and measurable indicators were provided.
+
+ There were no institutional/regulatory related indicators at the outcome level.
+
+ Each participating agency was responsible for the provision of baseline information. Progress was to be
+ monitored annually with extensive consultation among the stakeholders. Coordination was to be
+ undertaken by the project implementation team.
+
+
+
+b. M&E Implementation
+  Implementation proceeded in accordance with the planned results framework and activities such as
+  progress with civil works, procurement activities, and progress in achieving the project development
+  objectives were included in the quarterly project progress reports. Some changes were made at AF
+  including indicators related to the Road Fund and the Axle Load Control Plan. However, because these
+  changes were not incorporated in the M&E framework, they were never put into effect - the recipient
+  continued to report using the previously agreed parameters.
+
+
+
+
+                                                                                                  Page 14 of 19
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     GH-Transport Project SIL (FY09) (P102000)
+
+
+
+c. M&E Utilization
+  The M&E progress shared with the stakeholders enabled decisions to be made during implementation
+  and provided information on project progress to the decision-makers. For example, it became clear that
+  funding would be insufficient and an AF would be necessary to complete the project. The
+  M&E also showed where and why delays were being experienced in the areas of construction,
+  procurement and administration.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   The Transport Sector Project was classified as category A for environmental assessment purposes (full
+   assessment). Although rehabilitation is usually classified as category B, in this case there was additional
+   building construction and 87 households that were to permanently lose their properties. The following
+   safeguards were triggered at appraisal: OP/BP 4.01 Environmental assessment; OP 4.11 Physical Cultural
+   Resources; and OP/BP 4.12 Involuntary Resettlement. OP 4.36 Forests was added at AF. In addition to
+   environmental impact assessments and resettlement action plans, an Environmental and Social
+   Management Framework and a Resettlement Policy Framework were prepared and disclosed.
+
+   Some of the priorities flagged as potential hazards to the environment included: mitigating road construction
+   operations resulting in dust, noise, and temporary loss of flora; opening or re-opening of borrow pits and
+   solid rock quarries; dumping of construction waste and accidental spillage of machine oil and
+   lubricants. Social issues identified included: land acquisition and impacts on social values induced by the
+   influx of construction-related migrant workers.
+
+   Physical Cultural Resources were not discussed in the ICR but the interaction with the TTL revealed that
+   the safeguard was triggered due to the occurrence of graves and burial sites within the rights of way for the
+   Ayamfuri-Asawenso road. Since there is no formal mechanism in Ghana for dealing with this situation, the
+   implementing agency negotiated with the local communities to fulfill traditional requirements for relocating
+   the remains of the deceased from the rights of way to the satisfaction of the Bank.
+
+   In the AF Project Paper the safeguard OP 4.36 Forests was triggered due to a two km forested section of
+   road. However, the ICR is silent on the outcome of any mitigation measures in this regard. The TTL advised
+   this was an omission. Impacted trees were recorded and evaluated by the Forestry Commission, and
+   replacements were planted.
+
+   Safeguard mitigation measures included: prioritizing the use of road alignments with minimal negative social
+   and environmental impacts; inserting social and environmental protection clauses into bidding documents
+   for works contracts; extensive and participatory safeguards consultations with various stakeholders and
+   affected groups; as well as the training of environmental and social safeguards specialists for effective
+   monitoring and supervision.
+
+
+
+
+                                                                                                   Page 15 of 19
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     GH-Transport Project SIL (FY09) (P102000)
+
+
+
+   The main issues in practice were inadequate drainage that led to flooding because of a slow response time
+   in addressing the problem, and delays in paying compensation to project affected persons, which led to
+   significant delays and cost over-runs. According to the ICR (par.63), there was inadequate coordination
+   between the Ghana Highway Authority and the Land Valuation Division, which was the main cause of the
+   failure to pay compensation on time. Moreover, there was inadequate reporting on the safeguards aspects
+   of progress reports, and a general lack of commitment in addressing safeguard issues affecting safeguards
+   ratings. The reason was largely a shortage of government funds that could be allocated for compensation.
+   For example, the overall safeguards rating was downgraded to Moderately Unsatisfactory in June 2013 due
+   mainly to the outstanding release of funds by the Ministry of Finance for compensatory payments
+   for affected people. By the end of the project the final rating rating was Moderately Satisfactory as
+   GoG had resolved most safeguard concerns. Details were not provided in the ICR as to how many people
+   were finally relocated and how much they were compensated.
+
+
+
+
+b. Fiduciary Compliance
+   Compliance with fiduciary obligations was rated Moderately Satisfactory during the duration of the project.
+   Financial management (FM) arrangements for the project were adequate in that they met the minimum
+   requirements as per Bank Policy. Although finance-related stipulations in the Financing Agreement were
+   followed, concerns were raised by the Bank about the thoroughness of FM reports. As a consequence, the
+   Bank demanded an improvement in the quality, content and detail of those reports. In addition, there
+   were occasional delays in the submission of acceptable interim financial statements and annual audited
+   financial reports.
+
+   For procurement management, procurement delivery was in compliance with the project's financing
+   agreement, and the PAD. No ineligible expenses were recorded. An issue, however, was the cumbersome
+   approval procedures for invoices and subsequent payments as this caused delays in project
+   implementation. This factor, in addition to poor filing practices of contracts, invoices and
+   waybills contributed to procurement’s moderately satisfactory rating. The quality and detail of procurement
+   documentation had shortcomings, and procurement processes had delays.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   None
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                               Reason for
+Ratings                         ICR                   IEG
+                                                                               Disagreements/Comment
+
+
+                                                                                                 Page 16 of 19
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     GH-Transport Project SIL (FY09) (P102000)
+
+
+
+                                                                                 The objectives lacked evidence
+                                Moderately           Moderately                  of achievement or were only
+Outcome
+                                Satisfactory         Unsatisfactory              partially achieved. Efficiency
+                                                                                 was modest.
+                                                                                 Quality at entry shortcomings
+                                                                                 due to lack of reflection of multi-
+                                                                                 modal institutional and capacity
+                                Moderately           Moderately                  building dimension in PDO and
+Bank Performance
+                                Satisfactory         Unsatisfactory              design shortcomings in the
+                                                                                 results framework, procurement,
+                                                                                 financial management and
+                                                                                 safeguard aspects.
+Quality of M&E                  Modest               Modest
+
+Quality of ICR                  ---                  Modest
+
+
+12. Lessons
+
+The following lessons have mostly been derived and summarized from the ICR:
+
+Agencies familiar with World Bank policies and procedures can help build this capacity in
+other agencies by supporting them. A comprehensive approach to inter-agency coordination in
+the transport sector in Ghana showed that agencies that have worked with World Bank policies and
+procedures can successfully support other agencies with little knowledge of such practices.
+
+Rigorous project preparation can reduce the number of challenges faced during
+implementation. The issues that delayed the project (very commonly found throughout the region),
+such as cost overruns, faster than expected traffic growth, and non-timely delivery of compensation
+to project affected persons, deserved more attention prior to project approval.
+
+The early involvement in the project of all resettlement-related stakeholders is important
+when the project requires resettlement. In this project, which required involuntary
+resettlement, the Land Valuation Division was not involved at an early stage. This delayed payment
+to affected people and project implementation. In addition, to involving the Land Valuation Division
+early, compensation funds should be kept in an ESCROW account until needed. A National
+Resettlement Law would also bring clarity to the existing legal framework and strengthen protection
+of affected persons' rights.
+
+Where there are weaknesses in financial management and procurement systems, additional
+training may be required. Under this project, the financial management systems were not used
+effectively and the quality and timeliness of financial reporting had shortcomings. In addition to
+training, while existing systems and procedures are being improved, there may be
+opportunities to reduce delays by paying contractors directly, thus avoiding cumbersome in-house
+approval procedures of invoices and certificates.
+
+
+
+
+                                                                                                    Page 17 of 19
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       GH-Transport Project SIL (FY09) (P102000)
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+On the whole the ICR is generally well-written and fairly candid. However, the level of analysis is not sufficiently
+critical. For instance, for relevance of objectives, the ICR cites transport-related parts of the Bank and country
+strategies, which highlight the multi-modal challenges, but there is no discussion as to why the PDO is rated
+highly relevant.
+
+For the assessment of the achievement of the objectives, the ICR focuses on compliance with outputs and
+outcomes, rather than with the achievement of the objectives themselves. The objectives were not correctly
+framed, with the original objective of improving road safety standards, which was dropped at the AF and the
+respective outcome indicator, the fatality rate, downgraded to an intermediate indicator, not being
+evaluated. The incorrect framing of the objectives was mostly likely also the reason why the ICR did not
+consider to apply a split rating.
+
+Because the underlying objective of improving the capacity of transport institutions was not articulated in the
+PDO, some capacity building aspects did not easily fit into a structure where outcomes were
+specifically focused on road sector reductions in travel time, vehicle operating cost savings, and
+enhancements in road safety. Moreover, the capacity building aspects were put forward as a check list (either
+done or not done), with little emphasis on what they were designed to do and to what extent they impacted or
+were intended to impact the development issues addressed by the project. Some transport sector project
+achievements were rather awkwardly discussed under project components. There was relatively little in the ICR
+that discussed the safety related challenges in the country and the respective project outcomes. On the positive
+side, the evidence captured through the indicators was complemented by additional qualitative feedback from
+the field visits.
+
+The economic analysis was good and well articulated. There was, however, a minor typo: paragraph 43 of the
+ICR said that the design life of the urban roads was 27 years. However, the correct design life shown in the ICR
+Table 5 was 20 years. The factors that affected implementation and outcomes were detailed and frank. The
+shortcomings in Bank performance were rather glossed over, but could be gleaned from the lessons and
+recommendations into which considerable thought had been given. There was no discussion of triggered
+safeguards OP 4.11 Physical Cultural Resources or OP 4.36 Forests. The ICR could have been improved with
+more information about the final numbers of people who were relocated and the amounts of compensation paid.
+
+A minor additional point was that the restructuring of April 2010 and the 2015 AF and restructuring were not
+recorded in the data sheet (this, however, was likely a system problem).
+
+
+
+  a. Quality of ICR Rating
+       Modest
+
+
+
+
+                                                                                                      Page 18 of 19
+Independent Evaluation Group (IEG)          Implementation Completion Report (ICR) Review
+GH-Transport Project SIL (FY09) (P102000)
+
+
+
+
+                                                                         Page 19 of 19
+

@@ -1,0 +1,945 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     BD: IDEA Project (P121528)
+
+
+
+                                                                                 Report Number : ICRR0021387
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P121528                                    BD: IDEA Project
+
+ Country                                    Practice Area(Lead)
+ Bangladesh                                 Governance
+
+
+ L/C/TF Number(s)                           Closing Date (Original)                 Total Project Cost (USD)
+ IDA-49380                                  30-Jun-2016                                         111,251,189.65
+
+ Bank Approval Date                         Closing Date (Actual)
+ 10-May-2011                                28-Feb-2018
+
+                                            IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                           195,000,000.00                                               0.00
+
+ Revised Commitment                            170,042,059.52                                               0.00
+
+ Actual                                        113,738,163.07                                               0.00
+
+
+
+
+ Prepared by                 Reviewed by                  ICR Review Coordinator          Group
+ Antonio M. Ollero           Judyth L. Twigg              Malathi S. Jayawickrama         IEGEC (Unit 1)
+
+
+
+
+2. Project Objectives and Components
+
+a. Objectives
+   According to the Financing Agreement (page 4), the project development objective of the Identification
+   System for Enhancing Access to Services (IDEA) Project of the People's Republic of Bangladesh was "to
+   assist Bangladesh to establish an accurate, secure, and reliable national ID system for a more efficient and
+   transparent service delivery".
+
+   As the project development objective did not change during the life of the project, this ICR Review will
+   undertake a standard evaluation of the project, and not a split-rating evaluation, as the ICR did. Additional
+   outcome and output indicators were added during the restructuring of June 2015, but these did not alter the
+
+                                                                                                   Page 1 of 19
+     Independent Evaluation Group (IEG)                                          Implementation Completion Report (ICR) Review
+     BD: IDEA Project (P121528)
+
+
+
+   project objective, and the targets for these new results indicators, once set at restructuring, did not change
+   during the remaining life of the project.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+                                                           PHEVALUNDERTAKENLBL
+
+
+
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The IDEA project comprised the second phase of the Government of Bangladesh's effort to build a national
+   identification (NID) system based on existing voter lists. Earlier, in 2008, the United Nations Development
+   Programme (UNDP) funded the Bangladesh Preparation of Electoral Roll with Photographs (PERP)
+   project which built a database of 18 million citizens aged 18+ years, a biometric based de-duplication
+   system for data entry, and an information technology (IT) infrastructure covering nearly 500 upazila
+   offices. (An upazila is a local administrative region in Bangladesh, the equivalent of a county in other
+   countries.) The IDEA project, which was designed to advance the Government's effort to issue NID cards
+   with security features, develop the capacity to provide identity verification services, and begin to integrate
+   the NID system into public and private services, had three components:
+
+
+   Regulatory Framework for the National Identification System and Integration into Service Delivery (US$9
+   million estimated at appraisal, US$8 million estimated at the third restructuring, final disbursed amount not
+   reported on a component basis but on a disbursement-category basis) supported the development of the
+   regulatory framework for the NID system, including drafting and issuance of rules and regulations for the
+   NID system, the integration of the NID system into services delivery in selected government agencies, and
+   the provision by the authorities of electronic identity verification services to public and private entities.
+
+   Operation and Management of the National Identification System (US$146 million estimated at appraisal,
+   US$128 million estimated at the third restructuring, final disbursed amount not reported on a component
+   basis but on a disbursement-category basis) supported the design and deployment of technology
+   infrastructure and facilities for the NID, including a data center and disaster recovery site, a data
+   communications network, a decentralized technology infrastructure, the enhancement of database
+   contents, and the production, personalization and delivery of NID smart cards to citizens. (A smart card
+   has a built-in microprocessor capable of electronic transactions. Personalization is the technical process
+   by which each smart card is made unique.)
+
+
+   Capacity Building, Communication, and Overall Project Management (US$40 million estimated at
+   appraisal, US$35 million estimated at the third restructuring, final disbursed amount not reported on a
+   component basis but on a disbursement-category basis) supported the provision of technical assistance,
+
+                                                                                                               Page 2 of 19
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    BD: IDEA Project (P121528)
+
+
+
+  training, and technology to help develop the capacity of the newly-established National Identity Registration
+  Wing (NIDW) of the Bangladesh Election Commission (BEC) to serve as a high-performing, service-
+  oriented, and self-dependent public organization.
+
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost: The total cost of the project was estimated at appraisal at US$195 million (SDR 123 million
+  equivalent, at the exchange rate of SDR 0.63 = US$1.00 at appraisal in April 2011). With the depreciation
+  of the SDR against the U.S. dollar, the total cost of the project was re-estimated at the third restructuring
+  at US$171 million (SDR 123 million, at the exchange rate of SDR 0.72 = US$1.00 at restructuring in
+  March 2015) .
+
+
+  Financing: The project was financed with an International Development Association (IDA) credit in the
+  amount of SDR 123 million (US$195 million equivalent, at the exchange rate of SDR 0.63 = US$1.00
+  at project approval in July 2011). The depreciation of the SDR against the U.S. dollar reduced the U.S.
+  dollar value of the financing from US$195 million at approval to US$171 million by the time of the third
+  restructuring in June 2015. The actual amount disbursed was SDR 105.4 million (US$113.7 million
+  equivalent) by the project closing date. The undisbursed amount of SDR 17.6 million (US$25 million
+  equivalent at the exchange rate of SDR 0.70 = US$1.00 in December 2017) was cancelled effective
+  December 14, 2017.
+
+
+  Borrower Contribution: Bangladesh was expected at appraisal to contribute US$2 million to the
+  project. The Government was to pay: the rent for the Project Office, disaster recovery site, and data
+  center; utility charges for the Project Office; and the salaries and benefits of Government personnel who
+  worked at the Project Office or the NIDW. Moreover, at the third restructuring, the borrower contribution
+  was raised to a proposed US$24 million, according to the Restructuring Paper of June 25, 2015 (page
+  8). The customs duties and value added tax (VAT) for the 90 million blank NID smart cards and 10
+  personalization systems would be higher than the US$23 million originally estimated. The higher
+  borrower contribution would limit the financing by the project of customs duties and the VAT. The
+  authorities have not provided an accounting of these borrower contributions, but the ICR team contends
+  that it is reasonable to assume that the Government fulfilled the foregoing commitments.
+
+
+  Dates: The project was approved on May 10, 2011 and became effective on August 28, 2011. The
+  project closed on February 28, 2018, a year and eight months after the original closing date of June 30,
+  2016.
+
+
+  Restructuring: The project was restructured four times. The restructuring did not change the project
+  development objective.
+
+                                                                                                    Page 3 of 19
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     BD: IDEA Project (P121528)
+
+
+
+
+     • The first restructuring of March 27, 2012, with none of the project funds disbursed, modified the
+     categories of expenditures for the project to allow for the use of project funds for start-up activities,
+     including for consultants to help with the rules and regulations to implement the National Identity
+     Registration Act of 2010.
+     • The second restructuring of August 12, 2013, with SDR 3.4 million disbursed (2.7 percent of the
+     project financing), reallocated the project funds between expenditure categories: increasing the
+     allocation for operating costs from SDR 16.5 million to SDR 17.7 million, and reducing the allocation for
+     goods, works, services, consultant services and training from SDR 34.8 million to SDR 33.5 million.
+     • The third restructuring of June 28, 2015, with SDR 65.6 million disbursed (53.3 percent): (a) revised
+     some results indicators --- added two outcome indicators, deleted three output indicators, and added
+     four output indicators; (b) extended the closing date from June 30, 2016 to December 31, 2017; (c)
+     changed the financing plan for the project in view of the depreciation of the SDR against the U.S. dollar,
+     which reduced the U.S. dollar value of the IDA credit from US$195 million to US$171 million; (d) revised
+     the estimates of the costs of the three components to reflect the reduction of the U.S. dollar value of the
+     IDA financing --- the cost of the Regulatory Framework for the National Identification System from US$9
+     million to US$8 million, that for the Operation and Maintenance of the National Identification System
+     from US$146 million to US$128 million, and that for Capacity Building and Communication from US$40
+     million to US$35 million; (e) reallocated the project funds between expenditure categories; (f) authorized
+     the use of the project funds to pay for customs duties and the VAT on imports for the project, for up to
+     US$23.3 million; and (g) changed the schedule for the annual disbursements of the project funds.
+     • The fourth restructuring of December 29, 2017, with SDR 105.4 million disbursed (85.7 percent),
+     extended the project closing date from December 31, 2017 to February 28, 2018 and cancelled the
+     undisbursed balance of SDR 17.6 million (US$25 million equivalent).
+
+
+
+
+3. Relevance of Objectives
+
+  Rationale
+  The objective to establish an accurate, secure and reliable NID system was to be accomplished by the
+  production, personalization, and distribution of smart NID cards to Bangladeshi citizens. By this statement,
+  the Project Appraisal Document (PAD) equated the smart NID card system with an “accurate, secure, and
+  reliable” means of identification of citizens for public and private purposes, in contrast with the previous
+  paper ID card system which would be considered as not “accurate, secure, and reliable”. The PAD,
+  however, did not associate these attributes to elements of the smart NID card system (e.g. an accurate
+  database, a secure card, a reliable ICT network), or define metrics to measure the level of, or degree of,
+  “accuracy”, “security”, and “reliability” of the smart NID card system. The same shortcoming applies to the
+  equation by the PAD of the use of the smart NID card system by Government agencies with a “more
+  efficient and transparent delivery” of public services to citizens.
+
+
+                                                                                                    Page 4 of 19
+            Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+            BD: IDEA Project (P121528)
+
+
+
+
+       These shortcomings do not undermine the basic premise that smart NID cards provide for an “accurate,
+       secure and reliable” NID system, but an association of the terms with elements of the NID system, as well
+       as metrics to measure levels or degrees of these attributes, would have made for a more robust formulation
+       of the project objective, reporting of the project results, and evaluation of the project outcome.
+
+
+       Notwithstanding the foregoing shortcoming, this ICR Review considers the project to be highly relevant to
+       the development priorities of Bangladesh and to the assistance strategy of the World Bank Group in the
+       country, both at project appraisal and at project closing.
+
+
+       The project was relevant to the development priorities of the country at project closing. The "Seventh Five
+       Year Plan (FY2016-2020)" aimed to accelerate inclusive growth, reduce poverty, empower citizens, and
+       promote sustainable development. The plan expected Bangladesh to achieve these objectives by
+       improving the investment climate, raising investments in infrastructure and manufacturing, addressing skills
+       challenges in industry, leveraging the advantages of information and communications technology, and
+       enhancing the efficiency of the financial sector. The plan would equally empower citizens to contribute to
+       these development priorities by striving for universal primary and secondary education, increasing access to
+       improved public health care, strengthening social protection systems, and promoting gender equality in
+       education and employment. By integrating the new NID system into the range of public services that it
+       provided, the Government would more effectively and efficiently achieve the objectives of the development
+       plan, and with the active participation of its citizens.
+
+
+       The project was aligned with the assistance strategy of the Bank Group in Bangladesh at project
+       closing. The "Country Partnership Framework for Bangladesh for the Period FY16-FY20" called for the
+       Bank Group to engage the Government in "three foundational priorities" for promoting sustainable growth
+       and creating jobs --- maintaining macroeconomic stability, promoting human development, and
+       strengthening institutions and the business environment --- and in "five transformational priorities" where
+       country performance has lagged --- energy, inland connectivity, regional and global integration,
+       urbanization, and adaptive delta management. The NID system would continue to support the efforts of the
+       Government to efficiently and transparently provide public services to its citizens along these priorities.
+
+
+
+       Rating
+       High
+
+   4. Achievement of Objectives (Efficacy)
+
+PHEFFICACYTBL
+
+
+
+
+                                                                                                       Page 5 of 19
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      BD: IDEA Project (P121528)
+
+
+
+
+Objective 1
+Objective
+To assist Bangladesh to establish an accurate, secure, and reliable national identification system.
+
+Rationale
+The project only modestly achieved the objective of establishing an accurate, secure and reliable NID
+system, as the project delivered smart NID cards for only half the number of Bangladeshi citizens that the
+Government targeted.
+
+
+  • A total of 40.39 million citizens had access to secure and reliable means of identification, with their NID
+  cards personalized by the project closing date, representing only 50.5 percent of the target of 80 million
+  citizens. The implementation of the project and the initiation of the procurement process for the NID cards
+  were much delayed, in large part because the Government could not finalize the rules and regulations to
+  implement the National Identity Registration Act (NIRA) of 2010 --- a condition to the disbursement of the
+  project funds --- without a Parliamentary amendment to the NIRA. The NID card contract was not signed
+  until January 2015, roughly three and a half years after the project effectivity date. Thereafter, there were
+  be problems with contract implementation, with only half the target of smart NID cards personalized,
+  and the contract was not renewed after it expired in June 2017. Meanwhile, the authorities issued 91
+  million paper-laminated NID cards by end-fiscal year 2015, which were accepted as valid identity tokens,
+  but which lacked security features. The paper-laminated NID cards met the criterion for "reliability" of an
+  NID system, but failed to meet the criterion on "security". The ICR (page 20) estimates that the project,
+  the financing of which the Government had assumed after the project closing date in February 2018,
+  should be able to complete the personalization of the remaining 38.81 million smart NID cards by end-
+  December 2018, using the remaining blank NID cards supplied by the contractor. The ICR team has since
+  reported that the Government has further extended its schedule for completing the project on its own
+  account to end-June 2019.
+
+
+
+
+  • A total of 19.15 million women had access to secure and reliable means of identification, with their NID
+  cards personalized, representing only 47.9 percent of the target of 40 million women. The authorities
+  issued 45 million paper-laminated NID cards to women by end-fiscal year 2015. The ICR (page 20)
+  similarly estimates that the project, under financing by the Government, should meet this target by end-
+  December 2018. The ICR team has since reported that the Government has further extended its schedule
+  for completing the project on its own account to end-June 2019.
+
+
+The project had a better record completing the outputs defined under the three components of the project to
+support the first objective. However, the inability of the project to provide smart NID cards to roughly half the
+number of citizens in the target population means that the other half of the target --- some 39.6 million
+
+
+                                                                                                      Page 6 of 19
+            Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+            BD: IDEA Project (P121528)
+
+
+
+    citizens --- still did not have access to an accurate, secure and reliable NID system by the project closing
+    date.
+
+
+        • The operational procedures for the management of the NIDW at the BEC were introduced, as planned.
+        • The regulatory and operational guidelines for the NIDW and NID verification service were issued, as
+        planned.
+        • The data center and the disaster recovery center of the NIDW at the BEC were established, as
+        planned. (A data center is a facility that houses computer systems and associated components, including
+        telecommunications and storage systems. A disaster recovery center enables the recovery or
+        continuation of vital technology infrastructure and systems following a natural or human-induced disaster).
+        • One personalization center for smart NID cards was established, meeting the target.
+        • A total of 516 upazila server stations capable of NID registration and updating of information were
+        connected through the virtual private network (VPN), exceeding the target of 230 upazilla server
+        stations. (A server station is a computer that handles data requests from other computers. A virtual
+        private network extends a private network across a public network, creating a safe and encrypted
+        connection over a less secure network.)
+        • Some 43 staff were recruited to the NIDW, short of the target to recruit 71 staff members.
+        • Some 4,261 staff members were trained in the operation of the NID and management of the NIDW,
+        exceeding the target to train 2,240 staff members.
+        • No orientation session was organized for the upazila-level staff of the NIDW for community mobilization
+        for the NID system, compared to the target to organize 60 orientation sessions. The consulting firm hired
+        for this purpose failed to deliver the orientation sessions.
+
+
+
+    Rating
+   Modest
+  PHREVDELTBL
+
+PHEFFICACYTBL
+
+
+    Objective 2
+    Objective
+     To use the accurate, secure and reliable national identification system as a basis for a more efficient and
+     transparent delivery of public services.
+
+    Rationale
+    The project substantially achieved the objective for Government agencies to use the NID system as a basis
+    for a more efficient and transparent delivery of public services to Bangladeshi citizens. The number of
+    agencies and the number of citizens using the smart NID card system for identity verification exceeded the
+    targets by wide margins.
+
+
+
+                                                                                                         Page 7 of 19
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      BD: IDEA Project (P121528)
+
+
+
+
+  • A total of 17 public and 68 private agencies used the NID system to verify the identification of their
+  clients and service beneficiaries, exceeding the target that at least two public and two private agencies
+  use the system for client and service beneficiary identification. The ICR (pages 21-23) profiles five public
+  and two private agencies that use the NID services, including the Ministry of Finance (some 800,000
+  "ghost" employees and pensioners were found), the National Board of Revenue (some 1.2 million false or
+  duplicate taxpayer accounts were identified), the Department of Immigration and Passports (which
+  reported an easier verification of identity and hence more timely issuance of passports), the Office of the
+  Registrar General (which uses the NID number of a parent to issue a birth certificate to a child), and the
+  Government Exchequer (which was able to collect US$17 million for the NID services).
+
+
+
+
+  • There was no progress with the target to have five public and private agencies use the NID system for
+  offline identity verification using smart NID cards. The ICR (page 19) reports that the project could not
+  gather data on the number of agencies doing offline identity verification, using either smart or paper-
+  laminated NID cards, citing this as a shortcoming of the M&E system rather than a failure to achieve the
+  outcome target.
+
+
+
+
+  • A total of 70 million citizens had their identity electronically verified, exceeding the target of 7 million
+  citizens.
+
+
+The project also substantially delivered on the outputs defined under the three components of the project to
+support the second objective.
+
+
+  • Three social protection programs utilized the NID to verify the identity of their beneficiaries, short of the
+  target that five social protection programs use the NID.
+  • Some 71 percent of agencies surveyed expressed satisfaction with the NID verification services,
+  according to a survey conducted over the period November-December 2017, exceeding the target that 70
+  percent of agencies be satisfied using the NID verification services.
+  • Some 93 percent of citizens surveyed expressed satisfaction with the use of NID smart cards, according
+  to a survey conducted over November-December 2017, exceeding the target that 70 percent of citizens be
+  satisfied with using NID smart cards.
+
+
+
+Rating
+Substantial
+
+                                                                                                         Page 8 of 19
+                  Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+                  BD: IDEA Project (P121528)
+
+
+     PHREVDELTBL
+
+
+PHOVRLEFFRATTBL
+
+
+
+
+Rationale
+This ICR Review weighs the first objective more heavily than the second because establishing an accurate,
+secure and reliable NID system would form the basis for achieving an efficient and transparent delivery of public
+services. For this reason, this ICR Review considers the composite rating for the overall efficacy of the project to
+be modest.
+
+
+
+
+Overall Efficacy Rating                                             Primary reason
+Modest                                                              Low achievement
+
+     5. Efficiency
+
+            The efficiency of the project is assessed as modest.
+
+
+            Economic Efficiency: The ICR (pages 23-24) calculated the net present value (NPV) of the project, from the
+            perspective of the NID services provider, the Government's BEC. The NPV was positive at US$36.1 million,
+            on an initial investment of US$113.2 million. Revenues consisted of receipts from public agencies using the
+            NID services, at Bangladesh Taka (BDT) 1.16 (US$0.014 equivalent at BDT84.75 = US$1.00) per hit, and
+            from private entities, at BDT 2.30 (US$0.027 equivalent) per hit. Revenues and operating costs were
+            assumed to increase at 10 percent per year. The NPV was computed over a 10-year period and with a
+            discount rate of 10 percent. The positive NPV signifies that the operation was efficient in economic
+            terms. The Project Appraisal Document (page 57) previously estimated a positive NPV for the services
+            provider, at US$69 million, over a ten-year period and using a discount rate of 7 percent.
+
+
+            Operational Efficiency: The implementation of the project was delayed considerably. Progress with the
+            project was limited in the first three years, as the finalization of the rules and regulations to implement
+            the NIRA of 2010 required an amendment to the NIRA law itself. The amendment to install data privacy and
+            security clauses was passed by Parliament only in October 2013, roughly two years after the effectivity of the
+            project. The closing of the project was deferred twice, by a combined one year and eight months after the
+            original project completion date. The project funds were not fully disbursed. Fourteen percent of the SDR
+            123 million IDA financing was cancelled at the fourth restructuring.
+
+
+
+
+     Efficiency Rating
+     Modest
+
+
+
+                                                                                                               Page 9 of 19
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      BD: IDEA Project (P121528)
+
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                    Rate
+                                                          Point value (%)            *Coverage/Scope (%)
+                                    Available?
+                                                                                     0
+Appraisal                                                13.00
+                                                                                     Not Applicable
+                                                                                     0
+ICR Estimate                                              0
+                                                                                     Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+
+6. Outcome
+
+The outcome of the project is rated as moderately unsatisfactory. The project was highly relevant to the
+development priorities of the Government and aligned with the assistance strategies of the World Bank Group in
+Bangladesh. The efficacy of the project was modest. Although the project substantially achieved the second
+objective for Government agencies to use the smart NID card system as a basis for efficient and transparent
+delivery of public services, the project only modestly achieved the first objective to establish an accurate, secure
+and reliable NID system, with only half the target of 80 million Bangladeshi citizens having access to the new
+NID system with smart NID cards. The efficiency of the project was modest overall. The NPV of the project was
+positive for the NID services provider, signifying economic efficiency. However, the project suffered operational
+inefficiencies. Project completion was delayed by almost two years, and some 14 percent of the project funds
+were cancelled even after a sharp depreciation of the SDR against the U.S. dollar reduced the U.S. dollar value
+of the IDA financing from US$195 million to US$171 million. The Government did not deliver on counterpart
+financing for the project.
+
+
+a.   Outcome Rating
+     Moderately Unsatisfactory
+
+
+7. Risk to Development Outcome
+
+There are four risks to the sustainability of the development outcome of the project.
+
+
+Political risk: According to the ICR (page 33), all major political groups in Bangladesh recognize the authenticity
+of the NID database, as the NID data emanated from the electoral roll. Thus, the risk that political commitment
+to the NID may waver is low.
+
+
+
+
+                                                                                                     Page 10 of 19
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      BD: IDEA Project (P121528)
+
+
+
+Institutional risk: The NIDW is an operational institution. It is headed by a Director General, has a workforce
+skilled in information technology, and should be able to attract more staff if its operations expand.
+
+
+Financial risk: The NIDW generates its own revenue from the provision of NID services. The revenue base is
+expected to grow as the number of users of the system increases. Moreover, the Government has taken over
+ownership of the project and is committed to providing financial resources to the BEC when needed to sustain
+the NID services. However, there is a contractual dispute between the BEC and the supplier of the NID
+cards. According to the ICR (page 34), the BEC has yet to settle payment to its international supplier for some
+77.3 million blank NID cards. As the project funds are no longer available to the Government following the
+closing of the project in February 2018, the Government will have to bear the costs of settling this dispute
+including the costs of litigation. The ICR team has since reported that the Government and the supplier have
+reached agreement on the payment for the 77.3 million NID cards delivered and on the delivery of the
+remaining 13.7 million NID cards, with all payments due to the supplier after the project closing date to be made
+by the Government.
+
+
+Technical risk: It is expected that the BEC will be able to technically maintain and provide support services to
+the information technology systems established by the project for the NID system. The BEC is also anticipated
+to increase the storage capacity of the data center and the disaster recovery site going forward. For this
+purpose, a five-year plan is currently being developed, including for retaining skilled staff, to ensure the ability of
+the NIDW to sustain the outcome of the project and mitigate any technical risks that may emerge. Meanwhile,
+the NIDW is providing an Application Programming Interface (API) to its users to help them authenticate data in
+the system. The initiative was beyond the original scope of the project. The system is yet to become
+interoperable, however. (Interoperability is the ability of computer systems to exchange information, in this case
+between the NIDW computer system and those of other public and private organizations.) The lack of
+interoperability would pose future risks to advancing the development outcome of the NID system as the system
+matures.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The Bank defined a clear results chain for the project. An NID system, supported by an
+  appropriate regulatory framework, efficient information and communication technology (ICT) infrastructure,
+  and strong technical and managerial capacity, should provide Bangladeshi citizens with access to an
+  accurate, secure and reliable identification system, and public and private institutions with access to
+  accurate identity verification services. When integrated with the provision by government agencies of
+  various public services, the NID system should enable the efficient and transparent delivery of public
+  services to citizens.
+
+
+
+                                                                                                        Page 11 of 19
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     BD: IDEA Project (P121528)
+
+
+
+
+  The Bank laid out detailed institutional and operational arrangements to implement the project, a useful
+  blueprint considering the technical nature of the operation. The NIDW at the BEC would implement the
+  NID system in technical partnership with the Local Government Division and the Bangladesh Bureau of
+  Statistics. An NID Steering Committee, including public and private agencies, an expert group, and
+  citizens' representatives, would provide strategic policy guidance.
+
+
+  The Bank identified five operational risks that could potentially derail the implementation of the project and
+  outlined mitigation measures that would address these risks. The technical complexity of the project was
+  cited as a high-likelihood high-impact project risk, to which the Bank proposed developing a detailed
+  project operations manual, pilot testing key activities including NID card distribution, mobilizing an
+  implementation support consultancy, and launching a massive communication strategy.
+
+
+  There was a significant shortcoming with the quality at entry, however. The Bank does not appear to have
+  anticipated that the issuance of the rules and regulations to implement the NIRA, principally those on data
+  privacy and information security, would have required an amendment by Parliament of the original NIRA
+  legislation. The Financing Agreement (page 13) required the issuance of the NIRA implementing rules and
+  regulations as a condition for project disbursement. However, the Appraisal Document (page 25) did not
+  previously cite any need for an amendment to the NIRA, when discussing the NIRA implementing rules
+  and regulations. The amendment would not be passed by Parliament until October 2013, roughly two
+  years after the effectivity of the project.
+
+  There was another minor shortcoming with the quality at entry. The quality at entry was less robust for the
+  PAD not having defined metrics covering “accurate, secure and reliable” in reference to the smart NID card
+  system, and “efficient and transparent” in reference to the use of the smart NID card system by
+  Government public service agencies. The PAD also did not associate these attributes to elements of the
+  smart NID card system, where applicable (see Section 3).
+
+
+
+
+  Quality-at-Entry Rating
+  Moderately Unsatisfactory
+
+b. Quality of supervision
+  The Bank organized a complete team of technical experts, procurement specialists, financial management
+  specialists, and consultants who closely engaged with the NID Steering Committee, the highest body
+  providing strategic policy guidance over the project, and the BEC Secretariat, the implementing agency of
+  the project, during project implementation. The Bank fielded 14 supervision missions over the six and half-
+  year life of the project, roughly two missions a year. The supervision missions prepared 14 Implementation
+  and Results Reports (ISRs) and Aide-Memoires, which were comprehensive, detailed, and
+
+                                                                                                    Page 12 of 19
+     Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+     BD: IDEA Project (P121528)
+
+
+
+  candid. According to the ICR (page 32), both technical and fiduciary teams worked to maximize the
+  development impact of the project. Their work resulted in several adjustments to the project during
+  implementation, as reflected in the restructuring documents.
+
+
+  However, there was a moderate shortcoming with the quality of supervision. Four Bank task team leaders
+  (TTLs) managed the project at different times. The ICR (page 32) suggests that the TTL changes might
+  have affected the Bank's engagement with the Government, but does not cite specific evidence that it
+  adversely did.
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Unsatisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+  The Project Appraisal Document (pages 20-21) defined two outcome indicators and seven output indicators to
+  measure the degree of achievement of the project development objective. At the restructuring of the project in
+  June 2015, the first PDO-level outcome indicator "the number of citizens having access to secure and reliable
+  means of identification, of which the percentage of women" was de-coupled to consist of two indicators. A
+  fourth indicator was also added. The final outcome indicators were:
+
+
+    • "the number of citizens having access to secure and reliable means of identification";
+    • "the number of women citizens among the number of citizens having access to secure and reliable means
+    of identification";
+    • "the number of public and private institutions using electronic identity verification for their service delivery";
+    and
+    • "the number of public and private institutions using off-line identity verification for their service delivery
+    using smart NID cards".
+
+
+  The restructuring of June 2015 also revised the output indicators to consist of a final set of eleven:
+
+
+    • that "operational procedures for the management of the NIDW are introduced" --- this was added as a new
+    output indicator;
+    • that "the regulatory and operational guidelines for the NID department and verification services are issued";
+
+
+                                                                                                       Page 13 of 19
+     Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+     BD: IDEA Project (P121528)
+
+
+
+    • that "the BEC data center and disaster recovery center are established";
+    • "the number of upazila server stations that are capable of NID registration and updating of information" ---
+    this revised the original wording of "the number of upazila server stations that are capable of NID registration
+    and update";
+    • that "the necessary information systems are in place to design and implement the cost recovery
+    mechanism";
+    • "the number of social protection programs using the NID system to improve the targeting of beneficiaries"
+    with a target of 5 programs --- this revised the original indicator "the percent of social protection programs
+    using the NID system to improve targeting of beneficiaries";
+    • "the number of staff recruited to the NIDW" --- this was added as a new output indicator;
+    • "the number of staff trained in the operation and management of the NIDW";
+    • "that a comprehensive nationwide communication strategy is implemented" --- this output indicator was
+    dropped;
+    • "that orientation sessions are organized the for the upazila-level staff of the BEC for community
+    mobilization for the NID system", with a target of 60 sessions --- this was added as a new output indicator;
+    • "the user perception of the quality of the ID system targeted by the project" --- this output indicator was
+    dropped;
+    • "agencies are satisficed using the NID verification services", with a target of 70 percent of agencies
+    surveyed --- this was added as a new output indicator;
+    • "citizens satisfied using NID smart cards", with a target of 70 percent of citizens surveyed --- this was
+    added as a new output indicator;
+
+
+  The M&E plan called for the implementing agency, the NIDW of the BEC, to conduct the M&E of the
+  project. The plan also called for the hiring of a project management consultancy firm to support the NIDW on
+  M&E, among other project activities.
+
+  There was a minor shortcoming with M&E design, however. The M&E design was less robust for the PAD not
+  having defined metrics to measure the level of, or degree of, “accuracy, security, and reliability” of the smart
+  NID card system (see Section 3).
+
+
+b. M&E Implementation
+  The NIDW created the reporting formats for the project, issued the guidelines for data collection and report
+  preparation, regularly collected M&E data, and reported on the progress with the project, both against the
+  baseline values and the targets for the results indicators.
+
+
+  However, the NIDW was not able to report on the fourth outcome indicator added during the restructuring of
+  June 2015 --- "the number of public and private institutions using off-line identity verification for their service
+  delivery using smart NID cards". The ICR (page 37) explains that data was not available for this indicator.
+
+
+
+                                                                                                       Page 14 of 19
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     BD: IDEA Project (P121528)
+
+
+
+
+c. M&E Utilization
+  The M&E data was used to inform the decisions made by the Bank and the Government to restructure the
+  project in 2012, 2013, 2015 and 2017, including to reallocate the project funds among various components
+  and cost categories, as well as to extend the project closing date twice.
+
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+  Environmental Safeguards: The project was classified as an environmental category "C" at appraisal. The
+  project did not trigger any Bank environmental safeguards policies. No physical construction activities were
+  included in the project design, other than the refurbishment of the project office.
+
+
+  Social Safeguards: The project did not raise any issue with Bank social safeguards policies. Rather, the
+  project was expected to have a potentially significant social impact by creating and operating an accurate,
+  reliable, and secure national ID system for many public and private purposes.
+
+
+
+
+b. Fiduciary Compliance
+  Procurement: As the BEC did not have sufficient experience with large-scale ICT procurement (procurement
+  for a preceding United National Development Programme project was implemented by the donor agency), the
+  Bank required the BEC to undertake several risk mitigation and institutional capacity building measures: (a) hire
+  an implementation support consultancy firm to handle the complete contract management cycle, including the
+  tendering of bids and the quality control of goods and services received from vendors; (b) appoint procurement
+  personnel dedicated to handle the procurement activities for the agency; (c) establish a system to credibly
+  address any complaint related to procurement; and (d) provide a semi-annual report on a procurement risk
+  mitigation plan covering, among others, bid openings, publication of awards, internal controls, coercive
+  practices, and record keeping. The ICR (pages 31-32) reports that all procurement tendering packages were
+  completed following the approved project procurement plan and that the procurement performance of the
+  project was rated as moderately satisfactory.
+
+
+  Financial Management: A financial management assessment was conducted in March 2010 to determine
+  whether the financial management practices of the NIDW of the BEC were acceptable regarding: the use of
+  funds for their intended purposes; the preparation of accurate, reliable and timely financial reports; and
+
+                                                                                                  Page 15 of 19
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     BD: IDEA Project (P121528)
+
+
+
+  the safekeeping of agency assets. The assessment generally found the financial management risk of the
+  project to be moderate. However, to address certain weaknesses, the Bank required that: (a) an
+  implementation support consultant would be retained, and (b) a project financial management action plan
+  would be prepared. The ICR (page 31) reports that action plan was followed and that the financial
+  management performance of the project was rated as moderately satisfactory throughout project
+  implementation. The unaudited interim financial reports were submitted to the Bank in a timely manner and
+  found to be acceptable. The annual financial statements were audited, and the auditors submitted unqualified
+  audit opinions in all cases.
+
+
+
+c. Unintended impacts (Positive or Negative)
+  None reported.
+
+
+
+d. Other
+   ---
+
+
+
+11. Ratings
+                                                                               Reason for
+Ratings                      ICR                      IEG
+                                                                               Disagreements/Comment
+                             Moderately              Moderately
+Outcome                                                                        ---
+                             Unsatisfactory          Unsatisfactory
+                                                                               The Bank does not appear to
+                                                                               have anticipated that the
+                                                                               issuance of the rules and
+                                                                               regulations to implement the
+                                                                               NIRA, principally those on
+                             Moderately              Moderately                data privacy and information
+Bank Performance
+                             Satisfactory            Unsatisfactory            security, would have required
+                                                                               an amendment by Parliament
+                                                                               of the original NIRA
+                                                                               legislation. As a result, there
+                                                                               was a two-year delay in
+                                                                               effectiveness.
+Quality of M&E               Substantial             Substantial               ---
+Quality of ICR                                       Substantial               ---
+
+12. Lessons
+
+Three lessons are drawn from the ICR (pages 34-35), with adaptation.
+
+
+                                                                                                Page 16 of 19
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     BD: IDEA Project (P121528)
+
+
+
+
+New legislation, or amendments to existing legislation, that are needed for an operation should be planned for
+well in advance of project approval or effectivity. The inclusion of data privacy and security clauses in the
+implementing rules and regulations to the NIRA apparently required a Parliamentary amendment to the NIRA,
+which was not anticipated at project preparation, and effectively delayed the implementation of the project by
+about two years. This ICR Review does not agree with the assessment of the ICR (page 34) that "complying
+with a legal framework is not a suitable condition for disbursement ... because the executive does not have
+control over the actions of the parliament" and that "an investment project would benefit from not including a
+politically-linked condition outside the control of the project and its implementing agency". This ICR Review
+considers the amendment to have been inevitable, given the requirement for data privacy and security in the
+NID system, and deems that the appropriate lesson should be that legislative actions must be planned for deep
+in advance of project approval or effectivity.
+
+
+For technology-heavy operations, it is vital that borrower governments be competently supported by suitable
+technical assistance, including possibly beyond the project completion date, to ensure the sustainability of the
+project outcomes. The project benefitted from having an implementation support consultancy firm handle the
+contract management for the project, considering that the NIDW and the BEC did not have the technical
+capacity and the operational experience for a large- scale ICT procurement. Going forward, there remain
+considerable technological challenges for the Government and the NIDW: (a) the inter-operability of the NID
+system relative to the computer systems of various public and private sector clients will be an issue as the NID
+system matures; (b) the National Enterprise Architecture (NEA) bus launched by the Bangladesh Computer
+Council will have to be implemented to enable the provision by the Government of electronic services (e-
+services); and, (c) procurement and staffing related to these activities will continue to be
+challenging. Hence, continuing technical assistance to the Government and the NIDW would be necessary
+going forward.
+
+
+A national identification initiative requires an effective communications strategy. According to the ICR, the
+strategic communications program for the project, delivered by a professional communications firm, was
+instrumental and effective in building demand for the NID services. The communications effort also collected
+feedback information on the NID from both citizens and NID service users. It will be incumbent on the
+Government to strengthen the communications strategy for the NID well beyond the project closing date.
+
+
+
+
+13. Assessment Recommended?
+
+No
+
+14. Comments on Quality of ICR
+
+
+                                                                                                   Page 17 of 19
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      BD: IDEA Project (P121528)
+
+
+
+
+The ICR provides a comprehensive record of the project, beginning with the context of the operation at
+appraisal (pages 8-9), the theory of change underlying the project (pages 9-11), and the design of the project
+components and sub-components (pages 11-13). The document provides an informative tally of the changes
+to the project's costs, financing plan, timetable, and results indicators made over four restructuring
+episodes. The Government's Project Completion Report, attached as Appendix 1 to the ICR (pages 60-124),
+offers even more detailed information on various aspects of project implementation, including the procurement
+of goods, works and consultancy services, the installation of ICT equipment for the NIDW, the use of foreign
+and local consultants, and the provision of training related to the implementation of the NIDW.
+
+
+The assessment of the program's results is evidence-based. The ICR provides a useful summary and narrative
+of the operation's performance, set within the results framework for the project (pages 18-20 and pages 36-
+42). Details on the project outputs are supplied in a useful annex (pages 43-45).
+
+
+The analysis of the program outputs and outcomes is candid. The ICR cites how the project only partly met
+the objective to assist Bangladesh to establish a secure, accurate, and reliable national ID system for a more
+efficient and transparent service delivery because the project delivered personalized NID smart cards to only
+half the number of citizens and women citizens it targeted (pages 18-21). It also cites a significant
+deficiency with quality at entry (page 32), citing the failure of the Bank preparation team to identify the
+finalization of the NIRA implementing rules and regulations as a readiness condition for the project. However,
+the ICR also acknowledges that the NID drew significantly more users than the project expected, and together
+with the positive impact of the NID on its users, would have set the foundation for achieving the project
+objective in the long run.
+
+
+There are minor shortcomings with the ICR, however, perhaps owing to poor editing of the document.
+
+
+  • The ICR (page 15) appears to confuse the two figures for borrower contribution, citing the Government
+  contribution to the project as US$24 million at appraisal and US$2.01 million as the "revised" figure at
+  restructuring.
+  • The ICR (page 2) lists only three restructuring episodes. The ICR missed the first one, of March 2012,
+  covered by a Restructuring Paper (Report No. 67650v1) and an Amendment to the Financing
+  Agreement dated March 27, 2012.
+  • The ICR, which puts forward a split rating for the project, cites the efficacy of the project after restructuring
+  as "Modest" in one part of the report (page 25) and "Substantial" in another part (page 23).
+
+
+
+a. Quality of ICR Rating
+
+
+                                                                                                        Page 18 of 19
+  Independent Evaluation Group (IEG)   Implementation Completion Report (ICR) Review
+  BD: IDEA Project (P121528)
+
+
+
+Substantial
+
+
+
+
+                                                                    Page 19 of 19
+

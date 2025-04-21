@@ -1,0 +1,952 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     ZM-Lusaka Transm. & Dist. Rehab. (P133184)
+
+
+
+                                                                                  Report Number: ICRR0023318
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P133184                                    ZM-Lusaka Transm. & Dist. Rehab.
+
+ Country                                    Practice Area(Lead)
+ Zambia                                     Energy & Extractives
+
+
+ L/C/TF Number(s)                           Closing Date (Original)                Total Project Cost (USD)
+ IDA-52600                                  28-Feb-2019                                          95,057,189.68
+
+ Bank Approval Date                         Closing Date (Actual)
+ 30-May-2013                                28-Feb-2022
+
+                                            IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                          105,000,000.00                                                0.00
+
+ Revised Commitment                           101,000,000.06                                                0.00
+
+ Actual                                          95,057,189.68                                              0.00
+
+
+
+
+ Prepared by                 Reviewed by                  ICR Review Coordinator          Group
+ Maria Shkaratan             Christopher David            Ramachandra Jammi               IEGSD (Unit 4)
+                             Nelson
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The original Project Development Objective (PDO) was “to increase the capacity and improve the reliability of
+   the electricity transmission and distribution system in the Lusaka area”. The PDO was stated identically in the
+   Financing Agreement (October 3, 2013, page 5) and in the PAD (page 8).
+
+   The PDO was revised. The revised PDO was “to increase the capacity and improve the reliability of the
+   electricity transmission system in the Lusaka area” (Restructuring Paper, May 30, 2013, page 9).
+
+
+                                                                                                   Page 1 of 18
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     ZM-Lusaka Transm. & Dist. Rehab. (P133184)
+
+
+
+   For the purposes of this Implementation Completion Report (ICR) review, the PDO will be assessed as
+   follows:
+
+   PDO1: To increase the capacity and improve the reliability of the electricity transmission system in the Lusaka
+   area.
+
+   PDO2: To increase the capacity and improve the reliability of the electricity distribution system in the Lusaka
+   area.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  27-Jun-2018
+
+c. Will a split evaluation be undertaken?
+   Yes
+
+d. Components
+   1. Original components
+
+   Component 1: Rehabilitation of the 132kV and 88kV Transmission Network in Lusaka Area (cost at
+   appraisal: US$106.0 million; actual cost: US$91.1 million) was to invest in the following: (i) upgrades of
+   several transmission lines and substations; (ii) construction of two new substations; and (iii) replacement of
+   the 11kV switchgear in several locations.
+
+   Component 2: Rehabilitation of the 33kV and 11kV Distribution Network in Lusaka Area (cost at
+   appraisal: US$94.0 million; actual cost: US$2.3 million) aimed to finance the following: (i) upgrades to
+   distribution lines, substations, and transformers; and (ii) construction of distribution lines and substations.
+
+   Component 3: Technical Assistance and Project Supervision (cost at appraisal: US$10 million; actual
+   cost: US$15.3 million) was to finance: (i) Project’s technical supervision; (ii) Project Implementation Unit
+   (PIU) activities; (iii) technical assistance to the electricity utility Zambia Electricity Supply Corporation
+   Limited (ZESCO); and (iv) identification and preparation of energy sector policies and regulations.
+
+   Note: Due to the deficiencies of the ICR in presenting Project costs, this Review uses the Project PAD for
+   the costs at appraisal and Project’s Restructuring Papers, Implementation Status Reports (ISRs), and Aide
+   Memoires for costs at closure (with the exception of the Component 3 costs, which are sourced from the
+   ICR). The aforementioned deficiencies are as follows: the presentation of the Component 2 costs at closure
+   in the ICR contradicts what is reflected in the June 27, 2018 Restructuring Paper, and in the post-
+   restructuring ISRs and Aide Memoires (including the final Aide Memoire filed at closure). It also does not
+   comply with the Bank’s evaluation guidelines. The ICR lists the Component 2 costs as US$43.06 million at
+   closure (ICR, page 49 and elsewhere), while the Component was cancelled at the point of time when the
+
+                                                                                                        Page 2 of 18
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    ZM-Lusaka Transm. & Dist. Rehab. (P133184)
+
+
+
+  disbursement for it was US$2.3 million (Restructuring Paper, June 27, 2018, page 3). This misrepresents
+  the level of Project’s achievements. In addition, the Component 1 costs at closure does not take into
+  account the balance of US$0.95 million that remained at closure and thus increases the disbursement
+  rate.
+
+  2. Changes in components during implementation
+
+  The Project underwent two restructurings: a level 1 restructuring on June 27, 2018; and a level 2
+  restructuring on February 4, 2021. The second restructuring involved only a change in the closing date, by
+  12 months. The first restructuring involved the following changes:
+
+       i. Component 2 Rehabilitation of the 33kV and 11kV Distribution Network in Lusaka Area, to be
+          financed by the European Investment Bank (EIB), was dropped. The reason was that the works
+          under Component 2 had been delayed as compared with the two other components and would not
+          be completed at the same time. The implementation of activities under Component 2 would,
+          however, be finalized within a standalone EIB project, as agreed with the EIB (Restructuring Paper,
+          June 27, 2018, page 6).
+      ii. The results framework (RF) was adjusted accordingly. Specifically, the PDO indicator measuring
+          improvements in distribution system reliability (the main outcome of Component 2 activities) -
+          Average interruption frequency per year (SAIFI) in the project target areas in Lusaka Division - was
+          replaced by the PDO indicator measuring improvements in transmission system reliability (related to
+          Component 1) - Unserved load on the Lusaka transmission network. This indicator was defined as
+          the percentage of the peak load that was shed out of total peak load (on the Lusaka transmission
+          network). This was the only change to the RF during Project implementation.
+     iii. Reallocation of US$6 million from Component 1 (Rehabilitation of the 132kV and 88kV Transmission
+          Network in Lusaka Area) to Component 3 (Technical Assistance and Project Supervision) and
+          cancellation of US$4 million from Component 1. The ICR explains that the reason for this change
+          was that savings in the amount of US$10 million were achieved in Component 1 due to a revised
+          procurement packaging and close implementation support from the World Bank; and a part of those
+          savings (US$6 million) were reallocated to Component 3 to finance the project supervision
+          consultant until the extended Project closure (ICR, page 12), while the remaining US$4 million were
+          cancelled.
+     iv. Extension of the closing date by 24 months.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost: The appraisal estimate was US$210.0 million, and the actual Project cost was US$108.07
+  million.
+
+  Project Financing: The Project was financed by the following sources: (i) a US$105 million credit from the
+  International Development Association (IDA) to the Government of Zambia, to be on-lent to ZESCO under
+  terms and conditions satisfactory to IDA (of which US$93.4 million was disbursed at closure); and (ii) a loan
+  from the European Investment Bank (EIB) in the amount of US$65.0 million (of which US$2.3 million was
+  disbursed).
+
+  Comment on IDA financing: The original amount of the IDA loan was $105.0 million. It was reduced to
+  US$101.0 million at the restructuring of June 27, 2018 when US$4.0 million was cancelled (see section
+
+                                                                                                  Page 3 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     ZM-Lusaka Transm. & Dist. Rehab. (P133184)
+
+
+
+   “Changes in Components during Implementation” above). From the amount of US$101.0 million, the
+   amount of US$6.7 million was lost over the period of Project implementation due to the fluctuations of the
+   Special Drawing Rights (XDR)-US Dollar rates (the Project was denominated in XDR), resulting in total IDA
+   amount of US$94.3, out of which the amount of US$93.35 million was disbursed and US$0.95 million
+   remained undisbursed at closure. (Aide Mémoire Feb 17, 2022, page 4)
+
+   Comment on EIB financing: The original amount of the EIB financing (to be funding Component 2) was
+   US$65.0 million (PAD, page 11). At the time of the second restructuring (June 27, 2018) when Component
+   2 was cancelled, the disbursements amounted to US$2.3 million (Restructuring Paper 2018, page 3-4).
+
+   Borrower/Recipient contribution: The Borrower’s contribution was US$40.0 million at appraisal (PAD, page
+   11), and the actual contribution was US$15.35 million at closure (ICR, page 49).
+
+   Project Dates: The Project was approved on May 30, 2013 and became effective on February 28, 2014.
+   The mid-term review was held on December 20, 2017. The original closing date was February 28, 2019.
+   The Project was extended twice, first to February 19, 2021 (under the first restructuring), and then to
+   February 28, 2022 (under the second restructuring), for the total of three years (or 36 months).
+
+   Please see the note in section d.1. Original Components regarding ICR deficiencies in presenting Project
+   costs.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and Sector Context: At approval, the country’s ten-year average annual GDP growth was 5.7
+percent, supported by stability and prudent macroeconomic policies, and Zambia was now classified as a
+Lower Middle-Income country by the World Bank. However, electricity sector deficiencies were creating
+barriers for continued growth and poverty reduction: electricity demand had outpaced generation and
+network capacity expansion, leading to electricity supply shortages and its low reliability and quality. Over
+the decade of 2000-2010, power shortages caused a reduction of the per capita GDP growth rate by more
+than 0.1 percentage. At the same time, demand for electricity was estimated to grow at 4.6 percent annually
+in 2012-2020 and at 2.6 percent annually in 2020-2030. The Lusaka area would be affected the most.
+Improving electricity sector efficiency had become critically important.
+
+Relevance to Government Strategies at approval. The Sixth National Development Plan (6NDP) for the
+period 2011 - 2015 was organized around the objective of “accelerating infrastructure development,
+economic growth and diversification, to promote rural investment and accelerate poverty reduction and to
+enhance human development”; and rehabilitating the existing generation, transmission and distribution
+facilities and networks was among the key plans for the electricity sector. The Government has
+promulgated several policies to pursue its energy sector objectives, including approving a revised National
+Energy Policy in 2007. The National Energy Strategy was seeking to enhance the security of supply and
+reinforce and extend transmission and distribution networks, among other targets.
+
+Relevance to Government Strategies at closure. At closure, the Seventh NDP (7NDP) for the period 2016-
+2020, also had a focus on energy sector development through its Development Outcome 4 Improved
+
+                                                                                                   Page 4 of 18
+                       Independent Evaluation Group (IEG)            Implementation Completion Report (ICR) Review
+                       ZM-Lusaka Transm. & Dist. Rehab. (P133184)
+
+
+
+Energy Production and Distribution for Sustainable Development, which had four strategic directions: (i)
+enhancing generation, transmission, and distribution of electricity; (ii) enhancing strategic reserves and
+supply of petroleum products; (iii) promoting renewable and alternative energy; and (iv) improving electricity
+access in rural and peri-urban areas.
+
+Relevance to the World Bank Group's (WBG’s) Assistance Strategies at approval. The Joint Assistance
+Strategy (JAS) and the Country Partnership Strategy (CPS - March 14, 2013) highlighted energy as one of
+the key development focus areas. The reviewed Project was directly linked to the CPS objective of
+improving competitiveness and infrastructure for growth and employment. The CPS articulated seven
+guiding principles for the World Bank Group’s engagement in Zambia, and in all of them, energy was given
+a prominent role.
+
+Relevance to the WBG’s Assistance Strategies at closure. The Project was aligned with the Country
+Partnership Framework (CPF) FY19–FY23, which supported electricity transmission under Focus Area 3
+Institutions and Resilience, which had a key objective formulated as “Trade and infrastructure for Economic
+Integration and Shared Natural Resources Management with the Broader Regional Increases”. Under this
+objective, the aspiration was for Zambia to become a regional hub for electricity trading, which would
+support enhanced energy security and avoided power shortages.
+
+Other World Bank electricity sector operations in Zambia. The World Bank-financed Power Rehabilitation
+Project, which closed in December 2005, assisted ZESCO in rehabilitation of the three major hydropower
+generation plants and transmission and distribution systems in selected areas. The Increased Access to
+Electricity Services project, approved in May 2008, supported grid extensions, network reinforcements, rural
+electrification, and access expansion as well as improvement in efficiency and the quality of electricity
+services. The Kafue Town - Muzuma - Victoria Falls Regional Transmission Line Reinforcement Project,
+approved in May 2012, supported upgrading the transmission line backbone in project target areas from
+220kV to 330kV to facilitate power transfer along the DRC-Zambia-Namibia corridor. The Zambia-Tanzania
+Interconnector Project, which was approved in 2018, would link the Southern African Power Pool and the
+East African Power Pool. While the previous World Bank electricity sector projects in Zambia invested in
+power generation, the transmission backbone, grid extensions, and access in rural areas, the reviewed
+Project is aiming at modernizing the transmission and distribution network in the priority area (the capital
+city), where projected increase in electricity demand is the highest, and so is the anticipated gap in
+electricity availability due to shortages.
+
+At appraisal, the World Bank has a history of joint operations with the EIB in Zambia, namely, to support the
+improvements in ZESCO’s governance and the tariff reform in the country. The two institutions were
+planning to continue the coordination of their support to electricity sector development, and the reviewed
+Project was designed in this context.
+
+Thus, the relevance of objective is rated high.
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+High
+
+
+4. Achievement of Objectives (Efficacy)
+
+                                                                                                    Page 5 of 18
+                  Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                  ZM-Lusaka Transm. & Dist. Rehab. (P133184)
+
+
+
+
+EFFICACY_TBL
+
+
+
+
+               OBJECTIVE 1
+               Objective
+               To increase the capacity and improve the reliability of the electricity transmission system in the Lusaka area.
+
+               Rationale
+               The theory of change (ToC) for the Project was developed retrospectively for the ICR. It showed a direct,
+               logical causal link from inputs to outputs, and to the PDO outcomes of the Project. The Project-financed
+               construction and rehabilitation activities, supported by TA, would produce improved or expanded transmission
+               and distribution networks in the Lusaka area (the outputs); and this would ultimately result in: (i) increased
+               capacity and reliability of the Lusaka area transmission network and (ii) increased capacity and reliability of
+               the Lusaka area distribution network (PDO outcomes). Related to the physical activities under the Project, the
+               TOC is logical and clear and shows the results chain through the cause-effect relationships between inputs,
+               outputs, and outcomes. An important shortcoming was the lack of intermediate outcomes in the TOC. While
+               they were not needed for the physical activities (construction and rehabilitation works) in the Project, it would
+               be useful if the ToC had illustrated how, through which processes, the TA activities were expected to lead to
+               Project outcomes. However, the ToC is missing any links between the TA inputs and Project outcomes, which
+               is considered to be one of its two minor weaknesses. In addition, the ToC’s assumptions seem to be related
+               to the sustainability of the overall Project outcomes and not to the achievement of Project objectives. For
+               example, it would make sense to include an assumption related to the risks resulting from the parallel
+               implementation of Project activities by IDA and the EIB, as well as to the risks of inefficient procurement of
+               multiple contracts by the PIU. The ToC does not provide such information, and this constitutes its second
+               minor weakness.
+
+               ORIGINAL PROJECT
+
+               Outcomes:
+
+               - At closure, the achieved transmission capacity amounted to 1,022 MVA, exceeding the original target of 900
+               MVA. Three transmission lines were upgraded from single to double circuit, which had a higher carrying
+               capacity. As a result, the reliability of the power supply was improved.
+
+               - At closure, the unserved load in the Lusaka transmission network was fully removed, reaching the original
+               target of zero percent of the shed peak load over the total peak load.
+
+               - At closure, the number of direct project beneficiaries was as per the original target, 1,200,000 people. The
+               share of female beneficiaries was 51 percent, reaching the target, though the mechanism to track this detail
+               lacks any sophistication telling us little about the impact on female beneficiaries.
+
+               Outputs:
+
+               - All four original transmission line upgrade targets (measured in kilometers) were reached: for the Leopards
+               Hill -Roma; Roma -Lusaka West; Lusaka West – Coventry; and Waterworks - Lusaka South MFEZ. The total
+               length of the transmission lines upgraded was 75 kilometers, reaching the target.
+
+
+
+                                                                                                                  Page 6 of 18
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   ZM-Lusaka Transm. & Dist. Rehab. (P133184)
+
+
+
+- The original target for the construction of the transmission line (five kilometers) was reached.
+
+- The original substation capacity upgrade target of 270 MVA was reached. This was needed to upgrade the
+existing operational 88/33/11kV, 165MVA Waterworks substation to 132/33/11kV, 270MVA substation and
+hence to increase capacity with firm supply of 90MVA at 33kV and 60MVA at 11kV.
+
+- Technical assistance. The training target was exceeded: 224 ZESCO staff were trained, compared to the
+target of 150 staff. The training courses were focused on procurement, financial management,
+substation/overhead line engineering design and project management. Studies for the preparation of new
+energy projects were completed (a binary “Yes-No” indicator). The RF is missing outcome indicators on
+technical assistance (TA), making it hard to evaluate the TA activities under Component 3. The ICR does not
+include any discussion of TA under efficacy analysis.
+
+Overall, under PDO1, the Original Project achieved all of its expected outcomes and outputs. Thus, the
+objective is rated High.
+
+
+
+Rating
+High
+
+
+OBJECTIVE 1 REVISION 1
+Revised Objective
+To increase the capacity and improve the reliability of the electricity transmission system in the Lusaka area.
+
+Revised Rationale
+Please see the discussion of the TOC under PDO1, Original Project.
+
+At revision, there was no change in the PDO1, or related Project’s outcomes/outputs, or the targets. Under
+PDO1, the Revised Project achieved all of its expected outputs and outcomes. Thus, the objective is rated
+High.
+
+
+
+Revised Rating
+High
+
+
+OBJECTIVE 2
+Objective
+To increase the capacity and improve the reliability of the electricity distribution system in the Lusaka area.
+
+Rationale
+Please see the discussion of the TOC under PDO1, Original Project.
+
+PDO2 was to be achieved through the activities under Component 2, which was financed by the EIB, with the
+support from the Borrower, and with no funding from IDA. Disbursements under Component 2 were very
+
+                                                                                                     Page 7 of 18
+                               Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                               ZM-Lusaka Transm. & Dist. Rehab. (P133184)
+
+
+
+                            slow, and by the June 27, 2018 restructuring they only amounted to US$2.3 million or 2.4 percent of the total
+                            financing for Component 2 at appraisal. Specifically, procurement for this component was only completed for
+                            four contracts out of the ten planned, with only one of them having reached the implementation stage; and the
+                            effectiveness of the other six contracts was yet to be achieved, as the bidding documents were still under
+                            preparation. (Restructuring Paper 2018, page 3-4)
+
+                            Due to the slow progress, this component was dropped at the restructuring of June 27, 2018. The
+                            implementation of the dropped activities was to be continued under a separate non-WBG project, financed by
+                            the EIB.
+
+                            Considering the low level of achievement of the expected outcomes under PDO2 by the time of Project
+                            restructuring in June 2018 and the cancellation of the PDO2 activities at restructuring, the rating of the
+                            achievement of original PDO2 outcomes is Negligible.
+
+                            Note: the assessment of the Project’s achievements under this objective in the ICR (ICR, pages 16-17)
+                            contradicts the facts reflected in the June 27, 2018 Restructuring Paper and the Bank’s evaluation guidelines.
+                            Specifically, the ICR states that the cancelled (on June 27, 2018) Component 2 activities were implemented
+                            by Project closure with IDA financing - while it could not have happened under the Project according to the
+                            Project’s Restructuring Papers, ISRs, and Aide Memoires - and further reports the outcomes of the now-
+                            separate EIB-financed project as the reviewed Project’s achievements.
+
+
+
+                            Rating
+                            Negligible
+
+
+                            OBJECTIVE 2 REVISION 1
+                            Revised Objective
+                            To increase the capacity and improve the reliability of the electricity distribution system in the Lusaka area.
+
+                            Revised Rationale
+                            Please see the discussion of the TOC under objective 1, Original Project.
+
+                            The PDO2 was removed from the Project’s overall PDO at the June 27, 2018 restructuring, and the Revised
+                            Project did not have PDO2.
+
+                            PDO 2 under the Revised Project is not rated.
+
+
+
+                            Revised Rating
+                            Not Rated/Not Applicable
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                                                                                                                                Page 8 of 18
+             Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+             ZM-Lusaka Transm. & Dist. Rehab. (P133184)
+
+
+
+
+         Rationale
+         Original Project:
+
+         For the Original Project, the overall efficacy is Modest. Under Objective 1, the Original Project achieved or
+         exceeded all of its expected outputs and outcomes. Under Objective 2, the Original Project failed to achieve
+         any of its objectives by closure. Overall, the original Project design only partly achieved its objectives.
+
+
+
+         Overall Efficacy Rating                                  Primary Reason
+         Modest                                                   Low achievement
+ OBJR1_TBL
+
+
+
+
+         OVERALL EFFICACY REVISION 1
+         Overall Efficacy Revision 1 Rationale
+         Revised Project:
+
+         For the Revised Project, the overall efficacy is High. The Revised Project achieved or exceeded all of its
+         expected outputs and outcomes.
+
+
+
+         Overall Efficacy Revision 1 Rating
+         High
+
+
+
+ 5. Efficiency
+I. Economic and Financial Analysis.
+
+1. At appraisal.
+
+The benefits included: (i) incremental consumption of electricity, as a result of the project (electricity
+consumption in the retail segment of Lusaka was expected to increase from 2,593 GWh to 3,548 GWh by 2020),
+and (ii) energy savings resulting from lower technical losses in the network. The benefits were estimated
+considering improvements in both the transmission and distribution networks (covering Component 1 and
+Component 2 outcomes together); the benefits would occur to end users and would not be possible without the
+distribution network improvements (Component 2). The benefit flow started the year following project
+completion. The costs included the Project costs of network rehabilitation and new construction and the costs of
+serving additional consumption. The analysis covered 30 years and used a discount rate of 10 percent. A
+willingness to pay study (for residential and commercial/industrial customers was implemented to assess the
+monetary value of the incremental consumption of electricity. The economic internal rate of return (EIRR) of the
+Project was estimated at 39 percent and the net present value (NPV) at US$573 million.
+
+2. At closure.
+
+The benefits and the costs were estimated the same way as at appraisal, and the discount rate was the same,
+10 percent. The economic analysis considered two scenarios: (i) without the distribution component as per the
+
+                                                                                                            Page 9 of 18
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      ZM-Lusaka Transm. & Dist. Rehab. (P133184)
+
+
+
+2018 restructuring of the project, and (ii) with the distribution component, activities for which have continued to
+be implemented under EIB financing and were scheduled to be completed in 2026. For the first scenario (the
+Project after restructuring, without the distribution component), the EIRR was estimated at 45.5 percent and the
+NPV at US$650 million. For the second scenario (original Project, with the distribution component) the EIRR
+was estimated at 41.2 percent and the NPV at US$816 million.
+
+Comparing the EIRRs at appraisal and at closure, the Project seems to be economically efficient: the EIRR for
+the Bank Project (not including the new EIB’s project) at closure (45 percent) was higher than the EIRR at
+appraisal (39 percent However, the comparison is not appropriate because the appraisal estimate was made for
+a larger project, before Component 2 was dropped. At the same time, using the EIRR calculated for a
+comparable project at closure is inappropriate either because it includes a non-Bank project. The appropriate
+comparison would be done for Component 1 only, both at appraisal and at closure. Such comparison is not
+available from the ICR.
+
+II. Administrative efficiency.
+
+The Project was able to achieve its objectives within the original financing envelope, without additional funding.
+The ICR reports that the project benefited from a full ownership by ZESCO (the implementation agency) and the
+PIU being embedded in ZESCO and staffed with full-time ZESCO employees, which supported knowledge-
+based and efficient decision making (ICR, page 19).
+
+However, the original project design turned out to be deficient, with two agencies (the World Bank and the EIB)
+coordinating ambitious investments in a country where capacity limitation create barriers for the implementation
+of complex projects. The Project had to be restructured, cancelling Component 2, which equaled to 45 percent
+of the original financing. This constitutes a significant inefficiency, resulting from design weaknesses.
+
+Component 3 (Project support and TA to ZESCO) costs increased from the original US$10 million to US$15.3
+million after Component 2 was dropped. The only explanation provided in the ICR states that the US$6 million
+were transferred from Component 1 “to Component 3 to finance the project supervision consultant through to
+the extended project closing date” (ICR, page 12). This seems to be a significantly higher amount than a two-
+year salary of one consultant.
+
+In addition, the Project was extended twice, for the total of 36 months (three years). In relation to the first
+extension, the ICR reports that the Project’s scope and cost were defined too generally at appraisal, and a
+comprehensive technical review (including the engineering designs, specifications, and bidding documents) had
+to be conducted in the first two years after effectiveness. This work was only completed in December 2015 (ICR,
+page 27). The Restructuring Paper provides additional details: the extension was needed to revise and
+consolidate the supply and installation of the procurement packages under Component 1 in the first three years
+of Project implementation, which led to increased complexity, resulting in a longer than anticipated time to
+complete procurement. Additional delays were caused by the unexpected geotechnical conditions at the Project
+sites. However, disbursement efficiency improved at the end of FY2017 and in FY 2018. (Restructuring Paper of
+June 27, 2018, page 3)
+
+The second extension was explained by the following: the project encountered delays due to a protracted legal
+dispute related to land ownership at one of the sites, poor performance by one of the contractors that led to a
+termination of the contract, and a suspension of activities in another contract due to fatalities during
+implementation of the works (see details in the Safeguards section). Additionally, the Project was affected by
+COVID-19. (Restructuring Paper of February 4, 2021, page 3)
+
+
+                                                                                                      Page 10 of 18
+      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+      ZM-Lusaka Transm. & Dist. Rehab. (P133184)
+
+
+
+The Project’s efficiency is rated as Modest.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?           Point value (%)          *Coverage/Scope (%)
+                                                                                   95.20
+ Appraisal                                               39.00
+                                                                                    Not Applicable
+                                                                                   85.50
+ ICR Estimate                                            44.50
+                                                                                    Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Relevance of objectives: High
+
+Efficacy: Modest
+
+Efficiency: Modest
+
+Outcome: Moderately Unsatisfactory (a value of 3).
+
+Revised Project:
+
+Relevance of objectives: High
+
+Efficacy: High
+
+Efficiency: Modest
+
+Outcome: Moderately Satisfactory (a value of 4).
+
+With the Original Project rated as Moderately Unsatisfactory and the Revised Project rated as Moderately
+Satisfactory, based on the disbursed funds as a percentage of total funding at closure before and after the June
+27, 2018 restructuring (US$37 million or 34 percent before the restructuring and US$71.07 million or 66 percent
+after restructuring), the Overall Project Outcome rating is Moderately Satisfactory:
+0.34*3+0.66*4=1.02+2.64=3.66. This result reflects the benefit of the early restructuring of the project.
+
+
+a. Outcome Rating
+
+                                                                                                  Page 11 of 18
+      Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+      ZM-Lusaka Transm. & Dist. Rehab. (P133184)
+
+
+
+    Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+Financial. This risk could arise if ZESCO has insufficient financial resources to maintain the transmission
+assets that were upgraded or constructed by the Project. This risk is being mitigated considering ZESCO’s
+continued efforts to improve its financial performance and maintain an operating profit (which ZESCO had
+achieved prior to Project approval). This will depend on a continued adjustment of tariffs to cost recovery
+level. Within the Project, this risk was mitigated by Component 3 activities, such as the support to energy
+sector policies and regulations. In particular, the Project financed a cost of service study, which is expected
+to form the basis of future tariff revisions by the electricity regulator (ICR, page 28).
+
+Institutional. This risk could arise if ZESCO’s institutional capacity turns out to be insufficient to support the
+maintenance of the assets upgraded or constructed by the Project. Institutional (Governance) risk was
+assessed as Moderate at appraisal and was further mitigated under Component 3 through the provision of
+training on procurement and financial management to ZESCO employees.
+
+Economic. Continued economic development is expected to result in further increase in demand for
+electricity in the Lusaka area, putting additional pressure of the transmission network capacity. The ICR
+states that the Government and ZESCO needs to continue resource mobilization to ensure that Lusaka’s
+electricity network has sufficient capacity considering economic growth and an increased population, and
+service reliability is maintained. (ICR, page 29)
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The Project’s design adequately responded to the need to improve the availability and reliability of
+  electricity supply through the transmission assets’ upgrade and expansion. The design was supported by
+  strong Borrower ownership and ZESCO’s sufficient financial and institutional capacity. The IDA credit
+  was provided to the Government and on-lent to ZESCO, who also was the implementing agency for the
+  Project; and this implementation arrangement supported the Project’s sound decision making and
+  efficiency.
+
+  However, the Project’s design had weaknesses. First, as the ICR reported, the Project’s scope and cost
+  were defined with insufficient details at appraisal, and a comprehensive technical review (including the
+  engineering designs, specifications, and bidding documents) had to be conducted in the first two years
+  after effectiveness, causing implementation delays (ICR, page 27). Second, the Project suffered from the
+  misalignment of the implementation progress of its two physical investment components (Component 1
+  and Component 2). The ICR noted that the misalignment could have been managed through a stronger
+  coordination mechanism (ICR, page 27). As a result of a significantly delayed implementation of
+  Component 2, financed by the EIB, the Project had to undergo level 1 restructuring when the PDO was
+  changed and Component 2 was dropped. Third, the ICR concluded that risks associated with safeguards’
+  oversight were underestimated at appraisal (assessed as Moderate). Fatalities and less severe incidents
+
+                                                                                                         Page 12 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     ZM-Lusaka Transm. & Dist. Rehab. (P133184)
+
+
+
+  that occurred during implementation highlighted the Occupational Health Services (OHS) deficiencies
+  that required strengthening of capacity at both the PIU and Owner’s Engineer. Stronger mitigation
+  measures at appraisal could have helped to prevent the tragic accidents. (ICR, page 27)
+
+
+
+  Quality-at-Entry Rating
+  Moderately Unsatisfactory
+
+
+b. Quality of supervision
+ The Project’s supervision was complicated by a change in the Project’s Task Team Leaders (TTLs) and the
+ fact that both the TTLs and technical specialists were located outside of the country. However, regular
+ supervision missions were conducted, Aide-memoires prepared, and 15 ISRs filed and used for the
+ dialogue with key stakeholders. The Bank team adequately dealt with the supervision challenges that were
+ encountered. Importantly, the misalignment between Component 1 and Component 2 was managed
+ efficiently, and the decision to restructure the Project and drop Component 2 was made sufficiently early
+ considering the disbursement schedule, thus avoiding inefficient use of Project’s resources (ICR, page 28).
+ This intervention by the Bank team allowed both the Bank and the EIB to continue the implementation of
+ the ongoing activities without the need to coordinate them and supported the high efficacy of the revised
+ Bank Project.
+
+ The ICR reported that the Bank team adequately dealt with the supervision challenges encountered,
+ including fiduciary shortcomings, severe safeguards incidents and the Covid-19 pandemic. A key fiduciary
+ challenge was the over-commitment of IDA resources, which later had to be reimbursed by the
+ implementing agency. Further, tragic site fatalities led to the suspension of activities on one
+ contract. During the Covid-19 pandemic, project activities continued, and the team used virtual supervision
+ missions. (ICR, page 28)
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ Overall, the Project's RF adequately reflected the logic of Project interventions and was sufficiently linked
+ to the PDO. Most of the indicators were quantitative, and all of them were time-bound, had baselines and
+ targets, and were attributable to the Project. There was a gender-disaggregated indicator. The RF
+ adequately measured the project-level outcomes (number of sub-projects implemented, number of
+ beneficiaries, energy and emission savings) and the outputs. The RF was adequate, with the exception of
+ lacking outcome indicators on TA activities (only output TA activity indicators were included). Overall, the
+
+                                                                                                    Page 13 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     ZM-Lusaka Transm. & Dist. Rehab. (P133184)
+
+
+
+ RF is heavily focused on technical indicators measuring the improvements in transmission equipment and
+ could include more developmental indicators (benefits to the economy and the population).
+
+
+
+b. M&E Implementation
+  The ICR reported that the M&E implementation was effective. The PIU was embedded in ZESCO, which
+  supported a satisfactory data collection and reporting. During the Mid-Term Review (MTR) preparation,
+  the PIU showed responsiveness with regards to effective M&E implementation. In connection with the
+  MTR mission, the PIU prepared a comprehensive report describing the context, the progress of
+  implementation, including the challenges that were overcome. Some shortcomings were however
+  identified in relation to fiduciary and safeguards aspects of the project. (ICR, page 24)
+
+
+
+c. M&E Utilization
+  The ICR reported that the monitoring data generated by the PIU had been key in establishing the
+  dialogue among key stakeholders. It informed key implementation decisions with regards to the
+  infrastructure support and system operations, including the June 27, 2018 restructuring, and the
+  February 4, 2021 restructuring. (ICR, page 25)
+
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   Environmental and Social Safeguards. The Project was classified as Environmental Category B, and three
+   safeguards policies were triggered: (i) the Operational Policy (OP) on Environmental Assessment (OP4.01)
+   based on anticipated potential negative impacts under components 1 and 2; (ii) OP 4.11 for Physical
+   Cultural Resources, because of the excavation activities under Component 2; and (iii) OP 4.12 for
+   Involuntary Resettlement based on the assumption that planned construction of new substations may
+   require land acquisition by ZESCO. An Environmental and Social Impact Assessment (ESIA) and an
+   Environmental and Social Management Plan (ESMP) were prepared. A Resettlement Policy Framework
+   (RPF) was prepared; it guided the development of three Resettlement Action Plans (RAPs). Completion
+   reports for three RAPs (Lusaka 132 KV Ring, Waterworks and Greenfield) were prepared and disclosed by
+   the PIU. A Grievance Redress Mechanism (GRM) was operational throughout project implementation. The
+   implementation involved a high number of complaints (72 complaints were recorded in the GRM); and all of
+   them were resolved. (ICR, page 25)
+
+   Three fatalities associated with project activities occurred during implementation. The first two happened in
+   April 2020 during blasting activities under the contract for the 132kV Roma‐Lusaka West Overhead Line. To
+   allow for the root cause analysis (RCA) and implementation of corrective measures, ZESCO suspended
+
+                                                                                                  Page 14 of 18
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    ZM-Lusaka Transm. & Dist. Rehab. (P133184)
+
+
+
+  activities under the contract through September 2020. The third fatality occurred in May 2020 due to an
+  asphyxiation accident with a contractor at a warehouse. In both cases, remedial action was taken at all
+  levels, and based on the RCA undertaken with the Bank’s support, ZESCO strengthened its occupational
+  health and safety systems, including the establishment and filling of an OHS Officer position at the PIU and
+  increasing site supervision staff. No further fatalities were recorded on the project. (ICR, page 25-26)
+
+  Other serious incidents during Project implementation were as follows: (i) a local community member was
+  trapped by conductors during a de-stringing of a section of transmission line, (ii) a driver employed as a
+  linesman rolled his vehicle off the road after hitting potholes at speed; (iii) a local community member was
+  hit by rock fragments from a blast needed for implementation of Project activities; and (iv) a near-drowning
+  accident occurred in an excavation pit due to vandalization of the security barricades. Following all these
+  incidents, ZESCO undertook RCAs, based on which Safeguards Corrective Action Plans were developed
+  with the support of the Bank. (ICR, page 26)
+
+  The ICR reported that the safeguards’ risks were underestimated at appraisal (assessed as Moderate) and
+  that fatalities and other serious accidents could have been prevented if stronger mitigation measures were
+  designed at appraisal. (ICR, page 27) The Restructuring Paper of February 4, 2021 (page 4) reported that
+  the fatal accidents revealed gaps in implementation of the safeguards standards.
+
+
+
+
+b. Fiduciary Compliance
+  Financial Management
+
+  The ICR reported that throughout implementation, the PIU met the Interim Financial Report requirements
+  of the project. The audits were completed on time and were unqualified. Disbursements were slow in the
+  first three years of implementation (reflecting the initial delays with procurement of the main supply and
+  install contracts), but the situation improved over time, and by project close, the IDA credit was almost fully
+  disbursed, with the exception of the US$0.95 million that remained undisbursed at closure. (ICR, page 27)
+
+  Procurement
+
+  The ICR reported that procurement was slow at commencement of the project due to the additional
+  technical design and detailed engineering required, and the delayed hiring of the Owner’s Engineer.
+  Further delays were experienced when for the first main supply and install contract, the PIU combined IDA-
+  financed and EIB-financed activities under a single procurement package. This was contrary to the
+  procurement modalities defined at appraisal whereby Component 1 and Component 2 activities would be
+  procured separately using World Bank and EIB procurement guidelines respectively. There were also gaps
+  in contract management which led to the expiration of an advance guarantee by the insurance company on
+  one of the main supply and install contracts, which led to ZESCO’s filing a complaint in court. A final
+  determination of the matter has not yet been reached. Given the previous experience of the World Bank
+  working in the sector, it is disappointing these challenges were not better addressed at design.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+
+                                                                                                    Page 15 of 18
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     ZM-Lusaka Transm. & Dist. Rehab. (P133184)
+
+
+
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                               Reason for
+Ratings                        ICR                   IEG
+                                                                               Disagreements/Comment
+                                                                               Mainly due to several
+                                                                               weaknesses in Project
+Outcome                        Satisfactory          Moderately Satisfactory
+                                                                               efficiency, which lead to the
+                                                                               Modest efficiency rating.
+                                                                               Due to several weaknesses in
+                                                                               Project design and multiple
+                                                                               accidents including three
+Bank Performance               Satisfactory          Moderately Satisfactory   fatalities on Project sites, which
+                                                                               could have been mitigated better
+                                                                               at design and during
+                                                                               implementation.
+Quality of M&E                 Substantial           Substantial
+
+Quality of ICR                 ---                   Modest
+
+
+12. Lessons
+
+The following lessons were derived from the ICR with minor modifications by IEG (ICR, pages 30):
+
+1. The modalities of coordination among Project’s co-financiers need to be discussed in detail and
+agreed upon among the donors and the Borrower prior to Project’s approval. Clear articulation of the
+added value of both contributions needs to be thoroughly covered in the design and the
+responsibilities linked in the relevant theory of change.
+
+2. To improve the effectiveness of transmission investment projects, technical readiness for
+implementation needs to be enhanced. Key stakeholders need to work together to ensure that pre-
+engineering work and safeguards assessment are thorough to allow a fair and productive bidding
+process and a timely implementation start. In the reviewed Project, detailed engineering designs and
+specifications were only completed two years after project effectiveness.
+
+3. Staffing the PIU with employees of the implementing agency is good practice for efficient
+implementation and sustainability of projects. ZESCO had extensive experience in implementing
+partner-financed projects of the scope and magnitude of the Project, and therefore integrating the
+unit within ZESCO’s operations was efficient, cost effective and led to greater ownership. Moreover,
+the technical expertise gained by the ZESCO staff will scale up ZESCO capabilities to oversee the
+electricity network and improve the sustainability of achieved outcome.
+
+
+
+
+                                                                                                 Page 16 of 18
+       Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+       ZM-Lusaka Transm. & Dist. Rehab. (P133184)
+
+
+
+4. Large scale infrastructure projects are rarely likely to have ‘Moderate’ safeguards risks given the
+considerable complexity of works. Stronger emphasis on mitigation approaches to the threats at
+design stage is likely to limit the potential damage that comes from these activities.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provided sufficient background information, a good justification of the PDO relevance, useful
+information regarding Project’s M&E quality, Bank performance, safeguards and fiduciary compliance, and risk
+to development outcome. The ICR has internal consistency. The lessons learned are linked to the narrative. In
+addition, it is clear that the ICR drew on substantive background research.
+
+However, the ICR had significant shortcomings, considering the IEG criteria for assessing ICR quality. The
+shortcomings mainly relate to such important issues as the analysis and ratings of the Project’s Efficacy and the
+cost data. Specifically, the assessment of the Project’s efficacy under PDO 2 To increase the capacity and
+improve the reliability of the electricity distribution system in the Lusaka area (ICR, pages 16-17) contradicts the
+facts presented in Project documents and does not comply with the Bank’s evaluation guidelines. Specifically,
+the ICR states that the cancelled (on June 27, 2018) EIB-financed Component 2 activities were implemented by
+the Project after the cancellation using IDA financing – contradicting the Project’s Restructuring Papers, ISRs,
+and Aide Memoires - and further reports the outcomes of the new EIB-financed project as the restructured Bank
+Project’s achievements. In addition, the ICR incorrectly reports project costs, exaggerating disbursements
+under Component 2 and failing to report actual disbursements under this component at the time when it was
+dropped from the Project. This pushes up the disbursement rate, as well as exaggerates the Project’s efficacy.
+
+These weaknesses have created barriers to the validation of the ICR, for which it became necessary to review
+the Restructuring Papers, ISRs, and Aide Memoires for the Project. The conclusion IEG has reached is that the
+Efficacy analysis in the ICR is inconsistent with the information in Project documents and does not comply with
+the Bank’s requirements. Therefore, the ICR quality is rated as modest.
+
+
+
+  a. Quality of ICR Rating
+       Modest
+
+
+
+
+                                                                                                     Page 17 of 18
+Independent Evaluation Group (IEG)           Implementation Completion Report (ICR) Review
+ZM-Lusaka Transm. & Dist. Rehab. (P133184)
+
+
+
+
+                                                                          Page 18 of 18
+

@@ -1,0 +1,814 @@
+     Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+     Transmission Grid Strengthening Project (P147348)
+
+
+
+                                                                                      Report Number: ICRR0024153
+
+1. Project Data
+
+
+
+ Project ID                                  Project Name
+ P147348                                     Transmission Grid Strengthening Project
+
+ Country                                     Practice Area(Lead)
+ Georgia                                     Energy & Extractives
+
+
+ L/C/TF Number(s)                            Closing Date (Original)                   Total Project Cost (USD)
+ IBRD-83770                                  31-Mar-2019                                             58,005,596.87
+
+ Bank Approval Date                          Closing Date (Actual)
+ 13-May-2014                                 31-Mar-2023
+
+                                            IBRD/IDA (USD)                                          Grants (USD)
+
+ Original Commitment                             60,000,000.00                                                  0.00
+
+ Revised Commitment                              58,005,596.87                                                  0.00
+
+ Actual                                          58,005,596.87                                                  0.00
+
+
+
+
+ Prepared by                 Reviewed by                   ICR Review Coordinator             Group
+ Dileep M. Wagle             Avjeet Singh                  Avjeet Singh                       IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The project development objectives, as cited in the Loan Agreement (p.6), as well as on p.5 of the PAD, were
+   “to provide reliable power transmission to the southwestern part of the grid, upgrade electricity exchange
+   systems and provide economically efficient, environmentally and socially sustainable electricity sector
+   planning”.
+
+   In assessing the project, the objectives will be parsed as follows:
+
+
+                                                                                                       Page 1 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Transmission Grid Strengthening Project (P147348)
+
+
+
+   (a) To provide reliable power transmission to the southwestern part of the grid,
+
+   (b) To upgrade electricity exchange systems, and
+
+   (c) To provide economically efficient, environmentally and socially sustainable electricity sector planning.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component 1: Transmission System Strengthening (Estimated cost at appraisal: US$52.35
+   million. Actual cost at closing: US$63.38). This component financed the construction of the ABTL, a
+   double circuit 220 kV high-voltage line connecting the Akhaltsikhe DC converter station with back-to-back
+   configuration and 500/400/220 kV substation to Batumi 220 kV substation (US$45.46 million), including
+   contingency (US$2.5 million) and a supervision consultant (US$4.2 million). The ABTL was intended to
+   provide redundancy and hence reliability to the southwest part of the grid, while supporting the evacuation
+   of excess power to Türkiye during the warm months.
+
+   Component 2: Wholesale Power Exchange Platform (Estimated cost at appraisal: US$7.5 million; Actual
+   cost at closing: US$4.135 million). The component financed the supply and installation of a power
+   exchange platform, including hardware and software for metering, balancing and trading systems. It would
+   also finance the design and supervision of this platform.
+
+   Component 3: Electricity Sector Strategic Environmental and Social Assessment (Estimated cost at
+   appraisal: US$1.25 million; Actual cost at closing: US$0.857 million). This component financed the
+   preparation of the Strategic Environmental and Social Assessment (SESA) report, based on terms of
+   reference from the Ministry of Environment & Natural Resources (MoENR), to be finalized through joint
+   public consultations and incorporated into the revised power sector strategy to be developed for the
+   country.
+
+   Component 4: Project Management and Transmission System Studies (Estimated cost at appraisal:
+   US$0.62 million; Actual cost at closing: US$1.857 million). The aim of the component was to support (a)
+   consultants’ services to assist the Project Implementing Entity for the purposes of: (a) a new transmission-
+   system expansion plan, (b) prospective transmission line feasibility studies, and (c) preliminary designs for
+   the prospective transmission lines.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+
+
+                                                                                                     Page 2 of 15
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Transmission Grid Strengthening Project (P147348)
+
+
+
+   Project Cost and Financing
+
+   The cost of the project was initially estimated at US$61.875 million, based on an IBRD loan of US$60
+   million and Borrower contribution of US$1.875 million. The cost of the ABTL however turned out to have
+   been overestimated, as bidding for the contract resulted in a lower price of US$36.65 million in lieu of the
+   estimated price of US$45.65 million, or a saving of US$9 million. The savings allowed additions to be
+   introduced to the components in the form of the reconstruction and rehabilitation of 102 km for three 220 kV
+   transmission lines and the upgrading of various substations, under Component 1 and software to upgrade
+   the existing Supervisory Control and Data Acquisition (SCADA) system and the energy management
+   system (EMS, under Component 2 – thereby enhancing the scope of the project.
+
+   Borrower contribution
+
+   A Borrower contribution of US$1.875 million equivalent was envisaged at appraisal, as part of the project’s
+   financing. Actual disbursements on this account turned out to be much higher, to the extent of US$12.594
+   million equivalent.
+
+   Dates
+
+   The project was approved on May 13, 2014, becoming effective on December 29, 2014. A Mid-Term
+   Review was held on June 21, 2017. The original closing date of March 31, 2019 was extended twice – by
+   an initial 24 months, through the March 2019 restructuring, and by another 25 months in the February 2021
+   restructuring, to the final closing date of March 30, 2023. This brought the project’s implementation from
+   approval to closing to just under nine years, in lieu of the original four years and 10 months.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and Sector Context
+
+Georgia’s economy grew at around 6 percent during 2004-13, fueled by strong inflows of foreign direct
+investment (FDI). However, the 2008 conflict with Russia and the global financial crisis led to a sharp
+economic downturn and a contraction of GDP by 3.8 percent in 2009. The Government of Georgia (GoG)
+responded with a fiscal stimulus package and public investments, which led to a recovery in economic
+growth, at more than 5 percent during 2010-13, though FDI amounted to only a third of its previous high in
+2007.
+
+Despite the economic recovery, at the time of appraisal, the country had a high rate of unemployment and
+its poverty rate was among the highest within the Europe and Central Asia region. The role of infrastructure
+in promoting economic growth was increasingly seen as critical, with an emphasis on affordable, reliable,
+clean energy to enable the private sector to compete, grow and contribute to the job creation necessary for
+boosting shared prosperity.
+
+The GoG had made major strides towards improving the performance of the power sector during the
+preceding decade. Commercial management had improved dramatically and collections for billed electricity
+
+                                                                                                  Page 3 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Transmission Grid Strengthening Project (P147348)
+
+
+
+had improved enormously, to nearly 100 percent. Although Georgia had no overall shortage of supply, it
+was highly dependent on imported power to meet seasonal demand, raising concerns over security of
+supply. The country’s power consumption peaked in winter, when hydropower generation was at its lowest,
+necessitating reliance on substantial imported electricity or domestic natural gas-fired thermal generation to
+make up the shortfall. In summer, no imports of power were required and – on the contrary – a surplus was
+available for export. By increasing the share of hydropower plants with seasonal storage capability, Georgia
+would be able to lessen its seasonal dependence on imported energy sources, enhancing the security of
+supply.
+
+It was estimated that without major investments in domestic seasonal generation, the security of power
+supply would diminish further as Georgia’s economy grew, creating increased demand for power. Even
+with a major increase in generation, weak parts of the transmission grid were likely to impede security of
+supply. The northern, southwestern and northwestern branches of the transmission grid did not have
+sufficient capacity to transmit power from the new generation facilities in that area. The Transmission Grid
+Strengthening project was relevant in so far as it could help improve the stability and security of the grid’s
+supply by constructing a new high voltage transmission line from Akhaltsikhe to Batumi to evacuate power
+from the newly developed Adjaristsqali hydropower project there.
+
+Alignment with Country Strategies
+
+The Project’s development objectives were consistent with those of the World Bank Group (WBG)’s country
+strategy for Georgia, over the period of implementation. By contributing to the provision of infrastructure,
+the project supported Focus Area 2 (“Enabling Job Creation by the private sector through improving
+competitiveness”), Objective 8, of the Country Partnership Strategy, 2014-17, which highlighted the
+potential for enhancing energy independence, energy efficiency and increased electricity exports. The
+project’s objectives continued to be broadly consistent with those of the most recent Country Partnership
+Framework (CPF), (2019-22) under Objective 3.3, dealing with the management of natural resources and
+climate risks, activities in the electricity sector complementing the resilience agenda, which underpinned
+Focus Area 3 of the Framework. The project’s objectives were also consistent with Focus Area 1 of the
+CPF, which aimed to enhance inclusive growth and competitiveness, in so far as it contributed to the
+country’s energy connectivity with neighboring countries like Armenia, Azerbaijan, Russia and Türkiye via a
+regional power exchange hub. The ICR further argues (p.14) that the addition of the three transmission
+rehabilitation subcomponents in the Imereti region would help enhance, through more reliable electricity,
+the participation of the local population in economic activities and would increase regional economic
+participation, consistent with Objective 1.4 of the CPF.
+
+Since 1997, the World Bank had financed eight projects in the country’s energy sector for a total of US$300
+million. The Georgian State Electrosystem (GSE), as implementing partner, had successfully managed
+three projects as well as investments financed by other development partners, and had established a good
+track record of operating transmission assets. Against this background, the project marked an enhanced
+level of complexity and ambition, consistent with GoG and GSE’s implementation capacity. The project
+recognized the power market development potential that sector unbundling had created, for both trading
+power domestically and for exporting power as a tradable, through installation of a wholesale power
+exchange platform and related metering, whilst also augmenting GoG’s hydro development plan with least
+cost and environmentally and socially sustainable planning.
+
+Based on the above, Relevance is rated High.
+
+
+
+                                                                                                     Page 4 of 15
+                                      Independent Evaluation Group (IEG)                         Implementation Completion Report (ICR) Review
+                                      Transmission Grid Strengthening Project (P147348)
+
+
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             “To provide reliable power transmission to the southwestern part of the grid”
+
+                             Rationale
+                             Theory of Change (TOC)
+
+                             At appraisal, the operation was structured around the objectives of providing reliable power in the
+                             southwestern part of the grid, upgrading electricity exchange systems and providing efficient and
+                             environmentally sustainable planning. Key activities consisted of (a) installation/rehabilitation of transmission
+                             lines plus substations, (b) installation of a wholesale power exchange platform, providing metering, balancing
+                             and trading, (c) preparation of a Strategic Environmental and Social Assessment (SESA) report, along with
+                             transmission systems studies. These in turn were expected to lead to the main outcomes of more reliable
+                             power transmission provided to the Southwestern part of the grid, power being traded via the new exchange
+                             platform, and economically efficient, environmentally and socially sustainable electricity sector planning being
+                             provided.
+
+                             Indicators used to measure the achievement of objectives were fairly straightforward. Key outcome indicators
+                             included the elimination of outages in Batumi substation, the successful evacuation of electricity from newly
+                             developed power stations in Southwestern Georgia via the grid, the successful exchange of power using the
+                             new Wholesale Exchange Platform, and the results of the least cost planning and strategic environmental
+                             assessment being included in the Government’s hydropower development plan. The 2016 restructuring
+                             introduced additions to the components, based on contract savings, including the reconstruction/rehabilitation
+                             of 102 km for three 220 kV transmission lines and upgrading of substations, and software to upgrade the
+                             existing Supervisory Control and Data Acquisition (SCADA) and energy management (EMS)
+                             systems. Changes were accordingly made to indicator targets and an additional core indicator added. It
+                             should be noted, as mentioned by the ICR (p.21) that the results indicators were oriented more towards
+                             outputs than outcomes, which had a bearing on the monitoring of achievements.
+
+                             Assumptions underpinning the TOC were that (a) least-cost planning would in fact be part of the
+                             Government’s hydro development plan, and (b) that actions other than the power exchange system,
+                             necessary for power trading, would also be undertaken elsewhere in the sector.
+
+                             Outputs
+
+                             By March 2024, the following outputs were delivered by the project:
+
+
+                                                                                                                                Page 5 of 15
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Transmission Grid Strengthening Project (P147348)
+
+
+
+1. Rehabilitation of a total of 102 km of three existing 220 kV transmission lines (Menji-Kutaisi, Tskaltubo-
+Kutaisi and Kutaisi-Zestaphoni), accompanied by the upgrade of Menji, Tskaltubo, Kutaisi and Zestaphoni
+substations.
+
+2. Construction of the Western Section of the ABTL – consisting of 52.4 km of 220 kV double circuit
+transmission line connecting Batumi substation to Shuakhevi HPP (175 MW) via the Koromkheti HPP (150
+MW).
+
+3. Construction of Part 3 of the Eastern Section of the ABTL, for a total of 56.8 km of 220 kV double circuit
+transmission line, comprised of 40.3 km connecting Adigeni to Akhaltsikhe and 16.5 km connecting Adigeni to
+Beshumi.
+
+In total, the project constructed or rehabilitated 211.2 km (86 percent) of the targeted 244 km of transmission
+lines. Construction of Part 3 of the Eastern Section of the ABTL was not however completed by project
+closing, leaving 39 km connecting Shuakhevi to Beshumi – equivalent to 26 percent of the ABTL - pending
+completion.
+
+Outcomes
+
+Despite the shortcoming in terms of completing the ABTL, the project registered some important outcomes:
+
+(a) The key PDO indicator relating to total electricity evacuated from the newly developed power generation
+station in southwestern Georgia through the grid was more than fully achieved, with 443 GWh being
+successfully evacuated, against a target of 400 GWh. This went a long way toward easing the overload on
+the transmission lines and the substations, and could reasonably be expected to lead to fewer electricity
+outages, especially during the summer months, when demand was high.
+
+(b) The Batumi substation saw a decrease in total duration of outages from a baseline of 136 hours to zero
+(target was 0.50). While, technically, this would be a measure of system reliability rather than transmission
+reliability per se, it would not be possible to achieve a system reliability of zero outages without reliable
+transmission capacity to evacuate power generated; hence, it can be taken as a dependable proxy for
+achieving transmission reliability.
+
+In this way, there was overall a clear improvement in the reliability of power transmission to the southwestern
+part of the grid, consistent with the objectives of the project. This was a consequence of western section of
+the ABTL, connecting Batumi to Shuakhevi HPP, and the rehabilitation/upgrading of the three existing lines,
+now providing stability by acting as backup to the transmission grid backbone. That said, the original intent
+was to improve reliability through establishment of redundancy in the system via the ABTL, 26 percent of
+which remained to completed at the time of closing. On account of this important shortcoming, but taking into
+account the significant progress made on other fronts, efficacy of Objective 1 is rated Substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+
+                                                                                                   Page 6 of 15
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Transmission Grid Strengthening Project (P147348)
+
+
+
+
+Objective
+“To upgrade electricity exchange systems”
+
+Rationale
+To achieve this objective, the project was to finance the design, supply, supervision and installation of an
+upgraded power exchange platform – including hardware and software for metering, balancing and trading
+systems. The project was additionally to upgrade the SCADA/EMS, to make it compatible with the more
+advanced metering systems being added to the platform.
+
+Outputs
+
+- Both the wholesale power exchange platform and the SCADA/EMS were installed and upgraded. By
+project closing, the platform had been tested for 1.5 years and was technically functional, though not yet
+operational.
+
+Outcomes
+
+Power was nominally exchanged (traded) using the new platform; though this represented a virtual (rather
+than actual) trading volume of 60 percent of Georgia’s total electricity demand, as reported by the dry run day
+ahead market (DAM). Operationalization of the platform however required a functioning wholesale market (as
+per the assumptions underpinning the TOC), in turn necessitating politically sensitive policy reforms by the
+Government to liberalize and deregulate the market. Since it was unclear when such reforms would be
+undertaken, without which actual trade and exchange of power could not take place, achievement of PDO2 is
+rated as Modest.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 3
+Objective
+“To provide economically efficient, environmentally and socially sustainable electricity sector planning”
+
+Rationale
+Under this objective, the project was expected to finance consultancy services to prepare a strategic
+environmental and social assessment (SESA) of the electricity sector. The Ministry of Economy (MoE) and
+Ministry of Environment and Natural Resources (MoENR) were tasked with jointly preparing terms of
+reference for the preparation of an assessment, conduct public consultation meetings and seek
+feedback. The findings of the assessment would feed into a revised power sector strategy that would be
+developed. Achievement of this objective would be measured by the results of the least cost planning and
+strategic environmental assessment being incorporated into the GoG’s hydropower development plan - which
+was in practice a somewhat narrower measure than the objective of efficient and sustainable sector
+planning. The SESA document was meant to serve as an important input into the Strategic and
+Environmental Assessment (SEA) of the ongoing draft National Energy and Climate Plan (NECP), being
+supported by The United States Agency for International Development (USAID).
+
+
+                                                                                                   Page 7 of 15
+                                Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                                Transmission Grid Strengthening Project (P147348)
+
+
+
+
+                            Outputs
+
+                            - The Strategic Environmental Assessment was prepared, prior to project closing, based on the feedback
+                            received from all stakeholders. The required public consultation was kicked off by public disclosure of the
+                            document (completed in December 2023), upon holding two meetings of national stakeholders.
+
+                            Outcome
+
+                            The SESA developed four scenarios, of which Scenario 1 was the least cost generation plan. The
+                            Government however adopted Scenario 4, the National Energy and Climate Plan, which – though not
+                            technically the least cost generation plan – turned out (per the ICR’s analysis) to result in the lowest overall
+                            energy consumption of all the scenarios; hence, in practical terms was the least cost approach. As such, the
+                            results of the least-cost planning and strategic environmental assessment were incorporated into GoG’s
+                            hydropower development plan.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project contributed substantially to the achievement of the development objectives by helping to improve
+                            reliability of power transmission to the southwestern part of the grid. It succeeded in upgrading the electricity
+                            exchange systems, but only modestly succeeded in its objective of operationalizing the new exchange
+                            platform due to the inability of GoG to create the necessary (functioning) wholesale market. The project
+                            however substantially succeeded in providing economically efficient, environmentally and socially sustainable
+                            electricity sector planning. Based on this, overall efficacy is rated Substantial.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+   5. Efficiency
+   Economic Efficiency
+
+   Economic analysis conducted at appraisal indicated an economic internal rate of return (EIRR) of 13.4 percent
+   and a Net Present Value (NPV) of US$3.12 million, discounted at 12 percent. After the first restructuring, which
+   increased the scope of the project out of the savings obtained in contracting, without increasing its cost, the
+   EIRR was recalculated at 56.5 percent, and the NPV to US$216 million. Due to reconsideration of some of the
+
+                                                                                                                                Page 8 of 15
+       Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+       Transmission Grid Strengthening Project (P147348)
+
+
+
+assumptions underlying these calculations, the ICR re-estimated the EIRR at both appraisal and restructuring at
+13 percent and 81 percent respectively (and the NPV at US$2.05 million and US$215 million respectively). In
+comparison, the estimated EIRR at project closing, as calculated by the ICR, worked out to 60 percent, with
+NPV estimated at US$194 million. These estimates suggest that the project was mostly efficient, overall,
+principally on account of the inclusion of the three transmission line rehabilitations in the first restructuring, which
+were successfully carried out.
+
+Operational/Administrative Efficiency
+
+The project faced several implementation issues resulting in delays and cost overruns on some items (though
+these were offset by the overall contract savings). Disputes with the contractor over compensation led to a six-
+month suspension by the World Bank of further construction on the Eastern section of the ABTL in 2018, until
+issues were settled. As noted in the Borrower’s ICR, resistance from the local population to particular
+construction locations and activities had also been a significant challenge causing delays in construction. The
+project’s overall implementation period, including the 24-month extension of closing date required for the
+expanded scope of the operation, was nine years compared to the nearly five years originally envisioned.
+
+Taking into account the positive economic efficiency estimated for the operation, tempered by implementation
+delays negatively impacting administrative and operational efficiency, the project’s overall efficiency is rated
+Substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                 Rate Available?              Point value (%)            *Coverage/Scope (%)
+                                                                                         100.00
+ Appraisal                                                    13.40
+                                                                                          Not Applicable
+                                                                                         100.00
+ ICR Estimate                                                 60.00
+                                                                                          Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project’s development objectives were highly relevant to the World Bank’s most recent Country Partnership
+Framework (FY2019-22). The project was substantially effective, overall, in its objectives of providing reliable
+power transmission to the southwestern part of the grid and of providing environmentally and socially
+sustainable electricity sector planning, but modestly effective in upgrading electricity exchange systems. The
+project’s efficiency was rated Substantial. As such, the project’s Overall Outcome is rated Moderately
+Satisfactory.
+
+
+                                                                                                          Page 9 of 15
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      Transmission Grid Strengthening Project (P147348)
+
+
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+The overall risk of the project was rated Moderate in the ICR. Uncertainties existed on account of the fact
+that the eastern section of the grid is yet to be completed and fully energized. Once that is done, the risk
+would be expected to decline to Moderate, over time. At a technical level, the risk to reliability of power
+transmission, manifested in outages arising in the Batumi service area, is considered to be low, and would
+be a function of higher-than-expected demand growth rather than the operations of the transmission capacity
+constructed on the ABTL or rehabilitated within the Imereti region.
+
+The risk that the power exchange system will not be sustained is Moderate at the technical level, since the
+platform has already been constructed. A greater risk is that the wholesale market does not function, that
+the average clearing prices remain in excess of least cost, due to strategic bidding and other market
+inefficiencies, over protracted periods, leading to eventual market failure and consequently redundancy of
+the exchange system.
+
+Political and governance risks are rated low, in view of the expected transition from a merit order and central
+dispatch configuration to a market-based trading configuration. However, there would be a moderate risk
+that sector planning could itself be superseded by investments driven by market forces, sidelining the role of
+sector planning.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The design of the project was consistent with the objectives of the sector, as laid out in the World Bank’s
+  Country Program Strategy, namely to meet a critical need for the country in addressing concerns
+  regarding the security of its supply of electricity. It drew upon the lessons learned from similar Bank
+  engagements in countries such as Azerbaijan and Kazakhstan, as well as in Georgia. The appraisal
+  identified (PAD, p.9) substantial risks arising on account of the complex environmental, social and
+  technical challenges associated with the design, construction and operation of the transmission line. It
+  also reflected the complexity of aligning the completion of the transmission line with the development of
+  the associated hydropower project, with its multiple stakeholders. A lack of consensus among the
+  various stakeholders on the best way to transition from a merit-order central dispatch system to a market-
+  based wholesale trading system, and on the final design of the wholesale power market, turned out to be
+  a key constraint impacting the design and implementation of the power exchange system.
+
+  The ICR mentions (para 47) that while the objectives of the project were mostly realistic, they were
+  oriented more towards outputs than outcomes, and with a results framework that did not always yield a
+
+
+                                                                                                    Page 10 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Transmission Grid Strengthening Project (P147348)
+
+
+
+  measure of the objectives. This meant that monitoring of the indicators would not necessarily provide a
+  good assessment of the achievement of objectives.
+
+  On the basis of the above, the project’s quality at entry is rated Moderately Satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ According to the ICR (pg. 29), project supervision was thorough, though the 15 Implementation Status &
+ Results Reports (ISRs) that were completed over the nine-year implementation period indicated a
+ frequency that was less than standard. Five task team leaders (TTLs) were assigned to the project over
+ the period. The team was proactive in restructuring the operation to utilize and reallocate contract savings
+ and to arrange for the closing date extensions that were necessitated. When issues arose regarding
+ compensation for project-affected persons (PAPs), the Bank team intervened to suspend further project-
+ related civil works until all RAP (Resettlement Action Plan) entitlements were settled. The ICR also
+ indicates that on-site local supervision by the locally-resident TTL and project team was instrumental in
+ achieving much of the implementation progress that was actually achieved. The Bank team was also
+ instrumental in facilitating a smooth transition of Component 3, by arranging for SESA public consultations
+ to take place as part of the NECP public discussions being supported by USAID.
+
+ Based on this, quality of supervision is rated Satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ As indicated earlier, results indicators were biased towards outputs rather outcomes, making it somewhat
+ more difficult to monitor achievement of objectives. This shortcoming was to some extent mitigated by the
+ frequency of monitoring, which was provided for in the Results Framework. The ICR (para 58) also points
+ to a slight lack of clarity at the outset as regards the monitoring arrangements for environmental & social
+ safeguards, as to whether these lay with the Resettlement Management Team of GSE or the
+ Environmental and Social Safeguards Unit. Though the issue was eventually resolved, according to the
+ ICR this could be considered a moderate shortcoming in M&E design.
+
+
+
+                                                                                                   Page 11 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Transmission Grid Strengthening Project (P147348)
+
+
+
+
+b. M&E Implementation
+  Overall, M&E arrangements appear to have been adequate and satisfactorily implemented. According to
+  the ICR (para 59), GSE diligently reported on the monitoring indicators for the ABTL as well as for the
+  rehabilitation of the three 220 kV lines and the creation of the power exchange platform. PDO and
+  intermediate indicators were regularly updated in the ISRs, reflecting GSE’s compliance with monitoring
+  reporting requirements. On the ground, monitoring of contractor activities was also detailed and enabled
+  timely response by the supervision team.
+
+
+
+c. M&E Utilization
+  M&E utilization was adequate, as reflected in timely restructurings of the project, as well as proactivity in
+  terms of resource allocation, guidance and consultation in dispute resolution and efforts to find
+  alternative solutions to resolve the lack of consensus among stakeholders.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   Environmental: The project was classified as Category A, triggering OP/BP 4.01, requiring preparation of a
+   full-scale ESIA), public consultations and development of a Resettlement Policy Framework (RPF) and a
+   Resettlement Action Plan (RAP). The following other safeguards were triggered under the Bank’s
+   Safeguards Policy: OP/BP 4.04 (Natural Habitats), OP/BP 4.11 (Physical Cultural Resources), OP/BP 4.36
+   (Forests) and OP/BP 4.37 (Dam Safety). As of March 2023, all OP/BP 4.01 items were in compliance. An
+   ESIA was prepared and rated Moderately Satisfactory, and compliance with all remaining safeguard policies
+   was rated Satisfactory. A supplemental ESIA for the entire ABTL corridor, produced on account of the
+   realignment of parts of the Eastern section of the ABTL, was disclosed and consultations held with
+   stakeholders. The ICR does not clarify whether all other safeguard polices were in compliance. However,
+   the ICR does indicate (para 63) that in the operations phase of the overhead transmission line (OHL), GSE -
+   as owner – would ensure functioning of the environmental, health and safety system in compliance with ISO
+   14000, local legislation and the World Bank’s requirements, with an estimated budget of US1.72 million over
+   its 30-year operating lifespan.
+
+   Social: In view of the implications of the right-of-way (ROW), common to most transmission projects,
+   OP/BP 4.12 (Involuntary Resettlement) was triggered, as ABTL was expected to acquire some 10 ha of
+   land with easement for the ROW, requiring relocation of roughly 60 houses. This called for preparation of
+   an RPF by GSE, with site-specific RAPs to be prepared once the exact positioning of the line was
+   established. A rating of Moderately Satisfactory was provided for compliance of this policy at project
+   closing. Since more than 80 percent of the original routing had to be changed during implementation, three
+   new ESIAs and four new RAPs had to be prepared. Complicating the resulting social issues was the fact
+
+                                                                                                     Page 12 of 15
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    Transmission Grid Strengthening Project (P147348)
+
+
+
+  that the project was out of social compliance and suspended for six months – notwithstanding which the
+  outstanding actions from the RAP completion report for the three completed sections were successfully
+  completed and compensation for the remaining portion of the Eastern section was almost fully paid.
+
+  GSE has continued to maintain a Grievance Redress Mechanism (GRM) under a new Energy Supply
+  Reliability and Financial Recovery Project (P169117), with assistance from the World Bank’s global surge
+  initiative. A consolidated grievance log was created by GSE, with an improved classification system for
+  grievances, and providing gender sensitization for its staff. At end-2022, GSE also introduced software that
+  helped track and manage E&S issues, including progress on resettlement and the status of GRM.
+
+
+
+
+b. Fiduciary Compliance
+  According to the ICR (page 28), GSE was responsible for financial management (FM) for all components
+  except for Component 3, which would be implemented by MoE; though GSE retained responsibility for
+  consolidation and submission of the project’s annual budgets, quarterly interim financial reports (IFRs) and
+  annual financial statements to the World Bank. The project’s overall FM risk was assessed as Moderate at
+  inception.
+
+  FM arrangements were found to have been satisfactory at project closing and acceptable to the World
+  Bank during implementation. Unaudited IFRs were submitted on time and were of acceptable
+  quality. During the Covid-19 pandemic, audited project financial statements for the year ended December
+  31, 2021 were submitted with a delay of one month, but nevertheless found acceptable. The auditor
+  issued an unmodified opinion on the entity financial statements. No potential FM-related issues or risks
+  were flagged that could hinder project implementation.
+
+  A Procurement Risk Assessment and Management Report conducted at appraisal identified a risk that
+  GSE did not necessarily have the capacity to coordinate procurement activities under the project or to
+  properly evaluate the bids in timely manner without external consulting support. To mitigate these risks,
+  the Bank’s procurement specialist conducted a bid evaluation course, and organized attendance at
+  regional procurement training in April 2014 (also, subsequently, in March and April 2022). Procurement
+  risk was evaluated as Moderate after applying these mitigation measures. A Procurement Plan was
+  prepared (to be updated annually), and the e-procurement platform was to be used for procurement of
+  goods. As of September 2022, the project’s procurement risk remained Moderate and procurement
+  performance was rated Moderately Satisfactory (on account of the remaining work contract not being
+  completed by closing).
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+  The ICR indicates (para 43) that the project helped strengthen GSE’s Environmental and Social
+  Management System. Prior to the project, GSE had just one safeguards specialist; but as the project was
+  being prepared, an E&S safeguards unit was created in the International Projects and Reporting
+  Department. The preparation of the SESA under Component 3 would further strengthen electricity
+  generation expansion planning in Georgia through incorporation of adequate E&S considerations.
+
+
+                                                                                                 Page 13 of 15
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Transmission Grid Strengthening Project (P147348)
+
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                   Reason for
+Ratings                         ICR                      IEG
+                                                                                   Disagreements/Comment
+                                                                                   The ICR rates outcome as MS in
+Outcome                         Satisfactory             Moderately Satisfactory
+                                                                                   the main text.
+                                Moderately
+Bank Performance                                         Moderately Satisfactory
+                                Satisfactory
+Quality of M&E                  Substantial              Substantial
+
+Quality of ICR                  ---                      Substantial
+
+
+12. Lessons
+
+IEG derives the following lessons from the ICR:
+
+1. The transition from a merit order-based regulated system to a market-based system for
+providing stable low-cost power to the consumer needs to take into account the level of
+development of the system: As demonstrated by the project, the degree of volatility identified by
+the market opening study and the initial lack of consensus on an appropriate market structure
+suggested that careful consideration needed to be given to the structuring of the wholesale market in
+terms of its institutions and regulatory framework, to provide assurance of a stable revenue stream
+for new entrants. Secondly, the regulatory environment for such a market needed to provide
+assurances early on of prevention of market abuse. Thirdly, the relative fiscal costs of the safety net
+under market-based pricing (as against a regulated tariff) needs to be carefully considered in
+designing the structure of the market.
+
+2. The form of contract for power transmission or large projects with potential E&S impacts
+needs to separate activities by responsibility, for more efficient execution: Specifically, for
+power transmission projects, route planning and the related ESIA need to provide for a waiting
+phase during which the Government would complete all necessary processes for registering lands
+and properties, complete any RAP compensations, and issue all necessary permits. Under this
+scenario, the contractor would remain in standby during this “permitting period” without incurring any
+costs, until this phase is completed. This approach was utilized for ESRFRP-funded contracts for
+the Jvari-Tskaltubo 500 kV transmission line construction, as well as for the KfW-funded
+transmission line, and appeared to be successfully avoiding the typical complications that could
+arise.
+
+3. While quality and cost considerations are important, it is important not to lose sight of the
+fact that contractor capabilities constitute an important criterion: This is especially true with
+respect to E&S issues and also with respect to supervision contracts needing more careful
+consideration of procurement – which would apply to most large transmission projects. In this
+
+                                                                                                    Page 14 of 15
+       Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+       Transmission Grid Strengthening Project (P147348)
+
+
+
+regard, adherence to pre-qualification under the Bank’s procurement guidelines is a key factor to
+consider for large transmission projects.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is generally clearly written, concise and candid. The theory of change is outlined in a detailed
+diagram, though a discussion of its underpinning assumptions would have been helpful. The achievement of
+objectives is adequately analyzed, and the project’s efficiency is outlined in a fair degree of detail. However,
+the discussion on the performance of the Bank, particularly of quality at entry, would have benefited from a
+fuller discussion of such issues as the adequacy of the project’s components for achieving the project’s
+objectives, the capacity of the implementing agency and lessons learned in prior operations that informed the
+project’s design. There is also inconsistency in the outcome rating in the main text (Moderately Satisfactory)
+and ICR data sheet (Satisfactory).
+
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                    Page 15 of 15
+

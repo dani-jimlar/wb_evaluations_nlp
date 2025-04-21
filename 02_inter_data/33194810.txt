@@ -1,0 +1,875 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Central African Backbone-APL - Gabon (P122776)
+
+
+
+                                                                                 Report Number: ICRR0022591
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P122776                                    Central African Backbone-APL - Gabon
+
+ Country                                    Practice Area(Lead)
+ Gabon                                      Digital Development
+
+
+ L/C/TF Number(s)                           Closing Date (Original)               Total Project Cost (USD)
+ IBRD-81500,IBRD-86290                      31-Dec-2016                                         78,129,443.91
+
+ Bank Approval Date                         Closing Date (Actual)
+ 28-Mar-2012                                31-Oct-2020
+
+                                            IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                           58,000,000.00                                               0.00
+
+ Revised Commitment                            78,739,092.81                                               0.00
+
+ Actual                                        78,129,443.91                                               0.00
+
+
+
+
+ Prepared by                Reviewed by                   ICR Review Coordinator         Group
+ Ranga Rajan                Kavita Mathur                 Victoria Alexeeva              IEGSD (Unit 4)
+ Krishnamani
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objectives (PDOs), as stated in the Loan Agreement (Schedule 1, page 6) and in
+   the Project Appraisal Document (PAD, page 10), were:
+
+    " To contribute to increase geographical reach and usage of the regional broadband network services
+   and reduce their prices in the territory of the Gabonese Republic".
+
+
+
+                                                                                                  Page 1 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Central African Backbone-APL - Gabon (P122776)
+
+
+
+   This review is based on the three sub-objectives: (i) To contribute to increase geographical reach of regional
+   broadband network services; (ii) To contribute to reduce the prices of regional broadband network services;
+   and (iii) To contribute to increase the usage of regional broadband network services.
+
+   This review is not based on a split rating of objectives, as the PDOs did not change and targets were
+   expanded with the increased scope of Additional Financing (AF) for the project.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  22-Nov-2016
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   This project was the fourth phase of the Central African Backbone (CAB) program, aimed at catalyzing
+   private sector investment in the Information and Communication Technology (ICT) sector
+   and providing broadband connectivity to all capital cities and main secondary cities in Central Africa. The
+   first phase of the program was in Central African Republic, Cameroon and Chad, the second in Sao Tome
+   and Principe. and the third in the Republic of Congo.
+
+   There were three components (PAD, pages 12 -13):
+
+   1. Enabling environment. The estimated cost at appraisal was US$6.0 million. The revised estimate
+   with AF was US$10.9 million. The actual cost was US$12.4 million. This component aimed at creating an
+   enabling environment for development of the ICT sector. Activities included: (i) Technical Assistance
+   (TA) for implementing an Open Access Regime, and Public-Private Partnership (PPP) arrangements
+   for international and national connectivity (Open Access refers to an arrangement through which network is
+   open to independent service providers); (ii) TA for developing telecoms and information laws; (iii) capacity
+   building of key stakeholders (Ministry of Communication, Post and Digital Economy (MCPEN), the National
+   Agency for Digital Infrastructure and Frequencies (ANINF), and the Posts and Electronic Commissions
+   Regulatory Agency (ARCEP); (iv) TA for increasing broadband access in rural areas, establishing an
+   Internet Exchange Point (IXP), management policy for Internet domain names, and scaling-up the e-
+   government strategy.
+
+   Revised component 1. This component was scaled up to include TA for strengthening and deepening local
+   and regulatory reforms in the digital sector, and to ensure the sustainability of impacts already achieved
+   under the parent project.
+
+   2. Connectivity. The estimated cost of this component was US$65.0 million. The actual cost was US$59.5
+   million. This component aimed at increasing connectivity on the basis of an open access regime and PPP
+
+                                                                                                   Page 2 of 16
+    Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+    Central African Backbone-APL - Gabon (P122776)
+
+
+
+  arrangements. Activities included: (i) financing a share of the government's US$15.0 million consortium fee
+  for participating in the Africa Coast to Europe (ACE) cable; (ii) a terrestrial fiber optic link with the Republic
+  of Congo to interconnect with the Congolese link, and additional links in the first phase of roll out of a
+  national backbone; and (iii) setting an Internet Exchange Point (IEP) and a Carrier Hotel to
+  access international and national backbone capacity (a carrier hotel refers to a secure physical site or
+  building where data communications media converge).
+
+  Revised component 2. The scope of this component was increased to extend the existing backbone
+  network, and to finance the strategic terrestrial fiber link between two additional provincial capitals
+  (Lambarne and Oyem) and Gabon's borders with Cameroon and Equatorial Guinea.
+
+  3. Project Management. The estimated cost of this component was US$3.0 million. With AF, the revised
+  estimate was US$5.04 million. The actual cost was US$3.5 million. This component provided project
+  management support in the areas of social and environmental studies, audits, monitoring and evaluation,
+  and capacity building of the relevant agencies.
+
+  Revised component 3. Strengthen the client's capacity to implement the Additional Financing.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project cost. The estimated cost at appraisal was US$109.0 million. The revised estimate with AF was
+  US$132.0 million. The actual cost was US$78.9 million.
+
+  Project financing. This project was financed by an IBRD loan of US$58.0 million. AF of US$23.0 million
+  was approved on June 29, 2017. With this the Bank financing for the project was US$81.0 million. The
+  amount disbursed was US$78.9 million.
+
+  Borrower contribution. The borrower contribution was estimated at US51.0 million at appraisal. According
+  to the information provided by the team, their actual contribution was US$53.1 million (including US$51
+  million for the original project and US$2.1 million for the AF project).
+
+  Co-financing. None.
+
+  Dates. The project was approved on March 28, 2012, became effective on March 6, 2013, and was
+  scheduled to close on December 31, 2016. AF was approved on June 29, 2017 with a closing date of June
+  30, 2018. The project closed on October 31, 2020.
+
+  Restructurings. There were five Level 2 restructurings during the project lifetime.
+
+  These changes were made through the first restructuring approved on November 22, 2016.
+
+        The closing date for the original project was extended from December 31, 2016, to June 30, 2018, to
+         match the closing date of the AF.
+        Changes were made to the results framework, targets for some key outcome indicators were
+         increased, and an intermediate indicator on affordability of ICT services was added.
+
+
+
+
+                                                                                                       Page 3 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Central African Backbone-APL - Gabon (P122776)
+
+
+
+         Procurement arrangements were changed in line with the Bank's most recent procurement
+          guidelines (2014).
+
+   These changes were made through the second restructuring approved on May 16, 2018.
+
+         The closing date for the original project was extended by four months to November 30, 2018, for
+          completing activities associated with the first phase of the fiber optic backbone that had been subject
+          to procurement delays.
+         The closing date for the AF project was extended by a year from June 30, 2018, to June 30, 2019,
+          due to the procurement delays associated with the second phase of the fiber optic infrastructure.
+
+   The closing date for the AF project was extended by nine months from June 30, 2019, to March 31, 2020,
+   through the third restructuring approved on April 11, 2019, due to procurement delays and delays
+   associated with getting the passive equipment from abroad, that was required for the second phase of the
+   fiber optic backbone.
+
+   The closing date for the AF project was extended by three months from March 31, 2020, to June 30,
+   2020, through the fourth restructuring approved on March 4, 2020, to operationalize the fiber-optic
+   infrastructure, and finalize the ongoing PPP negotiations for the new infrastructure.
+
+   The closing date was extended by four months from June 30, 2020, to October 31, 2020, through the fifth
+   restructuring approved on June 26, 2020, to complete the ongoing component two activities that had been
+   impacted by the restrictions due to the COVID - 19 pandemic.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and sector context. Gabon, with a gross domestic product (GDP) per capita of US$9,814, is a
+middle-income country in Sub-Saharan Africa, with an economy highly dependent on the oil sector (the
+sector accounted for 45% of GDP). Diversification of the economy was important in the country
+context. Gabon in the years before appraisal had demonstrated a strong commitment to liberalizing the
+telecommunication sector, and the sector at the local level was competitive, with four operators in
+the mobile telecom sector, and voice telephony penetration rate of 145%. Mobile data and fixed broadband
+penetration was however limited to 13.5% and 0.5% of the population. This was mainly due to the
+high prices charged by the incumbent Gabon Telecom's monopoly on international connectivity through the
+country's only submarine cable - the West African Cable System (WACS). That monopoly ended on
+February 2012, with the creation of an independent sector regulator, the Posts and Electronic
+Communications Regulatory Agency (ARCEP), just before this project was approved on March 2012.
+
+Government and Regional strategy. At appraisal, the PDOs were well-aligned with the Government's
+three-year strategy, articulated in its July 2012 Emerging Gabon Strategic Plan"
+(PSGE). The strategy aimed at increasing the geographical reach, usage, and affordability of broadband
+services, through providing new international and national connectivity. The Government's vision for
+2025 outlined in the PSGE, was reinforced in January 2021, through the Government's Plan for the
+
+
+                                                                                                    Page 4 of 16
+                                      Independent Evaluation Group (IEG)               Implementation Completion Report (ICR) Review
+                                      Central African Backbone-APL - Gabon (P122776)
+
+
+
+               Acceleration of Transformation. At the regional level, the PDOs were aligned with the Central African
+               Economic and Monetary Community's (CEMAC), and the Economic Community of Central African States
+               (ECCAS) goals of creating an integrated and competitive economic space in Central Africa.
+
+               World Bank country strategy. The PDOs are well-aligned with the Bank strategy. At appraisal the
+               Country Partnership Framework (CPF) for 2012 -2016 underscored the need for increasing geographical
+               reach and usage of regional broadband network services, and reducing their prices. The PDOs are also
+               aligned with the priorities listed in the Bank's Systematic Country Diagnostic (SCD) for Gabon, issued on
+               June 26, 2020 (job creation, economic diversification, improved service delivery and connectivity). The
+               PDOs are relevant to the objectives of the new Country Partnership Framework (CPF) under preparation.
+               The third and the fourth objectives of this CPF highlights the need for "further diversification of the
+               economy" and "increasing public-service digitization and connectivity."
+
+               Bank's regional strategy. The PDOs are consistent with the objectives of the Bank's Regional Integration
+               Assistance Strategy (RIAS) " Partnering for Africa's Regional Integration" for Africa, issued in 2011. The
+               RIAS highlighted the need for supporting the "completing the connection of countries to submarine cables".
+               The PDOs remain relevant to the priorities outlined in the recent Regional Integration and Cooperation
+               Assistance Strategy for Africa (2018-2023). The second strategic objective of the RIAS specifically
+               underscores the need for expanding telecom/ICT access, reducing costs to consumers, and promoting
+               regional digital connectivity. Further, the ongoing COVID -19 pandemic has underscored the importance of
+               connectivity to manage and respond to the crisis, with evidence showing that countries with advanced
+               digital connectivity can better mitigate the negative effects of the pandemic. The Bank's COVID -19 crisis
+               response paper views digital connectivity as an enabler of the response to, and recovery from the
+               pandemic.
+
+               Prior Bank experience. The activities of this ICT project, the fourth phase of the CAB program,
+               were similar to the projects implemented in countries in the other phases. The areas of intervention were
+               appropriate, with the project targeting provinces with weak network coverage, and populations with poor
+               broadband access (ICR, page 45). The project design included activities aimed at providing technical
+               support for conducting PPP negotiations, and building capacity of the newly created independent sector
+               regulator. The project scope was expanded with AF to extend, the existing backbone network,
+               and the strategic terrestrial fiber link to additional provincial capitals and Gabon's borders with Cameroon
+               and Equatorial Guinea. Given that the project activities aimed at driving the ICT sector reforms, the project
+               reach was appropriate. The relevance of PDOs is rated high.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+
+                                                                                                                     Page 5 of 16
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Central African Backbone-APL - Gabon (P122776)
+
+
+
+To contribute to increase geographical reach of regional broadband network services.
+
+Rationale
+Theory of change. The project activities included capacity building activities and infrastructure investments
+and the causal links between activities, outputs, outcomes were logical. The intended outcomes were
+measurable. Strengthening the legal and regulatory framework, capacity building of the relevant sector
+agencies on policy and the newly created independent regulator on regulatory matters, promoting an Open
+Access and PPP regime, were aimed at fostering competition and private sector participation in the ICT
+sector. While joining the Africa Coast to Europe (ACE) consortium and constructing the terrestrial, national
+fiber-optic network were aimed at improving access to international connectivity, constructing an Internet
+Exchange Point were aimed at faster and cheaper exchange of local traffic. These activities were likely to
+increase the geographical reach of regional broadband network services, and reduce their prices.
+
+Outputs (ICR, pages 15 - 17).
+
+      The capacity building activities were completed as targeted. These included: (i) TA for promoting PPP
+       and Open Access (the open-access model enables service providers to reach subscribers without
+       having to deploy new infrastructure themselves); (ii) the review of telecom and information laws; (iii) a
+       study on Gabon's universal access strategy; (iv) capacity building of the Ministry of Communication,
+       Postal Services and Digital Economy (MCPEN) and the National Agency for Digital Infrastructure and
+       Frequencies (ANINF) on policy, and of the Regulatory Authority for Electronic Communications and
+       Postal Services (ARCEP) on regulatory issues. The ICR (paragraph 15) notes that Gabon's overall
+       rating in the International Telecommunication Union's (ITU) Independent Regulatory Tracker Index
+       increased from 50 to 64 between 2012 and 2019, with the sub-ratings for regulatory regime and
+       competition framework increasing by 58% and 50% respectively.
+
+      Gabon became a member of the Africa Coast to Europe (ACE) Consortium and was connected to the
+       global internet through the ACE submarine cable (ACE is a submarine cable system that connects 24
+       countries on the West Coast of Africa to Europe. It is managed by a consortium of 19 members). The
+       1,760 kilometer (km) fiber-optic terrestrial backbone connected 26 cities in Gabon to the capital,
+       Libreville and the borders of Cameroon and Equatorial Guinea. The first 1,140 km (phase one) of this
+       fiber-optic backbone was operating commercially from February 2019, under PPP arrangements with
+       Axione (a subsidiary of France's Bouyges Energies and Services).
+
+      The physical interconnection with the Republic of Congo Republic was completed and internet traffic
+       was being exchanged between operators across the border as of December 2020.
+
+      The 620 km extension of the fiber-optic backbone (phase 2) was completed on March 2020. This
+       extension was however not yet operational, due to the delays in the renegotiation of the terms of the
+       original PPP between the Gabonese authorities and Axione. Negotiations around the network
+       extension were however concluded successfully in October 2020, and the revised PPP agreement
+       was signed in March 2021. According to the clarifications provided by the team, this link is expected to
+       be commercial by June 2021.
+
+      Exchange of internet traffic between Cameroon and Equatorial Guinea was still pending when the
+       project closed, due to factors beyond the control of the Gabonese authorities (Although the
+       Memorandum of Understanding (MOU) between Gabon and Cameroon was signed in 2019, the
+
+
+                                                                                                   Page 6 of 16
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Central African Backbone-APL - Gabon (P122776)
+
+
+
+       physical interconnection on the Cameroonian side still has to be finalized. Regarding Equatorial
+       Guinea, although the final draft of the MOU was finalized in September 2020, the signing of the MOU
+       was delayed due to COVID - 19.
+
+      21 operators and Internet Service providers were buying capacity from the deployed regional
+       infrastructure as targeted.
+
+      International Communications (Internet, Telecoms and Data) bandwidth increased from 1.20 Gbps at
+       the baseline to 48.8 Gbps at project closure, exceeding the target of 37 Gbps.
+
+      225 localities had broadband access when the project closed, as compared to three at the baseline
+       and the target of 30 localities.
+
+Outcome
+
+The project activities increased the geographical reach of regional broadband services. The international
+internet bandwidth (measured in bits per second (bps) per person increased from 4,620 bps in 2010
+(baseline) to 35,321 bps, exceeding the target of 14,712 bps by 140%.
+
+Although, the 620 km of the fiber optic backbone (Phase 2) was not commercial at project close, the key
+outcome was exceeded. Efficacy of the objective is rated as substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+
+To contribute to reduce the prices of regional broadband network services.
+
+Rationale
+The theory of change under the first objective is applicable here, with the associated activities likely to reduce
+the prices of regional broadband network services.
+
+Outputs (ICR, pages 17 - 18).
+
+      The outputs associated with adoption of an Open Access Regime aimed at fostering
+       competition were also relevant for this objective.
+
+      The Gabon Internet Exchange (GABIX) was operational since 2014.
+
+Outcomes
+
+The activities described above were expected to reduce the prices of regional broadband network services.
+
+
+                                                                                                    Page 7 of 16
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   Central African Backbone-APL - Gabon (P122776)
+
+
+
+
+      The average monthly price of wholesale international E1 capacity link from the capital city of Gabon to
+       Europe decreased from US$10,500 in December 31, 2020 (baseline) to US$273, slightly short of the
+       target of US$235.
+
+      The retail price of internet services (per Mbit/s per month) decreased from US$218 at the baseline to
+       US$8 on December 31, 2018, as targeted.
+
+      The average cost of a three-minute mobile call dropped from US$0.71 at the baseline to
+       US$0.36, short of the target of US$0.30.The ICR (page 18) notes that this could have been due to the
+       imposition of a new excise tax on operators.
+
+      The indicator associated with affordability of internet prices was not monitored as envisioned.
+
+Although there were some shortcomings, given that the outcomes were realized for the most part, efficacy of
+this objective is rated as substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 3
+Objective
+To contribute to increase the usage of regional broadband network services.
+
+Rationale
+Theory of Change. The activities described above to increase the geographical reach of regional broadband
+network services and reduce their prices were expected to contribute to the increased usage of broadband
+services.
+
+Outputs (ICR, page 17).
+
+      These TA activities were completed as targeted: (i) a review of Gabon's universal access strategy; (ii)
+       developing a strategy for promoting broadband usage; (iii) revision of laws on electronic transactions,
+       electronic communications, privacy and data protection, cybersecurity, and cybercrime.
+
+      The management policy for domain names for developing local web sites was implemented.
+
+Outcomes
+
+      The number of beneficiaries (defined as people who were connected to the internet or more generally
+       to the communications network) increased to 1,706,086, exceeding the original target of 1,448,410.
+       51% the beneficiaries were women as targeted.
+
+
+
+
+                                                                                                  Page 8 of 16
+                               Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                               Central African Backbone-APL - Gabon (P122776)
+
+
+
+
+                                  Access to telephony services (fixed mainlines and cellular phones) per 100 people increased to 167,
+                                   exceeding the end target of 147.
+
+                            The ICR notes that the e International Telecommunication Union's (ITU) indicator "international internet
+                            bandwidth per internet user" more than doubled from 5.8 kb/s in 2012 to 11.84 kbs/s in 2017, and the ITU's
+                            "percentage of individuals using the internet" indicator jumped from 24% in 2012 to 62% in 2019.
+
+                            Given that the outcomes were realized, efficacy of this objective is rated as substantial.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The key outcome indicators were realized for the most part, with minor shortcomings. The project
+                            substantially contributed to increased geographical reach and usage of regional broadband network services
+                            and reduced their prices in the Republic of Gabon. Overall efficacy is rated as substantial.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+    5. Efficiency
+   Financial analysis. A financial analysis was performed at appraisal of the original project in 2012. The analysis
+   considered several radio wave, satellite, and fiber optic options. The analysis concluded that given the pent-up
+   demand for internet services, terrestrial fiber links were the best overall option in terms of long-term cost
+   effectiveness and bandwidth availability. All scenarios showed a positive Internal Rate of Return (IRR), even in
+   adverse conditions caused by higher-than expected project costs or lower than expected demand. The Net
+   Present Value (NPV) at 15% discount rate was US$8 million and the IRR was 26%. The financial analysis of
+   the original project was revised in 2016 to simulate the impact of the additional fiber links financed under the AF
+   to reflect the higher than expected internet penetration impact of the additional fiber links financed under the AF.
+   Using a discount rate of 15%, the scaled up project was estimated to have a NPV of US$2.2 million and
+   an IRR of 16%. The ICR (paragraph 47) notes that financial analysis could not be updated, as no business plan
+   had been received for the operationalization of the "Phase 2" network constructed under the project.
+
+   The ICR (paragraph 47) notes that the data provided by the private operator Axione in April 2021 indicated that
+   revenues generated through the PPP were 20% higher than expected at the time of signing (after five years).
+
+
+
+                                                                                                                             Page 9 of 16
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Central African Backbone-APL - Gabon (P122776)
+
+
+
+The ICR also notes that project management costs were 4.7% of the total project costs, lower than the ratios in
+comparable projects (Congo 7.6%, Liberia 6.5% and Benin 5.1%).
+
+Administrative and operational issues. There were no cost overruns. However there were shortcomings that
+caused time overruns. These shortcomings included: slow implementation due to delays in the national
+procedure for the approval of the loan agreement, procurement delays, and lengthy PPP negotiations.
+
+Despite some operational issues, most of the activities were completed with no cost overruns. Efficiency is rated
+as substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?              Point value (%)           *Coverage/Scope (%)
+                                                                                      0
+ Appraisal                                                  26.00
+                                                                                       Not Applicable
+                                                                                      0
+ ICR Estimate                                                0
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of the PDOs to the Government and the Bank strategy is high. The project substantially
+contributed to increasing geographical reach and usage of regional broadband network services and reduced
+their prices in the Republic of Gabon. Efficiency is rated substantial. Taking these ratings into account, overall
+outcome is rated satisfactory.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+Government Ownership/Commitment. The broadband and digital technologies are likely to remain top
+priorities of the Government in the medium and long terms, as outlined in the Emerging Gabon Strategic
+Plan 2023. This risk is assessed as low.
+
+
+
+                                                                                                      Page 10 of 16
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Central African Backbone-APL - Gabon (P122776)
+
+
+
+Operational risk. The ICR (paragraph 94) notes that technical audits showed that issues pertaining to
+outages and defects were addressed promptly by the authorities during the operationalization of the first
+phase (the backbone network was commercialized in February 2019). This risk is assessed as low.
+
+Economic risk. Although cross-border traffic with the Congolese Republic was exchanged since December
+2020, there is substantial risk that cross-border traffic with Cameroon and Equatorial Guinea may not
+materialize in the near future - due to factors that are largely outside the Gabonese Government’s control:
+construction delays on the Cameroonian side, and an unsigned interconnection MOU with Equatorial Guinea
+due to COVID-19 restrictions.
+
+Technical risk. To sustain usage of internet services, the Bank's eGabon Project (P132824) intends to
+promote digital entrepreneurship and leveraging access to broadband connectivity to support the delivery
+and management of public health services across the country. This risk is assessed as low.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  This project was prepared based on lessons from the Bank-financed Telecom/ICT projects, such as the
+  previous phases of Central Africa Backbone (CAB) projects, West Africa Regional Communications
+  Infrastructure Program (WARCIP), and Regional Communications Infrastructure Program. Lessons
+  incorporated at design included incorporating management structures for high capacity broadband
+  backbone networks on an "open" basis under PPP arrangements, and TA on legal and regulatory
+  issues (PAD, paragraph 32).
+
+  Several risks were identified at appraisal, including substantial risks associated with the weak
+  implementation capacity, and design risk (practical details associated with implementing Open Access
+  principles and conducting PPP negotiations). The design included a Project Preparation Advance (PPA)
+  of US$3.0 million to cover Gabon's initial Africa Coast to Europe (ACE) submarine membership
+  fee payments, technical assistance to introduce policy reforms and design and structure PPP and Open
+  Access, environmental and social studies, and capacity building of the Project Implementation Unit (PIU)
+  and all key stakeholders. Mitigation measures incorporated at design included: stakeholder training,
+  technical support for conducting PPP negotiations, and capacity building of the Gabonese shareholders.
+  Even with mitigation measures, the project risk was rated substantial at appraisal, given the weak
+  implementation capacity (PAD, page 17).
+
+  The implementation arrangements were appropriate, with the Fiber Optic Commission responsible for
+  overall guidance, and using a previously established Project Implementation Unit (PIU) (which had
+  executed Bank projects) for implementation (PAD, paragraph 9). Appropriate arrangements were made
+  at appraisal for monitoring and evaluation and safeguards and fiduciary compliance (discussed in
+  sections 9 and 10).
+
+  One shortcoming of project design was lack of focus on gender - there was no plans/interventions to
+  increase girl's and women's use of broadband, although the project tried to incorporate the gender
+  dimensions in two indicators.
+
+
+                                                                                                   Page 11 of 16
+     Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+     Central African Backbone-APL - Gabon (P122776)
+
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ There was continuity of leadership, with two task team leaders based at headquarters during the project
+ lifetime. According to the Borrower's ICR, the Bank showed a great deal of flexibility by extending the
+ project in Phase II, given the delays recorded during the first phase. The core supervision team - the
+ fiduciary and safeguards specialists and legal experts - were based in Gabon. 18 supervision missions (on
+ average twice a year), and nine technical missions were held. The team provided technical assistance to
+ help the Government select a wholesale operator based on international best practice, and this helped in
+ PPP negotiations. On policy reforms, the team leveraged the presence of a regulator to push for reforms,
+ and supported the Government's sustained communication campaign to sensitize stakeholders and get
+ their continuous buy-in.
+
+ There were some supervision shortcomings. Given the two year delay involved in the Government's
+ fulfillment of disbursement conditions, the sensitivity of reforms, the relatively slow pace of the construction
+ of the backbone network and the defects unveiled through the technical audit, the supervision team could
+ have recruited additional full- time technical staff and digital policy experts in-country early on. This
+ recruitment, coupled with additional field visit, could have helped in expediting implementation. The
+ supervision team was not proactive at reiterating to the Gabonese authorities the importance of monitoring
+ the indicator associated with the affordability of internet services. Likewise, the team could have been more
+ proactive in addressing the fiduciary and safeguard issues that arose during implementation (discussed in
+ section 10).
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The key outcome indicators for the project were the same as the outcome indicators for the regional
+ program, and were standard quantitative ones that covered geographic reach, usage and price of ICT
+ services. The three key outcome indicators (the volume of international traffic, the volume of national
+ communication traffic and the average price of international communications) were attributable to the
+ project activities, relevant, and in principle, measurable. An additional indicator on affordability of internet
+ services was added with the AF as an intermediate outcome for the project.
+
+
+
+                                                                                                        Page 12 of 16
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Central African Backbone-APL - Gabon (P122776)
+
+
+
+ There were some shortcomings. First, the first PDO indicator " Number of direct project beneficiaries" was
+ defined in the parent PAD as " people who are connected to the communications networks (including
+ telecom services and internet users) to be measured as the number of active and mobile subscribers", and
+ assigned a base value of 1,545,255 - equivalent to the entire Gabonese population. In the AF's paper, the
+ definition was revised to designate "the number of people having access to telephone services", and the
+ baseline value was revised down to zero with the justification that "no one has benefitted from the project
+ prior to start date". Also it is not clear why the target value for PDO indicator international internet
+ bandwidth, remained unchanged, when the original target had nearly been achieved.
+
+ The Regulatory Agency - the Posts and Electric Communications Regulatory Agency (ARCEP) - was in
+ charge of collecting the data for monitoring, in the context of its market oversight duties (PAD, paragraphs
+ 40 -41).
+
+
+
+b. M&E Implementation
+  The indicator associated with affordability of Internet services was not monitored, due to the lack of
+  capacity of the regulator. The ICR (paragraph 67) notes that M&E data was analyzed in a
+  methodologically sound manner. The Regulatory Authority for Electronic Communications and Postal
+  Services (ARCEP) collected the relevant data by getting information directly from the operators and this
+  data was provided to the Project Implementation Unit. The gender dimension of the project was not
+  monitored during implementation, due to the lack of capacity of the implementing agency.
+
+
+
+c. M&E Utilization
+  The M&E data was used for monitoring performance throughout implementation and to adjust indicator
+  targets during the AF. The data was used for the Bank's dialogue on pricing and interconnection cost
+  models and tariffs with the regulator, and to inform the CAB - Gabon project that is being prepared by
+  the African Development Bank.
+
+  The ICR notes that the regulatory agency continued to collect data beyond the project's closing date.
+
+  In sum, although there were some shortcomings in design, M&E is rated as substantial, given that the
+  indicators were the same as the indicators for the regional program.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as an Environmental Assessment Category B (Partial Assessment) project and
+   five safeguards were triggered: Environmental Assessment (OP/BP 4.01), Natural Habitats (OP/BP 4.04),
+
+
+
+                                                                                                   Page 13 of 16
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    Central African Backbone-APL - Gabon (P122776)
+
+
+
+  Physical Cultural Resources (OP/BP 4.11), Indigenous Peoples (OP/BP4.10), and Involuntary Resettlement
+  (OP/BP 4.12). No other safeguards policies were triggered with the AF for the project.
+
+  Environmental Assessment, Natural Habitats, and Physical Cultural Resources. The PAD (page 32)
+  notes that the environmental impacts were expected to be minimal and site-specific. An Environmental and
+  Social Impact Assessment (ESIA) was conducted for addressing issues relating to environmental
+  safeguards, natural habitats and Physical Cultural Resources, and an Environmental and Social
+  Management Plan (ESMP) was prepared. Both documents were publicly disclosed at appraisal (PAD, page
+  31).
+
+  The ICR (paragraph 72) notes that the overall safeguards compliance was rated as moderately satisfactory
+  in the final ISR, due to the delays in conducting safeguards audits and pending social risks due to the non-
+  compensation for the accidental destruction of assets in Lalara (Ogooue -Ivindo Province), that has not yet
+  been resolved to date (according to the information provided by the team). The team clarified that there
+  were no issues pertaining to natural habitats and physical cultural resources.
+
+  Indigenous Peoples. An Environmental and Social Management Framework (ESMF) and an Indigenous
+  Peoples Planning Framework (IPPF) were prepared and publicly-disclosed at appraisal for addressing
+  issues relating to indigenous people. The ICR (paragraph 71) notes that an Indigenous Peoples Plan (IPP)
+  was prepared during implementation. The ICR (paragraph 72) further notes that this plan was not fully
+  implemented, and that some implemented project activities could trigger complaints from indigenous
+  populations. The team clarified that this issue has not yet been resolved to date.
+
+  Involuntary Resettlement. An Abbreviated Resettlement Action Plan (RAP) was prepared and publicly-
+  disclosed at appraisal. The team clarified that there was no land acquisition. The ICR (paragraph 72) just
+  notes that a Grievance Redressal Mechanism (GRM) was established during implementation. Of the 168
+  complaints received relating to loss of revenue, 129 complaints were resolved, and the pending ones are
+  still being processed to date.
+
+
+
+
+b. Fiduciary Compliance
+  Financial management. A financial management assessment of the implementing agency was conducted
+  at appraisal. The assessment concluded that the financial arrangements were satisfactory. The
+  financial risk was rated moderate at appraisal, since the implementing agency was an existing and
+  adequately performing PIU endowed with all fiduciary requirements (PAD, page 29). The ICR (paragraph
+  73) notes that there were some old debt and issues relating to o unjustified mission advances of
+  approximately US$39,000. The final financial management rating was moderately satisfactory. The ICR
+  notes that the final financial audit of the original project, that was deemed to be acceptable by the Bank,
+  was submitted 13 months late (in July 2020). The last annual audit for AF was submitted on time. The
+  team clarified that audits were unqualified.
+
+  Procurement. A procurement assessment of the PIU was conducted at appraisal. Having executed a prior
+  Bank-financed project, the PIU was familiar with the Bank's procedures and the procurement risk was rated
+  moderate (PAD, page 31). The ICR (paragraph 74) notes that the procurement plan prepared at
+  appraisal was updated regularly to respond to the project's needs during implementation. The ICR notes
+  that there were some procurement delays during implementation. There were no reported cases of
+
+                                                                                                 Page 14 of 16
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Central African Backbone-APL - Gabon (P122776)
+
+
+
+   misprocurement. There were procurement delays relating to the choice of constructor for the backbone's
+   extension.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                  Reason for
+Ratings                          ICR                    IEG
+                                                                                  Disagreements/Comment
+Outcome                          Satisfactory          Satisfactory
+                                 Moderately
+Bank Performance                                       Moderately Satisfactory
+                                 Satisfactory
+Quality of M&E                   Substantial           Substantial
+
+Quality of ICR                   ---                   Substantial
+
+
+12. Lessons
+
+The ICR draws the following main lessons from the experience of implementing this project, which
+are presented here with some adaptation of language:
+
+1. Policy reforms aimed at creating an enabling environment for the ICT sector can help in
+private sector participation and bring about transformational change in the
+sector. Government demonstrated strong commitment to reforms, by establishing an independent
+regulator just before this project was approved. This project included activities aimed at institutional
+strengthening of the regulator and other stakeholders in conducting PPP negotiations. The lesson
+from this project is that policy reforms are crucial for private sector participation in the ICT sector,
+and bringing about transformational change in terms of boosting broadband penetration.
+
+2. Implementation arrangements that foster stakeholder coordination are crucial for
+successful implementation. The implementation arrangements of this project included a high-level
+supervisory body (the Fiber Optic Commission) led by the Presidency and representatives from the
+relevant ministries. The special advisor to the President was part of the Fiber Option Commission,
+and played an important role through continuous follow-up on implementation activities. The
+commitment at the highest level proved useful in implementing this project.
+
+3. Country Management Units (CMUs) could be leveraged to expedite activities that require
+cross-country coordination. Since the CMUs are well connected to the political establishment and
+decision makers in the countries they cover, the project could have leveraged the Cameroon CMU -
+which covers Gabon, Cameroon, and Equatorial Guinea, to expedite the signature of the
+
+                                                                                                      Page 15 of 16
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       Central African Backbone-APL - Gabon (P122776)
+
+
+
+interconnection Memorandum of Understanding with Equatorial Guinea and the ongoing
+construction on the Cameroonian side prior to the closing date of this project.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is clear and well-written. The quality of evidence provided in the ICR is credible. The theory of change
+provides clear links between project activities, outputs and outcomes that were attributable to project activities.
+The ICR candidly discusses the issues in the initial years of the project and also the difficulties associated with
+PPP negotiations that contributed to delays during implementation. The Borrower's ICR provides useful
+information. The ICR draws reasonably good lessons from the experience of implementing this project.
+
+There were a few minor shortcomings: there is discrepancy in the figures in the ICR text and Annex for
+objective two. The ICR is also long (with the main body of the text at 28 pages), almost double the
+recommended length of 15 pages.
+
+Overall, the quality of the ICR is substantial.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                      Page 16 of 16
+

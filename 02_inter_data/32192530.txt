@@ -1,0 +1,913 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     RW Public Sector Governance P4R (P149095)
+
+
+
+                                                                                  Report Number : ICRR0021791
+
+1. Project Data
+
+
+
+ Project ID                                Program Name
+ P149095                                   RW Public Sector Governance P4R
+
+ Country                                   Practice Area(Lead)
+ Rwanda                                    Governance
+
+
+ L/C/TF Number(s)                          Closing Date (Original)               Total Program Cost (USD)
+ IDA-55470                                 31-Dec-2018                                           93,375,355.99
+
+ Bank Approval Date                        Closing Date (Actual)
+ 31-Oct-2014                               31-Dec-2018
+
+                                           IBRD/IDA (USD)                                       Grants (USD)
+
+ Original Commitment                          100,000,000.00                                                0.00
+
+ Revised Commitment                           100,000,000.00                                                0.00
+
+ Actual                                        93,375,355.99                                                0.00
+
+
+
+
+ Prepared by                Reviewed by                  ICR Review Coordinator           Group
+ Yumeka Hirano              Clay Wescott                 Jennifer L. Keller               IEGEC (Unit 1)
+
+
+
+
+2. Program Context and Development Objectives
+
+DEVOBJ_TBL
+a. Objectives
+   The project development objective (PDO) of this Program-For-Results (PforR) is to enhance Rwanda’s Public
+   Financial Management and statistics systems to improve transparency and accountability in the use of public
+   funds, revenue mobilization and the quality and accessibility of development data for decision making (Project
+   Appraisal Document [PAD], p.7 & 23 and Financing Agreement [FA], p. 4).
+
+   The Program aims to achieve the following results (PAD, p. 23):
+
+
+                                                                                                   Page 1 of 17
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     RW Public Sector Governance P4R (P149095)
+
+
+
+         Increased efficiency in national and subnational revenue collection;
+         Improved national and subnational transparency and accountability in the use of public funds; and
+         Improved use of development data for decision-making.
+
+   The three PDO results indicators were:
+
+         the tax to GDP ratio, which measures national and subnational revenue collection
+         the percent of [public] entities submitting monthly statements by the due date and making them
+          publicly available
+         the share of ministries, districts, and agencies (MDAs) using official statistics for both analysis of
+          current developments for short-term decision making and analysis of trends for longer-term policy
+          formulation.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  11-Mar-2017
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The Program encompassed three results areas under the two overarching areas: public financial
+   management (PFM) and statistics (PAD, pp. 18-25 and pp. 53-79; FA, p.4). In addition, the Program
+   focused on supporting the government’s efforts in capability building and system strengthening across the
+   areas.
+
+   Public Financial Management
+
+   The Program supported a subset of the government’s programs, articulated in the Public Finance
+   Management Sector Strategic Plan (PFM SSP) for 2013–2018, which consists of 7 programs (as mentioned
+   under Results Area 2) and 23 subprograms. The Program covers all but two of the government’s 23 PFM
+   subprograms. Not included were the Government PFM subprograms of IPPIS (under the main program of
+   electronic service delivery and IFMIS) and legislative oversight (under the main program of external
+   oversight and accountability).
+
+   Results Area 1: Enhanced national and subnational revenue collection
+
+   The Program supported adopting the automated government revenue management system.
+
+
+
+                                                                                                      Page 2 of 17
+     Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+     RW Public Sector Governance P4R (P149095)
+
+
+
+   Results Area 2: Improved national and subnational transparency and accountability in the use of
+   public funds
+
+   The Program supported the following governmental functions: i) economic planning and budgeting, ii)
+   resource mobilization, iii) budget execution, internal control, accounting, and reporting, iv) external oversight
+   and accountability, v) electronic service delivery and Integrated Financial Management System (IFMIS), vi)
+   fiscal decentralization, and vii) PFM sector coordination and management across seven key PFM areas.
+
+   Statistics
+
+   The Program supported a subset of the National Strategy for Development of Statistics 2 (NSDS 2) for
+   2014–2019, which includes six strategic objectives. The Program covered four strategic objectives.
+
+   Results Area 3: Improved use of public data for decision making
+
+   The Program supported: i) strengthening the civil registration system, administrative records, surveys,
+   censuses, and other sources of data, ii) improved quality and dissemination of statistics and public
+   statistical literacy, iii) improved statistical advocacy and integrate use of statistics in decision making, and iv)
+   developing capacities within the national statistical system (NSS).
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Program Cost: At appraisal, the estimated cost of the Program was $US172 million over four years. The
+   actual cost was US$ 136 million (ICR, Annex 3).
+
+   Financing: The Program was financed by an IDA loan of XDR 65.9 million (US$ 100 million equivalent). It
+   was fully disbursed. The disbursement amount in the ICR (p.2) was US$ 93 million due to exchange rate
+   differences.
+
+   Borrower Contribution. The borrower contribution estimated at appraisal was US$ 42 million (PAD, p.6).
+   The actual contribution was US$ 20 million (ICR, Annex 3). In addition, there was parallel financing from
+   other donors, estimated at appraisal to be US$ 30 million. Actual contribution was US$ 23 million.
+
+   Dates and Revisions: The Program was approved by the Board on October 3, 2014 and became effective
+   on December 11, 2014. There was a Level 2 restructuring on March 11, 2017 to correct the baseline and
+   the target values for PDO Indicator 3 and the baseline for DLI 6. The credit closed on December 31, 2018,
+   as scheduled.
+
+
+
+
+3. Relevance    TBL
+
+
+
+
+a. Relevance of Objectives     New
+
+
+
+
+  Rationale
+
+
+                                                                                                         Page 3 of 17
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   RW Public Sector Governance P4R (P149095)
+
+
+
+At appraisal, Rwanda was making significant progress in PFM reforms. However, certain areas of the PFM
+reform, notably revenue mobilization, use of new technology, and capacity development, had lagged and
+continued to challenge overall transparency and accountability. The Public Expenditure and Financial
+Accountability (PEFA) report documented that the scores in five out of six categories improved between 2007
+and 2010. Among 82 countries for which country data on the County Policy Institutional Assessment (CPIA)
+Indicator 13 (quality of budgetary and financial management rating) were available, Rwanda ranked 4th in
+2013, with a score exceeding the average for middle-income countries (3.3), (PAD, p.13). On the other hand,
+Rwanda’s tax revenue to GDP ratio (14.2 percent in FY2012/13) was lower than the average for East African
+countries. Inadequate resource mobilization had resulted in aid dependency at the national level and lack of
+discretionary revenues at the subnational level. As the central government budget represents a large share
+of GDP (29 percent in FY2012/13), it was critical for Rwanda to have more effective, accountable and
+transparent PFM. Statistics were important for facilitating evidence-based policy making and more efficient
+and effective use of public resources (PAD, para.15 and ICR, para.5). Furthermore, with the significant
+increase in fiscal transfers to districts, there was a need to strengthen local government’ capacity for core
+PFM, including accounting, auditing, budgeting, and reporting.
+
+The PDO was highly relevant to the government strategies and programs. The second Economic
+Development and Poverty Reduction Strategy (EDPRS 2; 2013-2018) identified PFM as a platform for
+efficient management of the nation’s resources to achieve the strategy’s goals. It focused on: (i) increasing
+resource mobilization from domestic and alternative sources of finance, (ii) scaling up the implementation of
+the Integrated Financial Management Information System (IFMIS), (iii) strengthening PFM systems at the
+subnational level, and (iv) enhancing training, professionalization, and capacity building access all PFM. The
+PforR supported the government’s two national programs: the Public Financial Management Sector Strategic
+Plan (PFM SSP) 2013-2018 and the National Strategy for Development of Statistics 2 (NSDS 2) 2014–2019.
+Both programs were regarded as essential to achieve EDPRS 2. The PDO remained highly relevant to the
+new PFM SSP 2018-2024, which aims to support Rwanda’s socioeconomic transformation, articulated in its
+long-term Vision 2025, through effective and accountable PFM. In addition, the Rwanda Country Program
+Evaluation (IEG 2018) concluded that the outcomes and objectives of Bank support for improved public
+resource management were aligned with the country’s broad goals.
+
+The PDO was well aligned with one of the strategic goals set out in the Country Partnership Strategy (CPS)
+for 2014–2018 (revised and extended until 2020). The CPS’s third theme focused on supporting accountable
+governance though PFM and decentralization (CPS FY14-18, pp.29-30) and in particular to the CPS
+objectives of: (i) improving national and subnational transparency, efficiency, value for money and
+accountability in the use of public funds; and (ii) enhancing local government tax generation and
+administration (PLR for CPS FY14-18, paras.38-39). The CPS also highlighted the importance of improving
+statistical systems and capacity to track results against government strategies and enforce accountability
+(CPS 14-18, p.30, p.35 & Annex 5). The PDO remained centrally relevant to a key constraint/reform area
+identified in the World Bank’s Systematic Country Diagnostic for Rwanda of May 2019: to improve alignment
+of spending with the government strategy and service delivery objectives, while improving control of
+expenditures to increase value for money.
+
+With its strong results system, Rwanda was an ideal country for development policy operations. Yet in this
+case, a PforR instrument was used because of concern over predictability of policy financing due to shifting
+political views in Bank constituency capitals, as evidenced in stoppage of budget support in 2012 following a
+Rwandan military incursion in eastern Democratic Republic of Congo. This and other PforRs were adopted
+
+
+
+
+                                                                                                 Page 4 of 17
+                              Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+                              RW Public Sector Governance P4R (P149095)
+
+
+
+                       as alternative forms of budget support, providing a more stable form of financing, and still allowing the Bank
+                       and development partners to have a seat at the table for key policy discussions.
+
+
+       Rating Relevance TBL
+
+
+
+
+                       Rating
+                       High
+
+
+b. Relevance of DLIs                          New
+
+
+
+
+DLI RELEVANCE TBL
+
+
+
+
+                DLI 1
+                DLI
+                Number of pilot ministries submitting investment plans in which feasibility studies are conducted for new projects
+                exceeding US$1 million as per instructions in budget call circular (Number)
+
+                Rationale
+                This DLI was critical to increase accountability of the budget and improved transparency in the use of national
+                public funds.
+
+
+
+                Rating
+                High
+
+                DLI 2
+                DLI
+                DLI 2: Number of districts using automated local government revenue management system (Number)
+
+                Rationale
+                This DLI was well linked to two Intermediate Results Indicators (IRIs): the time spent in paying tax and the e-
+                tax declaration ratio. Use of automated local government revenue management systems was critical for
+                reducing time for paying tax and increasing share of active small and micro taxpayers filing tax declarations
+                using the e-tax internet portal for increasing national and subnational revenue collection. While the DLI and
+                two IRIs were aligned with the PDO indicator 1 (tax to GDP ratio), there were other influences on the indicator
+                beyond those supported by the project (see Sections 4 and 8a).
+
+
+
+                Rating
+                Substantial
+
+                DLI 3
+                DLI
+                Implementation of e-procurement (Text)
+
+
+                                                                                                                         Page 5 of 17
+      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+      RW Public Sector Governance P4R (P149095)
+
+
+
+
+Rationale
+There was no e-procurement system in the country at appraisal. Implementation of e-procurement was critical
+to modernize public procurement for improved national transparency in the use of public funds. The
+interventions and outputs were clearly defined in the PAD.
+
+
+
+Rating
+High
+
+DLI 4
+DLI
+Percent of MDAs receiving unqualified audit opinion (Percentage)
+
+Rationale
+Improving MDA’s compliance with financial management requirements was sought to improve quality of
+external audit. This DLI directly contributes to the second results area of improved national and subnational
+transparency and accountability in the use of public funds.
+
+
+
+Rating
+High
+
+DLI 5
+DLI
+Percent of sub-districts using simplified accounting and financial reporting application (Percentage)
+
+Rationale
+This DLI sought to improve reporting capacity at the subnational level for enhancing transparency and
+accountability in the use of public funds. This DLI was designed to provide triggers for PFM reforms at the
+subnational level, but the target was achieved in year 1 suggesting that level of ambition could have been
+higher for greater impact.
+
+
+
+Rating
+Substantial
+
+DLI 6
+DLI
+Number of Government PFM staff with at least foundation-level professional finance qualifications (Number)
+
+
+Rationale
+
+
+
+                                                                                                   Page 6 of 17
+                            Independent Evaluation Group (IEG)                  Implementation Completion Report (ICR) Review
+                            RW Public Sector Governance P4R (P149095)
+
+
+
+            This DLI aimed at improving staff capacity in PFM by increasing the number of staff with professional
+            accounting qualifications. Capacity development was critical to improve use of public data for decision making
+            and sustain achievements of the Program.
+
+
+
+            Rating
+            High
+
+            DLI 7
+            DLI
+            Increased production of economic statistics and dissemination in time for strategic planning and decision
+            making (Text)
+
+            Rationale
+            Production and dissemination of vital economic statistics and surveys were necessary to enhance use of data
+            for decision making. While the DLIs and IRIs were aligned with the outcome indicator, these indicators under
+            the Results Area 3 did not sufficiently measure the quality of development data for decision making.
+
+
+
+            Rating
+            Modest
+
+            DLI 8
+            DLI
+            Open Data initiative extended to progressively include more surveys and administrative sources of data (Text)
+
+            Rationale
+            Together with DLI 7, this DLI was designed to improve data availability and dissemination, which is critical to
+            enhance use of public data for decision making. While the DLIs and IRIs were aligned with the outcome
+            indicator, these indicators under the Results Area 3 did not sufficiently measure the quality of development
+            data for decision making.
+
+
+
+            Rating
+            Modest
+
+
+OVERALL RELEVANCE DLI TBL
+
+
+
+
+            OVERALL RELEVANCE RATING
+            Rationale
+            The PDO was highly relevant with the country context, the government strategies and programs, and the
+            CPS at appraisal and remained so throughout the project.
+
+
+
+                                                                                                               Page 7 of 17
+                   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                   RW Public Sector Governance P4R (P149095)
+
+
+
+               The DLIs were clearly defined, measurable and had detailed protocols for verification and monitoring (PAD,
+               p.33 & Annex D). All DLIs related to PDO indicators 1 and 2 (PFM), except one, were numerical with
+               achievements clearly measured by the number of MDA, districts, sectors (local governments), and staff who
+               were beneficiaries of the operation’s interventions. The measurement of the remaining two DLIs for Results
+               Area 3 laid out clearly the milestones necessary to produce selected economic data and to increase
+               availability of statistical information in National Archive Data.
+
+               The results framework was generally adequate; however, there were some deficiencies. There was a
+               plausible link in most cases between the activities supported by the Program and the expected intermediate
+               and final outcomes. Eight DLIs were either outputs or intermediate outcomes of the Program interventions
+               necessary to achieve the PDO. The DLI also focused on strengthening capacity, which was critical to
+               implement the project and sustain achievements of the Program. Under the Results Area 1, there was a
+               shortcoming in targeting the outcome (tax to GDP ratio). Under Results Area 3, the indicators primarily
+               focused on the use and dissemination of development data and did not sufficiently measure the quality of
+               development data produced.
+
+               The results framework shows the clear evolution of activities over time, incentivizing beneficiaries to meet the
+               targets, which enabled reforms to expand. Financing allocated to DLIs during the course of the Program was
+               approximately US$12.5 million for each of the eight DLIs. The allocation of financing was frontloaded with a
+               gradual decrease in the second and third years to spur momentum for achieving results early and carrying
+               progress through the entire Program implementation (ICR, para.28). Given the fact that three DLIs exceeded
+               the intended targets in the first two years, the Bank could have set the bar higher and sought to achieve
+               greater impact.
+
+
+
+               Rating
+               Substantial
+
+
+
+   4. Achievement of Objectives (Efficacy)
+EFFICACY_TBL
+
+
+
+
+               OBJECTIVE 1
+               Objective
+               Improved Efficiency in National and Subnational Revenue Mobilization
+
+               Rationale
+               Use of automated local government revenue management system was expected to reduce time for paying tax
+               and increase share of active small and micro taxpayers filing tax declarations using e-tax internet portal. This
+               in turn was expected to increase national and subnational revenue collection.
+
+               The Program supported the movement to electric platforms and reduced the time required to pay taxes. All
+               three IRIs were exceeded (ICR, para.35 & p.33). By the end of the project, all 30 districts (exceeding the
+               original target of 11) were using the automated revenue collection system. The share of active small and
+               micro-taxpayers, who filed their declarations using the e-tax internet portal, increased from 69.3 percent in
+
+                                                                                                                  Page 8 of 17
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   RW Public Sector Governance P4R (P149095)
+
+
+
+2014 to 99.6 percent in 2018 (exceeding the original target of 87). The time spent paying taxes (the IRI 1-1)
+reduced from 113 hours per year in 2014, 95 hours in 2016 (Doing Business 2018), and 91 hours in 2018
+(Doing Business 2020). The IRI 1-1 was designed to measure the efficiency of tax administration from the
+taxpayers’ viewpoint and hence taxpayers’ voluntary compliance (PAD, p.23). In line with the IRIs, the DLI for
+revenue performance was achieved: all 30 districts adopted the automated local government revenue
+management system (exceeding the original target of 11).
+
+Despite the substantial results, the outcome, as measured by a tax to GDP ratio, was partially achieved due
+to problems on attribution. Tax to GDP ratio grew by 10.5 percent (or 1.5 percentage points), from 14.2
+percent in 2012/13 to 15.7 percent in 2017/18 (less than half way to the original target of 17.4 percent). Many
+factors influenced the tax to GDP ratio which could not be controlled by Program interventions. The original
+target was set in line with the target in the IMF’s Policy Support Instrument (PSI). That level was subsequently
+downgraded by the IMF to 15.9 percent in 2017, based on changing economic conditions and as a result of
+the rebasing of past year revenue to GDP calculations in line with an analysis done by the National Institute of
+Statistics of Rwanda (NISR). Rwanda achieved a tax to GDP ratio of 16.3 percent in 2015/16, which
+exceeded the revised PSI target but was under the PDO indicator target (ICR, paras.36-37). PDO Indicator 1
+was on track to meet the PSI target but not the 17.4 percent target set by the PAD.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+Improved Transparency and Accountability in the Use of Public Funds
+
+Rationale
+Rwanda faced challenges in enhancing transparency and accountability, as certain areas of the public
+financial management had lagged. Increasing credibility of budget, modernizing public procurement,
+improving external audit, and improving reporting capacity at the subnational level were essential to achieve
+the objective. Activities for this objective focused on capacity development of government financial
+management staff in the key areas.
+
+There was a significant improvement in transparency and accountability as a result of the achievements in
+implementation of reforms to planning, budgeting, and reporting of spending across all government entities
+(ICR, pp.18-19). All of the IRIs were exceeded. The share of MDAs receiving unqualified audits increased
+significantly from 32 percent in 2014 to 60 percent (exceeding the original target of 47 percent),
+demonstrating a substantial improvement in compliance and accountability. The roll out and adoption of a
+simplified accounting and financial reporting system (Subsidiary Entity Accounting System) in subsidiary
+entities of districts was completed with the aim of ensuring that districts’ accounting and reporting through the
+IFMIS adequately captured their subsidiary entities’ (that is, sectors’) financial information. By the end of the
+project, the share of sectors using a simplified accounting and financial application reached 100 percent
+(exceeding the original target of 80 percent). The gap between the annual budget and the budget predicted in
+the second year of the MTEF was reduced from 20 percent in 2014 to 5 percent in 2018 (exceeding the
+original target of 11 percent).
+
+
+                                                                                                   Page 9 of 17
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   RW Public Sector Governance P4R (P149095)
+
+
+
+Five DLIs (DLIs 1, 3, 4, 5, and 6) were all obtained, reflecting systemic improvement in financial management
+practices (ICR, para.43). DLIs 4 and 5 tracked the IRI relating to the increase in unqualified audits obtained
+by MDA and improved financial reporting by subdistricts. There was significant advancement in e-
+procurement. DLI 3 supported the adoption and rollout of e-Procurement not only in five piloting entities, but
+also in all procuring entities. The increased use of feasibility studies in proposals for new large investment
+projects in five pilot ministries (DLI 2) was also an important step in achieving value for money in public
+procurement. The Program contributed to capacity development through increasing the number of
+government PFM staff (including subnational governments) with at least foundation-level professional finance
+qualifications from 294 (baseline), 665 in 2016/17 (exceeding the original target of 450), and 1,257 in 2017/18
+(DLI 6).
+
+Despite the significant progress in enhancing transparency and accountability, one target was only partially
+achieved. The share of entities submitting monthly financial statements increased from 40 percent in 2014 to
+98 percent in 2018 (exceeding the original target of 80 percent), however, they were not made public (ICR,
+para.44 and p.31). It was agreed with the government of Rwanda and the supervision task team that
+disclosure of monthly reports was not an appropriate measure of transparency or accountability since no
+other country, including Organization for Economic Co-operation and Development countries, publicly issue
+monthly budget reports. The government does publish an audited annual financial statement. Furthermore,
+the achievements in e-procurement reforms enabled the e-Procurement system to provide information to the
+public in searchable and machine-readable format; procurement bids and winners; and all advertisements.
+
+*an “unqualified” audit opinion implies that financial statements presented are a true and fair reflection of the
+transactions of the entity audited and that such transactions were in all material respects executed in
+accordance with the relevant laws and regulations (Office of the Auditor General, Rwanda, 2012).
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 3
+Objective
+Improved Quality and Accessibility of Development Data for Decision Making
+
+Rationale
+Timely production and dissemination of economic statistics and industrial surveys was a foundation to
+enhance use of public data for decision making. In addition, capacity development of PFM staff was expected
+to enhance use of data and surveys for decision making.
+
+There was significant progress in enhancing production and accessibility of development data and surveys.
+Two IRIs were achieved. The full 2014, 2015, and 2016 Seasonal Agriculture Surveys were conducted, the
+reports were produced and disseminated. The NISR continued to conduct the survey on an annual basis and
+publish on their website: https://www.statistics.gov.rw/datasource/seasonal-agricultural-survey. The first
+national Labor Force Survey (LFS) 2016: August 2016 was conducted and disseminated in October 2017.
+The government capacity to produce the LFS on a regular basis has been established, as evidenced by the
+
+
+
+                                                                                                    Page 10 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     RW Public Sector Governance P4R (P149095)
+
+
+
+  completion and publication of the LFS on NISR’s website: https://www.statistics.gov.rw/datasource/labour-
+  force-survey-0. The LFS was conducted and published twice in 2017 and 2018 and four times in 2019.
+
+  The Program supported increasing production and dissemination of economic statistics and extending the
+  Open Data initiative to publish more surveys and administrative sources of National Archive Data. The
+  Program also supported improving organizational development and statistical skills at NISR, as publishing the
+  major surveys required to improve data quality and meet the methodological standards. The quantity of
+  economic statistics produced and made available to policy makers and the public dramatically increased and
+  fully met the target set out in DLI 7. By 2017/18, Rwanda produced essential indicators of economic
+  performance, including quarterly GDP figures, trade statistics and Producer Price Indexes, and monthly
+  Consumer Price Index measures (ICR, para.49). An increasing number of surveys and official data, including
+  health indicators and micro-data on tracking poverty, became available as part of the Open Data Initiative, as
+  per DLI 8.
+
+  The objective was achieved. The share of MDAs using official statistics for analysis and current developments
+  increased from 39 percent in 2012 (baseline) to 62.3 percent in 2016/17 (exceeding the formally revised
+  target of 48 percent) (NISR User Satisfactio Survey Report 2016-2017, p.13). The Program promoted the
+  data-driven approach and led to a greater reliance on evidence-based data during policy formulation at the
+  Ministry of Agriculture (ICR, para.51). Similarly, statistical data were regularly utilized by the Ministry of
+  Finance and Economic Planning when determining transfer formulas for block grants based on socio-
+  economic indicators. Availability of the data in the government website and utilization of data for long and
+  short term policy formulation as shown in the survey result and ICR indicate quality and accessibility of
+  development data for decision making has been enhanced.
+
+
+
+  Rating
+  High
+
+
+
+
+ OVERALL EFFICACY
+ Rationale
+ Given that the targets for all the DLIs were realized or exceeded, all IRIs were achieved exceeding their end
+ targets, PDO Indicators 1 and 2 were rated Substantial, and PDO Indicator 3 was rated High, the ICR rates
+ the overall efficacy as Substantial.
+
+
+
+ Rating
+ Substantial
+
+
+5. Outcome
+
+Relevance of the PDO for the government strategies and programs and the Bank strategy was High. Relevance
+of DLIs was rated as Substantial. The results framework was generally adequate albeit with some deficiencies.
+
+                                                                                                  Page 11 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     RW Public Sector Governance P4R (P149095)
+
+
+
+There was a plausible link in most cases between outputs supported by the program and intended outcomes.
+Overall relevance is rated as Substantial. Given the PDO was mostly achieved with minor shortcomings mainly
+due to issues related to selection of indicators and attribution, efficacy is rated as Substantial.
+
+
+    Outcome Rating
+    Satisfactory
+
+
+6. Risk to Development Outcome
+
+Risk is rated as Low. The Program’s achievements, which are linked to the government’s ongoing multiyear
+strategic vision, are to be sustained due to the government strong ownership and substantial achievement of
+outcomes and the DLIs exceeding expected targets in most cases. None of the fiduciary and technical risks
+identified at appraisal seemed to have affected any stakeholder in achieving the expected targets (ICR,
+paras. 82 &83). The government demonstrated strong ownership, commitment, and leadership in
+implementing reforms before, during, and after the operation. Political stability and the strong endorsement
+from the highest echelons of the government will most likely continue. While internal risks remain low, there
+is concern over risks from the COVID-19 pandemic and the associated global economic recession.
+Economic slowdown and fiscal management in responding to the crisis could risk some of the progress
+made in increasing tax revenue collection and enhancing transparency and accountability in the use of public
+funds.
+
+
+
+
+7. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  This Program was one of the first Bank operations using the PforR lending instrument. The selection of
+  instrument was appropriate, given that the government showed strong leadership and commitment to
+  implement the PFM SSP, NSDS 2, and EDPRS 2. The Bank team was able to align the Program with
+  Rwanda’s strategic priorities. At the same time, fluctuation in aid from development partners constrained
+  the implementation of government expenditure programs. Therefore, the PforR instrument was expected
+  to contribute to the predictability of budget financing, while anchoring disbursement against results
+  achieved (ICR para.7).
+
+  The operation's design built on experiences and lessons from the Bank’s engagement in public sector
+  reforms in Rwanda for two decades. The Program built especially on the Bank’s 2013 Quality of
+  Decentralized Service Delivery budget support operation, which focused on national/subnational PFM
+  issues, including capacity building at the subnational level (PAD, paras.26-27). The Bank has also been
+  one of the leading development partners in PFM and statistics, co-chairing the PFM Coordination Forum
+  and serving as a core member of the Statistics Steering Committee. Consolidating the Bank’s
+  engagements into the Program was expected to achieve greater results.
+
+  The Program was also prepared to complement other ongoing and planned Bank operations, particularly
+  on the fiduciary aspects of a planned development operation. Improved PFM, especially at the
+
+                                                                                                  Page 12 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     RW Public Sector Governance P4R (P149095)
+
+
+
+  subnational level, was sought to contribute to the Transformation of Agriculture Sector Program Phase 3
+  PforR.
+
+  The team carried out the detailed assessments on technical issues (PAD, Section 4), government
+  programs (PAD, Annex B). These quality assessments provided the basis for the design of the program
+  scope, interventions types, and the program action plan (PAP).
+
+  The operation’s risks were adequately assessed, and overall the risks (technical and fiduciary) during
+  implementation proved manageable.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The Bank team provided solid and constant support for the government to facilitate activities and resolve
+ issues that arose. This PforR is the first governance PforR in Rwanda, and the Bank team justifiably went
+ through a period of “learning by doing" (ICR, para. 80). The Program’s implementation arrangements were
+ well thought out, and the Bank team worked closely with the key counterpart, the Ministry of Finance and
+ Economic Planning, which played the coordination and monitoring roles during implementation. The Bank
+ team paid close attention during supervision missions to the risks and most of the mitigation measures.
+ Where relevant, the team made appropriate adjustments on risk ratings. The Bank helped the government
+ ensure the successful implementation of the Program by adjusting DLI baseline/targets (except those
+ related to revising PDO Indicators 1 and 2) during the restructuring to reflect the evolution of the
+ government’s reform needs. However, the Bank team noted an important area in which they could have
+ done more during the restructurings, which was adjustment in PDO Indicators 1 and 2. This review notes
+ there was room to target the outcome that the Bank could influence and attribute through the interventions
+ it undertook.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+8. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The PforR chose to use the government M&E mechanism already established through EDPRS 2 and PFM
+ SSP to the greatest extent possible and to augment the government’s effort to strengthen results-based
+ development management (ICR para.72). The Program helped sharpen the results framework for the PFM
+ SSP 2013–2018, strengthen statistical capacity in NISR and capacity of PFM staff at the national and
+
+                                                                                                  Page 13 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     RW Public Sector Governance P4R (P149095)
+
+
+
+ subnational levels, and supported the adoption of the planning and M&E policy and the manual and results-
+ based management policy (PAP 1).
+
+ Key areas the program supported were generally well-aligned with the PDO. The PAD presented the
+ results framework and monitoring arrangements, with detailed indicators and target values, and
+ identified the parties responsible for data collection. This review notes that the results framework (with
+ three PDO indicators, eight IRIs, and eight DLIs covering two key areas of engagement) was appropriate
+ and realistic and made it easy to monitor results. Nevertheless, as mentioned above, the PDO results
+ indicators could have been better designed to monitor the progress in key activities (e.g., adopting the
+ automated government revenue management system and submitting monthly financial statements) and
+ results to achieve the project objectives.
+
+
+
+b. M&E Implementation
+  M&E data of the Program were collected and analyzed in a consistent and regular fashion (ICR, para.75).
+  This process could be further institutionalized by establishing a common methodology and periodic
+  evaluations and a more robust arrangement with MDA to share M&E results.
+
+
+
+c. M&E Utilization
+  M&E was data-driven and informed the decision-making process during implementation (ICR, para.76).
+
+
+
+  M&E Quality Rating
+  Substantial
+
+9. Other Issues
+
+a. Safeguards
+   The PAD rates the Environmental and Social risks as Low. It was consistently rated as low during the entire
+   project implementation. In November 2016, risk in Environment and Social issues was identified as
+   Moderate (from Low in all previous years), but the ICR (para.77) does not provide any explicit justification
+   for this change.
+
+
+
+
+b. Fiduciary Compliance
+   The PAD rates the Fiduciary risks as Substantial (PAD, p.46). As of July 2017, the overall risk rating of the
+   Program was reduced from Substantial to Moderate primarily because of the reduction of fiduciary risks.
+   As fiduciary risks became moderate over time, the ICR did not identify any compliance issues that had
+   posed a threat to Program implementation (ICR, para.78).
+
+
+
+                                                                                                   Page 14 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     RW Public Sector Governance P4R (P149095)
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   Poverty and shared prosperity. The Program did not directly impact poverty reduction and shared
+   prosperity. Nonetheless, improvements contributed to the goals envisioned in EDPRS 2, i.e., accelerating
+   private sector-led growth and reducing poverty (ICR, para.59). Rolling out IFMIS at the sector level made
+   easier the consolidation of financial information at the district level, data security, and sector financial
+   accountability. The PAD (p. 41) cited research by the Overseas Development Institute pointing to the
+   eventual economic impact of PFM reforms: macroeconomic stability, service delivery enhanced by regular
+   payment of salaries, and state building. However, the PforR results framework was not set up to measure
+   these impacts since they go beyond the scope of the PDO.
+
+
+
+d. Other
+   None.
+
+
+
+10. Ratings
+                                                                                Reason for
+Ratings                         ICR                   IEG
+                                                                                Disagreements/Comment
+Outcome                         Satisfactory          Satisfactory
+
+Bank Performance                Satisfactory          Satisfactory
+
+Quality of M&E                  Substantial           Substantial
+
+Quality of ICR                  ---                   Substantial
+
+
+11. Lessons
+
+The following are the key lessons from the ICR (pp.28-30) with some adjustment in language:
+
+The prerequisite for the success of the PforR instrument is a well-developed reform program
+that has been defined and is fully owned by the government. The national program shaped the
+Program’s design by identifying areas in need of additional support with the World Bank’s value-
+added engagement. The existence of a clear national program of work clearly delineated the
+Program boundary.
+
+The involvement of the Supreme Audit Institution in the verification protocol of DLIs can
+increase accountability of the Program as long as the Supreme Audit Institution is
+independent and the strong commitment to results is shared at the highest level of the
+government. For Rwanda, the Office of the Auditor General conducted verification of all DLIs
+except for one, which was related to an unqualified audit opinion. A dedicated team within the Office
+of the Auditor General was established and conducted verification for the entire Program
+
+                                                                                                   Page 15 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     RW Public Sector Governance P4R (P149095)
+
+
+
+implementation period. This team had sufficient competence, institutional and behavioral
+independence in relation to the executing agencies to carry out independent verification of DLI
+results. Learning by doing served to strengthen ownership of Program results, provided added
+clarity in the accountability for achieving results, and built institutional capacity.
+
+PDO results indicators need to be closely connected to intermediate indicators and DLIs
+through a robust Theory of Change. A well-structured results chain based on a set of logical and
+achievable steps reflecting the PDO indicators and DLIs is essential to the success of the PforR.
+Clear linkages between the PDO indicators, intermediate indicators, supporting DLIs, operation
+interventions should be established and incorporated into the Program’s results framework as well
+as operation interventions.
+
+The success of the Program requires close and frequent monitoring and engagement and
+greater supervision by the task team. The nature of the PforR enabled the Government of
+Rwanda and World Bank to focus on technical issues rather than ICT procurement processes, which
+typically consumes supervision of Investment Project Financing. The Program required enhanced
+supervision in terms of the depth of technical expertise and the rigor of monitoring to support
+achievement of the DLIs and PAPs.
+
+
+
+12. Assessment Recommended?
+
+  Yes
+  ASSESSMENT_TABLE
+  Please Explain
+  This Program was one of the first Bank operations using the PforR lending instrument and the first governance
+  PforR in Rwanda. The Program achieved significant results in enhancing transparency and accountability. An
+  assessment could also take a comparative look at Rwanda’s Agriculture PforR, approved in 2015. The lessons
+  from the ground would be useful for other countries which may be considering use PforR.
+
+
+
+13. Comments on Quality of ICR
+
+The ICR provides a good description of key achievements and effectively highlights the shortcomings, or areas
+that the Bank could do better, such as better linking the DLIs to the PDO indicators, and assesses the extent of
+achieving outcomes in most cases.
+
+The ICR could have suggested a higher level of ambition for DLI 5. In assessing the achievement of Objective
+3, the ICR could have explained activities supported by the Program more clearly in improving “quality” of
+development data for decision making. The ICR also has some discrepancies between data provided in the
+main text and in the Annex tables (e.g., IRI 2.3 actual percentage achieved at completion, the unit of DLI2, and
+the baseline of DLI6). In another example, the ICR (para. 58) mentions “There were no specific interventions
+under the Program to foster gender issues…,” while later on (para. 79) it states that the Program did support
+
+
+
+                                                                                                   Page 16 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     RW Public Sector Governance P4R (P149095)
+
+
+
+gender initiatives. However, IEG notes that these discrepancies are relatively minor, and did not prevent IEG’s
+validation of achievement of objectives.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                  Page 17 of 17
+

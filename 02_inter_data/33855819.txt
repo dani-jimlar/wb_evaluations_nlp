@@ -1,0 +1,739 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Obsolete Pesticides Management Project (P131778)
+
+
+
+                                                                                 Report Number: ICRR0022986
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P131778                                    Obsolete Pesticides Management Project
+
+ Country                                    Practice Area(Lead)
+ Cote d'Ivoire                              Environment, Natural Resources & the Blue Economy
+
+
+ L/C/TF Number(s)                          Closing Date (Original)                Total Project Cost (USD)
+ TF-A0742                                  30-Oct-2020                                            6,994,436.75
+
+ Bank Approval Date                        Closing Date (Actual)
+ 25-Aug-2015                               30-Jun-2021
+
+                                           IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                             7,000,000.00                                    7,000,000.00
+
+ Revised Commitment                              7,000,000.00                                    7,000,000.00
+
+ Actual                                          6,994,436.75                                    6,994,436.75
+
+
+
+
+ Prepared by                Reviewed by                  ICR Review Coordinator          Group
+ Chikako Miwa               Christopher David            Christopher David Nelson        IEGSD (Unit 4)
+                            Nelson
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objective (PDO) is “to improve the management of obsolete pesticides and
+   associated wastes in the Recipient's territory by the Recipient and other stakeholders” (Grant Agreement,
+   Schedule 1, page 5). The PDO in the Grant Agreement was identical to that in the PAD (para 17), except for
+   that the latter addressed the Recipient’s territory as “Côte d’Ivoire” and the Recipient as “the Government.”
+
+
+
+
+                                                                                                   Page 1 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Obsolete Pesticides Management Project (P131778)
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component 1: Strengthening the Regulatory and Institutional Framework (Estimate: US$1.90 million,
+   Actual: US$2.17 million, 114 percent of the estimate) intended to strengthen the regulatory and institutional
+   frameworks for pesticides management. The component had two subcomponents. Subcomponent 1.1:
+   Strengthening the Regulatory Framework Management of Obsolete Pesticides and Associated Wastes
+   implemented activities to support the Government in developing new regulatory instruments and updating
+   existing regulations and laws. Subcomponent 1.2: Strengthening the Institutional Framework implemented
+   activities to strengthen the capacity of the Government and the private entities to manage obsolete
+   pesticides.
+
+   Component 2: Management of Obsolete Pesticides and Associated Wastes (Estimate: US$6.50
+   million, Actual: US$4.23 million, 65 precent of the estimate) intended to improve the efficiency in managing
+   stocks of obsolete pesticides and their associated wastes. The component had three subcomponents.
+   Subcomponent 2.1: Pesticides Inventory implemented activities to design a national inventory based on the
+   preliminary survey conducted during project preparation and the existing international inventory system (i.e.,
+   the Pesticides Stock Management System of the FAO). Subcomponent 2.2: Storage and Disposal of
+   Obsolete Pesticides and Associated Wastes implemented activities to eliminate or safely store inventoried
+   obsolete pesticides and their associated wastes in accordance with international standards and regulations.
+   Subcomponent 2.3. Pesticides Management Information System (MIS) developed a pesticides MIS to
+   provide information on: (i) the quantity and location of obsolete pesticides within the country; (ii) the
+   progress made in safely storing and disposing pesticides; and (iii) the trading and importing of pesticides.
+
+   Component 3: Promotion of Alternatives to Chemical Pesticides (Estimate: US$0.70 million, Actual:
+   US$0.29 million, 41 percent of the estimate) supported the Government in designing and implementing
+   Integrated Pest Management (IPM) alternatives in pilot areas where pesticide use was high due to the
+   presence of cotton and cocoa farms. The component also supported the inclusion of IPM in educational
+   curricula.
+
+   Component 4: Project Management (Estimate: US$1.70 million, Actual: US$2.40 million, 141 percent of
+   the estimate) supported the Integrated Projects Administration Unit (IPMU) in the Ministry of Environment
+   and Sustainable Development (MINEDO: Ministère de l’Environnement et du Développement Durable) to
+   conduct the overall daily administration of the project including Monitoring and Evaluation (M&E), Financial
+   Management (FM), procurement, and audits.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost: At appraisal, the project was estimated to cost US$10.80 million (PAD, para 35). At project
+   closing, the actual cost was US$9.09 million (ICR, Annex 3, page 47).
+
+
+
+
+                                                                                                    Page 2 of 14
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Obsolete Pesticides Management Project (P131778)
+
+
+
+   Financing: At appraisal, the project was planned to be financed by US$7.00 million grant from the Global
+   Environment Facility (GEF) (PAD, para 35). At project closing, the actual disbursements were approximately
+   US$6.99 million from the GEF (ICR, Table 3.1, page 41).
+
+   Recipient Contribution: At appraisal, US$ 3.80 million was planned to be contributed by the Government
+   (PAD, para 35). At project closing, the actual government contributions were US$2.28 million (ICR, Table
+   4.2, page 52).
+
+   Dates: The project was approved on August 25, 2015 and became effective on January 19, 2016. The Mid-
+   Term Review was published on May 9, 2019. The project closed on June 30, 2021, after a closing date
+   extension of eight months from the original closing date of October 30, 2020.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and Sector Context: Agriculture is the primary income earner for more than half the population of
+the country, though the agriculture sector’s contribution to GDP decreased from about 26.7 percent of GDP
+in 2011 to about 20.6 percent in 2019 (ICR, para 3). The country has been the world’s largest producer of
+cocoa (40 percent) (ICR, para 3). Intensive and widespread use of pesticides has been a significant driver
+of the intensification of agriculture in Côte d’Ivoire. At appraisal, illegally imported pesticides were estimated
+to be approximately 20,000 tons per year, which was larger than the estimate of legally commercialized
+pesticides of 13,300 tons per year (PAD, para 5). The quantity of pesticides commercialized by the
+members of CropLife, an international trade association of agrochemical companies was 9,983 tons in
+2014, which accounted for only 75 percent of the total quantity of legally commercialized pesticides (PAD,
+para 5). Inappropriately managed pesticides have the potential to result in serious adverse impacts,
+including: (i) the accumulation of obsolete pesticides and associated wastes; (ii) high economic costs to
+farmers; (iii) dispersal of pesticides into the natural environment (soil, water, and air) causing negative
+impacts on fauna and flora; and (iv) negative impacts on human health due to residual pesticides in the
+environment and food crops as well as from direct contact with pesticides during their use. About 44
+percent of farmers around the world were poisoned by pesticides every year, according to a review of the
+World Health Organization’s Mortality Database (ICR, para 5).
+
+Relevance to Government Strategies: At appraisal, no national strategy for management of obsolete
+pesticides and associated wastes was in place. The project envisaged to support the Government to
+prepare the national strategy under Subcomponent 1.2 (ICR, para 15). The PDO was in line with the
+Government’s commitment to the Stockholm Convention on Persistent Organic Pollutants (POPs),
+Rotterdam Convention on International Trade of Hazardous Chemicals Based on Prior-Informed-
+Consensus, and Basel Convention on Control of Transboundary Movement of Hazardous Wastes and their
+Disposal, all of them were ratified by the country in 2003 (PAD, para 10). At project closing, the PDO was
+in line with the national strategy for management of obsolete pesticides and associated wastes, which was
+prepared under the project (ICR, para 44), and the international conventions listed above.
+
+Relevance to Bank Assistance Strategies: At appraisal, the PDO was in line with the last Country
+Partnership Strategy (CPS) FY10-13, in particular, its Outcome 2.3: “Strengthened Protection of the
+Environment and Natural Resources” under Pillar 2: “Improving the Performance of the Agriculture Sector”
+
+                                                                                                        Page 3 of 14
+                                      Independent Evaluation Group (IEG)                     Implementation Completion Report (ICR) Review
+                                      Obsolete Pesticides Management Project (P131778)
+
+
+
+               (CPS, page 27). The PDO was also in line with the Systematic Country Diagnostics (SCD) published in
+               2015, which pointed out the excessive use of chemical fertilizers and pesticides in the country in early
+               2000s, that might contribute to soil and water pollution (SCD, para 6.38). At project closing, the PDO was
+               weakly aligned with the Country Partnership Framework (CPF) FY16-19, which was extended through
+               FY21. The project was expected to support CPF’s Objective 1: “Improve Productivity in
+               Agriculture/Agribusiness Value Chains” under Focus Area One: “Accelerating Sustainable Private Sector-
+               Led Growth” (CPF, Annex 1, page 38), by reducing adverse impacts from the obsolete pesticides to the
+               environment and thus contributing to improving management of threats to agricultural production caused by
+               climate change and natural disasters in the long term (CPF, para 44).
+
+               Parallel Sector Experience: This project was designed to build upon the efforts and funding of the parallel
+               projects supported by the World Bank to enhance sustainable and efficient use of pesticides, such as; (i)
+               the Agricultural Sector Support Project (P119308, FY14-18), which aimed for enhancing productivity
+               enhancement including through more environmentally sustainable use of pesticides; and (ii) the West Africa
+               Agricultural Productivity Program APL for Burkina Faso and Côte d’Ivoire (P117148, FY11-17), which aimed
+               for a sustainable increase in productivity while supporting regional integration as means of achieving shared
+               growth and poverty alleviation in West Africa (PAD, para 12).
+
+               The PDO aligned with the Government’s commitments to the international conventions for protections of the
+               environment and the national strategy for management of obsolete pesticides and associated wastes at
+               project closing, as well as the World Bank’s CPS at appraisal. While the PDO’s alignment with the CPF at
+               project closing was weak, there is an assumption that better management of pesticides will improve
+               agriculture practices and thus have a long-term impact on greater opportunity in farmer value chains.
+               Overall, the relevance of objectives is rated substantial.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             Improve the management of obsolete pesticides and associated wastes in Côte d’Ivoire by the Government
+                             and other stakeholders
+
+                             Rationale
+                             Theory of Change (TOC): The project envisioned that the activities including supporting the Government to
+                             draft and approve laws, regulations, and a national strategy would result in outputs including the new and
+                             updated decrees and regulations and the new national strategy on management of obsolete pesticides and
+                             associated wastes, contributing to an outcome of strengthened regulatory and institutional framework for
+                             the management of obsolete pesticides and associated wastes. The TOC also envisioned that
+                             researching, providing training, piloting the use of biopesticides, and supporting education for integrated
+
+                                                                                                                           Page 4 of 14
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   Obsolete Pesticides Management Project (P131778)
+
+
+
+pest management would result in outputs including the pilots implemented to test the use of alternatives to
+chemical pesticides and the management of farmer field schools and local field school established, also
+contributing to an outcome of strengthened regulatory and institutional framework for the management of
+obsolete pesticides and associated wastes. The project envisioned that the activities including inputting
+information on obsolete pesticides to FAO’s Pesticides Stock Management System (PSMS) and developing a
+pesticides management information system (MIS) would result in outputs including the development of a
+national inventory and the MIS to monitor progress in storing, disposing, and trading pesticides, contributing
+to an outcome of reduction of the stockpiles of the obsolete pesticides and associated wastes. Critical
+assumptions here were that: (i) the Government was committed for sufficient budgetary and administrative
+support for the long term; (ii) the Government strengthened partnerships with the private entities to share
+storage and disposal costs; and (iii) the Government developed sufficient technical capacity for safe
+collection, transport, and disposal of obsolete pesticides and associated wastes. In the long-term, those
+outcomes listed above were envisioned to contribute to reducing use of synthetic and potentially dangerous
+pesticides and adverse impacts from the obsolete pesticides to the environment and human health, as well as
+to improving management of threats to agricultural production caused by climate change and natural
+disasters.
+
+Outputs (ICR, para 31-54 and Annex 1):
+
+      The national strategy for management of obsolete pesticides and associated wastes was designed,
+         not meeting the target of being budgeted and implemented at project closing. However, as of March
+         2022, the strategy, on-going budget, action plan, and public and private partners for implementation
+         have been validated by the technical and steering committee of the project (representing key private
+         partners, agencies and ministries) (ICR team’s response to IEG’s questionnaire, hereafter, ICR team’s
+         response).
+        3 Pesticides Committees were functional, meeting the target of 3 committees.
+        Legislative and regulatory measures for obsolete pesticides and associated wastes were drafted and
+         enforced, partially meeting the target of being implemented with the corresponding budget. The
+         project supported development of the law on reducing fraudulent pesticide trade and increasing
+         enforcement measures, which entered into force in the country on January 18, 2022 (ICR team’s
+         response).
+        The inventory of obsolete pesticides and associated wastes was substantially completed and the
+         inventory’s data was incorporated into a newly developed Management Information System (MIS) on
+         obsolete pesticides, meeting the target.
+        The MIS on obsolete pesticides was established and became functional, durable, was in use, and
+         data was available to the public, meeting the target.
+        Results of the pilot in the cocoa-growing area in the town of Azaguié to demonstrate the use of two
+         biopesticides (i.e., Astoun and Neco in trade names) against brown rot of cocoa pods (i.e.,
+         phytophthora palmivora) as alternatives to chemical pesticides were available and sufficiently
+         disseminated, meeting the target (ICR, para 48).
+        Direct project beneficiaries were 153,279 people, exceeding the target of 100,000 people. Female
+         beneficiaries accounted for 51 percent of the total direct project beneficiaries, meeting the target of 50
+         percent. The data used to inform this indicator were the number of attendants to meetings, workshops,
+         and awareness raising sessions (ICR, page 35). Though this indicator was designed as a PDO
+         indicator that was required at the corporate level, it measured output-level achievements given the
+         engagement with activities.
+
+
+                                                                                                     Page 5 of 14
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Obsolete Pesticides Management Project (P131778)
+
+
+
+In addition to the outputs defined in the Results Framework, the ICR reported on the following achieved
+output which did not have any formal targets.
+
+      The National Guide on Biopesticides for the cocoa sector was developed and disseminated, with an
+       aim to enhance environmental sustainability (ICR, para 49).
+
+Outcomes (ICR, para 31-54 and Annex 1):
+
+      329 metric tons of Persistent Organic Pollutants (POPs) and POP wastes were destroyed, disposed or
+       contained in an environmentally sound manner, exceeding the target of 250 metric tons (131 percent
+       of the target). The total eliminated POPs and POP wastes consisted of 318.3 metric tons of obsolete
+       pesticides and 10.7 metric tons of associated wastes. These were eliminated in incinerators at very
+       high temperatures (850 to 1200 degrees Celsius) to comply with the international and national
+       regulations.
+            o 329 metric tons of OPs and associated wastes were safely contained at targeted sites, more
+               than tripling the target of 100 metric tons.
+            o 329 metric tons of OPs and associated wastes were safely disposed of, more than doubling of
+               the target of 150 metric tons.
+      81 percent of data in the national inventory on obsolete pesticides and associated wastes was publicly
+       accessible, meeting the target of 80 percent. The remaining 19 percent of the data were not published
+       due to its sensitivity and its link with the private sector.
+
+In addition to the outcomes defined in the Results Framework, the ICR reported on the following achieved
+outcomes which did not have any formal targets.
+
+      The yields of cocoa increased from 750 kg per ha to 2 tons per ha in cocoa farms with an average of
+       50 trees per ha during the 2019 campaign, according to the farmers’ cooperative in the pilot area
+       which applied one of the biopesticides introduced under the project (i.e., Astoun) (ICR, Annex 4, page
+       48). The project selected a farm which had not used chemical pesticides for approximately 10 years
+       as a pilot site to test biopesticides (ICR team’s response). The biopesticides’ effectiveness to kill the
+       fungus that caused brown root rot in cocoa trees was demonstrated, resulting in a recommendation in
+       the stakeholder meeting to test the biopesticides in all four areas of the Agneby Cacao program (ICR
+       team’s response).
+      108 Departmental Committees for the Fight against Illegal Pesticides (CDLPIs: Comités
+       départementaux de lutte contre les pesticides illégaux) were set up in February 2017 by an inter-
+       ministerial decree, contributing to the reduction of fraud in pesticide commerce at land borders (ICR,
+       para 67). After awareness raising activities and other prevention activities were conducted, fewer
+       markets in target areas had fraudulent pesticides for sale, according to anecdotal reports (ICR team’s
+       response).
+
+Referring to the TOC above, the two envisioned outcomes were achieved. Some evidence outside the
+Results Framework implied a potential for the reduced use of hazardous chemical pesticides in the long-term,
+though additional evidence was needed for further assessment. Overall, the efficacy is rated substantial.
+
+
+
+Rating
+
+                                                                                                   Page 6 of 14
+                               Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+                               Obsolete Pesticides Management Project (P131778)
+
+
+
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The efficacy is rated substantial because the two envisioned outcomes were achieved.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+    5. Efficiency
+   Economic Analysis: At appraisal, no Internal Rate of Return (IRR) was presented. The PAD (para 57) only
+   qualitatively assessed the potential costs and benefits. At project closing, no IRR was presented. No reliable
+   data was available, regarding the costs covering countrywide facilities and agricultural producers (ICR, Annex 4,
+   page 50) and illegally imported pesticides (ICR, Annex 4, page 49).
+
+   Cost-Effectiveness Analysis: At appraisal, the estimated cost per unit for disposing obsolete pesticides under
+   the project was US$3,900 per metric ton (PAD, para 58). At project closing, the actual cost per unit of disposed
+   obsolete pesticides was US$3,599 per metric ton (ICR, Table 4.1, page 49). The actual unit cost of disposal was
+   also compared with that of the other Persistent Organic Pollutants management projects funded by the World
+   Bank. The actual unit cost of disposal in the country was lower than US$4,183 per ton in Moldova and US$
+   5,700 per ton in Mali, but slightly higher than US$3,400 per ton in Egypt and US$3,103 per ton in the regional
+   program and more than doubled US$1,545 per ton in Belarus (ICR, Table 4.1, page 49).
+
+   Aspects of Design and Implementation that Affected Efficiency: The actual costs for project management
+   (i.e., for Component 4) increased to 140 percent of the estimate at appraisal, accounting for 26 percent of the
+   total project costs at project closing (ICR, Annex 3, page 47). The ratio of the project management costs over
+   the total project costs (i.e., 26 percent) was higher than those for similar obsolete pesticides projects such as 20
+   percent in Mali (P146247), 7.2 percent in Philippines (P106885), 6.8 percent in Moldova (P090037), and 1.8
+   percent in Belarus (P111110) (ICR team’s response). Even though the project expanded the scope of inventory
+   to cover 4,072 sites, which was over 10 times the number of sites covered by typical inventory operations (ICR,
+   Annex 4, page 51), the high ratio of the project management costs over the total project costs implied low
+   implementation efficiency in terms of project management. The project closing date was extended for 9 months,
+   mainly due to the external factors including: (i) the new national budget allocation system which delayed
+   transferring budgets to the project’s 2020 annual work plan for 6 months; and (ii) the restrictions of physical
+   movements due to the COVID-19 (ICR, Annex 4, page 50). The prolonged process to ensure MIS
+   operationalization, however, resulted in the lack of data to calculate the ex-post IRR.
+
+
+
+
+                                                                                                                          Page 7 of 14
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      Obsolete Pesticides Management Project (P131778)
+
+
+
+The actual costs per unit for disposing obsolete pesticides under the project was lower than the estimate at
+appraisal. The implementation delays were largely explained by factors external to the project. Overall,
+efficiency is rated substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?             Point value (%)          *Coverage/Scope (%)
+                                                                                    0
+ Appraisal                                                  0
+                                                                                     Not Applicable
+                                                                                    0
+ ICR Estimate                                               0
+                                                                                     Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of objectives is rated substantial because the objectives were in line with the strategies of the
+government and the Bank’s assistance. The efficacy is rated substantial because the two envisioned outcomes
+were achieved. The efficiency is rated substantial because the actual costs per unit for disposing obsolete
+pesticides under the project was lower than the estimate at appraisal. The project’s outcome is thus rated
+satisfactory.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+The two risks to development outcome that were described in the ICR (para 99) are presented below.
+
+Risks Related to Institutional Support: There was a risk that a further prolonged process of the
+Government to adopt the regulations on pesticides management could result in increasing accumulation of
+stocks of obsolete pesticides in the future (ICR, para 99). To mitigate the risk, the project supported
+development of the law on reducing fraudulent pesticide trade and increasing enforcement measures, which
+entered into force on January 18, 2022 (ICR team’s response). In addition, the project conducted a workshop
+in December 2021 with CropLife’s support for strengthening the regulatory framework (ICR team’s
+response).
+
+
+                                                                                                    Page 8 of 14
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Obsolete Pesticides Management Project (P131778)
+
+
+
+Risks Related to Government Commitment: There was a risk that if the Government could not provide
+budgetary support to the relevant department in the Ministry of Agriculture and Rural Development
+(MINADER) to manage the pesticide Management Information System (MIS), it might not be able to
+contribute to sustain the project’s outcomes in the longer term. To mitigate the risk, MINADER pursued a
+budget extension for continued financing to sustain operation of the MIS (ICR team’s response).
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  Technical, environmental, and social aspects were adequately addressed by ensuring the provision of the
+  necessary technical assistance from the World Bank staff and the locally hired consultants. M&E
+  arrangements and risk assessments were sufficient. In addition, the project coordinated with the other
+  World Bank operations and the other development partners to ensure complementarity among the
+  existing activities. As a result, parallel financing of US$2 million was provided from CropLife CI, US$6
+  million from the German Agency for International Cooperation, US$6 million from the French government,
+  and US$14 million from another World Bank project (ICR, para 93). The strategic relevance and
+  approach were adequate in general, as described in Section 3. On the other hand, the fiduciary aspects
+  were not adequately considered, as the institutional capacity of the Integrated Projects Administration
+  Unit (IPMU) for financial reporting, disbursements, and procurement proved to be limited. Overall, the
+  quality at entry is rated satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ Supervision inputs and processes through implementation support missions were adequate, as the project
+ task team conducted a total of eight missions biannually to supervise and support implementation support
+ missions (ICR, para 96). The focus on development impact was adequate in general. However, the project
+ heavily focused on the reduction of the stockpiles of the obsolete pesticides and associated wastes, with
+ lighter focus on promotion of alternatives to chemical pesticides, resulting in the actual expenditure for
+ Component 3 to be 41 percent of the original estimate, as described in Section 2.d. Supervision of fiduciary
+ aspects was not adequate; because, the IPMU’s insufficient fiducial management capacity that was
+ identified at appraisal was not strengthened in early periods of project implementation (ICR, para 80),
+ resulting in the delay in justification of the accounts-receivable balance that were pointed out in auditors’
+ qualified opinions (ICR, para 91). The high ratio of the project management costs over the total project
+ costs implied inefficiency in project management, as described in Section 5. Overall, the quality of
+ supervision is rated moderately satisfactory.
+
+
+
+
+                                                                                                   Page 9 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Obsolete Pesticides Management Project (P131778)
+
+
+
+ Considering the satisfactory rating at entry and moderately satisfactory rating during supervision, the
+ overall bank performance is rated moderately satisfactory, based on the harmonized guideline by IEG and
+ OPCS.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The indicators were specific, measurable, and time-bound in general. The baseline and targets were
+ available for all indicators. The M&E manual was prepared to provide a detailed explanation of each
+ indicator and verification methodology (ICR, para 82).The objective did not explicitly present outcomes that
+ the project envisioned to achieve, as described in the TOC in Section 4. The PDO indicators were able to
+ measure the outcomes on reduced stockpile of obsolete pesticides and on strengthened regulatory and
+ institutional framework, but not the longer-term outcome on reduced use of chemical pesticides. The
+ corporate-wide PDO indicator on the number of direct beneficiaries measured outputs, as described in
+ Section 4. The M&E design and arrangements were not well-embedded institutionally, considering that an
+ M&E specialist at the Integrated Project Administration Unit (IPMU) who was hired by the existing Forest
+ Carbon Partnership Facility Reduced Emissions from Deforestation and Degradation+ (FCPF REDD+)
+ project funded by the World Bank (PAD, Annex 3, page 38).
+
+
+
+b. M&E Implementation
+  All the indicators in the Results Framework were measured and reported. On the other hand, the agency
+  responsible for M&E lacked a centralized system for archiving of key project documents, which might
+  have posed a challenge for the IPMU’s in tracking budgets by components (ICR, para 83). The M&E
+  functions and processes were unlikely to be sustained after project closing because no evidence was
+  provided regarding to what extent technical transfer was made from the M&E specialist hired by the
+  parallel project to the Ministry of Environment and Sustainable Development’s staff.
+
+
+
+c. M&E Utilization
+  M&E findings informed the PIMU to identify the activities that were affected by the shortfall of the funding
+  from the Government and modify the activities to reduce the costs while meeting the results (ICR, para
+  85). In addition, the M&E process supported the contractor to ensure compliance with the Environmental
+  and Management Plan (ICR, para 85).
+
+
+
+
+                                                                                                    Page 10 of 14
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Obsolete Pesticides Management Project (P131778)
+
+
+
+  The M&E design, implementation, and utilization were adequate to provide evidence on achievements of
+  outcomes, in spite of a few shortcomings in the M&E design. Overall, the M&E quality is rated
+  substantial.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   Environmental Safeguards: The project was classified as environmental category A (full assessment) and
+   triggered two World Bank safeguards policies: Environmental Assessment (OP/BP 4.01) and
+   Pest Management (OP 4.09). An overall Environmental and Social Impact Assessment was carried out,
+   leading to the preparation of an Environmental and Social Management Framework (ESMF), including an
+   Environmental and Social Management Plan (ESMP). The ESMP outlined procedures and
+   preventive/mitigation measures to manage environmental and social risks associated with: (i) registering
+   obsolete pesticides and associated wastes in the original place to the inventory; (ii) transporting obsolete
+   pesticides and associated wastes, and treating polluted sites; (iii) disposing obsolete pesticides and
+   associated wastes; and (iv) responding to emergency situations on sites identified by the inventory (ICR,
+   para 87). No additional ESMP for the contractor (i.e., Ruegg Matray Group Côte d’Ivoire) was deemed
+   necessary, given that the contractor met all national and international standards for storage and disposal of
+   obsolete pesticides (ICR, para 87). Collection, transport, and disposal of obsolete pesticides and associated
+   waste were conducted without incident and in compliance with the World Bank’s policies and guidelines.
+   The operations were reviewed and approved by the Ivorian Anti-pollution Center (CIAPOL: Centre Ivoirien
+   Antipollution) and the project before implementation. No case of intoxication was detected during the post-
+   inventory cholinesterase tests (ICR, para 88). At the time of the ICR, the remaining activities were the
+   cleanup of the sites used for removal or collection of obsolete pesticides and associated wastes, as well as
+   the verification of sites cleaning by an expert, based on the agreement with FAO and the support of
+   CIAPOL. On the other hand, the grievance redress mechanism was not compliant with the World Bank’s
+   standards due to missing records of oral complaints received (ICR, para 90). No social specialist was in the
+   IPMU until May 2020, potentially reducing the project’s ability to monitor social safeguards instruments
+   (ICR, para 90).
+
+
+
+
+b. Fiduciary Compliance
+   Financial Management (FM): At appraisal, the fiduciary aspects were arranged to be under the
+   responsibility of the Integrated Project Administration Unit (IPMU) of this project and the existing Forest
+   Carbon Partnership Facility Reduced Emissions from Deforestation and Degradation+ (FCPF REDD+)
+   project, considering the project team of FCPF REDD+’s experience with the procedures of the World
+   Bank’s projects and the potential for economies of scale (ICR, para 80). However, the IPMU’s inadequate
+   capacity for financial reporting, disbursements, and procurement was revealed (ICR, para 80). The
+   financial management slowly improved by the World Bank’s support including from an FM specialist based
+   in the World Bank office in Abidjan who conducted regular implementation support missions (ICR, para
+
+                                                                                                  Page 11 of 14
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Obsolete Pesticides Management Project (P131778)
+
+
+
+   91). The interim financial reports non-audits were prepared and submitted by the deadlines agreed in the
+   financing agreements and were all deemed acceptable. The provisional audit reports and the FY20 audit
+   report were submitted in a timely manner. However, the majority of the reports were issued with qualified
+   opinion due to the delay in justification of the accounts-receivable balance (ICR, para 91). No explanation
+   was provided in response to IEG’s inquiry regarding how the external auditors’ opinions mentioned in the
+   ICR (para 91) had been addressed.
+
+   Procurement: Procurement activities were conducted in line with the World Bank’s procurement
+   guidelines and the project’s procurement plans. According to the last post review conducted in March
+   2019, procurement arrangements aligned with the workload were still in place, while there were
+   shortcomings in procurement process and contract administration: (i) inaccurate evaluation criteria; (ii)
+   missing documents in the Call for Expressions of Interest; (iii) the evaluators systematically averaging their
+   score instead of harmonizing it; (iv) long procedures; (v) errors in the appraisal report; (vi) cost overruns;
+   and (vii) exceeding of execution deadlines (ICR, para 92). The Procurement Rating was downgraded from
+   satisfactory to moderately satisfactory, based on the findings in the review in March 2019 (ISR Seq No: 8
+   dated June 10, 2019). Though some training was provided to the procurement team based on
+   recommendations to address the shortcomings identified in the review (ICR team’s response), the
+   Procurement Rating remained moderately satisfactory until project closing (Operations Portal).
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   No unintended impacts to global health were observed through the disposal of obsolete pesticides and
+   associated wastes, as the disposal was adequately handled to eliminate any threat of release of
+   unintended persistent organic pollutants such as dioxins and furans (ICR, para 52).
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                  Reason for
+Ratings                         ICR                     IEG
+                                                                                  Disagreements/Comment
+Outcome                         Satisfactory            Satisfactory
+                                                                                  The quality at entry is rated
+                                                                                  satisfactory. The quality of
+                                                                                  supervision is rated moderately
+                                                                                  satisfactory because the project
+                                                                                  management cost ratio was
+Bank Performance                Satisfactory            Moderately Satisfactory   comparatively high among the
+                                                                                  obsolete pesticides
+                                                                                  management projects in other
+                                                                                  countries. Overall, the bank
+                                                                                  performance is rated moderately
+                                                                                  satisfactory.
+
+                                                                                                    Page 12 of 14
+       Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+       Obsolete Pesticides Management Project (P131778)
+
+
+
+Quality of M&E                   Substantial              Substantial
+
+Quality of ICR                   ---                      Substantial
+
+
+12. Lessons
+
+The ICR (para 100-104) provided five lessons. Some of them are presented below with editing
+because they may provide lessons of interests for other obsolete pesticides management projects.
+
+Regional disposal of obsolete pesticides and associated wastes in Côte d’Ivoire can be an
+option for future similar projects in other countries in the region, given it is pursuant to
+international and regional agreements (i.e., the Basel, Rotterdam, and Bamako Conventions) and
+environmental standards and safeguards. The disposal firm contracted under the project, Ruegg
+Matray Group Côte d’Ivoire, disposed of the obsolete pesticides and associated wastes in line with
+environmental standards and with reasonable costs of disposal (ICR, para 57). Considering that
+FAO’s pricing models have not changed over the past decade, the cost of disposal has the potential
+to drop further with economies of scale and additional experience (ICR, para 100).
+
+Narrow focus on disposal of stockpiles of obsolete pesticides and associated wastes can
+limit effectiveness of projects to incentivize stakeholders to shift from chemical pesticides to
+biopesticides. The Results Framework lacked PDO indicators to measure an important
+development result regarding the reduced use of obsolete pesticides, as described in Sections 4.
+While the Integrated Pest Management approach was tested under the project by piloting the use of
+biopesticides to manage brown pod rot and providing training to farmers to reduce reliance on toxic
+pesticides (ICR, para 101), insufficient evidence was captured in the Results Framework regarding
+what outcome was achieved by these activities.
+
+If governments commit to co-financing of project components and not in-kind contributions,
+it might pose a risk of delaying project implementation. The project activities to develop and
+operationalize the pesticides inventory was delayed because the Government was not able to
+provide its committed amount in full and in a timely manner (ICR, para 103). Constraints and
+changes that may affect execution of governments’ budgets include fiduciary constraints within
+budget years, changes in staffing, and other conflicting demands (ICR, para 103).
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provides a detailed overview of the project. The report follows the majority of the guidelines. The
+quality of analysis is aligned to the messages outlined in the ICR in general. The ICR provided clear lessons
+and the supporting evidence. Some gaps in evidence were compensated by the ICR team’s response to IEG’s
+questionnaire. On the other hand, the ICR’s descriptions on the design, implementation, and utilization of M&E
+
+                                                                                                     Page 13 of 14
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Obsolete Pesticides Management Project (P131778)
+
+
+
+were largely focused on project implementation process and less so on monitoring progress in achieving
+development outcomes. No explanation was provided in response to IEG’s inquiry regarding how the external
+auditors’ opinions mentioned in the ICR (para 91) had been addressed. Overall, the quality of the ICR is rated
+substantial.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                  Page 14 of 14
+

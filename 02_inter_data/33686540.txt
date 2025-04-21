@@ -1,0 +1,958 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     PE Optimization of Lima Wat & Sewerage (P117293)
+
+
+
+                                                                                   Report Number: ICRR0022653
+
+1. Project Data
+
+
+
+ Project ID                                  Project Name
+ P117293                                     PE Optimization of Lima Wat & Sewerage
+
+ Country                                     Practice Area(Lead)
+ Peru                                        Water
+
+
+ L/C/TF Number(s)                            Closing Date (Original)                Total Project Cost (USD)
+ IBRD-80250,IBRD-84680                       31-Oct-2016                                          98,799,862.39
+
+ Bank Approval Date                          Closing Date (Actual)
+ 07-Apr-2011                                 31-Dec-2020
+
+                                             IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                            54,500,000.00                                                0.00
+
+ Revised Commitment                             98,799,862.39                                                0.00
+
+ Actual                                         98,799,862.39                                                0.00
+
+
+
+
+ Prepared by                 Reviewed by                   ICR Review Coordinator          Group
+ Fernando Manibog            Vibecke Dixon                 Ramachandra Jammi               IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The project development objective (PDO) is "to improve the efficiency, continuity and reliability of water supply
+   and sanitation services in the Northern Service Area of Lima." (Schedule 1, page 5 of the Loan Agreement
+   dated July 22, 2011)
+
+   For the purposes of this ICR Reviews, the achievement of these two PDOs will be assessed:
+
+
+
+                                                                                                    Page 1 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     PE Optimization of Lima Wat & Sewerage (P117293)
+
+
+
+   PDO 1: To improve the efficiency, continuity and reliability of water supply services in the Northern Service
+   Area of Lima
+
+   PDO 2: To improve the efficiency, continuity and reliability of sanitation services in the Northern Service Area
+   of Lima
+
+   The terms efficiency, continuity, and reliability were defined in terms of specific PDO indicators, as explained
+   in the Efficacy section below. The PDOs would be achieved by rehabilitating water and sewerage networks in
+   the NSAL and improving SEDAPAL’s efficiency, in two phases. Phase One, i.e., the original Project, was
+   approved in 2011 and concentrated in the NSAL, while Phase Two, for which Additional Financing was
+   approved in 2015, expanded the original geographic area covering an adjacent underserviced area in the
+   northern Lima-Callao metropolitan area.
+
+   The PDO was not amended during the restructuring for the Additional Financing, while PDO outcome
+   indicators were revised. A split rating will not be carried out because the revised indicators have a greater
+   level of ambition than the original ones.
+
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   According to the Project Appraisal Document (PAD, pages 6-7), the project was designed for SEDAPAL to
+   follow a two-tier strategy. The first stage was to focus on reducing the WSS system’s physical losses in
+   order to increase water availability, while the second stage consisted of improving operational and
+   commercial management by reducing commercial losses and optimizing technical operations.
+
+   On this basis, the project was comprised of the following three components (cost figures from the ICR's
+   Annex 3, Table A3.1):
+
+   Component 1. Rehabilitation of water and sewerage networks in Northern Service Area of Lima
+   (US$51.3 million at appraisal; US$105.3 million with Additional Financing; US$95 million actual)
+
+   This component included the rehabilitation of the water and sewerage networks in First Northern Service
+   area of Lima. To reduce losses and improve the management of the rehabilitated network, the component
+   also intended to: (i) rehabilitate water reservoirs to expand storage capacity and stabilize pressure; (ii)
+   replace household connections and install of new domestic water meters; and (iii) enable sectorization by
+   installing bulk water meters and valves. It was intended that the physical investments would be
+   complemented by social interventions such as gender-tailored initiatives to manage consumption (e.g.,
+
+                                                                                                     Page 2 of 18
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    PE Optimization of Lima Wat & Sewerage (P117293)
+
+
+
+  training in how to use in-house water-saving equipment) thereby facilitating the transition to a full-pressure,
+  continuous and metered service.
+
+  Component 2. Improving SEDAPAL’s Efficiency (US$1.9 million at appraisal; US$0.9 million actual)
+
+  This component included consultant services and studies to equip SEDAPAL’s management with decision-
+  making tools for improving efficiency. The specific activities would cover four areas: (a) GIS implementation,
+  including a cadastre evaluation to select priority zones and identify the process for updating, and associated
+  training; (b) standardization and consolidation of SCADA information technology, including support for
+  preparing a SCADA Master and Investment Plan to ensure the compatibility of current and future SCADA
+  strategies; (c) preparation of a strategy to meet user demand for water and sanitation service, by evaluating
+  exogenous and endogenous factors that determine demand for WSS services, and the priority actions to
+  meet that demand efficiently; and (d) assessment of options to develop a new organizational model,
+  including a strategic vision for SEDAPAL‟s management to incorporate new technologies, align human
+  resources management with modern practices, identify options for sustainable financing of capital
+  investments, and rearrange institutional structure along functional lines.
+
+  Component 3. SEDAPAL Project Management (US$2.3 million at appraisal; US$2.9 million actual)
+
+  This component was to finance the additional staff needed for project management, the Monitoring and
+  Evaluation System, and the financial audits as well as physical and procurement reviews. The component
+  would also finance individual consultants to (i) strengthen SEDAPAL team’s capacity on communication,
+  procurement, financial management, and (ii) provide training for strategic planning based on the selection of
+  technical options that would enable SEDAPAL to fully comply with its Investment Plans for 2009-2013 and
+  beyond. This component will also support SEDAPAL’s efforts to mainstream good practices and lessons
+  learned.
+
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost. The total estimated project cost was US$137.9 million, of which US$54.5 million was at the
+  original approval date, US$55 million was from Additional Financing, and the rest from counterpart financing
+  (see Borrower contribution below). Component 1 for the rehabilitation of the NSAL water supply and
+  sanitation infrastructure accounted for US$95 million or 88 percent of the total actual disbursement of
+  US$107.8 million.
+
+  Financing. The World Bank financed two loans, as originally approved and through Additional Financing, in
+  the amounts indicated above. Of the total actual US$107.8 million disbursed, US$98.8 (or 92 percent) was
+  financed by the two Bank loans, while US$9 million (or 8 percent) was financed by SEDAPAL. The funds of
+  the original credit (IBRD -8025) were fully disbursed and 80.5 percent of the AF (IBRD-8468) funds were
+  disbursed.
+
+
+
+
+                                                                                                     Page 3 of 18
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     PE Optimization of Lima Wat & Sewerage (P117293)
+
+
+
+   Borrower Contribution. SEDAPAL's counterpart funding commitment was originally US$10.4 million, which
+   was increased to US$28.4 million at the project's restructuring. The actual funding was US$9 million, or 30
+   percent of the original amount.
+
+   Dates. The project was approved on April 7, 2011 and became effective eight months later on December 7,
+   2011. Three years later, a mid-term review was conducted on January 13, 2015, after which Additional
+   Financing was approved (see below). The original closing date was October 31, 2016. With extensions,
+   the actual closing date was four years and two months later on December 31, 2020.
+
+   Additional Financing (AF) was approved by the Bank’s Board on January 25, 2015. The loan amount was
+   US$ 55.0 million, which intended to expand the geographic scope and to scale-up civil works, in support of
+   SEDAPAL’s US$ 187 million second phase of the Lima Norte Program, which included remaining zones
+   that had not been covered in the original loan. JICA and KfW also financed SEDAPAL’s second phase in
+   separate areas of intervention. The ICR indicated that the AF was expected to benefit 239,350 additional
+   people within the NSAL in the districts of Comas and the adjacent underserviced districts of Carabayllo and
+   Los Olivos.
+
+   The project was restructured three times, for the purposes described below:
+
+   October 27, 2016: The first restructuring extended the closing date by 22 months from October 31, 2016
+   until August 31, 2018 to allow completion of consultancy activities to improve SEDAPAL’s capacity and
+   efficiency under Component 2.
+
+   December 19, 2019: The second restructuring extended the AF closing date by six months from December
+   31, 2019 to June 30, 2020 to complete the delayed WSS infrastructure works under Component 1, adjust
+   the implementation schedule accordingly, and modify the disbursement estimates.
+
+   June 30, 2020: The third restructuring again extended the AF closing date by six months from June 30,
+   2020 to December 31, 2020 to complete works that were stopped when GOP declared a COVID-19
+   emergency, and to update the implementation schedule accordingly.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country Background. In 2011 when the project was appraised, Peru was one of the best performing
+economies in Latin America. The stimulus plan of the Government of Peru (GOP) after the 2007-2008
+global economic crisis focused on increasing public spending on infrastructure, which increased private
+investments and domestic demand, and led to an 8.8 percent growth rate in 2010. Peru’s economic growth
+was achieved with significant poverty reduction, with the percentage of the population living in poverty
+decreasing from 48.6 percent in 2005 to 31.3 percent in 2010. Extreme poverty also fell from 17.1 percent
+to 9.8 percent during that period. Despite this growth and poverty reduction, Peru still faced the challenge
+of inclusive growth: poverty levels remained higher in rural areas, especially in the Andean region, while
+urban areas like Lima showed the most inequality.
+
+
+
+                                                                                                  Page 4 of 18
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     PE Optimization of Lima Wat & Sewerage (P117293)
+
+
+
+Sector Background. Poverty was linked to lack of infrastructure access. Another major issue was the
+quality of water supply and sanitation (WSS) services. Prior to appraisal, between 1990 to 2010, the country
+experienced low service standards due to poor operation and maintenance (O&M), outdated infrastructure,
+and insufficient sector financing. In Lima, intermittent water supply, frequent pipe breaks, and water leaks
+frequently occurred. Repeated blockages and broken pipes also plagued the sewerage network due to poor
+building standards and materials. These issues were especially evident in Lima’s northern peri-urban
+area—the Northern Service Area of Lima (NSAL), which is the project area—where non-revenue water
+(NRW) levels reached over 50 percent, and only 37 percent of its population received 24 hours of service a
+day. (ICR, paragraph 4, page 1)
+
+With World Bank support, GOP began WSS sector reforms in the 1990s, which resulted in an institutional
+framework that clarified the roles and responsibilities for policy setting and regulation. The reforms also
+decentralized all WSS provision to sanitation service providers, municipalities and/or water user boards,
+with the exception of Lima’s Water and Sewerage Service utility (Servicio de Agua Potable y Alcantarillado
+de Lima, or SEDAPAL). Four years prior to appraisal, SEDAPAL was able to double its annual number of
+water and sewerage connections and implemented ambitious programs for the rehabilitation of water and
+sewerage networks to reduce physical losses. These programs, which were supported by the Bank,
+focused on the Southern and Central areas of Lima.
+
+In terms of the project’s origins, the need to rehabilitate the NSAL’s aged WSS network became clear when
+SEDAPAL made plans to increase the capacity for delivering drinking water supply in Lima, since the
+increased pressure could entail risks of pipe breaks and leaks that would be difficult to manage. Moreover,
+SEDAPAL’s rapid growth and lack of an information and communication technology strategy resulted in an
+ad hoc approach that risked the sustainability of all of SEDAPAL’s operations. Consequently, SEDAPAL
+sought the World Bank’s support to implement the first phase of the Lima Norte Program, in parallel with the
+support of the Japanese International Cooperation Agency (JICA) and the German Cooperation
+(Kreditanstalt für Wiederaufbau – KfW) for the same overall objective but separate intervention areas under
+the program.
+
+Current Relevance. The PDOs’ current relevance to Peru’s development priorities Bank strategies is
+substantial. The PDOs directly support the government’s strategic goal of creating and promoting
+opportunities for social investment through improvements in access to WSS services by low-income urban
+dwellers, as enunciated in GOP’s 2016-2021 National Development Plan. By reducing non-revenue water
+(NRW), the project would increase the volume of water available, thus allowing SEDAPAL to add low-
+income households to its service area. The PDOs are also aligned with the government’s 2017 National
+WSS Policy and Plan, which aims at “increasing the levels of efficiency of service provision with high
+indicators on quality, continuity and coverage.” Finally, the PDOs support SEDAPAL’s 2017 to 2021
+strategic plan, wherein one of the strategic objectives is to achieve universal WSS coverage and continuous
+(24 hour-a-day) WSS services. With respect to Bank strategies, the PDOs directly support the World Bank
+Group’s Country Partnership Framework (CPF) FY17 – FY21 for Peru, specifically as its “Objective 5:
+Improve WSS services in key urban areas” under “Pillar 2: Services for Citizens across the Territory.” To
+achieve this objective, the CPF highlights the importance of strengthening the efficiency of utilities. More
+specifically, the CPF states that “improving the operational efficiency of the utilities is a critical step to both
+increase access to water and sanitation in urban areas, and enhance the sustainability of these gains.”
+
+Prior Bank Involvement. The World Bank has had a long history of supporting the development of
+Peru's WSS sector. The specific support relevant to this assessment is the rehabilitation programs
+for Lima's networks. Prior to appraisal, in 2008, SEDAPAL developed the first phase of a program for US$
+
+                                                                                                        Page 5 of 18
+                                      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                      PE Optimization of Lima Wat & Sewerage (P117293)
+
+
+
+               211 million to optimize the WSS networks in the NSAL that included: (i) expanding the water treatment and
+               main distribution systems; (ii) improving demand-side management by reducing physical and commercial
+               losses and controlling demand through installation of customer meters, progressive tariff structures, and
+               promotion of in-house water saving devices; and (iii) increasing wastewater treatment capacity in
+               partnership with the private sector.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To improve the efficiency, continuity and reliability of water supply services in the Northern Service Area of
+                             Lima (NSAL)
+
+                             Rationale
+                             Theory of Change.
+
+                             The ICR prepared a theory of change (TOC) as the PAD did not develop one. The ICR's TOC was well
+                             articulated and fully adequate as the overall framework for monitoring the achievement of the PDOs.
+                             Rehabilitation and installation activities were expected to directly result in improvements in the technical and
+                             operational performance of the targeted water and sewerage networks. Management plans and studies
+                             (notably the integration of the SCADA system and GIS) were expected to result in improvements in
+                             SEDAPAL's management efficiency. Finally, engineering consultancy services were expected to enhance
+                             SEDAPAL's project management efficiency. These inputs and outputs, taken together, were causally linked
+                             to the achievement of stronger institutional capacity outcomes as well as enhanced management,
+                             operational, and commercial performance that signals the achievement of PDO outcomes--as measured by
+                             indicators of improved efficiency, continuity and reliability of water supply and sanitation services in the
+                             NSAL. The main critical assumptions and risks are all valid, i.e., the need for timely decisions, competent
+                             contractors, customer support and adoption of water-saving practices, and staff retention throughout project
+                             implementation.
+
+                             Outputs
+
+                             The project’s main activities and outputs to achieve PDO 1 were focused on reducing water losses and
+                             improving operational and commercial management of the WSS systems. To these ends, the main activities
+                             and outputs that were completed under the project were the following:
+
+                                        Installation of 40 km of trunk water mains (The ICR did not provide baseline or target figures.)
+                                        Rehabilitation of 245.3 km of aging and fragile secondary water pipes (original target 250 km;
+                                         restructured target 384 km) - 64 percent, partially achieved
+
+                                                                                                                                    Page 6 of 18
+   Independent Evaluation Group (IEG)                                   Implementation Completion Report (ICR) Review
+   PE Optimization of Lima Wat & Sewerage (P117293)
+
+
+
+
+      Rehabilitation of 64,878 household water connections (original target 35,000 connections; restructured
+         target 69,444 connections) - 93.4 percent, almost fully achieved
+        Installation of 18,788 customer meters (The ICR did not provide baseline or target figures.)
+        Establishment of 26 new district-metered areas (DMA)
+        Installation of the required water valves to control pressure levels and flow meters
+        Digitalization of the WSS networks rehabilitated under the Lima Norte I program in SEDAPAL’s GIS,
+         and registration of commercial and technical cadasters in the GIS
+
+Outcomes
+
+      The project has achieved substantial efficacy in improving the efficiency, continuity, and reliability of
+         water services (the PDO) for 64,878 households in the NSAL, near the target of 69,444 households.
+      NRW-levels were reduced from 40 to 25 percent in the project areas, thus meeting the service
+         efficiency PDO outcome target of 25 percent. SEDAPAL’s NRW levels are competitive with Latin
+         America’s largest, top-performing water utilities.
+        Customer metering and reading levels—essential for commercial loss reductions—increased from 69
+         to 95 percent.
+        Service continuity increased from 16.09 to 23.9 hours a day, achieving the PDO-level target of 24
+         hours. Service reliability—as measured by the annual incidence of pipe breakages per km of water
+         supply—decreased from 0.21 to 0.1. The service reliability outcome is 46.7 percent of the revised
+         PDO-level target (0.07); however, the indicator target was overly ambitious, as discussed in the
+         Monitoring and Evaluation (M&E) section.
+        SEDAPAL was able to update and build a complete record of all its infrastructure, thus enabling it to
+         identify and respond quick to leaks and risks of critical failures, as a direct result of the digitalization of
+         the WSS networks..
+        The registration of commercial and technical cadasters in GIS has enabled SEDAPAL to improve its
+         commercial management and reduce commercial water losses through accelerating its identification
+         and response to illegal connections, issues reported by clients and service suspensions.
+        In turn, the foregoing outcomes have resulted in the reduction of commercial and physical water
+         losses, thus directly leading to improvements in the efficiency and reliable continuity of SEDAPAL’s
+         services in the NSAL. The non-revenue water level was reduced from 40 percent in 2011 to the
+         targeted level of 25 percent by project closing.
+        Changes in construction processes throughout SEDAPAL have resulted in improvements in overall
+         system sustainability, as observed in two specific examples. The use of the more adaptable High-
+         Density Polyethylene (HDPE) piping under the project—instead of the polyvinyl chloride (PVC) piping
+         used prior to the project—has resulted in significantly fewer connection pieces, which has reduced
+         water losses and mitigated the costs and time requirements of O&M activities. Also, the use of
+         trenchless pipe rehabilitation under the project—which SEDAPAL now commonly practices—has led
+         to reduced installation time, costs, and social and environmental impacts, while increasing resistance
+         to seismic activity.
+
+These improvements have allowed SEDAPAL to provide higher quality service to the households within the
+Project’s area of intervention. Although not aimed to increase new access, the project reduced water losses
+and thus increased the supply of water for distribution, which allowed SEDAPAL to extend water services to
+other areas while avoiding supply and continuity issues.
+
+
+                                                                                                          Page 7 of 18
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   PE Optimization of Lima Wat & Sewerage (P117293)
+
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+To improve the efficiency, continuity and reliability of sanitation services in the Northern Service Area of Lima
+(NSAL)
+
+Rationale
+fSince the contiguous investments were implemented by the same agency (SEDAPAL) in the same project
+areas, the theory of change for the second objective is the same as the one presented in the first objective
+above.
+
+Outputs
+
+The project’s main activities for achieving PDO2 were geared towards reducing the annual incidence of
+sewerage blockages per km of sewerage network in the project areas To this end, the main outputs included
+the following:
+
+      Rehabilitation of 271 km of the sewerage network, exceeding the target of 246 km
+      Rehabilitation of 35,187 household sewerage connections (the ICR did not provide a target figures).
+       The pipes installed via the Project have a wider diameter than those utilized pre-Project, reducing the
+       probability of blockages and increasing the conveyance capacity of the sewerage network.
+      Dissemination of information on proper use of the sanitation system to 242,140 beneficiaries, far
+       exceeding the Project target of reaching 45,000 beneficiaries.
+      Completion of analytical work to integrate the operational processes of the Lima and Callao
+       wastewater treatment plant with SEDAPAL’s backbone network, as targeted.
+
+
+
+Outcomes
+
+      The Project had already surpassed the target of 2.34 blockages per km fprior to the COVID-19
+       pandemic, with reported reductions from 8.75 blockages per km to between 1.81 and 1.56. These
+       represented annual cost-savings of about US$ 1.0 million. This indicator worsened to 2.76 due to the
+       COVID-19 pandemic, which disrupted operations and maintenance (O&M) during the last six months
+       of implementation. The ICR reports that SEDAPAL is recovering its standard O&M levels, hence pre-
+       pandemic sewerage blockage levels are likely.
+      The sanitation investments have also minimized the risk of overflow and ponding of sewage,
+       infiltration and inflows of wastewater into groundwater sources, and odor nuisances. (The ICR did not
+       provide quantitative measurements on the extent to which overflow and ponding were decreased, but
+       such results would be expected from sanitation infrastructure.)
+      The integration of the Lima and Callao wastewater treatment plant to SEDAPAL’s network enhanced
+       SEDAPAL’s capacity to efficiently operate and manage its sanitation services.
+
+                                                                                                    Page 8 of 18
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                PE Optimization of Lima Wat & Sewerage (P117293)
+
+
+
+
+                                  The commercial and operational activities described under the PDO1 analysis also directly benefited
+                                    management of the sanitation network. For example, the registration of the households in the GIS built
+                                    SEDAPAL’s capacity to efficiently respond to disruptions in sewerage as well as water services and to
+                                    address customer complaints.
+
+                            In sum, the project’s efficacy in reducing sewerage blockages was substantial. The reduction in blockages by
+                            60 percent (from 773 blockages in 2015 to 321 by project closing) resulted in a more efficient, continuous,
+                            reliable sanitation service, as well as improvements in the overall hydraulic capacity of the network.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project's efficacy in achieving the first and second objectives (for the water and sanitation subsectors,
+                            respectively) was both substantial. Technical interventions and institutional capacity-strengthening
+                            improvements, which permeated the whole of SEDAPAL, led to the achievement of these two outcomes. At
+                            closing, the total number of beneficiaries was 442,292, which exceeded the target of 438,000.
+
+                            The institutional strengthening under the project is expected to enhance the sustainability of the outcomes
+                            discussed above under PDO 1 and PDO 2. Consultancies and studies were implemented to help SEDAPAL
+                            in optimizing its processes, operations, and overall organizational efficiency for the medium to long term. The
+                            studies supported: (i) SEDAPAL’s rollout of a unified GIS; (ii) standardization and consolidation
+                            of SEDAPAL’s many SCADA information systems, and data centralization in one Data Center hub; (iii)
+                            design of SEDAPAL’s new backbone network; (iv) implementation of a new commercial system; and (v)
+                            design of a new organizational and remuneration structure. The ICR reports that SEDAPAL has started
+                            implementing the recommendations from the studies, with a view to facilitating access to systematized and
+                            integrated information. According to the ICR (paragraph 31, page 11), these activities would “assist
+                            SEDAPAL’s management in making efficient, evidence-based decisions, improving O&M, and bringing
+                            innovation and resilience to SEDAPAL’s processes and facilities.” The expected direct benefits are reduced
+                            operating costs (OPEX), increased revenues, and enhanced ability to consolidate and expand service
+                            delivery
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+          5. Efficiency
+
+
+                                                                                                                               Page 9 of 18
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      PE Optimization of Lima Wat & Sewerage (P117293)
+
+
+
+Economic Analysis. The ICR conducted a benefit-cost analysis, which the PAD also carried out. The ICR’s
+methodology is valid and consistent with the PAD. As in the appraisal, the ICR’s cost and benefit flows covered
+the same lifetime period of 30 years and used the same discount rate of 10 percent. Financial costs were
+transformed into economic costs using a conversion factor of 0.83 (the same one used at appraisal) was used to
+transform financial into economic costs, thereby adjusting for market distortions such as taxes and subsidies.
+Benefits were measured in terms of cost savings to SEDAPAL from replacement of pipes, and cost savings to
+households resulting from service improvements. More specifically, cost savings for customers accrue when
+coping costs paid without the Project are eliminated and replaced by tariffs charged by SEDAPAL. SEDAPAL
+yields cost savings when it experiences lower maintenance costs to the network. The detailed assumptions and
+analyses are presented in Annex 4, Efficiency Analysis, of the ICR (pages 39-45). On this basis, the project's
+economic internal rate of return was calculated at 21 percent, compared to the 20 percent estimated in the PAD
+at appraisal.
+
+Financial Analysis. At appraisal, the focus of the financial analysis was to assess if SEDAPAL would be able to
+fully meet its financial obligations, including those arising from the project. While it was expected to do so at that
+time, it was later shown during the restructuring for the Additional Financing that SEDAPAL needed to increase
+its tariffs; otherwise, its revenues would not be adequate to meet its financial obligations and its overall financial
+position would be at risk.
+
+At project completion, the ICR re-examined SEDAPAL’s financial performance in comparison to what had been
+expected. The results indicated that SEDAPAL’s financial performance had improved and exceeded
+expectations. Tariffs had increased in real terms, thus enabling SEDAPAL to cover its operating costs and meet
+its debt obligations. SEDAPAL’s net margin increased from 13 percent in 2013 to 19 percent in 2019. By that
+year, revenues fully covered operating expenses while leaving a margin of 28 percent to finance new
+investments. Moreover, the capital structure of 60 percent liabilities and 40 percent equity were found
+acceptable.
+
+SEDAPAL’s management has been consistently committed to achieving efficiency gains, as shown by its
+programs that complemented project activities. SEDAPAL’s customer metering increased from 69 percent in
+2010 to 95 percent in 2019; metered and billed volume reached 92 percent in 2020; non-revenue water
+decreased from 38 percent in 2010 to 26.5 percent in 2019. Its cost recovery rate increased from 122 percent to
+139 percent.
+
+Administrative and Operational Efficiency. The project’s implementation suffered delays, since the project
+activities were undertaken during a period of political upheaval in Peru followed by the COVID-19
+pandemic. Major changes in government (in response to corruption scandals), resulted in more complex
+bureaucratic review and clearance processes among public agencies. There were also significant staff changes
+within SEDAPAL and the Project Implementation Unit (PIU). This high turnover rate delayed the implementation
+of high-level studies under Component 2. Moreover, as new managers took their position, they redirected
+SEDAPAL’s priorities, thus delaying project implementation. Activities under Component 1 faced many
+implementation challenges related to (i) the procurement of supervision services for Lima Norte II civil works and
+(ii) the overall slowdown due to the COVID-19 pandemic. The closing date of Lima Norte I had to be extended
+for 22 months and that of Lima Norte II for 1 year. At closing, the Project had completed all the planned
+infrastructure and most of the strategic studies. Despite the different political and technical challenges, Overall,
+the PIU demonstrated sufficient capacity to implement the project efficiently, despite the many political and
+technical challenges.
+
+
+
+
+                                                                                                       Page 10 of 18
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      PE Optimization of Lima Wat & Sewerage (P117293)
+
+
+
+In sum, while there were implementation delays, the positive EIRR and the sound financial position of SEDAPAL
+lead to a Substantial rating for project efficiency.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?              Point value (%)          *Coverage/Scope (%)
+                                                                                     97.00
+ Appraisal                                                 20.00
+                                                                                      Not Applicable
+                                                                                     98.00
+ ICR Estimate                                              21.00
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of the project objective is rated substantial. Efficacy is rated substantial. Efficiency is also rated
+substantial. On the basis of these sub-ratings, the overall project outcome rating is satisfactory. By project
+completion, SEDAPAL was able to achieve the PDO of improving the continuity, efficiency and reliability of WSS
+services for 442,292 direct beneficiaries. According to the ICR (paragraph 66, page 18), SEDAPAL remains
+strongly committed to improving its commercial and operational efficiency by continuing to reduce NRW levels,
+expand household metering, increase billing and collection, implement increases in tariffs, and invest in
+rehabilitation. These actions have resulted in company-wide gains, such as the increases in (i) the cost recovery
+rate from 122 percent (2010) to 139 percent (2018); and (ii) the operating margin from 18 percent (2010) to 28
+percent (2019. However, this strengthening of SEDAPAL’s capacity and financial sustainability are at
+substantial risk because of the COVID pandemic, as discussed under Risks to Development Outcome below.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+In recent years, the sustainability of the project's works and investments seemed likely, given the sustained
+improvements in SEDAPAL's financial position. However, the COVID pandemic has placed this
+sustainability at substantial risk, given its direct consequences on SEDAPAL's finances brought about by the
+following measures introduced by GOP in April 2020:
+
+      water bills were deferred
+                                                                                                     Page 11 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     PE Optimization of Lima Wat & Sewerage (P117293)
+
+
+
+        service suspensions were forbidden
+        tariff adjustments were frozen
+        payment waivers were given to vulnerable groups
+        the alternative use of investment funds for the COVID response was authorized
+
+The Bank assessed the impacts of these measures on Peru’s water utilities by comparing pre-COVID (2019)
+and COVID-19 (2020) data. SEDAPAL reported the following negative impacts and risks:
+
+      operating expenses increased by 6.7 percent since water access and service levels had to be
+       maintained
+      bill collection decreased by 20 percent, which reduces funds to cover operating costs
+      profitability was reduced, thus decreasing financial liquidity for O&M and future investments
+      future capacity to provide WSS services in Lima that meet efficiency and quality standards has been
+       put at risk
+
+To mitigate these impacts and risks, GOP transferred US$55 million to SEDAPAL to cover the costs of using
+tankers to provide free drinking water to vulnerable populations that have no water access. GOP also
+prioritized WSS projects, which are labor-intensive, in its economic reactivation program. SEDAPAL has also
+been reviewing and re-prioritizing its investment plans to achieve further operational and commercial
+efficiency gains.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The project’s design was adequate as a relatively straightforward WSS infrastructure project that had
+  already benefited from many years of previous Bank financial support in the sector. The design was also
+  closely aligned with SEDAPAL’s priorities, while specific activities and processes took into account the
+  lessons learned from previous Bank projects in the Peruvian WSS sector. The ICR (paragraph 63, page
+  17) reports that: “The Project was structured in line with the capacity of the client and included “value
+  added” activities under Component 2 that drew upon the Bank’s global experience and access to sector
+  experts.” This review finds that the project’s theory of change and results framework were adequate for
+  tracking and measuring implementation progress. However, the risk of bureaucratic slowness was
+  underestimated. A coordination mechanism was also lacking to harmonize safeguards, procurement,
+  reporting and other administrative details among the three parallel co-financiers (Bank, JICA, and KfW).
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+
+
+                                                                                                 Page 12 of 18
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     PE Optimization of Lima Wat & Sewerage (P117293)
+
+
+
+ The ICR (paragraph 64, page 18) reports that: “The Task Team provided close, hands-on supervision and
+ demonstrated flexibility and creativity in order to support SEDAPAL in achieving the Project’s objectives.”
+ As an example, the ICR indicates that the Bank held bimonthly technical missions when the Inspection
+ Committee became responsible for supervision. Another concrete example is when the Bank project team
+ authorized the use of project funds to conduct a technical study and find solutions for the damaged primary
+ trunk that conveyed water from Huachipa Water Treatment Plant to the project’s targeted
+ sectors. Although beyond the project’s scope, the Bank project team provided the additional and tailored
+ assistance to SEDAPAL and other sector institutions (e.g., SUNASS) in the areas of utility performance,
+ tariff structure, commercial management and results-based contracts. Significant supervision
+ shortcomings included the delays in strengthening the Borrower’s M&E and the setting of an over-
+ ambitious target for reducing water pipe breakages during the Additional Financing.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The project’s outcome indicators were appropriate but were not comprehensive due to lack of clarity on
+ how sanitation and institutional outcomes would be measured. The key indicators for measuring
+ achievement of the PDO (to improve efficiency, continuity, and reliability) in the project area were:
+
+       OI 1: Volume of water saved (m3/year)
+       OI 2: Number of daily hours of water services (hours/day)
+       OI 3: Annual incidence of water pipe breakages per km of water supply network (breaks/km/year)
+       OI 4: Annual incidence of sewerage blockages per km of sewerage network in the
+        (blockages/km/year)
+       O5: Number of learning events on strategic planning and management
+
+ OI 1 measures efficiency; OI 2 measures continuity; and OI 3 and OI 4 measure reliability.
+
+ The project also included intermediate results indicators for each of the components to measure factors
+ that contribute to PDO achievement. The Special Projects Team (EPE) was responsible for monitoring
+ implementation progress and producing semi-annual reports while various SEDAPAL management teams
+ were charged with collecting data on specific indicators.
+
+ There were some shortcomings, however. The PAD did not define efficiency, reliability, and continuity for
+ sanitation services. It was unclear how the PDO related to sanitation would be measured just by a single
+ indicator, i.e., “Annual incidence of sewerage blockages per km of sewerage network in the Project area.”
+ Likewise, there was no outcome indicator to assess the achievement of measures under (under
+ Component 2) to improve SEDAPAL’s commercial and operational efficiency of the utility. The definition of
+
+                                                                                                 Page 13 of 18
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     PE Optimization of Lima Wat & Sewerage (P117293)
+
+
+
+ how “reaching stakeholders with information” would be measured was also unclear. The indicator target for
+ service reliability, i.e., the annual incidence of pipe breakages per km of water supply, was overly
+ ambitious. According to the ICR (para 25, page 8) ”the average level of pipe breakages per km of water
+ supply in SEDAPAL is 0.18, and the level of pipe breakages in top-tier utilities like Chile’s Andean WSS
+ Company (Aguas Andinas S.A.) is 0.16, and Uruguay’s WSS Utility (Obras Sanitarias del Estado) is 0.51.”
+
+
+
+b. M&E Implementation
+  M&E performance was rated satisfactory during the initial years of implementation. In 2017, however, the
+  M&E rating was downgraded to Moderately Unsatisfactory because of inconsistent measurement of
+  indicators and the absence of formal Project status reports. These shortcomings resulted from changes in
+  EPE’s management, unclear reporting responsibilities, and the lack of an established M&E system within
+  EPE. The Bank task team provided M&E training, which included an EPE member. Consequently, most
+  of these issues were resolved when that EPE member started the regular and systematic monitoring and
+  collection of data from the various management units. To support the Inspection Committee, the Bank
+  team monitored implementation progress through bimonthly missions. By project closing, the collection of
+  M&E data was systematic and methodologically sound, and EPE was reporting adequately on all project
+  indicators.
+
+
+
+c. M&E Utilization
+  EPE and the Task Team utilized M&E data to inform project supervision and implementation, as
+  reflected in the aide memoires, Implementation Status and Results Reports (ISRs) and project
+  restructuring documents. The Bank Team utilized M&E data to establish indicator targets for the
+  Additional Financing (AF), which were generally made more ambitious in light of the good progress
+  during implementation and the expanded project scope that the AF allowed. One shortcoming, however,
+  was that the water pipe breakages target was erroneously set at an unrealistic level, as indicated above
+  under M&E Design. Although this was recognized as an error, the Bank team and EPE did not modify
+  the indicator during implementation.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The three Bank safeguard policies that this Category B project triggered include Environmental Assessment
+   (OP/BP 4.01), Physical Cultural Resources (OP/BP 4.11), and Involuntary Resettlement (OP/BP 4.12) .
+   The project’s activities included standard, medium-scale infrastructure works with potential short-term
+   environmental risks and impacts that relatively straightforward measures can prevent or mitigate. Chance
+   finds during excavation works were also deemed possible. A mix of mitigation measures were developed
+   within the framework of an Environmental Impact Assessment (EIA). The EIA assessed institutional
+   capacity and necessary actions to strengthen environmental procedures. An Environmental Management
+
+                                                                                                Page 14 of 18
+    Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+    PE Optimization of Lima Wat & Sewerage (P117293)
+
+
+
+  Plan (EMP) was also developed that included best practices for construction intended to minimize impacts
+  of civil works. Waste management, conservation, and pollution prevention programs were also put in place.
+  The EIA and its Addendum have been posted on the Bank’s website since December 21, 2010. According
+  to the ICR (paragraph 59, page 16): “Overall implementation of OP 4.01 and OP 4.11 was rated as
+  satisfactory throughout execution.”
+
+  Given that some people could be temporarily relocated and economically affected during the
+  implementation of work, a Resettlement Framework was developed and disclosed on the Bank’s website on
+  December 1, 2010. SEDAPAL adopted an official policy on land acquisition and involuntary resettlement
+  that was geared specifically toward managing street vendors. Two Grievance Redress Mechanisms (GRM)
+  were put in place: (i) a Feedback GRM that followed SEDAPAL’s protocol and policies; and (ii) a Social
+  Management Strategic Plan (SMSP) to improve the social supervision before, during, and after completion
+  of the works. The ICR (paragraph 60, page 17) reports that: “Overall, the social safeguard performance
+  rating of the Project was Satisfactory throughout implementation following the World Bank social safeguards
+  policies.”
+
+
+
+
+b. Fiduciary Compliance
+  Financial Management. During initial implementation, there were delays in automating and modernizing
+  SEDAPAL’s financial system, which was being shifted from Excel-based accounting to a more formal
+  accounting software. The bi-annual Interim Unaudited Financial Reports (IFR) were acceptable and
+  adequate for financial monitoring, although they were submitted to the Bank with minor delays. The audit
+  reports generally included unmodified (clean) opinions and were acceptable to the Bank. The ICR
+  (paragraph 61, page 17) reports that: “The Financial Management (FM) performance was rated Moderately
+  Satisfactory for the majority of implementation.”
+
+  Procurement. SEDAPAL showed its steady procurement capacity throughout project implementation.
+  Procurement processes and actions generally complied with the Bank’s guidelines and procedures. One
+  issue was the setting of uniform minimum qualifying standards for the bidding documents for the Lima
+  Norte II works to be financed by the Bank, JICA and KfW, which resulted in significant delays during the
+  contracting process. Independent Procurement Reviews and Procurement Post Reviews were carried out,
+  which confirmed the adequacy of procurement arrangements. The reviews did not bring out any major
+  issues. Nonetheless, the Bank made the following recommendations, which SEDAPAL implemented, to
+  further enhance procurement performance: (i) the updating of procurement information in the Systematic
+  Tracking of Exchanges in Procurement (STEP); and (ii) the enhancement of the filing systems for
+  procurement records. To further build capacity, the Bank also conducted several training
+  workshops focused on the application of the Bank’s Procurement Guidelines, bid evaluation, STEP, and
+  the International Federation of Consulting Engineers’ contracts. The ICR (paragraph 62, page 17)
+  indicates that: “Project procurement performance was rated as Satisfactory for the majority of
+  implementation.”
+
+
+
+
+                                                                                               Page 15 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     PE Optimization of Lima Wat & Sewerage (P117293)
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                Reason for
+Ratings                        ICR                      IEG
+                                                                                Disagreements/Comment
+Outcome                        Satisfactory          Satisfactory
+                               Moderately
+Bank Performance                                     Moderately Satisfactory
+                               Satisfactory
+Quality of M&E                 Substantial           Substantial
+
+Quality of ICR                 ---                   Substantial
+
+
+12. Lessons
+
+The ICR (pages 19-20) provides several lessons that were drawn from the project's implementation
+experience. The main lessons are presented below, with some paraphrasing from IEG. To the first
+lesson, IEG would add that the theory of change also needs to be agreed and adhered to by the
+parallel co-financiers.
+
+Projects that involve parallel financing require comprehensive planning and close
+coordination among the financiers to achieve efficient and effective implementation. The
+Bank, JICA and KfW built upon best practices and knowledge, thus enabling a wider development
+impact. SEDAPAL, however, had to manage differing policies and procedures among the donors
+and faced the challenge of synchronizing their various implementation timelines since the
+investments were interdependent, most notably with the supervision contract. Among other
+measures, close communication with stakeholders helped overcome the potential coordination
+roadblock. Similar future projects need to establish from the outset streamlined procedures and a
+coordination mechanism among the cofinanciers. Moreover, the parallel projects need to be
+designed and planned such that each intervention area has its own set of works, contracting
+arrangements and independent financing sources.
+
+Water infrastructure projects can be implemented following internationally accepted
+environmental and social (E&S) standards. Complex WSS projects require comprehensive E&S
+schemes. The project implementing agency should disseminate world-class practices and
+approaches for E&S management to all stakeholders, including those under parallel-financed
+projects and beneficiaries. The Project streamlined the social approaches and environmental health
+and safety (EHS) guidelines that enhanced social supervision during implementation. Future similar
+projects could benefit by: (i) closely aligning project technical design and environmental and social
+instruments, thereby facilitating the proper budgeting of E&S activities; (ii) adopting smart
+technologies and platforms to optimize data collection; and (iii) developing a strategic plan to
+
+                                                                                                  Page 16 of 18
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       PE Optimization of Lima Wat & Sewerage (P117293)
+
+
+
+systematize the institution-wide tracking and monitoring of compliance with social management
+objectives and activities.
+
+Competitive approaches based on delivery of results can significantly boost operational
+efficacy, efficiency, and organizational know-how. Under the project, SEDAPAL designed and
+implemented results-based contracts that led to a significant reduction of commercial losses. Rather
+than hire just one firm, SEDAPAL hired several top-tier, international firms to carry out commercial
+activities in different areas of Lima. This led firms to compete, which heightened efforts to achieve
+positive results. The firms also brought global expertise on commercial practices for SEDAPAL to
+observe and incorporate in its own operations. This competitive approach was key to the successful
+reduction of commercial losses.
+
+Bank-client partnerships can emerge from long-term engagement. The World Bank began
+working with SEDAPAL on WSS rehabilitation projects in the early nineties. Those three decades of
+engagement have led to a relationship of trust and partnership, stemming from: (i) the positive
+results of past projects and analytic/advisory work; (ii) smooth and consistent communication
+between the Bank and SEDAPAL teams; and (iii) a shared sense of commitment and responsibility
+for achieving growth. A key lesson for building a partnership is to avoid presenting just the best
+solution from the outset; instead, a range of solutions and case studies should be provided while
+allowing the client to select the option that best fits its on-the-ground realities. This relationship has
+permitted the Bank to maximize its contributions as a knowledge bank while adding value through
+infrastructure investments.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR was very well prepared and clearly written. It focused on providing quantitative evidence, while
+adhering closely to the theory of change developed by the ICR team (one was not prepared at appraisal). The
+theory of change was well developed and credible in (i) showing the causal links from inputs to outcomes and
+(ii) attributing outcomes to project's activities. The ICR focused on evaluative findings, and provided in a
+succinct manner only the necessary background information. It was also candid in bringing out the project's
+shortcomings. The report also generally complied with the OPCS guidelines on ICR preparation.
+
+Meanwhile, with regards to IEG’s comment that “ .. implementation delays would mitigate against
+assigning "high" performance especially when the implementing agency has already received previous
+technical assistance …...”, our country counterparts (who also reviewed the ICRR)
+
+One shortcoming is that the ICR's High rating for relevance of objectives and High rating for efficiency do not
+seem warranted. Substantial ratings for both seem more appropriate. While the PDOs are certainly important
+for Peru, the project is part of a long series of Bank-supported WSS projects over the past decades, building
+upon knowledge already developed in the sector and a long partnership with the implementing agency, Also,
+the EIRR for the project is within the range seen for these these types of projects. Moreover, implementation
+
+                                                                                                       Page 17 of 18
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      PE Optimization of Lima Wat & Sewerage (P117293)
+
+
+
+delays would mitigate against assigning "high" performance especially when the implementing agency has
+already received previous technical assistance and institutional strengthening support for previous Bank
+projects. In acknowledging this limitation, the observation is made noting that in this type of project,
+unforeseeable events, caused by external factors, arise and may delay the implementation of project activities.
+In this particular case, in order to overcome the challenges related to the lack of supervision at the beginning of
+the works, an Inspection Committee for the Lima Norte II works was set up, which allowed the works to start
+without difficulty and this ultimately contributed to the project goals. Also notable, the ICR did not follow the
+OPCS guidelines for assigning outcome ratings, because its ratings of High for relevance of objectives,
+Substantial for efficacy, and High for efficiency, would have led to an overall outcome rating of Highly
+Satisfactory. This rating, however, would not seem justified given that two PDO indicators were nearly but not
+fully achieved, the project encountered delays, and some institutional shortcomings and challenges remain.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                     Page 18 of 18
+

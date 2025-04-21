@@ -1,0 +1,953 @@
+     Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+     Kabeli-A Hydro Electric Project (P122406)
+
+
+
+                                                                                      Report Number: ICRR0022622
+
+1. Project Data
+
+
+
+ Project ID                                      Project Name
+ P122406                                         Kabeli-A Hydro Electric Project
+
+ Country                                         Practice Area(Lead)
+ Nepal                                           Energy & Extractives
+
+
+ L/C/TF Number(s)                            Closing Date (Original)                   Total Project Cost (USD)
+ IDA-53380,IDA-H9000                         30-Dec-2019                                             12,921,867.67
+
+ Bank Approval Date                          Closing Date (Actual)
+ 01-Jul-2014                                 30-Dec-2019
+
+                                             IBRD/IDA (USD)                                         Grants (USD)
+
+ Original Commitment                                46,000,000.00                                               0.00
+
+ Revised Commitment                                 17,240,658.21                                               0.00
+
+ Actual                                             12,921,867.67                                               0.00
+
+
+
+
+ Prepared by                  Reviewed by                    ICR Review Coordinator           Group
+ Joel J. Maweni               Dileep M. Wagle                Ramachandra Jammi                IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The project objective, as stated in the Financing Agreement (p.5), as well as in the Project Appraisal
+   Document (PAD) [p.7], was “to add hydropower generation capacity to supply the NEA grid through public
+   private investment”.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+
+                                                                                                       Page 1 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Kabeli-A Hydro Electric Project (P122406)
+
+
+
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project had three components and activities as follows:
+
+   Kabeli-A Hydroelectric Project (KAHEP) Component (Estimated cost at appraisal: US$102.6 million; Actual
+   cost: US$ 9.80 million): The activities under this component included construction of a diversion dam, water
+   intake, settling basins, a headrace tunnel, a semi-underground power station and a tailrace canal.
+
+   Ministry of Energy (MOE, later renamed Ministry of Energy, Water Resources, and Irrigation (MOEWRI)
+   Component (Estimated cost at appraisal US$2.0 million; Actual cost: US$1.3 million). The activity was
+   designed to support MOEWRI in: (a) supervising the KAHEP component with the objective of ensuring
+   compliance with the Project’s Development Agreement (PDA) and the associated Environmental
+   Management Action Plan (EMP) and the Social Action Plan (SAP); (b) building technical, environmental,
+   and social safeguards capacity in integrated river basin management and cumulative impact management
+   for sustainable hydropower development, including development and adoption of guidelines for cumulative
+   impact assessments (CIA), resettlement and restoration of livelihoods; and (c) financing incremental
+   operating costs for project implementation.
+
+   The Investment Board of Nepal (IBN) Component (Estimated cost at appraisal: US$4.0 million; Actual cost:
+   US$ 0.4 million): This component was aimed at improving the IBN’s ability to carry out its mandate of
+   facilitating the development, in Nepal, of large hydropower projects in accordance with applicable
+   international performance, technical, environmental, and social standards equivalent to WBG Safeguards
+   Policies and Performance Standards. This was to be achieved through support for: (a) conducting additional
+   due diligence and PDA negotiations of large hydropower projects proposed by the private sector (4 projects
+   totaling 3050 MW); (b) supervision of such projects to ensure their compliance with the terms and conditions
+   of the PDAs and the projects’ sustainability; (c) building IBN’s capacity in procurement, financial
+   management, environmental and & social (E&S) and technical areas; and (d) financing of incremental
+   operating costs for project implementation
+
+   Revisions in Project Components
+
+   Revisions were made to the MOEWRI and IBN components during Level 2 restructurings carried out on
+   July 9, 2018 and on November 3, 2019.
+
+   The rationale for the first restructuring was to: (a) strengthen the institutional capacity of both MOEWRI and
+   IBN to carry out their project development and supervision activities by enabling them to finance
+   procurement of goods, non-consulting services, training, workshops and study tours under the project; (b)
+   amend the IBN component by removing the provision for construction supervision services of projects; and
+   (c) include financing support for hydropower project feasibility studies managed by the IBN. The use of IDA
+   resources to finance supervision services for construction of hydropower projects in which IDA itself was not
+   directly involved was considered to entail huge reputational risks, given the high profile of fiduciary,
+   environmental and social issues in such projects. Hence, the decision was taken, with the agreement of the
+   Nepalese authorities, to remove this funding.
+
+
+
+                                                                                                    Page 2 of 18
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    Kabeli-A Hydro Electric Project (P122406)
+
+
+
+  The second restructuring involved adding a fourth component for a River Basin Management Study that
+  was already being implemented by the Water and Energy Commission Secretariat (WECS) under another
+  IDA project - the Power Sector Reform and Sustainable Hydropower Development Project (PSRSHEP,
+  P150066). WECS was facing a funding shortfall of US$5.4 million and had requested IDA for support in
+  filling this gap. Since IBN was facing implementation challenges and was not going to be able to use the
+  full $4 million allocated to its component the restructuring was intended to reallocate US$2 million to
+  WECS’s River Basin Management Study. Further, the study neatly aligned with development objective of
+  the Kabeli-A Project in supporting sustainable hydropower development and was expected to disburse USD
+  2 million by the closing date of this project. In addition to the description of the new component and costs,
+  other amendments to the project documents included the addition of WECS as an implement agency, the
+  reallocation of funds among disbursement categories and changes to the Results Framework to include 2
+  intermediate indicators for the new component.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  At appraisal, total project costs were estimated at US$108.6 million and were to be financed through a
+  US$40 million IDA credit, a US$6 million IDA grant, a US$38.6 million IFC Loan (of which US$19,3 million
+  was to be provided by the Canadian Climate Change Program - CCCP), a US$1 million local commercial
+  IDA loan and US$23 million equity injection by the shareholders of the project company - Kabeli Energy
+  Limited (KEL). Actual total project costs of US$12.92 million were only about 11.9% of the appraisal estimate
+  of US$108.6 million and included only disbursements of the IDA Credit and Grant. Annex 3 of the ICR
+  shows total project costs of US$13.01 million – a slight discrepancy of about US$80,000 compared to the
+  data sheet figure of US$12.92 million. The very low utilization of the committed funding resulted from the
+  non-implementation of most of the project activities.
+
+  Dates  
+
+  The project’s original and actual closing date was December 31, 2019.  Project effectiveness was expected
+  to take place by September 30, 2019 i.e., within 3 months of Board approval on July 1, 2014. However, it
+  was not until about 21 months later and several postponements that the Credit finally became effective on
+  June 20, 2016. Delays in executing and providing legal opinions on a suite of legal agreements were
+  largely responsible for the delays in Credit effectiveness and project start-up. These included: (a) the
+  Hydroelectricity Investment and Development Company Limited (HIDCL) subsidiary agreement under which
+  the Nepalese Treasury would on-lend IDA Credit to HIDCL for further on-lending to the project company,
+  the Kabeli Energy Limited (KEL) under; (b) the KEL subsidiary agreement; and (c) the Power Purchase
+  Agreement between KEL and the Nepal Electricity Authority (NEA). The latter was initially a dated covenant
+  but later became a condition for effectiveness as it was not fulfilled on time. Financial closure was further
+  delayed until June 2017 due to the delayed finalization of a consortium master security agreement among
+  the lenders.
+
+  As a result, project implementation start-up - which had been originally expected in September 2014 - was
+  severely delayed. On September 8, 2016 the contractor was given a Limited Notice to Proceed (LNTP) so
+  that some work could start on project design, and access roads, camps and temporary housing and
+  tunneling. Even then it was not until February 2017 that the LNTP works commenced.
+
+
+
+
+                                                                                                  Page 3 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Kabeli-A Hydro Electric Project (P122406)
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country context: At the time of project preparation Nepal’s economic growth had slowed down compared to
+the decade up to 2012 due to, amongst other reasons, reduced public and private sector investment in
+infrastructure, including in electricity. The limited public and private investment in power infrastructure was
+caused by constrained public sector resources, including the financial weakness of the national power utility
+and by the absence of developed policies. regulations, procedures, and risk sharing mechanisms to
+facilitate the mobilization of private sector financing. Consequently, electricity supply lagged substantially
+below peak demand (625 MW compared to 1,095 MW in November 2012) resulting in load shedding of up
+to 18 hours/day in dry seasons when available hydropower capacity was much reduced. Thus, despite
+Nepal’s substantial hydropower resources (estimated viable hydropower potential of 43GW at the time)
+power deficits persisted, posing an enormous constraint to economic growth, competitiveness, and human
+development.
+
+Alignment with strategies: According to the PAD the Government of Nepal’s (GoN) power sector strategy
+was aimed at addressing the energy crisis and eventually achieving reliable, affordable and sustainable
+power supply by: (a) reducing system losses and quickly adding generation capacity in the short term; (b)
+achieving electricity demand-supply balance in the medium term through commissioning of new
+hydropower capacity and through power imports from India; and (c) developing its large hydropower
+resources to sustain growth and earn export revenues in the long term.
+
+This project was to support implementation of the GoN’s strategy by facilitating private sector investment in
+the KAHEP; due diligence and negotiations of project development agreements of several large
+hydropower projects that were under preparation and building the capacity and procedures for planning
+hydropower projects, conducting feasibility studies, and managing environmental and social safeguards to
+international standards.
+
+At inception the project was also consistent with the WBG CPS (FY14-FY16) for Nepal, which emphasized
+the importance of access to adequate, reliable, and affordable electricity for growth and competitiveness
+(Pillar 1 and Outcome 1.1). In addition, the project was part of a joint WBG business plan to support the
+“Nepal Hydro Power Transformational Engagement” – developed by the WBG, the Asian Development
+Bank and the UK’s Department for International Development (DfID) in the mid-2000s, with the aim of
+helping Nepal to meet its immediate power needs and develop hydro resources as an engine for growth
+and for regional integration.
+
+ At closure the World Bank Group’s Country Partnership Framework (CPF) for Nepal (FY19-23) had three
+focus areas covering: (a) public institutions; (ii) private sector-led jobs and growth; and (c) inclusion and
+resilience. In line with the findings of the Systematic Country Diagnostic (February 1, 2018) the CPF
+highlights the importance of improved access to adequate, reliable, and affordable electricity supply for
+increased growth and competitiveness. Energy, which is covered under Focus 2, Objective 2.1 includes
+WBG support to increase generation capacity and access through promotion of hydropower generation,
+renewable energy solutions, energy efficiency and regional integration to smoothen fluctuations in domestic
+supply and benefit from international power trade.
+
+Thus, the project objective remained as relevant at closure as it was at inception.
+
+
+                                                                                                    Page 4 of 18
+                                      Independent Evaluation Group (IEG)                       Implementation Completion Report (ICR) Review
+                                      Kabeli-A Hydro Electric Project (P122406)
+
+
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             The project objective is to add hydropower generation capacity to supply the NEA grid through public private
+                             investment
+
+                             Rationale
+                             The project was developed to address the issue of limited access to adequate, reliable, and affordable
+                             electricity which was constraining economic growth and competitiveness. Given public resource constraints, a
+                             public/private sector model for private development of hydropower projects was an alternative approach, but
+                             this too faced multiple constraints, including: (a) the absence of developed policies, regulations,
+                             administrative procedures, risk sharing mechanisms; and limited capacity for planning, conducting feasibility
+                             studies and carrying out due diligence and monitoring implementation. The project was designed to address
+                             these issues and was to be an example for the structuring of follow-up projects in the future.
+
+                             Theory of Change
+
+                             The ICR derives a theory of change (Figure 1, page 3) for the project from the PAD Results Framework
+                             (Annex 1). The theory of change outlines groups of activities corresponding to the four project components as
+                             follows: (a) KAHEP component - construction at Kabeli river of a diversion dam, intake, settling basins,
+                             headrace tunnel, semi-underground power station and tailrace canal; (b) MOEWRI component - preparation
+                             of policies and guidelines for hydropower development and monitoring of compliance with the KAHEP PDA;
+                             (c) IBN component - project development and transactional support; and (d) WECS component - support for
+                             hydropower planning. All the groups of activities are linked to the long-term goal of enhanced access to
+                             electricity in Nepal but only the KAHEP activities are linked to the PDO/Outcome indicator of increased
+                             generation. In addition, no distinction is drawn between outputs and outcome indicators and some
+                             intermediate results from the Results Framework are not captured.
+
+                             As pointed out by the ICR (page11) the PDO was based on one component (KAHEP) but could have been
+                             broader to capture the benefits from policy and institutional actions that were expected from other
+                             components. In addition, IEG also notes that the PDO was pitched at an output level, (added capacity
+                             resulting from construction activities rather than at the level of the result of such capacity addition). For
+                             example, incremental energy generated which is mentioned in the report, could have been a better indicator
+                             than capacity added.
+
+                             Outputs
+
+
+
+                                                                                                                              Page 5 of 18
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   Kabeli-A Hydro Electric Project (P122406)
+
+
+
+The output expected from the KAHEP component was delivery of 37.6MW of new hydropower capacity. This
+was not achieved as the project had stopped at the time of closure and there were no prospects for imminent
+completion. According to the ICR (and Results Framework and Key Outputs, Annex 1) the overall project
+completion was rated at only 12 percent representing 400 m of the access tunnel and 38, 650m of the
+headrace tunnel (total of tunneling done from both the powerhouse and outlet ends), the access road to the
+powerhouse and dam sites and some limited excavation works on the powerhouse and surge shafts.
+
+The project’s failure to deliver expected outputs within the project life was due to several factors.
+
+First, while the main contractor (civil works and hydromechanical equipment, CMH) was expected to mobilize
+soon after contract signature in October 2015, notice for full mobilization was not given until January 1,
+2018. The delay was caused by delays in achieving financial closure which in turn arose from delays in: (a)
+finalizing the on-lending arrangements for IDA funding to KEL; (b) finalizing the loan agreement among the
+consortium of lenders, partly due to land ownership requirements for loan securitization; (c) delays in
+clearance and approval of a suite of loan agreements signed by consortium lenders by the Nepalese Central
+Bank; and (d) approval of the PPA by the NEA board (May 2016). Although a “Limited Notice To Proceed”
+(LNTP) was given on September 8, 2016 to enable the contractor to proceed with partial mobilization and
+undertake some works (access roads, camps and temporary housing, initial detailed design), the contractor
+started the LNTP works several months later on February 20, 2017.
+
+Second, the performance of the CHM contractor and the Owners’ Engineer (OE) was marred by continual
+disagreements, different understandings of the contract provisions and failure to or unwillingness to cooperate
+with each other. For example, the contractor in some cases proceeded to undertake unauthorized tasks and
+without approved drawings and in other instances denied the OE access to site activities. At the same time
+the contractor also accused the OE of withholding authorization for drawings.
+
+Third, both the OE and KEL did not have well-experienced staff at the site. KEL’s attempts to resolve the
+issues through high level discussions did not change the dynamics at the site. They eventually decided to
+cancel both the CHM and OE contracts, issuing the first “notice to correct” on November 16, 2018 and finally
+terminating the CHM contract on March 26, 2019. All site-based activities had ceased as of January 2019.
+
+In April 2019, based on an implementation support review in February, IDA informed the GON that the
+remaining KEL funding would be cancelled since the project was unlikely to be completed by the Credit
+closing date of December 31, 2019. A formal extension of closing date requested was submitted to IDA on
+November 15, 2019. However, given the project’s history of unsatisfactory performance over a long period of
+time and without clarity on when it would be completed, the project closed on December 31, 2019 with very
+little accomplishments on the KAHEP component, as noted above.
+
+The MOEWRI component achieved the targeted outputs on environmental and social safeguards policies and
+procedures; specifically, the production of guidelines for (a) environmental and social cumulative impact
+assessments (CIA) for the Tamor basin; (b) CIA studies in Nepal and their integration into regulatory
+frameworks; (c) resettlement and livelihood restoration processes for hydroelectric projects starting with
+KAHEP; and (d) benefit sharing for hydroelectric projects.
+
+MOEWRI was also required to provide monitoring support to ensure compliance of the KAHEP component
+with the E&S provisions of the PDA. However, the IDA team’s supervision records do not indicate an active
+role by the DOED, which is surprising given the enormous problems that were encountered with environment,
+health and safety and social safeguards issues at the site. In addition, the ICR does not reflect
+
+                                                                                                        Page 6 of 18
+                                Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+                                Kabeli-A Hydro Electric Project (P122406)
+
+
+
+                            expected outputs from the procurement of vehicles, IT tools and training – activities that were added to the
+                            project when it was first restructured on July 9, 2018.
+
+                            IBN component: Except for the signing of two large hydropower PDAs early in the project’s life and the
+                            procurement of motor vehicles and hiring of staff, little else was achieved under this component.
+
+                            The WECS component was incorporated into the project through a restructuring just two months before
+                            Credit closing date to help fill a financing gap on a regional hydropower planning master plan which was
+                            being financed under another project. The US$2 million allocated to the component was to be used largely to
+                            finance costs that had already been incurred. According to the Restructuring Paper the component was to
+                            contribute to two expected outputs - number of river basin plans, including hydropower master plan, prepared
+                            with an integrated water resource management (IWRM) approach; and number of workshops on Strategic
+                            Environmental and Social Assessment (SESA)/Cumulative Impact Assessment (CIA) conducted. The ICR
+                            (Theory of Change, page 3, and Annex 1) is, however, vague in mentioning the hydropower master plan as
+                            the only output to which the component was expected to contribute.
+
+                            Outcomes
+
+                            The project design at appraisal made its PDO outcome dependent entirely on successful completion of the
+                            KAHEP component. Since added generation capacity, the outcome indicator of the KAHEP component, was
+                            not achieved due to non-completion of the power plant, the overall project’s efficacy outcome was
+                            negligible. The PDO could have been framed to also include the benefits that were expected to flow from the
+                            other components. Although this would not have changed the project’s efficacy rating it would, have enabled
+                            a broader assessment of outcomes, including crediting the project for the modest policy achievements under
+                            the MOEWRI component.
+
+
+
+                            Rating
+                            Negligible
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project's main component, to which the Project Development Objective was linked, was not completed,
+                            and therefore did not add the power generation capacity that was intended. As such, the project’s overall
+                            efficacy was negligible.
+
+
+
+                            Overall Efficacy Rating                                  Primary Reason
+                            Negligible                                               Low achievement
+
+
+          5. Efficiency
+
+
+                                                                                                                              Page 7 of 18
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      Kabeli-A Hydro Electric Project (P122406)
+
+
+
+At appraisal, the project's efficiency analysis was conducted on the following basis: (a) comparison of the project
+to alternatives; (b) economic analysis of the project; and (c) financial analysis without loan financing. The results
+were to produce an EIRR of 42.3% for the KAHEP component when compared to diesel as the most feasible
+alternative generation option; 13.3% for the economic analysis using long run marginal cost tariffs for benefits
+and without carbon pricing or 15.2% with carbon pricing. The financial analysis indicated an incremental
+financial rate of return of 10.5% - which was low, given that IDA lending rates were averaging 10-12% in the
+domestic market. The financial analysis thus indicated that the project was not viable without IDA and CCCP
+concessional financing. The economic analysis was also marginal given a discount rate of 12%.
+
+No economic and financial analysis was conducted at project closure because the project had not been
+completed and, therefore, the expected benefits had not materialized.
+
+
+Efficiency Rating
+Negligible
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?              Point value (%)           *Coverage/Scope (%)
+                                                                                       0
+ Appraisal                                                  13.30
+                                                                                        Not Applicable
+                                                                                       0
+ ICR Estimate                                                0
+                                                                                        Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of the objectives was High as described above. Project efficacy was Negligible because the
+objective of adding generating capacity was not achieved since the KAHEP component was not
+completed. Although there were some policy achievements under the institutional components, these were
+modest and in any event were not part of the PDO. As the economic analysis was based on the KAHEP
+component, its non-completion also renders the project’s efficiency rating Negligible. Based on the above
+ratings, the project’s Overall Outcome is rated Highly Unsatisfactory.
+
+
+a. Outcome Rating
+   Highly Unsatisfactory
+
+
+7. Risk to Development Outcome
+
+
+
+                                                                                                       Page 8 of 18
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Kabeli-A Hydro Electric Project (P122406)
+
+
+
+Risks to development outcomes refer to development outcomes that have been realized or are expected to
+be realized by the project. The economic and financial benefits that were expected to be realized from the
+KAHEP component have not been achieved due to non-completion of the project and there is no clear
+information on when and how the project will be completed, if at all. Such information as is available
+suggests that if the project were to be completed its benefits would likely be lower than those forecast at
+appraisal, for the following reasons: (a) the project’s financial viability depended on concessional funding
+which may no longer be available; and (b) KEL’s failure to achieve the commercial operation date agreed
+under the PPA would likely trigger the liquidated damages further eroding the project’s financial viability.
+Further, a pumped storage project that is planned for development downstream would inundate part of the
+Kabeli-A structures and KEL’s decision whether to proceed would likely take this factor into account,
+including the GON’s commitment to provide compensation. The Investment Board of Nepal’s component
+covering transactional work has similarly not been completed. Therefore, the project faces a high risk to
+development outcomes.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The project was designed primarily to increase private sector investment in the short term through the
+  KAHEP component and in the medium and long term through the policy and institutional support
+  components under the DOED, IBN and the WECS component that was added towards project closure.
+
+  In 2007 the GoN selected KEL as the private sector developer following an international competitive
+  bidding process which was reviewed by IDA and found to be in accordance with good practice. IDA, thus,
+  gave its no objection to the award of the contract to KEL. The contractual structure that emerged for the
+  project and to which IDA contributed had the following design features for encouraging private sector
+  participation: (a) availability of debt financing on more favorable terms (both tenor and interest) than was
+  available in the domestic market; (b) take or pay clauses in the PPA to manage demand and/or dispatch
+  risks by obligating NEA to pay for power in the event KEL was unable to be dispatched due to reduced
+  demand or network constraints; (c) commitment by the GON under the Financing Agreement with IDA to
+  cover payment risks in the event NEA failed to pay amounts it owed to KEL for electricity supplied; and
+  (d) partial indexation of the tariff to allow payment to KEL in US$ for the first 15 years of operation, thus
+  shielding KEL from impacts of large local currency devaluations.
+
+  Since IDA Guidelines allowed competitively selected sponsors to procure all goods, works and services
+  required for the project according to acceptable commercial practices, IDA reviewed KEL’s procurement
+  procedures and found them to be acceptable. Thus, KEL prepared project designs and bidding
+  documents with the assistance of a local consulting firm and had these reviewed by an international
+  consulting firm, the Lender’s Engineer, and a Panel of Experts. In addition, IDA and IFC also reviewed
+  contract packages for all major contracts.
+
+  In summary, the overall the project preparation for the KAHEP component included best practice
+  standard features for private sector power projects including: (a) the hiring of an internationally reputable
+  firm to review the designs; (b) the preparation of Geotechnical Baseline Report (GBR) and Risk Register
+  whose results were incorporated in the bidding documents to provide reference data for construction and
+  for resolving contractual disputes; (c) a multi-layered supervision approach comprising an Owner’s
+
+                                                                                                      Page 9 of 18
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Kabeli-A Hydro Electric Project (P122406)
+
+
+
+Engineer (OE), Panel of Experts (POE) comprising both technical and Environmental, Health and Social
+experts, (d) a Lender’s Engineer (LE); and (e) an International Environmental and Social Consulting firm
+for monitoring and reporting on project compliance with E&S obligations.
+
+However, there some shortcomings during project preparation which the ICR describes very candidly
+(ICR, page 16, para. 48). In particular, the impacts of the GON’s slow decision making on key project
+milestones during implementation were not strongly evaluated. Specifically, the project timelines, taken
+as whole from Board approval to completion, inclusive of the time needed to achieve effectiveness of
+loans and financial closure were tight. This is not because of the construction period of 5 years which was
+reasonable for a simple hydropower project of this nature but was due to the extended delays in finalizing
+the financing agreements, including the underlying land security requirements by lenders. The delays
+also arose because this was the first time in Nepal that government-procured debt was being extended to
+the private sector through an intermediary lending arrangement. More thorough analysis of decision-
+making routines within GON and of the lenders’ requirements could have reduced the time elapsed
+between approval of IDA financing (July 1, 2014) on one hand and credit effectiveness (June 30, 2016)
+and financial closure (June 16, 2017) on the other hand, thus speeding up contractor mobilization. Past
+practices in other public/private sector projects have been to delay submission of projects to IDA’s Board
+of Directors for approval until financial closure was considered imminent. A more thorough analysis of the
+time requirements for the GON decision making on lenders’ requirements could also have resulted in a
+delayed submission of the project to the Board until financial closure was imminent in this case.
+
+As described above the project due diligence, including assessment of the capacity of the project sponsor
+was carried out comprehensively with the participation of both IDA and IFC as well as the POE. The
+assessment of KEL’s capacity did, however, indicate, according to the PAD (Annex 6, page 56) that there
+was a “. risk inherent in KEL’s limited construction management experience.” The identified risk
+mitigation measures relied on the inputs of international consulting firms for design review and review of
+bidding documents, verification of headworks through a physical model study, and the support of the OE
+and the POE. In addition, the KAHEP team was to receive training in construction management prior to
+the launch of construction and periodically throughout the implementation period in specific aspects
+relevant to the project.
+
+The project also included support for development of guidelines on environmental and social policies,
+capacity building on project supervision and monitoring, preparation of feasibility studies and sustainable
+hydropower planning.
+
+The institutional and policy components were well designed with the following exceptions: (a) the
+reputational risks of financing IBN’s supervision of non-IDA financed activities could have been foreseen
+and avoided; and (b) the outputs from the components were not fully accounted for in the results
+framework; and (c) the PDO could have been better formulated to also include outcomes from the
+institutional and policy component (e.g. adoption or codification of environmental, social and or
+resettlement policies for hydropower projects developed through the project), and could have been
+pitched at the level of outcomes instead of that of outputs (energy generated instead of capacity
+addition).
+
+While IDA supported a comprehensive due diligence of the sponsor, design of the project’s contractual
+framework and a multi-layered support structure to the client, including international consulting firms and
+a panel of Experts as described above, a significant flaw in the project preparation/appraisal process was
+the underestimation of the time required to achieve effectiveness of IDA financing and financial closure
+
+
+                                                                                                 Page 10 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Kabeli-A Hydro Electric Project (P122406)
+
+
+
+  on lenders’ loans. Other shortcomings related to the statement of the PDO and non-accounting of
+  outputs of the institutional components as described above. The inadequacy of timelines that were built
+  into the project schedule was a significant shortcoming that contributed to the failure of the project to
+  achieve its objective. Hence, the project’s quality at entry is rated Moderately Satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The project was originally expected to be implemented over a period of about 51/2 years between July 31,
+ 2014 and December 31, 2019. However, the project was closed on December 31, 2019 without
+ completion of its major component – the Kabeli-A Hydroelectric Plant.
+
+ The project was regularly supervised, and at least two ISRs prepared each year. Project files also indicate
+ at least two annual IDA supervision missions although the level of effort was probably higher when informal
+ missions are considered and given the implementation difficulties that were being encountered. Despite
+ IDA’s supervision effort, the project was rated moderately unsatisfactory for implementation performance
+ for most of its duration. The project performance was influenced by several factors some of which the IDA
+ supervision mission team could have influenced and others which were outside the team’s control. To
+ provide a sense of the quality of the IDA team supervision mission’s inputs the paragraphs below
+ summarize the evolution of the project implementation.
+
+ First, initial project implementation delays were caused by delayed effectiveness of IDA financing and
+ financial closure on the lenders’ financing. Credit effectiveness was extended for 4 times from the initial
+ date of September 30, 2014 to June 20, 2016 i.e., a delay of about 21 months. Even after credit
+ effectiveness several conditions related to lenders agreements which needed to be completed to allow for
+ the first IDA drawdown remained outstanding until June 16, 2017. These delays meant that the contractor
+ could not be granted permission to fully mobilize until January 1, 2018 i.e., about 3 ½ years since Board
+ approval or just over 2 years since contract signature. KEL had issued the contractor a Limited Notice to
+ Proceed (LNTP) on September 8, 2016 to allow construction of access roads, temporary workers’ housing
+ and camps, detailed project design and adit tunnel to commence. Even then it was not until February 20,
+ 2017 (about 5 months later) that the works under the LNTP began.
+
+ By July 2017 the issues related to the lenders’ agreements had been solved and the first IDA drawdown
+ was effected. However, the contractor had been slow to mobilize equipment and staff to site and the work
+ was proceeding at a very slow pace. By the time of the mid-term review mission in October 2017 the
+ seriousness of the problems at site had come into sharp relief. In addition to the construction delays, there
+ were also numerous issues related to the environmental, health and safety aspects with the contractor
+ reportedly ignoring instructions from the OE and sometimes constructing works without authorized
+ drawings. The contractor, on his part, indicated that the OE sometimes withheld authorizing drawings.
+
+ The supervision reports attributed the implementation problems to: (a) lack of communication and
+ cooperation between the CHM and the OE at site; (b) absence of project handbook and implementation
+ schedule; (c) a heavily modified FIDIC contract design; (d) a lack of understanding and interpretation of the
+ contract by the CHM and the OE; and (e) the absence of proper coordination by KEL. KEL had modified
+
+                                                                                                   Page 11 of 18
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    Kabeli-A Hydro Electric Project (P122406)
+
+
+
+the contract packages and FIDIC contract documentation which probably contributed to the confusion.
+IDA’s analysis of the problems at site were consistent with that of the LE who had also warned of delayed
+completion, increased project costs and inferior quality of works.
+
+An action plan was prepared and discussed with IDA in early December 2017 and a follow-up technical
+team was planned for mid-December 2017 to monitor progress. About six months later in June 2018 a
+desktop ISR indicted that there had been no progress in implementing the remedial action plan that had
+been reviewed by IDA in December 2017. Although the contractor had since received a full notice to
+proceed on January 1, 2018, he had only mobilized about 12% and 50% of required staff and equipment
+respectively and work progress was only 10% instead of the planned 20%. On April 4, 2018 KEL and CHM
+had signed an MOU (another action plan) outlining remedial measures to speed up implementation of the
+project.
+
+An IDA mission in July 2018 had again requested KEL to prepare and submit a “catch-up” implementation
+plan. In the absence of progress in the implementation of remedial action plans KEL finally issued the
+contractor a “Notice to Correct” on November 16, 2018 – effectively a suspension of contract and finally
+terminated the contract on March 26, 2019.
+
+IDA ‘s supervision effort, as in most power projects involving private sector developers, appears to have
+been that of broad oversight of project performance (technical, E&S, financial management and
+procurement; etc.,) and assisting all parties to resolve issues. In addition, the strategy was based on
+interactions with client-sourced experts and with the Lender’s Engineer. The implementation support plan
+was provided in the PAD Annex 5, page 46. The annual resource budget at US$120,000 in 2014 dollars
+appears to have been reasonable at about 1.5 times the normal supervision coefficient at the time. Actual
+costs ranged from about US$ 102,000 in FY15 to about US$295,000 in FY19.
+
+However, there were some shortcomings in the quality of supervision. First, although it was primarily the
+role of the project company to manage the execution of the contracts for the KAHEP, including that of the
+OE, IDA had the obligation to ensure that the project was implemented efficiently to achieve its project
+objectives. In that context IDA could have taken stronger measures to deal with issues of non-performance
+and not wait for the KEL to enforce its contracts which happened only about a year before closure.
+Discussions with the project team indicated that IDA’s reluctance to take stronger measures arose from: (a)
+initial expectations that once financial closure had been reached and the contractor mobilized, construction
+would proceed speedily; (b) the hope that the “model” project financing structure for small hydropower
+schemes could still succeed; and (c) the desire to maintain country relations. The supervision mission
+reports do not reflect an active role for the DOED which was funded to supervise the project to ensure
+compliance with the PDA.
+
+ A second shortcoming was the failure to restructure the project to improve its PDO by pitching it at the
+level of outcomes as well as perhaps linking it to institutional and policy components. Instead, the first
+restructuring provided funding for training and supervision equipment (motor vehicles and computers) –
+although very little supervision appears to have been carried out by the MOEWRI. The second
+restructuring was carried out about two months before project closure to reallocate grant funds to activities
+under another project where a deficit had occurred.
+
+The IDA supervision team closely monitored the required actions to achieve project effectiveness and
+financial closure on the lenders’ loans. IDA team tried to facilitate the design and monitoring of remedial
+action plans to address implementation problems at the KAHEP project site, but its efforts were
+
+
+                                                                                                   Page 12 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Kabeli-A Hydro Electric Project (P122406)
+
+
+
+ ineffective. As such the problems persisted from the time the LNTP was issued in September 2016
+ through to termination of the CHM contract on March 26, 2019. IDA could have taken stronger measures,
+ including sending early signals of its preparedness to cancel IDA financing which could have provided
+ incentives for the GON to leverage KEL to address the issues more aggressively and, perhaps, saved the
+ project from total failure. This was a significant shortcoming on part of IDA’s supervision efforts that
+ contributed to the project ‘s failure to achieve its objective. Hence, the quality of supervision is rated
+ Moderately Unsatisfactory.
+
+
+
+  Quality of Supervision Rating
+  Moderately Unsatisfactory
+
+  Overall Bank Performance Rating
+  Moderately Unsatisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ According to the ICR (page 14), the design of the M&E was straightforward, with two types of reporting by
+ KEL and the LE. KEL’s was obligated to monitor and report on the implementation of the KAHEP
+ component including the environmental and social plans. In addition, the DOED was to monitor and report
+ on KAHEP’s compliance with the environmental and social obligations under the PDA. In addition,
+ according to the PAD (page 11), the M&E also included reporting requirements by DOED and IBN on their
+ components which the ICR notes were received on a regular basis. Similarly, the 2019 project
+ Restructuring Paper imposed reporting obligations on WECs on its component, although this was with only
+ two months left before project closure.
+
+ On IDA’s side the results framework (Annex 1 of the ICR) was apparently not updated, as specifically
+ provided for in the Restructuring Paper of November 3, 2019. A further observation is that there was no
+ update of the Results Framework to provide for monitoring of outputs from the additional activities
+ introduced during the July 7, 2018 restructuring – motor vehicles, IT equipment and training, and therefore
+ no accounting for these or related outputs.
+
+
+
+b. M&E Implementation
+  The ICR reports (page 14) that both KEL and the LE provided their required M&E reports on a regular
+  basis and so did the DOED and IBN. There are no indications from supervision reports of significant
+  delays in the submission of reports or of non-compliance with reporting obligations.
+
+
+
+c. M&E Utilization
+  The M&E reports were used during the bi-annual Implementation Status and Results Report (ISR)
+  missions between IDA, KEL and GON agencies to review achievement of activities, indicators, and
+
+                                                                                                  Page 13 of 18
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     Kabeli-A Hydro Electric Project (P122406)
+
+
+
+  progress. They thus, formed the basis for decisions on remedial actions. While action plans were
+  designed several times for the KAHEP component their implementation was not carried out as earlier
+  described.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as Environmental Category A according the Bank’s safeguard policy on
+   Environmental Assessment (OP/BP4.12). The following safeguard policies were also triggered: Involuntary
+   Resettlement (OP/BP 4.12), Indigenous People (OP/BP4.10), Forests (OP/BP 4.35), Safety of dams
+   (OP/BP 4.37, and Projects on International Waterways (OP/BP 7.50).
+
+   The ICR indicates that the Environmental Management Plan (EMP) and the Social Action Plan (SAP) for
+   implementation of the Environmental Impact Assessment (EIA) and Social Assessment (SA) were
+   developed in a consultative and participatory process in such a manner as to secure broad community
+   support for the proposed mitigation measures, including from Indigenous Peoples. The SAP was
+   comprehensive and included all the appropriate mitigation measures, benefit sharing, resettlement and
+   compensation and livelihood assistance, grievance redress mechanism; etc. The institutional arrangement
+   for implementation - the Kabeli Environment and Community Development Unit was established and
+   appropriately staffed. Compensation payments were made to all affected households - both titleholders and
+   non-titleholders who put forth their requests. The SAP included a rural electrification plan which received
+   financial support from some municipalities.
+
+   A GRM was established and accompanied by wide dissemination. Consequently, 41 grievances were
+   received 40 of which were resolved. The unresolved grievance was due to non-substantiation of the subject
+   matter of the complaint.
+
+   The construction environmental, social, health, and safety management plan prepared by the contractor
+   fared less well as with other activities under the CHM. Thus, implementation of community safety,
+   environment, social, and health management; waste disposal; solid waste management; slope stabilization
+   and dust control were not satisfactory during the construction period. After termination of the contract
+   KAECDU ensured clear demarcation of the sites by fencing according to a request by IDA and deployed
+   security guards and signages in the appropriate locations. Whereas the ICR (page 15) states that KAECDU
+   had “. implemented the World Bank-suggested measures to bring the performance to Moderately
+   Satisfactory at the time of project closure”, the last archived ISR shows an overall Safeguards rating of
+   Unsatisfactory.
+
+
+
+
+b. Fiduciary Compliance
+
+
+                                                                                                Page 14 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Kabeli-A Hydro Electric Project (P122406)
+
+
+
+   Financial management was rated Moderately Satisfactory over most of the project period but turned
+   Moderately Unsatisfactory towards the end. The main FM issues were timeliness of reporting, which was a
+   problem for all agencies, absence of thorough reviews of supporting documents from KEL by the on-
+   lending agency (HIDCL); and inadequate government budget resulting in the charging of ineligible
+   expenditures to IDA grant (DOED and IBN). Overall, the lack of financial management staff dedicated to
+   the project contributed to these FM issues.
+
+   KEL, DOED and IBN were required to submit annual audited financial statements, including audits of the
+   designated special accounts. Project correspondence indicates that all reports have been submitted,
+   including the latest statements for 2019/2020. Both the KEL and DOED audit financial statements for
+   FY2019/2020 were found acceptable by IDA, but minor management letter recommendations remained to
+   be resolved by DOED.
+
+   Since the project sponsor was competitively selected IDA guidelines allowed for the project company to
+   procure goods, works and services using its own procedures, provided they confirmed to acceptable
+   commercial practices. IDA, thus, reviewed KEL’s procedures and found them to be
+   acceptable. Therefore, IDA limited its procurement support to reviewing designs and contract packages
+   and bidding documents but did not provide “no objections” for contract awards.
+
+   While DOED had relatively experienced procurement staff, the selection of consultants was considerably
+   delayed due to slow decision making in the agency. In IBN, procurement could not be completed within
+   the project period. Thus, procurement performance was rated Moderately Unsatisfactory for most of the
+   project’s life, including at project closure.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   Not Applicable
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                Reason for
+Ratings                          ICR                 IEG
+                                                                                Disagreements/Comment
+                                 Highly
+Outcome                                             Highly Unsatisfactory
+                                 Unsatisfactory
+                                                                                The Bank’s underestimation at
+                                                                                project preparation/appraisal of
+                                                                                the time required to achieve
+                                 Moderately         Moderately
+Bank Performance                                                                project effectiveness and
+                                 Satisfactory       Unsatisfactory
+                                                                                financial closure on lenders’
+                                                                                loans and its delay in taking
+                                                                                stronger actions to address
+
+
+                                                                                                  Page 15 of 18
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Kabeli-A Hydro Electric Project (P122406)
+
+
+
+                                                                                 issues of non-performance
+                                                                                 during project implementation
+                                                                                 contributed, among other
+                                                                                 factors, to the project‘s failure to
+                                                                                 meet its intended objectives.
+Quality of M&E                   Substantial          Substantial
+
+Quality of ICR                   ---                  Modest
+
+
+12. Lessons
+
+The following are key Lessons Learned from the preparation and implementation experience:
+
+(a) Recognizing the complexity of project planning and implementation in hydropower
+project development.. Hydropower projects are complex to prepare and implement because they
+involve a wide range of issues related to geological conditions, hydrology, dam safety, multiple
+licensing and permitting requirements, environmental and social ecosystems, risk identification,
+mitigation, and allocation; etc. This complexity demands a wide range of expertise and
+experience and skilled management to ensure careful coordinated planning of activities and their
+smooth implementation. Specifically, in the context of this project, more detailed planning during the
+preparation phase could have surfaced potential delays due to land securitization requirements, time
+requirements for approval of loan agreements by the Central Bank of Nepal and the PPA by
+NEA. Having the right expertise and skilled management at the project site could have avoided or
+reduced the disagreements between the OE and the contractor at the KAHEP site and resulted in a
+better outcome.
+
+(b) Timing for submission of operations involving private sector financing to IDA’s Board. In
+the past the standard practice has been to submit projects for Board approval only when financial
+closure was imminent. This practice requires that the assessment of imminence be rigorous. Had
+the assessment of timelines required to meet the various lenders’ requirements been robust, the
+lengthy period of more than 2 years between signature of the CHM contract and full mobilization
+would have been avoided.
+
+(c) The importance of sound due diligence of project sponsors and ensuring their successful
+procurement of goods, works and services for the project. In private sector projects where IDA
+has no oversight role in procurement due diligence of the sponsors and their project management
+arrangements are extremely important. It appears that in this project the due diligence was
+conducted comprehensively with the participation of IDA and IFC teams and the Panel of
+Experts. Measures were put in place to mitigate the identified risks such as KEL’s limited
+construction management experience and these included the hiring of international consulting firms
+to review designs and bidding documents, panel of experts to advise on a range of technical issues.
+Training was provided to KEL staff on construction management. Despite an impressive project
+management structure drawn up at appraisal during implementation KEL faced difficulties in
+managing the project, specifically in effectively resolving conflicts between its OE and the civil works
+and hydromechanical works contractor and in staffing its own site supervision team. Once
+selected, KEL had the responsibility for engaging and monitoring the performance of the OE and the
+CHM. Although IDA’s review indicated that KEL had sound and acceptable procurement practices
+
+                                                                                                     Page 16 of 18
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       Kabeli-A Hydro Electric Project (P122406)
+
+
+
+and had supported KEL by reviewing bidding documents for all major contract packages the
+selected contractor and OE failed to perform their tasks according to expectations. An important
+lesson is that, perhaps, sole reliance on submitted bids without verification of actual previous
+performance elsewhere may not always result in the selection of good contractors. IDA and clients
+may require changes in policies and procedures to enable additional verification of bidders’
+performance outside submitted documents.
+
+(d) Ensuring sound project objectives. Revisiting project objectives during implementation,
+especially mid-term review missions can reveal opportunities for restructuring to correct
+deficiencies. In the context of this project the opportunity was lost to revise the PDO and pitch it at
+the outcome rather than the output level at which it was set at appraisal. In addition, the PDO could
+have been broadened by linking it to policy and institutional components instead of retaining its
+linkage to only one component.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provides a clear, concise, and easy-to-read description of the context in which the project was
+conceived and implemented and the key factors that led to its failure to achieve its intended objective. There
+are however several shortcomings. These are as follows: (a) the write up on IDA performance, particularly the
+subsection on supervision (pages 16 and 17), lacks details on specific actions taken by IDA to address the
+project performance problems that plagued the project as well as explanations of why they were not effective;
+(b) the Environmental, Social and Fiduciary Compliance section (pages 14, 15 and 16) does not provide any
+reference to the findings of the Panel of Experts or those of the Independent Environmental and Social
+Consultant – both services were retained by KEL as part of the multi-layered implementation support structure;
+(c) the ICR does not confirm whether the EMP and SAP were complied with in accordance with the Financing
+Agreements, at least up to the point of termination and although the ISRs indicate compliance, the safeguard
+ratings and in particular the rating for OP/BP 4.02 suggest otherwise; (d) the ratings for overall safeguards and
+for financial management quoted (pages 15 and 16) are also not consistent with the final archived ISR
+(Sequence 9, archived April 6, 2019).
+
+
+
+  a. Quality of ICR Rating
+       Modest
+
+
+
+
+                                                                                                    Page 17 of 18
+Independent Evaluation Group (IEG)          Implementation Completion Report (ICR) Review
+Kabeli-A Hydro Electric Project (P122406)
+
+
+
+
+                                                                         Page 18 of 18
+

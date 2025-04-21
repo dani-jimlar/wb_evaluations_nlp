@@ -1,0 +1,1277 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+                                                                                  Report Number: ICRR0024167
+
+1. Project Data
+
+
+
+ Project ID                                  Project Name
+ P113266                                     WAPP APL4 (Phase 1) CSLG
+
+ Country                                     Practice Area(Lead)
+ Western and Central Africa                  Energy & Extractives
+
+
+ L/C/TF Number(s)                            Closing Date (Original)               Total Project Cost (USD)
+ IDA-51100,IDA-61480,IDA-61500,IDA-          31-Dec-2017                                        275,873,018.23
+ D2440,IDA-D2470,IDA-H7700
+
+ Bank Approval Date                          Closing Date (Actual)
+ 31-May-2012                                 15-Mar-2023
+
+                                             IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                           176,000,000.00                                               0.00
+
+ Revised Commitment                            294,713,021.34                                               0.00
+
+ Actual                                        275,873,018.23                                               0.00
+
+
+
+
+ Prepared by                  Reviewed by                  ICR Review Coordinator         Group
+ Ihsan Kaler Hurcan           Avjeet Singh                 Avjeet Singh                   IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The First Phase of the Cote d’Ivoire, Liberia, Sierra Leone, and Guinea (CLSG) Power System Re-
+   Development Sub-Program of the West African Power Pool (WAPP) Adaptable Program Lending Program
+   were supported by two projects under one project number: The CLSG Power Interconnection Project (CLSG
+   Project) and the WAPP Integration and Technical Assistance Project (WAPP Project).
+
+
+
+                                                                                                   Page 1 of 24
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+   According to the International Development Association (IDA) Financing Agreement for Liberia dated August
+   16, 2012 (Credit Number 5110-LR, p.9) and the Project Appraisal Document (p.9), the original objectives of
+   the CLSG Project were “(i) to reduce the cost of and increase the electricity supply at utility level; and (ii) to
+   increase the export capability of Côte d'Ivoire.”
+
+   According to the IDA WAPP Financing Agreement dated August 20, 2012 (Grant Number H770-3A, p.7) the
+   Project Appraisal Document (p.9), the objective of the WAPP Project was “to increase the technical
+   integration of the WAPP network.”
+
+   At the time of the additional financing in October 2017, the objective of the CLSG Project was revised to read
+   as to “(a) reduce the cost of electricity supply at the utility level for Liberia and Sierra Leone; and (b) increase
+   the amount of electricity traded among all the participating countries.” The objective of the WAPP Project was
+   not revised. A separate financing agreement was signed with Sierra Leona to finance a part of the
+   transmission line in that country.
+
+   Reasons not to undertake a split assessment of the project outcome:
+
+   Although the project objective was revised at the time of the additional financing in October 2017, a split
+   assessment of the project outcome will not be undertaken in this review because the revision was
+   necessitated to clarify the formulation of the objectives and better capture the project outcomes. First, cost
+   savings from the electricity trade facilitated by the transmission line were expected to materialize mostly in
+   Liberia and Sierra Leone. Therefore, the first objective of the CLSG Project was revised to specify these two
+   countries. Second, the transmission line was to encourage imports and exports of electricity among all
+   beneficiary countries rather than only Cote d’Ivoire. Therefore, the second objective was revised to better
+   capture this outcome. Thirdly, the definitions of two key indicators were revised to better and more realistically
+   capture the project outcomes rather than lowering the outcome targets of the project. Taking these points into
+   consideration, since there was no material change in the objectives of the project because of the revision of
+   their formulation, this review will not undertake a split assessment of the project outcome and will assess the
+   project’s performance based on the achievement of the revised objectives.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  25-Oct-2017
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The CLSG Project consisted of two components with various subcomponents:
+
+
+
+                                                                                                        Page 2 of 24
+  Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+  WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+A. High Voltage Transmission Interconnection among Cote d’Ivoire, Liberia, Sierra Leone, and
+Guinea. (Appraisal cost: US$321.95 million; revised cost at the time of additional financing: US$440.80
+million; actual cost: US$480.25 million)
+
+This component was to finance the construction of a 1,349 kilometer (km) transmission interconnection line
+and its associated substations between the participating countries. This component consisted of five
+subcomponents.
+
+A.1. Construction of a 225 kilovolt (kV) interconnection among the participating countries: This
+subcomponent was to finance the construction of a 1,349 km of a 225 kV one-circuit transmission
+interconnection line starting from Man in Cote d’Ivoire, passing through Monrovia in Liberia and Benongor in
+Sierra Leone, and ending at Linsan in Guinea. The transmission line was to be built to allow the future
+installation of a second circuit.
+
+A.2. Substations: The project was to finance the construction of eleven 225 kV substations associated with
+the transmission line. Four of those substations were to be built in Liberia financed by the IDA credit. Five of
+the remaining seven substations were to be built in Sierra Leone and two in Guinea, and the Man
+substation in Cote d’Ivoire was to be expanded, all of which to be financed by other international donors.
+
+A.3. Supervisory Control and Data Acquisition System (SCADA): The subcomponent was to finance the
+acquisition and installation of a SCADA system to monitor and control the interconnected transmission line
+in the territory of the participating countries
+
+A.4. Compensation and Frequency Regulation Equipment: The subcomponent was to finance the
+acquisition and installation of the equipment to enhance frequency control along the interconnected
+transmission line.
+
+A.5. Implementation of the Environmental and Social Management Plans and the Resettlement Action
+Plans: This subcomponent was to support the implementation of the Environmental and Social
+Management Plans and the Resettlement Action Plans under the relevant World Bank safeguard policies.
+
+B. Institutional Framework and Project Oversight. (Appraisal cost: US$45.42 million; actual cost IDA
+contribution: US$46.49 million)
+
+This component consisted of two subcomponents:
+
+B.1. Establishment of the Regional Transmission Company (RTC): This technical assistance subcomponent
+was to support the establishment of the RTC through the setting up of its procurement and financial
+management systems and recruitment of its staff, provide capacity building to the RTC and the participating
+utilities in fiduciary matters, and finance the operating costs of the RTC during the construction of the
+transmission line.
+
+B.2. Implementation Support: The subproject was to support the RTC in project management and
+supervision including procurement, design, construction, and preparation for operation and maintenance of
+the investments, supervision and monitoring of the safeguard policies, preparation of a compensation and
+frequency regulation studies and measures, and implementation of audits of the RTC. An owner’s engineer
+was to be hired under this subcomponent.
+
+
+
+                                                                                                   Page 3 of 24
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+  The WAPP Project consisted of two technical assistance components:
+
+  C. Supply Alternative Studies and Project Preparation Support. (Appraisal cost: US$10.00 million;
+  revised cost at the time of additional financing: US$27.50 million; actual cost: US$27.50 million)
+
+  This component was to finance a program to ensure that the generation capacity along the transmission line
+  would be developed in the medium and long-term in a timely manner and in accordance with least cost
+  principles.
+
+  D. Integration of the WAPP Network and Strengthening of the WAPP. (Appraisal cost: US$21.50
+  million; actual cost: US$21.50 million)
+
+  This component consisted of two subcomponents:
+
+  D.1. Integration of the WAPP Interconnected Network: This subcomponent was to support the WAPP to
+  implement a synchronization program to establish a sub-regional market for electricity through the
+  interconnection and synchronous operation of the regional transmission networks of at least five power
+  utilities in the Economic Community of West African States (ECOWAS) region.
+
+  D.2. Strengthening of the WAPP: This subcomponent was to provide technical assistance to the WAPP to
+  develop, implement, and monitor the WAPP priority projects, deploy the operational security and mitigation
+  plan for the power pool operation, implement a certification process for the network operators, and prepare
+  a study to establish a road map for the market and a tariff methodology.
+
+  Revised Components
+
+  The construction of the Linsan substation in Guinea was transferred to the Organization for Development of
+  the Gambia River (OMVG - L'Organisation pour la Mise en Valeur du Fleuve Gambie) regional project.
+
+  At the time of additional financing, following activities were added to the WAPP project (ICR, p.11):
+
+      a. Strengthening of the commercial framework for energy trade through the CLSG,
+      b. The identification and preparation of further development of hydropower plant on the St. Paul River
+         in Liberia, and
+      c. Provision of institutional strengthening and technical and safeguards experts for the hydropower
+         studies.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost: The CLSG Project cost was originally estimated at US$444.39 million and the WAPP Project
+  cost at US$31.50 million including 10 percent physical contingencies and 4.5 percent price contingencies
+  for the World Bank-financed parts. The total cost estimated at appraisal was US$475.89 million. The revised
+  project cost at the time of the additional financing in October 2017 was US$535.20 million. According to the
+  information the World Bank project team provided, the total actual cost of the CLSG Project was $526.74
+  million and the WAPP Project $41.76 million, totaling US$568.50 million.
+
+
+
+
+                                                                                                   Page 4 of 24
+  Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+  WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+Financing: At appraisal, the total IDA financing amount was estimated at US$176.00 million consisting of
+US$144.50 million for Liberia and US$31.50 million for WAPP. In October 2017, and additional financing
+totaling US$122.30 million was approved—US$59.60 million to Sierra Leone, US$45.20 million to Liberia,
+and US$17.50 million for the WAPP—to cover the financing gap caused by exchange rate losses, provision
+of 10 percent contingency on all contracts, cost increases after detailed studies, increased cost because of
+the use of shield wire technology for electrification, and post-Ebola effects and delays in effectiveness (ICR,
+p.11). The total IDA financing increased to 298.3 million. The project had disbursed a total of US$275.87
+million by project closing in March 2023. In addition to the World Bank, the European Investment Bank (EIB)
+was to provide US$105.18 million, the African Development Bank (AfDB) US$28.83 million as loan and
+US$104.26 as grant (total US$133.09 million), and the Kreditanstalt fur Wiederaufbau of Germany (KfW)
+US$40.77 million. According to the information provided by the World Bank project team, the actual
+disbursements of the other donors as of December 2023 were as the following: the EIB US$82.76 million,
+the AfDB US$114.09 million, and KfW US$65.88 million.
+
+Borrower’s contribution: At appraisal, the governments of the participating countries were estimated to
+provide a total of US$20.84 million for the construction of the transmission line and the substations. The ICR
+does not report the actual contribution of the governments to project financing. According to the information
+provided by the World Bank project team, the total actual contribution of the participating countries as of
+December 2023 was US$21.96. In addition, TRANSCO provided US$9.83 million from the revenues the
+company collected from electricity trade after the commissioning of the transmission line in October 2021.
+
+Project Restructurings: The project was restructured eight times including an additional financing.
+
+      First Project Restructuring (January 30, 2015 – Level 2): The project closing date was extended
+       by 22 months from December 31, 2017 to October 31, 2019 because of the delays in the CLSG
+       Project’s effectiveness and project implementation. The CLSG Project credit’s effectiveness was
+       delayed because some effectiveness conditions could not be met despite the ratification of the
+       financing agreement by the Liberian Government and extension of the effectiveness date four times.
+       Those unfulfilled conditions were revised into dated covenants or disbursement conditions such as
+       the execution of the establishment agreement between the regional transmission company
+       (TRANSCO) and each of Liberia, Sierra Leone, and Guinea, the transmission service agreement
+       and the power purchase agreement. The indicator “Distribution line from Monrovia (near Mount
+       Coffee) to the city of Monrovia” was deleted because KfW was to finance this activity. The Mid-term
+       Review date was changed from October 2016 to January 2017.
+      Second Project Restructuring and Additional Financing (October 25, 2017 – Level 1): An
+       additional financing in the amount of US$122.30 million was approved (see sections Revised
+       Components and Financing above). The project objective and the definitions of two key indicators
+       were revised to better and more comprehensively capture the project outcomes (see section 2.a.
+       Objectives and Revised Components above). A new indicator (supply alternative analyses
+       completed) was added to the results framework. Because of the inclusion of the technical assistance
+       for the development of hydropower generation capacity in Liberia to the project scope, three
+       additional safeguards policies were triggered (OP 4.36 on Forests, OP 4.37 on Safety of Dams, and
+       OP/BP 7.50 on Projects on International Waterways). The project closing date was extended by 13
+       and half months from October 31, 2019 to December 15, 2020 to allow time for the completion of
+       newly added activities to the project scope and the transmission line and its related substations.
+      Third Project Restructuring (May 21, 2019 – Level 2): The project was restructured to allow the
+       use of IDA funds for the financing of an overrun cost in the total payment for lands and
+
+
+                                                                                                  Page 5 of 24
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+            compensation to the people affected by the project in Sierra Leone under the Involuntary
+            Resettlement safeguards policy.
+           Fourth Project Restructuring (June 1, 2020 – Level 2): The closing date of the additional
+            financing was extended by 23 months from December 15, 2020 to November 15, 2022 to allow time
+            for the completion of the additional project activities that were delayed because of the slow progress
+            in recruiting the temporary operator that was to operate and maintain the first section of the line from
+            Man in Cote d’Ivoire to Monrovia in Liberia. This closing date extension was also to allow sufficient
+            time for the completion of the technical assistance activities under the WAPP Project. The original
+            financing agreements were expected to close on December 15, 2020 (see the Fifth Project
+            Restructuring below).
+           Fifth Project Restructuring (November 30, 2020 – Level 2): The closing date of the original
+            financing agreements signed in 2012 was extended by 23 months from December 15, 2020 to
+            November 15, 2022 because of the adverse impact of COVID-19 restrictions on project
+            implementation and allow time to address the complexities faced in synchronizing the electricity
+            supply through the transmission line built under the project in participating countries.
+           Sixth Project Restructuring (May 9, 2022 – Level 2): The funds were reallocated to cover the
+            costs of the owner’s engineer for Liberia and the temporary operator of the transmission line.
+           Seventh Project Restructuring (November 12, 2022 – Level 2): The closing date of the additional
+            financing was extended by 4 months from November 15, 2022 to March 15, 2023 to allow time for
+            the completion of the transmission line activities and synchronization of the participating countries
+            systems that were delayed because of the COVID-19 restrictions. It was also expected that this
+            project closing date extension would have allowed sufficient time for the governments of four
+            participating countries to prepare a credible strategy for TRANSCO to reach self-sustainability in the
+            medium-term so that a second additional financing could be processed. However, because of an
+            absence of a credible strategy and a proposal from the governments, a second additional financing
+            could not be processed.
+           Eighth Project Restructuring (March 15, 2023 – Level 2): An additional financing amount of
+            US$3.6 million for the WAPP Project was cancelled on project closing date.
+
+   Dates: The project was approved on May 31, 2012. The grant for the WAPP Project became effective on
+   December 21, 2012. The credit to Liberia under the CLSG Project became effective in January 2015 (see
+   First Restructuring in the section above). A Mid-Term Review was conducted in January and February
+   2017. The original project closing date was December 31, 2017, but it was extended by 5 years and two
+   and a half months (please see the project restructurings above for the reasons of project closing date
+   extension). The project closed on March 15, 2023.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+The project objectives were highly aligned with the World Bank’s strategy as defined in the Africa Regional
+Integration Strategy for FY2018-23. The project objectives were also highly aligned with World Bank
+country partnership frameworks (CPFs) for Liberia (FY19-24), Sierra Leone (FY 21-26), and Guinea (FY18-
+23). The project sought to address the development problem of insufficient and expensive electricity supply,
+which was a major barrier to economic recovery and poverty reduction in these countries. The project’s
+
+                                                                                                       Page 6 of 24
+                                      Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+                                      WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+               outcome was expected to be transformational in providing cheaper and more reliable electricity supply from
+               Cote d'Ivoire while supporting the further technical and operational development and strengthening of the
+               WAPP. The project was to achieve these outcomes through the construction of a 1,349 km transmission
+               line and 11 substations that were to act as a backbone transmission line between these countries and
+               technical assistance to the WAPP in strengthening its operation with the goal of achieving a regional power
+               market in the long-run. The project objectives correspond to “Objective 2.1. Supporting priority regional
+               energy generation and transmission connections” and “Objective 2.2. Transforming subregional power
+               pools into effective, commercially run entities, actively enhancing power trade between nations” of the
+               Africa Regional Integration Strategy. They also correspond to Liberia CPF’s objective to expand access to
+               more affordable and reliable electricity under its pillar for narrowing the infrastructure gap in the country. In
+               the Sierra Leone CPF, the project objectives support the achievement of the “Objective 3.1. To build
+               resilient infrastructure (power, mobility, technology) for enhanced competitiveness. The project also
+               supported the Guinea CPF’s economic growth pillar by connecting the country’s hydropower generation to
+               Sierra Leone and Liberia contributing to regional power trade.
+
+               The project objectives were highly relevant to the country contexts. With very low electrification rates in
+               Liberia and Sierra Leone, the project was expected to provide these countries with cheaper and more
+               reliable electricity that would allow the expansion of access to electricity. With the involvement of the
+               WAPP, the project countries were expected to achieve the project objectives. The original and revised
+               project objectives were outcome-oriented and appropriately pitched for the development status of the
+               participating countries.
+
+               The project benefited from the experience gained through the World Bank’s engagement with the countries
+               in the region and the WAPP under the APL series that started in 2002. The project objectives were
+               sufficiently challenging for a project, which was fourth in this series. The project was to complement the
+               other transborder transmission lines constructed under the APL series in establishing a technical
+               infrastructure for the development of the regional power market while supporting the WAPP through
+               technical assistance in developing regional market mechanisms.
+
+               Overall, the relevance of the project objective is rated High.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To reduce the cost of electricity supply at utility level in Liberia and Sierra Leone.
+
+                             Rationale
+
+
+                                                                                                                                 Page 7 of 24
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+Theory of Change of Objectives 1 and 2
+
+The project was to finance the construction of a high voltage transmission line along with the associated
+transmission substations connecting the national grids of Cote d’Ivoire, Liberia, Sierra Leone, and Guinea and
+support the establishment of a regional transmission company to operate and maintain the transmission line.
+The project outputs of transmission line and substations constructed would have been expected to lead to the
+intermediate outcome of increased amount of hydropower generated electricity supplied to Liberia and Sierra
+Leone from Cote d’Ivoire and Guinea. The project’s expected outcomes would have been an increase in the
+availability of electricity supply in Liberia and Sierra Leone and a decrease in the overall generation cost of
+electricity because of the replacement of expensive thermal generation electricity by hydropower generated
+electricity, and increased access to affordable electricity in the medium and long-terms contributing to
+economic development and poverty reduction. The establishment of the regional transmission company
+would have been expected to ensure the sustainability of project outcomes because of adequate and efficient
+operation of the transmission system.
+
+Overall, the project’s theory of change was simple and straightforward. The causal links from project’s
+activities and outputs to expected outcomes were direct and valid, and the achievement of the project
+objective could be directly attributed to the project’s intervention.
+
+Outputs
+
+      Transmission line constructed: The project financed the construction of 1,303 km of single circuit
+         transmission line connecting the Man substation in Cote d’Ivoire through Monrovia in Liberia and
+         Bikongor in Sierra Leone to Linsan in Guinea as planned. The target was 1,349 km. The balance 50
+         km of the Monrovia-Monrovia City line was financed by other donors.
+        225 kV substations constructed: The project financed the construction of 11 substations against the
+         target of 11. The Linsan substation in Guinea, originally to be constructed under the CLSG
+         Project, was constructed under the OMVG Regional Power Project, but KfW financed the construction
+         of an additional substation in Botota, Liberia under the project.
+        Regional Transmission Company’s fulfillment of obligations on time and to the quality
+         required. The project also supported the establishment of a supranational regional transmission
+         company called TRANSCO by financing its establishment and operating costs during project
+         implementation as planned.
+        As a result of the construction of the single circuit transmission line, a 200 MW transmission capacity
+         is created among the participating countries. The transmission line was built to allow the stringing of a
+         second circuit in the future, which will increase the transmission capacity to 400 MW.
+        The project also financed the acquisition and installation of SCADA and frequency regulation
+         equipment as defined in the project design, but these activities were not captured by the results
+         framework.
+
+Outcomes
+
+      Difference between the annual weighted cost of imported electricity through the CLSG and the
+         annual weighted cost of other sources of supply for utilities in Liberia and Sierra Leone As a
+         result of the availability of hydropower generated electricity from the neighboring countries through the
+         transmission line and substations built under the project, the utilities in Liberia and Sierra Leone
+         imported electricity between August 2022 and July 2023 at a price that is US$0.13 per kWh cheaper in
+
+                                                                                                    Page 8 of 24
+   Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+   WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+       Sierra Leone and US$0.11 per kWh cheaper in Liberia than the annual weighted cost of thermal
+       generation, the only alternative source of generation. When the definition of this indicator was revised
+       (from “Annual weighted cost of electricity supply at power utility level in Liberia and Sierra Leone”) in
+       October 2017, the targets were not revised. Therefore, there was a mismatch between the new
+       definition of the indicator, which focused on the cost of electricity generation, and the targets inherited
+       from the original indicator, which were related to a reduction in the cost of supply. Therefore, to better
+       measure the outcome of the project’s intervention on electricity costs, the ICR calculates the impact of
+       the imported electricity on the weighted average annual generation cost (which include thermal and
+       hydropower generation costs) in Liberia and Sierra Leone. The calculations show that because of the
+       electricity imported through the transmission line, the weighted average cost of electricity generation
+       between August 2022 and July 2023 decreased from US$0.264 per kWh to US$0.132 per kWh (20
+       percent decrease) in Liberia and from US$0.203 per kWh to US$0.134 kWh (34 percent) in Sierra
+       Leone. However, the impact of the imported electricity on weighted average cost of electricity
+       generation drops to 12 percent in Liberia and 23 percent in Sierra Leone when the debt service cost of
+       the transmission line is taken into consideration.
+
+The commercial operation of the transmission line connecting the participating countries began in December
+2021 in Sierra Leone, in April 2022 in Guinea, and in November 2022 in Liberia. The transmission line
+established a robust electricity transmission backbone in Liberia an Sierra Leone with the possibility to double
+the transmission capacity when the second circuit is added. The electricity imported from neighboring
+countries now, and other WAPP countries in the future, is expected to help Liberia and Sierra Leone to further
+lower their electricity generation weighted average costs while increasing access to electricity subject to
+additional distribution network investments. The transmission line is also likely to support the development of
+domestic generation capacity in Liberia and Sierra Leone because of the availability of excess transmission
+capacity.
+
+Overall, the efficacy of the project in achieving the project objective to reduce the cost of electricity supply at
+utility level in Liberia and Sierra Leone is rated Substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+To increase the amount of electricity traded among all the participating countries.
+
+Rationale
+Theory of Change of Objective 2.
+
+Please see Theory of Change under Objective 1.
+
+Outputs
+
+Please see outputs under Objective 1 above.
+
+
+                                                                                                      Page 9 of 24
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+Outcomes
+
+      Annual electricity supply from CLSG imports at utility level (disaggregated: Liberia, Sierra
+       Leone, and Guinea): The target was a total of 300 GWh of electricity delivery annual and the project
+       facilitated the delivery of 314 GWh of electricity between August 2022 and July 2023 because of the
+       transmission capacity created by the transmission line. However, there were differences at the utility
+       level. Originally, it was targeted that each utility in Liberia, Sierra Leone and Guinea would have
+       supplied 100 GWH from imports through the transmission line. The actual amount of electricity
+       supplied by each utility was 116 GWh in Liberia, 166GWh in Sierra Leone, 31 GWh in Guinea and 1
+       GWh in Cote d’Ivoire. Actual electricity import by Guinea was lower than the estimated amount
+       because currently only one city is connected to the transmission line. All electricity supplied through
+       the transmission line was generated in Cote d'Ivoire, which in return received 1 GWh from the Liberian
+       utility to offset against imports by the same utility. The initial demand for electricity was lower than the
+       estimated amount because of the delays in the electrification projects of the national utilities.
+      Direct project beneficiaries: The number of people benefited from the project’s intervention was
+       estimated at 2.8 million against the target of 5.2 million. The lower achievement was because of the
+       slow progress in the electrification activities of the utilities compared to the original estimates. The ICR
+       (p.18) notes that the original target could have been overestimated because there was only one city
+       connected to the transmission line with a population of approximately 200,000 people in Guinea, a
+       small fraction of the Guinea’s population of 13.9 million.
+
+The project resulted in a higher amount of electricity supplied through the transmission line. The transmission
+line has a 200 MW transmission capacity. In 2023, 81 MW of that capacity was contracted. In 2024, the
+contracted capacity increased to 104 MW. Similar increases in the contracted capacity were seen in the other
+WAPP interconnection transmission line projects, such as the transmission line between Ghana and Burkina
+Faso. Therefore, it is expected that the amount of electricity supplied through the transmission line will
+increase in the near future that might require the addition of the second circuit to the transmission network
+increasing the transmission capacity to 400 MW.
+
+Overall, the efficacy of the project in achieving the project objective to increase the amount of electricity
+traded among all the participating countries is rated Substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 3
+Objective
+To increase the technical integration of the WAPP Network.
+
+Rationale
+Theory of Change of Objective 3
+
+The project activities were expected to result in the project outputs of synchronization equipment installed in
+the WAPP system, WAPP priority project studies prepared, capacity of the WAPP staff strengthened through
+training, and supply analyses completed to develop generation projects. These outputs would have been
+
+                                                                                                     Page 10 of 24
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+expected to result in the project outcomes of technical synchronization of the WAPP system, a first step
+before the development of a commercial framework for the regional power pool. The causal chains from
+project activities and outputs to outcomes were direct and valid, and the achievement of the outcomes could
+be attributed to the project’s intervention.
+
+Outputs
+
+      Synchronization equipment installed: The ICR (p.19) states that the project procured, installed and
+       tested equipment for synchronization but does not provide detailed information what that equipment
+       was.
+      Key experts recruited to support WAPP Secretariat: The project recruited five key experts to
+       support WAPP in the synchronization of the WAPP zones, pre-investment study preparation, and
+       other project activities, as planned.
+      WAPP Priority projects brought to the point where investment-grade feasibility studies and
+       associated documentation have been completed: The project was to prepare three pre-investment
+       studies. The achievement was two—Souapiti Hydropower Project in Guinea and Pilot Solar
+       Photovoltaic at Mount Coffee in Liberia. The project financed the preparation of three more studies,
+       but these studies were partially completed at the time of project closing—Mount Coffee Hydropower
+       Extension in Liberia, St. Paul River Hydropower 2 in Liberia, and Median Interconnector with
+       approximately 1,600 km of double circuit transmission line in Nigeria, Benin, Togo, Ghana and Cote
+       d’Ivoire. The partially completed studies were transferred to the Regional Emergency Solar Power
+       Intervention Project (P179267) in March 2023.
+      Number of supply alternative analyses completed at feasibility stage: The project provided
+       technical assistance to three activities as planned. The first was an update of the rules, procedures,
+       and technical specifications for national grids to facilitate synchronization. The second was the
+       preparation and dissemination of an operation manual among WAPP utilities including training of the
+       utilities’ staff. The third was the establishment of regional working groups to strengthen collaboration
+       between the WAPP and the utilities. The project also supported the development of a commercial
+       framework of the regional market.
+
+Outcomes
+
+      Ratio of annual total hours of synchronization of WAPP Zone A against total hours in a year
+       within TCN-CEB-GRIDCO interconnection: During project implementation, WAPP revised its
+       definitions of zones from A and B to 1, 2 and 3. As a result of the project outputs, Zones 2 (a part of
+       Togo and Benin, Burkina Faso, Ghana, Cote d’Ivoire, part of Mali, Liberia, Sierra Leone and part of
+       Guinea) and 3 (the remaining part of Mali and Senegal) of the WAPP were synchronized 94 percent of
+       the time, but Zone 1 (Nigeria, Niger, and the remaining part of Togo and Benin) could not be
+       synchronized with the other two zones because of the difficulties in synchronizing with TCN in Nigeria.
+       Therefore, the ICR takes half of the 94 percent synchronization as the achievement—47 percent. The
+       target was to achieve synchronization by 50 percent of the time focusing on four countries including
+       TCN of Nigeria. However, the project aimed at synchronizing the whole WAPP zones. The
+       synchronization of Zone 1 with Zones 2 and 3 was transferred to the Regional Emergency Solar
+       Power Intervention Project (P179267) in March 2023.
+
+The project resulted in the partial synchronization of the WAPP zones which is expected to be completed
+under the ongoing Regional Emergency Solar Power Intervention Project. The project also delivered the
+
+                                                                                                 Page 11 of 24
+                                Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                                WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+                            studies for the WAPP priority projects. Technical assistance support and training strengthened the
+                            institutional capacity of the WAPP secretariat.
+
+                            Overall, the efficacy of the project in achieving the project objective to increase technical integration of the
+                            WAPP network is rated Substantial.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project successfully completed the construction of the transmission line and associated substations
+                            connecting the national grids of Cote d’Ivoire, Liberia, Sierra Leone and Guinea. This resulted in an increased
+                            supply of electricity in Liberia and Sierra Leone, and to a lesser extent in Guinea. The cost of the electricity
+                            generation dropped in Liberia and Sierra Leone. The project also achieved the partial synchronization of the
+                            WAPP system, which will continue under an ongoing World Bank-financed project for full synchronization.
+                            The project was transformational because it provided a robust backbone transmission line for the Liberia and
+                            Sierra Leone, which would be expected to facilitate the connection of more households and businesses to
+                            grid electricity. The technical integration of WAPP would also be expected to increase electricity trade among
+                            WAPP member countries eventually paving the way for the development of a regional electricity market.
+                            Overall, the project’s efficacy on achieving the project objectives was Substantial.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+   5. Efficiency
+   Economic Analysis
+
+   At appraisal, a “with project” and “without project” cost-benefit analysis was conducted. The without project
+   scenario consisted of optimal expansion plans of the electrical grids of the four participating countries without
+   the interconnection transmission line. The with project scenario included an interconnection transmission line to
+   be constructed under the project. The economic benefits included in the analysis were fuel and other energy
+   cost differentials among countries and locations in the four countries, the reduction of the need for spinning
+   reserve, and ability smoothen the load curve in each country. The costs were taken as the cost of the
+   transmission line and associated substations. The calculations resulted in an Economic Internal Rate of Return
+   (EIRR) of 36 percent for the four countries and a Net Present Value (NPV) of US$570 million at a discount rate
+
+
+
+                                                                                                                                 Page 12 of 24
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+of 10 percent. The high EIRR and NPV were because of the project’s estimated impact on lowering the cost of
+electricity in Liberia and Sierra Leone, and economic benefits of increased electricity export by Cote d’Ivoire.
+
+At project closing, a new model was used for economic analysis. The quantifiable economic benefits were taken
+as fuel savings from replaced thermal generation, avoided construction and fuel and O&M costs of new
+generation not built in the importing countries, and the value of avoided greenhouse gas emissions. The costs
+were included in the analysis were the construction and O&M costs of the transmission line, connection costs of
+new customers served by the electricity imported through the transmission line, additional generation costs
+incurred by Cote d’Ivoire and Guinea for exports, and the costs of additional emissions for gas-fired based
+exports from Cote d’Ivoire. The economic benefits included in the economic analysis at appraisal were not taken
+into consideration because the model used at appraisal was very complex and never systematically updated.
+The calculations at project closing resulted in an EIRR of 19.2 percent excluding benefits from a reduction in
+greenhouse gas emissions, and 21.2 percent when that benefit is included. The NPV was calculated at US$1.2
+billion without greenhouse gas benefits and US$1.6 billion with greenhouse gas benefits at a discount rate of 6
+percent.
+
+The economic analyses conducted at appraisal and project closing confirm the economic viability of the project’s
+intervention, but these two analyses are not comparable because they use different methodologies. However,
+the assumptions of the methodology used at project closing are more relevant and appropriate to analyze the
+economic impact of the project’s intervention because it includes more realistic quantifiable benefits and costs.
+
+Financial Analysis
+
+At appraisal, a financial analysis was conducted to assess the impact of the project on the financial viability of
+regional transmission company (i.e., TRANSCO) that was to be established under project and operate the line.
+The costs were taken as the cost of the transmission line and the associated substations, operation and
+maintenance costs of the transmission line and the SCADA system, operating costs of TRANSCO, and the cost
+of technical support TRANSCO was expected to hire. The financial benefits were to come from the electricity
+trade through the transmission line. Although more than US$150 million of the project funds were grants from
+the AfDB and KfW, the financial analysis calculations resulted in a Financial Internal Rate of Return (FIRR) of
+minus 2 percent and a financial net present value (FNPV) of minus US$194 million. The reason for these
+negative values was the tariff assumption, which was high enough to cover TRANSCO’s cash operating costs,
+asset renewal costs, and debt service obligations, but low enough to encourage electricity trade through the
+transmission line. It was estimated that the cumulative debt service ratio of TRANSCO would remain above 1.5.
+The calculations were based on the assumptions that the transmission line would have been constructed in
+three years (between 2013 and 2015), and the stringing of the second circuit would have been completed in two
+years in 2020 and 2021 increasing the transmission capacity and amount of electricity traded. This would
+correspond to an initial electricity trade amount of 145 MW in the first phase, and 290 MW in the second phase.
+These assumptions, including the cumulative debt service ratio assumption, were overly optimistic for a large
+project that required the coordination of four countries and multiple donors to be implemented in a large project
+area.
+
+The assumptions used in the financial analysis at appraisal did not materialize as anticipated. In 2021, the
+Steering Committee set the tariff at 65 percent of the amount that was required for full cost recovery to
+encourage the use of the transmission line. The commissioning of the transmission line could only begin in
+2021, which was nine years after project approval. The actual construction and O&M costs of the transmission
+line and the operating costs of TRANSCO were higher than the costs estimated at appraisal. Lastly, the
+electricity initially traded through the transmission line was lower than the amount anticipated at appraisal
+
+
+                                                                                                    Page 13 of 24
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+because of the connection of a single major city in Guinea to the transmission line and the delays in the
+construction of distribution lines in Liberia and Sierra Leone that would have connected more households to the
+grid. The ICR does not report the FIRR and FNPV calculated at the time of project evaluation but reports that
+TRANSCO is not financially viable and cannot cover fully cover its operating costs nor of its debt obligations,
+which are covered by the participating countries increasing the fiscal burden of those countries (ICR, p.22 and
+Annex 7).
+
+Operational and Administrative Efficiency
+
+The project’s efficiency suffered from significant delays in effectiveness. Complex effectiveness conditions,
+ratification of the project agreements by four parliaments, and the establishment of a new supranational
+electricity company owned by the four participating countries were the reasons for the delay in project
+effectiveness and implementation. This significantly contributed to a more than five year extension of the project
+closing date. The lack of local funds for the processing of compensations to project affected people was another
+reason for delays in project implementation. The project cost was also underestimated at appraisal. Coupled
+with exchange rate fluctuations, this necessitated the processing of an additional financing to cover the financing
+gap. The project was restructured eight times. The technical assistance activities under the WAPP Project were
+also delayed and activities that could not be completed were transferred to the Regional Emergency Solar
+Power Intervention Project (P179267) in March 2023.
+
+Overall, although the economic analyses conducted at appraisal and project closing are not comparable
+because of differences in methodology, both analyses confirm the economic viability of the project’s intervention,
+but the financial analysis shows that the project did not result in sufficient funds to cover the operating costs of
+TRANSCO, O&M costs, and debt service obligations. The project’s efficiency was also adversely affected by the
+significant shortcomings in the operational and administrative efficiency of the project that led to lengthy delays
+in project effectiveness and implementation. Therefore, the project’s efficiency in achieving the project objective
+is rated Modest.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                      90.00
+ Appraisal                                                  36.00
+                                                                                       Not Applicable
+                                                                                      92.00
+ ICR Estimate                                               21.20
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+
+                                                                                                     Page 14 of 24
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+
+The project was highly aligned with the World Bank regional integration and country strategies for Cote d’Ivoire,
+Liberia, Sierra Leone, and Guinea, and relevant to the country context in all four countries. The project aimed at
+addressing the lack of electricity supply in Liberia and Sierra Leone by constructing a transmission line that
+would be expected to supply cheaper, hence, more affordable electricity to those countries. The project’s
+efficacy in achieving the project objectives was Substantial. The project successfully completed the construction
+of the transmission line that resulted in a decrease in the cost of electricity generation for Liberia and Sierra
+Leone and increased the amount electricity supplied in those countries. The project was also partially successful
+in synchronizing the three zones of the WAPP. However, the project’s efficiency in achieving the project
+objectives is rated Modest, because of significant shortcomings in the operational and administrative efficiency
+of the project because of lengthy delays in the effectiveness and implementation of the project. Overall, the
+project’s outcome is rated Moderately Satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+Financial: The financial viability of TRANSCO stands out to be substantial risk for the adequate operation
+and maintenance of the transmission line. In 2024, TRANSCO’s revenues were estimated to be sufficient to
+pay for its operating costs and the cost of the temporary operator but insufficient to cover the repayment of
+its concessional loans and short-term commercial loans. Although TRANSCO’s revenues are expected to
+increase as the amount of electricity transmitted along the transmission line increases, it would be necessary
+for the governments to cover the debt service in the medium-term. Because of its weak financial viability,
+TRANSCO could not sign a four-year contract with a private company experienced in transmission line
+operation and maintenance. The line is still operated and maintained by the temporary operator CIE
+(Compagnie Ivoirienne d’Electricité) of Cote d’Ivoire.
+
+Governance: The inactivity of the steering and implementation committees is a substantial risk to the
+operational effectiveness of TRNASCO. If these committees met regularly, it would be expected that the
+issues related to the efficient operation and adequate maintenance of the transmission line could be
+resolved. The Board of TRANSCO does not play an active role in strategically leading the company (ICR,
+p.28). Such weaknesses in the governance of TRANSCO could weaken the operational performance of the
+utility resulting in inadequate operation and maintenance of the transmission line.
+
+Insufficient investment in distribution networks: The ultimate goal to achieve by increased availability of
+electricity supply through backbone transmission lines is to increase access to electricity. This requires
+additional investments in distribution networks. Currently, the expansion of distribution networks in Liberia
+and Sierra Leone is not at the estimated level. This constitutes a substantial risk for the achievement of the
+ultimate development impact of the project’s intervention, i.e., increased access to electricity. At project
+closing, only about 50 percent of the estimated direct project beneficiaries were connected to electricity.
+
+
+
+
+                                                                                                    Page 15 of 24
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  Increasing the availability of reliable and cheaper electricity supply in Liberia, Sierra Leone, and Guinea
+  with the ultimate goal of increasing access to electricity and the further technical integration of the WAPP
+  through the construction of a backbone transmission line passing through these countries and technical
+  assistance for synchronization of national grids within the WAPP were of high strategic importance for the
+  project countries and the regional power pool. The project was designed as consisting of two different
+  projects, one for the construction of the transmission line and the other technical assistance to the
+  WAPP. This design was to be expected to increase the implementation efficiency of the project while
+  ensuring coordination between the infrastructure investment and technical integration of the national
+  grids. The construction and later the operation of the transmission line investment by a regional
+  transmission company (i.e., TRANSCO) to be established by the four participating countries was
+  appropriate because the implementation of each section of the project by the corresponding national
+  utility could have been unsuccessful because of the weak project implementation capacities of some
+  national utilities. The economic analysis was adequately conducted to assess the economic viability of
+  the project based on the criteria and assumptions at the time of appraisal. The project’s fiduciary and
+  safeguards aspects were adequate (see section 10. Others below).
+
+  However, the project design had moderate shortcomings. The project did not introduce any mechanisms
+  (such as legal covenants) in ensuring the regular meetings of the steering and implementation
+  committees consisted of the representatives of the four participating countries. These committees only
+  met a couple of times during project implementation rather than quarterly as planned in the project
+  agreements (ICR, p.27). At appraisal, the risks were adequately identified but the mitigation measures
+  were ineffective when most of the risks materialized. For example, the establishment of a regional
+  transmission company was adopted as measure to mitigate the political interference by national
+  governments, but because the national utilities played a role in the board of TRANSCO, national interests
+  adversely affected the operation of the transmission line, which became significantly visible when
+  TRANSCO faced financial constraints in early operation of the transmission line. The project was
+  designed with a focus on financing the construction of the transmission line and the operating costs of
+  TRANSCO during the construction period. The focus on the post-operation of the transmission line by
+  TRANSCO and the regional utility’s financial viability to ensure proper operation and maintenance of the
+  transmission line was insufficient. This created a substantial risk to the sustainability of the project
+  outcomes.
+
+  Overall, the quality at entry is rated Moderately Satisfactory because of moderate shortcomings in the
+  appraisal of the project.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The project team conducted 17 supervision missions including virtual missions during the COVID-19
+ pandemic. A review of the Implementation Status and Results Reports (ISRs) and Aide Memoirs showed
+
+                                                                                                   Page 16 of 24
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+ that the performance reporting was candid and detailed. The project teams focus on fiduciary and
+ safeguards aspects of the project were adequate but there were occasional issuance of no-objections to
+ procurement results where some criteria in the terms of reference were not met (see section 10. Other
+ Issues, Procurement below). When funds were insufficient to process compensations to project-affected
+ people, the project team restructured the project to allocate project funds for that purpose. Coordination
+ with other donors was effective. The project team’s focus on the development impact of the project was
+ adequate, but implementation issues stemming from the shortcomings in project design were not
+ adequately addressed. The supervision of the convening of the steering and implementation committees
+ was inadequate. These committees were inactive during the construction, which convened in 2021 when a
+ tariff increase had to be made for TRANSCO. There were also shortcomings in the transition arrangements
+ for regular operation of project supported activities after project closing such as the incomplete hiring
+ process of a company for the operation and maintenance of the transmission line because of the poor
+ financial viability of TRANSCO. Although the project team proactively acted for the processing of a second
+ additional financing to improve the financial viability of TRANSCO, this additional financing could not be
+ processed because of inaction from the project participating countries. As the ICR (p.37) notes “the project
+ closed without resolving TRANSCO’s immediate operational and financial issues.”
+
+ Overall, the quality of supervision is rated Moderately Satisfactory because of moderate shortcomings in
+ the project team’s supervision of project implementation and role in ensuring adequate transition
+ arrangements.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The project objectives were clearly defined and outcome-oriented, and the project’s theory of change was
+ adequately reflected in the results framework. The indicators adequately captured the outcomes expected
+ from the project’s intervention in increasing electricity supply through the transmission line and reduction in
+ the annual weighted cost of electricity supply and the synchronization of the WAPP zones. The indicators
+ were specific, measurable, and time-bound, but the indicator “annual weighted cost of electricity supply at
+ power utility level in Liberia and Sierra Leone” was not fully relevant because the indicator measured the
+ cost reduction in supply whereas the project’s impact was expected as a reduction in the generation cost of
+ electricity. The intermediate result indicators adequately captured the construction of the transmission line
+ and the associated substations, but there were shortcomings in capturing the intermediate results related to
+ the establishment of the regional transmission company under the CLSG Project, and those related to the
+ technical assistance activities and installation of the synchronization equipment under the WAPP Project.
+ Two of those indicators (i.e., regional transmission company fulfillment of obligations on time and to the
+ quality required, and synchronization equipment installed) were designed in the form of “Yes/No”
+ achievements that did not provide sufficient information about the project’s outputs. The implementation
+
+                                                                                                    Page 17 of 24
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+ arrangements were in place. The regional transmission company was to monitor the construction and
+ commissioning of the transmission line. The WAPP was to monitor the completion of the studies and the
+ installation of the synchronization equipment.
+
+
+
+b. M&E Implementation
+  The shortcomings in the results framework were partially addressed. The indicator measuring the
+  reduction in the weighted average cost of electricity supply was redefined to measure the reduction in
+  generation cost, but the baselines and end targets were not revised making the measurement of this
+  indicator difficult. The start of commercial operation of the transmission line in December 2021 allowed
+  the collection of data about electricity supply through the transmission line and its impact on reduction of
+  electricity generation cost. Other indicators were measured and reported in the ISRs. TRANSCO and the
+  WAPP provided M&E data. The shortcomings in capturing the intermediate results expected from the
+  implementation of the technical assistance activities were not addressed during implementation. The
+  M&E functions are likely to be sustained because of the SCADA systems installed that monitors the
+  transmission line, and the WAPP has the technical capacity to monitor the synchronization of the WAPP
+  grid. An MTR was conducted for the WAPP Project in February 2017. A separate MTR was conducted for
+  the CLSG Project in October and November 2018. These MTRs were effective in addressing some
+  project implementation issues, improving the performance of the project (see section 8.b. Quality of
+  Supervision above).
+
+
+
+c. M&E Utilization
+  TRANSCO and the WAPP provided quarterly progress reports including M&E findings regularly. These
+  findings resulted in the processing of an additional financing to cover the financing gap. The project was
+  restructured eight times, but the M&E findings were critical in the first three restructurings (including the
+  additional financing) that resulted in improving project implementation. The ICR uses the M&E data
+  adequately to provide evidence of achievement of outcomes and provides a detailed explanation
+  supported by data about the impact of cheaper electricity supplied through the transmission line on
+  reducing the electricity generation cost in Liberia and Sierra Leone. The M&E findings were to inform a
+  second additional financing to improve the financial viability of TRANSCO to ensure the adequate
+  operation and maintenance of the transmission line, but it did not materialize. These findings did not
+  inform a subsequent intervention.
+
+
+
+  Overall, there were moderate shortcomings in the M&E system’s design and implementation, but the
+  M&E data and findings were generally sufficient to assess the achievement of the project objectives and
+  test the links in the results chain. Therefore, the M&E quality is rated Substantial.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+
+
+                                                                                                      Page 18 of 24
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as Category A under Environmental Assessment (OP/BP 4.01) and triggered
+   Natural Habitats (OP/BP 4.04), Physical Cultural Resources (OP/BP 4.11), and Involuntary Resettlement
+   (OP/BP 4.12). At the time of additional financing in October 2017, the project additionally triggered Forests
+   (OP/BP 4.26), Safety of Dams (OP/BP 4.37), and Projects on International Waterways (OP/BP 7.50)
+   safeguards policies because of the addition of preparatory studies for a hydropower project on the St. Paul
+   River in Liberia to the scope of WAPP Project.
+
+   Environmental Assessment (OP/BP 4.01): The project was classified as Category A because of the
+   potential irreversible impact of the transmission line construction activities on the environment. According to
+   the requirements of this safeguard policy, Environmental and Social Impact Assessments (ESIAs) and
+   associated Environmental and Social Management Plans (ESMPs) were prepared for each country and
+   published in the countries and the World Bank’s InfoShop. Following the visits to potential environmental
+   hot spots along the route the transmission line was to be built, it was confirmed that the design avoided
+   these areas. A waiver was obtained for the same consultant to prepare the environmental assessments and
+   the design of the transmission line route. TRANSCO hired experienced environment and social experts in
+   its headquarters in Abidjan and local offices in four countries and adequately reported the implementation of
+   ESMPs in its quarterly reports. Safeguards specific two World Bank missions were held during project
+   implementation to four countries in addition to the supervision of the safeguard implementation in regular
+   supervision missions. The project closed in compliance with the requirements of the Environmental
+   Assessment safeguard policy.
+
+   Natural Habitats (OP/BP 4.04): The project triggered this safeguard policy because of the significant
+   potential changes in critical natural habitats present in the project area. In accordance with the requirements
+   of this safeguard policy, the transmission line route was designed to avoid any critical natural habitats.
+   These included two national parks, one with a high chimpanzee population. As a result, the project activities
+   did not have any adverse impact on natural habitats in the project area.
+
+   Physical Cultural Resources (OP/BP 4.11): The project triggered this safeguard policy because of the
+   possibility of chance finds along the 1,349 km transmission line to be built under the project. The
+   transmission line design avoided a sacred forest and a water body. The project activities did not encounter
+   any chance finds.
+
+   Involuntary Resettlement (OP/BP 4.12): The project triggered this safeguard policy because the route of
+   the transmission line to be built under project was to pass through farmlands and urban and semi-urban
+   areas that was expected to result in resettlement of people and acquisition of land. At appraisal a
+   Resettlement Action Plan (RAP) was prepared and published in four countries and on the World Bank’s
+   InfoShop. At appraisal, it was estimated that 1,634 households (or 10,158 people) were estimated to be
+   affected by the construction of the transmission line and the associated substations through physical
+   relocation or loss of access to agricultural lands in the right of way of the transmission line. During project
+   implementation, the number of households affected by the project activities increased to 6,744. To provide
+   funds for the financing of compensations to project-affected people, the World Bank project team
+   restructured the project to allow project funds to be used for that purpose. A total of US$7.52 million was
+   paid as compensation to project-affected people. Overall, the implementation of the resettlement activities
+   was compliant with the requirements of the Involuntary Resettlement safeguard policy, but the final RAP
+
+
+                                                                                                     Page 19 of 24
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+  audit was delayed because of the departure of the environment and social leads from the project when it
+  became clear that a second additional financing would not be processed.
+
+  Forests (OP/BP 4.26): The project triggered this safeguard policy because the future location of the Via
+  Reservoir, for the development of which a study was added to the project scope, included natural forest
+  areas. During the construction of the transmission line, a total of 445 hectares (ha) of degraded forest areas
+  were reforested as planned, 31 ha of which was in Cote d’Ivoire, 134 ha in Liberia, 194 ha in Sierra Leone,
+  and 86 ha in Guinea.
+
+  Safety of Dams (OP/BP 4.37): The project triggered this safeguard policy because some studies added to
+  the project scope at the time of additional financing were related to a dam. Since the project activities
+  consisted of the preparation of studies only, these activities did not contradict with the requirements of this
+  safeguard policy.
+
+  Projects on International Waterways (OP/BP 7.50): The project triggered this safeguard policy because
+  the St. Paul River, which originates in Guinea, is considered an international waterway. At the time of
+  additional financing, prefeasibility and feasibility studies were added to the project scope for the
+  development of a hydroelectric power plant on this river. Since these activities did not involve any physical
+  infrastructure investments on the waterway, an exception to the notification requirement to the other riparian
+  countries was approved by the World Bank’s regional management on September 29, 2017.
+
+
+
+
+b. Fiduciary Compliance
+  Financial Management
+
+  After the signing of the IDA Financing Agreement with Liberia, TRANSCO took the financial management
+  of the CLSG Project. The WAPP project implementation unit was responsible for the financial management
+  of the WAPP Project. The project hired qualified financial management staff, but the preparation of a
+  financial management policy for the CLSG Project could only be approved in June 2016 (four years after
+  project approval) because of delays in project effectiveness and development of financial management
+  systems. Quarterly financial reports and audit reports of the CLSG project were submitted irregularly
+  because of delays in adequate bookkeeping. The financial management of the project improved following
+  the MTR in October 2018. An internal auditor was appointed, and the Audit and Good Governance Board
+  Committee became effective in November 2018. The project provided technical assistance support to the
+  finance and accounting teams, and a new computerized accounting system was installed at TRANSCO.
+  The flow of funds arrangements were adequate; the World Bank transferred the advances and payments
+  to contractors directly after TRANSCO’s approval. Payments for consulting, salary and other expenses to
+  TRANSCO and WAPP were processed through designated accounts. However, internal controls were
+  inadequate on large cash payments that resulted in some irregular bookkeeping that were corrected during
+  project implementation. The project team confirmed that all project funds were accounted for at the time of
+  project evaluation. The ICR does not report any issues of corruption or misuse of funds associated with the
+  project.
+
+  Procurement
+
+
+
+                                                                                                    Page 20 of 24
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+   The project followed the World Bank procurement policies and procedures. TRANSCO was responsible for
+   procurement for the CLSG Project. The WAPP was responsible for procurement for the WAPP Project.
+   The owner’s engineer hired under the project supported TRANSCO in procurement. TRANSCO’s
+   procurement team included a senior procurement specialist supported by an assistant. Until the
+   procurement of a contractor for the O&M of the transmission line in 2021, procurement was conducted
+   without a major issue. The procurement of the O&M contractor had to be relaunched because of a single
+   bid in the first tender. Because of the financial constraints TRANSCO faced, the procurement could not be
+   completed. The hiring of the TRANSCO manager, which received World Bank’s no objection, did not follow
+   the requirements in the terms of reference for the job, and a manager without corporate experience was
+   hired.
+
+   The WAPP was assessed to have sufficient procurement capacity and familiarity with the World Bank
+   policies and procedures, but high turnover of procurement officers weakened its procurement capacity.
+   The WAPP hired an experienced senior procurement consultant under the project to strengthen the
+   WAPP’s procurement capacity through his support to project’s implementation and training of local staff.
+
+   A World Bank procurement specialist, a member of the project team, conducted regular supervision of
+   procurement and post-procurement review at least once a year. Some years, the procurement specialist
+   conducted multiple supervisions. Such supervision supported TRANSCO and the WAPP in procurement.
+   The donor coordination in procurement was also adequate. The regular dialogue among donors ensured
+   that there were no interruptions in the project works because of insufficient funding or delays in
+   procurement activities.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   None.
+
+
+
+d. Other
+   None.
+
+
+
+11. Ratings
+                                                                               Reason for
+Ratings                        ICR                   IEG
+                                                                               Disagreements/Comment
+                               Moderately
+Outcome                                              Moderately Satisfactory
+                               Satisfactory
+                               Moderately
+Bank Performance                                     Moderately Satisfactory
+                               Satisfactory
+Quality of M&E                 Substantial           Substantial
+
+Quality of ICR                 ---                   Substantial
+
+
+
+                                                                                                 Page 21 of 24
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+12. Lessons
+
+This review has drawn three lessons based on the information in the ICR.
+
+Insufficient measures to ensure the financial viability of regional electricity transmission
+companies can jeopardize the achievement and sustainability of the outcomes in increased
+supply of cheaper and cleaner electricity. Since the transmission line constructed under the
+project passed through four countries, it was decided the four project participating countries would
+establish a regional transmission company to construct and later operate and maintain the
+transmission line rather than the national transmission companies. This proved to be an appropriate
+approach in completing the construction and commissioning of the transmission line, but the
+measures were insufficient to ensure the financial viability of the regional transmission company.
+The assumptions used at appraisal regarding the financial viability of the utility did not materialize. A
+second additional financing could not be processed that could have helped the utility to address its
+short-term financial issues. The project currently yields its expected results in electricity trade and
+reduction in cost of electricity generation in Liberia and Sierra Leone, but this depends on the
+national governments covering the cost of debt repayment obligations of the regional transmission
+company. The sustainability of the project outcomes is at high risk because of the weak financial
+viability of the regional utility. The ICR (p.38) states that "the financing plan needs to consider an
+initial period where revenues from operations may not fully cover costs."
+
+The development impact of mega transmission projects can be increased if such
+investments are complemented by distribution network investments on a timely basis. While
+the project objectives were to reduce the cost of electricity generation in Liberia and Sierra Leone
+and increase the supply of electricity through the transmission line to be built under the project, the
+ultimate goal of increased availability of electricity was to increase access to electricity in these two
+countries with low electrification rates. The project did not finance any distribution network expansion
+investment, which was to be implemented by the respective national utilities separately. There were
+delays in those investments, which resulted in fewer people getting access to electricity, and lower
+electricity demand. Although the transmission line was a transformational investment connecting
+four countries’ electricity grid and should be expected to result in higher electrification rates in the
+medium and long-term, such development impacts could be achieved earlier if distribution network
+infrastructure is built in tandem with the transmission line investments.
+
+Transborder electricity transmission infrastructure investments accompanied by technical
+assistance to regional power utility can accelerate the technical and eventually commercial
+integration of countries under a regional power pool. The project consisted of two separate
+subprojects, one investment project for the construction of the CLSG transmission line and the
+establishment of the regional transmission company, and the other technical assistance project for
+the synchronization of the West African Power Pool (WAPP) zones. These two projects
+complemented each other in achieving the project objectives. The transmission line was a critical
+investment in connecting four countries to the WAPP system through a high voltage transmission
+capacity, and the technical assistance was critical to allow the flow of electricity under a
+synchronized regional electricity system. The technical integration of the national electricity networks
+under the WAPP system was a critical first step towards achieving a regional power market. The
+technical assistance project also supported the development of a commercial framework for that
+purpose.
+
+
+                                                                                                      Page 22 of 24
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+
+13. Assessment Recommended?
+
+  Yes
+  ASSESSMENT_TABLE
+  Please Explain
+  This is the fourth project in an APL series supporting the infrastructure development of the West African Power
+  Pool. If a major evaluation is conducted on the World Bank Group’s support to the development of regional
+  power pools in Africa, this APL series would be a good candidate for a cluster PPAR, the findings of which
+  would contribute to the evaluation.
+
+
+
+14. Comments on Quality of ICR
+
+The ICR provides a highly detailed overview of the project and its performance. The narrative is candid,
+accurate, and highly evaluative, rather than descriptive. The evidence is credible, appropriately referenced, and
+adequate to support the achievement of the project objectives. To fill in the gaps that existed in the results
+framework, because of the revision in the definition of a main outcome indicator that was not accompanied by a
+revision of the end targets, the ICR provides detailed explanation how that outcome was achieved. There is a
+clear linking of evidence to the findings. The report is adequately focused on what occurred as a consequence
+of the project. The analysis broadly responds to the project’s theory of change, but the theory of change is
+presented in a way explaining what happened as a result of the project’s intervention, rather than what was
+aimed at achieving at the appraisal stage. In that regard, the theory of change figure in the ICR highlights how
+activities informed project’s outputs and outcomes, and how the objectives were achieved. The ICR also
+provides a detailed assessment of the sustainability of the project outcomes and how the risks to the
+sustainability could be mitigated. The ICR is internally consistent but there are some gaps in following the Bank
+guidance, such information about the implementation of each safeguard policy is missing although there is an
+annex for safeguard implementation, the Annex 1.B. Key Outputs by Component is not filled, and the actual
+costs of the components of each project (i.e., the CLSG Project and the WAPP Project) are not provided. The
+discussion in the section V. Lessons and Recommendations follow the narrative in the ICR, but they are in the
+form of findings rather than lessons.
+
+Overall, the quality of the ICR is Substantial.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                   Page 23 of 24
+Independent Evaluation Group (IEG)   Implementation Completion Report (ICR) Review
+WAPP APL4 (Phase 1) CSLG (P113266)
+
+
+
+
+                                                                  Page 24 of 24
+

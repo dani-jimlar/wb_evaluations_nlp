@@ -1,0 +1,812 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MN: SMART Government (P130891)
+
+
+
+                                                                                   Report Number: ICRR0023395
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P130891                                    MN: SMART Government
+
+ Country                                    Practice Area(Lead)
+ Mongolia                                   Digital Development
+
+
+ L/C/TF Number(s)                           Closing Date (Original)                    Total Project Cost (USD)
+ IDA-54830                                  31-Dec-2019                                           16,791,664.03
+
+ Bank Approval Date                         Closing Date (Actual)
+ 06-Jun-2014                                31-Aug-2022
+
+                                            IBRD/IDA (USD)                                       Grants (USD)
+
+ Original Commitment                             19,400,000.00                                               0.00
+
+ Revised Commitment                              18,705,193.20                                               0.00
+
+ Actual                                          16,791,664.03                                               0.00
+
+
+
+
+ Prepared by                 Reviewed by                  ICR Review Coordinator            Group
+ Maria Shkaratan             Christopher David            Kavita Mathur                     IEGSD (Unit 4)
+                             Nelson
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objective (PDO) was to use information and communication technologies to
+   improve accessibility, transparency, and efficiency of public service in Mongolia.
+
+   The PDO was not revised.
+
+   For the purposes of this ICR review, the objective will be broken into two parts:
+
+
+                                                                                                    Page 1 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MN: SMART Government (P130891)
+
+
+
+   PDO1: to use information and communication technologies to improve accessibility and transparency of public
+   service in Mongolia.
+
+   PDO2: to use information and communication technologies to improve efficiency of public service in Mongolia.
+
+   The evaluation of accessibility and transparency is combined under one PDO because these two objectives
+   are interlinked, and many or the Results Framework (RF) outcome indicators measure both results.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  06-Nov-2019
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   1. Original components:
+
+   Component 1 - Enhance Civic Engagement and Citizen Feedback Mechanisms (cost at appraisal:
+   US$1.1 million; actual cost: US$1.08 million) – involved the provision of the information technology (IT)
+   systems and technical assistance aimed at the following: (i) upgrading the central citizen services center,
+   including IT hardware and systems; (ii) enhancing the e-Mongolia portal, including the installation of a
+   business analytics system for real-time response to queries; (iii) integrating e-services into the e-Mongolia
+   portal; (iv) designing accountability measures for complaints in the system; and (v) improving agency
+   workflows.
+
+   Component 2 - Enabling Foundations for SMART Government (cost at appraisal: US$10.9; actual
+   cost: US$11.92 million) - provided investment and technical assistance for the following: (i) development
+   of the National Enterprise Architecture (NEA) and interoperability framework to align IT systems across
+   Government agencies; (ii) upgrade of the National Data Center (NDC) and the setup of the national data
+   exchange to provide a platform for the e-services delivery; and (iv) set up of the Disaster Recovery Center
+   (DRC) to protect data and mitigate damage in the event of a disaster.
+
+   Component 3 - Enabling Open Data (cost at appraisal: US$5.6 million; actual cost: US$4.6 million) –
+   supported the following: (i) design and development of a central and searchable Open Data Portal; (ii)
+   conducting Open Data readiness assessment; (iii) development of the supporting policy and legal
+   framework; and (iv) identification, preparation, and release of open datasets.
+
+
+
+
+                                                                                                     Page 2 of 15
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    MN: SMART Government (P130891)
+
+
+
+  Component 4: - Project Management Support (cost at appraisal: US$1.8 million; Actual cost: US$2.4
+  million) - financed management and oversight of the Project and capacity development to the Cabinet
+  Secretariat and the project implementation unit (PIU) staff.
+
+  2. Changes in components and indicators during implementation:
+
+  The Project went through five Level 2 restructurings, but only the second restructuring involved changes to
+  the RF, as follows:
+
+  1. Second restructuring (approved in November 2019):
+
+  a. PDO indicators’ replacement. Two PDO indicators — “Number of new 11-11 center users at the aimag
+  level”, and “Customer satisfaction with the responses received through the integrated 11-11 platforms”—
+  were removed and three new PDO indicators - “Availability of public services for citizens through digital
+  channels”, “Availability of public services for businesses through digital channels”, and “Citizen access to
+  information on the resolution process and status of their feedback to the Citizens’ feedback centers” —
+  replaced them. This was the result of a strategy shift from physical service centers to a digital service
+  delivery model and a related change in the subcomponent activities, the original indicators were no longer
+  relevant.
+
+  b. The intermediate indicator “Number of applications and services developed” was removed, as it
+  was overlapping with the new PDO-level indicators on availability of common public services.
+
+  c. Intermediate indicators: the following targets were lowered:
+
+  - For the indicator "Number of contacts to the integrated 11-11 platforms": from 1,000,000 to 175,000
+  contacts to reflect the strategy shift from physical centers to digital service.
+
+  - For the indicator “Number of Government Ministries/Agencies that adopted the National Enterprise
+  Architecture (NEA)”: from 12 to a more realistic six agencies.
+
+  - For the indicator “Number of applications and services developed by women” (which was also renamed as
+  “Number of applications and services developed which includes women team members”): from 12 to a more
+  realistic six.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost: The appraisal estimate was US$20.0 million, and the actual project cost (the amount
+  disbursed at closure) was US$16.79 million (ICR, page 2). The Project team has informed IEG that the
+  amount undisbursed at closure was US$0.69 million and that the rest of the difference between the
+  appraisal cost estimate and the disbursement at closure was due to the fluctuations of the Special Drawing
+  Rights (XDR)-US Dollar rates (the Project was denominated in XDR).
+
+  Project Financing: The project was financed by an International Development Association (IDA) grant
+  (US$19.4 million at appraisal and US$16.8 million at closure).
+
+
+
+
+                                                                                                  Page 3 of 15
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     MN: SMART Government (P130891)
+
+
+
+   Borrower/Recipient contribution: Borrower financing was planned as US$0.6 million at appraisal but was
+   US$0 million at closure.
+
+   Changes in project financing due to restructurings:
+
+         At the first restructuring of June 2015, financing was reallocated across components, at the
+          Government's request, to increase the amount allocated to Component 2. The resulting component
+          cost was as follows: Component 1: $0.4 million; Component 2: $12.6 million; Component 3: $4.6
+          million; Component 4: $2.4 million.
+         At the second restructuring of November 2019, financing was reallocated across components, at the
+          Government's request. The resulting component cost was as follows: Component 1: $1.08 million;
+          Component 2: $11.92 million; Component 3: $4.6 million; Component 4: $2.4 million.
+         At the third restructuring of October 2020, the Project had budget savings of US$1.6 million, which
+          were reallocated for the COVID-19 needs.
+
+   Project Dates: The project was approved on June 6, 2014 and became effective on August 17, 2015. The
+   mid-term review (MTR) was on November 24, 2018. The original closing date was December 31, 2019. The
+   closing date was extended three times: (i) at the first restructuring of June 2015, by 12 months, to
+   December 31, 2020; (ii) at the third restructuring of October 2020, by 10 months to October 2021 (due to
+   the impact of COVID-19 restrictions); and (iii) at the fifth restructuring of October 2021, by 10 months to
+   August 31, 2022. Actual closing was on August 31, 2022.
+
+   Split evaluation is not undertaken: the change in the PDO indicators (implemented at the second
+   restructuring approved in November 2019) did not lead to a reduction in the project’s scope/ambition. The
+   PDO indicator change was brought about by the modification of the Government approach to service
+   delivery from an in-person option (through physical centers) to a more advanced digital one. Based on this
+   change and following the GoM’s request, the Project was restructured to support the modernized (digital)
+   service provision approach, making the original PDO indicators irrelevant. Achievement of the PDO will
+   therefore be assessed based on the revised PDO indicators only, without a split evaluation.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Relevance to the national priorities at approval: At the time of appraisal, the PDO was relevant to the
+country conditions and well-aligned with national priorities, specifically with the commitment to use
+information and communication technology (ICT) to deliver inclusive and efficient public services. The
+Government of Mongolia (GoM) recognized the potential of ICT to improve public service delivery, and in
+2013 joined the Open Government Partnership to have a more transparent public management, better data
+management, and e-Government. The GoM planned to enhance the related legal environment, improve
+information technology (IT) infrastructure, develop e-content of the Government, and provide online public
+services to citizens, narrowing the digital divide. This vision was stated in a national ICT policy document—
+a vision of becoming a knowledge-based economy by 2021, using ICT. Another key GoM’s document,
+Sustainable Development Vision up to 2030, which was being developed at the time of Project appraisal
+and was approved by the Parliament in 2016, included an objective of expanding information technology
+
+
+                                                                                                   Page 4 of 15
+                                      Independent Evaluation Group (IEG)            Implementation Completion Report (ICR) Review
+                                      MN: SMART Government (P130891)
+
+
+
+               with a target of providing high-speed internet connections to 70 percent of the population by 2020. The
+               Vision was supported by the previous policy and institutional reforms: the enactment of the Freedom of
+               Information and e-signature laws; the establishment of the National Data Center (NDC) in 2009; and the
+               approval of the law on Information Transparency and Right to Information in 2011. In 2012, the electronic
+               identification infrastructure was completed, and ID cards were issued to over 2.3 million citizens. This
+               infrastructure was used for the delivery of services, and the Project supported a wider access to expanded
+               electronic services.
+
+               Relevance to the national priorities at closure: The Vision 2050, the country’s long-term development policy
+               published in May 2020, outlined the use of ICT in public sector reforms and in building of an “e-Mongolia”,
+               “an integrated system of citizens, public and private sectors”, through: (i) the development of an e-
+               governance policy and legal framework (2021-30); (ii) mainstreaming ICT across the economy (2031-40);
+               and (iii) focusing on ICT support to human development (2041-50). The GoM’s action plan for 2020–24
+               stated that public services would be “responsive, accountable, and accessible to save the time and money
+               of citizens”. The Project was designed to support the GoM’s goals of improved accessibility, enhanced
+               transparency, and increased efficiency.
+
+               Relevance to the WBG’s assistance Strategies at approval: The PDO was aligned with WBG’s Country
+               Partnership Strategy (CPS) for Mongolia for the period FY13-17, especially with Pillar 3, Outcome 3.2
+               Supported better delivery of basic services education, health, justice, and infrastructure), which included
+               plans to support ICT infrastructure development to improve service delivery. The PDO was also aligned
+               with the World Bank’s digital development agenda outlined in the World Development Report (WDR) 2016
+               Digital Dividends.
+
+               Relevance to the WBG’s assistance Strategies at closure: The PDO was aligned with WBG’s Country
+               Partnership Framework (CPF) FY21–25 for Mongolia, mainly with Focus area 1.3 “Strengthening
+               government efficiency and accountability for better service delivery”, which included plans to support digital
+               transformation, digital service delivery, and digital solutions for governance. The PDO was also aligned with
+               the World Bank’s WDR 2021 Data for Better Lives, which had an emphasis on data in advancing
+               development objectives and enabling efficient service delivery.
+
+               The relevance of objectives is rated High: the PDO is fully aligned with the GoM’s priorities, the CPS FY13-
+               17, and the CPF FY21-25.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+
+
+                                                                                                                   Page 5 of 15
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   MN: SMART Government (P130891)
+
+
+
+PDO1: to use information and communication technologies to improve the accessibility and transparency of
+the public service in Mongolia.
+
+Rationale
+The theory of change (ToC), developed for the ICR, showed a direct, logical causal chain from inputs to
+outputs and further to the intermediate and then PDO outcomes. There were four result chains. The first
+results chain showed how the launch or enhancement of several IT systems would lead to the intermediate
+outcome of increased convenience and reduced time and cost of transactions with the government. This
+intermediate outcome would, in turn, lead to the increased accessibility of public services (PDO outcome 1).
+The second results chain demonstrated how the newly provided or upgraded IT systems would result in the
+following intermediate outcomes: increased efficiency and reduced cost of service provision for the public
+sector, and the adoption of innovative apps by the public and private sectors. These intermediate outcomes
+would together amount to the increased efficiency of public services (PDO outcome 2). The third results
+chain showed how the development and employment of the Open Data Portal, as well as enhanced citizen
+feedback and engagement mechanisms, would lead to the following intermediate outcome: increased open
+government data for public use, enhanced government data production capacity and usage, and increased
+citizens’ access to resolution of complaints and feedback. These intermediate outcomes would amount to the
+improved transparency of service delivery (PDO outcome 3). The fourth results chain demonstrated how
+capacity development activities would result in the intermediate outcome of strengthened government
+ICT/digital service transformation capacity, thus supporting the long-term transformative outcome of creating
+a “Citizen-Centered Digital Nation”.
+
+The ToC captured the logical cause-effect relationships from the lower-level results to the higher-level ones
+very well: it is clear from the ToC chart how the multiple outputs, added together, would create intermediate
+results; and through which processes the PDO outcomes would be achieved (how the outputs were to be
+applied to solve the problem). The ToC also proficiently presented the interlinks from the intermediate
+outcomes to the PDO outcomes and across the PDO outcomes, which is essential for understanding the logic
+of a project. The ToC would have further benefited with the interlinks from the outputs to the intermediate
+outcomes and across the intermediate outcomes, reflecting their interconnection (specifically, the interlinks
+across the results leading to improved accessibility and transparency).
+
+PDO outcomes:
+
+Three PDO outcomes were exceeded, and one was achieved. Specifically, the Project:
+
+- Made 72 services digitally available for citizens, exceeding the target of 20.
+
+- Made 37 services digitally available for businesses, exceeding the target of 10.
+
+The ICR reports that the 72 digital services for citizens covered a full range of services, including birth
+registration, health care appointments, health insurance services, social welfare services and payments, and
+property mortgage registration. These services were also delivered by mobile phone, increasing accessibility.
+At Project closing, the e-Mongolia portal was upgraded, and a single portal became available to access
+government services. A total of two million users accessed the system, with 14.4 million requests processed
+(this is not an RF indicator).
+
+- Made 107 government datasets available through the Open Data searchable platform, exceeding the
+original target of 32 datasets. The ICR reports that the Project developed and made operational a central and
+
+                                                                                                   Page 6 of 15
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   MN: SMART Government (P130891)
+
+
+
+searchable Open Data Portal, upgraded data production at the National Statistics Office (NSO), and
+conducted related training. Data standards and a common framework were established across government
+agencies.
+
+- Created citizens’ access to information on the resolution process and status of their feedback, thus
+achieving the binary (“Yes”-“No”) indicator. The ICR reports that the Project enhanced and integrated the 11-
+11 call center to the e-Mongolia portal so that citizens are able to track the status of their feedback and public
+officials can track responses in real time.
+
+Intermediate outcomes and outputs:
+
+All outputs under Objective 1 were achieved or exceeded, including:
+
+- By Project closure, 329,751 of contacts to the integrated 11-11 platforms occurred, as compared to the
+target of 175,000 contacts. The target was exceeded.
+
+- The business analytics system was established as planned. The target was achieved.
+
+- The Project provided 30 public services with incorporated citizen consultations/feedback, as compared to
+the target of 20. The target was exceeded. The gender disaggregated sub-indicator (services where at least
+half of the beneficiaries consulted were women) was also exceeded: all 30 services as compared to the 15
+targeted.
+
+- Six government ministries/agencies adopted the National Enterprise Architecture, the same as the target.
+The target was achieved.
+
+- Fifty agencies hosted databases at the National Data Center, as compared to the target of 45. The target
+was exceeded.
+
+- Fourteen teams that develop applications and services included women, as compared to the target of six.
+The target was exceeded.
+
+- Forty-one provinces/UB districts rolled out the e-Property Registration System, as compared to the target of
+30. The target was exceeded.
+
+Overall, under Objective 1, all expected Project outcomes and outputs were achieved or exceeded by Project
+closure, some significantly. The efficacy rating is therefore High.
+
+
+
+Rating
+High
+
+
+OBJECTIVE 2
+Objective
+PDO2: To use information and communication technologies to improve the efficiency of the public service in
+Mongolia.
+
+                                                                                                    Page 7 of 15
+                               Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                               MN: SMART Government (P130891)
+
+
+
+
+                            Rationale
+                            PDO outcome:
+
+                            - The average number of days needed to issue a property ownership certificate was five, as compared to the
+                            target of seven. The target was exceeded.
+
+                            Beyond the RF, the Project also enabled significant time savings in registering new business entities: from the
+                            previous process requiring two-three trips to government offices to submit 10-13 sets of paper documents to
+                            the estimated maximum of 60 minutes of digital submission of three documents. The ICR also mentions that
+                            government agencies report significant time savings. Specifically, the General Authority for the Labor and
+                            Welfare Service stated that the digitalization of services led to an 80 percent reduction in the number of paper
+                            documents processed and resulted in material benefits to welfare recipients who could submit the welfare
+                            applications online, with benefits credited directly to their bank accounts. The Project-enabled delivery of key
+                            government services on mobile phones, including health insurance and hospital appointments, also
+                            significantly increasing the efficiency of services.
+
+                            Intermediate outcome:
+
+                            - While 54.8 percent of 11-11 platform queries were resolved within three to seven days, the target was 80
+                            percent. The target was not achieved.
+
+                            Overall, under Objective 2, the Project created the data architecture necessary for the increase in the
+                            efficiency of public services - the national enterprise architecture and the Interoperability Framework were
+                            developed, the National Data Center was upgraded, the National Data Exchange and the DRC were set up,
+                            and the databases of key agencies were integrated to enable data sharing - leading to an improvement in the
+                            efficiency of public services on many fronts (as the ICR clearly reflects (ICR, pages 14-15)). However, the RF
+                            provides very limited data on efficiency, making it hard to evaluate the achievements. Out of the two RF
+                            indicators reflecting improved efficiency, one (a PDO indicator) was exceeded and one (an intermediate
+                            outcome indicator) not achieved.
+
+                            Efficacy rating for Objective 2 is Substantial due to the non-achievement of one intermediate indicator and
+                            limited RF data supporting the ICR description of the results.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The overall efficacy is Substantial. The Project achieved or exceeded all but one of the expected outcomes
+                            and outputs.
+
+
+
+                                                                                                                              Page 8 of 15
+       Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+       MN: SMART Government (P130891)
+
+
+
+
+  Overall Efficacy Rating
+  Substantial
+
+
+
+ 5. Efficiency
+Economic analysis. At appraisal, economic analysis for the Project was not performed. The ICR presented
+economic analysis conducted at closure. The resulting net present value (NPV) was estimated at US$17.0
+million, the internal economic rate of return was 30 percent, and the benefit/cost ratio was 2.69. The analysis
+included four types of benefits: (i) from the establishment and operation of the DRC and the establishment of the
+State Information Exchange System (XYP) for the NDC; (ii) from the establishment of the Open Data system; (iii)
+from increased public sector productivity due to digitalization of services and improved digital skills of the
+government staff and citizens; and (iv) from time and cost saved by businesses and households, as a result of
+the digitalization of services. The ICR noted that the estimates were conservative because not all benefits were
+included: that “would require significant inputs from across government agencies at different levels of the public
+administration, and from various demographic and occupational groups across citizens and businesses”. The
+ICR also pointed out that the objective of the analysis was to show that the Project will deliver sufficient impacts
+to justify the investments. (ICR, page 44-45)
+
+Administrative efficiency. The Project’s closure was extended for 32-months overall from the original closure
+date. This was mainly due to a delay in effectiveness; procurement-related inefficiencies in the first half of
+implementation; the necessity to restructure the Project due to the change in government strategy towards
+increased digitalization of government services; and the need to utilize Project savings to make further upgrades
+in the country’s ICT systems (the ICR noted that the latter could not be considered an inefficiency (ICR, page
+17)). Procurement issues comprised a delay in the large contracts for the Disaster Recovery Center, National
+Enterprise Architecture, and National Data Center; also, the data production solution contract had to be
+canceled as none of the three bidders met the qualification criteria. The inefficiencies experienced in the first
+years of implementation were balanced by the high Project efficiency after the second restructuring in November
+2019, resulting in cost savings (while most of the RF targets were exceeded) and in a high disbursement rate
+(despite the COVID-19 restrictions) (ICR, page 16).
+
+Efficiency is rated Modest given significant inefficiencies experienced by the Project in the first half of the
+implementation.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                 Rate Available?              Point value (%)            *Coverage/Scope (%)
+
+
+
+                                                                                                         Page 9 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MN: SMART Government (P130891)
+
+
+
+                                                                                    0
+Appraisal                                                  0
+                                                                                     Not Applicable
+                                                                                    83.00
+ICR Estimate                                              30.00
+                                                                                     Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Relevance of objectives is rated as High, efficacy as Substantial, and efficiency as Modest. Therefore, the
+overall outcome is Moderately Satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+The ICR reported that there were two main risks to Project sustainability. First, the Project’s investments in
+the digital infrastructure including the National Data Center, the Data Exchange Center, and the Disaster
+Recovery Center, might be insufficiently managed and maintained. This risk was mitigated though the design
+of these facilities based on the best international standards and training of the IT staff who manage them.
+Also, the delivery of the e-services was a key priority of the GoM, and the Project’s investments
+were therefore expected to me maintained. Second, the Open Data Portal and datasets might not be kept
+updated. However, the GoM had signed the Open Government Partnership and remained committed to this
+undertaking, and the NSO had demonstrated a strong commitment to release more datasets. (ICR, page 27)
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The ICR reported that the Bank team undertook good preparatory work prior to appraisal and engaged in
+  a comprehensive dialogue with the GoM to ensure the PDO was in line with the GoM’s reform agenda.
+  The Bank team had worked extensively with the GoM on the Project implementation arrangements to
+  mitigate the identified risks, including setting up a Project Steering Committee (PSC) with participation of
+  beneficiary agencies and the leadership of the Cabinet Secretary, and staffing the PIU with experienced
+  specialists. There were shortcomings in addressing the acknowledged risks. Complex IT procurement,
+  inadequate capacity, weakness in monitoring, potentially waning interest within the Government and
+  piloting of procurement through the Government Procurement Agency (GPA), were recognized as major
+  risk factors. (ICR, page 25) Despite risk identification, significant efforts were required during
+  implementation to adapt the project to the challenges of a low-capacity environment. While this ultimately
+  led to delays, the premises of the design was sound and focused on the right elements to ensure impact.
+
+
+                                                                                                    Page 10 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MN: SMART Government (P130891)
+
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The ICR reported that overall, the Bank team closely managed the implementation and dealt with
+ challenges resulting in five Project restructurings, to ensure its continued alignment with the GoM’s
+ priorities and the PDO. The fifth and final restructuring allowed the GoM to utilize its budget savings before
+ project closure. During ICR interviews, the PIU and agencies highlighted the need for flexibility in the
+ design of ICT projects given the rapid advancements in technologies. The quality and adequacy of the
+ Bank’s supervision decreased during 2016 - mid-2019 due to staff changes, and this negatively affected
+ performance ratings. The Banks’ quality of supervision significantly improved after a new Bank Team was
+ assigned in October 2019 and successfully turned the project around and brought it to completion. The
+ new task team was able to quickly re-orient the project to focus on key activities and PDO indicators. The
+ team’s day-to-day close supervision led to the improvement in the disbursement ratio by 246 percent in the
+ period from October 2019 to June 2020. The adaptation needed due to COVID-19 was implemented
+ successfully: the Project managed to avoid supply chain delays. All aides-mémoires were submitted in a
+ timely fashion, and the ISRs candidly presented the key issues and detailed key actions for management
+ attention. Sustainability of outcomes and continuity of operations were ensured though the maintenance
+ contracts for the hardware and software and capacity building of relevant government officials. (ICR, pages
+ 25-26)
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ Overall, the Project's RF adequately reflected the Project interventions and was sufficiently linked to the
+ PDO. Most of the indicators were quantitative, and all had baselines and targets and were time-bound and
+ attributable to the Project. There were gender disaggregated indicators. The RF was linked to the ToC and
+ was measuring the PDO outcomes, as well as the intermediate outcomes and outputs. The RF adjustment
+ that was required at the second restructuring in November 2019, was done well, and the two new PDO
+ indicators reflected both the new priorities of the GoM and the Project’s PDO. There was a shortcoming:
+ the RF provided very limited data on the efficiency of public services, making the assessment of outputs
+ and outcomes under the “efficiency of public services” PDO difficult.
+
+
+
+
+                                                                                                    Page 11 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     MN: SMART Government (P130891)
+
+
+
+b. M&E Implementation
+  The ICR reported that there were some inadequacies in the M&E data collection during the earlier
+  phases. Due to the slow implementation progress prior to 2020, and the lack of capacity at both the PIU
+  and beneficiary agencies, data collection was inadequate and not timely. There was also an incident of
+  inaccurate reporting on the value of one PDO level indicator, which was dropped subsequently. However,
+  starting in 2020, all M&E data were regularly collected and analyzed. The new bank team which took over
+  in October 2019, acted quickly by working with the PIU to: (i) map agencies responsible and their relevant
+  activities for each results indicator, (ii) convene a workshop with the beneficiary agencies to explain the
+  RF and why it mattered for their activities, and (iii) collate data for every indicator. The implementation of
+  the M&E indicators—records, supporting evidence, analysis, and explanatory comments—was managed
+  well. (ICR, page 23)
+
+
+
+c. M&E Utilization
+  The ICR reported that the M&E indicators were well utilized to inform project restructurings. The team
+  was proactive in using the data collected to improve the project. For example, the PDO-level indicator
+  that measured the number of new users visiting the 11-11 centers showed a steady decline, indicating
+  that physical 11-11 centers had lost thier relevance. This information was tracked and used by the team
+  for the second restructuring of the Project, which was aligned to the GoM’s shift to digital services. M&E
+  indicators were utilized for the design of the follow-on Smart Government II project; and the use of
+  citizen consultations prompted the inclusion of human-centric services as a key PDO-level indicator in
+  that project. (ICR, page 23-24)
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   Environmental Safeguards. At appraisal, the Project was classified as Environmental Category C, and
+   Environmental Assessment was not required. However, as the ICR reported, in January 2020, it was
+   identified that the Disaster Recovery Center would require additional works (several hundred meters of
+   cable and associated trenches, a concrete foundation for a substation, two concrete bases for gensets, and
+   concrete bases for cooling towers). This triggered a change in the Environmental category from C to B, and
+   Partial Assessment was now required. This change was formalized through a Level 2 restructuring
+   approved in September 2021, and an Environmental Assessment was conducted. The Environmental
+   Management Plan’s implementation was satisfactory during the small-scale civil works for the Disaster
+   Recovery Center. The overall environmental safeguard performance of the Project was satisfactory during
+   implementation.
+
+   Social Safeguards. At appraisal, the Project triggered one social safeguard: Indigenous Peoples Policy. The
+   PAD stated that given the type of activities and the Project’s location in Ulaanbaatar and Aimag centers for
+   Component 1, the benefits were to be equitable across ethnic groups. Separately, a project-specific
+
+
+                                                                                                     Page 12 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MN: SMART Government (P130891)
+
+
+
+   Grievance Redress Mechanism was established and became operational in December 2018. No
+   occupational health and safety incidents were recorded. (ICR, page 25)
+
+
+
+
+b. Fiduciary Compliance
+   Financial Management (FM). The ICR reported that the Project’s overall FM performance was rated as
+   Satisfactory at Project closing. In the beginning of Project implementation, shortcomings in compliance with
+   the World Bank’s FM requirements were noted. These included late submission of quarterly interim
+   financial reports, manual recording of project transactions and financial reporting for a prolonged period,
+   and slow progress in disbursement. However, with the continuous support of the World Bank team, the
+   capacity of the PIU and the implementing agency was built up, and the FM performance improved, which
+   was reflected in a consistent Satisfactory rating. During that period, all required interim financial reports
+   and annual audited financial statements were submitted to the World Bank on time and had sufficient
+   quality, all financial audits were of an unqualified opinion, and the FM staffing was sound. World Bank
+   implementation support and supervision missions regularly reviewed project accounts and procedures to
+   ensure compliance with the World Bank’s FM and disbursement requirements, as well as judicious use of
+   project funds. An FM Manual was prepared and followed. The final audited financial statement
+   was submitted to the World Bank by June 30, 2023, as planned, and filed in the Portal. (ICR, page 24)
+
+   Procurement. The ICR reported that procurement implementation of the Project was satisfactory
+   throughout implementation, based on the high-quality work of experienced professionals on the PIU team
+   and the strong leadership of the Cabinet Secretariat. There was no delay in procurement operations
+   starting from 2020, after the restructuring of November 2019. All planned activities were procured before
+   the Project’s closing even amid the impacts of the COVID-19 pandemic, which included strict lockdowns,
+   border closures, and shortages of raw materials in the IT industry. (ICR, pages 24-25)
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                Reason for
+Ratings                         ICR                   IEG
+                                                                                Disagreements/Comment
+                                Moderately
+Outcome                                               Moderately Satisfactory
+                                Satisfactory
+Bank Performance                Satisfactory          Satisfactory
+
+Quality of M&E                  Substantial           Substantial
+
+
+
+                                                                                                   Page 13 of 15
+       Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+       MN: SMART Government (P130891)
+
+
+
+Quality of ICR                 ---                   Substantial
+
+
+12. Lessons
+
+The following lessons are based on those provided in the ICR, with minor adjustments.
+
+1. The need to collaborate with multiple government agencies who have varying interests and
+capacity levels creates risks to project outcomes. For that reason, stakeholder management was
+identified as a major risk for the Project. To mitigate this risk, a Project Steering Committee (PSC)
+comprising representatives from the beneficiary agencies and headed by the Chief Cabinet
+Secretary was established and provided oversight and across key stakeholders. The appointment of
+the Chief Cabinet Secretary was strategic, leveraging the PSC’s authority and sphere of influence to
+achieve alignment and collaboration across the whole of government. Such implementation
+arrangements proved to be good practice and could be replicated in projects implemented in similar
+circumstances.
+
+2. Complex project design can create implementation challenges. The Project was complex,
+covering a wide spectrum of technically complicated activities that ranged from the installation of
+large-scale IT systems and networks to data standards and productions, portal development, policy
+and regulatory frameworks for open data, and digitalization of public services. Managing the Project
+required the Bank team to provide technical assistance to different agencies on a day-to-day basis,
+as well as to coordinate and collaborate across different implementation agencies. This became
+critical at the second restructuring of November 2019, when the Project needed to be turned around.
+The team supported the PIU and beneficiary agencies through weekly project meetings and many
+ad-hoc meetings with the agencies related to both technical and implementation issues. It is
+important that sufficient budgetary resources are available for task teams to provide
+this implementation support with close follow-ups. The lesson is that such assistance could have
+been anticipated and sufficient resources made available to support the client with capacity and
+technical know-how.
+
+3. Monitoring and implementation is critical for the achievement of project objectives. The Bank team
+closely supported the implementation agencies in strategically re-orientating their focus on project
+disbursements and result targets. The Bank team worked with the implementing agency and the PIU
+to help them understand the importance of disbursements and associated results targets, explained
+the relevance and measurements for each result indicator, prioritized and sequenced the various
+project activities, and undertook the necessary actions on the prioritized activities to improve
+Project's performance. Achievement of Project objectives would not have been possible without
+this emphasis on M&E.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+                                                                                                  Page 14 of 15
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      MN: SMART Government (P130891)
+
+
+
+
+The ICR provides sufficient technical detail to understand the value-added of the activities and the outcomes of
+the Project; a good justification of the PDO relevance; robust evidence; a clear linking of evidence to findings;
+and sufficient basis for the ratings. The ICR has internal consistency. The lessons learned are linked to the
+narrative and the ratings and are useful for ICT operations in other client countries.
+
+In addition, the description of the project design and the changes it underwent during implementation are very
+clear and logical despite all the complexities that had to be reflected. The analysis is strong and links well with
+the nature of the interventions and how it supports the service provision.
+
+However, there are two minor deficiencies. First, the efficacy analysis did not take into account that one
+intermediate target was not achieved, resulting in a “High” rating for the “efficiency of public service” PDO, while
+it should have been “Substantial” according to the IEG/OPCS guidelines. However, this did not affect the overall
+outcome rating. Second, the presentation of the Project costs in the ICR had weaknesses, including
+inconsistencies, such as the differences between Annex 3 cost data at closure and the total disbursement in the
+data sheet, as well as the unexplained discrepancy between the sum of the Project components’ cost in
+component description and the total disbursement. Despite these shortcomings, the overall quality of the ICR is
+substantial.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                      Page 15 of 15
+

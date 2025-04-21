@@ -1,0 +1,1185 @@
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     KE Electricity Modernization Project (P120014)
+
+
+
+                                                                                     Report Number: ICRR0024075
+
+1. Project Data
+
+
+
+ Project ID                                   Project Name
+ P120014                                      KE Electricity Modernization Project
+
+ Country                                      Practice Area(Lead)
+ Kenya                                        Energy & Extractives
+
+
+ L/C/TF Number(s)                             Closing Date (Original)                Total Project Cost (USD)
+ IDA-55870,TF-A0579                           30-Jun-2020                                        229,340,328.30
+
+ Bank Approval Date                           Closing Date (Actual)
+ 31-Mar-2015                                  30-Jun-2023
+
+                                              IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                             257,500,000.00                                    7,500,000.00
+
+ Revised Commitment                              257,500,000.00                                    4,660,434.29
+
+ Actual                                          229,340,328.30                                    4,660,434.29
+
+
+
+
+ Prepared by                  Reviewed by                   ICR Review Coordinator         Group
+ Ihsan Kaler Hurcan           Christopher David             Ramachandra Jammi              IEGSD (Unit 4)
+                              Nelson
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to both the International Development Association (IDA) Financing Agreement (p.5) dated June 29,
+   2015, and the Project Appraisal Document (p.14) dated October 8, 2015, the project objectives were “(a) to
+   increase access to electricity; (b) to improve reliability of electricity service; and (c) to strengthen KPLC’s
+   financial situation,” where KPLC stands for the Kenya Power and Lighting Company Limited.
+
+
+
+
+                                                                                                    Page 1 of 22
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     KE Electricity Modernization Project (P120014)
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project consisted of four components and one guarantee scheme (The ICR provides the actual
+   component costs in Special Drawing Rights (SDR), the currency used in the Financing Agreement. The
+   exchange rate at appraisal is used to calculate the US$ equivalents of the actual costs):
+
+   A. Improvement in Service Delivery and Reliability. (Appraisal cost: US$50.0 million; actual cost: US$
+   38.9 million)
+
+   This component consisted of three subcomponents:
+
+   A.1. Upgrade of the Supervisory Control and Data Acquisition/Energy Management System
+   (SCADA/EMS): This subcomponent was to finance the upgrade of the SCADA/EMS of the KPLC by
+   incorporating the existing substations into the system. This upgrade was expected to result in enhanced
+   flexibility in operation and efficiency in management of the distribution network.
+
+   A.2. Distribution system enhanced flexibility: This subcomponent was to finance the installation of 1,000
+   load break switches in distribution assets operating at 11 kilovolts, 33 kilovolts, and 66 kilovolts along with
+   associated remote terminal units and communications features for remote control and operation. These
+   activities were to increase the automation of the 90 percent of the networks in Nairobi and reduce the
+   duration of system interruptions.
+
+   A.3. Enhance maintenance practices to improve the reliability of electricity supply: This
+   subcomponent was to finance equipment, tools, and intensive training of KPLC operations staff for live-line
+   maintenance to further reduce interruptions in the electricity supply.
+
+   B. Revenue Protection Program. (Appraisal cost: US$40.0 million; actual cost: US$31.2 million)
+
+   This component was to finance the creation of metering control centers and investments in information
+   technologies to operate them, incorporation of the meter data management software and training of staff,
+   and supply and installation of advanced metering infrastructure (AMI) meters for the 4,300 high and medium
+   voltage users and 40,000 large voltage customers, and incorporation of these customers to the metering
+   control centers. These activities were to be implemented according to the KPLC’s Revenue Protection
+   Program with the aim of optimizing the systematic use of the information provided by the metering system.
+   This was expected to result in systematic billing of the large and medium customers according to accurately
+   metered consumption and a reduction in commercial losses.
+
+   C. Electrification Program. (Appraisal cost: US$164.5 million; actual cost: US$156.0 million)
+
+   This component consisted of two subcomponents:
+
+   C.1. Peri-urban electrification: This subcomponent was to be implemented by KPLC and finance the
+   design, acquisition of materials, and construction works for the electrification of all households and
+
+                                                                                                     Page 2 of 22
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    KE Electricity Modernization Project (P120014)
+
+
+
+  businesses in high population density peri-urban areas in 50 locations in seven geographical regions. The
+  peri-urban settlements in these locations were to be selected during project implementation. It was
+  expected that 125,000 households would have gained access to electricity through grid connections.
+
+  C.2. Off-grid electrification: This subcomponent was to be implemented by Rural Electrification Authority
+  (REA), which later became the Rural Electrification and Renewable Energy Corporation (REREC) and
+  finance the construction of mini-grids supplied by hybrid generation systems—solar and wind combined with
+  thermal units running on diesel. The mini-grids were to be developed in six locations under a private-public-
+  partnership approach. As a result of the activities under this subcomponent, electricity was to be supplied to
+  locations whose connection to the national grid was not viable in the short and medium-terms.
+
+  D. Technical Assistance and Capacity Building. (Appraisal cost: US$7.5 million; actual cost: US$3.3
+  million)
+
+  This component was to finance consultancy services and trainings to support the preparation of the National
+  Electrification Strategy (NES), development of detailed national technical specifications and standardization
+  for the construction of electricity networks to supply new users, development of regulations for the
+  enforcement of electricity service quality, preparation of feasibility studies for new investments and project
+  monitoring and evaluation, and capacity building for the sector entities including the Ministry of Energy and
+  Petroleum, KPLC, REA, Kenya Electricity Transmission Company, Kenya Electricity Generating Company
+  Limited, and Energy Regulatory Commission.
+
+  IDA Guarantee: The project was to provide a US$200 million IDA guarantee to enhance KPLC’s credit
+  quality and enable the electricity distribution utility to raise US$500 million of new commercial debt with
+  lower interest rates and longer tenors. This was expected to support KPLC in refinancing its commercial
+  debt obligations and significantly reducing the utility’s financing costs with savings of over US$10 million per
+  year. As the PAD (p.18) reports, the request for proposals for the refinancing was issued on February 5,
+  2015, and the proposals were received on February 26, 2015. The financial close of the IDA-guaranteed
+  commercial financing was expected within two to four months after the approval of the IDA guarantee by the
+  Boards of Directors of the World Bank.
+
+  Revised Components
+
+  The project could not install AMI meters to the large customers because of a litigation process initiated by a
+  bidder to the procurement of the related contract that resulted in implementation delays. The project’s scope
+  was changed to install those meters in small and medium size enterprises (SMEs).
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost: The project cost was originally estimated at US$262 million excluding US$500 million that
+  was expected to be raised with the support of the US$200 million IDA guarantee. The actual investment
+  cost of the project was US$229.3 million, which did not include the borrower’s spending estimated at
+  US$4.5 million, because the information was not available. The actual project cost was lower than the
+  estimate at appraisal because of lower prices offered by the bidders for the investment activities.
+
+  Financing: At appraisal, the IDA credit amount was estimated at US$250 million and IDA guarantee was
+  US$200 million. The Strategic Climate Fund-Scaling-Up Renewable Energy Program (SCF-SREP) was to
+
+                                                                                                    Page 3 of 22
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     KE Electricity Modernization Project (P120014)
+
+
+
+   provide US$7.5 million as grants (fully blended with IDA) for the implementation of activities related to
+   stand-alone photovoltaic and micro-grid products under the third component. The project disbursed
+   US$224.7 million of IDA credit and US$4.7 million of SCF-SREP grants.
+
+   Borrower’s contribution: At appraisal, the KPLC’s contribution was estimated at US$3.5 million and the
+   REA’s contribution at US$1.0 million for the implementation of peri-urban electrification under the third
+   component. The actual contribution of KPLC and REA were not available.
+
+   Project Restructurings: The project was restructured three times.
+
+         First Project Restructuring (December 15, 2019 – Level 2): The project closing date was
+          extended by 18 months from June 30, 2020, to December 31, 2021 to allow time for the completion
+          of project activities that were delayed because of inadequate budgetary allocations by the National
+          Treasury to KPLC between July 2017 and December 2018 and litigations instituted by one of the
+          bidders at the Public Procurement Administrative Review Board, which delayed the implementation
+          of the Revenue Protection Program under the second component by almost one year. At this project
+          restructuring the baseline and target of some indicators were revised based on the data gathered
+          during project implementation to better reflect realities on the ground and accurately measure the
+          achievement of the project objectives and align the indicators for the IDA guarantee with the
+          covenants in the Guarantee Facilities Agreement.
+         Second Project Restructuring (September 10, 2021 – Level 2): The project closing date was
+          extended by 12 months from December 31, 2021 to December 31, 2022 to allow time for the
+          completion of project activities that were delayed because of the restrictions caused by the COVID-
+          19 pandemic. At the same restructuring, credit savings under the first and second component were
+          allocated to the third component to increase the number of household connections to the grid. This
+          resulted in an increase in the target of people gaining access to electricity through grid connections
+          from 618,750 to 815,000.
+         Third Project Restructuring (December 8, 2022 – Level 2): The project closing date was
+          extended by six months from December 31, 2022 to June 30, 2023 to allow time for the completion
+          of project activities that were further delayed because of the COVID-19 pandemic restrictions and
+          the issues related to the compensation of project-affected peoples because of land acquisitions
+          under the off-grid electrification subcomponent. The poor performance of contracts also contributed
+          to project implementation delays. The credit savings from training budget were allocated to finance
+          studies under the fourth component.
+
+   Dates: The project was approved on March 31, 2015 and became effective on September 17, 2015. The
+   Mid-Term Review was conducted in May 2019. The original project closing date was June 30, 2020, but it
+   was extended by 3 years (see the project restructurings above for the reasons of project closing date
+   extensions). The project closed on June 30, 2023.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+
+
+
+                                                                                                     Page 4 of 22
+                       Independent Evaluation Group (IEG)               Implementation Completion Report (ICR) Review
+                       KE Electricity Modernization Project (P120014)
+
+
+
+The project objectives are highly aligned with the World Bank’s current strategy as defined in the Country
+Partnership Framework (CPF) for the Republic of Kenya, FY2023-2028. The project sought to address the
+development problem of insufficient and unreliable access to electricity supply service in peri-urban and
+rural areas of Kenya while strengthening the financial viability of the electricity distribution sector utility to
+ensure the sustainability and further expansion of reliable electricity supply service. The project was to
+achieve these results through on-grid and off-grid electricity supply infrastructure investments and the
+technical improvements in KPLC’s electricity bill collections from medium and high consumption customers
+supported by an IDA guarantee to refinance KPLC’s high cost and short-term debt. The project objectives
+support the achievement of “CPF Objective 5: Extend infrastructure services to last mile” with the goal of
+achieving universal access in Kenya during the CPF period subject to the improvement of the financial
+viability of the electricity sector. The project objectives also indirectly support the achievement of “CPF
+Objective 3: Foster micro, small, and medium size enterprises and small producer success for faster job
+creation” and “CPF Objective 6: Increase household resilience to, and national preparedness for, shocks,”
+for both of which access to electricity is a precondition among others. As the ICR (p.13) notes with
+reference to the IFC’s Kenya Country Private Sector Diagnostic of 2019, “from private sector’s perspective,
+reliability and high costs associated with power supply remain major issues.” Through its support to the
+achievement of these three CPF objectives, the project should be expected to contribute to all three high
+level objectives of the CPF—faster and more equitable labor productivity and income growth, greater equity
+in service delivery outcomes, and greater resilience and sustainability of Kenya’s natural capital.
+
+The project objectives are highly relevant to the country context. The project directly supported the
+government’s key priority of universal access to reliable and efficient electricity supply defined in the
+Kenya’s Vision 2030. While Kenya has significantly increased the electrification rate in the country by
+progressively managing its electricity sector (CPF, p.34), the financial viability of the sector poses a risk for
+the attainment of universal access. Therefore, the project objectives are appropriately pitched for the
+development status in the country. Although the first objective to increase access to electricity is output-
+oriented, the other two objectives to improve reliability of electricity service and strengthen KPLC’s financial
+situation, the project objectives were outcome-oriented. Overall, it was reasonable to expect the project
+objectives could have been achieved given the development status of the country and the outcome
+orientation of the project objectives.
+
+The World Bank has been a long-term development partner of Kenya in the electricity sector and urban and
+rural electrification. While IDA leads the policy dialogue, it does so in consultation with the IFC and MIGA,
+both of which are active in the electricity sector in the country. The World Bank has had sufficient
+experience in the country and electricity sector. As explained in the previous paragraph, although the
+project objective to increase access to electricity was output-oriented, the other two objectives were
+outcome-oriented. Given the World Bank’s long-term engagement in the electricity sector in Kenya, the
+project objectives were sufficiently challenging for an electrification project that also targeted improvements
+in the reliability of electricity supply service. However, in retrospect, the objective to strengthen KPLC’s
+financial situation through a single investment project was overly ambitious given the complex factors that
+affect the financial viability of the sector such as political influence, aggressive electrification targets, and
+irregular adjustment of tariffs.
+
+Overall, given the strong alignment and clear response to a given development need, the relevance of
+objectives is rated High.
+
+
+Rating Relevance TBL
+
+
+
+
+                                                                                                        Page 5 of 22
+                      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                      KE Electricity Modernization Project (P120014)
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                OBJECTIVE 1
+                Objective
+                To increase access to electricity.
+
+                Rationale
+                Theory of Change for Objective 1
+
+                The first project objective was output-oriented; therefore, the theory of change was simple and
+                straightforward. The project funds (IDA credit) were to be used to finance the expansion of the electricity
+                distribution network and construction of six mini-grids under the third component. The project outputs would
+                have been distribution network expanded and internal house wirings or ready boards (to use electricity where
+                internal housing is not possible) installed in the semi-urban locations of Nairobi, and six mini-grids with hybrid
+                generation constructed in six locations. These outputs would have been expected to connect 160,000
+                households (618,750 people) to grid or mini-grids, which could best be assessed as intermediate outcomes of
+                the project’s intervention. The project’s impact on the electricity supply quality, which is an outcome, was
+                captured by the second objective. The development of the mini-grids under a PPP model would have been
+                expected to positively affect the sustainability of those services. In addition, the procurement model of bulk
+                purchase of materials for the expansion of the distribution network and installation of household connections
+                would have been expected to lower the cost of the project activities leading to a higher number of household
+                connections. Furthermore, the improvement of the financial viability of the KPLC through the technical
+                improvements in bill collection and refinancing of its debt with the support of an IDA guarantee (captured by
+                the third objective) would have been expected to indirectly contribute to the sustainability of the operation and
+                maintenance of electricity supply service through grid. Overall, the causal links from project inputs and
+                outputs to the expected intermediate outcomes (i.e., households connected to grid and mini-grids) were direct
+                and valid, and the achievement of the first objective could be attributed to the project’s intervention.
+
+                Outputs
+
+                        Distribution lines constructed or rehabilitated under the project: The project financed the
+                         construction of 11,509 kilometers of distribution line against the original and revised targets of 3,500
+                         kilometers and 7,000 kilometers.
+                        Distribution transformers installed: The project financed the installation of 749 distribution
+                         transformers against the target of 1,000, but the number of transformers was sufficient to support the
+                         expanded distribution network for new household connections.
+                        Mini grids constructed with public-private participation: The project started the construction of
+                         seven mini-grids for rural electrification and completed four of them under a PPP approach falling
+                         short of the target of six mini-grids. The implementation of these activities faced challenges such as
+                         delays in land acquisition, supply chain disruptions affecting the delivery of solar panels because of
+
+                                                                                                                     Page 6 of 22
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   KE Electricity Modernization Project (P120014)
+
+
+
+         COVID-19 restrictions, and inadequate contractor performance. As a result, only four mini-grids could
+         be developed fully. The generation plants of the remaining three mini-grids had already been installed
+         by project closing. REREC continues with the financing of the installation of the transformers and the
+         construction of the distribution lines of the remaining mini-grids. The project team reported that these
+         works were expected to be completed by August 2024.
+        Annual electricity output from mini-grids constructed with public-private participation: The
+         target was 2,780 megawatt-hours per year electricity generation by six mini-grids. However, because
+         the project could develop only four mini-grids, the total electricity generated was at 1,422 megawatt-
+         hours per year, lower than the target.
+        Total number of residential connections made under the project: Through the on-grid and off-grid
+         investments, the project financed the connection of approximately 209,000 households to on-grid or
+         off-grid electricity supply service against the original and revised targets of 160,000 and approximately
+         205,000 households, respectively.
+        Total number of new non-residential connections made under the project: In addition to the
+         households, the project financed the connection of 1,243 new non-residential customers to electricity
+         through grid or mini-grids. The target was 1,250 non-residential customers.
+        National Electrification Strategy adopted: Under the technical assistance component, the project
+         supported the preparation and adoption of the National Electrification Strategy.
+
+Intermediate Outcomes
+
+      People provided with access to electricity by household connections: This indicator is another
+       way of measuring the number of connections installed under the project. The average household size
+       assumed to be 5 persons. The original target was to connect 618,750 people to grid or mini-grid. The
+       target was revised up to 815,000 people because of the credit savings allocated to the electrification
+       component. The achievement at 1,071,280 people was substantially higher than the revised target.
+       The breakdown of the number of people who gained access to electricity through grid or mini-grid
+       connections is given in the following two indicators.
+      People provided with access to electricity by household connections-Grid: The project provided
+       electricity to 1,063,635 people through grid connections. The original and revised targets were
+       605,250 and 801,500 people, respectively.
+      People provided with access to electricity under the project by household connections – Off-
+       grid/mini-grid only: The project provided electricity to 7,655 people through mini-grid connections.
+       The target was 13,500 people, which was not revised. The achievement was lower than the target
+       because of the construction of fewer mini-grids than planned. The ICR (p.14) reports that once the
+       remaining mini-grids are completed, the total number of people gaining access to electricity through
+       mini-grids will increase to 19,000.
+
+The project was successful in achieving the project targets for the on-grid household connections. Although
+the project fell short of the achievement of the target for household connections through mini-grids by project
+closing, following the completion of the ongoing three mini-grid works, it is estimated that 19,000 people will
+gain access to electricity higher than the project target of 13,500. This is likely to occur given current
+construction commitments. Furthermore, a private sector operator will operate and maintain the mini-grids
+under a 15-year operation and maintenance agreement with KPLC. This arrangement should be expected to
+significantly contribute to the sustainability of electricity supply service through mini-grids. Overall, although
+the project’s achievement in connecting people to electricity through mini-grids by project closing was lower
+than the target, when the project’s overall achievement in connections (both residential and non-residential)
+
+                                                                                                     Page 7 of 22
+   Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+   KE Electricity Modernization Project (P120014)
+
+
+
+and the sustainability of the electricity supply service are taken into consideration, the project’s efficacy in
+achieving the output-oriented project objective to increase access to electricity is rated Substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+To improve reliability of electricity service.
+
+Rationale
+Theory of Change for Objective 2
+
+The project activities were to result in SCADA and EMS upgraded, load break switches installed, and KPLC
+equipped with equipment and capacity to implement live-line maintenance. The expected outcomes would
+have been enhanced flexibility in operation and efficiency in managing the distribution network (such as more
+efficient detection of network faults and breakdowns and load balancing) because of upgraded SCADA and
+EMS and reduced duration of system interruptions because of automated restoration of service due to
+installed load breakers and ability to address system issues through live-line maintenance. The improved
+financial viability of the KPLC (captured under the third objective) should have been expected to contribute to
+the improvement of reliability of electricity service because of the availability of funds to adequately finance
+operation and maintenance activities. Overall, the causal links from project inputs and outputs to the expected
+outcomes (improved reliability of electricity service) were direct and valid, and the achievement of the second
+project objective could be attributed to the project’s intervention as long as the national electricity network did
+not experience any non-distribution system related interruptions, which was a critical assumption, and the
+distribution network preventive maintenance was implemented adequately and regularly.
+
+Outputs
+
+      Automatic load break switches installed in the Nairobi distribution network in the project
+       areas: The project financed the installation of 710 load breakers against the original and revised
+       targets of 1,000 and 650, respectively. The target was revised down to 650 following the detailed
+       designs that showed that 650 would have been sufficient to achieve the project outcome of reduced
+       duration of system interruptions.
+      Substations added to the SCADA/EMS: The project financed the addition of 69 substations to the
+       SCADA and EMS. The original target was 146 substations, which was revised down to 69 because
+       following the completion of detailed designs, it was assessed that the addition of 69 substations to
+       SCADA and EMS would have been sufficient to improve the operation of the distribution system.
+      Implementation by Energy Regulatory Commission (ERC) of a regime on service quality: The
+       project supported the ERC to develop regulations to implement a regime on service quality (including
+       reliability of electricity supply) based on systematic monitoring of key parameters through direct
+       access to the records of the KPLC’s information systems.
+
+
+
+
+                                                                                                      Page 8 of 22
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   KE Electricity Modernization Project (P120014)
+
+
+
+
+      The project also purchased 28 trucks with mounted aerial platforms and tools for live-line maintenance
+       and conducted training sessions. The project also constructed a laboratory in Nairobi for testing
+       equipment. The results framework did not capture these outputs.
+
+Outcomes
+
+      Average outage duration for customers served: This indicator measures the average outage
+       duration in hours for customers served by KPLC. It is also called System Average Interruption
+       Duration Index (SAIDI). The baseline was 12 hours. The project’s original target was to lower the
+       SAIDI to 6 hours, and it was later revised down to 5 hours. The achievement was 8 hours 24 minutes,
+       showing only a partial improvement in system reliability.
+
+The project was successful in achieving its outputs in terms of SCADA and EMS upgrading, installation of
+load breakers on medium voltage distribution lines along with its associated thermal units and communication
+systems, and provision of equipment, tools, and training for live-line maintenance. However, the decrease in
+SAIDI was lower than expected falling substantially short of the target. The ICR (p.14) notes that the SAIDI
+did not correctly measure the average duration of outage per customer in the project area because it covers
+interruptions in the entire medium voltage network of the KPLC and that all customers mapped to an
+interrupted feeder were included in the measurement of SAIDI although some of those customers could
+continue receiving electricity from another feeder. Six major national blackouts (two in 2022 and four in 2023)
+because of issues in generation and transmission of electricity, and insufficient investment in the preventive
+maintenance of the distribution network contributed to a lower reduction in SAIDI.
+
+Because of the shortcomings of SAIDI in accurately measuring the project’s impact on system reliability, the
+ICR (p.14) provides information based on the data collected through the advanced distribution management
+system developed under the project, which covers the Nairobi area only. According to the data, the system
+average interruption frequency index (SAIFI) in the Nairobi region doubled between July 2020 and September
+2023. However, because of the strengthening of the KPLC’s distribution network operation and monitoring
+capacity as a result of the investments made under the first component of the project, the customer average
+interruption duration index (CAIDI) in the project areas dropped from 3 hours 24 minutes to 1 hour 42 minutes
+during the same period. This shows the impact of the advanced distribution management system so that the
+KPLC is now capable of fixing faults and restoring electricity supply service much faster than before the
+project.
+
+Overall, while the project was successful in completing the project outputs that would have been expected to
+contribute to the improvement of electricity supply reliability, the project’s intervention was insufficient to
+achieve that outcome because reliability of electricity supply depended on other factors that were not covered
+by the project, such as issues related to generation and transmission, and adequate preventive maintenance
+of the distribution network. In addition, the SAIDI was not an appropriate indicator to measure the project’s
+impact in the project area. Although the project laid the groundwork for the improvement of electricity supply
+reliability in the medium and long-terms, the project’s efficacy in achieving the project objective to improve
+reliability of electricity service is rated Modest because of insufficient measurement of the project’s impact and
+continued reliability issues in the distribution network in the project area.
+
+
+
+Rating
+
+
+                                                                                                    Page 9 of 22
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   KE Electricity Modernization Project (P120014)
+
+
+
+Modest
+
+
+OBJECTIVE 3
+Objective
+To strengthen KPLC's financial situation.
+
+Rationale
+Theory of Change for Objective 3
+
+The project activities were to result in the project outputs of metering control centers established, a Meter
+Data Management software installed, and advanced metering infrastructure installed. These outputs would
+have been expected to lead to the project outcomes of systematic billing of customers based on accurately
+metered consumption; thus, ensuring the protection of the revenues KPLC receives and contributing to the
+financial viability of the KPLC. In addition, with the availability of a US$200 million IDA guarantee, the KPLC
+was expected to raise US$500 million commercial debt with lower interest rates and higher tenure to
+refinance its costly debt obligations lowering the utility’s debt service cost. Overall, the causal links from
+project activities and outputs to outcomes were valid and direct, and the achievement of this objective could
+be attributed to the project’s intervention, but the success of the project’s intervention in strengthening the
+KPLC’s financial situation was heavily depended on other factors such as the regular and transparent
+adjustment of tariffs, allocation of sufficient budgetary funds to support the KPLC’s electrification program,
+and operational reorganization of the utility. As a standalone lending operation, the project did not address
+these issues.
+
+Outputs
+
+      Establishment of a modern meter control center with satellites: The project financed the
+       establishment of seven metering control centers in Nairobi and regional offices. A target was not set
+       for this indicator. All seven centers are operational.
+      Installation of advanced metering infrastructure (AMI) meters: The project financed the
+       installation of 67,000 AMI meters in small and medium size enterprises (SMEs). The project was to
+       originally install 55,000 AMI meters in large customers whose electricity consumption represented 53
+       percent of the total consumption. However, because of a litigation lodged by a bidder challenging the
+       award of this contract, delays in the disbursement of advanced payment to the contractor, and delays
+       in the opening of the letter of credit caused by inadequate budgetary allocation to the project resulted
+       in a change in the project’s approach in using the project funds to install AMI meters in SMEs rather
+       than large customers.
+      The US$200 million IDA guarantee agreement became effective in 2016 with some delay because of
+       the need to clarify some technical requirements of the KPLC and the delayed finalization of KPLC’s
+       financial strategy.
+      The project financed the installation of an Advanced Meter Management software and provided
+       training for its use. As a result, the KPLC’s existing AMIs were integrated to the software completing
+       the integration of the system (ICR, p.15). The results framework did not include an indicator to capture
+       the achievement of this project output.
+
+Outcomes
+
+
+
+                                                                                                  Page 10 of 22
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   KE Electricity Modernization Project (P120014)
+
+
+
+
+      Private Capital Mobilized: Because of the US$200 million IDA guarantee, the KPLC raised US$500
+         million private capital to refinance its approximately US$354 million commercial debt. The target was
+         US$450 million.
+        KPLC Commercial losses: The baseline for KPLC’s system-wide commercial losses was 6.7
+         percent. The original and revised targets were 3.70 percent and 6.1 percent, respectively. The target
+         was revised because of the change in the scope of installation of the AMI meters from large
+         customers to SMEs. The large customer’s consumption constituted 53 percent of the total
+         consumption, whereas the consumption of the project SMEs constituted 20 percent of the SMEs in the
+         country, the total consumption of which constitutes 16 percent of the consumption in the country.
+         Therefore, the installation of the AMI meters covered only about 3 percent of the electricity
+         consumption in the country. Because of this significant low coverage, the project had a marginal
+         impact on reducing KPLC’s commercial losses. On the other hand, system-wide commercial losses at
+         project closing were estimated at 8.93 percent out of the 23.3 percent technical and commercial
+         losses showing a deterioration. This is attributed to “the continued rapid expansion of the low voltage
+         network to cater to the aggressive connection campaign without a commensurate increase in the
+         medium voltage network as well as inadequate measures by KPLC to curb electricity theft due to
+         institutional instability” it was faced with between 2018 and 2023” (ICR, p.16). On the other hand, the
+         ICR (p.16) reports that the commercial losses from customers covered by the project decreased by
+         3.3 percent; however, the ICR does not provide sufficient information about how this reduction was
+         calculated, and the results framework did not include an indicator to capture this achievement; hence,
+         there was no target.
+        KPLC's Current Ratio: Current Ratio is defined as an entity’s ability to fulfill its short-term financial
+         obligations and calculated as a ratio of current assets to current liabilities. KPLC’s baseline Current
+         Ratio was 1, and the target was to increase it above 1. The achievement was 0.61 indicating that the
+         short-term ability of KPLC to fulfill its financial obligations deteriorated.
+        KPLC’s Gearing Ratio (ratio of debt to equity): Gearing Ratio is the ratio of an entity’s debt to its
+         equity. The KPLC’s baseline was 1.28 and the target was to keep it under 2.5. The achievement at
+         1.74 was better than the target but worse than the baseline.
+        Debt Service Coverage Ratio: This is a ratio of an entity’s net operating income to its debt service.
+         The baseline for KPLC was 1.1 and the target was a ratio higher than 1.2. The achievement was 1.8
+         indicating a significant improvement in KPLC Debt Service Coverage Ratio because of the refinancing
+         of its debts using the IDA guarantee.
+        Free operational cash flow to debt: This ratio measures the fraction of all debt that would be paid
+         back in one year using all free cash flow. The KPLC’s baseline ratio was minus 10 percent indicating a
+         very precarious financial situation for short-term debt payment. The target was to increase it to 6
+         percent through debt refinancing. The achievement at 27.49 percent was significantly higher than the
+         target.
+        Reduction in interest rate of refinanced USD-denominated commercial loans: The reduction in
+         interest rate was 0.60 percentage points falling short of the target of 1.50 percentage points.
+        Debtors Receivable Days: This ratio shows the average number of days it takes KPLC to settle its
+         bills with debtors. It is calculated by dividing the debtors’ receivables by the revenue of KPLC and
+         multiplying that ratio by 365 days. The baseline for KPLC 62 days. The target was to lower it below 60
+         days. The achievement at 28.55 days was significantly better than the target because of the
+         refinancing of KPLC debt using the IDA guarantee.
+
+The achievement of the indicators show that the project’s intervention had a positive impact on improving
+KPLC’s some financial ratios (such as debt service coverage ratio, free operational cash flow to debt, and
+
+                                                                                                   Page 11 of 22
+                                Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                                KE Electricity Modernization Project (P120014)
+
+
+
+                            debtors receivable days), whereas the commercial losses and other ratios had worsened by project closing
+                            (such as current ratio and gearing ratio). The ICR (pp.16-17) lists the external reasons for the worsening of
+                            the KPLC’s financial situation as the following: (i) insufficient tariff to recover increased operational costs
+                            because of a five-year delay in carrying out of a scheduled tariff review; (ii) insufficient revenues because of
+                            political decisions that increased the threshold for customers on the lifeline from 10 kilowatts-hour to 100
+                            kilowatts-hour in October 2015 and decreased tariffs by 15 percent between December 2021 and August
+                            2022; (iii) insufficient fiscal transfers to KPLC for the implementation of the last-mile connection program; and
+                            (iv) deterioration in operational performance that resulted in increased technical and non-technical losses.
+
+                            The results show that the project’s positive effect on the financial situation of the KPLC was temporary.
+                            However, the project’s intervention resulted in a significant technical capacity improvement in real time
+                            tracking of anomalies in the system and billing through the establishment of metering control centers and
+                            installation of AMI meters. These applications are scalable and expected to further benefit the KPLC’s
+                            operation and bill collection through the addition of new metering points. Although the full benefit of these
+                            investments may not be realized without institutional change in management and business process
+                            engineering in KPLC, the project nevertheless laid a solid groundwork for improved bill collection (ICR, p.15
+                            and footnote 3 on p.16). As a standalone intervention, the project did not address the other factors that have
+                            been systematically and adversely affecting KPLC’s financial situation; however, the project resulted in a
+                            productive dialogue with the Kenyan authorities regarding how to improve the KPLC’s financial situation and
+                            resulted in the inclusion of certain DLIs in the follow-on World Bank-financed Green and Resilient Expansion
+                            of Energy Program for Results (GREEN PforR) that are expected to directly strengthen the operational
+                            autonomy and improve the financial situation of the KPLC. Overall, although the project’s achievement fell
+                            short of initial targets, the project’s efficacy in achieving the project objective to strengthen KPLC’s financial
+                            situation is rated Substantial taking into consideration the overall impact of the project on the technical
+                            capacity of the utility, the establishment of a productive policy dialogue, and the preparation of follow-on
+                            interventions to address the other barriers to the strengthening of the utility’s operational autonomy and
+                            financial viability.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project was successful in establishing household connections to the grid and partially successful in
+                            connecting households to mini-grids. Therefore, the efficacy of the project in achieving the project objective to
+                            increase access to electricity is rated Substantial. On the other hand, the project efficacy in achieving the
+                            project objective to improve reliability of electricity service is rated Modest because of lower achievement due
+                            to external factors such as issues related to generation and transmission, and adequate preventive
+                            maintenance of the distribution network, and the weakness of the indicators to measure the achievements in
+                            the project area. Although the project’s achievement fell short of the financial targets, the project’s efficacy in
+                            achieving the project objective to strengthen KPLC’s financial situation Substantial because the project
+                            significantly improved the technical capacity of the KPLC in metering, resulted in a positive policy dialogue
+
+                                                                                                                                 Page 12 of 22
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      KE Electricity Modernization Project (P120014)
+
+
+
+  with the authorities in sector reform, and led to the follow-on World Bank project that is expected to further
+  strengthen the operational autonomy of the utility.
+
+  Overall, the project’s efficacy in achieving the project objectives is rated Substantial. The modest rating for the
+  project’s efficacy in achieving the second objective will be taken into consideration in driving the overall
+  outcome rating below.
+
+
+
+  Overall Efficacy Rating
+  Substantial
+
+
+
+5. Efficiency
+Economic Analysis
+
+At appraisal, a cost-benefit analysis was conducted for investment activities excluding the benefits from
+technical assistance activities, which were not quantifiable, and those from the IDA guarantee because they
+were typically financial. The analysis included two main quantifiable benefits as incremental electricity
+consumption resulting from the improvements in service delivery and the electrification program, and energy
+cost savings resulting from reduced non-technical losses among large and medium customers. Other
+assumptions related to electricity supply and demand were realistically derived from the KPLC’s 2014 Annual
+Report. The costs of the investment activities and their maintenance (2 percent of the investment cost per year)
+were included in the analysis for a period of 20 years. The calculations resulted in an overall Economic Rate or
+Return of 20.9 percent and a Net Present Value of US$218.2 million at a discount rate of 10 percent.
+
+At project closing, the same methodology with actual project benefits and costs was used to conduct a post-
+project economic analysis. The calculations resulted in an overall ERR of 16.1 percent and an NPV of US$78.3
+million. The post-project EIRR and NPV were lower than those estimated at appraisal because of project scope
+shifting from large customers to SMEs that resulted in the achievement of lower benefits and the revised
+assumption for monthly consumption of newly connected household from 50 kilowatt-hours to 36 kilowatt-hours.
+However, the post-project ERR was still higher than the hurdle rate of 9 percent calculated for Kenya using the
+Ramsey formula that links discount rates to economic growth rates. Overall, the economic analyses conducted
+at appraisal and after project were typical and appropriate for an electrification and service delivery improvement
+project, and the ERR and NPV calculations confirmed the economic viability of the project’s intervention.
+
+Operational and Administrative Efficiency
+
+The project was faced with some moderate operational and administrative issues that delayed project
+implementation. In early stages of project implementation, the delays in the government’s allocation of funds
+from the budget to the project because of tight fiscal space slowed down the implementation of project activities.
+A court litigation further delayed the implementation of the power protection component consequently resulting
+in a change of scope in the installation of AMI meters from large customers to SMEs. In addition, the frequent
+changes in top management of KPLC and the suspension of senior management because of forensic audits
+also delayed project implementation. There were also noncompliant aspects of the safeguard implementation,
+but these did not have a major adverse effect on project implementation. As an external factor, the restrictions
+
+
+                                                                                                      Page 13 of 22
+       Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+       KE Electricity Modernization Project (P120014)
+
+
+
+imposed by the government and disruptions to global supply chains because of the onset of COVID-19 in March
+2020 delayed project implementation. Although these delays resulted in a three-year extension of the project
+closing date, the project had delivered most of the outputs by revised project closing date except the
+construction of all six mini-grids with no cost-overruns.
+
+Overall, the project’s efficiency in achieving the project objectives is rated Substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                 Rate Available?              Point value (%)            *Coverage/Scope (%)
+                                                                                         97.00
+ Appraisal                                                    20.90
+                                                                                          Not Applicable
+                                                                                         98.00
+ ICR Estimate                                                 16.10
+                                                                                          Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project objectives were highly aligned with the World Bank Strategy and relevant to the country context.
+The project objectives to increase access to electricity and improve the reliability of electricity service were
+sufficiently challenging whereas the objective to strengthen the KPLC’s financial situation was overly ambitious
+given the multi-faceted complexity of the financial viability of the sector, but it nevertheless was a necessary
+intervention to lay the groundwork for future strengthening of the financial situation of the utility. Overall, the
+relevance of the project objectives is rated High. Although the project’s success in achieving the results related
+to system reliability was modest, the project delivered all the technical outputs that are expected to be scaled up
+in the future to further improve the reliability of electricity supply. Similarly, the project had an overall positive
+impact that would be expected to support KPLC in strengthening its financial situation (because of improved
+technical capacity, positive policy dialogue, and follow-on World Bank projects) although the initial project
+results were lower than the targets. The project was also successful in connecting new households to electricity
+despite some shortcomings in expanding the coverage of mini-grids. Overall, the project’s efficacy in achieving
+the three project objectives is rated Substantial. The post-project cost-benefit analysis resulted in an ERR higher
+than the hurdle rate calculated of Kenya (although it was lower than the ERR calculated at appraisal), and the
+project did not encounter any major shortcoming in operational and administrative aspects. Therefore, the
+project’s efficiency in achieving the project objectives is rated Substantial. Overall, in accordance with the Bank
+Guidance (p.38), the project’s outcome is rated Moderately Satisfactory because of the modest rating of the
+project’s efficacy in achieving one of the project objectives.
+
+
+
+
+                                                                                                       Page 14 of 22
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      KE Electricity Modernization Project (P120014)
+
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+Financial: The financial viability of KPLC poses a high risk to the sustainability of the project outcomes. This
+is partly mitigated by the inclusion of a Disbursement Linked Indicator (DLI) under a new Program for
+Performance, which requires regular three-yearly adjustment of tariffs, the last of which was process on April
+1, 2023. However, KPLC continues to have a significant amount of foreign currency debt liability. This
+adversely affects the utility’s cashflows and profitability. Because of the aggressive expansion of the
+distribution network (see the entry titled Technical below), KPLC is likely to be faced with insufficient funds
+problem. Such funding constraints could result in improper operation and preventive maintenance of the
+assets developed under the project resulting in a deterioration of service delivery quality.
+
+Technical: The infrastructure investments implemented under the project used proven technologies. If they
+are operated and maintained properly, the likelihood of the arising of a major technical issue is low. However,
+because of the aggressive expansion of the distribution network to achieve the government’s universal
+access goal by 2026 has been stretching the technical capacities of KPLC resulting in less attention given to
+the implementation of preventive maintenance works. Coupled with technical issues in the generation and
+transmission of electricity, the issues in the distribution network are likely to continue for some time. This can
+adversely affect the reliability of electricity service.
+
+Organizational: The organizational instability at KPLC has been a recurring problem during project
+implementation such a frequent managerial changes and suspension of senior managers because certain
+audits. Such organizational instability can result in a deterioration of the overall performance of the utility.
+However, the follow-on World Bank-financed project included DLIs to improve the independence of the board
+of directors of KPLC. This is expected to contribute to the organization stability of KPLC.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  Increasing access to electricity while improving the reliability of electricity service and strengthening the
+  financial viability of the distribution utility was of high strategic importance for the Government of Kenya in
+  order to achieve universal access by 2030 and spur economic growth through reliable supply of electricity
+  to businesses. The project activities to increase access to electricity were relevant and sufficient to
+  achieve this goal through distribution infrastructure and mini-grids investments (through a PPP scheme).
+  The project activities to improve the reliability of electricity service and to strengthen the KPLC’s financial
+  situation were relevant but insufficient because the achievement of these objectives depended on
+  addressing sector-wide political and organizational barriers. The economic analysis was robust to assess
+  the economic viability of the project’s intervention. Technical aspects were sufficient to establish the
+  foundation of a technical infrastructure that would have been expected to support KPLC improve its
+  operational and financial situation resulting in an improvement in system reliability. Safeguards and
+  fiduciary aspects of the project were adequate to efficiently implement the project; for example, the
+
+                                                                                                      Page 15 of 22
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     KE Electricity Modernization Project (P120014)
+
+
+
+  identification of the provisions of the national public procurement law that were inconsistent with the
+  World Bank procurement guidelines and their implementation with modifications. While all the major risks
+  were adequately identified and mitigation measures were in place, the risks of insufficient budget
+  allocations to the project and organizational instability of the KPLC were insufficiently identified and
+  mitigation measures were ineffective. The materialization of those risks led to project implementation
+  delays. Monitoring and evaluation (M&E) arrangements of the project had significant shortcomings. As
+  discussed in section 9. M&E Design, Implementation, & Utilization below, some outcome indicators were
+  irrelevant and not measurable to capture the project’s impact on reducing commercial losses and
+  improving the reliability of the electricity supply. These limitations in the M&E design and implementation
+  made it difficult to test the causal links in the theory of change.
+
+  Overall, the quality at entry is rated Moderately Satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The project team conducted in-person supervision missions approximately twice a year except during the
+ COVID-19 restrictions period when virtual super missions were conducted. The presence of the World
+ Bank Task Team Leader and other members of the project team in Nairobi facilitated a close dialogue with
+ the authorities and project implementing entities, and a close supervision of the project activities. The close
+ dialogue with the authorities helped solve the insufficient budgetary allocation issue in early 2019. Based
+ on a review of the Implementation Status and Results Reports (ISRs) and Aide Memoirs, the performance
+ reporting is assessed to be candid and detailed manifesting the project team’s sufficient focus on the
+ development impact of the project. Using the experience and increased knowledge gained during the
+ implementation of the project, the project team designed the follow-on Green and Resilient Expansion of
+ Energy Program for Results (GREEN PforR) operation to include two DLIs to address the financial
+ challenges of the KPLC and improve its operational stability. The project team’s supervision of the
+ safeguard implementation was satisfactory; the project team’s guidance was critical in finding an in-kind
+ compensation solution to acquisition of unregistered community lands in line with the preference of the
+ local communities (see Safeguards in section 10). To address the project implementation challenges, the
+ project team restructured the project three times. However, these restructurings were insufficient to
+ address the shortcomings of the results framework in adequately capturing the improvement in the
+ reliability of electricity services through SAIDI and commercial loss indicator.
+
+ Overall, the quality of supervision was Satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+
+
+                                                                                                    Page 16 of 22
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     KE Electricity Modernization Project (P120014)
+
+
+
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The project objectives were clearly and concisely formulated. At appraisal, the preparation of a theory of
+ change was not required, but the information contained under the components was sufficient to derive a
+ theory of change of the project’s intervention, and it was adequately reflected in the results framework. The
+ intermediate results indicators were mostly sufficient to capture the contribution of the project activities and
+ outputs toward achieving the expected outcomes. However, the results framework did not include
+ indicators to capture the achievement of some outputs related to the live-line maintenance and metering
+ software. The objective-level indicators also adequately encompass the outcomes expected from the
+ project’s intervention. The indicators capturing the results in increasing access to electricity were specific,
+ measurable, achievable, relevant, and time-bound. However, some indicators capturing the improvement in
+ the reliability of electricity service and strengthening of KPLC’s financial situation were not specific,
+ measurable, or achievable, such as the SAIDI, commercial losses indicator, and various financial ratios for
+ the KPLC’s financial situation. These indicators mostly measured the results at KPLC’s entire-system level;
+ therefore, it was not possible to adequately measure the project’s impact on electricity service reliability in
+ the project area or the KPLC’s financial situation. There were also methodological weaknesses in those
+ indicators. For example, the SAIDI overstated the number of people of customers affected by system
+ interruptions because of inadequate metering, and the KPLC’s commercial losses could not be calculated
+ for the project area because technical losses could not be accurately measured due to absence of metering
+ at the distribution transformers.
+
+
+
+b. M&E Implementation
+  The indicators in the results framework were regularly measured and reported using the KPLC’s SCADA
+  system and annual reports, contractors’ monthly progress reports, and the registration of new households
+  to electricity service. The changes in commercial losses were estimated from total losses based on a
+  methodology developed in 2013. However, the weaknesses in the outcome indicators in capturing the
+  project’s impact on the reliability of electricity service and the strengthening of KPLC’s financial situation
+  were not corrected during project implementation. These weaknesses in the specification and
+  methodology of some indicators made it difficult to assess the achievement of the project objectives and
+  test the links in the results chain. The M&E functions and functions are institutionally sufficiently
+  embedded and are likely to be sustained after project closing. It is also expected that with the installation
+  of more meters at the distribution transformers, the SCADA system will provide more accurate data on
+  interruptions and commercial losses system-wide.
+
+
+
+c. M&E Utilization
+  The M&E did not lead to a major shift in the implementation direction of the project, but the project was
+  restructured based on the M&E finding. Notwithstanding the significant weaknesses in the specificity and
+  methodology of some main indicators, the M&E data collected through the results framework were
+  adequately used to provide evidence of achievement of outcomes. Most importantly, the M&E findings
+
+
+                                                                                                     Page 17 of 22
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     KE Electricity Modernization Project (P120014)
+
+
+
+  and lessons learned from the implementation of the project led to the preparation of the GREEN PforR,
+  which will support the critical reform measures in the electricity sector.
+
+
+
+  Overall, the M&E quality is rated Modest because of significant shortcomings in the M&E design and
+  implementation that made it difficult to measure the achievement of the project objectives and test the
+  links in the results chain. The assessment of the achievement of the project’s results was possible
+  because of the additional evidence provided by the ICR.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as Category B under Environmental Assessment (OP/BP 4.01) and triggered the
+   Natural Habitats (OP/BP 4.04), Indigenous Peoples (OP/BP 4.10), Physical and Cultural Resources (OP/BP
+   4.11), and Involuntary Resettlement (OP/BP 4.12) safeguard policies.
+
+   Environmental Assessment (OP/BP 4.01): The project was classified as Category B because of limited
+   and reversible site specific and temporary adverse environmental effects because of the construction works.
+   An Environmental and Social Management Plan (ESMP) for the activities under the first component was
+   prepared and disclosed in country and on the World Bank’s InfoShop on January 9, 2015. Two
+   Environmental and Social Management Frameworks (ESMF) one for each peri-urban and off-grid
+   electrification activities were prepared and disclosed in country and on the World Bank’s InfoShop on
+   February 3, 2015. The insufficient enforcement of the safe work procedures related to poles handling
+   resulted in a fatal accident during the implementation of grid electrification activities. The work was
+   suspended for two months until the implementation of the corrective actions agreed by the KPLC and the
+   contractor and approved by the World Bank project team.
+
+   Natural Habitats (OP/BP 4.04): The project triggered this safeguard policy because of the likely but
+   minimal impact of the peri-urban and off-grid electrification activities on natural habitats and that of small
+   wind-power projects (if adopted under the off-grid electrification component) on migratory bird corridors. The
+   project team confirmed that the project did not have any adverse effect on natural habitats, because all
+   subprojects were screened to avoid natural habitats.
+
+   Indigenous Peoples (OP/BP 4.10): The project triggered this safeguard policy because of the potential
+   impact of the off-grid electrification activities in six communities where indigenous peoples live that meet the
+   criteria under this safeguard policy. A Vulnerable and Marginalized Groups Framework (VMGF) was
+   prepared and disclosed in country and on the World Bank’s InfoShop on February 3, 2015. The project
+   confirmed that subprojects were screened to have any adverse effect on the indigenous communities. As
+   discussed under Involuntary Resettlement safeguard below, the project compensated some indigenous
+   communities in return for the acquisition of their unregistered community land.
+
+
+
+                                                                                                     Page 18 of 22
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    KE Electricity Modernization Project (P120014)
+
+
+
+  Physical and Cultural Resources (OP/BP 4.11): The project triggered this safeguard policy as a
+  precaution for chance finds. The project team confirmed that there were no chance finds of physical or
+  cultural resources during project implementation.
+
+  Involuntary Resettlement (OP/BP 4.12): The project triggered this safeguard policy because not all off-
+  grid subproject were identified at appraisal that might require land acquisition, and the peri-urban
+  electrification activities were assessed to result in compensation payments for crops and trees that could be
+  damaged during wayleave acquisition. Therefore, a Resettlement Policy Framework (RPF) was prepared
+  and disclosed in country and on the World Bank’s InfoShop on February 3, 2015. The project was to
+  prepare subproject specific Resettlement Action Plans (RAP) if needed. During project implementation,
+  there were issues that were non-complaint with the requirement of this safeguard policy. In the early phases
+  of project implementation, the KPLC’s documentation of wayleave acquisition was insufficient because
+  project-affected peoples’ (PAPs) compensation requests were not logged appropriately. The World Bank
+  project team supported the KPLC in the preparation of a wayleaves acquisition consent form. In addition,
+  the implementation of this safeguard policy faced challenges during the installation of three mini-grids
+  because these mini-grids were located on unregistered community land. The World Bank project team
+  supported REREC team in facilitating an in-kind compensation for the acquisition of unregistered
+  community lands in the form of infrastructure investments rather monetary compensations. An Action Plan
+  was agreed with the REREC to ensure compliance with this safeguard policy for the mini-grid activities that
+  continued beyond project closing. The project had a grievance redress mechanism, but the grievances were
+  not recorded appropriately, which led to delayed compensation payments.
+
+
+
+
+b. Fiduciary Compliance
+  Financial Management
+
+  The project implementing units submitted project’s unaudited interim financial reports regularly but with
+  occasional delays. The external audits raised issues related to internal controls, procurement, assets in the
+  books and outstanding balances. With the support of the World Bank project team, KPLC addressed these
+  shortcomings. The last opinion of the external auditor was unqualified. However, there were significant
+  issues with the availability of counterpart funding. Because the National Treasury significantly reduced
+  budgetary allocations to the Ministry of Energy starting from the Fiscal Year 2017, the KPLC was not able
+  to draw from IDA funding under the project because of insufficient budgetary allocations. The insufficient
+  budgetary allocations have been a recurring issue during project implementation that led to halting of
+  project activities once the KPLC depleted the budgetary allocations for a specific fiscal year. Because of
+  increased risk of fraud, collusion, and corruption, the fiduciary risk of the project was reassessed and
+  increased to Substantial during project implementation.
+
+  Procurement
+
+  Although the project hired a senior procurement specialist, procurement faced challenges starting from
+  early phases of project implementation. The project implementation units (PIUs) formed under the KPLC,
+  and the REA and REREC did not have sufficient familiarity with the World Bank’s procurement process
+  and guidelines. Bidding documents were not adequately prepared; decision-making was generally delayed;
+  and the bid evaluation reports were of poor quality. The project team supported the PIUs in procurement,
+  and procurement of major contracts were completed in 2017. However, a litigation process initiated by a
+
+                                                                                                  Page 19 of 22
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     KE Electricity Modernization Project (P120014)
+
+
+
+   bidder to the procurement of activities under the Revenue Protection Program delayed implementation of
+   those activities and consequently led to the installation of the AMI meters to SMEs rather that large
+   customers. In addition, the procurement of the mini-grid contracts was delayed because of the REA did not
+   meet the withdrawal condition of the adoption of strategy for PPP implementation of off-grid electrification.
+   Overall, the procurement was compliant with the World Bank procurement requirements and guidelines,
+   but because of insufficient procurement capacity, contracts were procured with delays.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   None.
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                 Reason for
+Ratings                          ICR                   IEG
+                                                                                 Disagreements/Comment
+                                 Moderately
+Outcome                                               Moderately Satisfactory
+                                 Satisfactory
+                                                                                 The Quality at Entry is rated
+                                                                                 Moderately Satisfactory because
+                                                                                 of moderate shortcomings in the
+                                                                                 identification of risks and
+Bank Performance                 Satisfactory         Moderately Satisfactory
+                                                                                 effectiveness of mitigation
+                                                                                 measures, and significant
+                                                                                 shortcomings in the design of
+                                                                                 the M&E system.
+Quality of M&E                   Modest               Modest
+
+Quality of ICR                   ---                  Substantial
+
+
+12. Lessons
+
+This review has drawn three lessons based on the information in the ICR.
+
+In a project with the objective to improve the reliability and efficiency of electricity supply,
+the use of the system-wide indicators can prevent the accurate measurement of the project’s
+impact on service delivery. The results framework included SAIDI and commercial loss indicators
+to measure the reductions in the average duration of supply interruptions and the improvement in
+the bill collection (resulting in a reduction in commercial losses). Although the project delivered all
+outputs related to the achievement of these outcomes, the achievement of the indicators showed a
+worsening both in reliability and commercial losses. Because these two indicators measured
+
+
+                                                                                                    Page 20 of 22
+       Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+       KE Electricity Modernization Project (P120014)
+
+
+
+system-wide interruptions and commercial losses (the latter estimated as a percentage of total
+losses), they were irrelevant and insufficient to measure the project’s impact. This shortcoming
+made it difficult to assess the achievement of the project objectives.
+
+In a complex political-economy environment, a standalone investment project can be less
+effective in achieving sector-wide governance reforms. The project aimed at improving the
+financial situation of KPLC through the implementation of advanced metering technologies to
+decrease commercial losses and the issuance of a US$200 million IDA guarantee to refinance the
+costly and short-tenure debt of KPLC. The project successfully delivered all related outputs (except
+installing meters to high consumers which were replaced by SMEs). However, being an entity, the
+majority of which is owned by the state, the KPLC is affected by political decisions and interference.
+The political decisions to delay tariff adjustment and increase the allocation to low consumption
+households resulted in lower revenues for the KPLC. The government’s aggressive goal of
+achieving universal access by 2026 also stretched the finances of the utility. The organizational
+instability caused by frequent changes of the senior management of the KPLC adversely affected
+the implementation of project activities and later the sustainability of the outcomes.
+
+Compensating rural communities in-kind (i.e., as infrastructure investments) can be critical in
+successful implementation of the project activities in remote locations. The implementation of
+mini-grid projects in rural areas required the acquisition of unregistered community land. The related
+safeguard policy required monetary compensation, but the communities requested in-kind
+compensation in the form of infrastructure investment. As the ICR (p.28) notes, “there is much
+ambiguity in the applicable legislation on what kind of compensations are required for a particular
+compensation.” The project team worked out a plan that resulted in the payment of in-kind
+compensation to rural communities. After that, the project implementation improved in rural areas
+but because of insufficient capacity of the implementing agency, poor contractor performance, and
+insufficient supervision because of the remote location of the project sites, the project closed with
+four mini-grids completed and three ongoing.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is a tightly written and complete critique of the project’s performance. Its narrative is candid and highly
+evaluative rather than descriptive. The report sufficiently interrogates evidence highlighting the shortcomings in
+the indicators that made the assessment of the achievement of the project objectives difficult. To address these
+shortcomings, the ICR provides additional evidence. The overall evidence base of the report is complete and
+robust and supports the achievements reported. The report is internally consistent; the discussions in different
+parts of the ICR are logically linked and the results are mutually reinforcing. The ICR broadly responds to the
+Bank guidance, except the section on fiduciary compliance, which is missing, and the discussion on the
+implementation of safeguard policies is insufficient. The lessons are based on the experience of the project and
+sufficiently linked to the report’s narrative. However, there were some minor discrepancies in some information
+in the report. The Bank Performance rating is given as Satisfactory in the data sheet, but it reads Moderately
+
+                                                                                                     Page 21 of 22
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      KE Electricity Modernization Project (P120014)
+
+
+
+Satisfactory in the main text of the report. The actual costs of the components are not given in the main text;
+Annex 3 does not provide a clear breakdown of the actual component costs, either.
+
+Overall, the quality of the ICR is rated Substantial.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                    Page 22 of 22
+

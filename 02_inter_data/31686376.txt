@@ -1,0 +1,731 @@
+     Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+     MW-Energy Sector Support Project (P099626)
+
+
+
+                                                                                       Report Number: ICRR0021750
+
+1. Project Data
+
+
+
+ Project ID                                   Project Name
+ P099626                                      MW-Energy Sector Support Project
+
+ Country                                      Practice Area(Lead)
+ Malawi                                       Energy & Extractives
+
+
+ L/C/TF Number(s)                             Closing Date (Original)                  Total Project Cost (USD)
+ IDA-49800,IDA-H7150                          30-Oct-2016                                              72,147,110.28
+
+ Bank Approval Date                           Closing Date (Actual)
+ 28-Jun-2011                                  15-Oct-2018
+
+                                              IBRD/IDA (USD)                                         Grants (USD)
+
+ Original Commitment                              84,700,000.00                                                   0.00
+
+ Revised Commitment                               84,700,000.00                                                   0.00
+
+ Actual                                           72,147,110.28                                                   0.00
+
+
+
+
+ Prepared by                  Reviewed by                   ICR Review Coordinator             Group
+ Hiroyuki Yokoi               Fernando Manibog              Ramachandra Jammi                  IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The objective of the Project is to increase the reliability and quality of electricity supply in the major load
+   centers. (Financing Agreement, p 5; Project Appraisal Document, p 8)
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+   Yes
+
+                                                                                                         Page 1 of 14
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     MW-Energy Sector Support Project (P099626)
+
+
+
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  04-Aug-2015
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component 1: Electricity Network Strengthening & Expansion (Appraisal cost: US$56.2 million, Actual
+   cost: US$49.03 million)
+
+   This component included three activities: (i) Distribution & Transmission Uprating and Expansion; (ii) Low
+   Voltage Reticulation Reinforcement and Technical Implementation; (iii) Support, Design, Procurement &
+   Supervision.
+
+   Component 2: Generation & Transmission Feasibility Studies (Appraisal cost: US$15.2 million, Actual
+   cost: US$10.46 million)
+
+   This component included financing for feasibility studies for an additional 200–380 MW of new hydropower
+   generation capacity. The proposed feasibility studies were Lower Fufu on the South Rukuru River
+   (estimated generation capacity range of 90 – 180 MW), Mpatamanga on the Middle Shire River (estimated
+   capacity of 100 - 150 MW), and Chimgonda site on the Dwambazi River (estimated capacity of 20 - 50
+   MW). In addition, a pre-feasibility study on transmission lines was planned in the north from Lilongwe via
+   Kasungu to Mzuzu on the western side of Malawi (approximately 350 km).
+
+   Component 3: Demand Side Management and Energy Efficiency Measures (Appraisal cost:
+   US$6.8 million, Actual cost: US$1.96 million)
+
+   The component included several demand-side management (DSM) and energy efficiency activities,
+   focusing on reducing the peak load and load-shedding. The activities included were (i) de-rating of Hot
+   Water Geyser (HWG) heater elements; (ii) installation of HWG insulation blankets; (iii) wireless HWG load
+   control; and (iv) DSM Supervision Consultant. Upon the 2016 restructuring, the DSM components were
+   cancelled and a new component on Automatic Meter Reading (AMR) supply and installation was added.
+
+   Component 4: Capacity Building & Technical Assistance (Appraisal cost: US$3.5 million, Actual cost:
+   US$7.92 million)
+
+   The component included institutional strengthening and technical assistance to both Electricity Supply
+   Corporation of Malawi (ESCOM), and Ministry of Natural Resources, Energy, and Mining (MoNREM). The
+   activities to ESCOM were to provide technical and operational support and build the capacity of the Project
+   Management Unit, while those of MoNREM included (i) technical assistance on the exploitation of
+   renewable energy resources (a wind power resource study, preliminary assessment of geothermal
+   prospects, bagasse-fueled cogeneration capacity assessment); (ii) sectoral studies on energy policy and
+
+
+
+                                                                                                   Page 2 of 14
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    MW-Energy Sector Support Project (P099626)
+
+
+
+  pricing, renewable energy development and regulatory issues; (iii) support for specialist Independent Power
+  Producer (IPP) advisers; and (iv) operational and technical support of MoNREM.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost: The estimated project cost was US$84.70 million. The actual cost was US$72.15 million
+  (ICR, p. 2).
+
+  Financing: The appraisal estimated that IDA would finance US$84.70 million, composed of
+  US$65.40 million of grant and US$19.30 million of credit. The actual disbursement was US$72.15 million,
+  out of which US$57.07 million was IDA grant and US$15.07 million was IDA credit. (ICR, p 2).
+
+  Borrower Contribution: No recipient contribution was planned, and none materialized.
+
+  Dates: The project was approved on June 28, 2011 and became effective on January 30, 2012. The project
+  had three restructurings (ICR p 14). The first restructuring was in May 2015 to transfer the responsibility of
+  component 2 to ESCOM. The second and largest restructuring was in April 2016, which included the
+  following seven changes:
+
+      1.   a 21-month extension of the project closing date
+      2.   the cancellation of DSM activities and the inclusion of AMR supply and installation in Component 3
+      3.   Reallocation of funds
+      4.   Revision of the results framework
+      5.   Inclusion of the force account procurement to allow ESCOM to conduct feasibility studies
+      6.   Change in the disbursement arrangements
+      7.   Change in the implementation schedule
+
+  The third restructuring (May 2018) was to further extend the closing date from July 31, 2018 to October 15,
+  2018.
+
+  Although the project restructurings involved the revision of the PDO indicators, a split rating will not be
+  applied for the following reasons:
+
+        The unit of measurement of the two PDO indicators – reduction in electricity losses and Total
+         Interruption Time per KVA Installed (TITK) – were revised to be consistent with the generally
+         accepted standards (ICR p 16), which did not influence material changes in the outcome indicators.
+        Although the DSM activities were dropped, the new activity on AMR was added with “revised and/or
+         actual improvements [that] were greater than the improvement targets at approval" (ICR p 17);
+         moreover, the Theory of Change and associated outcome level indicators did not change.
+
+  Given the above reasons, this assessment follows the results framework of the revised indicators and
+  targets (IEG ICRR guidelines, p.49).
+
+  The project closed on October 15, 2018.
+
+  Partner: Although not a formal cofinancier, the project closely coordinated with the Millennium Challenge
+  Corporation(MCC) Compact. A US$350 million MCC Compact was to finance a program of grid
+
+                                                                                                      Page 3 of 14
+                         Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+                         MW-Energy Sector Support Project (P099626)
+
+
+
+                       rehabilitation and upgrade, focused on the generation and transmission sub-sectors, as well as investments
+                       in natural resource (PAD, p 7). The MCC Compact was also to provide support on a program of policy
+                       reforms, operational management, and ESCOM’s corporate governance, as well as the regulatory
+                       framework for private sector participation. The project was envisaged to closely coordinate with the MCC
+                       project.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country context and Government Strategy: The objective of the project was and continues to be fully
+aligned with the development challenge of the electricity sector in Malawi. The country’s peak demand was
+estimated at about 330 MW and generation capacity was frequently exceeded by about 35 MW. This was
+caused by both the lack of generation capacity and a reliable transmission and distribution (T&D) network.
+ESCOM, a vertically integrated and government-owned electric utility, owned and operated 283 MW of the
+generation capacity, which solely relied on run-of-river hydropower. It needed to add 140 MW generation
+capacity by 2015 to meet the expected power demand. T&D network losses were 22%, and ESCOM’s
+limited resources had hindered sufficient maintenance of the network as well as upgrades and expansion.
+Given the projected demand growth of five percent per annum, it was an urgent issue for the country to
+address the reliability and quality of the electricity supply. The government’s national development strategy
+and its five-year Growth and Development Strategy (MGDS) (2006-2011) prioritized the energy sector as
+one of the five priority areas focused on increased access to reliable and affordable electricity.
+
+
+
+Bank strategy: The objective of the project is also aligned with the latest Bank’s strategy. The Country
+Partnership Strategy (CPS) (FY13-16) indicated that improved ease of doing business through better
+economic infrastructure was critical to promoting sustainable, diversified, and inclusive growth. It specifically
+mentioned that more reliable energy would make manufacturing and mining more competitive, which was
+closely aligned with the objective of the project.
+
+
+
+Realism of the objective: The Bank recognized the constraining factors to achieve the objective. The Bank
+understood the limited capacity of ESCOM and MoNREM, the Implementing Agencies (ICR p 1), and
+designed the relevant capacity building activities to enhance the achievability of the objective. In retrospect,
+as later described in the efficiency section, the capacity building could have been more intensified from the
+beginning of the project, which could have enabled the early service delivery. In addition, the Bank
+recognized overall inefficiencies in the electricity sector including the financial sustainability of ESCOM. The
+Bank made a twinning arrangement with the MCC to pursue the sectoral reform, which partly contributed to
+achieving the objective.
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+
+
+                                                                                                                    Page 4 of 14
+                   Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+                   MW-Energy Sector Support Project (P099626)
+
+
+
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                OBJECTIVE 1
+                Objective
+                To increase the reliability and quality of electricity supply in the major load centers.
+
+                Rationale
+                Theory of Change
+
+                The reliability and quality of electricity supply was logically linked to and measured by the frequency and
+                duration of interruptions as well a fluctuations in voltage, frequency, and power factor (ICR, para 48). As
+                measured quantitatively by these improvements, the achievement of the PDO was directly and causally
+                attributable to the upgrades and expansion of the T&D network, DSM (initially), and energy efficiency
+                measures. DSM activities were dropped since the capacity increase from the substations, upgrades in the
+                T&D network, and the introduction of AMR activities diluted the immediate needs for DSM (ICR, page 22).
+
+
+
+                Outputs:
+
+                      Five new substations were constructed. Achieved.
+                      Five substations were upgraded. Achieved.
+                      A total of 628.98 kilometers of distribution lines were either constructed or rehabilitated against the
+                         revised target of 336.20 kilometers. Exceeded. The ICR noted that two distribution lines – between
+                         the Chileka airport and Blantyre and within Blantyre – were not completed at closing because ESCOM
+                         had not been able to acquire outage maintenance for the lines to secure electricity supply during the
+                         election season (May 2019), but the task team informed IEG that most of the lines were already
+                         constructed and only a few segments remained to be constructed for outage maintenance. ESCOM is
+                         now in discussion with the consumer enterprises to enable outage maintenance. Hence, the two
+                         distribution lines are likely to be constructed.
+                        145 centers were serviced by LV reticulation, not meeting the target of 172. Almost achieved.
+                        Three feasibility studies for hydroelectric power generation were completed. Achieved.
+                        A transmission backbone feasibility study was completed. Achieved.
+                        925 meters in the ESCOM system were covered by the AMR system against the target of 750.
+                         Exceeded.
+                        A preliminary assessment of geothermal prospects was conducted. Achieved.
+                        A wind-mapping study was conducted. Achieved.
+
+                Outcome:
+
+
+
+                                                                                                                    Page 5 of 14
+                                Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+                                MW-Energy Sector Support Project (P099626)
+
+
+
+
+                                    Electricity losses per year were reduced from 25 percent to 17 percent against the revised target of 20
+                                       percent (ICR Table 6). Exceeded. Note that the baseline and end-line targets were revised during the
+                                       second restructuring because the original baseline values no longer reflected the actual baseline
+                                       before project activities started (ICR p 21, 2016 restructuring paper).
+                                      Total Interruption Time per KVA Installed (TITK) per year in the project areas was reduced from 32.1
+                                       hours to 19.71 hours against the target of 25.8 hours (ICR Table 6). Exceeded. The task team
+                                       confirmed to IEG that the baseline and end-line targets were revised during the second restructuring
+                                       to reflect accurate TITK through aggregating interruption time in the beneficiary communities.
+                                      Average interruption frequency per year in the project area was reduced from 11.00 to 6.55 against
+                                       the target of 9.40. Exceeded.
+                                      The number of customers served in the project area was increased from 47 thousand to 1,728
+                                       thousand against the target of 295 thousand. Exceeded.
+                                      Direct project beneficiaries reached 398 thousand against the target of 295 thousand. Exceeded. Out
+                                       of which, female beneficiaries accounted for 51.49 percent against the target of 50.00 percent.
+                                       Achieved.
+                                      Although not stated as an outcome in the Results Framework, several feasibility studies were picked
+                                       up for future improvement in the reliability and quality of electricity supply. The project and task team
+                                       supported market sounding throughout the project period to enable the investors to enter the market.
+                                             o Hydropower: Out of the two hydropower studies (Lower Fufu and Mpatamanga), the
+                                               Mpatamanga Hydropower study was picked up by the Government of Malawi and IFC for PPP-
+                                               based project preparation including the potential IDA financing. The Government considers the
+                                               Mpatamanga Hydropower project (309MW) as one of the highest priorities for the country to
+                                               construct, as documented in the country’s Integrated Resources Plan.
+                                             o Geothermal: The project supported a series of geothermal studies, resulting in identifying two
+                                               potential sites with pre-feasibility studies. One of the sites at 15 MW capacity was taken up by
+                                               the Embassy of Iceland for prospective investments.
+                                             o Cogeneration: The project supported the pre-feasibility study for Bagasse-fueled cogeneration.
+                                               A private company, Illovo Sugar, picked up the study and will establish 54 MW of capacity by
+                                               end-2020.
+
+
+
+                            Rating
+                            High
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            Overall, all the outcome and output targets were exceeded or achieved except for the output indicator of the
+                            LV reticulation services. The PDO and outcomes were largely achieved which can be attributed to the
+                            successful completion of the T&D network, feasibility studies, and AMR, though there was a shortfall in the LV
+                            reticulation. The potential contribution of the MCC project through energy policy reform was limited and did
+
+
+
+
+                                                                                                                                  Page 6 of 14
+      Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+      MW-Energy Sector Support Project (P099626)
+
+
+
+  not significantly influence the achievement of the project’s outcome and outputs, which were primarily
+  influenced by the physical investments by the project.
+
+
+
+  In addition, in the absence of the project, outages would have increased due to transformer overloads
+  supplying major load centers. Besides, voltage quality would have been poor due to the T&N network
+  constraints. It is therefore likely that the reliability and quality of electricity supply might have deteriorated with
+  maintenance conducted at a lower standard.
+
+
+
+  Overall Efficacy Rating
+  High
+
+
+
+5. Efficiency
+Economic and financial analysis:
+
+On the basis of the ICR, the project was assessed economically and financially efficient. At appraisal, the
+project’s economic analysis estimated an NPV of US$142.9 million and an Economic Internal Rate of Return
+(EIRR) of 26.0 percent, while the Financial Internal Rate of Return (FIRR) was at 16.9% and NPV was US$62.1
+million. While the details of economic and financial benefits of the projects were not enumerated in the PAD, the
+ICR argued that there was no reason to expect the economic benefit and the revenue streams of the project
+would be any different than that which were calculated at appraisal, except for two issues that have affected
+implementation and the operational start point of the project (p 27 and 56). The ICR reported the EIRR at 36.0%
+and economic NPV at US$128.63 million, while the FIRR at 25.0% and financial NPV at US$61.84 million. The
+ICR and the team’s additional explanation concluded that the reduction in the cost and timing of investments led
+to the increase in EIRR and FIRR and the decrease in NPV.
+
+
+
+Aspects of design and implementation:
+
+The design of the project might have seemed slightly complicated due to the coordination with the MCC project,
+yet it turned out to be the close coordination hence the greater convening power that leveraged the influence of
+the two institutions to promote policy reform such as the tariff revision (ICR p 33).
+
+The project was delayed for two years due to the capacity constraint and several external matters.
+
+The MoNREM and ESCOM had systematic weaknesses in decision-making and executing the Bank’s
+procedures. The Bank had identified their capacity constraints before the project started (ICR p 33) and provided
+two interventions, namely, the capacity-building component and the provision of implementation consultancy
+services. These interventions did not work at the beginning, requiring 2 years and 4 months from the loan
+effectiveness to award the consultancy services. However, as the implementing agencies learned the
+procedures and internal mechanisms, the situation became improved as evidenced by the exponential
+
+
+                                                                                                           Page 7 of 14
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      MW-Energy Sector Support Project (P099626)
+
+
+
+improvements in disbursements (ICR p 35). In retrospect, the project could have intensified capacity building
+instruments from the very early stage of the project.
+
+Though not attributed to the project, there were several external factors to impede the project implementation.
+First, the debarment of the supervision consultant negatively influenced the project progress. The consulting firm
+supervised three construction packages, which were delayed by about one year. The consulting firm requested
+a contract extension, but immediately before the request, the firm was debarred from the Bank for 12 months
+from 27th September 2017 due to issues in another country. As a result, the contract extension was not
+permitted by the Bank, hence the consultant suspended their services in December 2017, when the original
+contract was terminated. For a year, due to the unavailability of the consulting firm, ESCOM, the Owner of the
+project, took over the Engineer’s role. Second, the project implementation was impeded by the corporate
+restructuring of the ESCOM (ICR p 35). As envisaged under the Power Sector Reform Strategy approved in
+2003, ESCOM was unbundled in 2016. This caused organizational disruption and many of the administrative
+staff were gone afterward.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                     100.00
+ Appraisal                                                 26.00
+                                                                                      Not Applicable
+                                                                                     100.00
+ ICR Estimate                                              36.00
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of the objective is substantial given the criticality of the development challenge and alignment to
+the country and bank strategies. Efficacy is high given the achievements in improving the reliability and quality
+of electricity supply that met or exceeded targets. Efficiency is substantial. Economic and financial efficiency
+appear satisfactory but are not comparable due to (missing) appraisal baselines. On the basis of these sub-
+ratings, the project’s overall development outcome is rated satisfactory.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+                                                                                                     Page 8 of 14
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      MW-Energy Sector Support Project (P099626)
+
+
+
+
+Technical and Operational Risks: The project successfully completed several capacity building and
+technical assistance activities to sustain technical and operational outcomes. For instance, the project
+conducted training in generation system planning, procurement, financial management, project and contract
+management, hydropower project preparation, and PPPs. The ICR confirmed that these technical capacities
+were improved as evidenced by the panel of experts (ICR p 30). Nevertheless, institutional risks remain. The
+ICR (p 35) noted that many of the PIU positions became vacant due to the restructuring of ESCOM.
+Technically trained staff may not return to their former business area, which would be a significant risk for
+project sustainability. In addition, the projects for which feasibility studies were implemented entail
+completion risks such as safeguards on the Mpatamanga Hydropower project although the concerned
+parties including the Bank and IFC have been mitigating risks by allocating a new reservoir to avoid the
+potential flash flood at downstream neighborhoods.
+
+
+
+Financial Risks: Financial risks were moderate. ESCOM has been in financial constraints for the past
+decade. A 2011 tariff increase by 61 percent did not substantially improve the ESCOM’s fiscal condition due
+to the limited revenue allocation to ESCOM (ICR p 7); however, the task team informed IEG that the
+government approved the tariff revenue allocation to ESCOM in October 2018, and the allocated revenue will
+be used for O&M. It is not yet known whether the budget was actually spent for the intended purpose given
+the limited period from the policy change but the financial risks are perceived to be lower than in the past.
+
+
+
+Institutional Risks: Institutional risks were substantial. MoNREM and ESCOM’s complex and lengthy
+decision-making process had hindered project implementation, which may affect the sustainability of the
+project. For example, the project completed several feasibility studies and some necessary future IPP/PPP-
+based financial transactions. Given their limited IPP/PPP experience, it is likely that the transactions may be
+influenced by institutional inefficiencies and lack of advisory support by the government (ICR p 42). In
+addition, the ICR (p 35) noted that a corporate restructuring of ESCOM has not been completed and many of
+the PIU positions were not filled.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  Quality at entry was moderately satisfactory. The Bank identified the critical problem of the electricity
+  sector in the country and formulated the project with short-term measures on improvements in the T&D
+  network and long-term measures on identifying potential power sources. The project also recognized the
+  risks and constraints including lack of WB-financed projects experience; project delays; insufficient
+  progress with the reform of energy sector policy and legal framework; ESCOM’s financial constraints. In
+  hindsight, the Bank could have strengthened mitigation measures on ESCOM and MoNREE’s capacity
+  development, which found to be a crucial factor for project initiation and implementation.
+
+  There were two shortcomings observed. The outcome of the feasibility studies was not measured despite
+  its relative larger amount against the total cost of the project (17.95% of the total cost at appraisal). Also,
+
+                                                                                                       Page 9 of 14
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     MW-Energy Sector Support Project (P099626)
+
+
+
+  the PAD did not provide a detailed assessment of the economic and financial analysis, which did not
+  allow the ICR to analyze the pre- and post-comparison of the economic and financial analysis.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ Quality of supervision is moderately satisfactory. The task team addressed the implementation delay by
+ training O&M personnel for ensuring effective supervision mechanism. A few shortcomings were
+ continuous changes in the task team leaders which distanced the inexperienced MoNREM and ESCOM
+ (ICR p 34) from the Bank and led to a brief period of safeguard incompliance which was addressed
+ immediately by the Bank’s safeguards team (ICR p 41).
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The Theory of Change and results framework were closely linked to allow monitoring and supervision. The
+ indicators were clear and measurable. A project report was to be prepared twice a year. Management
+ Information System (MIS) was supported by the MCC project and considered for M&E use although not a
+ prerequisite (ICR p 36). A shortcoming of the M&E design was the lack of an outcome indicator on
+ attracting private sector investors, which was supposed to be derived from feasibility study components
+ and capacity building activities (ICR p 11).
+
+
+
+b. M&E Implementation
+  M&E implementation was satisfactory. M&E officers were assigned from the two implementing agencies
+  and were responsible for data collection and report preparation on monitoring and procurement. It should
+  be noted that they were also tasked to the M&E of the MCC Compact. Recognizing the implementation
+  delay, the frequency of M&E report submission was shortened from semiannual to quarterly (ICR p 37).
+  The project updated some baseline indicators to consistently measure the results.
+
+
+
+
+                                                                                                Page 10 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MW-Energy Sector Support Project (P099626)
+
+
+
+c. M&E Utilization
+  M&E was utilized at several points. As noted earlier, the M&E reports were used for closer performance
+  assessments. The M&E data and reports were also used during the 2016 restructuring through revision
+  of baseline indicators and the assessment of the efficacy of the project.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as Environmental Category B (partial assessment) and triggered the Bank’s
+   safeguard policies on Environmental Assessment (OP/BP/GP 4.01), Physical Cultural Resources (OP/BP
+   4.11), Involuntary Resettlement (OP/BP 4.10), and Projects on International Waterways (OP/BP 7.50).
+
+   An Environmental and Social Management Framework (ESMF) and Resettlement Policy Framework (RPF)
+   were prepared and Project Affected Persons (PAPs) were identified before project implementation (ICR p
+   38). During implementation, the project was not in compliance with the safeguard policy related to the
+   compensation of PAPs. Due to the absence of consultancy services for nine months prior to the original
+   project completion, the Contractor began construction works before or simultaneously with the anticipated
+   PAP disbursements. This compliance issue was flagged to the Bank management and the Bank team, and
+   the corrective actions were taken such as reviewing the Resettlement Action Plan (RAP) steps,
+   disbursements to all the PAPs except for the PAPs who were not traced or have left the territory and not
+   reachable, and improvements in a grievance redress mechanism (GRM). (ICR p 39)
+
+
+
+
+b. Fiduciary Compliance
+   Financial Management
+
+   Project financial management was satisfactory, as reported in the ICR. All the eight legal covenants were
+   complied with during the project period; submission of acceptable financial reports including audits was
+   compliant with the Bank’s standards; record-keeping was well managed for the entire project life. There
+   was a case in June 2016 when the audited accounts for the ESCOM component had received a disclaimer
+   from the auditors regarding the validity of the financial statements as well as control and accountability
+   issues in accounting. The case was resolved in June 2017 with unmodified audit opinions. Since then the
+   audited accounts have been satisfactory, and the supervision missions periodically reviewed the financial
+   reports, validating the adequacy of the financial reports.
+
+   Procurement
+
+   Procurement was overall satisfactory except the case in July 2017, when the project experienced the
+   unavailability of the consultancy firms as stated in the efficiency section. The incident was largely informed
+
+
+                                                                                                    Page 11 of 14
+        Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+        MW-Energy Sector Support Project (P099626)
+
+
+
+   by the exogenous factor from the project (debarment occurred in another country, which was coincidentally
+   the same timing of the contract termination of the project). The project was in compliance with the Bank
+   guidelines and no issues were observed other than that specific incident.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   --
+
+
+
+d. Other
+   --
+
+
+
+11. Ratings
+                                                                                Reason for
+Ratings                           ICR                 IEG
+                                                                                Disagreements/Comment
+Outcome                           Satisfactory        Satisfactory
+                                                                                Lack of measuring the outcome
+                                                                                of the studies and insufficient
+Bank Performance                  Satisfactory        Moderately Satisfactory
+                                                                                baseline data for the economic
+                                                                                and financial analysis
+                                                                                A shortcoming was observed in
+                                                                                the results framework, which
+Quality of M&E                    High                Substantial               missed the important outcome
+                                                                                indicator on attracting private
+                                                                                sector investors.
+Quality of ICR                    ---                 Substantial
+
+
+12. Lessons
+
+1. Contract management without the Engineer
+
+The project encountered a unique situation where the Engineer was unable to provide their services
+due to the debarment in another country. Given the remaining time for the project and unrealistic
+situation to procure another supervision consultant, the project decided to allocate the supervision
+role to the Owner for the last year of the project. The project was closed successfully largely due to
+the better relationship between the Owner and the Contractor because the Contractor had worked
+with the ESCOM and known the working environment. However, the fundamental basis of the
+contract document is the tripartite relationship among the Owner, the Engineer, and the Contractor.
+The absence of the Engineer might have introduced unfairness to the Contractor given the General
+Conditions of Contract unless the Special Conditions of Contract amended it. For instance, when
+
+
+                                                                                                   Page 12 of 14
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       MW-Energy Sector Support Project (P099626)
+
+
+
+conflict occurs between the two parties, the Engineer’s judgment is not mobilized and automatically
+lead to higher dispute resolution mechanisms. When such a situation occurs in the future, a careful
+review of the contract document is essential to allow a level playing field for the parties involved in
+the contract.
+
+2. Improving the sustainability of the project through partnership
+
+The project demonstrated an exemplary partnership engagement with MCC. Given the independent
+nature of achieving the PDO and expected results, the project chose a stand-alone project.
+Nevertheless, the project closely worked with MCC partly because the reform of financial and
+operational management policies and procedures were executed by the MCC project. The Bank
+closely coordinated with the MCC from the design of the MCC project to the reform of the program of
+policy reforms. The project benefited from the two tariff reforms, which were not in the conditions or
+requirements of the project and were recognized as one of the binding factors in the electricity sector
+in Malawi. The outlook for financial risks was consequently mitigated with the tariff reforms.
+Leveraging other players in the sector is crucial when the project entails a critical factor that the
+project cannot address.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR was carefully written particularly in assessing attribution and implementation issues. The ICR
+successfully clarified the attribution of the project in light of the influence of the MCC project. The ICR made an
+extensive explanation of the reasoning for the restructurings as well as critical implementation problems such
+as the unavailability of the consulting firms.
+
+However, it had several shortcomings. For example, the theory of change was only illustrated as a figure, with
+no explanation or relation to the implementation logic being provided. It was also necessary to illustrate the
+sphere of influence of the project to clarify the relationship with the MCC project. The theory of change
+described that there was no contribution to the feasibility study component to the PDO. The ICR could have
+assessed the causal path of the feasibility studies to the PDO. The efficiency section should have clarified the
+deficiency of the information in the PAD (i.e., no detailed economic analysis) and should have shown the
+limitation of the analysis since the economic and financial benefits were considered as the same condition for
+both appraisal and ICR. The tariff revenue allocation was wrongly written (ICR p 42) since the revenue
+allocation was already decided in 2018 according to the interview with the TTL.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                      Page 13 of 14
+Independent Evaluation Group (IEG)           Implementation Completion Report (ICR) Review
+MW-Energy Sector Support Project (P099626)
+
+
+
+
+                                                                          Page 14 of 14
+

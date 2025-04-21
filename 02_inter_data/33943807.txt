@@ -1,0 +1,812 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Shanxi Gas Utilization (P133531)
+
+
+
+                                                                                 Report Number: ICRR0023034
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P133531                                   Shanxi Gas Utilization
+
+ Country                                   Practice Area(Lead)
+ China                                     Energy & Extractives
+
+
+ L/C/TF Number(s)                          Closing Date (Original)                Total Project Cost (USD)
+ IBRD-83480                                30-Jun-2020                                          97,950,891.20
+
+ Bank Approval Date                        Closing Date (Actual)
+ 28-Mar-2014                               30-Apr-2021
+
+                                           IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                         100,000,000.00                                                0.00
+
+ Revised Commitment                            97,950,891.20                                               0.00
+
+ Actual                                        97,950,891.20                                               0.00
+
+
+
+
+ Prepared by                 Reviewed by                 ICR Review Coordinator          Group
+ Dileep M. Wagle             Peter Nigel Freeman         Ramachandra Jammi               IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The project’s development objective, as cited on p.5 of the Loan Agreement, as well as on p.3 of the PAD,
+   was “to increase gas utilization to reduce greenhouse gas emissions in selected counties in Shanxi
+   Province”.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+
+                                                                                                  Page 1 of 15
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Shanxi Gas Utilization (P133531)
+
+
+
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component 1: Distributed Gas-fired Combined Heat-and-Power (CHP) plants (Estimated cost as
+   appraisal: US$260.29 million, of which $79 million from IBRD; Actual cost at closing: IDA US$268.59
+   million). The component included two investment sub-projects of uniform capacity (3x42 MW), and affiliated
+   facilities. Both sub-projects were green-field plants, to be built for heating supply and power generation to
+   the adjacent county-level cities of Baode and Xiyang. The gas source was the provincial gas network,
+   operated by Shanxi Natural Gas Company (SNGC), which had been extended to both cities. Annual gas
+   consumption was an estimated 285 million cubic meters for both projects combined, with total electricity
+   generation estimated to reach around I,160 GWh per annum, to be delivered to the provincial power grid, to
+   meet the electricity demand in the province. A total thermal capacity for heating of about 120 MW was
+   expected to meet the expanded heating demand of the two county cities for a floor area of 2.37 million
+   square meters. Although SNGC had intended to start construction of the CHP sub-projects in April 2014
+   and complete construction in October 2015, actual construction of both plants only commenced in April
+   2016 and January 2017 respectively, and was completed in December 2019.
+
+   Component 2: Expansion of the Gas Distribution Network (Estimated cost as appraisal: US$32.35
+   million, of which US$18 million from IBRD; Actual cost at closing: IDA US$31.67 million). This component
+   included investment in sub-projects in four country cities, in Xiangyuan, Changzhi, Tunliu, and Qingxu
+   counties. The projects involved the installation of pipelines and pressure regulating stations to expand the
+   gas distribution network to residential, industrial and commercial consumers, along with Supervisory Control
+   and Data Acquisition (SCADA) systems to monitor the operation of each network. The gas source was the
+   provincial gas network, operated by SNGC, except for the Changzhi sub-project, which was supplied by a
+   local Coal Bed Methane (CBM) developer who was connected to the provincial network. These sub-
+   projects were expected to meet the expanded demand for gas in the four cities by 2020, from an estimated
+   136,700 households and 21 industrial consumers, calling for an increased gas supply 244.15 of million
+   cubic meters. Construction of these sub-projects was expected to commence in October 2014 and be
+   completed by December 2019, In fact, construction commenced only in November 2016, but was
+   nevertheless completed by December 2019.
+
+   Component 3: Technical Assistance (Estimated cost at appraisal: US$2.75 million, entirely from IBRD;
+   Actual cost at closing: US$4.35 million). The aim of the component was to help mitigate the risks related
+   to project design and management, through capacity building and technical support to implementing
+   agencies, as well as activities to upgrade the provincial gas network system.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost and Financing
+
+
+
+                                                                                                   Page 2 of 15
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Shanxi Gas Utilization (P133531)
+
+
+
+   Of the initial US$ 295.39 million cost of the project, IBRD financing amounted to US$100 million, with the
+   balance to be provided by the Government and local financing sources. Actual costs at project closing
+   amounted to US$304.61 million, with US$97.95 million (i.e. 98 percent) disbursed from the World Bank
+   loan. Minor changes were made in loan allocation to allow for an expansion in scope of Component 2, as
+   suggested during the Mid-Term Review (2017). By adding an investment in a new sub-project in
+   Yangcheng, it was hoped to make up for a reduction in gas demand in Changzhi, Tunliu and Xiangyuan
+   cities that had occurred, as a result of a slow-down of the Chinese economy. A minor saving in costs of
+   US$2.3 million of the IBRD loan from Component 1, arising at the time, was reallocated to Components 2
+   and 3.
+
+   Borrower contribution
+
+   At appraisal, the Borrower contribution was expected to be of the order of US$92.39 million, with a further
+   US$103 million coming from local financing sources. These expectations were met, by and large, with
+   actual borrower contribution at project closing amounting to US$90.08 million, and the contribution of local
+   financing sources amounting to a higher-than-expected US$116.58 million.
+
+   Dates
+
+   The project was approved on March 28, 2014, becoming effective on July 30, 2014. A Mid-Term Review
+   was held on May 26, 2017. The project was originally set to close on June 30, 2020. However, on account
+   of the impact of the Covid-19 pandemic on construction of both CHP plants, the project’s closing was
+   extended to April 30, 2021.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and Sector Context
+
+Though China’s rapid economic development over the previous three decades had rested heavily on coal
+consumption, the resultant severe pollution has driven the country to address its environmental
+challenges. Smoggy weather in over 15 cities in Northern China, and serious nationwide air, land and
+water pollution, have encouraged a shift towards clean energy and a less coal-dominated economy. Gas
+has been one of the most important sources to support this clean energy development in the country.
+
+Gas consumption represented a still relatively small share of China’s overall energy mix. In 2011, gas
+accounted for only about 5 percent of total energy consumption, well below the global average (about 24
+percent). Domestic exploitation had however confirmed a total of about 3.78 trillion cubic meters of
+technically recoverable natural gas at the time, equivalent to 40 times the actual production in 2010. Based
+on this, the Government had set up an ambitious plan to accelerate gas development, aiming to increase
+the share of gas consumption in primary energy to 7.5 percent by 2015. As a result of this, the access of
+the population to gas would increase from 188 million people (14 percent of the national total) in 2010 to
+250 million (18 percent of the national total).
+
+
+
+                                                                                                    Page 3 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Shanxi Gas Utilization (P133531)
+
+
+
+At the time of appraisal, the government of Shanxi province had launched a provincial gasification program
+to shift its economic structure away from coal-dominated industries through clean energy
+development. Shanxi province was at the time the second largest coal producing province in China,
+producing about 25 percent of the national total in 2011. Economic development in the province had relied
+heavily on coal. but this had created serious environmental problems, prompting the authorities to promote
+gas usage as a way to transform its economy along a greener path.
+
+The government of Shanxi’s Gasification Program, introduced in late 2010, aimed to increase gas utilization
+within the province from about 0.7 billion cu. meters per annum (bcma) in 2008 to 9.0 bcma in 2015 and
+28.0 bcma by 2020. Total gas supply from Shanxi was estimated to be about 12.0 bcma by 2015 and 36.0
+bcma by 2020, when the gas export to other provinces was taken into account. The main sources of gas in
+the province were domestic coal bed methane (CBM), imported natural gas, coke gas, and local coal
+converted gas. Shanxi had abundant CBM resources (equal to about a third of national total reserves) and
+five main natural gas trunk pipelines passed through the province, operated by PetroChina and SinoPec,
+providing imported natural gas. The main markets targeted for gas utilization were city gas, industrial,
+chemical and power generation, and transportation (both compressed natural gas (CNG) and liquefied
+natural gas (LNG) fueled vehicles). At the time of appraisal, these players relied on coal, coal gas, LPG or
+diesel as their main fuels. Key market players included both national and provincial state-owned
+enterprises (SOEs) engaged in this sector, as well as private local and foreign companies. Upstream
+developers included PetroChina, SinoPec, China CBM (a national SOE), Jincheng Mining Group (a
+provincial SOE) and other international energy enterprises. Shanxi Guoxin Energy Development Group
+(GXED) led the construction of the gas pipelines and associated infrastructure, in participation with other
+provincial SOEs, building some 3,000 km of main gas transmission network across the province, covering
+94 of its 119 counties. Downstream gas utilization was diversified, with GXED’s subsidiaries providing the
+gas distribution services in most counties.
+
+In 2014, the Government of China launched the “Energy Revolution” to ensure a transition to a sustainable
+energy system, effectively superseding the Provincial Gasification program. However, in September 2017,
+in response to a proposal by Shanxi province, the State Council endorsed Shanxi as a pioneer province to
+implement the 2016-2030 “Energy Revolution”.
+
+Implementation of the provincial gasification program was not without its problems. There was an absence
+of gas regulation at the national level, distorted pricing in gas markets and use of a quota system to allocate
+gas. To achieve the targets of the provincial gasification program, the government of Shanxi province
+worked closely with the central government to establish enabling gas policies and a regulatory framework to
+guide the development of the sector. A reform of gas pricing was initiated by the central government to link
+gas prices to other competitive fuels – first piloted in two provinces and subsequently implemented nation-
+wide during the project implementation period. However, electricity tariff reforms did not take place on
+schedule. Despite an agreement that an increase in the local electricity tariff would be implemented by
+end-2016, the electricity tariff was approved only in 2020, but subsequently lowered to boost the Covid-19
+economic recovery. The actual tariff for heating was also much lower than required. These factors
+ultimately put significant pressure on the financial viability of the CHP plants that were constructed under
+the project.
+
+Alignment with Country Strategies
+
+The Project’s development objectives were consistent with those of the World Bank Group (WBG)’s
+Country Partnership Strategy (CPS), FY2013-16, at appraisal, remaining so at project closing. The
+
+
+                                                                                                     Page 4 of 15
+                                      Independent Evaluation Group (IEG)                        Implementation Completion Report (ICR) Review
+                                      Shanxi Gas Utilization (P133531)
+
+
+
+               developmental objectives of the project addressed the CPS themes of “Supporting Green Growth and More
+               Efficient Use of Natural Resources”, and of “Promoting More Inclusive Development”. It was expected that
+               the operation would, improve the living standards of gas consumers through use of cleaner energy, while
+               the community at large would benefit from reduced Greenhouse Gas (GHG) emissions, which contributed
+               to global climate change. At project closing the development objectives of the operation were consistent
+               with the objectives of the World Bank’s Country Partnership Framework (CPF), FY2020-25, for the pillar on
+               “Promoting Greener Growth”, especially under engagement area # 2.1: Facilitating the Transition to a
+               Lower-Carbon Energy Path, through a reduction in coal consumption and scale-up of natural gas,
+               renewable energy and energy efficiency. It was also broadly consistent with the objectives of engagement
+               area #2.2: Reducing air, soil, water, and marine plastic pollution.
+
+               The project’s PDO remained relevant to the evolving energy strategy in Shanxi, as well as China. Under
+               the new energy strategy, Shanxi province continued to promote clean energy development, but this
+               included not only the provincial gasification program but also the usage of renewable energy (RE). This
+               meant that while gas distribution network sub-projects under Component 2 were still the main government-
+               promoted investment to replace coal combustion for residential and industrial users, the operation of gas-
+               fired CHP plants was affected significantly. Gas-fired CHP plants had to be operated principally as peaking
+               plants to improve RE integration in Shanxi’s power grid, which meant that annual hours of operation of the
+               gas-fired plants were reduced considerably (which also meant that project indicators relating to Component
+               1 could no longer be achieved).
+
+               Based on the above, Relevance is rated Substantial.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             “To increase gas utilization in selected counties in Shanxi Province”
+
+                             Rationale
+                             Theory of Change (TOC)
+
+                             The project represented an effort to increase gas utilization to reduce GHG emissions in selected counties in
+                             Shanxi province, as part of the provincial gasification program. The project’s activities consisted of (a)
+                             investments in distributed CHP gas-fired plants in Baode and Xiyang citiies, (b) expansion of gas distribution
+                             networks in four counties (Xiangyuan, Changzhi, Tunliu and Qingxu) in the province, (c) provision of technical
+                             assistance for capacity building and project monitoring. Outputs produced by these activities included
+                             electricity, heating and gas supply to the project areas, replacing coal power and coal use in households.
+                             These led directly to PDO-level outcomes, contributing to improved sustainability of heating/gas supply
+
+                                                                                                                              Page 5 of 15
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Shanxi Gas Utilization (P133531)
+
+
+
+service and an improvement in air quality in Shanxi and norther China. Higher-level outcomes arising from the
+project included potential climate change mitigation, jobs in clean energy industry, and innovation and
+knowledge with global benefits.
+
+Indicators used to measure the achievement of objectives were consistent with the above results
+chain. Achievement of project outcome was measured by indicators relating to annual gas utilization (in cu.
+meters) and avoided carbon emissions (tons of CO2 equivalent) in the county cities and CHP plants
+supported by the project. Intermediate indicators included installed capacity (in MW) and annual power
+supply (in GWh), annual heating supply (in gigajoules) from the two distributed gas-fired CHP plants and
+number of households and other gas users.
+
+Indicators were adjusted (downwards) at the time of the Mid-Term Review in 2017, to reflect the drop in gas
+demand under a slowing economy (no restructuring was required). Targets of the Outcome and intermediary
+indicators were further adjusted in June 2020, with a formal restructuring in order to adapt the project to the
+evolving provincial energy strategy.
+
+Outputs
+
+- By close of project, electricity generation capacity of 288 MW had been installed in the form of the two gas-
+fired CHP plants, exceeding the target of 252 MW. The higher-than-targeted capacity was the result of
+improvements made in technical design during construction (without impact on the cost).
+
+- The number of households and industrial users connected to gas supply reached a total of 53,639 by close
+of project, significantly higher than the target of 43,000 (reduced from the original target o 45,000). This
+higher-than-targeted achievement was largely due to the newly-added sub-project in Yangcheng city.
+
+Outcomes
+
+Despite the higher-than-planned achievement in generation capacity installed and gas connections made,
+actual utilization of gas – at 160 million cu meters fell far short of target. The target had itself been reduced
+from 365 million m3 to 255 million m3 to reflect the decision that the CHP plants were to be run to provide
+peaking capacity in non-heating season, to improve RE integration in the province. The decline in gas
+utilization was on account of a drastic reduction in actual generation of electricity and heat in both gas-fired
+CHP plants, reflecting constraints arising from the electricity tariff, and gas supply and prices. Actual
+electricity sales achieved only 39 percent of target, the approved electricity tariff of 0.56 Y/KWh, equivalent to
+a gas price of 2.35 Y/m3, being lower than the tariff required to cover costs at both plants, at their actual
+purchased price of gas of 2.59 and 2.66 Y/KWh respectively at the two CHP plants. As a result, the
+implementing group, Huaxin Gas Group (HXGG), had no financial incentive to generate more. Also, on
+account of a shortage of gas supply in winter (in both Shanxi and in the country), one of the two CHP plants
+(at Baode) was required to stop generation in early December 2020, and the generation of the other plant
+was reduced.
+
+
+
+Rating
+Modest
+
+
+
+                                                                                                     Page 6 of 15
+                               Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                               Shanxi Gas Utilization (P133531)
+
+
+
+
+                            OBJECTIVE 2
+                            Objective
+                            “To reduce greenhouse gas emissions in selected counties in Shanxi Province”
+
+                            Rationale
+                            The performance of the project in meeting the objective of reducing GHG emissions in the project areas was
+                            measured by a single PDO indicator and two intermediate indicators.
+
+                            Outputs
+
+                            The first full year of operation of the two CHP gas-fired plants covered the full heating season, November 1,
+                            2021 to March 31, 2022. Against this background,
+
+                            (i) The supply of heating by the CHP plants, at 204.4 million mega joules (MJ) by close of project, exceeded
+                            its target of 150 million MJ by a substantial margin.
+
+                            (ii) Annual supply of electricity by the CHP plants was only of the order of 250.06 GWh by close of project,
+                            against a target of 700 GWh (revised downwards in 2020, from the original target of 1,100 GWh). This
+                            substantial under performance was because of reasons mentioned earlier – that on account of the high
+                            prevailing price of gas and low electricity tariff, the owners of both CHP plants had no financial incentive to
+                            generate power.
+
+                            It may be mentioned that some movement on electricity pricing reform has taken place since the close of the
+                            project in 2021, with the NDRC initiating a policy on capacity payments for peaking power plants like gas-fired
+                            plants, so that owners would have the financial incentive to run the plants for peaking, with reduced hours of
+                            operation. Also, an increase in price margins for cost pass-through from generators to consumers was
+                            announced in late 2021. However, this came too late to affect the achievement of the project’s objectives..
+
+                            Outcomes
+
+                            The only indicator used to measure the achievement of this objective was the level of annual avoided CO2
+                            emissions. The target for this was 535,320 tons, revised downwards at restructuring from the original target
+                            of 820,290 tons. Actual achievement, based on the (low) quantum of electricity generated and heating
+                            supplied by the gas-fired plants, was only 334,400 tons, or 62.4 percent of the revised target. Based on this
+                            partial achievement, efficacy for this objective is rated Modest.
+
+
+
+                            Rating
+                            Modest
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+
+
+                                                                                                                                Page 7 of 15
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      Shanxi Gas Utilization (P133531)
+
+
+
+  Project efficacy for PDOs 1 and 2 were rated Modest on account of a failure to achieve their targets. To no
+  small extent this was due to a change in the government’s priorities away from accelerated gas utilization,
+  towards the development of renewable energy, which led to a slower increase in gas utilization and
+  corresponding reduction in GHG emissions from the project. These outcomes were in part also due to delays
+  in implementation of tariff reform, which negatively impacted incentives to generate electricity at the two gas-
+  fired CHP plants. Based on this, overall efficacy is rated Modest.
+
+
+
+  Overall Efficacy Rating                                    Primary Reason
+  Modest
+
+
+5. Efficiency
+Economic and Financial efficiency
+
+The economic internal rate of return (EIRR) at appraisal was estimated, on the basis of cost-benefit analysis,
+separately for the individual investment sub-projects. Costs taken into account included the investment and
+operation costs of each sub-project; benefits were based on economic values of electricity, heating and gas
+supply, plus the global environmental benefits of the replacement of coal by gas consumption. On this basis,
+EIRR for the two gas-fired CHP plants were estimated at 17.5 and 14.0 percent respectively, and for the four
+sub-projects in the gas distribution network ranging between 21.4 and 47.4 percent. EIRR at project completion
+were estimated on the basis of the same methodology, but with up-dated social values for carbon emission ($71
+to $143 per ton CO2e). As such, EIRR for the two CHP plants were estimated at 12.1 and 12.0 percent
+respectively. For the gas distribution sub-projects, using the low carbon valuation, they ranged between -11.6
+percent and 51.6 percent (for the Yangchen sub-project), for a weighted average of 16.5 percent. Using the
+high carbon valuation, they ranged from 17.8 and 19.0 percent for the CHP plants, and from -9.3 to 66.2 percent
+for gas distribution (weighted average, 21.6 percent).
+
+Financial analysis conducted for the same sub-projects produced financial rates of return (FIRR) of 6.9 to 3.2
+percent at appraisal for the CHP units, and a range of between 9.6 to 11.1 percent for the gas distribution sub-
+projects. FIRR conducted on completion of the project, based on actual expenditures and revenues to 2021 and
+estimated expenditures and revenues thereafter, worked out to 2.7 percent and 3.2 percent respectively for the
+two CHP plants (weighted average 2.9 percent), and to range of between -13.8 and 36.2 percent for the gas
+distribution sub-projects (weighted average 11.8 percent).
+
+Operational/Administrative Efficiency
+
+The project underwent a ten-month extension to the closing date. At closing, total costs were marginally higher
+than estimated at appraisal (by 3.1 percent). Overall, project administration was effective (ICR, para 43), the
+Project Management Office (PMO) being efficient in financial management, procurement of the main works
+contracts and construction management. However, changes in the structure of the project, arising out of the
+evolving energy strategy of Shanxi province, together with delays in approving the electricity tariff, significantly
+undermined its overall performance.
+
+
+
+
+                                                                                                        Page 8 of 15
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Shanxi Gas Utilization (P133531)
+
+
+
+Based on the above, the efficiency of the project is rated Modest. The project did not deliver its full expected
+benefits, and both economic and financial rates of return at completion were mostly lower than anticipated at
+appraisal.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                      0
+ Appraisal                                                   0
+                                                                                       Not Applicable
+                                                                                      0
+ ICR Estimate                                                0
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project’s development objectives were substantially relevant to the World bank’s Country Partnership
+Framework and the evolving energy strategy for Shanxi province. Project efficacy was rated modest for both
+development objectives, on account of a failure to achieve targets. Project efficiency was also rated Modest. On
+this basis, the project’s overall outcome is rated Moderately Unsatisfactory.
+
+
+a. Outcome Rating
+   Moderately Unsatisfactory
+
+
+7. Risk to Development Outcome
+
+A variety of risks to the project’s development outcome exist, as follows:
+
+Operational Risk: The technical performance risk for the CHPs is limited, since the operation and efficiency
+of their plant and equipment has been tested quite thoroughly. No significant risks have been identified
+regarding the operation of the gas networks, though gas prices remain unpredictable. However, the
+uncertainties regarding the load factor of the CHP plants constitutes a major risk, going forward, as it
+depends on the priority and dispatch given to RE plants. Uncertainty persists whether the events if 2017,
+when the dispatch of the CHP plants was severely curtailed by the provincial government, could be repeated.
+Also, if the demand for the CHP, which produce heat as well as power, moves fully to peaking power mode,
+
+
+
+                                                                                                      Page 9 of 15
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      Shanxi Gas Utilization (P133531)
+
+
+
+as it is currently, it could produce a non-optimal combination of heat and power during certain periods, with a
+loss of efficiency. According to the ICR (para 94), the operational risk is rated High.
+
+Competitiveness Risk: The cost of electricity produced by the project CHPs might be uncompetitive under
+the new price and dispatch situation compared to other electricity sources. In the absence of electricity tariff
+reforms, the possible entry of new low-cost RE technologies in the future could further exacerbate the
+situation, making the project relatively less competitive. As such, the competitiveness risk is rated High
+(ICR,para 95).
+
+Financial Risk: Reduction in the plants’ energy production could affect the financial sustainability of the
+project, and will call for special adjustments in the tariff to make sure that the fixed costs of the units continue
+to be covered. A shift to a capacity payment for the CHPs, as is envisaged, would mitigate this
+risk. Meanwhile, the financial risk is rated High (ICR, para 97).
+
+Environmental and Social Risk: This risk is considered to be Moderate (ICR, para 98). All social and
+environmental issues have been managed during project implementation. The operation of the CHPs had a
+positive environmental impact, and all pending social issues (mostly including compensation for land
+acquisition) were addressed.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The project design was relatively limited in its flexibility and was unable to adapt to changes in priorities
+  and energy policies of the central and provincial governments. Preparation of the project was fairly
+  sound, the Bank team (mostly field-based) having worked closely with counterpart agencies, to ensure
+  full compliance with domestic and Bank requirements on fiduciary and safeguards considerations (ICR,
+  paras 86-87). Key operational risks, especially relating to environmental and safety aspects, were
+  identified and mitigation measures introduced. An important condition of the sustainability of the
+  operation was reform of the gas and electricity tariffs; however, though this was covenanted in the
+  project, mitigation measures were weak. This risk did materialize and ended up jeopardizing the financial
+  viability of the project.
+
+  On the basis of the above, the project’s quality at entry is rated Moderately Satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ According to the ICR (para 88), the Bank team provided proactive and effective implementation support to
+ the project through regular missions and field visits. Some 15 bi-annual supervision missions were
+ conducted over a seven-year period, manned by technical, fiduciary and safeguard specialists, to conduct
+
+                                                                                                        Page 10 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Shanxi Gas Utilization (P133531)
+
+
+
+ a comprehensive review of implementation progress and to provide on-going guidance as necessary. This
+ included oversight and guidance on environmental risk management for the construction of the CHP plants,
+ extension of the gas network and land resettlement aspects of the project. The Bank closely monitored the
+ satisfactory implementation of the Environmental Management Plan. The team also conducted a Mid-Term
+ Review in 2017, at which time appropriate changes were made to the project, as they were also at the time
+ of the restructuring in June 2020.
+
+ For the most part, the Bank team was relatively stable during the implementation period. The task team
+ leader (TTL) did not change after approval, was country office-based and maintained a strong relationship
+ and dialogue with counterparts. The Bank fiduciary and safeguards specialists also remained stable
+ through most of the implementation period.
+
+ That said, as pointed out by the ICR (para 92), the project could have benefited from a more substantive
+ restructuring once the team realized the impact of the tariff policy delays and changes in energy strategy
+ on the operation of the CHP plants. The restructuring could have considered changes to project design or
+ even to the PDO, as well as to the outcome indicators, to ensure the successful implementation of the
+ operation.
+
+ Based on this, quality of supervision is rated Moderately Satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The project’s Theory of Change (ToC) was fairly clear and straightforward. Indicators in the results chain
+ were generally relevant and consistent with the PDOs, while also being specific and measurable. The two
+ PDO outcome indicators were based on tons of avoided CO2 emissions in the province, and cubic meters
+ of gas consumption respectively, and could be measured on the basis of hours of operation of the CHPs
+ and number of connections for the gas network – both of which were easy to evaluate on a real time basis.
+ Intermediate indicators, measuring installed capacities (in MW), annual power supplies (in GWH), annual
+ supplies of heating (in gigajoules) and numbers of households and other gas users, were similarly suitable
+ for the purpose and correctly represented the project’s outputs.
+
+ M&E design included appropriate arrangements for data collection, compilation, analysis and reporting
+ (ICR, para 71).
+
+
+
+
+                                                                                                  Page 11 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Shanxi Gas Utilization (P133531)
+
+
+
+b. M&E Implementation
+  M&E indicators remained unchanged during the project’s implementation period. The PMO carried out
+  the data collection and provided clear reports on the progress of the project to the Bank on a regular
+  basis. According to the ICXR (para 71), these data were generally reliable and produced on time. The
+  M&E system was reported to have been particularly effective in monitoring the safeguards aspects of the
+  project. Additionally, survey reports were required and completed at appraisal and completion, regarding
+  the quality of social services (gas and heating supply) in the relevant cities, to provide information on
+  project impacts.
+
+
+
+c. M&E Utilization
+  Data on performance and results progress were used by HXGG and the World Bank to inform project
+  management and facilitate decision-making, including restructuring of the project. Data collected by the
+  M&E system facilitated monitoring of progress, and helped in the identification of emerging issues in
+  project implementation. The results of the M&E system qwere shared with the provincial authorities to
+  improve their policy making (ICR, para 73).
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as Category A, per OP 4.01 at appraisal stage, due to the risk of fire and
+   explosion in the operation phase. The following safeguards policies were triggered: Environmental
+   Assessment, OP/BP 4.01, Physical & Cultural Resources, OP/BP 4.11; and Involuntary Resettlement
+   OP/BP 4.12.
+
+   Environmental Safeguards: In terms of compliance, sound and comprehensive environmental assessment
+   documentation was prepared, including an Environmental Assessment (EA), an Environmental Impact
+   Assessment (EIA) and an Environmental Management Plan (EMP), by the Borrower, to clarify the potential
+   environmental impacts and ensure that appropriate mitigation measures were developed and agreed
+   upon. Mitigation measures to be adopted by the client were reported in the EMP. During restructuring, an
+   EIA report, an updated EMP and an EA summary report were prepared by the PMO for the new component
+   to be implemented in Yangchen County.
+
+   A Risk Assessment report was also prepared by a certified institute, in line with international practice, and
+   incorporated into the EIA. Critical sources of risk were identified in the report, and mitigation measures and
+   a monitoring plan developed. During implementation, the Borrower showed strong commitment to
+   implementing the EMP and providing monitoring reports in timely manner. A Physical Cultural Resources
+   Management Plan was also prepared as part of the EIA/EMP, which included mitigation measures,
+   institutional strengthening, monitoring plan and Chance Find procedures to be applied during the
+   construction stage of the project. The monitoring reports were provided by the PMO on timely basis, and
+
+
+                                                                                                   Page 12 of 15
+       Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+       Shanxi Gas Utilization (P133531)
+
+
+
+  these showed that mitigation measures were satisfactorily implemented and that impacts on physical
+  cultural resources were negligible.
+
+  There were no outstanding safeguards issues after project closing. The grievance redress mechanism
+  (GRM) was established and operated at site by the PMO.
+
+  Social safeguards: The Involuntary Resettlement safeguards (OP/BP 4.12) was triggered on account of the
+  land acquisition and associated affected households. A Resettlement Action Plan (RAP) and Resettlement
+  Policy Framework (RPF) were prepared and disclosed during project preparation, and were duly
+  implemented. A social consultant, recruited to monitor the compliance of social safeguards during the
+  project period, prepared regular monitoring reports as well as a social survey report in 2021, regarding the
+  gas and heating supply service covered by the project. The survey report, which was submitted to the Bank
+  prior to project closing, did not identify any pending issues (ICR, para 82).
+
+  According to the ICR, all required environmental and safeguards issues had been addressed satisfactorily
+  over the implementation period.
+
+
+
+
+b. Fiduciary Compliance
+  According to the ICR (para 85), the financial management (FM) arrangements in place provided assurance
+  that the Bank loan was being used for its intended purposes. All audit reports were submitted on time and
+  with unqualified (clean) opinions. Any FM-related issues identified by auditors in audit reports were dealt
+  with by project agencies in timely manner. Interim Financial Reports (IFRs) were of acceptable
+  quality. The project’s overall FM performance was deemed to be satisfactory.
+
+  The procurement system was similarly considered adequate for project implementation. According to the
+  ICR (para 84), contracts financed by the loan were procured in accordance with the rules and procedures
+  laid out in the Loan Agreement. Variations in contract duration, if any, were examined and changes
+  processed in compliance with the terms and conditions of the contracts. Procurement performance was
+  rated by the ICR as satisfactory.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+  --
+
+
+
+d. Other
+  Institutional Strengthening: The project had an institutional strengthening impact, arising out of investments
+  made under Component 3 – which included 6 sub-components supporting the reinforcement of the social
+  and environmental assessment and monitoring capacity of HXGG and improvement in occupational
+  safety. Beyond supporting the implementation of the project, the capacity building activities contributed to
+  an enhancement in competency of staff of HXGG. A SCADA sub-component to the project was added to
+
+
+                                                                                                  Page 13 of 15
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Shanxi Gas Utilization (P133531)
+
+
+
+   Component 2 to improve efficiency of operation of the provincial gas network, including the five counties
+   covered by the gas distribution component of the project.
+
+
+
+11. Ratings
+                                                                                  Reason for
+Ratings                         ICR                    IEG
+                                                                                  Disagreements/Comment
+                                Moderately            Moderately
+Outcome
+                                Unsatisfactory        Unsatisfactory
+                                Moderately
+Bank Performance                                      Moderately Satisfactory
+                                Satisfactory
+Quality of M&E                  Substantial           Substantial
+
+Quality of ICR                  ---                   Substantial
+
+
+12. Lessons
+
+IEG derives the following lessons drawn from the ICR:
+
+1. When a project outcome is contingent on Government policies, reforms and regulations,
+that need to take place to enable project implementation, there is a need to manage the risk
+that these reforms may not take place in time, or be modified by changing priorities and
+circumstances. In the case of the project in question, the change in central and provincial energy
+strategy, which resulted in the CHP plants being used for peaking purposes only, undermined their
+commercial viability, and hence the outcome of the project.
+
+2. Covenants should be used if the commitment of the client is confirmed and the Bank has
+the capacity to act in the event of non-compliance. For the project in question, a revision of
+electricity tariffs was essential to the success of the operation. However, the upfront commitment of
+the Government was less definite that appeared at the outset. When the tariff covenant was
+breached, the Bank had no real recourse and had to accept the non-compliance despite the
+negative impact on the project’s outcome.
+
+3. Given the complexity of energy transition, the Mid-Term Review can play a critical role in
+providing the opportunity for a restructuring to adjust the design: In the case of the project in
+question, country and sector priorities changed, necessitating a more fundamental restructuring of
+the operation – in terms of design and objectives - than actually took place, for the project to
+produce a satisfactory outcome.
+
+4. Clarity is needed on the role of gas in the overall energy strategy of a country, when
+financing a project based on gas utilization. Usage of gas in the power sector of countries
+previously dependent on coal has seen challenges as a result of volatility in price of gas, at a time
+when reduced costs of renewable energy and battery storage. This has made gas power less viable
+as base load for power plants, resulting in gas power being utilized only as peaking units to stabilize
+the grid. Against this background, there is an urgent need for both the provincial and central
+
+
+                                                                                                    Page 14 of 15
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       Shanxi Gas Utilization (P133531)
+
+
+
+governments in China to review and clarify their energy sector strategic priorities as regards the use
+of gas, going forward.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is generally well written, evidence-based and internally consistent, and provides a fair amount of detail
+on the changes that took place during implementation of the project, as well as on safeguards and fiduciary
+aspects. The achievement of objectives is adequately analyzed, as is the Risk to Development Outcomes and
+Monitoring & Evaluation. The overall lessons arising from the performance of the project appear to be relevant,
+but could however have been more comprehensive in their scope.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                   Page 15 of 15
+

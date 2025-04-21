@@ -1,0 +1,940 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     2021 IP-DPG (P176137)
+
+
+
+                                                                                 Report Number: ICRR0023494
+
+1. Operation Information
+
+
+
+ Operation ID                              Operation Name
+ P176137                                   2021 IP-DPG
+
+ Country                                   Practice Area (Lead)
+ Afghanistan                               Macroeconomics, Trade and Investment
+
+
+
+ Non-Programmatic DPF
+
+ L/C/TF Number(s)                          Closing Date (Original)                   Total Financing (USD)
+ IDA-D8510,TF-B5789                        30-Jun-2022                                         131,072,400.00
+
+ Bank Approval Date                        Closing Date (Actual)
+ 24-Jun-2021                               30-Jun-2022
+
+                                           IBRD/IDA (USD)                               Co-financing (USD)
+
+ Original Commitment                           432,000,000.00                                 300,000,000.00
+
+ Revised Commitment                            132,000,000.00                                              0.00
+
+ Actual                                        131,072,400.00                                              0.00
+
+
+
+
+ Prepared by                 Reviewed by                 ICR Review Coordinator          Group
+ William F. Steel            Judyth L. Twigg             Jennifer L. Keller              IEGEC
+
+
+
+
+2. Program Objectives and Pillars/Policy Areas
+DEVOBJ_TBL
+a. Objectives
+
+The Implementation Completion and Results Report (ICR, para. 10) and Program Document (PD, p. 3) stated
+the program development objectives (PDOs) and pillars as: i) supporting sustainability, inclusivity, and
+transparency in public finances and the civil service staffing; and ii) strengthening the institutional and
+
+
+
+                                                                                                  Page 1 of 19
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      2021 IP-DPG (P176137)
+
+
+
+regulatory framework to support recovery from COVID-19 through management of risks and improved
+governance.
+
+Although “recovery from COVID-19” was indicated as an ultimate outcome, none of the policy actions (PAs) or
+results indicators (RIs) were directly related to COVID-19 or to recovery per se; rather, they addressed
+governance and risk management in public utility companies and state-owned banks and enterprises (SOEs).
+The ICR (para. 11) also stated that “reforms under Pillar I were designed to improve the regulatory and
+governance framework.” Hence improving governance and the regulatory framework was a strategy used
+under both PDOs/pillars to achieve the basic objectives.
+
+While the measures related to civil service staffing had fiscal implications taken as a whole, some of the
+associated results indicators did not track the budgetary impact per se, and the civil service reforms can be
+considered as an intermediate step toward the public finance objective, which can be considered
+separately. Taking into account the actual focus of the PAs, the PDOs are disaggregated as follows for the
+purpose of this ICR Review (ICRR):
+
+    1. Supporting sustainability, inclusivity, and transparency in civil service staffing;
+    2. Supporting sustainability, inclusivity, and transparency in public finances;
+    3. Improving governance, sustainability and risk management in public utilities and state-owned
+       enterprises.
+
+
+b. Pillars/Policy Areas
+The policy areas broadly carried forward several aspects of the objectives of the preceding set of three
+Incentive Program Development Policy Operations (IP-DPOs): supporting state effectiveness; fiscal
+sustainability; and public financial management (ICRR for Afghanistan 2020 IP DPG P172211, Table 1).
+Under Pillar 1 (“supporting sustainability, inclusivity, and transparency in public finances and the civil service
+staffing,” as stated in the PD, para. 28), PDO 1 and PAs 1-3 (see Table 1) expanded implementation of the
+civil servants law, which was introduced and supported under the previous IP-DPO series. PDO 2 and PAs 4-
+9 carried forward the second objective of the previous series: “improving the policy and institutional framework
+for public financial management and fiscal sustainability.” PAs 5-7 focused on the tax system. Under PDO3
+(corresponding to Pillar 2 as stated in the PD, para. 28: “strengthening the institutional and regulatory
+framework to support recovery from COVID-19 through management of risks and improved governance"),
+PAs 10-11 related to previous actions to improve institutional arrangements and sustainability in the energy
+and oil/gas sectors, while PAs 12-13 introduced a new element of strengthening oversight and risk
+management in state-owned banks and other enterprises.
+
+Table 1: Objectives and Prior Actions for Afghanistan 2021 Incentive Program Development Policy Grant
+
+Policy Actions
+Objective 1: Supporting sustainability, inclusivity, and transparency in civil service
+staffing
+PA 1: To strengthen public sector sustainability and governance, the Cabinet has approved
+a Tashkeelat regulation establishing a unified process for annual approval of Tashkeel
+positions across all Government agencies.
+PA 2: To strengthen public sector sustainability and governance: (a) the Cabinet has
+approved norms and guidelines to reduce and standardize 'incentive' salaries in the civil
+
+                                                                                                      Page 2 of 19
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     2021 IP-DPG (P176137)
+
+
+
+service, with application to be overseen by the civil servants’ incentives review committee;
+and (b) the Ministry of Finance has approved 2022 Budget Execution Guidelines which fully
+reflect these norms and guidelines.
+PA 3: To improve civil service integrity and inclusion, the Cabinet has approved: (a) an
+amendment to the Regulation on the Civil Servant’s Code of Conduct to explicitly include
+definitions of and sanctions for corruption and sexual harassment aligned with relevant laws;
+and (b) new procedures for handling complaints against harassment of women in the
+workplace for all budgetary units.
+Objective 2: Supporting sustainability, inclusivity, and transparency in public
+finances
+PA 4: To strengthen the sustainability of pensions, the Cabinet has approved regulatory
+changes and submitted draft legislation to the Parliament to: (a) introduce a new defined
+contribution pension scheme for a class of public servants; and (b) correct the existing
+legacy pension schemes by (i) rationalizing survivor benefits, and (ii) introducing a
+discounted lump sum benefit payment option.
+PA 5: To support value-added tax (VAT) implementation, the Afghanistan Revenue
+Department (ARD) has issued a circular mandating VAT registration for eligible firms and
+individuals and establishing a registration process based on the use of digital national IDs.
+PA 6: To simplify tax administration, Cabinet has approved amendments to the VAT law to
+eliminate the Business Receipts Tax, including below the VAT threshold.
+PA 7: To ease tax compliance, the Minister of Finance has approved relevant procedures
+mandating the use of e-signatures (a) when documenting physical and/or documentary
+examinations of goods and declarations in the information system; and (b) in the issuance of
+tax clearance certificates (TCC).
+PA 8: To strengthen public financial management: (a) the Cabinet has approved a new
+public financial management (PFM) reform strategy; (b) the Ministry of Finance (MoF) has
+completed a survey of fixed assets in at least three (3) pilot ministries; and (c) MoF and Da
+Afghanistan Bank (DAB) has established an automated connection between the Afghanistan
+Financial Management Information System (AFMIS) and Automated Transfer System (ATS)
+systems to facilitate electronic payments for staff and contractors.
+PA 9: To improve fiscal transparency, the MoF has published full quarterly expenditure data
+(for the period Q1 2020 – Q1 2021) at the line-item level and a full report regarding the
+utilization of COVID-19 response expenditures.
+Objective 3: Improving governance, sustainability and risk management in public
+utilities and state-owned enterprises
+PA 10: To improve sustainability of the energy utility, the National Electricity Utility of
+Afghanistan's (DABS’s) senior management group has approved the implementation of a
+short-message service (SMS) billing systems in at least three major cities.
+PA 11: To strengthen institutions for gas sector governance, Afghanistan Oil and Gas
+Regulatory Authority has been operationalized through the appointment of all seven
+members of its high board through a transparent and competitive process in accordance
+with the provisions of the 2017 Hydrocarbons Law.
+PA 12: To strengthen oversight of state-owned banks, the supervisory boards of three state-
+owned banks are operationalized through recruitment of at least five members to each board
+through competitive and transparent processes outlined in the Ownership Policy.
+
+
+
+                                                                                                  Page 3 of 19
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      2021 IP-DPG (P176137)
+
+
+
+PA 13: To strengthen fiscal risk monitoring, the Ministry of Finance has published a report on
+the financial status of the five largest SOEs/State-Owned Corporations (SOCs) and an
+assessment of major fiscal risks arising from the SOC, state-owned business (SOB), and
+public-private partnership (PPP) portfolio.
+
+Of the 13 PAs, only the three prior actions (i.e., none of the tranche release triggers) were completed before
+the operation was suspended in August 2021). There was a total of 17 actions/sub-actions (two of which
+directly follow through on actions supported in the preceding IP-DPO).
+
+
+c. Comments on Program Cost, Financing and Dates
+
+Program cost was estimated at US$ 432 million over eleven tranches, of which SDR 92 million (US$ 132 million
+equivalent) was to be financed as a grant from the International Development Association (IDA) and US$ 300
+million was to come from a grant from the Afghanistan Reconstruction Trust Fund (ARTF), a multi-donor funding
+mechanism for reconstruction support, which had been brought in to support the previous series of IP-DPOs. The
+program document (PD, para. 103) financing agreement and grant agreement provided for an initial
+disbursement of SDR 92 million from IDA based on three prior actions and ten tranches of US$ 30 million from
+ARTF, each based on satisfying a tranche release trigger. Actual disbursement amounted to US$ 131,072,400
+from IDA and nil from ARTF, due to suspension of the operation following the Taliban takeover of the
+government.
+
+
+3. Relevance of Design
+
+a. Relevance of Objectives
+
+ Relevance to country context
+
+ As noted above (section 2.b), the objectives were consistent with and built upon objectives from the previous
+ IP-DPO series, which were “designed to support the Government’s three-year program of policy reforms”
+ (ICRR, P172211, section 2.a). However, the PD (paras. 2-3) put these longer-term objectives of institution-
+ building, governance, and PFM in the context of more recent political and economic challenges that
+ aggravated fragility, conflict and violence (FCV) in Afghanistan: “frequency of Taliban attacks on Afghan
+ security forces and civilians recently reaching record levels"; United States intention to “withdraw all troops by
+ September 11, 2021"; “uncertain” future of international grant support; two percent contraction of the Afghan
+ economy in 2020; revenue shortfall around 20 percent of targets in 2020; “very low investor confidence"; and
+ “Government spending heavily disrupted by the COVID-19 crisis” (para. 20). Understating the outlook as
+ “uncertain” and “challenging,” the PD focused on measures that would continue to “help Afghanistan maintain
+ reform progress, manage mounting fiscal challenges, and support economic recovery” without explicitly stating
+ the need for new measures to deal with the clear increase in FCV. Nevertheless, the PD (para. 109-113) did
+ recognize that the very high risks would be “only somewhat mitigated by the program’s focus on policy actions
+ that should show positive impact even in the context of ongoing conflict.”
+
+ The PD (paras. 4, 25) recognized the private sector’s importance to the stated desired outcome of “recovery
+ from COVID-19” and that it was weak and faced with many challenges. But it did not explain why there was no
+ explicit objective or PAs to carry forward the previous IP-DPO series’ measures to “strengthen the
+
+
+                                                                                                     Page 4 of 19
+    Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+    2021 IP-DPG (P176137)
+
+
+
+policy framework to support private investment.” It only expressed a general expectation that the reforms
+would “indirectly facilitate private sector development through addressing the institutional, governance, and
+fiscal sustainability risks that are currently constraining investment” (para. 28).
+
+Relevance to country development strategy and CPF
+
+As in the previous IP-DPO series (ICRR P172211, section 3.a), the PDOs were aligned with the government’s
+strategies as stated in the Afghanistan National Peace and Development Policy Framework (ANPDF) and
+Fiscal Performance Improvement Plan (FPIP) (PD, para. 27). These strategies were intended to deepen the
+reforms undertaken since the fall of the Taliban in 2001. The PD (para. 80) stated that “the proposed operation
+is fully consistent with the priorities and approach established in the World Bank Group’s Country Partnership
+Framework (CPF) (FY17-FY20) … and the Performance and Learning Review, which extended the CPF to
+FY22.” The PAs supported the CPF pillar of “building strong and accountable institutions”.
+
+The PD (paras. 80-82 and Annex 5) noted that the World Bank program in Afghanistan had been adjusted to
+respond to the pandemic and that the proposed operation was consistent with the WBG’s COVID-19 Crisis
+Response Approach Paper (June 2020). According to the Bank, despite growing FCV risks, the World Bank
+was not in a position to change course without precipitating the economic and social crisis that international
+assistance was seeking to mitigate. World Bank support was intended to help “operationalize the
+Government’s response strategy in close coordination with other development partners and humanitarian
+agencies while building a stronger nexus between the humanitarian and development support….The World
+Bank response is aligned with the three interlinked phases - Relief, Restructuring, and Resilient Recovery” - of
+the Additional Financing for and Restructuring of the COVID-19 Emergency Response and Pandemic
+Preparedness Project (PD, para. 3).”
+
+
+b. Relevance of Prior Actions
+
+Rationale
+
+Following the model of and lessons learned from the previous IP-DPO series, this operation was the first of a
+series of three stand-alone operations rather than a pre-determined series, in view of the limitations imposed by
+Afghanistan’s fragility. In any event, disbursements under the program from the ARTF were suspended upon
+the overthrow of the government in August 2021.
+
+Although neither the ICR nor the PD provided an explicit results chain/theory of change, each prior action
+clearly stated the underlying constraints and expected results, and most actions drew on appropriate analytical
+underpinnings or followed through on steps initiated in previous IP-DPOs. The actions were sufficiently specific
+and limited for their targeted results to be feasible within the time frame of the operation.
+
+Objective 1: Supporting sustainability, inclusivity, and transparency in civil service staffing
+
+PA 1 addressed a problem identified in the PD (paras. 30-1) that control of government expenditures on civil
+servants (Tashkeel) was being undermined as “line-ministries have increasingly obtained direct approval of
+their tashkeel proposal from the Office of the President without prior review” and that there was no formal
+tashkeel approval process or calendar for hiring.” The regulation required to be adopted as a tranche release
+condition would “(i) define clear process steps for establishment of tashkeel positions linked to the budget
+calendar; (ii) clarify institutional arrangements through the approval process; and (iii) establish requirements for
+
+                                                                                                      Page 5 of 19
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    2021 IP-DPG (P176137)
+
+
+
+including vacant tashkeel positions in the overall tashkeel ceiling and budget envelope,” representing a major
+contribution to the objective and to Objective 2 (fiscal sustainability). Rating: Satisfactory.
+
+PA 2 was a response to the problem that the wage bill had become increasingly distorted by unsustainable
+growth in allowance spending which was being approved through an uncoordinated and inconsistent process,
+creating opportunities for patronage (PD, para. 35). The PA was designed to set up a process and committee
+“to review and rationalize current allowance spending across the civil service….[and] to phase out a number of
+costly and poorly managed schemes through which selected civil servants are provided with pay and
+allowances that far exceed standard entitlements”. This supported the objective of increased transparency and
+sustainability in civil service staffing, as well as contributing to Objective 2 (fiscal sustainability). Rating:
+Satisfactory.
+
+PA 3 responded to what the Bank referred to as “major problems of widespread corruption and allegations of
+sexual exploitation and abuse and sexual harassment” identified in the PD (para. 41). The measures were
+appropriate as a first step to address real and perceived concerns about workplace safety among women and
+their families and contributed to redressing Afghan women’s low participation in the civil service. This furthered
+the objective of improved inclusivity and sustainability in the civil service. Rating: Moderately Satisfactory.
+
+Objective 2: Supporting sustainability, inclusivity, and transparency in public finances
+
+PA 4 sought to contain surging government pension expenditures, from 0.5 percent of the GDP in 2017 to one
+percent of the GDP in 2020 and which were expected to increase to 1.4 percent of the GDP by 2024 under the
+existing “defined benefit” scheme (PD, para. 38). Without reform, pension expenditures to civil servants (who
+are mostly in the top income quintile) would crowd out critical service delivery and development needs with
+regressive negative impacts on the poor and vulnerable. According to the Bank, the new ‘defined contribution’
+pension mechanism is financially sustainable by design,” with further reforms planned to “enhance the
+sustainability of the legacy scheme over the coming years” (PD, para. 39). The measures also contributed to
+Objective 1 (sustainability of civil service staffing). Rating: Satisfactory.
+
+PAs 5-7 included measures to address declining revenues by improving tax administration and compliance.
+
+PA 5 was critical to support the planned implementation at the end of 2021 of a value added tax (VAT) as “a
+cornerstone of the government’s revenue strategy [to]… bring additional revenues equal to 0.6 percent of GDP”
+(PD, para. 46). Although this would represent only a 5 percent addition to the existing revenue base of 12.3
+percent in 2021 (PD, para. 23), it represented an important step toward broadening the revenue base. Rating:
+Satisfactory.
+
+PA 6 was intended to avoid the administrative burden to both the ARD and small and medium companies of
+maintaining the previous sales tax (BRT) alongside the VAT, which would initially apply only to large firms.
+Besides “freeing up capacity [of ARD] to focus on effective implementation of the VAT, removal of the BRT was
+also expected to reduce a significant compliance burden facing smaller firms, without substantially impacting
+overall revenues” (PD, para. 51; the foregone revenues were estimated at only “0.6 percent of forecasted
+revenue collections for 2022”). Rating: Satisfactory.
+
+PA 7 was introduced to reduce the “unnecessary delays and… opportunities for discretion and petty corruption”
+due to “parallel paper trails or partly manual approval processes [that] remain in place for most of the
+automated processes” (PD, para. 52). Enabling e-signatures would make possible further steps to continue the
+gains made by the “ARD and the Afghanistan Customs Department… in automating their business processes in
+
+
+                                                                                                    Page 6 of 19
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    2021 IP-DPG (P176137)
+
+
+
+recent years,” but does not ensure that parallel paper trails would in fact be eliminated. Rating: Moderately
+Satisfactory.
+
+PA 8 was needed to replace the previous PFM reform strategy, which had expired in 2020, and to “establish
+high-level PFM reform objectives and goals…coalesce donor support…and monitor and track progress,” based
+on recommendations of a series of strategic Public Financial Management Roadmaps (PD, para. 56). The
+“progress in establishing core PFM systems was constrained by “limited interoperability [of AFMIS] with other
+government payment systems” and the absence of asset registries needed to advance management of
+operations and maintenance (O&M) expenditures (PD, para. 55). Asset surveys were needed to better
+document actual maintenance requirements and thereby improve the efficiency of O&M expenditures (PD,
+para. 58). The actions were directly relevant to the stated constraints. Rating: Satisfactory.
+
+PA 9 carried forward measures under previous IP-DPOs to improve transparency by publishing cash
+management, revenue, and expenditure reports. The 2018 Public Expenditure and Financial Accountability
+Assessment (PEFA) identified “important gaps,” with only ‘C’ and ‘D’ scores for fiscal transparency indicators
+(PD, para. 59). The action to publish full quarterly expenditure and revenue data at the line-item level, as well a
+consolidated annual COVID-19 expenditure report, would help address these shortcomings and improve
+“access to information regarding the use of public funds [which] is critical to maintaining continued international
+donor support” (ibid.). Rating: Satisfactory.
+
+Objective 3: Improving governance, sustainability and risk management in public utilities and state-
+owned enterprises
+
+PA 10 was a step toward redressing the high commercial losses (16.6 percent) due to “ineffective” collections
+by the power utility, Da Afghanistan Breshna Sherkat (DABS) (PD, para. 63). Along with high technical losses
+(17.4 percent), DABS’s financial performance deteriorated from a profit of 6.5 percent in FY2014 to an
+operating loss of 18.6 percent in FY2018, aggravated during the COVID-19 crisis, due to reduced consumption
+and delayed bill payments. Introduction of SMS billing was expected to contribute to reduction in commercial
+losses (1.6 percentage points over two years; PD, para. 66) and thereby to the objective of improved
+sustainability by “eliminat[ing] the need for paper-based invoicing, shortening payment times, and reducing the
+incidence of unnecessary disconnections (PD, para. 65). Rating: Satisfactory.
+
+PA 11 followed through on measures in the previous IP-DPO to establish a “dedicated and independent sector
+regulatory agency (the Afghanistan Oil and Gas Regulatory Authority, or AOGRA)” (PD, para. 68). Investment
+and sustainability in the hydrocarbons sector was being constrained by an “incomplete regulatory framework
+and by the need to fully consolidate and operationalize its institutional structure and governance mechanisms”
+(ibid.). The action was “an essential step” in this process of improving governance, although it does not
+necessarily ensure that the objectives of appropriate regulations, effective oversight, and management of
+corruption and other risks will be achieved. Rating: Moderately Satisfactory.
+
+PA 12 was a step toward addressing the problem of weak management of SOBs, [which] has led to repeated
+rounds of asset write-downs and recapitalizations (PD, para. 71). Although SOBs have small loan portfolios,
+[they] account for around 29 percent of total banking sector assets and play a critical role in providing banking
+and payment services (including to civil servants) (ibid.). The government had taken a number of steps to
+strengthen oversight and governance of state-owned banks over recent years, including introducing Boards of
+Supervisors to strengthen corporate governance – a disbursement condition under the Modernizing Afghan
+State Owned Banks Project (PD, para. 72). The action was intended to improve oversight by addressing the
+problem of vacant positions, which “undermined their capacity to fully execute prescribed functions” (ibid.),
+
+
+                                                                                                     Page 7 of 19
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     2021 IP-DPG (P176137)
+
+
+
+ although this would only indirectly address the core problem of weak management at the SOB level. Rating:
+ Moderately Satisfactory.
+
+ PA 13 addressed the concern that unexpected realization of fiscal risks across the SOC, SOB, and PPP
+ portfolio posed important challenges to Afghanistan’s fiscal position (PD, para. 75). Financial oversight and data
+ availability is highly variable across the portfolio [52 state-owned enterprises/companies (SOE/SOC), 3 SOBs
+ and 6 public-private partnerships [PPP] under contract], with no unified mechanism for monitoring and reporting
+ on fiscal risks. Publishing the financial status of the largest SOCs and assessing the fiscal risks was a relevant
+ step toward the objective of better managing risk in state-owned enterprises by putting pressure on
+ management to be more accountable, though it does not ensure that management behavior would change to
+ achieve the result of better risk management. Rating: Moderately Satisfactory.
+
+
+
+Rating
+
+Satisfactory
+
+
+4. Relevance of Results Indicators
+
+Rationale
+
+The operation used 14 results indicators (RIs; three of them disaggregated by gender) to track
+implementation and results of 13 PAs. The RIs were generally appropriate to track impact of the PAs (with
+two exceptions), though not necessarily of progress toward of the operation’s objectives.
+
+ Table 2: Results indicators by Objective and PAs; baseline and target values; status and
+ achievement
+                                                                Actual
+                                      RI                                   Actual as RI
+ Results indicator (RI)        Asso-         Baseline Target
+                                                                           % of      Achieve-
+                               ciated                           (2022)
+                                      Rele-                                targeted ment
+                               PAs           (2020)   (2022)
+                                      vance                                change rating
+ Objective 1: Supporting sustainability, inclusivity, and transparency in civil service staffing
+ RI 1: Proportion of new
+ tashkeel positions
+ (disaggregated by gender)      PA 1 S        0%         90%      Unknown Nil           N
+ approved through a unified,
+ transparent process
+ RI 2: Allowances as a share of
+                                PA 2 S        25%        22%      Unknown Nil           N
+ wage bill expenditures
+ RI 3: Number of
+ Ministries/Agencies provided
+ with training on the revised
+                                PA 3 U        0          10       Unknown Nil           N
+ Code of Conduct and on
+ procedure for handling
+ complaints.
+
+                                                                                                    Page 8 of 19
+    Independent Evaluation Group (IEG)                        Implementation Completion Report (ICR) Review
+    2021 IP-DPG (P176137)
+
+
+
+Objective 2: Supporting sustainability, inclusivity, and transparency in public finances
+RI 4: Percent of new entrants
+to the public service (civil
+service and armed forces, but
+excluding National Technical
+                               PA4   MS      0%         90%      Unknown Nil          N
+Assistants, NTAs) over the
+previous year enrolled in a
+defined contribution pension
+program
+                                             Overall: 0
+                                                        Overall:
+RI 5: Number of registered
+                                                        700
+VAT taxpayers (gender
+                               PA 5 S                            Unknown Nil          N
+disaggregated for individuals
+                                                        Women:
+and entrepreneurs)                           Women:
+                                                        10
+                                             0
+RI 6: The time required to
+prepare, file, and pay value
+                                                        230
+added or sales tax, profit tax PA 6 MU       270 hours           Unknown Nil          N
+                                                        hours
+and labor taxes and
+contributions
+                                             Overall: 0
+RI 7: TCCs with digital                                 Overall:
+signatures as a proportion of                           50%
+total TCCs issued (gender      PA 7 MU                           Unknown Nil          N
+disaggregated for individuals                           Women:
+                                             Women:
+and entrepreneurs)                                      50%
+                                             0
+RI 8: Digital examination
+reports as a proportion of
+                               PA 7 MS       0%         50%      Unknown Nil          N
+goods declarations selected
+for examination
+RI 9: Proportion of
+government payments            PA 8 MU       0%         75%      Unknown Nil          N
+processed electronically
+RI 10: Audited financial data
+on COVID-19 expenditures is PA 9 S           No         Yes      No        Nil        N
+publicly available
+Objective 3: Improving governance, sustainability and risk management in public utilities and
+state-owned enterprises
+RI 11: Commercial losses as
+                               PA 10 MS      16.6%      15.0%    Unknown Nil          N
+a percentage of supply
+RI 12: Number of regulations
+and contract templates for the
+natural gas value chain
+                               PA 11 MS      0          3        Unknown Nil          N
+developed by AOGRA and
+approved by the appropriate
+legal authority
+RI 13: SOB corporate           PA 12 MS      No         Yes      Unknown Nil          N
+
+                                                                                            Page 9 of 19
+    Independent Evaluation Group (IEG)            Implementation Completion Report (ICR) Review
+    2021 IP-DPG (P176137)
+
+
+
+governance requirements
+specified in the State-Owned
+Banks Ownership Policy are
+met
+RI 14: Afghanistan score
+against PEFA indicator PI-10.3 PA 13 MS   D   C    Unknown Nil           N
+on fiscal risk reporting
+
+
+
+
+                                                                               Page 10 of 19
+Independent Evaluation Group (IEG)   Implementation Completion Report (ICR) Review
+2021 IP-DPG (P176137)
+
+
+
+
+                                                                  Page 11 of 19
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     2021 IP-DPG (P176137)
+
+
+
+
+Source: ICR table 2.
+
+Objective 1: Supporting sustainability, inclusivity, and transparency in civil service staffing
+
+RI 1 (proportion of new tashkeel positions [disaggregated by gender] approved through a unified,
+transparent process) directly measured compliance with the new regulations, which supported the
+objective of transparency and sustainability in civil service hiring. The baseline was nil and the indicator
+was measurable. Rating: Satisfactory.
+
+RI 2 (allowances as a share of wage bill expenditures) directly measured the desired outcome of a
+decrease in the relative importance of uncontrolled allowances in the wage budget, although it was not
+clear how much impact this would have on the overall level and sustainability of the wage bill. It was
+measurable, with a clear baseline and target. Rating: Satisfactory.
+
+RI 3 (number of Ministries/Agencies provided with training on the revised Code of Conduct and on
+procedure for handling complaints) was an indirect indicator of progress toward the desired outcome of
+reduced corruption and harassment among civil servants. It only tracked whether training in the Code of
+Conduct was being offered, not the extent of participation or changes in behavior and other results.
+Rating: Unsatisfactory.
+
+Objective 2: Supporting sustainability, inclusivity, and transparency in public finances
+
+RI 4 (percent of new entrants to the public service over the previous year enrolled in a defined contribution
+pension program) directly measured implementation of the associated PA and the resulting impact on the
+objective of increased sustainability of pensions – though it captures only the marginal effect with respect
+to new civil servants. The baseline was nil and the indicator was readily measurable. Rating: Moderately
+Satisfactory.
+
+RI 5 (number of registered VAT taxpayers, gender disaggregated) was a reasonable indicator of initial
+success during the limited time period of the operation in implementing the new VAT with respect to
+compliance. The rationale for gender disaggregation was not stated (PD, para. 48), but it presumably
+reflected the concern over women’s limited participation in the private sector (PD, para. 4), as well as their
+contribution to revenues. Rating: Satisfactory.
+
+RI 6 (the time required to prepare, file, and pay value added or sales tax, profit tax and labor taxes and
+contributions) was relevant to the objective of simplifying tax administration and transparency through the
+VAT law, which was to replace the BRT system for smaller enterprises. The indicator was intended to
+
+                                                                                                     Page 12 of 19
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    2021 IP-DPG (P176137)
+
+
+
+track the reduced burden on small business from exempting them from the BRT while bringing them
+under the BAT, but the Doing Business indicator involved is based on the what is in the regulations rather
+than actual experience. A complementary indicator of revenue collected would have been desirable to
+track the impact on the fiscal sustainability objective. Rating: Moderately Unsatisfactory.
+
+RI 7 (TCCs with digital signatures as a proportion of total TCCs issued, gender disaggregated) tracked
+implementation of PA 7 to facilitate tax compliance, which in turn would contribute to the objective of
+increased budgetary sustainability. The indicator measured results with respect to ease of issuing TCCs;
+however, it did not directly measure the outcome in terms of compliance or fiscal impact. The rationale for
+gender disaggregation was unclear, given the negligible participation of women in businesses and
+taxation and the absence of PAs specific to gender. The baseline was nil, and the indicator was
+measurable. Rating: Moderately Unsatisfactory.
+
+RI 8 (digital examination reports as a proportion of goods declarations selected for examination) likewise
+measured the effect of implementing PA 7 on digital examination reports in order to eliminate parallel
+paper trails and thereby reduce administrative costs. Rating: Moderately Satisfactory.
+
+RI 9 (proportion of government payments processed electronically) tracked implementation of one of three
+sub-actions of PA 8 with respect to inter-connectivity in order to process government payments more
+efficiently. It did not capture approval of a new PFM strategy and survey of fixed assets. Rating:
+Moderately Unsatisfactory.
+
+RI 10 (audited financial data on COVID-19 expenditures is publicly available) was a reasonable indicator
+of continued progress toward the objective of increased transparency in public finances, especially in view
+of public concerns over management of COVID-19 funds (PD, para. 59). Rating: Satisfactory.
+
+Objective 3: Improving governance, sustainability and risk management in public utilities and
+state-owned enterprises
+
+RI 11 (commercial losses as a percentage of supply) was a suitable measure of the impact of PA 10 on
+cost recovery of the energy utility, though changes in the loss rate could not necessarily be attributed
+solely to that action. The indicator was measured by the utility and baseline data was available. Rating:
+Moderately Satisfactory.
+
+RI 12 (number of regulations and contract templates for the natural gas value chain developed by AOGRA
+and approved by the appropriate legal authority) was suitable to indicate if PA 11 was being implemented
+and the AOGRA was operational. While this would represent a step toward the objective of improved
+governance, it did not necessarily mean that the institution was strengthened sufficiently to yield the
+desired result of enhanced recovery from COVID-19. Rating: Moderately Satisfactory.
+
+RI 13 (SOB corporate governance requirements specified in the State-Owned Banks Ownership Policy
+are met) was a reasonable indicator of whether implementation of PA 12 to appoint supervisory board
+members was yielding results in terms of improved SOB governance through compliance with
+requirements. It was assumed that improved compliance would contribute to the ultimate objective of
+ensuring sustainability of SOBs. Rating: Moderately Satisfactory.
+
+RI 14 (Afghanistan score against PEFA indicator PI-10.3 on fiscal risk reporting) was relevant to the
+underlying weaknesses identified in the Public Expenditure and Financial Accountability (PEFA)
+assessment and thus to whether the actions under PA 13 were successful in improving Afghanistan’s
+
+                                                                                                  Page 13 of 19
+                             Independent Evaluation Group (IEG)                  Implementation Completion Report (ICR) Review
+                             2021 IP-DPG (P176137)
+
+
+
+               rating in the next assessment. The availability of data for the RI was contingent on a subsequent PEFA
+               being undertaken, which was not guaranteed. Rating: Moderately Satisfactory.
+
+
+
+      Rating
+
+      Moderately Satisfactory
+
+      5. Achievement of Objectives (Efficacy)
+
+      NO EFF AVAILABLE TBL
+
+
+
+
+      No information available
+
+OVERALL EFF TBL OLD
+
+
+
+
+Overall Achievement of Objectives (Efficacy)
+Rationale
+
+Following the takeover by the Taliban in mid-August, 2021, the operation was suspended and there was a
+complete “cessation of reporting by authorities against key statistical indicators” (ICR, para. 17). The ICR (para.
+19) concluded that “none of the results indicators were achieved, and outcomes even further deteriorated due to
+substantial policy reversal…and suspension of the project.”
+
+
+
+Overall Efficacy Rating
+Highly Unsatisfactory
+
+
+      6. Outcome
+
+      Rationale
+
+      Although the relevance of PAs was Satisfactory, the Highly Unsatisfactory efficacy rating mandates an overall
+      outcome rating of Highly Unsatisfactory.
+
+
+      a. Rating
+
+      Highly Unsatisfactory
+
+      7. Risk to Development Outcome
+
+      Achievement of outcomes was completely compromised by Taliban rule of Afghanistan. Steps toward
+      inclusivity of women have been reversed. Gains in institution-building have been compromised by the
+
+
+                                                                                                               Page 14 of 19
+      Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+      2021 IP-DPG (P176137)
+
+
+
+“exodus of human capital” as well as by Taliban administration, and the “financial and economic crisis… has
+undermined confidence in the banking sector” (ICR, para. 27).
+
+
+8. Assessment of Bank Performance
+
+a. Bank Performance – Design
+
+Rationale
+
+
+Rationale
+
+The design was based on lessons from prior analytical work (especially the 2018 PEFA and Public
+Financial Management Roadmaps; PD, Annex 6) and experience with the previous IP-DPO series. The PD
+explained the rationale for and expected results of the PAs and identified key risks, although it could not
+have anticipated the severity of the security and political risks, for which mitigation was beyond the scope
+of the operation.
+
+Lessons from prior experience
+
+The operation drew on the experience of the previous IP-DPO series, in particular that the FCV situation
+made a sequence of stand-alone but related operations preferable to a pre-planned set of three and “that
+the combination of Prior Actions and Tranche Release Conditions is a successful mechanism for
+motivating reform effort throughout the year” (PD, para. 29). The PD (para. 29) also noted that a highly
+consultative process with senior government officials, development partners, and technical teams was
+important to build ownership and commitment to implementation, and that World Bank technical
+assistance… through parallel investment and analytical engagements was critical to facilitate
+implementation, although it did not cite domestic consultations specific to this operation apart from the
+Afghanistan National Peace and Development Policy Framework (ANPDF).
+
+Results chain
+
+The PD provided detailed explanations of the context, rationale and expected results for each PA, but
+neither the PD nor the ICR provided an explicit results chain linking each action or set of actions to the
+intended results and expected outcomes.
+
+Although the PD’s discussion of inclusivity of women focused almost exclusively on the civil service, no RIs
+measured women’s participation in the civil service, and RIs were gender-disaggregated only with respect
+to taxation (VAT registrants and TCCs issued), for which there were no gender-related actions.
+
+Risk identification and mitigation
+
+Although the PD (para. 2) recognized that the United States' announced intention to withdraw troops by
+September 2021 presented “substantial risks of further Taliban advances,” it considered the security and
+political risks mainly under the rubric of “macroeconomic risks, [which] include: i) major political instability
+and violence following any withdrawal of international security support; ii) rapid declines in security or
+civilian aid, which would undermine fiscal sustainability and investor confidence; iii) major policy changes
+
+                                                                                                        Page 15 of 19
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      2021 IP-DPG (P176137)
+
+
+
+following the formation of any new government….” Lacking any instruments to mitigate the growing
+security and political risks, the operation attempted to focus on measures to help “Afghanistan maintain
+reform progress, manage mounting fiscal challenges, and support economic recovery” (PD, para. 4).
+
+The ICR (para. 37) noted that the “potential for serious deterioration and major negative impacts on
+program results was clearly flagged at the stage of Board approval.”
+
+The PD (para. 24) explicitly recognized the high risk of debt stress, aggravated by the risks of “aid
+shortfalls, the fragile security situation, political uncertainty, domestic revenue shortfalls, and exchange rate
+depreciation.” To help mitigate the risk of aid withdrawal, the operation included actions for increased
+transparency through the “publication of fiscal data, including on COVID-19 response expenditures….[and]
+publication of information on contingent liabilities and fiscal risks arising from SOEs and PPPs” (PD, para.
+24).
+
+In the context of fiscal risks posed by severely deteriorating revenues and grants (PD, para. 19), the
+program was alter to focus on fiscal consolidation.
+
+Stakeholder consultation and coordination with Development Partners
+
+Although the PD (para. 29) touted the benefits of consultation, it did not indicate whether consultations
+were undertaken specifically for this operation, stating only that “reforms supported by the operation are
+aligned with the ANPDF, which was developed through extensive consultations with civil society and the
+private sector” (PD, para. 83).
+
+It did state that “this operation has been developed in close collaboration with development partners,
+particularly through the ARTF donor group,” and that “discussions have been held with the IMF and all
+ARTF development partners, including multilaterals such as European Union (EU) and Asian Development
+Bank (ADB) as well as bilateral partners participating in the ARTF” (PD, para. 84).
+
+
+
+Rating
+
+Moderately Satisfactory
+
+b. Bank Performance – Implementation
+
+Rationale
+
+Monitoring
+
+Monitoring was undertaken in collaboration with the ARTF donor group. None of “the ten tranche release
+conditions were… met before August 15, 2021, and the entire operation was paused immediately after Taliban
+takeover and was later suspended” (ICR, para. 14).
+
+Adaptation
+
+
+
+                                                                                                       Page 16 of 19
+      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+      2021 IP-DPG (P176137)
+
+
+
+Following the Taliban takeover, “the World Bank’s Board of Executive Directors supported… an immediate
+Transfer Out of $280 million of uncommitted ARTF funds to World Food Programme (WFP) and United Nations
+Children’s Fund (UNICEF) for humanitarian gap financing, following a decision by ARTF donors” (ICR, para.
+41).
+
+
+
+Rating
+
+Satisfactory
+
+c. Overall Bank Performance
+
+Rationale
+
+The operation was designed and implemented under difficult conditions of rising insecurity and political,
+economic and fiscal uncertainty, posing challenges beyond the scope of the operation. Design is rated as
+Moderately Satisfactory and Implementation as Satisfactory (albeit limited to suspending the operation and
+seeking to shift to humanitarian funding; hence the overall rating is weighted toward MS).
+
+
+Overall Bank Performance Rating
+
+Moderately Satisfactory
+
+9. Other Impacts
+
+a. Social and Poverty
+
+The negative effects of Taliban policies have overwhelmed any potential positive effects of the operation.
+
+
+
+b. Environmental
+
+No evidence available.
+
+
+
+c. Gender
+
+The negative effects of Taliban policies have overwhelmed any potential positive effects of the operation.
+
+
+
+d. Other
+
+                                                                                                   Page 17 of 19
+       Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+       2021 IP-DPG (P176137)
+
+
+
+
+N.a.
+
+
+
+
+10. Quality of ICR
+
+Rationale
+
+The ICR provided an adequate account of consequences of the Taliban takeover for the operation and World
+Bank support. It did not discuss how the World Bank might better have dealt with the recognized risk of rising
+insecurity with the planned exit of the United States, stating only that “the severity of this crisis could not have
+been anticipated” (para. 20).
+
+Although the ICR (para. 15) asserted that “most of the policy actions had a direct causal link to achieving the
+objectives,” it provided no details or results chain. The ICR’s assertion (para. 16) that the PAs under the second
+Pillar “focused on the recovery from COVID-19 economic shock” does not appear warranted by the actual
+content of the PAs concerned (tax reforms to address revenue shortfalls under COVID-19 came under the first
+Pillar).
+
+No data were available for analysis of impact, and the ICR appropriately concluded that none of the targets
+were achieved.
+
+
+
+a. Rating
+
+Modest
+
+11. Ratings
+                                                                                    Reason for
+ Ratings                          ICR                     IEG
+                                                                                    Disagreement/Comments
+                                  Highly
+ Outcome                                                 Highly Unsatisfactory
+                                  Unsatisfactory
+                                  Moderately
+ Bank Performance                                        Moderately Satisfactory
+                                  Satisfactory
+ Relevance of Results
+                                  ---                    Moderately Satisfactory
+ Indicators
+ Quality of ICR                   ---                    Modest
+
+
+12. Lessons
+
+Severe security and political risks in an FCV context require scenario planning and adaptation as well
+as recognition. Designing a series of standalone operations, rather than a unified programmatic series, was a
+suitable approach to limiting the time frame for implementation of actions and maximizing adaptation in each
+
+                                                                                                        Page 18 of 19
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     2021 IP-DPG (P176137)
+
+
+
+successive operation. Given the risk of collapse following the imminent United States withdrawal, the PD “was
+frank that these risks could only be ‘somewhat’ mitigated through design decisions” (ICR, para. 37). Scenario
+planning is important to set out options in such FCV situations. The ICR (para. 35) observed that it might have
+been prudent to forego major reforms such as introduction of a VAT that “would only materialize in the medium
+term.”
+
+
+13. Project Performance Assessment Report (PPAR) Recommended?
+
+No
+
+
+
+
+                                                                                                  Page 19 of 19
+

@@ -1,0 +1,784 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     MX Reducing Inequality of Educat Opp. (P149858)
+
+
+
+                                                                                 Report Number: ICRR0021752
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P149858                                   MX Reducing Inequality of Educat Opp.
+
+ Country                                   Practice Area(Lead)
+ Mexico                                    Education
+
+
+ L/C/TF Number(s)                          Closing Date (Original)                Total Project Cost (USD)
+ IBRD-84480                                31-Dec-2018                                         120,000,000.00
+
+ Bank Approval Date                        Closing Date (Actual)
+ 24-Oct-2014                               31-Dec-2018
+
+                                           IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                          150,000,000.00                                               0.00
+
+ Revised Commitment                           120,000,000.00                                               0.00
+
+ Actual                                       120,000,000.00                                               0.00
+
+
+
+
+ Prepared by                Reviewed by                  ICR Review Coordinator          Group
+ Judyth L. Twigg            Salim J. Habayeb             Joy Behrens                     IEGHC (Unit 2)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to the Loan Agreement (p. 6), the objectives were to: "(a) improve parental competencies in early
+   childhood development in targeted rural communities; and (b) increase the transition rate from the primary to
+   the secondary education level in National Council for Education Development (CONAFE)-administered
+   schools in targeted municipalities." The statements of the ICR and Project Appraisal Document (PAD) were
+   identical.
+
+
+
+                                                                                                  Page 1 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MX Reducing Inequality of Educat Opp. (P149858)
+
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project contained three components:
+
+
+
+   1. Early Childhood Development (ECD) (appraisal: US$ 116 million; actual US$ 96 million). This component
+   was to provide capacity building to parents, relatives, and caregivers of children ages 0 to 3 years and 11
+   months in selected rural communities to improve their competencies in caring for children and contributing
+   to comprehensive child development. Specific project activities were to include ECD support and capacity
+   building to ECD promoters, module supervisors, zone coordinators, and liaison coordinators, and the design
+   of educational modules for this purpose. The interventions -- where beneficiaries meet weekly for two-hour
+   sessions with an ECD facilitator, usually a local volunteer trained on ECD -- were to be targeted to
+   communities served by CONAFE's existing ECD programs, covering rural communities with fewer than 500
+   rural inhabitants and indigenous communities with fewer than 100 indigenous inhabitants. Preference
+   was given to communities with high levels of marginalization and low levels of access to basic social
+   services. Municipalities covered by the National Crusade Against Hunger (CNCH), launched in 2012 to
+   reach 405 of the country's poorest and most marginalized areas, were to be included.
+
+
+
+   2. Mobile Pedagogical Support (API) (appraisal: US$ 31.4 million; actual US$ 23.5 million). This component
+   was to provide mobile pedagogical support for under-performing students, teachers, and parents of
+   students in selected under-performing community schools. APIs, usually recent teacher education
+   graduates, are supervised by Operations and Follow-up Coordinators (COSs). APIs have three main
+   functions: one-on-one tutoring sessions with students; collaboration with Leaders for Community Education
+   on design of strategies to improve classroom education processes for all students; and informing parents
+   about their children's education. Specific project activities were to include API support and capacity building
+   to APIs and their supervisors, and the design of educational modules for this purpose. The interventions
+   were to be targeted to schools with at least 30% of students scoring "Insufficient" on the national student
+   assessment (ENLACE).
+
+
+
+   3. Technical Cooperation, Research, and Innovation (appraisal: US$ 2.25 million; actual US$ 0.2 million).
+   This component was to provide technical assistance to CONAFE to support project management;
+   evaluation of the Child Development Evaluation Card, a tool that aims to identify children at developmental
+   risk; design of a curriculum for parental practices; design, development, and implementation of an
+   information system on financial, administrative, and operational aspects of the ECD and API programs
+   (SIIINAFE); consultancies for measurement of achievement under the project's first component; and
+
+
+
+
+                                                                                                     Page 2 of 15
+                         Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+                         MX Reducing Inequality of Educat Opp. (P149858)
+
+
+
+                       technical assistance to improve the overall design and implementation of the country's school-based
+                       management program (FORTALECE).
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+                       The project was to be financed by a loan of US$ 150 million from the International Bank for Reconstruction
+                       and Development, with a front-end fee of US$ 0.375 million. US$ 30 million were cancelled in January 2018
+                       because of changes in the peso-dollar exchange rate (an increase of 44% between preparation and
+                       January 2018). Actual total disbursement and project costs amounted to US$ 120 million. No Borrower
+                       contribution was planned or made.
+
+
+
+                       The project was approved on October 24, 2014; became effective on December 11, 2015; underwent a mid-
+                       term review in September 2017; and closed as planned on December 31, 2018. It was restructured three
+                       times: (1) on January 10, 2018, to cancel US$ 30 million of the original loan amount at the government's
+                       request; (2) on August 21, 2018, to update the measurement instruments for the first objective and to
+                       remove support for FORTALECE from the third component in order to prioritize the project's core activities;
+                       and (3) on October 24, 2018, to reallocate funds between disbursement categories.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+At appraisal, although Mexico had made significant advances in coverage of education from the preschool
+through upper secondary levels, education attainment and quality lagged behind other countries in the
+region. Importantly, there was high inequality in attainment and learning outcomes between rural and urban
+areas, and between indigenous and non-indigenous students. Attraction and retention of qualified teachers
+in remote areas was a consistent challenge. The capacity of families and community members to support
+their children's education was limited by their own low educational attainment. There was limited availability
+of educational materials in indigenous languages and of teachers who spoke those languages.
+
+
+
+The Bank's previous ECD project, closing as this project was being prepared, sought to improve access to
+ECD services by providing APIs to the lowest performing students. This project built on that context by
+seeking to maintain levels of access while improving the quality of ECD and APIs through informed
+redesign of implementation models. Its objectives were aligned with the Country Partnership Strategy at
+appraisal and closing (FY 2014-2019) and its pillar on increasing social prosperity (which specifically cited
+improving the reach of ECD services in the most marginalized municipalities), as well as the achievement of
+two objectives in the country's National Development Plan 2013-2018 (on "Inclusive Mexico" and "Mexico
+with Quality Education").
+
+
+Rating Relevance TBL
+
+
+
+
+                                                                                                                     Page 3 of 15
+                      Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+                      MX Reducing Inequality of Educat Opp. (P149858)
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                OBJECTIVE 1
+                Objective
+                Improve parental competencies in early childhood development in targeted rural communities
+
+                Rationale
+                The project's theory of change held that training and capacity development for ECD facilitators, as well as
+                facilitation of community-based support sessions for families, would in turn lead to increased skills and
+                investment in child development among families and caregivers. As noted above in Section 3, targeting
+                involved communities of high and very high levels of marginalization, with a special focus on indigenous and
+                ethnic minorities (PAD, p. 4).
+
+
+
+                Outputs
+
+
+
+                A new model for capacity building related to parenting practices was designed, piloted, and rolled out
+                nationally beginning in 2016, including the development of six new modules for the SIIINAFE (2016-2018),
+                improved planning and training linked to the improved M&E (2016-2018), increased and strengthened
+                supervision (2017-2018), and a redesigned curriculum that engages actively with parents as well as with
+                children (2018). Many of these changes were informed by the results of an International Initiative for Impact
+                Evaluation-funded impact evaluation conducted from 2012-2014, as well as recommendations from a
+                consultancy firm hired by CONAFE to help design the new curriculum.
+
+
+
+                The number of ECD service points managed by CONAFE increased from 17,833 in 2014 to 19,764 in
+                2018. At closing, the target was set as identical to baseline. The original target, 28,787, included both
+                CONAFE and state-managed services, but budget reductions at the state level led to reductions in those
+                services. Those services were removed from the indicator and target at the August 2018 restructuring.
+
+
+
+                All ECD facilitators attended at least two capacity building sessions. The level of knowledge among ECD
+                promoters about early childhood practices increased from a 66.5% score on the Knowledge of Infant
+                Development Inventory (KIDI) in 2016 to 76.56% in 2018, exceeding the target of 70%. The percentage of
+
+
+
+                                                                                                                  Page 4 of 15
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   MX Reducing Inequality of Educat Opp. (P149858)
+
+
+
+promoters who attended at least two capacity building sessions in the previous operational cycle increased
+from 98.7% in 2014 to 100% in 2018, meeting the target.
+
+
+
+The level of knowledge among State and Regional Academic ECD Coordinators, who were financed by the
+project beginning in mid-2017, improved from a 77% score on the KIDI in 2017 to 84% in 2018, exceeding the
+target of 80%.
+
+
+
+The number of mothers and fathers educated on the ECD model at the national level increased from 274,168
+in 2014 to 275,126 in 2018. At closing, the target was set as identical to baseline. The original target of
+445,766 included parents educated by services at the state level that were affected by budget reductions.
+Those services were removed from the indicator and target at the August 2018 restructuring.
+
+
+
+Outcomes
+
+
+
+The KIDI score of parenting practices among caregivers of children ages 0-4 improved from 54%
+in December 2017 to 59% in December 2018, surpassing the target of 56%. The December 2017 baseline
+was drawn from a representative sample in four states, and the final data collection was carried out in those
+same four states in December 2018. Results were measured only for the last year of the project; given the
+limited time frame of observation, this result represents relatively weak evidence of improvement in parental
+competencies (i.e., achievement of the desired outcome).
+
+
+
+The ICR (p. 10) explained that measurement delays were caused by "restrictions in the [government's]
+federal budget"; the project team later explained that these budget cuts reduced funding for the external
+consultant who was to have measured baselines. The ICR also indicated that there were serious
+shortcomings with the structure of the cascade training model that had implications for knowledge and skills
+transmission to community-level trainers (see Section 5); the project team later explained that, following a
+Strengths, Weaknesses, Opportunities, and Threats (SWOT) analysis in 2018, the project attempted to
+reduce the risk of message dilution by introducing two new types of trainers.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 2
+Objective
+
+
+                                                                                                 Page 5 of 15
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   MX Reducing Inequality of Educat Opp. (P149858)
+
+
+
+Increase the transition rate from the primary to the secondary education level in CONAFE-administered
+schools in targeted municipalities
+
+Rationale
+The project's theory of change held that provision of mobile pedagogical support for parents, students, and
+teachers in under-performing community schools, as well as provision of training and capacity development
+for providers of that support, would in turn lead to improved educational achievement for students.
+
+
+
+Outputs
+
+
+
+5,407 APIs and 220 COSs were supported and trained in school years 2015-2016, 2016-2017, and 2017-
+2018.
+
+
+
+The percentage of primary education community schools in select CNCH municipalities supported by an API
+increased from 34.26% in 2014 to 40.4% in 2018, meeting neither the original target of 50% nor the revised
+target of 42%. The ICR explained that the remoteness and resource constraints of CNCH municipalities
+limited the placement of APIs.
+
+
+
+The percentage of APIs in select CNCH municipalities who attended at least two capacity building sessions in
+the previous 11 months increased from 32% in 2014 to 100% in 2018, exceeding the target of 90%.
+
+
+
+The percentage of parents who participated in activities organized by the APIs and Leaders for Community
+Education at the end of the school year in community schools in selected CNCH municipalities increased
+from 52% in 2014 to 79.17% in 2018, exceeding the target of 62%.
+
+
+
+The amount of time spent by the APIs in one-on-one remedial sessions with underperforming children during
+the last visit to school type A (schools serving the most disadvantaged children) increased from 1 hour, 40
+minutes in 2014 to 4 hours, 3 minutes in 2018, exceeding the target of 3 hours, 20 minutes.
+
+
+
+In 2015, Mexico's Secretariat of Public Education awarded the API intervention first place in the category of
+Improvements in School Management. In 2017, the National Evaluation Council recognized the API strategy
+as one of three best practices nationally in the use of monitoring and evaluation data for public policy.
+
+
+
+
+                                                                                                Page 6 of 15
+                               Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                               MX Reducing Inequality of Educat Opp. (P149858)
+
+
+
+                            A new model of API training was rolled out in the spring of 2017, increasing the initial training from one week
+                            to two weeks, providing four additional training sessions during the school year, assigning APIs based on
+                            indigenous languages spoken, and enhancing COS support. This model was scaled up nationally starting in
+                            the 2017-2018 school year, too late to have an impact on the outcome data available for the project.
+
+
+
+                            Outcomes
+
+
+
+                            The transition rate from primary to secondary education for graduates of CONAFE-administered schools in
+                            selected CNCH municipalities increased from 60.3% for school year 2011-2012 to 70% for 2016-2017,
+                            meeting the target of 70%. (The ICR did not provide baseline data specific to the project's time frame; the
+                            project team later explained that the 2011-2012 baseline was used because of the long time it took to get
+                            information on this indicator from the government, and that the impact evaluation later confirmed a 2014
+                            baseline of 59.6%.) Achievement had been as high as 79% in 2015-2016, but the September 2017
+                            earthquake, which affected the two states, Chiapas and Oaxaca, with the highest coverage of APIs, most
+                            likely accounted for the reversal (according to the ICR, p. 15).
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            Achievement of the early childhood development objective is rated modest. The ICR called into question the
+                            effective implementation of the cascade model of training. The project reached its outcome target for
+                            improved parenting practices, but the baseline and outcome target were set only the project's last year.
+                            Achievement of the objective to improve the primary-to-secondary transition rate based on enhancements in
+                            mobile pedagogical support is rated substantial. Transition rates met targets despite the impact of an
+                            earthquake midway through the project period.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+    5. Efficiency
+   The PAD (p. 13) cited evidence from other Latin America and Caribbean countries that high-quality ECD
+   programs are cost effective, and that API-type interventions can lead to substantial effects on learning outcomes
+
+                                                                                                                              Page 7 of 15
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      MX Reducing Inequality of Educat Opp. (P149858)
+
+
+
+when targeted at the most disadvantaged students. Economic and financial analysis at appraisal (PAD, p. 13)
+estimated that the average project beneficiary would have an additional 0.22 years of schooling by 2035,
+producing an average wage increase of MX$ 235/year (based on a return to an additional year of schooling in
+rural areas of 5.5%). This produced an estimated rate of return for the project of 6.4%, seen as acceptable given
+the large share of project benefits that were to come as social benefits (PAD, p. 13).
+
+
+
+The ICR (Annex 4) conducted a benefit-cost analysis for both the ECD and API interventions. It cited a 2017
+study by the Brookings Institution as the basis for a US$185/child annual cost of the ECD component,
+significantly less than analogous interventions targeted to children in Mexico; excluding overhead costs that are
+not included in the comparator programs, the ECD cost is even lower at about US$130/child. Children targeted
+by the ECD intervention were assumed to experience a US$217.51 increase in annual income, based on data
+from home surveys conducted in 2018 and 2019 as well as the findings of peer-reviewed studies on the impact
+of improvements in parenting behaviors on children's earnings. The benefit-cost analyses assumed that every
+child would begin to work at age 23 and retire at 62, with a reference income equal to the median yearly income
+in the country and assuming no change for inflation or economic growth (and therefore representing a lower-
+bound estimate). The benefit-cost ratio of the ECD program was found to be 5.12, using a discount rate of 5%.
+The average annual cost of the API intervention was calculated at US$214.30/child, lower than the cost of a
+regular basic education teacher in Mexico. The API was calculated to produce an average per-child increase of
+US$383.37 in income. The benefit-cost ratio of the API was found to be 9.19, using a discount rate of 5%.
+
+
+
+The project invested significantly in piloting, evaluations, and analyses during implementation to improve training
+practices and structures for ECD and APIs (ICR, p. 21), shifting investments toward models and practices found
+to be more effective. The September 2017 earthquake damaged CONAFE headquarters. Hardware and
+physical documents were lost, and SIIINAFE was temporarily taken off-line. As a result, all institutional activities
+at CONAFE were suspended from October 2017 through June 2018, when CONAFE central offices were
+relocated to the facilities of the Secretariat of Public Education. Despite this disruption, central and state
+CONAFE teams worked locally to mitigate damage and minimize periods of program interruption.
+
+
+
+Apart from earthquake-related disruptions, there were significant implementation inefficiencies. Central CONAFE
+teams experienced high rates of personnel turnover, including five changes in the director position. The ICR (p.
+27) cited challenges with the cascade training approach, where the complexity of the operative structure --
+trickling down of information from the national level to the communities -- meant that information and skills were
+lost and messages were skewed as one level trained the next. According to the ICR, this shortcoming in
+program design represented a failure to learn lessons from earlier interventions, possibly attributable to high
+turnover in CONAFE's ECD subdirectorate. In addition, CONAFE was unable to hire local informatics personnel
+to work on the information system planned under the project, requiring the Bank to hire two
+consultants. Budgetary restrictions on consultancy services produced delays in implementation of the ECD
+component.
+
+Despite the results achieved (covered in the Efficacy section), as well as the notable teamwork inherent in
+recovery from the September 2017 earthquake, the implementation inefficiencies noted are considered to be
+
+
+
+                                                                                                      Page 8 of 15
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      MX Reducing Inequality of Educat Opp. (P149858)
+
+
+
+important enough that overall efficiency does not quite meet the level expected given the sector and context,
+consistent with an Efficiency rating of Modest.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?              Point value (%)           *Coverage/Scope (%)
+                                                                                       0
+ Appraisal                                                    0
+                                                                                        Not Applicable
+                                                                                       0
+ ICR Estimate                                                 0
+                                                                                        Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project's objectives were highly relevant to country context and to Bank and government strategy.
+Achievement of the early childhood development objective is rated modest. The ICR called into question the
+effective implementation of the cascade model of training. The project reached its outcome target for improved
+parenting practices, but the baseline and outcome target were set only the project's last year. Achievement of
+the objective to improve the primary-to-secondary transition rate based on enhancements in mobile pedagogical
+support is rated substantial. Transition rates met targets despite the impact of an earthquake midway through
+the project period. Efficiency is rated modest due to significant implementation inefficiencies. These ratings are
+indicative of moderate overall shortcomings, leading to an Outcome rating of Moderately Satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+The project achieved important institutional capacity building, most notably the development of SIIINAFE,
+that is likely to be sustained. The ICR (p. 27) cited the primary risk as the possibility that the new presidential
+administration (2018-2024) would decide no longer to support ECD and API activities. Discontinuation of that
+support would have broken four decades of precedent, but the ICR nonetheless gauged that risk as
+moderate. However, the project team later explained that, since project closure, the risk to achieved
+outcomes has diminished considerably. In May 2019, the government made early childhood education
+compulsory for 0- to 3-year-olds, and priority has been placed on services for the disadvantaged. According
+
+
+                                                                                                        Page 9 of 15
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      MX Reducing Inequality of Educat Opp. (P149858)
+
+
+
+to the project team, rigorous evidence from the project's impact evaluation has propelled interest in scaling
+up the project's ECD interventions to regular schools.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The project contained well-defined objectives and a logical, plausible results chain. Capacity
+  development for project management and M&E was built into the project's third component. Project
+  interventions were well targeted at the most marginalized municipalities and community schools. Lessons
+  learned from prior experience, as well as from a 2011 survey of APIs in 40 communities and a Strategic
+  Impact Evaluation Fund-financed evaluation of prior API interventions, included the need to hold joint
+  ECD sessions for fathers and mothers, as well as visits of APIs to parents, at times that do not conflict
+  with fathers' work schedules; the importance of prioritizing social and problem-solving skills as well as
+  motor skills in the curriculum; the need for instructors to rotate lead activities so that all parts of the
+  curriculum are equally emphasized; and the need to introduce opportunities for peer learning among
+  instructors (PAD, pp. 9-10; ICR, pp. 25-26). Overall risk assessment was thorough, with moderate risks
+  identified related to the capacity of CONAFE state-level delegations (including in financial management)
+  and to shortcomings with CONAFE's information systems, and a substantial risk of overlapping activities
+  with other government programs providing ECD services. Mitigation measures included central
+  supervision, support, and capacity building, and efforts by the Bank team to coordinate dialogue among
+  government entities involved in ECD.
+
+
+
+  However, there were moderate shortcomings. As noted above in Section 5, appropriate lessons about
+  challenges with the cascade training approach were not adequately taken into account. In addition, the
+  planned home observation measurement methods were costly (ICR, pp. 10, 22); their inclusion, despite
+  expressed government concern about the cost, was due to overambition during project preparation (ICR,
+  p. 22).
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ Turnover was relatively low in the project team, which carried out regular supervision missions and
+ collaborated closely with the government when issues arose during implementation. For example, the 2018
+ restructuring was carried out in two parts to meet the government's request that the partial cancellation of
+ the loan be completed before annual fees were due. Several important qualitative, process, and impact
+ evaluations were conducted to inform mid-course adjustments. Additional personnel were hired for
+ SIIINAFE when resources were no longer available through CONAFE. Focused attention was paid to the
+
+
+                                                                                                    Page 10 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     MX Reducing Inequality of Educat Opp. (P149858)
+
+
+
+ needs of indigenous peoples, including development of materials in indigenous languages and hiring of
+ APIs who spoke those languages, throughout the project's lifetime.
+
+
+
+ The ICR stated that the supervision team intentionally delayed project restructuring and adjustments to the
+ results framework in order to prioritize adequate measurement of key outcome indicators, despite federal
+ budgetary constraints; however, these delays meant that there were not adequate provisions in place to
+ measure progress on one of the project's two objectives over most of the project's lifetime (see Section 9b).
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ CONAFE was to compile and calculate project indicator data on an annual basis from three main sources:
+ its own information (for student retention and absentee rates), "Estadísticas 911" produced by the
+ Secretariat of Public Education (for primary and secondary grade failure rates and preschool and
+ secondary school enrollment numbers), and data from a new standardized test that was to replace the
+ ENLACE beginning in the 2014-2015 school year. It was acknowledged at appraisal that the CONAFE
+ information system was in need of modernization and standardization, with data collected in different and
+ sometimes outdated formats at the state level. As part of project preparation, a consultant was to be hired
+ to conduct a diagnostic of existing issues and provide advice on possible solutions.
+
+
+
+ According to the PAD (p. 27), due to the high application costs of the ECD monitoring instrument, impact
+ was to be measured in only six states. Four of those six states had more than 50% of their populations
+ classified as poor, and therefore the estimated impact was likely to represent a lower bound of the ECD
+ intervention on parental practices, as better-off states were expected to benefit more from the program due
+ to better initial conditions. Similarly, the impact of the API intervention was to be measured only in those
+ municipalities of the CNCH where APIs operate (224 of 405 CNCH municipalities). As CNCH municipalities
+ were the ones displaying the worst initial conditions (in terms of teacher quality, parental participation, and
+ vulnerability), the estimated impact was again likely to be a lower bound estimate of the intervention's
+ impact (PAD, p. 31).
+
+
+
+ Indicators and targets were clearly defined and would have been effective measures of the project's
+ activities and objectives had data been collected at appropriate times. The ICR (page 22) stated that
+
+
+                                                                                                    Page 11 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     MX Reducing Inequality of Educat Opp. (P149858)
+
+
+
+ targets for program coverage, which in some cases sought just to maintain baselines, were "realistic" and
+ "prudent" given the project's context, but it did not explain that claim.
+
+
+
+b. M&E Implementation
+  In general, M&E data were collected regularly through the planned channels. There were delays in
+  baseline data collection on facilitator knowledge of ECD practices; the ICR indicated that these delays
+  were due to turnover in the CONAFE directorship, as well as lack of CONAFE capacity to define the
+  sample, "suggesting that [the project] could have included more institutional capacity building activities for
+  M&E" (ICR, p. 23). The ICR also cited challenges related to the 2017 earthquake, and to federal
+  budgetary constraints that impeded the hiring of a data collection firm. There were also delays in
+  identifying a suitable instrument for measuring the ECD objective, resulting in data to measure progress
+  over only a one-year period. The ICR (p. 24) suggested that the government and the Bank responded to
+  these challenges in a timely manner, committing additional resources, introducing modifications to project
+  management, and continuously updating SIIINAFE, but it is reasonable to expect that the Bank "could
+  have followed up more closely with the implementing teams as soon as it became apparent that the
+  indicator would not be measured on time using the original instrument" (ICR, p. 27).
+
+
+
+c. M&E Utilization
+  An impact evaluation of improvements to the API program informed CONAFE's decision to scale up the
+  pilot nationally in 2016-2017. The project made effective use of the KIDI, with results processed through
+  the SIIINAFE to provide timely information on APIs and academic coordinators who did not meet
+  minimum requirements. Those who did not score the minimum were provided with additional training;
+  following that training, those who still did not reach minimal KIDI scores were dismissed.
+
+
+
+  Overall, in spite of initial shortcomings, M&E arrangements, implementation, and findings were sufficient
+  to assess the overall achievement of objectives.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project was rated Environmental Assessment category C. It triggered OP/BP 4.10, Indigenous
+   Peoples, given that indigenous peoples are among the most underserved and poorest populations in the
+   country and therefore were de facto targeted by the project. CNCH municipalities covered by the project
+   comprised 53% of the total indigenous population of Mexico. An Indigenous People's Plan (IPP) was
+   developed based on the experience of prior operations, discussing the targeting of investments, actions for
+   improving the effectiveness of interventions in indigenous areas, and the associated budget for IPP
+
+                                                                                                     Page 12 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MX Reducing Inequality of Educat Opp. (P149858)
+
+
+
+   implementation. The ICR (pp. 24-25, 26-27) described numerous activities that were implemented under the
+   IPP, and the project team later confirmed that there was full compliance with the Bank's safeguard policies.
+
+
+
+
+b. Fiduciary Compliance
+   Financial management performance was rated Moderately Satisfactory throughout most of project
+   implementation. Interim unaudited financial reports were generally submitted on time, with only minor
+   occasional delays. The audit report covering the last quarter of calendar year 2015 included a qualified
+   opinion that revealed internal control weaknesses. The Bank team provided CONAFE with support for
+   strengthening institutional information systems to record and control information on payments made to
+   eligible beneficiaries. According to the ICR (p. 25), from that point forward, audit reports included
+   unmodified opinions. The ICR (p. 25) also stated that the main shortcomings in financial management
+   related to budget planning and execution processes, and to insufficient budget allocations for several
+   significant categories of planned activities. Through the second half of project implementation, CONAFE
+   experienced overall budget reductions and cuts to consultancy services.
+
+
+
+   The ICR (p. 25) stated that procurement was conducted in compliance with Bank procedures and the
+   project's operational manual.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   None reported.
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                 Reason for
+Ratings                        ICR                     IEG
+                                                                                 Disagreements/Comment
+                               Moderately
+Outcome                                                Moderately Satisfactory
+                               Satisfactory
+                               Moderately
+Bank Performance                                       Moderately Satisfactory
+                               Satisfactory
+Quality of M&E                 Substantial             Substantial
+
+Quality of ICR                 ---                     Substantial
+
+
+12. Lessons
+
+                                                                                                  Page 13 of 15
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       MX Reducing Inequality of Educat Opp. (P149858)
+
+
+
+
+The ICR (pp. 27-28) suggested several useful lessons, two of which are adapted here:
+
+
+
+The negative impact of high personnel turnover can be minimized through proactive
+measures. In this case, turnover of ECD personnel negatively impacted implementation and
+measurement of results; by contrast, SIIINAFE maintained information and application materials for
+qualified candidates for positions, allowing for quick response when staff departed.
+
+
+
+The inclusion of fluency in indigenous languages as a criterion for hiring project
+implementers increases the likelihood that measures targeted to indigenous communities
+will translate into meaningful outcomes. In this case, the project shifted from listing language
+skills as an "added benefit" to a requirement for selection and assignment of APIs, increasing the
+achieved outcomes of the API intervention.
+
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR was clear, concise, and evidence-based. Evidence was credibly sourced. Supporting data -- including
+a thorough explanation of the project's theory of change -- were efficiently presented in appendices. The
+ICR followed established guidelines. The various parts of the ICR were internally consistent, with appropriate
+cross-referencing of sections to ensure clarity on most aspects of the project's storyline. The lessons offered
+were project-specific and should be useful to analogous projects in Mexico and other countries. However, the
+ICR's explanations of some key aspects of the project, including the late second restructuring and the setting of
+targets equal to baseline for some indicators, were unclear.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                     Page 14 of 15
+Independent Evaluation Group (IEG)                Implementation Completion Report (ICR) Review
+MX Reducing Inequality of Educat Opp. (P149858)
+
+
+
+
+                                                                               Page 15 of 15
+

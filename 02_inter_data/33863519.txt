@@ -1,0 +1,1058 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     VAT Improvement Program (VIP) (P129770)
+
+
+
+                                                                                Report Number : ICRR0022866
+
+1. Project Data
+
+
+
+ Project ID                                Program Name
+ P129770                                   VAT Improvement Program (VIP)
+
+ Country                                   Practice Area(Lead)
+ Bangladesh                                Governance
+
+
+ L/C/TF Number(s)                         Closing Date (Original)              Total Program Cost (USD)
+ IDA-54260                                30-Jun-2020                                          40,015,185.31
+
+ Bank Approval Date                       Closing Date (Actual)
+ 09-May-2014                              30-Jun-2021
+
+                                          IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                           60,000,000.00                                              0.00
+
+ Revised Commitment                            45,839,931.41                                              0.00
+
+ Actual                                        40,015,185.31                                              0.00
+
+
+
+
+ Prepared by                Reviewed by                 ICR Review Coordinator          Group
+ Shahrzad Mobasher          Paul Holden                 Jennifer L. Keller              IEGEC (Unit 1)
+ Fard
+
+
+
+
+2. Program Context and Development Objectives
+
+DEVOBJ_TBL
+a. Objectives
+   The program development objectives (PDOs) of the Bangladesh Revenue Mobilization Program for Results:
+   VAT Improvement Program (VIP) were to support the Government of Bangladesh in improving revenue
+   mobilization and transparency in the value-added tax (VAT) administration. For the purposes of the ICRR, the
+   unpacked PDOs are: (i) improve revenue mobilization; and (ii) improve transparency in the VAT
+   administration.
+
+
+
+                                                                                                 Page 1 of 19
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     VAT Improvement Program (VIP) (P129770)
+
+
+
+   The high-level outcomes or key results of the program are: (i) PDO Indicator 1: Increased VAT revenues; and
+   (ii) PDO Indicator 2: Greater transparency of the tax administration. PDO Indicator 1 was changed from “VAT
+   revenue collected as a percentage of GDP” to “Increase in VAT revenues (Number in thousands of local
+   currency)”. The ICR document indicates that the former posed challenges due to the delay in the publication
+   of national accounts data. PDO Indicator 2 was also changed from "Compliance with the availability of
+   information listed in the RTI rules and regulation" to "Greater transparency of the tax administration". PDO
+   Indicator 2 was modified because of the passing of the Right to Information (RTI) Act which made
+   transparency in tax administration more measurable (i.e., measured through indicators such as the website
+   providing information on e-services, regulations, forms, frequently asked questions, and enabling structures,
+   systems, processes, and designated RTI officials). (Table 1)
+
+   Table 1: Modifications to the PDO-Level Results Indicators
+
+                  Original PDO Results Indicators                               Revised PDO Indicators
+                                                                      Increase in VAT revenues
+   PDO Indicator 1: VAT revenue collected as a percentage of
+   GDP
+                                                                    (number in thousands of local currency)
+   PDO Indicator 2: Compliance with the availability of information Greater transparency of the tax
+   listed in the RTI rules and regulation                           administration
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The program was comprised of the following four components:
+
+   Component 1: Operational modernization of the VAT Wing within the National Board of Revenue
+
+   This component aimed to achieve a higher level of compliance with the VAT system by the National Bureau
+   of Revenue (NBR). Streamlining and simplifying processes and the establishment of a service system
+   responding efficiently to taxpayer needs was expected to reduce the compliance burden for taxpayers. This
+   component covered core VAT functional areas: (i) registration, return processing, tax payments, taxpayer
+   accounting and tax refunds; (ii) tax audits; (iii) collection and enforcement; (iv) tax appeals; and (v) taxpayer
+   services. The main activities included under this component, included, most notably, the development of
+   procedures for taxpayer registration and e-registration, including for dealing with inactive and non-registered
+   taxpayers, develop new procedures for refund management, develop operational manual of audit and
+   investigation, improve techniques and procedures for recovery of tax arrears, and develop users and
+   procedure manuals and forms for taxpayer services. These activities were expected to increase the ability
+   of the tax administration to detect tax evasion and to collect the full amount of taxes due through the
+   automated system using risk analysis based on all available internal and external data. Introducing new
+   functional business processes in the VAT Wing within the National Board of Revenue (NBR) was also
+
+
+                                                                                                      Page 2 of 19
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    VAT Improvement Program (VIP) (P129770)
+
+
+
+  expected to increase transparency and reduce the discretion of tax officials. This component was also
+  expected to contribute to facilitating the registration process and improving the reliability of information in
+  the tax register. Furthermore, it was expected to promote new electronic systems for registration, filing and
+  tax payments, which were expected to reduce administration and compliance costs. It was also anticipated
+  to improve the capacity of the tax administration to verify tax refund requests aiming at reducing a major risk
+  area for tax fraud. This component was also expected to support VAT arrears management, an important
+  part of any compliance management system.
+
+  Component 2: Introduction of an Integrated VAT management
+
+  Component 2 provided for procurement and implementation of the Integrated VAT Management system
+  based on the COTS software and associated consulting services to support modernized tax administration
+  operations in the NBR. The NBR decided that each of the three tax types (i.e., income tax, VAT and
+  customs) would be developed through a separate application software, rather than an integrated revenue
+  management system for all taxes. On March 4th, 2013, a decision was taken by the NBR to purchase a
+  configurable web-based Commercial off the Shelf (COTS) VAT administration system, instead of developing
+  it in-house. Supporting the long-term agenda of harmonization and avoiding further enhancement of silos,
+  the VAT and Income Tax applications were expected to share a common database platform. The same
+  platform, using the new unique Tax Identification Number (TIN) as the single identifier for all taxpayers,
+  would facilitate integration and harmonization between wings at the database level, enabling “systems to
+  talk to each other.” The system was planned to be based on a centralized platform to which all VAT tax
+  offices as well as Call, Data and Processing Centers would have access. The Invitation for Tender, which
+  was written with strong technical advisory support from the World Bank, IMF and IFC, clearly stipulated the
+  requirement from the potential vendors to use “Oracle.” The COTS IT package, which had already been
+  advertised and evaluated and awaiting approval, was estimated to be below the US$20 million ceiling for IT
+  procurements under the PforR operational policies. Several options were considered in the event that the
+  actual value of the tender exceeded the threshold, such as (a) negotiating with the winning technical bid to
+  remove any non-core requirements for the system; and (b) requesting an exception to the threshold.
+
+  Component 3: Institutional strengthening and capacity building
+
+  This component supported VAT Wing reorganization along functional lines and training to enable staff to
+  utilize the new integrated VAT system and business processes. All NBR VAT Wing staff were expected
+  to be provided with adequate training and support to enable them to undertake their roles given the
+  changes to the law and rules to the NBR VAT Wing organizational structure, as a result of the administrative
+  processes and information technology that were to be put in place as part of the Program.
+
+  Component 4: Program management
+
+  This component consisted of two parts. The first part supported managing the implementation of the
+  program and providing expert advice on program management, IT, procurement, financial management and
+  disbursement. The second part supported change management and a comprehensive taxpayer
+  communication and education program to build internal and external support for the reform.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+
+
+                                                                                                    Page 3 of 19
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     VAT Improvement Program (VIP) (P129770)
+
+
+
+   The program was approved on May 9, 2014, and became effective on January 11, 2015. The program's
+   original closing date was June 30, 2020, which was extended to June 30, 2021.
+
+   The original commitment amount was US$60 million. SDR exchange rate fluctuations reduced the total
+   Program cost to US$52.33 million. The commitment amount was revised down to US$45.8 million due to
+   implementation challenges. The actual disbursement was US$40.0 million.
+
+
+
+
+3. Relevance   TBL
+
+
+
+
+a. Relevance of Objectives    New
+
+
+
+
+  Rationale
+  Weak revenue mobilization was a longstanding problem for Bangladesh. Among other things, this
+  constrained investment in physical infrastructure and human capital, undermining efforts to transition to
+  middle-income status by 2021, a key dimension in the country's development strategy—the Sixth Five Year
+  Plan FY2011-FY2015. Although tax collection had improved from 8.3 percent of GDP over the 2004-2009
+  period to 10.4 percent of GDP in 2012, it was lower than most other South Asian countries.
+
+  The main challenges to revenue mobilization included: (i) an inefficient tax administration due to a “type of
+  tax” organizational structure, poor management, weak human resources and lack of skilled staff, poor
+  support systems, scope for discretionary behavior, and poor physical infrastructure, which lead to weak
+  compliance; (ii) a narrow tax base due to the informal structure of the economy (there were around 3.7
+  million registered income taxpayers, of which only half filed tax returns, and just 50,000 registered
+  businesses that paid VAT (this had risen to 80,000 taxpayers by mid-2016); (iii) a complex and non-
+  transparent tax system; and (iv) corruption and tax evasion enabled in part by the relatively low
+  compensation of tax officials.
+
+  The Tax Modernization Plan (2011- 2016) was developed by the government to address key constraints to
+  revenue mobilization. The Plan was endorsed by Parliament in June 2011 and adopted by the NBR. The
+  Plan recognized the critical need to increase tax revenue to achieve the national development plan’s
+  medium-term tax-to-GDP target of 12.2 percent by FY2016. To this end, it outlined nine strategic areas of tax
+  policy and administration reforms required, namely: (i) tax policy reform; (ii) business process reform; (iii)
+  automation of tax processes; (iv) redefining the status and regulatory power of NBR; (v) restructuring NBR
+  according to function and size; (vi) strategic communication and outreach; (vii) enforcement improvement
+  program; (viii) human resource program; and (ix) infrastructure development program.
+
+  As part of the Tax Modernization Plan, a new VAT law was passed by Parliament in November 2012,
+  designed to address many of shortcomings of the 1991 VAT law, in order to increase the VAT tax yield,
+  broaden the tax base, and contribute towards the establishment of a modern and service-oriented VAT
+  administration. Furthermore, the new law provided a simpler VAT regime, with fewer exemptions. While it
+  was due to come into effect in July 2015, the Government of Bangladesh later decided to pause the
+  implementation of the Act for a period of two years.
+
+
+
+
+                                                                                                     Page 4 of 19
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   VAT Improvement Program (VIP) (P129770)
+
+
+
+The Bangladesh Revenue Mobilization Program for Results: VAT Improvement Program (VIP) 2014-2019
+was intended to support the Government of Bangladesh with the implementation of the new VAT law. The
+new law sought to help modernize tax administration, and combine administrative and policy improvements
+in support of greater revenue mobilization. The adoption of an automated Integrated VAT Administration
+System (IVAS) was expected to raise online tax filings and returns, as well as e-payments, for all taxpayers.
+Enhancing VAT collections was viewed as being important to raising overall taxes, with VAT collections
+equivalent to 3.2 percent of GDP compared to total tax collections (across income, VAT and customs tax
+revenues) of 10.4 of GDP. The low Internet penetration rate in Bangladesh, which was less than 10 percent
+of the total population when the program was approved suggests a limited relevance for this measure to the
+country's context, however. As noted in the ICR, the government continues to rely on the parallel paper-
+based processes.
+
+In addition to enhancing revenue mobilization, the VIP supported greater transparency of the VAT
+administration, with the VAT Wing envisaged to become fully compliant with the Right to Information (RTI)
+Act, 2009. The VIP was expected to support more effective proactive disclosure (as required under the rules
+and regulations of the RTI Act) and additional voluntary disclosure of key performance indicators, including,
+information such as the actual VAT collected, taxpayer satisfaction survey results, the proposed new contact
+(or call) center and processing center performance reports.
+
+The program was closely aligned with the World Bank's Country Assistance Strategy (CAS) 2011-15, the
+CAS Progress Report (Report No. 73983-BD of November 20, 2013, approved January 14, 2014) and the
+government’s development priorities. The CAS progress report recognized that weak governance in
+Bangladesh posed major challenges for sustaining economic growth and social development, and that
+improving governance is a theme that cuts across all activities, including tax collection. The linkage to the
+revised CAS results framework is presented in Table 2 below.
+
+Table 2: Relationship to the CAS Results Framework FY11-15
+
+
+
+                                                                                   VIP Outcomes
+                                                       Revised CAS Results
+Strategic Objective        CAS Outcomes FY11-14
+                                                       Framework FY11-15
+                                                                                   FY13-FY19
+                                                                                   Improved transparency of
+                                                                                   VAT administration, and
+                           4.2 Enhanced
+                                                       Enhanced transparency improved taxpayer services
+Pillar 4. Improved         transparency and
+                                                       and accessibility of public with annual public
+governance                 accessibility of public
+                                                       services                    disclosure of performance
+                           services
+                                                                                   and taxpayer satisfaction
+                                                                                   results.
+
+
+
+The Program supported the CAS governance objective by enhancing transparency and improving taxpayer
+services through the IVAS, which was expected to augment online tax filing and returns as well as e-
+payment. The CAS 2011-15 and the CAS Progress Report also identified revenue generation as a focus
+area for the Bank’s engagement over the medium term. The adoption of a plan to implement the new VAT
+
+
+                                                                                                   Page 5 of 19
+                              Independent Evaluation Group (IEG)                         Implementation Completion Report (ICR) Review
+                              VAT Improvement Program (VIP) (P129770)
+
+
+
+                       and modernize the administration was also supported by the 3-year arrangement under the IMF's Extended
+                       Credit Facility.
+
+                       The ICR concludes that the PDO statement was “relevant at design and throughout Program
+                       implementation”. The Program supports the World Bank's Country Assistance Strategy, (CAS, 2011-2015)
+                       governance objective of “enhanced transparency and accessibility of public services”. And while revenue
+                       mobilization was not an explicit objective of the first CAS, its rising importance led to its inclusion in
+                       subsequent strategies. The GOB needed to revamp the institutional and organizational setup for VAT
+                       administration to improve low revenue collection. It needed to retool infrastructure (hardware and software) to
+                       facilitate an automated return filing and payment system for taxpayers.
+
+                       The ICR Review concurs that the PDOs were consistent with Pillar 4 of the CAS, 2011-2015, on governance
+                       and enhanced transparency and accessibility of public services, as well as the objective of revenue
+                       mobilization presented in the CPF, 2016-2020. However, it was noteworthy that enhancing revenue
+                       mobilization was not an explicit objective in the strategy in place when the project was design and
+                       approved. As such, the relevance of the PDOs are rated as High.
+
+
+       Rating Relevance TBL
+
+
+
+
+                       Rating
+                       Substantial
+
+
+b. Relevance of DLIs                          New
+
+
+
+
+DLI RELEVANCE TBL
+
+
+
+
+                DLI 1
+                DLI
+                VAT Implementation Plan on track.
+
+                The baseline for Disbursement Linked Indicator (DLI) 1 consisted of the Minister of Finance endorsing the VAT
+                Implementation Plan on July 1, 2013. The target consisted of the VAT registration, collection, refund and audit
+                systems setup under the IVAS by June 30, 2020.
+
+
+                Rationale
+                This indicator sought to ensure that the new VAT Law came into effect on July 1, 2015. It is the only process
+                indicator included in this program.
+
+                The targets for this DLI were broken down into six phases reflecting the underlying results chain. The specific
+                annual results for this DLI were aligned with the milestones and benchmarks featured in the IMF-supported
+                arrangement under the ECF. The milestones were also constructed around key procurement activities.
+
+                This DLI remained highly relevant as the implementation of the new VAT Law constituted the first step toward
+                attaining the overarching objective of revenue mobilization. The relevance of this DLI is rated Substantial.
+
+
+
+
+                                                                                                                        Page 6 of 19
+      Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+      VAT Improvement Program (VIP) (P129770)
+
+
+
+
+Rating
+Substantial
+
+DLI 2
+DLI
+Number of active VAT taxpayers.
+
+
+
+Rationale
+This DLI sought to increase the number of registered taxpayers, from a baseline of 80,000 on July 1, 2016, to
+104,000 by June 30, 2020.
+
+This was to be accomplished through the launch of a campaign for VAT field office staff to visit businesses in
+order to register them as taxpayers. The new administrative system would also support the identification of
+stop-filers (i.e., taxpayers who have filed VAT returns in previous fiscal years, but not in the current fiscal
+year) and initiate reminders and proactive visits to keep filers active. The number of stop-filers was also
+monitored under the Results Framework but was not considered as a separate DLI. The relevance of this DLI
+is rated as Substantial given that it supports an increase in the number of registered taxpayers, which would
+help in attaining the overarching objective of revenue mobilization sought by this program. It is, however, not
+clear to what extent the increase in the number of active taxpayers may be attributable to other factors
+beyond the scope of this program.
+
+
+
+Rating
+Substantial
+
+DLI 3
+DLI
+Percentage of taxpayers who filed online
+
+Rationale
+The development of a new electronic access for taxpayers which was supported by the program was
+expected to reduce compliance costs for taxpayers and also ease the processing of taxes at the central
+processing center. This DLI was later dropped. The ICR indicates that “given their similarities, the previous
+DLI 3: Number of taxpayers who filed online and DLI 4: Percentage of VAT Large Taxpayer Unit taxpayers
+who paid online were merged as “DLI 3: Percentage of large taxpayers submitting online returns and tax
+payments.” DLI 3 and 4 are, however, target different groups of taxpayers, and can therefore be seen as
+being complementary. The interview with the ICR task team reflected the idea that DLI 3 was dropped
+because large taxpayers account for 80 percent of VAT collected and that the targeting of online filing and
+payment of VAT among small taxpayers was costly relative to the small share of VAT taxes they accounted
+for. Furthermore, the task team indicated that delays in the publication of national accounts data posed a
+challenge. This is a reasonable adaptation and a more efficient way of mobilizing revenue. The Program
+Document could have, however, included information to the portion of VAT revenues collected from large
+taxpayers versus smaller taxpayers.
+
+
+                                                                                                  Page 7 of 19
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      VAT Improvement Program (VIP) (P129770)
+
+
+
+
+Rating
+Not Rated/Not Applicable
+
+DLI 3 REVISION 1
+Revised DLI
+Percentage of large taxpayers submitting online returns and payments.
+
+Revised Rationale
+The baseline figure for this indicator is 0 percent as of July 1, 2016, to an original target of 90 percent as at
+June 30, 2020, which has been formally revised to 60 percent as of January 14, 2021. The interview with the
+ICR task team revealed that the target for the DLI was downwardly revised due to the more limited progress
+made relative to what was initially expected due to the adverse impact of the pandemic. The ICR document
+notes that “the COVID-19 pandemic led to intermittent countrywide shutdowns since March 26, 2020. The
+shutdown delayed Program implementation and affected the disbursement rate. There was a risk that the
+Program would fail to complete the rollout of the IVAS modules, thus jeopardizing the remaining DLIs and
+threatening the progress made toward the PDO achievement. The NBR team, supported by the World Bank,
+responded by preparing a new implementation plan with forecast expenditures, necessitating a Program
+restructuring in November 2020.” (ICR, p. 12) The submission of online returns and payments is justified by
+the reduced time to process and issue VAT refunds, and increased taxpayer satisfaction.
+
+
+
+Revised Rating
+High
+
+DLI 4
+DLI
+Percentage of large taxpayers who pay on-line.
+
+Rationale
+DLI 4 was replaced by revised DLI 3.
+
+
+
+Rating
+Not Rated/Not Applicable
+
+DLI 5
+DLI
+Greater transparency of the tax administration.
+
+Intermediate Result Indicator 2.2: Greater taxpayer satisfaction with services had a baseline of 0 percent as of
+June 30, 2014. The target was 75 percent as of June 30, 2020. However, simply confirming greater taxpayer
+satisfaction with tax filing processes, without any questions on taxpayers’ views on whether or not there has
+been any improvement in the transparency in the tax administration due to the disclosure requirements under
+
+                                                                                                     Page 8 of 19
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      VAT Improvement Program (VIP) (P129770)
+
+
+
+the Right to Information Act, is not a measure of greater transparency of the tax administration. Furthermore,
+since there was no taxpayer satisfaction survey conducted under the baseline, it is difficult to know how taxpayer
+satisfaction evolved with program implementation.
+
+
+Rationale
+This DLI sought to ensure that data on the performance of the tax administration were publicly available. Data
+which would have been made publicly available included: (i) actual tax collected annually; (ii) annual contact
+center and processing center performance reports, including number of calls handled successfully and
+number of taxpayer accounts managed annually; and (iii) the disclosure of the results from the periodic
+taxpayer satisfaction surveys. The relevance of this DLI is rated as Negligible as Intermediate Result Indicator
+2.2 only measures greater taxpayer satisfaction, which is linked to improved processes rather than to a
+greater transparency in the tax administration. Furthermore, since there was no taxpayer satisfaction survey
+conducted under the baseline, it is difficult to know how taxpayer satisfaction evolved with program
+implementation.
+
+
+
+Rating
+Negligible
+
+DLI 6
+DLI
+Improved fiduciary environment.
+
+Intermediate Result Indicator 2.1: Fiduciary Action had a baseline of at least 50 percent of the Program’s
+competitive bidding contracts (measured in terms of number of contracts rather than value of contracts) granted
+during the first fiscal year has been carried out through electronic government procurement (e-GP); During the
+first fiscal year a fund utilization report had been submitted by the NBR to the Finance Division on a quarterly
+basis; Audit observations considered significant have been resolved in a satisfactory manner within 6 months
+from the reception of the annual reports as of June 30, 2015. The target consisted of 75 percent of National
+Competitive Bidding (NCB) contracts are done through electronic Government Procurement (eGP); All
+significant audit objections resolved in 6 months; Submit quarterly fund utilization report to FD & complete fund
+release processes after each quarter as of June 30, 2020.
+
+Rationale
+This DLI was related to the adoption of several key procurement and financial management processes to
+support the performance in the use of: (i) electronic government procurement (e-GP) for national
+procurements; (ii) timely submission of fund utilization reports quarterly; and (iii) resolution of all significant
+audit objections within 6 months. Although the improvement in the fiduciary environment was important, this
+DLI is not relevant to the achievement of the overarching objective of improved transparency of tax
+administration. As such, the relevance of this DLI is rated as Negligible.
+
+
+
+Rating
+Negligible
+
+
+                                                                                                       Page 9 of 19
+                                  Independent Evaluation Group (IEG)                     Implementation Completion Report (ICR) Review
+                                  VAT Improvement Program (VIP) (P129770)
+
+
+
+
+      OVERALL RELEVANCE DLI TBL
+
+
+
+
+                  OVERALL RELEVANCE RATING
+                  Rationale
+                  The relevance of one DLI is rated High, two DLIs is rated Substantial, and two DLIs is rated Negligible (with
+                  DLI 4 not being rated/not applicable). DLI 5 and DLI 6 were not related to the objective of achieving greater
+                  transparency in tax administration. As such, the overall relevance rating for the DLIs is rated Modest.
+
+
+
+                  Rating
+                  Modest
+
+
+
+   4. Achievement of Objectives (Efficacy)
+EFFICACY_TBL
+
+
+
+
+                       OBJECTIVE 1
+                       Objective
+                       Improve revenue mobilization
+
+                       Rationale
+                       Result Indicator 1 on increased VAT revenues was exceeded. VAT revenues rose from 686.8 billion Taka on
+                       June 30, 2017, to 1.04 trillion Taka in FY21 according to data shared by the ICR task team with the IEG
+                       based on the Ministry of Finance Fiscal Bulletins. (rating of RI1 = High)
+
+                       Intermediate Result Indicator 1.1/DLI 1 ("VAT Implementation Plan on track”) to setup the VAT registration
+                       collection, refunds, and audit systems was partially met, with 13 out of 16 IVAS modules implemented
+                       becoming operational, with the remaining three awaiting policy decisions to "go-live". The Results Framework
+                       in the ICR indicates that “the VIP PIU indicated that some functional requirements needed to be modified or
+                       dropped to comply with the latest amendment of the VAT and Supplementary Duty Act, 2012.” (ICR, p. 24).
+                       The ICR also indicates that “the NBR is yet to make policy decisions on three partially completed modules but
+                       not yet “live” (audit, risk management, and objection and litigation). (ICR, p. 13) The ICR does not elaborate
+                       on why the three IVAS modules failed to comply with the amendment of the VAT and Supplementary Duty
+                       Act, 2012, and how program objectives may have been impacted as a result of this shortcoming.
+                       Furthermore, the ICR indicates that “taxpayers reported difficulties in using a few modules for transactions
+                       such as online filing of tax returns, inability to amend tax submissions online, and the unavailability of e-
+                       payment system. The call centers could not handle technical queries. Overall, there was room for
+                       improvement toward making an optimally user-friendly IVAS.” (ICR, p. 13) At program completion, it was
+                       assessed that more than 100,000 VAT returns were being processed every month. At the time of the ICR,
+                       approximately 287,500 VAT taxpayers were registered and eligible to file their VAT tax returns online.
+                       According to IRI 1.4, the value of VAT e-payments stood at 2.6 billion Taka. This is about 0.3 percent of the
+                       total VAT revenue collected as reported by the ICR task team. Nevertheless, the increase in the number of
+
+
+
+
+                                                                                                                      Page 10 of 19
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   VAT Improvement Program (VIP) (P129770)
+
+
+
+VAT registrations does provide a foundation for larger VAT collections in the future. Intermediate Result
+Indicator 1.1 was supported by DLI 1. (rating of IRI 1.1 = Modest)
+
+Intermediate Result Indicator 1.2/DLI 2 ("Number of active taxpayers") was met, with the baseline rising from
+80,000 taxpayers on July 1, 2016, to 184,710 taxpayers on May 31, 2021, against a target of 104,000
+taxpayers. Intermediate Result Indicator 1.2 was supported by DLI 2. (rating of IRI 1.2 = High)
+
+Intermediate Result Indicator 1.3/revised DLI 3 ("Percentage of large taxpayers submitting online returns and
+VAT payments") was met, with the share rising from 0 on July 1, 2016, to 60.9 percent on April 30, 2021,
+against a target of 60 percent. 67 out of 110 registered Large Taxpayer Units were reported to be submitting
+returns and making payment online on April 30, 2021. Intermediate Result Indicator 1.3 was supported by DLI
+3. (rating of IRI 1.3 = High)
+
+Intermediate Result Indicator 1.4 ("Value of VAT e-payment") was met, with payments rising from 0 on June
+29, 2018 to 2.6 billion Taka on May 31, 2021 (amount collected between December 2020 and May 2021),
+against a target of 1.1 billion Taka. E-payments can be made through 11 commercial banks, with coverage
+expected to increase when more banks are connected to the national payment gateway. (rating of IRI 1.4 =
+High)
+
+Intermediate Result Indicator 1.5 ("Number of VAT stop filers") was met with the number falling from 99,999
+on June 29, 2018 to 0 on June 9, 2021, against a target of 77,777. The ICR indicates that the NBR is in the
+process of finalizing a methodology for IAS to track stop filers systematically. (rating of IRI 1.5 = High)
+
+Intermediate Result Indicator 1.6 ("Average time to process and issue tax refunds") was reduced from a
+baseline of 120 days on June 29, 2018, to 90 days on June 9, 2021, meeting the target of 90 days. (rating of
+IRI 1.6 = High)
+
+Intermediate Result Indicator 1.7 ("Percent of audits per year resulting in additional tax assessments") calling
+for an increase from a baseline of 20 percent on December 23, 2018, to a target of 25 percent was not met.
+The Audit Module that is under development was dropped from disbursement requirement. The percentage of
+audits resulting in additional tax assessments could not be determined because section 19 sub-section 2 of
+the new VAT Act 2012 requires a VAT manual to carry out any VAT audit. (rating of IRI 1.7 = Negligible)
+
+In all, the efficacy of Objective 1 is rated Substantial, with Result Indicator 1 and five out of the seven
+Intermediate Result Indicators having been achieved. The targets were missed only on Intermediate Results
+Indicators 1.1 and 1.7.
+
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+
+
+                                                                                                 Page 11 of 19
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   VAT Improvement Program (VIP) (P129770)
+
+
+
+Improve transparency in the VAT administration. The objective sought to ensure that under the VIP, the
+government is committed to proactive disclosure (as required under the rules and regulations of the RTI Act)
+and additional disclosure of key performance indicators, including actual VAT collected, taxpayer satisfaction
+survey results, the proposed new contact (or call) center and processing center performance reports.
+
+Rationale
+Result Indicator 2 ("The website provides information on e-services, regulations, forms, FQs, & enabling
+structures, systems, processes, and designated Right to Information (RTI) official”) was met, with the level of
+transparency of VAT administration increasing in compliance with the 2009 RTI Act’s disclosure
+requirements. By June 9, 2021, the NBR website featured information on e-services, regulations, forms, FQs,
+enabling structures, systems, processes, and designated Right to Information official. Total VAT tax
+collections were disclosed on the NBR website. Result Indicator 2 was to support DLI 5, with the cumulative
+VAT collection amounts being disclosed on the NBR website, along with the refund amounts. (rating of RI2 =
+Substantial)
+
+Intermediate Result Indicator 2.1 ("Fiduciary Action") consisted of a baseline of three actions: (i) at least 50%
+of the Program’s competitive bidding contracts granted during the First Fiscal Year has been carried out
+through electronic government procurement (e-GP); (ii) during the First Fiscal Year a fund utilization report
+has been submitted by the NBR to the Finance Division on a quarterly basis; and (iii) audit observations
+considered significant have been resolved in a satisfactory manner within 6 months from the reception of the
+annual reports. The target for this Result Indicator consisted of: (i) 75 percent of National Competitive Bidding
+(NCB) contracts are done through electronic Government Procurement (eGP); (ii) submit quarterly fund
+utilization report to FD & complete fund release processes after each quarter; and (iii) all significant audit
+objections resolved in 6 months. Two of three targeted actions were achieved by project completion with 75%
+of NCB contracts being done through E-GP and quarterly fund utilization reports being submitted to FD and
+fund release processes being completed each quarter, while 11 out of 23 outstanding audit observations
+needed to be settled with the Foreign Aided Project Audit Directorate. Intermediate Result Indicator 2.1 was
+supported by DLI 6. Despite these achievements, the efficacy of IRI 2.1 is rated Negligible as the indicator
+does not measure the achievement of Objective 2 on improved transparency in the VAT administration.
+(rating of IRI 2.1 = Negligible)
+
+Intermediate Result Indicator 2.2 ("Greater taxpayer satisfaction with services") was partially met. A survey
+revealed that 72 percent of taxpayers reported to be more satisfied with services, against a target of 75
+percent. According to Taxpayer Satisfaction Survey Report produced in 2017, the following satisfaction index
+was registered: NBR - 90%, VAT online - 92%, Commissionerate - 59% and Divisional VAT office -
+66%. Similarly to Intermediate Result Indicator 2.1, the achievement of Objective 2 related to greater
+transparency cannot be measured through a taxpayer satisfaction survey that is focused on measuring
+satisfaction solely based on administrative processes (through measures, such as, the competence and
+qualifications of the VAT staff, the cooperation of VAT staff, the humility of VAT staff, the honesty of VAT staff
+and the fairness in evaluation). (rating of IRI 2.2 = Negligible)
+
+In all, the achievement of Objective 2 is rated Modest, with Result Indicator 2 rated Substantial and
+Intermediate Result Indicators 2.1 and 2.2 rated Negligible.
+
+
+
+Rating
+
+
+                                                                                                   Page 12 of 19
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     VAT Improvement Program (VIP) (P129770)
+
+
+
+  Modest
+
+
+
+
+ OVERALL EFFICACY
+ Rationale
+ On Objective 1, DLIs 1, 2 and 4 supported the achievement of the overarching objective of increasing tax
+ revenues along the results chains by monitoring measures related to the VAT implementation plan remaining
+ on track, that the number of VAT taxpayers increased, and that the number of large taxpayers filing online
+ returns and payments increased. Result Indicator 1, and Intermediate Result Indicators 1.2 to 1.6 were met,
+ while Intermediate Result Indicator 1.1 was partially met and 1.7 was not met. Intermediate Result Indicator
+ 1.7 was not met as the Audit Module that was under development was dropped from the disbursement
+ requirement as the VAT manual was required to carry out a VAT audit as per Section 19 Sub-section 2 of the
+ new VAT Act 2012.
+
+ Achievement of Objective 2 was not supported by DLIs 5 and 6, nor could the achievement be measured
+ through Intermediate Result Indicators 2.1 and 2.2.
+
+ The ICR identifies a number of additional measures which are required to make further progress in the
+ achievement of the objectives along the results chain. It indicates, specifically, that "compliance measures
+ can be enforced through the implementation of the audit, risk management, and litigation modules and
+ integration with the tax and customs systems. The NBR has taken measures to overcome the existing
+ constraints and shift from the parallel paper-based processes to improve efficiency. However, it would require
+ paying greater attention to change management issues to bring both the administrators and the VAT
+ taxpayers on the same page." (ICR, p. 14)
+
+ Based on the extent of the results attained toward the achievement of the objectives along the results chain,
+ the overall efficacy of the program is judged to be Substantial.
+
+
+
+ Rating                                                   Primary Reason
+ Substantial                                              Low achievement
+
+
+5. Outcome
+
+The PDOs were relevant to the country context, and government strategy and plans, as well as Pillar 3
+(Governance at Center Stage) of the Country Assistance Strategy covering the FY11-14 period, and their
+relevance is rated Substantial. The relevance of DLIs is rated Modest. The overall relevance is rated Moderately
+Unsatisfactory. Given that the achievement of Objective 1 was largely met and is rated Substantial, and the
+achievement of Objective 2 is rated Modest, the rating on the overall outcome for the program is Moderately
+Unsatisfactory.
+
+
+    Outcome Rating
+
+                                                                                                  Page 13 of 19
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     VAT Improvement Program (VIP) (P129770)
+
+
+
+    Moderately Unsatisfactory
+
+
+6. Risk to Development Outcome
+
+The risk to the development outcome remains high due to inadequate training, and the shortage of hardware
+and software.
+
+Finally, slow progress in Internet penetration in Bangladesh may constrain progress in increasing the number
+of VAT taxpayers who are submitting online returns and payments, or accessing tax information through
+voluntary disclosures under the RTI Act.
+
+
+
+
+7. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The ICR reports that the World Bank team extensively consulted the NBR, ERD, Planning Commission,
+  Finance Division, and IMED on the design and the scope of the program. The Strengthening Public
+  Expenditure Management Program - Bank Executed Trust Fund (SPEMP-BETF) supported gap analysis
+  and proposed a road map for a well-functioning IVAS that included SAP Competency Center (SAP-CC)
+  road map and related training, business process mapping, e-payment process assessment, IVAS system
+  functionality assessment and reforms action, how-to guide on quality control of taxpayer registry, training
+  needs assessment and training plan, and a change management strategy which supported quality-at-
+  entry. However, there were significant shortfalls in the selection of the DLIs.
+
+  The assessment of Bank performance with regard to quality-at-entry is rated Moderately Satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The program task team initiated numerous implementation support missions to ensure proper supervision.
+ Three out of 13 implementation support missions were conducted virtually due to the COVID-19 pandemic.
+ While there were four changes of task team leader (TTL) during the implementation of the Program, the
+ TTLs ensured that messages to the NBR remained consistent over time, and that a coordinated approach
+ with other development partners was being followed.
+
+ There are a number of specific measures that the task team undertook to support the implementation of the
+ program. This included, most notably:
+
+
+
+
+                                                                                                   Page 14 of 19
+    Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+    VAT Improvement Program (VIP) (P129770)
+
+
+
+      In 2016, the government decided to put the implementation of the VAT Act, 2012 on hold for two
+         years, and to continue to operate the VAT administration under the VAT Act, 1991. In August 2017,
+         the task team agreed with the CMU and the NBR that the NBR disentangles the automation and
+         simplification of processes from the implementation of the VAT Act of 2012, and pursue the
+         implementation of the digitized VAT system under the Act of 1991. This effort of the task team
+         supported the NBR to sustain the very first automation reform in the tax administration until now.
+        The operation was extended twice, once at the start of the coronavirus pandemic and during the
+         pandemic when there was a complete lockdown. The task team agreed on an action plan each
+         time, held monthly meetings with the senior management of the NBR, and ensured the delivery of a
+         few key modules. Also, the team used the SPEMP-BETF TA to train the VAT Wing staff to plan the
+         future IT requirements and knowledge transfer on the management of the IVAS.
+        The Research and Statistics Wing of the NBR lacks the capacity to generate, analyze and
+         disseminate data. The task team provided timely and high-quality support to NBR to strengthen its
+         infrastructure and capacity. Meanwhile, the PDO indicators were restructured to do necessary
+         course correction, strengthen them more robust and measure the status of the implementation.
+         After the restructuring, the PDO indicator 1 read as “the increase in indirect taxes” instead of “tax to
+         GDP ratio”. And PDO indicator 2 was revised to address the transparency of the tax administration
+         as opposed to only focusing on compliance with the Right to Information Act, 2009 of the
+         government.
+        The DLIs were restructured to make the results scalable. It was another course correction measure
+         and benefited both the Bank and the NBR.
+        Both extensions of the closing date of the program were based on an agreed action plan. That
+         enabled the program to achieve the maximum in a constrained environment, e.g., suspension of the
+         implementation of the VAT and Supplementary Duty Act, 2012 at the beginning of the operation and
+         enactment of a new act in 2019 almost at the closing of the operation.
+        The task team negotiated support to the VIP with the SPEMP Multi-Donor TF to address the
+         capacity gap and prepare a technology blueprint for knowledge transfer and sustainability.
+        Despite the absence of an Investment Project Finance component to provide technical assistance,
+         the Strengthening Public Expenditure Management Program - Bank Executed Trust Fund (SPEMP-
+         BETF) supported gap analysis and proposed a road map for a well-functioning IVAS that included
+         SAP Competency Center (SAP-CC) road map and related training, Business Process Mapping, e-
+         Payment Process Assessment, IVAS System Functionality Assessment and Reforms Action, How-
+         to Guide on Quality Control of Taxpayer Registry, Training Needs Assessment and Report, and
+         Training Plan.
+
+The assessment of Bank performance with regard to Quality of Supervision is rated Satisfactory.
+
+
+
+Quality of Supervision Rating
+ Satisfactory
+
+Overall Bank Performance Rating
+ Moderately Satisfactory
+
+
+
+
+                                                                                                     Page 15 of 19
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     VAT Improvement Program (VIP) (P129770)
+
+
+
+8. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The Program anchored its monitoring and evaluation (M&E) design in the PDO-level Result Indicators, the
+ Intermediate Result Indicators defined in the Results Framework, and the DLIs. The revisions in the PDO-
+ level indicators allowed for the objectives to be more easily measured.
+
+
+
+b. M&E Implementation
+  Monitoring and evaluation implementation was conducted by the Ministry of Planning's Implementation
+  Monitoring and Evaluation Division (IMED). The IMED was charged with the tracking and the reporting on
+  activities and results.
+
+  The Program Implementation Unit (PIU) prepared quarterly and annual activity and Program performance
+  reports, which were submitted to the IMED and to the World Bank.
+
+  The progress reports prepared by the PIU contributed to the Implementation Status and Results Reports
+  (ISRs) and Aide Memoires prepared by the World Bank team. The Aide Memoires contained matrices
+  with agreed actions with timelines that informed the PIU, NBR, and World Bank about the Program
+  implementation agreements and outstanding tasks.
+
+  Independent verification missions to assess the achievement of the DLIs were organized by the Ministry
+  of Finance's Economic Relations Division (ERD). A total of eight independent verification missions were
+  conducted. The findings of these missions provided benchmarks and evidence for the NBR to request
+  funds reimbursement from the Bank.
+
+  Under the Eligible Expenditure Program (EEP), the amount in disbursement cannot be larger than the
+  authorities’ spending, but advances can be made. Since the authorities did not meet some of the DLIs,
+  the authorities were required to return a portion of the advances which were made. While the task team
+  does not believe that the portion of money returned to the Bank affected the achievement of the program
+  objectives, it believes that it may have led to a deterioration in client relationship, which could have been
+  prevented if authorities were made aware of this condition.
+
+
+
+c. M&E Utilization
+  The World Bank completed 12 ISRs and an equal number of Aide Memoires. The Aide Memoires served
+  as a valuable source of data and evidence to prepare the ISRs. The M&E data informed the program's
+  restructuring, including changes to the DLIs/DLRs and targets.
+
+  The table on disbursements of DLIs in the ICR document (Annex 1B) is inaccurate as it shows
+  disbursements as being equivalent to the DLI allocations. The task team indicated that this table was
+  system generated. A corrected table has not been provided to IEG. As such, it is impossible for the IEG
+  to assess to which extent each of the DLIs were met and raises concerns with regard to the utilization of
+  M&E tools against which disbursements were made.
+
+
+
+                                                                                                     Page 16 of 19
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     VAT Improvement Program (VIP) (P129770)
+
+
+
+
+  M&E Quality Rating
+  Modest
+
+9. Other Issues
+
+a. Safeguards
+   The ICR indicates that the program was compliant with environmental and social safeguards. Environmental
+   safeguards were enhanced through the training of NBR IT staff by the Program Implementation Unit (PIU)
+   on the handling of e-waste. Social safeguards was strengthened through a Grievance Redress Mechanism,
+   with an active call center being established to receive grievances, as well as a user satisfaction survey
+   conducted by the PIU/NBR to gather information on citizens’ needs and concerns.
+
+
+
+
+b. Fiduciary Compliance
+   There were unresolved audit observations between FY2013–14 and FY2019–20. Seven observations from
+   Part A involve reported financial irregularities of US$1.25 million and six from Part B concern reported
+   financial irregularities of US$0.04 million. As noted in the ICR, significant unresolved audit issues can
+   hamper approval of a new credit as per the World Bank's policy.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   There were no unintended impacts (positive or negative) from the program identified in the ICR.
+
+
+
+d. Other
+   On disbursement, the ICR notes that "the cumulative program expenditure of US$43 million adequately
+   covers the World Bank’s total disbursement of US$41 million. As of November 17, 2020, the World Bank
+   canceled an amount of SDR 9,934,380.50 (approximately US$14 million) from the proceeds of the credit.
+   The value of additional DLRs met during the extension period was used to adjust the remaining advances
+   but was insufficient, leading to US$2,936,280 unadjusted advance. Per provisions of the Financing
+   Agreement, the GOB shall make the refund to the World Bank." (ICR, p. 19)
+
+
+
+
+                                                                                                Page 17 of 19
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     VAT Improvement Program (VIP) (P129770)
+
+
+
+   On procurement, the VAT Online Program Office prepared procurement plans annually and implemented
+   them accordingly. At the time of the ICR, the PIU was yet to send a detailed update of the post-procurement
+   review carried out by the NBR.
+
+
+
+10. Ratings
+                                                                                Reason for
+Ratings                        ICR                   IEG
+                                                                                Disagreements/Comment
+                                                                                The PDOs were relevant to the
+                                                                                country context, and government
+                                                                                strategy and plans, as well as
+                                                                                the CAS in place at the time,
+                                                                                and their relevance is rated
+                                                                                Substantial. The relevance of
+                                                                                DLIs is rated Modest. The
+                                                                                overall relevance is rated
+                               Moderately           Moderately
+Outcome                                                                         Moderately Unsatisfactory.
+                               Satisfactory         Unsatisfactory
+                                                                                Given that the achievement of
+                                                                                Objective 1 was largely met and
+                                                                                is rated Substantial, and the
+                                                                                achievement of Objective 2 is
+                                                                                rated Modest, the rating on the
+                                                                                overall outcome for the program
+                                                                                is rated Moderately
+                                                                                Unsatisfactory.
+                                                                                The ICRR identified significant
+                                                                                shortfalls in the selection of the
+                                                                                DLIs, resulting in quality-at-entry
+Bank Performance               Satisfactory         Moderately Satisfactory     being rated Moderately
+                                                                                Satisfactory while quality of
+                                                                                supervision was rated
+                                                                                Satisfactory.
+Quality of M&E                 Modest               Modest
+                                                                                The ICR does not provide the
+                                                                                country context to justify the
+                                                                                selection of the PDOs. The
+                                                                                change in PDO indicator was not
+                                                                                well justified. It is not entirely
+Quality of ICR                 ---                  Negligible                  clear why DLI 3 was dropped
+                                                                                and DLI 4 was slightly
+                                                                                reformulated. The allocated and
+                                                                                disbursement amounts featured
+                                                                                in Annex 1B are identical when
+                                                                                they should be different.
+
+
+
+                                                                                                   Page 18 of 19
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       VAT Improvement Program (VIP) (P129770)
+
+
+
+11. Lessons
+
+The ICRR concurs with the lessons derived from this program as identified in the ICR:
+
+     1. It would have been important to introduce a change management program and
+          communication plan with external stakeholders, including the taxpayers, to promote the
+          online filing of VAT returns.
+     2.   The country's policies, legal framework, and commitments should be aligned with IT
+          implementation. In the case of Bangladesh, the lack of a Statutory Regulatory Order implied
+          that audits, risk management, and objections (or dispute resolutions) and litigations to
+          strengthen large taxpayer compliance were not implemented.
+     3.   Strategies for domestic resource mobilization should be considered to identify issues such
+          as the capacity enhancement on VAT policy and administration and voluntary compliance.
+     4.   Government should be made aware of the conditions underlying a PforR prior to program
+          implementation so that it is not caught off guard having to return money.
+     5.   Accurate data should be collected and reported throughout the program implementation and
+          within the context of the ICR.
+
+
+
+12. Assessment Recommended?
+
+  No
+
+13. Comments on Quality of ICR
+
+The quality of the ICR is rated Negligible as it does not contain much of the informational content that is
+required. The ICR does not include a description of the program context and a good overview of the
+development objectives pursued by the program. The ICR does not include an overview of
+program components to help reviewers understand how each of the components supported the implementation
+of the program. The relevance of the two PDO indicators and the associated DLIs is not clearly explained,
+making it difficult to understand how the DLIs support the achievement of the PDOs along the results chain. As
+a result of these shortcomings, the ICR Review had to extensively rely on the Project Appraisal Document, and
+the interview with the ICR TTLs in order to help fill the gaps in the ICR document.
+
+
+
+  a. Quality of ICR Rating
+       Negligible
+
+
+
+
+                                                                                                  Page 19 of 19
+

@@ -1,0 +1,842 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     SA Covid-19 Response DPO (P174246)
+
+
+
+                                                                                Report Number: ICRR0024313
+
+1. Operation Information
+
+
+
+ Operation ID                             Operation Name
+ P174246                                  SA Covid-19 Response DPO
+
+ Country                                  Practice Area (Lead)
+ South Africa                             Macroeconomics, Trade and Investment
+
+
+
+ Non-Programmatic DPF
+
+ L/C/TF Number(s)                         Closing Date (Original)                   Total Financing (USD)
+ IBRD-93320                               30-Jun-2023                                         750,000,000.00
+
+ Bank Approval Date                       Closing Date (Actual)
+ 20-Jan-2022                              30-Jun-2023
+
+                                          IBRD/IDA (USD)                               Co-financing (USD)
+
+ Original Commitment                            750,000,000.00                                            0.00
+
+ Revised Commitment                             750,000,000.00                                            0.00
+
+ Actual                                         750,000,000.00                                            0.00
+
+
+
+
+ Prepared by               Reviewed by                   ICR Review Coordinator         Group
+ Rashmi Shankar            Jennifer L. Keller            Donna Kaidou Jeffrey           IEGEC
+
+
+
+
+2. Program Objectives and Pillars/Policy Areas
+DEVOBJ_TBL
+a. Objectives
+
+As stated in the Program Document (PAD, p. 5) and the Implementation Completion Report (ICR, p. ii),
+the Program Development Objective (PDO) of the South Africa COVID-19 Response DPO was to "protect the
+poor and vulnerable from the adverse socio-economic impacts of the COVID-19 pandemic, and to pave the
+way for a resilient sustainable recovery.”
+
+
+                                                                                                 Page 1 of 15
+      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+      SA Covid-19 Response DPO (P174246)
+
+
+
+This ICR Review will evaluate this program using the following objectives:
+
+      PDO1: To protect the poor and modernize social welfare.
+      PDO2: To accelerate a resilient and sustainable recovery.
+
+
+b. Pillars/Policy Areas
+The operation had two pillars aligning to the two objectives.
+
+Pillar 1, to protect the poor and modernize social welfare, comprised measures to (a) mitigate the adverse
+socio-economic impact of the COVID-19 crisis on vulnerable households, individuals, and workers, (b)
+discourage layoffs, hence retain jobs, by subsidizing wages of temporarily furloughed formal sector workers
+through cash payments, (c) introduce digital technology to enhance the coverage, transparency, targeting and
+efficiency of a poverty-targeted COVID-19 response cash-transfer program, and (d) support the health
+response to the COVID-19 pandemic by leveraging digital platforms to enhance the vaccination effort in South
+Africa.
+
+Pillar 2, to accelerate a resilient and sustainable recovery, comprised measures to (a) establish a Deposit
+Insurance Scheme to protect vulnerable depositors in South African banks, (b) approve the National Climate
+Change Bill, which provides a coordinated and clearly defined architecture for South Africa’s response to the
+impacts of climate change, as well as the country’s contribution to GHG emissions, (c) approve the updated
+first National Defined Contribution (NDC), which will more closely align South Africa with the Paris Climate
+Agreement, and (d) increase competitive embedded power generation towards achieving more reliable,
+cheaper and cleaner energy.
+
+
+c. Comments on Program Cost, Financing and Dates
+
+The DPO was approved on January 20, 2022, and became effective on March 1, 2022. The original planned
+financing of $750 million in IBRD funds was fully disbursed, with no discrepancies between approval and
+disbursement. The DPO was closed on June 30, 2023.
+
+
+3. Relevance of Design
+
+a. Relevance of Objectives
+
+ Both pillars of the DPO were highly relevant for two main reasons: (1) the severity of the COVID-19 pandemic
+ in South Africa, which further aggravated the country’s highly unequal socio-economic landscape; (2)
+ consistency with the Government’s Program, which consisted of a crisis response package and the Economic
+ Reconstruction and Recovery Plan to support a resilient and sustainable recovery.
+
+ As of early December 2021, South Africa had the highest number of infections on the continent, with almost 3
+ million cases of COVID-19 infections and 90,000 deaths. The number of people with compromised immunity
+ due to the high prevalence of HIV/AIDS (human immunodeficiency virus/ acquired immunodeficiency
+ syndrome) made South Africa more vulnerable to the COVID-19 pandemic.
+
+
+                                                                                                   Page 2 of 15
+    Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+    SA Covid-19 Response DPO (P174246)
+
+
+
+The socio-economic impact of the crisis was severe despite the 2020 relief package introduced by the
+government. Before the pandemic, South Africa had inequality levels among the highest in the world, with a
+Gini coefficient of 0.65 in 2014. Poverty was estimated at 19.7 percent in 2020 based on the international
+poverty line ($1.9 a day in 2011 PPP), out of a total population of 58.8 million. Due to the pandemic,
+unemployment increased from 29 percent at the start of the pandemic to 34 percent by July 2021, with youth
+unemployment reaching nearly 50 percent. During the initial months of the pandemic, 2.2 million South
+Africans lost their jobs (out of a total workforce of 17.6 million as estimated by Statistica 2024) and, by the end
+of 2020, less than 40 percent of these jobs had been recovered. If the COVID-19 shock had not been
+mitigated by social protection and government relief grant programs, an additional 2.8 million people would
+have been at risk of falling into poverty in 2020 (PAD, p. 6). The National Income Dynamics Survey –
+Coronavirus Rapid Mobile Survey ( NIDS-CRAM) Wave 1 results suggested that up to a third of income
+earners were likely to have lost their income between February and April 2020, with a disproportionate impact
+on the most disadvantaged, translating into heightened vulnerabilities, notably to hunger. It was estimated that
+in the absence of the Government of South Africa’s relief program, the extreme poverty rate for vulnerable
+households could have almost tripled (ICR, p. 4). Life expectancy was estimated to have declined from 65.4
+years in 2020 to 61.7 years in 2021.
+
+Both pillars of the DPO are consistent with the two elements of the government’s program: crisis response and
+the Economic Reconstruction and Recovery Plan (ERRP), which aimed for a resilient and sustainable
+recovery from the crisis. The government’s immediate response to the crisis was to put in place an economic
+relief package equivalent to 10 percent of GDP, on top of which it added complementary measures in 2021.
+These measures had three main components: protecting lives, protecting the poor, and protecting livelihoods.
+The government also launched the ERRP in 2020, which sets a path for further structural reforms. The ERRP
+has two aims, namely: (i) to deal with immediate actions toward economic recovery amid the COVID-19
+pandemic; and (ii) to rebuild and grow the economy ensuring sustainability, resilience, and inclusion. Finally,
+the government program also prioritized modernizing social welfare by fully digitalizing the application,
+approval, payment, and monitoring of grants, both to preserve service delivery through the pandemic
+lockdowns and make the system more efficient, transparent, and accountable in the longer run.
+
+The DPO was the first budget support operation (and fifth lending project) to be undertaken in the country
+since re-engagement in 1995. It built on a significant body of analytical work, since the engagement with the
+country since 1995 was knowledge based, with the DPO representing an important opportunity to increase
+program focus on financing. It was anchored in the Systematic Country Diagnostic (SCD, 2021), which
+identified climate shocks and the high carbon intensity of the economy as a key binding constraint to growth,
+and the Country Partnership Framework (CPF, FY2022-26). The CPF was focused on stimulating investment
+and job creation and addressing key longstanding structural constraints to sustainable and inclusive economic
+growth and development. The DPO was also consistent with the World Bank (WB)’s COVID-19 Crisis
+Response Approach Paper and the Green, Resilient, and Inclusive Development (GRID) approach.
+
+
+b. Relevance of Prior Actions
+
+Rationale
+
+The South Africa Covid-19 Response DPO consisted of eight prior actions (PAs), with each of the two
+objectives supported by four measures.
+
+
+
+                                                                                                      Page 3 of 15
+    Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+    SA Covid-19 Response DPO (P174246)
+
+
+
+Table 1: Objectives and Prior Actions (PAs) for South Africa COVID-19 DPO
+
+PDO1: To protect the poor and modernize social welfare
+PA1: To protect vulnerable households from the economic impact of the COVID-19 crisis and to support
+informal sector workers, the Borrower, through its Department of Social Development, has issued directions
+through Government Notice No. 681, which: (a) reintroduce the COVID-19 Social Relief of Distress (SRD)
+Program that provides grants to unemployed and informal sector workers who are not eligible for
+unemployment insurance benefits; and (b) expand the SRD Program to include unemployed caregivers who
+receive child support grants on behalf of children.
+PA2: To keep people, especially low-wage workers, connected to their jobs and ready to work when firms re-
+open, the Borrower, through its Department of Employment and Labor, has issued directions through
+Government Notice No. 637 , which: (a) enhance the targeting of the COVID-19 Temporary Employer-
+Employee Relief Scheme (TERS) allowing furloughed workers in hardest hit industries; and (b) allow
+targeted works to receive cash payments directly to their bank accounts, in response to the national
+lockdown during the third wave of COVID-19 infections.
+PA3: To improve the transparency, targeting, and efficiency of social grant programs, the Borrower, through
+its Department of Social Development, has issued directions through Government Notice No. 681, which
+introduces the use of electronic means to allow for digital application procedures and automated
+crosschecking to verify eligibility.
+PA4: To improve equitable access to COVID-19 vaccines, the Borrower, through its National Department of
+Health, has launched the South African Covid-19 Programme Registration. The programme introduces the
+use of an Electronic Vaccination Data System (EVDS) (compliant with the applicable data protection and
+privacy legislation) in the rolling-out of the Borrower’s COVID-19 vaccination program, setting the stage for
+future health emergencies, as further evidenced in the COVID-19 Implementation Guide and Toolkit.
+PDO2: To accelerate a resilient and sustainable recovery
+PA5: To increase the resilience of the financial sector, the Borrower, through its National Assembly, has
+approved the Financial Sector Law Amendment Bill, which establishes a resolution regime and enables
+provisions for the Corporation of Deposit Insurance.
+PA6: To enable the development of an effective climate change response and the long-term, just transition to
+a climate-resilient and lower-carbon society, the Borrower, through its Cabinet, has approved the National
+Climate Change Bill and its submission to Parliament.
+PA7: To more closely align South Africa with the Paris Climate Agreement, the Borrower, through its
+Cabinet, has approved the updated First Nationally Determined Contribution (NDC), which sets more
+ambitious greenhouse gas (GHG) mitigation targets for 2025 and 2030.
+PA8: To increase competition and power generation capacity in the energy sector, the Borrower, through its
+Department of Mineral Resources and Energy, has amended Schedule 2 to the Electricity Regulation Act
+through Government Notice No. 737, which exempts from licensing embedded generation with a nominal
+installed capacity below 100 megawatts as per Schedule 2 to the Electricity Regulation Act.
+
+PDO1: To protect the poor and modernize social welfare.
+
+PA1: PA1 directly supported the government’s emergency relief program, which leveraged the social
+assistance system -- assessed as robust in terms of targeting and minimization of leakages by various WBG
+diagnostics. The action combined top-ups of existing benefits with the introduction of temporary Social Relief of
+Distress (SRD 350) grants for additional beneficiaries affected by the pandemic. The top-ups were on regular
+social security benefits for 17 million senior citizens, persons with disabilities, and children and caregivers. The
+
+                                                                                                      Page 4 of 15
+     Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+     SA Covid-19 Response DPO (P174246)
+
+
+
+bulk of regular assistance was for children and their caregivers. South Africa has an extensive post-apartheid
+social assistance program, with carefully maintained registries. There are various ongoing SRD programs,
+which allow the government to provide temporary funding in response to shocks or an urgent need – such as a
+natural disaster. SRD 350 was specifically designed for COVID response since regular assistance does not
+cover informal workers or persons without children who are not entitled to any other benefits. This was critical
+given that South Africa was hit hard by the pandemic, in part because of widespread prevalence of AIDS.
+COVID variants originated in South Africa, and depending on geographic location, the population was subject to
+lockdowns of varying rigor.
+
+When the third wave of the COVID-19 pandemic hit, followed by the near total lockdown in July 2021, the
+government relied fully on a re-introduction of the SRD 350, rather than top-ups on existing benefits. SRD 350
+was originally proposed to end by March 2022). At a later stage, it also specifically targeted caregivers who
+received the Child Support Grant on behalf of children, 98 percent of whom were female, after data suggested
+that not enough women were receiving COVID relief.
+
+The SRD grants over the May 2020 to April 2021 period were to over six million affected informal sector
+workers and unemployed prime-aged individuals who were not eligible for other social grants or the
+Unemployment Insurance Fund (UIF). Overall, in the final round of SRD grants, 55 percent of recipients were
+female, and 9.4 million grants were approved. The rapid roll-out of the program over a two-month period (April-
+May) relied on digital technology to quickly build a social registry with stringent eligibility criteria, virtual
+application and registration processes, and electronic cash payments and was aimed at mitigating the poverty
+increase due to the pandemic through targeting of informal workers who were not receiving any other welfare
+support. The high quality of existing registries and of regular checking across registries ensured that
+beneficiaries were eligible for social assistance. While the exit has been delayed, this is mainly because of
+persistent post-pandemic unemployment and continued widespread joblessness, which led to the SRD being
+rolled over repeatedly. PA1 directly and credibly supported achievement of Objective 1 by reducing the adverse
+impact of the pandemic on poverty rates. Relevance of PA1: Satisfactory (S).
+
+PA2: This PA supported the continued employment of workers in sectors affected the most by the COVID-19
+lockdowns. The pandemic and associated economic downturn led to significant disruption in business with
+lockdowns at different phases affecting especially workers in entertainment, restaurants, hotels, and tourism.
+PA2 was designed to mitigate job losses by avoiding a severance of the employer-employee relationship.
+Support to firms to furlough (rather than lay off) workers during the 2008 global financial crisis in Europe was
+found to facilitate the recovery period. The South African COVID-19 response strategy operated under a similar
+approach so firms that received the payment under Temporary Employer-Employee Relief (TERS) were not
+permitted to dismiss their workers. Workers who were dismissed from their jobs were eligible to receive the
+standard unemployment insurance payment, which paid below the TERS for low-income workers. The program
+launched a transparency mechanism following employee complaints—all firm recipients were named through
+an online website and employees were paid directly in their bank accounts–and developed grievance
+procedures, including independent investigators, to follow up on employee and employer complaints. PA2
+directly and credibly supported the achievement of Objective 1 by reducing lay-offs of workers affected by
+COVID restrictions. Relevance of PA2: Highly Satisfactory (HS).
+
+PA3: PA3 aimed to support the digitization of social protection to ensure service provision during the pandemic,
+improve governance and transparency, and ease both the application process and monitoring of funds. The
+directive allowed for digital technologies to be utilized for the identification of beneficiaries, payment distribution,
+cross checking across databases, and monitoring to minimize leakages. The digitization was implemented
+quickly at the onset of the pandemic as lockdowns were initiated and utilized for the roll-out of the SRD grant.
+
+                                                                                                         Page 5 of 15
+    Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+    SA Covid-19 Response DPO (P174246)
+
+
+
+South African Social Security Agency (SASSA) continued to improve the system, broadening the channels
+though which applications can be submitted and payments received, and instituting monthly reassessments of
+eligibility. The digital footprint reduced the time and cost of application, monitoring application status, and the
+appeal process as well, allowing for just-in-time cross-checks against live databases that determine eligibility.
+The new system was used to quickly roll-out payments when the third wave of COVID hit and could be
+leveraged to support regular social security payments as well. The system processed 100 percent of COVID
+related grants and was able to detect over 4 million ineligible applicants who were already in receipt of
+unemployment insurance. The modernization of the social welfare system supported objective 1 by ensuring
+that COVID grants could be distributed despite the lockdowns and improving targeting and reducing leakages.
+Relevance of PA3: Highly Satisfactory (HS)
+
+PA4: PA4 supported the modernization of the health system and facilitated tracking of vaccines, which would
+facilitate COVID vaccine expansion. The government implemented a nationwide vaccination program, aiming to
+inoculate 67 percent of its population to achieve herd immunity. As of November 2021, 10.2 million people (17
+percent of the population) were fully vaccinated. The COVID-19 pandemic occurred in a health system that was
+already suffering from an excess burden of preventable illness and premature death. The February 2021 shift
+toward a new electronic vaccine data system (EVDS) was a critical element in the country’s transformation to a
+digital health system and was designed to: (i) capture the relevant metrics of all South African residents who will
+be vaccinated; (ii) ensure vaccinees are contactable and alerted to optimize adherence to the vaccination
+regime; and (iii) complete the certification process such that vaccine certificates are easy to obtain for those
+vaccinated and authorities that may require the certification. The PA supported the modernization of the health
+system and facilitated tracking of vaccines, which would facilitate COVID vaccine expansions. Relevance of
+PA4: Satisfactory (S).
+
+PDO2: To accelerate a resilient and sustainable recovery.
+
+PA5: PA5 supported the approval of the Financial Sector Law Amendment Bill 2020 (FSLAB), though not its
+enactment. Upon enactment, the deposit insurance scheme was implemented by the newly established
+Corporation for Deposit insurance (CODI), which became effective in April 2023, nearly a year after the DPO
+was approved. The FSLAB established South Africa’s first comprehensive explicit Deposit Insurance Scheme to
+protect depositors in line with international standards and aimed to strengthen the resolution framework for all
+banks, as well as non-bank systemically important financial institutions, while operationalizing CODI. The Bill
+enabled South Africa to meet the basic international standards endorsed by G-20 countries following the 2008
+global financial crisis and outlined in the Financial Stability Board’s (FSB) Key Attributes of Effective Resolution
+Regimes for Financial Institutions. Multiple assessments were undertaken of the financial sector in the years
+leading up to the DPO. In 2014, a Financial System Stability Assessment (FSSA) indicated strong commitment
+to adhering to the highest standards for banking supervision and regulation, as well as a high level of
+compliance with international standards for banking supervision. The FSB conducted a peer review of South
+Africa in 2020, which found good progress in developing the frameworks for bank resolution and deposit
+insurance. South Africa underwent a Financial Stability Assessment Program (FSAP) update as well, at the
+time of DPO design. This PA helped protect vulnerable depositors, a critical element of the financial safety net
+in any country and supported financial stability through the approval of the FSLAB. The PA contributed towards
+a resilient recovery through its support to financial stability. Relevance of PA5: Highly Satisfactory (HS).
+
+PA6: In recognition of the challenges posed by climate change to South Africa’s development goals, the
+Cabinet, on September 14, 2021, approved the National Climate Change Bill for submission to Parliament. The
+objective of the Bill was to enable the development of an effective climate change response and a long-term
+just transition to a climate-resilient and low-carbon economy and society. The Bill provided a legal and
+
+                                                                                                      Page 6 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     SA Covid-19 Response DPO (P174246)
+
+
+
+ institutional framework to ensure that climate change policy is implemented within the country’s sustainable
+ development and national development goals. It established a legislative structure to coordinate and integrate
+ this response and reinforces South Africa’s international climate commitments and obligations, including the
+ NDC to the Paris Climate Agreement. It also had provisions for specific actions related to coordination and
+ integration, adaptation, and resilience, and GHG mitigation. The support to climate commitments is consistent
+ with both the SCD and the CPF where climate shocks and the high carbon intensity of growth are identified as
+ binding constraints on growth. The Bill mainly aimed at institutionalization of the Climate Change Strategy but
+ multiple steps not supported by the DPO would have been necessary to even complete the legislative process
+ and establish and operationalize the institutional frameworks necessary for achieving targets. Relevance of
+ PA6: Moderately Satisfactory (MS)
+
+ PA7: As a signatory to the Paris Climate Agreement South Africa registers their Nationally Determined
+ Contribution (NDC) with the UNFCCC every five years. The NDC details the specific mitigation and adaptation
+ actions that the country intends to pursue. South Africa published its first NDC in October 2015. This PA
+ supported Cabinet approval of an update to the NDC, which includes an increase in the level of its GHC
+ mitigation, on September 14, 2021, which has been deposited with the UNFCCC. South Africa emits on
+ average 482 MtCO₂e annually. The high carbon intensity of production has been highlighted in analytical work
+ as a constraint on growth, along with frequent electricity shortages. The public utility dominated the sector and
+ is heavily coal reliant. The country’s GHG emissions profile is dominated by emissions from the energy sector
+ and, specifically, from coal-fired power generation, which account for about 44 percent of the total. The
+ Integrated Resource Plan (IRP) 2019 therefore set out the decommissioning of about 12 GW of old and
+ inefficient coal-fired power plants by 2030. This was equal to 74 percent of South Africa’s total electricity
+ capacity. The PA was complemented by trust-funded technical assistance (TA) from the WB through ESMAP to
+ support the decommissioning of 6 GW of coal fired plant capacity. While this is an important engagement from
+ the perspective of South Africa contributing to the reduction of emissions on a fair share basis, the country was
+ obliged to revise its NDP. The IRP entails closure of coal fired plants and is in essence the implementation of
+ the actions consistent with the revised NDC. The PA directly support PDO2 in conjugation with the IRP.
+ Relevance of PA7: Satisfactory (S)
+
+ PA8: PA8 raises the limit for license exemption for new embedded generation (EG) from 1 MW to 100 MW.
+ Before the limit was raised, smaller investment, more consistent with the needs of industry, was constrained by
+ red tape. The easing of the limits was expected to encourage private investment, increase competition and the
+ security of electricity supply, and shift energy mix towards renewables, given that solar and wind are the least
+ cost options in the country. The mining industry is a typical and core beneficiary sector of this policy and at the
+ time of DPO approval had already indicated its commitment to installing up to 2,000 MW of solar PV at mining
+ sites to meet some of its electricity demand and secure its production. The license exempt EG facilities would
+ still have to comply with the requirements as set out in the National Environmental Management Act. The PA
+ was designed to support renewables investment, promote competition, and reduce reliance on South Africa’s
+ dominant, vertically integrated power supply SOE. Relevance of PA8: Highly Satisfactory (HS).
+
+
+
+Rating
+
+Satisfactory
+
+
+4. Relevance of Results Indicators
+
+
+                                                                                                      Page 7 of 15
+     Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+     SA Covid-19 Response DPO (P174246)
+
+
+
+
+Rationale
+
+Table 2: Results indicators (RIs) by Objective and PAs; baseline and target values; status and
+achievement
+
+                                                      Baseline Target            As % of RI:
+                               Associated RI: Relev                       Actual
+ Results Indicator                                                               targeted Achievement
+                               PAs        ance                            (year)
+                                                    (year)     (year)            change rating
+ PDO1: To protect the poor and modernize social welfare
+ RI1: Number of people who
+                                                                       10.3       More
+ receive SRD grants in                              6 (March 9.4 (June
+                                PA1      MS                            (March     than         [High]
+ response to the COVID-19                           2021)      2022)
+                                                                       2022)      100%
+ crisis, in million
+ RI2: Number of workers who                                    3.62    4.98       More
+                                                    3.5 (March
+ received benefits from the     PA2      MS                    (June   (June      than         [High]
+                                                    2021)
+ UIF-TERS, in million.                                         2022)   2022)      100%
+ RI3: Total value of SRD
+ grants disbursed using digital                                        27.5       More
+                                                    19 (March 26 (June
+ application and verification   PA3      S                             (March     than         High
+                                                    2021)      2022)
+ procedures, in billion South                                          2022)      100%
+ African Rand.
+ RI4: Number of people fully                                   26.5    19.3
+                                                    0 (Feb.
+ vaccinated and registered on PA4        S                     (Dec.   (Dec.      72%          Substantial
+                                                    2021)
+ EVDS, in million.                                             2022)   2022)
+ PDO2: To accelerate a resilient and sustainable recovery
+                                                                                               Substantial
+                                                                         0 (Dec. Not
+                                                                         2022) met/no          (exceeded,
+ RI5: Eligible deposits insured,                      0 (Nov.   80 (Dec.
+                                 PA5      S                                        progress    but with
+ in percentage                                        2021)     2022)
+                                                                         97 (April by target   significant
+                                                                         2024) date            delay of over
+                                                                                               a year)
+ RI6: Department of Forestry,
+ Fisheries, and Environment
+ (DFFE) presents Sectoral
+ Emissions Targets for 5 key
+                                                      0 (Nov.   5 (June   0 (June Not
+ carbon-intensive sectors:    PA6         U                                              Negligible
+                                                      2021)     2023)     2023) achieved
+ Energy, Transport, Trade and
+ Industry), Agriculture; and
+ Water and Sanitation to the
+ respective line ministries.
+ RI7: Avoided CO₂ emissions
+                                                                 900,000 847,000
+ as a result of the shut-down                         0 (October
+                              PA7         S                      (June   (June 94%             Substantial
+ of coal-fired power                                  2021)
+                                                                 2023)   2023)
+ production, in tons
+
+
+                                                                                                 Page 8 of 15
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    SA Covid-19 Response DPO (P174246)
+
+
+
+                                                                                                [High], based
+                                                                              1253
+                                                                                       84% by on additional
+                                                                              (Dec.
+RI8: Embedded Generation                                                               target   information
+                                                                    1500      2022)
+Capacity under 100 MW                                                                  date,    that target
+                               PA8          MS          1500        (Dec.
+registered under NERSA, in                                                             exceeded exceeded
+                                                                    2022)     5138
+MW                                                                                     a year   less than a
+                                                                              (Sep.
+                                                                                       later    year after
+                                                                              2023)
+                                                                                                original date
+
+Note: (i) Achievement ratings in [ ] reflect an MS or lower RI Relevance rating, resulting in a downgraded
+assessment of RI achievement for purposes of determining the efficacy rating in Section 5.
+
+PDO1: To protect the poor and modernize social welfare.
+
+RI1 aimed to capture the number of persons who received SRD grants under the government’s crisis
+response, as supported by PA1. While the RI captured directly and credibly the impact of one aspect of
+PA1’s support to the program, it does not distinguish caregiver beneficiaries, though a part of the rationale
+of the support was to better target women affected by the pandemic. The PAD highlights that the digital
+system and the 2022 Census were used to ensure targeting and reduce leakages and double-dipping.
+Based on the TTL interviews, it appears that targeting relied on the existing social registries which were
+rapidly digitalized. Existing registries target, based on an income criterion, families with children, the
+elderly, and persons with disabilities. Data is not presented clearly in either the PAD or the ICR and the
+text in the PAD is not always internally consistent. RI1 mostly captures the impact of PA1 on PDO1.
+Relevance of RI1: Moderately Satisfactory (MS).
+
+RI2 aims to capture the impact of the TERS on preserving employment through the furlough scheme,
+supported by PA2. It directly captures the impact of one aspect of PA2 on Objective 1. However, it does
+not track the improved targeting of the TERS by priority sector. The target was exceeded, but RI2 does
+not fully capture the impact of PA2 on PDO1. Relevance of RI2: Moderately Satisfactory (MS).
+
+RI3 aims to capture the impact of the modernization of the social welfare system through tracking of the
+number of grants fully processed – from application stage to direct deposit in beneficiary account –
+through the new digitalized set up. RI3 fully captures the impact of PA3 on PDO1. It utilizes data
+processed transparently and through non-discretionary systems to establish baseline and actual
+achievement. It would have been helpful to leverage the digital system to capture the gender dimension of
+the grants distributed. Relevance of RI3: Satisfactory (S).
+
+RI4 aims to capture the impact of the new EVDS system supported under PA4, which registers and tracks
+registered persons (22.5 million South Africans over the age of 12). RI4 fully captures the impact of the
+system but is an output of the implementation of the system. PA4 itself supports improved access to and
+monitoring of vaccines. Relevance of RI4: Satisfactory (S).
+
+PDO2: To accelerate a resilient and sustainable recovery.
+
+RI5 aims to capture the impact of PA5, which supported the deposit insurance law approval process. The
+enactment of the law was delayed. The RI adequately captures support to the objective of improved
+
+
+
+
+                                                                                                    Page 9 of 15
+                   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                   SA Covid-19 Response DPO (P174246)
+
+
+
+               resilience, which was the expected impact of the operationalization of CODI on insured deposits.
+               Relevance of RI5: Satisfactory (S).
+
+               RI6 aims to capture the impact of PA6, the partial approval of the National Climate Change Law, on
+               PDO2, namely the sustainability of recovery. However, the RI does not capture actual impact on Objective
+               2, rather it tracks the establishment of sector level targets. Relevance of RI6: Unsatisfactory (U).
+
+               RI7 aims to capture the impact of PA7, reduced emissions due to the establishment of a revised NDC,
+               whose implementation was supported by the country’s Integrated Resource Plan (IRP) which entailed
+               closing coal fired plants, responsible for 80 percent of South Africa’s electricity supply. The RI measures
+               the actual impact on emissions of the closure of the coal fired stations, and therefore directly and credibly
+               captures the impact of PA7 on PDO2. Relevance of RI7: Satisfactory (S).
+
+               RI8 aims to capture the impact of PA8, the higher limit on embedded generation plants that do not require
+               licensing except for environmental safeguards, with a view to meeting South Africa’s energy deficit
+               through higher usage of lower cost solar and wind plants. It directly measures the impact of the measure
+               on increased power generation, but it does not track the increased reliance on renewables. RI8 captures,
+               to a large extent, the impact of PA8 on PDO2. Relevance of RI8: Moderately Satisfactory (MS).
+
+
+
+   Rating
+
+   Moderately Satisfactory
+
+   5. Achievement of Objectives (Efficacy)
+EFFICACY_TBL
+
+
+
+
+                OBJECTIVE 1
+                Objective
+                To protect the poor and modernize social welfare.
+
+                Rationale
+                RI1: PA1’s support for the reintroduction of the SRD program and its expansion to caregivers and informal
+                workers not in receipt of unemployment insurance led to an additional 4.3 million beneficiaries receiving
+                assistance, which was 100 percent of the target. The relevance of RI1 is rated moderately satisfactory, hence
+                the achievement rating of high is downgraded to substantial. Achievement rating: Substantial.
+
+                RI2: PA2’s support for TERS, which provided grants to furloughed workers in targeted sectors, severely
+                affected by COVID-19, led to an overall increase in assistance to an additional 1.5 million workers, which was
+                over 100 percent of the target. The relevance rating of RI2 is rated moderately satisfactory, hence the
+                achievement rating is downgraded to substantial. Achievement rating: Substantial.
+
+                RI3: PA3’s support for the modernization and digitalization of social welfare led to all COVID-related benefits
+                being processed online. The target was exceeded. The PA and RI were both relevant and efficacy rating is
+                High. Achievement rating: High.
+
+
+
+
+                                                                                                                   Page 10 of 15
+                         Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                         SA Covid-19 Response DPO (P174246)
+
+
+
+                      RI4: PA4’s support for the digitized registration of vaccine recipients and automated reminders supported
+                      improved tracking of vaccines. 72 percent of the target was realized. The PA and RI were rated as relevant.
+                      Achievement rating: Substantial.
+
+                      With one efficacy rating of High, and none below Substantial, the efficacy rating for PDO1 is assessed as
+                      Satisfactory.
+
+
+
+                      Rating
+
+                      Satisfactory
+
+                      OBJECTIVE 2
+                      Objective
+                      To accelerate a resilient and sustainable recovery.
+
+                      Rationale
+                      RI5: PA5’s support for the approval process of the deposit insurance law led to the enactment of the law. The
+                      target for share of depositors insured was not met by the expected date due to implementation delays.
+                      However, the target was exceeded by the ICR. The PA and RI were both relevant. Achievement rating:
+                      Substantial.
+
+                      RI6: PA6’s support for the National Climate Change Law at an early stage of the approval process did not
+                      result in any impact yet, i.e. by the time of the ICR. Neither the PA nor the RI had relevance ratings of MS or
+                      higher and outcomes were not achieved. Achievement rating: Negligible.
+
+                      RI7: PA7’s support for the revised NDC, and complementary TA for implementation, led to the closure of coal
+                      fired plants and led to a decline in CO2 emissions of 847,000 tons, which was 94 percent of the target. Both
+                      PA and RI were relevant. Achievement rating: Substantial.
+
+                      RI8: PA8’s support for enhanced competition and an improved energy mix in the direction of more
+                      renewables led to an additional installation of over 5000 MW of embedded generation capacity. Both PA and
+                      RI were relevant. Achievement rating: High.
+
+                      With most efficacy ratings as substantial or high and one negligible, the efficacy rating for PDO2 is
+                      assessed as Moderately Satisfactory
+
+
+
+                      Rating
+
+                      Moderately Satisfactory
+
+
+OVERALL EFF TBL OLD
+
+
+
+
+Overall Achievement of Objectives (Efficacy)
+Rationale
+
+                                                                                                                        Page 11 of 15
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      SA Covid-19 Response DPO (P174246)
+
+
+
+
+With the efficacy rating for PDO1 assessed as satisfactory and the efficacy rating for PDO2 assessed as
+moderately satisfactory, the overall efficacy rating is assessed as Satisfactory.
+
+
+
+Overall Efficacy Rating
+Satisfactory
+
+
+6. Outcome
+
+Rationale
+
+With the relevance of PAs rated Satisfactory and the overall efficacy rating assessed as Satisfactory, the
+outcome rating is Satisfactory.
+
+
+a. Rating
+
+Satisfactory
+
+7. Risk to Development Outcome
+
+Sluggish recovery, poor health outcomes, and high unemployment rates posed a strain on social safety nets
+and made it difficult for the government to close the temporary schemes initiated during the pandemic.
+
+In some instances, the PAs required additional steps for reaching outcomes. For example, the
+operationalization of CODI was not supported by the DPO, nor was the enactment of the Deposit Insurance
+Law or the National Climate Change Law. However, the DPO laid a basis for the follow up DPO series.
+
+
+ 8. Assessment of Bank Performance
+
+ a. Bank Performance – Design
+
+ Rationale
+
+
+The PAs were relevant to both objectives. PAs built on strong analytical underpinnings, including a well-
+received and widely consulted SCD and various sector studies, both internal and external, particularly on
+health and social protection, climate, and financial sector. The large body of analytical work and
+consultative approach, especially important in South Africa where this was the first DPO since re-
+engagement in 1995, supported relevant PAs.
+
+
+
+
+                                                                                                   Page 12 of 15
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      SA Covid-19 Response DPO (P174246)
+
+
+
+Overall, the pillars were well designed and balanced COVID relief and structural measures toward a
+resilient recovery. The PAs under PDO1 supported service delivery through the lockdowns, emergency
+relief to workers and the poor, improved digitalization, and modernization of social and health services for
+stronger monitoring and better governance. The PAs under PDO2 were designed to support financial
+stability, healthy growth in bank deposits, sustainability, and improved energy supply and mix.
+
+Operational design reflected good coordination with development partners and the IMF. The WB and the
+Africa Development Bank (AfDB) had held joint discussions with the National Treasury and other technical
+counterparts to develop a common policy matrix in 2020. These consultations informed program design,
+including environmental and social aspects of this DPO.
+
+PAs and RIs could have better captured targeting, both of the disadvantaged and of women.
+
+
+
+Rating
+
+Satisfactory
+
+b. Bank Performance – Implementation
+
+Rationale
+
+The WB supported the achievement of the program’s objectives through TA and continued coordination with
+development partners. There were several ongoing or subsequent projects that supported the implementation
+of the program and the supervision of the achievements. TA to enhance social assistance efficiency and
+effectiveness built on modernization tools supported by the program. The COVID-19 vaccine financing
+supported the supervision of the implementation of the COVID-19 vaccine strategy. The CODI benefited from
+continued TA. The decommissioning of the Komati power plant was supported by the Eskom Just Transition
+project, complemented with TA through the Programmatic ASA for the Energy Sector in South Africa
+(P172682). Further progress towards a better integration of digital process in social protection is supported
+through the project “Strengthening social protection systems in South Africa (P181224)” (ICR, p. 26).
+
+
+
+Rating
+
+Satisfactory
+
+c. Overall Bank Performance
+
+Rationale
+
+With Bank performance at design and implementation both assessed as satisfactory, overall Bank
+performance is rated as Satisfactory.
+
+
+
+                                                                                                    Page 13 of 15
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     SA Covid-19 Response DPO (P174246)
+
+
+
+Overall Bank Performance Rating
+
+Satisfactory
+
+9. Other Impacts
+
+a. Social and Poverty
+
+The DPL contributed to mitigating the impoverishing effects of COVID-19. There was discernible improvement in
+COVID-19 relief efforts supported. Social safety nets were strengthened and digitized with measurable impact.
+
+
+
+b. Environmental
+
+There was measurable reduction in emissions as a result of actions supported by the DPO. Early evidence
+suggests improvements in the energy mix as expected.
+
+
+
+c. Gender
+
+No identified impacts.
+
+
+
+d. Other
+
+No other impacts observed.
+
+
+
+
+10. Quality of ICR
+
+Rationale
+
+The ICR was of good quality. It presented a theory of change for the DPO. It adequately presented the rationale
+for assigned ratings and complementary evidence on progress towards targets set for RIs. In some instances,
+the rationale laid out was not consistent with the PA. For example, the establishment of an electronic registry
+for vaccination data supported improved monitoring of vaccinees but not higher rates of vaccination, which was
+the constraint that the PAD highlighted. Similarly, the ICR did not assess whether the RIs captured the full
+impact of the PAs on the objectives for RI1 and RI2. The ICRR agrees with the overall ratings of the ICR for
+substantive reasons.
+
+
+
+
+                                                                                                 Page 14 of 15
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     SA Covid-19 Response DPO (P174246)
+
+
+
+
+a. Rating
+
+Substantial
+
+11. Ratings
+                                                                                Reason for
+Ratings                         ICR                   IEG
+                                                                                Disagreement/Comments
+Outcome                         Satisfactory         Satisfactory
+
+Bank Performance                Satisfactory         Satisfactory
+Relevance of Results
+                                ---                  Moderately Satisfactory
+Indicators
+Quality of ICR                  ---                  Substantial
+
+
+12. Lessons
+
+The ICR presents several broad lessons from the engagement on this DPO, some of which would apply to any
+operational engagement. This review concurs with one key lesson.
+
+      In contexts with limited familiarity with policy-based lending engagement, a consultative
+       approach coupled with analytical work and technical outreach is important. There was limited trust
+       in the principle of policy-based financing, which was seen as conditionality based. There was also limited
+       buy-in for some reforms. Extensive consultations, outreach, and being able to build on a large body of
+       evidence was useful in creating ownership for the reforms within South Africa and within the government.
+
+
+13. Project Performance Assessment Report (PPAR) Recommended?
+
+No
+
+
+
+
+                                                                                                  Page 15 of 15
+

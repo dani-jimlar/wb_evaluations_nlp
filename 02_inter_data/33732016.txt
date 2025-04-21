@@ -1,0 +1,715 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     LA - Power Grid Improvement Project (P149599)
+
+
+
+                                                                                   Report Number: ICRR0022794
+
+1. Project Data
+
+
+
+ Project ID                                  Project Name
+ P149599                                     LA - Power Grid Improvement Project
+
+ Country                                     Practice Area(Lead)
+ Lao People's Democratic Republic            Energy & Extractives
+
+
+ L/C/TF Number(s)                            Closing Date (Original)                Total Project Cost (USD)
+ IDA-56750                                   31-Mar-2020                                           29,183,193.66
+
+ Bank Approval Date                          Closing Date (Actual)
+ 23-Jun-2015                                 31-Mar-2021
+
+                                             IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                            30,000,000.00                                                 0.00
+
+ Revised Commitment                             30,000,000.00                                                 0.00
+
+ Actual                                         29,399,844.69                                                 0.00
+
+
+
+
+ Prepared by                 Reviewed by                   ICR Review Coordinator          Group
+ Dileep M. Wagle             Vibecke Dixon                 Ramachandra Jammi               IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The project’s development objective was “to help improve efficiency and reliability of power distribution in the
+   selected load areas served by EDL”. This was as per the Financing Agreement, 2015, p.6, as well as the
+   Project Appraisal Document (PAD), p.17.
+
+
+
+
+                                                                                                     Page 1 of 14
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     LA - Power Grid Improvement Project (P149599)
+
+
+
+   In the analysis that follows, the PDO can be parsed as follows: (i) “to help improve efficiency of power
+   distribution in selected load areas served by EDL”, and (ii) “help improve reliability of power distribution in
+   selected load areas served by EDL”.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component 1: Smart metering, distribution improvement and distribution losses reduction (Estimated cost
+   at appraisal: US$19 million; Actual cost at closing: US$21.43 million). This component supported the
+   rehabilitation, improvement and automation of power distribution and metering infrastructure and equipment
+   in the selected load areas to introduce smart metering, improve the reliability of power and reduce
+   distribution losses in selected pars of the distribution network. This component included rehabilitating
+   power distribution lines, upgrading of conductors, increasing transformer capacity, placement of capacitors
+   for reactive power and voltage control, installation of load break switches and reclosers, etc.
+
+   Component 2: Electric utility information service (Estimated cost at appraisal: US$6 million; Actual cost
+   at closing: US$6.64 million). This component improved EDL’s information system by (a) supply and
+   installation of communications hardware and software links to support advanced metering and distribution
+   automation. (b) extension of the geographic information system to support power distribution O&M, and (c)
+   supply and installation of an updated corporate financial management information system (FMIS).
+
+   Component 3: Institutional capacity building and project implementation support (Estimated cost at
+   appraisal: US$5 million; Actual cost at closing: US$1.32 million). The component included (a) power
+   system software, distribution equipment, testers and other instruments, (b) consultancy for the electric utility
+   information system, (c) support to measure distribution system performance indicators, and (d) project
+   implementation support and incremental operating costs. This component was meant to enhance EDL’s
+   institutional capacity to use new technologies to address distribution losses and improve power grid
+   efficiency. The ICR notes (p.10) that although only US$1,32 million was spent under this component, in
+   total expenditure on institutional capacity building and project implementation support, spread across all the
+   components, actually aggregated slightly more than US$5 million.
+
+   Component 4: Contingent emergency response (Total approved: US$0; Actual cost at closing:
+   US$0). The objective of the contingency emergency response component (with a provisional zero dollar
+   allocation) was to allow for the reallocation of financing in accordance with the IDA Immediate Response
+   Mechanism to provide a rapid response to disaster or emergency events, as needed. The component
+   would have financed expenditures on a positive list of goods and/or specific works and services required for
+   emergency recovery. No relevant disaster or emergency actually occurred; hence the contingency
+   component was not utilized.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+
+                                                                                                       Page 2 of 14
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     LA - Power Grid Improvement Project (P149599)
+
+
+
+   Project Cost and Financing
+
+   The original financing amount of US$30 million, covering the total cost of the project, came entirely from an
+   IDA credit. Actual costs of the project at closing amounted to US$29.39 million, or 97.7 percent of the
+   total. As mentioned earlier, although Component 3 was significantly curtailed, actual expenditures on
+   institutional capacity building and project implementation support – spread the three main components -
+   amounted to US$5.18 million, or slightly more than the amount originally allocated under Component 3.
+
+   Borrower contribution
+
+   No borrower contribution was envisaged as part of the project’s financing.
+
+   Dates
+
+   The project underwent a Level 2 restructuring on March 27, 2020, which extended the closing date by 12
+   months to March 31, 2021. The restructuring allowed project cost savings (from major goods and services
+   packages contracted at lower prices than initially estimated) to be utilized for new activities, such as delivery
+   of safety equipment; also to waive two financial covenants, and drop one intermediate results indicator and
+   align project targets with the new closing date. The project subsequently closed on (the revised) schedule.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and Sector Context
+
+With a per capita GDP of US$1,660 in 2013, Lao PDR was one of the poorest countries in Southeast
+Asia. However, at the time of the project’s inception it was undergoing a rapid economic expansion,
+boosted by the resource sector and supported by public investment in basic infrastructure. Underlining a
+policy shift towards establishing a rules-based system for governing trade and private sector development,
+the country completed its accession to the World Trade Organization in 2013.
+
+Over the two decades prior to appraisal of the project, Lao PDR’s energy strategy had focused on
+hydropower development, a national electrification program and export of electricity. Access to electricity
+had increased enormously, from 15 percent in the mid-1990s to nearly 90 percent in 2014. Notwithstanding
+this success, the domestic power market continued to be prone to low reliability of power and pressures to
+import electricity in certain parts of the country, on account of underdeveloped and inefficient transmission
+and distribution networks and seasonality of domestic hydropower. Demand for power had meanwhile
+continued to grow – driven by the commercial and industrial sectors - in recent years, along with the rising
+electrification rate, the peak load growing at 13 percent per annum on average. To meet the rising demand,
+Lao had to import about one-third of its electricity requirement from neighboring countries. In 2013,
+some1,205 GWh were imported - 80 percent from Thailand, 18 percent from China and 2 percent from
+Vietnam – at a cost of US$65 million or about 0.6 percent of estimated GDP in that year.
+
+At the time of appraisal, the key challenges facing the Lao electricity sector included inadequate domestic
+(hydro) generation capacity for consumption, especially in the dry season (November – April), lack of a
+
+                                                                                                      Page 3 of 14
+                                      Independent Evaluation Group (IEG)                       Implementation Completion Report (ICR) Review
+                                      LA - Power Grid Improvement Project (P149599)
+
+
+
+               nationally connected power transmission grid, and inadequate transmission/distribution fees for T&D
+               business. While the power sector had achieved a major degree of success by increasing electrification, the
+               power grid was increasingly facing new challenges related to the rapid growth of demand for
+               electricity. The main challenge were persistently high distribution losses (averaging 13 percent in 2014,
+               with some areas experiencing over 20 percent) and sub-standard electricity services, including low
+               reliability of supply due to overloading of the distribution grid, particularly in the main load areas.
+
+               Alignment with Country Strategies
+
+               The World Bank Group (WBG) has been supporting Lao PDR’s electricity sector since the 1960s, with a
+               special focus on rural electrification since the 1980s. The project, which was intended to address the above
+               key challenges, marked a shift in focus of WBG engagement from increasing access and rural electrification
+               towards improving efficiency and reliability of electricity supply. High distribution losses were a fundamental
+               problem for the electricity utility (EDL), contributing to its troubled financial condition, as it was forced to
+               purchase additional power to cover the excessive losses, which it could not recover in terms of revenue. At
+               the same time, the low reliability and quality of power supplied affected the smooth running of industrial and
+               commercial activities, leading some customers to provide expensive back-up equipment. Against this
+               background, modernizing the electricity distribution network, with a view to reducing losses and improving
+               reliability was and remains a key national priority.
+
+               The objectives of the project were consistent with the WBG Country Partnership Strategy (CPS) FY12-16,
+               being aligned with all three themes, of (a) competitiveness and connectivity, (b) sustainable natural
+               resource management, and (c) inclusive development with a cross-cutting theme of stronger public sector
+               management. Improving the quality and reliability of power was expected to have a positive impact on
+               competitiveness; the reduction of distribution losses would result in the saving of energy and reduced need
+               for new generation; the cross-cutting theme of stronger public sector management would be supported by
+               an improvement in the financial management system of the state-owned electric utility, EDL. The project’s
+               objectives remained substantially relevant to the new County Partnership Framework (CPF), FY17-21,
+               aligning with the CPF’s Focus Area 1 of (i) “Supporting inclusive growth” and its Objective 1.3 of ‘Investing
+               in infrastructure for growth and inclusion” and its cross-cutting theme of strengthening institutions and
+               systems for improved policy implementation.
+
+               Based on the above, Relevance of Objectives is rated Substantial.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             “To help improve efficiency of power distribution in selected load areas served by EDL”
+
+                                                                                                                             Page 4 of 14
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   LA - Power Grid Improvement Project (P149599)
+
+
+
+
+Rationale
+Theory of Change (TOC)
+
+The project was designed to help improve the efficiency and reliability of power distribution in selected load
+areas served by EDL (all those served by all existing MV distribution lines in Xaythany district – a total of 22
+lines covering 127 km – connected to some 239 km of LV lines). Towards this end, a broad causal
+connection could be drawn between the project’s activities and its outputs and outcomes. Key activities were
+grouped under three active components: (a) smart metering and infrastructure & equipment upgrades to
+medium and low voltage distribution lines, (b) provision of a modern electric utility information system, and (c)
+institutional capacity building and implementation support. These activities produced a variety of outputs,
+including (i) rehabilitated medium and low voltage lines and installed smart meters, (ii) installed
+communication hardware and software links, expanded Geographical Information System (GIS) to support
+distribution operation & maintenance (O&M), and updated financial management information system (FMIS),
+and (iii) software, instruments, consultant support and trainings. These in turn led directly to PDO-level
+outcomes, to help improve power distribution efficiency and reliability.
+
+While the activities were broadly appropriate to achieving the desired outcomes, the theory of change (TOC)
+discussion in the ICR does not specifically analyze whether they were of adequate scale to create a critical
+mass for change. Also, the TOC was based on the assumption that EDL’s financial condition remained
+adequate to carry out an effective distribution modernization program.
+
+Outputs
+
+- 15,163 residential electric meters installed, against a target of 15,000 (target achieved), replacing old
+residential analog meters. It was expected that this would help bring down distribution losses by supporting
+time-of-use tariffs, and by facilitating automatic meter reading.
+
+- 1,875 non-residential meters installed, to replace old mechanical meters, were installed, against a target of
+1,500 (target exceeded).
+
+- 366 km of distribution lines were rehabilitated, against a target of 300 km (target exceeded). Overloaded
+medium-voltage transformers, and medium and low-voltage lines were replaced, along with capacitors, load-
+break switches and re-closers.
+
+
+Outcomes
+
+Improved efficiency of power distribution was measured in terms of reduction of distribution losses – both
+technical and non-technical. As specified in the results matrix, electricity losses per year in the project area
+were measured by the difference (in percentage terms) between total net injected generation and total energy
+billed to customers (PAD, p.20). This emphasis on the impact of key technical improvements, rather than on
+bill collection or theft control activities, was appropriate given focus of the project’s activities (ICR, p.14).
+
+On this basis, the objective of improving efficiency in load areas served by EDL was achieved as reflected in
+the fact that electricity losses were successfully reduced from their baseline of 24 percent to 14.3 percent by
+closing and 14 percent two months later (as confirmed by EDL) against the target of 14 percent. This was
+
+
+                                                                                                   Page 5 of 14
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   LA - Power Grid Improvement Project (P149599)
+
+
+
+aided by the implementation and commissioning of smart metering, which had expanded to cover some 20
+percent of customers in the district by project closing.
+
+Direct project beneficiaries under the project expanded from a base of 207,000 to 306,000 – exceeding the
+target of 297,000.
+
+On this basis, with all outcome and intermediate outcome indicators having met their targets, achievement of
+this objective is rated High.
+
+
+
+
+Rating
+High
+
+
+OBJECTIVE 2
+Objective
+“To help improve the reliability of power distribution in selected load areas served by EDL”
+
+Rationale
+Theory of Change (TOC)
+
+As mentioned above, the project was designed to help improve the efficiency and reliability of power
+distribution in selected load areas served by EDL (all those served by all existing MV distribution lines in
+Xaythany district – a total of 22 lines covering 127 km – connected to some 239 km of LV lines). Towards this
+end, a broad causal connection could be drawn between the project’s activities and its outputs and
+outcomes. Key activities here included equipment upgrades to medium and low voltage distribution lines and
+to utility information systems, as well as the installation of an expanded GIS to support distribution Operation
+& Maintenance.
+
+Reliability of power distribution was evaluated in terms of (a) the average interruption frequency per year in
+the project area, and (b) the average duration of outages in the project area. Towards this end, the following
+key indicators were used: (i) the System Average Interruption Frequency index (SAIFI), and (ii) the System
+Average Interruption Duration Index (SAIDI). At appraisal, it was noted that EDL did not have the data to
+record these indexes since the company lacked the equipment to record the interruption data at final
+consumer level. Hence estimation of baselines had to wait upon installation of digital meters and utility
+information management systems. Baselines were established subsequently during project implementation,
+with the help of specialized consultants, and reflected metrics at the end of 2018. However, though there was
+no accurate assessment of SAIDI available at approval, a dramatic improvement in SAIDI was in fact
+observed to have taken place between 2012 and 2018 (according to the ICR, by a factor of 20 times. See:
+ICR, p.14). Substantial progress in SAIDI and SAIFI was similarly observed since project approval in June
+2015, well in excess of the targeted reduction levels.
+
+Outputs
+
+
+
+                                                                                                  Page 6 of 14
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                LA - Power Grid Improvement Project (P149599)
+
+
+
+                            - Common to Objective 1: 366 km of distribution lines rehabilitated against a target of 300 km (target
+                            exceeded). Overloaded medium-voltage transformers, and medium and low-voltage lines were replaced,
+                            along with capacitors, load-break switches and re-closers.
+
+                            - As part of strengthening the utility information system:
+
+                               (A) 183 staff trained on procurement, STEP, project management, etc., against a target of 50.
+                               (B) Issuance of financial statements: The number of months needed to issue financial statements reduced
+                            from a baseline of 9 to 3, an improvement over the target of 4 months.
+                               (C) Updated financial action plan for financial sustainability: The Third Financial Action Plan was
+                            completed, as per the target, and endorsed by EDL and MEM.
+
+                            - Average duration of outages in the project area: From a baseline of 2.35 hours (calculated as of December
+                            2018), and a target of 2.12 hours, actual achievement was 1.0 by 2019 – a significant overachievement. On
+                            account of many storm incidents and severe weather events during the latter part of 2020, the average
+                            duration registered an increase to 2.40 hours at the beginning of 2021. Notwithstanding this volatility
+                            however, the general trend in the SAIDI was clearly downwards (SAIDI having shown a 20-fold improvement
+                            between 2012 and 2018).
+
+                            Outcomes
+
+                            Reliability of power distribution improved substantially in the load areas selected, over the duration of the
+                            project. The frequency of average interruptions per year was reduced drastically, from a 2018 baseline of
+                            19.14 to 10.30 by closing, significantly lower than the target of 17.23. This, achievement was despite the fact
+                            that the population of customers in the selected load areas at closing was larger (70,268) than at approval
+                            (47,060).
+
+                            Based on the above results, and taking into account the difficulty of establishing accurate baselines at
+                            approval, the project substantially achieved this objective.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            It is seen from the above that the project achieved its two objectives. Since there were no other EDL or other
+                            development partner’s investments carried out in the geographical project areas during the period,
+                            achievement can for the most part be directly attributed to the project. Efficacy was rated High for one
+                            objective and Substantial for the other. Overall efficacy is hence rated Substantial.
+
+
+
+
+                                                                                                                              Page 7 of 14
+       Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+       LA - Power Grid Improvement Project (P149599)
+
+
+
+
+  Overall Efficacy Rating
+  Substantial
+
+
+
+ 5. Efficiency
+The economic internal rate of return (EIRR) for the project at closing was estimated at 35.8 percent, with a Net
+Present Value (NPV) of US$61.2 million which was comparable to the estimated rate at appraisal of 37 percent
+and NPV of US$62.9 million. The project’s financial internal rate of return (FIRR) at closing was an estimated
+19.3 percent, with the NPV at US$149 million, both of were closely comparable with the FIRR and NPV
+estimated at appraisal of 20 percent and US$1534 million.
+
+Operational/Administrative Efficiency
+
+Overall the project was implemented without any cost overrun, with physical implementation running relatively
+smoothly (the only exception being the fact of the accidental death of one worker, which led to a three-month
+hiatus to investigate the root cause and institute improved safety protocols). The major works were essentially
+completed prior to the onset of the covid-19 restrictions, including border closures, in March 2020. However, a
+one-year extension was agreed to facilitate the installation and commissioning of the new advanced metering
+and use the projected project savings to provide an electronic HR/payroll system and new safety equipment.
+
+On this basis, the project’s efficiency is rated Substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                 Rate Available?                Point value (%)       *Coverage/Scope (%)
+                                                                                      0
+ Appraisal                                                     37.00
+                                                                                       Not Applicable
+                                                                                      0
+ ICR Estimate                                                  35.80
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project’s development objectives remain substantially relevant to the needs of the LAO PDR’s electricity
+sector, as well as to the WBG’s current CPS for Lao PDR. Its overall efficacy was rated Substantial, the project
+having achieved its key development objectives. Its efficiency is similarly rated Substantial, on the basis of both
+
+                                                                                                      Page 8 of 14
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      LA - Power Grid Improvement Project (P149599)
+
+
+
+economic analysis and Operational/Administrative efficiency considerations. As such, its overall outcome is
+rated Satisfactory.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+Key risks to development outcome include: (a) Technical risks, arising from a possible deterioration over time
+in reliability/efficiency of electricity supply as a potential consequence of rapidly rising demand for electricity;
+(b) Financial sustainability risks, arising from the possibility of electricity tariffs remaining too low over the
+foreseeable future - resulting in insufficient investment in the power system to properly operate and manage
+the distribution network, and a shortage of finance for on-going maintenance; (c) Risks arising from weather-
+related disruption and damage to infrastructure. These risks are presumed to be relatively low, in keeping
+with the progress made by the sector to date (ICR, pgs. 23-24). Financial risks in particular were being
+addressed by the Government through a review of electricity tariffs, which the World Bank was conducting at
+the request of the authorities via the Bank-supported technical assistance for capacity building project for the
+hydropower and mining sectors.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The project design was aligned with a larger EDL investment program already under way, aimed at
+  making fundamental improvements to the electricity network through introduction of a distribution
+  automation system, a fault-detection, investigation & restoration system, and a distribution
+  management/SCADA system, in four provinces. The project was intended to coordinate with these
+  activities and focus on a specifc fast-growing district (Xaythany) that had the highest distribution losses in
+  the country. As noted by the ICR (p.23), the technical design of the project was sound and well
+  targeted. The project design was relatively straight-forward and self-contained, and sized so as not to
+  necessitate additional co-financing to supplement IDA resources. The project’s key performance
+  indicators (KPIs) were built around the commonly-used SAIDI and SAIFI indicators, which had not
+  previously been monitored by EDL. As such, baseline values for these KPIs could only be collected after
+  building up adequate measurement capability at EDL, a process that took nearly three years.
+
+  Planned implementation arrangements were generally appropriate, taking account of the Bank’s fiduciary
+  and safeguards policies. EDL had prior experience of working with the Bank on earlier projects and this
+  project was consistent with EDL’s usual business activities, aided by specialist consultants and
+  contractors who would be procured under the project. Key risks identified revolved mainly around
+  fiduciary aspects and EDL’s financial position. An FM capacity assessment of EDL, conducted in 2015,
+  confirmed that the utility had adequate FM systems and capacity in place to satisfy the Bank’s OP/BP
+  10.00 with respect to financial management. Based on a procurement capacity assessment, it was
+  decided to engage a dedicated procurement specialist for the duration of the implementation period. To
+
+                                                                                                         Page 9 of 14
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     LA - Power Grid Improvement Project (P149599)
+
+
+
+  address EDL’s financial liquidity problems, the Bank and IFC jointly facilitated the Lao PDR authorities in
+  developing the Second Action Plan for Financial Sustainability of EDL and the Lao Power Sector
+  Financial Action Plan for 2013-17.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The project was adequately supervised. The Bank team conducted 11 bi-annual supervision missions over
+ a five-year period, providing implementation support from the country and regional offices. The ICR notes
+ (p.20) that ISRs prepared were generally well-detailed and provided a candid assessment of issues and
+ progress. The team was adequately engaged in implementation issues. When, for instance, a workplace
+ accident involving a live power line led to a fatality, the Bank team recommended implementation of a
+ safety checklist procedure and form completion for a power shutdown operation be done before work
+ restarted, rather than afterward, as had been the practice. The Bank also recommended that EDL
+ regularly conduct internal safety audits as part of the utility’s safety management system. When EDL’s
+ overall financial condition worsened during the project period, the Bank team took steps to review and
+ waive two covenants related to the utility’s financial performance. In addition, under a parallel project, the
+ Bank undertook a review of electricity tariffs and a social assessment on tariff affordability in the design of a
+ new tariff instruction after 2017.
+
+ The ICR (p.35) notes that development partner dialogue and coordination were well integrated during
+ project implementation. The Bank team worked with donors in advance of the NBI annual donor and
+ annual governance meetings to ensure that all parties – particularly the NBI governance structure – were
+ aware of the funding situation due to shortfalls of country contributions or other liquidity issues.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ According to the ICR (p.21), the results framework was fairly clear and straightforward. Baselines for the
+ SAIFI and SAIDI indicators had to be set during implementation because of a lack of adequate
+ measurement capacity and tools at the project’s appraisal stage. However, proxy data available in the
+ PAD allowed a reasonable estimate of the original values in the ICR, enabling a robust assessment of the
+ results to take place.
+
+
+                                                                                                      Page 10 of 14
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     LA - Power Grid Improvement Project (P149599)
+
+
+
+
+b. M&E Implementation
+  The M&E function was satisfactorily managed for reporting by EDL. EDL monitored progress of the
+  components against the performance indicators and prepared annual progress reports on project
+  implementation. Though it took nearly three years, EDL was able to establish baseline values for the
+  indicators that did not already have them at appraisal, and these were validated by the Bank. Technical
+  assistance activities had their own M&E mechanism. A Mid-Term Review was held in early 2018 to take
+  stock of the project’s implementation progress.
+
+
+
+c. M&E Utilization
+  M&E processes and results were utilized at each stage of project implementation. Key data from the
+  project, particularly for SAIFI and SAIDI, were fundamental for optimizing effective O&M of the
+  distribution network.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as Category B at entry and triggered the following policies at appraisal: OP 4.01
+   (Environmental Assessment), OP 4.11 (Physical Cultural Resources) and OP 4.12 (Involuntary
+   Resettlement). OP 4.01 was triggered because some mitigation measures needed to be implemented
+   during the civil works to minimize site-specific impacts on the environment. Environmental and social risks
+   arising were limited on account of the rehabilitation nature of the project, with no involuntary resettlement or
+   land acquisition being involved. The impact was limited to the voluntary donation of some land for the
+   installation of some 50 power poles along a 9 km section of provincial public road and was located in the
+   paddy fields. As regards OP 4.12, protocols for voluntary land donation and a Resettlement Policy
+   Framework were included in the Environmental and Social Management Plan (ESMP). OP 4.11 was
+   triggered as a precautionary measure to avoid impacts to stupas, pagodas and other cultural
+   resources. The initial site survey did not reveal any physical cultural or historical resources within the
+   existing 22 kV distribution right of way. A detailed survey to identify any such resources at the site of the
+   new power poles was conducted during the implementation phase.
+
+   As mentioned in the ICR (p.22), the project complied with the triggered safeguards policies. The
+   safeguards rating at the close of the project was Satisfactory for both environmental and social safeguards.
+
+
+
+
+                                                                                                     Page 11 of 14
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     LA - Power Grid Improvement Project (P149599)
+
+
+
+b. Fiduciary Compliance
+   According to the ICR (p.22), the financial management (FM) area presented some challenges that (with
+   one exception – timing of audited financial statements) were eventually resolved. Deficiencies were noted
+   in compiling a project asset register, updating contract management arrangements, documenting the use
+   of funds in Designated Account (including explaining questionable expenditures) and the timing of audited
+   report submission. Two irregularities flagged by the audited reports of 2018 and 2019 relating to impropers
+   use of project funds and overstatement of some consultancy expenses were resolved by EDL top
+   management, once they were flagged to them. Given that the project closing date was March 31, 2021, it
+   was decided to extend the period of the 2020 financial report to cover the first quarter of 2021. The
+   audited report for this consolidated period is expected to be available during the third quarter of 2021.
+
+   The FM performance rating was Moderately Unsatisfactory at project closing.
+
+   As regards Procurement, the procurement team included some members from EDL’s procurement office,
+   with support from an international procurement consultant. All packages under the project were procured
+   and procurement performance was rated Highly Satisfactory at project closing.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                               Reason for
+Ratings                        ICR                   IEG
+                                                                               Disagreements/Comment
+Outcome                        Satisfactory          Satisfactory
+
+Bank Performance               Satisfactory          Satisfactory
+                                                                               M&E was adequate to measure
+Quality of M&E                 Modest                Substantial               progress under the results
+                                                                               framework
+Quality of ICR                 ---                   Substantial
+
+
+12. Lessons
+
+IEG derives the following lessons drawn from the ICR:
+
+1. The Project illustrates the importance of structuring operations on the basis of sound and
+well-targeted technical design, supported by adequate institutional capacity building. The
+design of the project was relatively straight-forward and well-contained, and supported by adequate
+governance structures. The selected district had the highest level of distribution losses in the
+country, making it an obvious candidate for project selection. Though improvements could have
+
+                                                                                                 Page 12 of 14
+       Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+       LA - Power Grid Improvement Project (P149599)
+
+
+
+been made in sector regulation, this would not have affected the viability or progress of the
+operation. The experience gained from the project could subsequently be scaled up and replicated
+in other load areas with high losses.
+
+2. The long delay in setting baselines for some key indicators was a reminder that good
+project preparation can sometimes take a long time. There can be a tension between the need
+to deploy IDA resources quickly and the need to take the time to undertake the up-front work needed
+to prepare the project thoroughly. Key M&E issues also need to be flagged to counterparts early
+during appraisal to facilitate planned operations.
+
+3. Though it is tempting for multilateral financing institutions to introduce ambitious
+financial covenants wth a view to improving the condition of large state-owned utilities, these
+can often be challenging to implement in the course of a single investment
+operation. Sustained progress is most likely to happen in the context of an on-going and future
+involvement, allowing supportive policies sufficient time in which to evolve.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is well written and internally consistent and it provides a fair amount of detail on implementation. The
+achievement of objectives is adequately analyzed. Weaknesses in the M&E system and elsewhere are
+highlighted and discussed, although the rating of the M&E system is too strict; while some baseline values were
+only established three years into the project, the results framework itself was sound and the M&E system was
+well set up. Apart from that, the narrative supports the ratings and available evidence. One area which lacked
+adequate detail was the discussion of the Bank’s quality of supervision, treatment of which was relatively
+cursory.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                  Page 13 of 14
+Independent Evaluation Group (IEG)              Implementation Completion Report (ICR) Review
+LA - Power Grid Improvement Project (P149599)
+
+
+
+
+                                                                             Page 14 of 14
+

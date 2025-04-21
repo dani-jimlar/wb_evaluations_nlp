@@ -1,0 +1,842 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     VN-Managing Natural Hazards Project (P118783)
+
+
+
+                                                                                  Report Number: ICRR0022118
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P118783                                    VN-Managing Natural Hazards Project
+
+ Country                                    Practice Area(Lead)
+ Vietnam                                    Urban, Resilience and Land
+
+
+ L/C/TF Number(s)                           Closing Date (Original)                Total Project Cost (USD)
+ IDA-51390                                  31-Mar-2019                                         124,939,352.46
+
+ Bank Approval Date                         Closing Date (Actual)
+ 26-Jul-2012                                30-Sep-2019
+
+                                            IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                            150,000,000.00                                              0.00
+
+ Revised Commitment                             150,000,000.00                                              0.00
+
+ Actual                                         127,073,332.38                                              0.00
+
+
+
+
+ Prepared by                 Reviewed by                  ICR Review Coordinator          Group
+ Katharina Ferl              John R. Eriksson             Christopher David Nelson        IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to the Project Appraisal Document (PAD) (p. vi) and the Financing Agreement of September 13,
+   2012 (p. 5) the objective of the project was “to increase the resilience of the people and economic assets to
+   natural hazards in selected river basins of the project provinces within the overall framework of Vietnam’s
+   National Disaster Prevention, Response and Mitigation Strategy Towards 2020”.
+
+
+
+
+                                                                                                   Page 1 of 16
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     VN-Managing Natural Hazards Project (P118783)
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project included five components:
+
+   Component 1: Strengthening Disaster Risk Management (DRM) institutions, information systems
+   and planning (appraisal estimate US$5.50 million, actual US$4.77 million): This component included
+   three sub-components.
+
+   a) Strengthening DRM institutions including: i) facilitation of inter-ministerial coordination, policy dialogue
+   and knowledge-sharing mechanisms; ii) establishment of provincial disaster management centers in project
+   provinces where such centers are needed; and iii) provision of technical assistance for government
+   agencies at different levels.
+
+   b) Improvement of DRM information systems including: i) harmonizing and integrating existing DRM
+   databases and information systems; ii) development of an inventory of existing medium and small scale
+   reservoirs in project provinces, their safety standards, safety guidelines, and operational procedures; iii)
+   development of software for the management of reservoirs to be used at national and provincial levels; and
+   iv) provision of technical assistance on the use of the databases and software and the implementation of
+   safety guidelines.
+
+   c) Support for the integration of DRM in river basin planning including: i) provision of support for data
+   collection and assessment of exposure, risks and vulnerability at the basin scale; ii) provision of support for
+   identification of vulnerable areas, and possible structural and non-structural measures to mitigate natural
+   hazard risks; and iii) provision of capacity building on the use of hydrological models and geographic
+   information systems to DRM staff at provincial level.
+
+   Component 2: Strengthening weather forecasting and early warning systems (appraisal estimate
+   US$30.0 million, actual US$24.69 million): This component included three sub-components:
+
+   a) Technical Assistance for development and implementation of an integrated national hydromet (an
+   integrated approach to weather, water and climate issues) forecasting and early warning systems and end-
+   to-end applications including: i) the preparation of hydromet implementation plan at the national level and
+   for central region; ii) the design of a nation-wide communication system; and iii) strengthening end-to-end
+   communication system through provision of support for the training on interpretation of early warning
+   products for relevant staff and communities, improvement of products and services and communication
+   between hydromet services and users, application of forecast interpretation tools, and development of user-
+   tailored products in areas such as agriculture, tourism, energy, transport and water resource management.
+
+   b) Strengthening hydromet observation and monitoring networks, computer hardware and information and
+   communication technology infrastructure including: i) installation of automated hydromet observing networks
+   and communication systems; and ii) relevant capacity building activities.
+
+
+
+
+                                                                                                      Page 2 of 16
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    VN-Managing Natural Hazards Project (P118783)
+
+
+
+  c) Monitoring and Evaluation. Establishment and implementation of a monitoring and evaluation system for
+  component 2 of the project.
+
+  Component 3: Community-Based Disaster Risk Management (CBDRM) (appraisal estimate US$19.50
+  million, actual US$16.16 million): This component was to finance the implementation of the government’s
+  national CBDRM strategy in approximately 100 communes through:
+
+  a) Commune institutional strengthening through i) improving commune-level flood and storm risks
+  management procedures; ii) capacity building for commune-based institution leaders; iii) the development of
+  inter-communal support platforms; iv) development of community resilient planning; and v) enhancement of
+  private sector commune partnerships.
+
+  b) CBDRM Investments for: i) non-structural measures such as evacuation drills, public awareness raising,
+  communication and early warning systems, relevant equipment, and participatory workshops; and ii)
+  structural measures, including small-scale multi-purpose shelters and evacuation roads, and the preparation
+  of plans and designs for the management, operation and maintenance of each structural unit.
+
+  Component 4: Priority disaster risk mitigation investments (appraisal estimate US$117.0 million,
+  actual US$98.75 million):
+
+  This component was to finance the identification, prioritization, and implementation of major DRM
+  investments (sub-projects) within the four selected river basins to mitigate risks posed by natural hazards.
+  These structural measures were to respond to agreed prioritization criteria. Six project provinces covering
+  four major river basins were each to receive US$8-12 million for eligible investments, while the other four
+  provinces were to receive US$4-6 million each. According to the ICR (p. 26) the Ministry of Agriculture and
+  Rural Development (MARD) suggested to focus on nine river basins and ten provinces. A phased approach
+  including this number of provinces and river basins was eventually agreed on. Investments were to be
+  implemented in two phases and include rehabilitation of selected dams and reservoirs to improve their
+  safety, rescue roads and bridges, riverbank protection, and safe harbors at river mouths for fishing boats.
+
+  Component 5: Project Management, Monitoring and Evaluation (appraisal estimate US$8.0 million,
+  actual US$3.6 million. The ICR did not state why the actual costs of this component were substantially
+  lower than the appraisal estimate): This component was to finance:
+
+  a) Project Management: providing support for the Project Steering Committee (PSC), the Central Project
+  Management Office (CPMO), the Project Management Office (PMO), the Provincial Project Management
+  Units (PPMUs) and other implementing agencies for effective project management, implementation, and
+  supervision.
+
+  b) Monitoring and Evaluation: providing support for the establishment and implementation of an effective
+  monitoring and evaluation system.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost: The project was estimated to cost US$167.6 million. The actual cost was US$150.01 million.
+
+
+
+
+                                                                                                 Page 3 of 16
+                         Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+                         VN-Managing Natural Hazards Project (P118783)
+
+
+
+                       Financing: The project was to be financed by a US$150.0 million IDA loan of which US$127.07 million
+                       disbursed.
+
+                       Borrower contributions: The Borrower was to contribute US$17.6 million. Actual contribution was
+                       US$22.94 million.
+
+                       Dates: The project was restructured twice:
+
+                             On May 28, 2016 the project was restructured to remove the project’s results framework from the
+                              Financing Agreement and place said indicators in the relevant project manual. This amendment was
+                              part of the one-time amendment for 13 projects in order to assist the facilitation of timely and
+                              successful implementation activities and results of all 13 projects.
+                             On March 27, 2019 the project was restructured to extend the credit closing date by six months from
+                              March 31, 2019 to September 30, 2019 to facilitate the implementation of the remaining project
+                              activities and enhance achievement of the objective.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+According to the PAD (p. 1) Vietnam is one of the countries most exposed to natural hazards, given its
+geography, topography, economic structure, and population distribution. Vietnam is vulnerable to droughts,
+landslides and seawater intrusion with floods and typhoons being the dominant hazards. At the time of
+appraisal, almost 60 percent of Vietnam’s total land area and over 70 percent of its population were at risk
+to these natural hazards. The potential for losses from natural hazards were particularly high in Vietnam’s
+Central Region (the targeted area of the proposed project). Approximately 65 percent of all recorded storms
+and an even higher proportion of storm-related damage and loss of life occurred in this region. The Central
+Region experienced higher than average poverty rates and the recurrent extreme weather events posed a
+constraint for economic growth.
+
+In 2007, the government approved a National Strategy for Natural Disaster Prevention, Response and
+Mitigation towards 2020 (NSNDPRM) and in 2009 the government approved the strategy’s Implementation
+Plan. These documents emphasized a shift from ex-post disaster relief and response to ex-ante risk
+reduction through preparedness and resilience.
+
+The project’s objective was in line with the government’s Socio-Economic Development Plan (SEDP)
+(2016-2020) which emphasizes the importance of climate adaptation and DRM. Also, the project’s objective
+was aligned with the Bank’s most recent Country Partnership Framework (FY18- FY22) and its focus area 3
+“ensure environmental sustainability and resilience”. The project also supported the CPS’s objective 10,
+which aims to increase climate resilience and strengthen disaster risk management and objective 11, which
+aims to strengthen natural resources management and improve water security.
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+
+                                                                                                                    Page 4 of 16
+                      Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+                      VN-Managing Natural Hazards Project (P118783)
+
+
+
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                OBJECTIVE 1
+                Objective
+                To increase the resilience of the people and economic assets to natural hazards in selected river basins of
+                the project provinces within the overall framework of Vietnam’s National Disaster Prevention, Response and
+                Mitigation Strategy Towards 2020:
+
+                Rationale
+                Rather than dividing the PDO into sub-objectives, the ICR assessed the project outcomes through four
+                outcome areas that define the concept of resilience. The ICRR will also apply this concept.
+
+                The project’s theory of change envisioned that project outputs such as the upgrading of weather/hydrological
+                stations, developing and installing national hydromet forecasting and early warning systems, trainings staff on
+                observation systems, forecasting/early warning systems, preparing Operations & Maintenance (O&M) plans,
+                developing four Standard Operating Procedures (SOPs) as well as enhancing systems were to result in the
+                enhancement of hydromet services and Early Warning Systems (EWS) which was to ultimately contribute to
+                the achievement of the PDO.
+
+                Also, the project’s theory of change envisioned that project outputs such as training of government technical
+                staff and commune members in CBDRM, preparing communal flood and storm risk management plans
+                annually, holding joint evacuation exercises among clustered communities, as well as upgrading and newly
+                constructing small structures were to result in the enhancement of preparedness at the community level
+                which was to ultimately contribute to the achievement of the PDO.
+
+                Furthermore, the project’s theory of change envisioned that project outputs such as upgrading/rehabilitating
+                project infrastructure such as dykes, weirs, roads, and bridges as well as upgrading reservoirs with higher
+                safety levels was to result in the enhancement of resilience of communities through natural hazard mitigation
+                which was to ultimately contribute to the achievement of the PDO.
+
+                Finally, the project’s theory of change envisioned that project outputs such as updating DRM laws, strategies,
+                guidelines as well as databases, training staff in database management, and satellite maps usage as well as
+                preparing DRM integrated river basins plans were to result in the strengthening of the enabling environment
+                for DRM which was to ultimately contribute to the achievement of the PDO.
+
+                The PAD did not make any assumptions but the ICR (p. 8) assumed the following: i) implementing agencies
+                were to strengthen capacity to manage complex operations involving structural and non-structural activities; ii)
+                hydromet systems were to be installed and used by the national hydromet agency; iii) communities were to
+                participate in DRM planning and response exercises; iv) flood control infrastructures were to be adequate for
+                most storms and to be maintained; and v) successes from project were to be maintained, replicated, and
+                scaled up.
+
+
+                                                                                                                  Page 5 of 16
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   VN-Managing Natural Hazards Project (P118783)
+
+
+
+Outputs:
+
+1. Enhancing hydromet services and early warning systems:
+
+      150 additional hydromet stations were installed and connected to the national system, surpassing the
+         target of 73 additional hydromet stations.
+      An Integrated National Early Warning System and Operations Plan for Hydromet Sector was prepared
+         and endorsed, surpassing the target of the plan being prepared.
+
+2. Enhanced preparedness at the community level:
+
+      100 Communes had emergency preparedness plans in place, achieving the target of 100 communes.
+      The project conducted trainings for commune-based institution leaders to strengthen their ability to
+         mobilize people according to the motto “four on the spot” for disaster prevention in localities in line
+         with the NSNDPRM. According to the ICR (p. 16) “four on the spot” means that each household or
+         locality should prepare all essential items to prevent or respond to natural disasters, which may occur
+         at the locality at any time. The prepared items should meet the emergency relief demands of the
+         household or its locality, and ensure that they are ready to provide support to other households or
+         localities before external entities are asked to provide support.
+        100 disaster prone communes participated in evacuation drills, achieving the target of 100 communes.
+        The project prepared several trainings (see Enabling Environment Area below for number of trainees
+         and target):
+        213 training classes on strengthening Community-based Disaster Risk Management (CBDRM)
+         capacity for DRM staff at the provincial, district, and commune levels.
+              o 719 trainings on disaster management and response skill, first aid, and house protection for
+                  task forces and people in villages and communes.
+              o 20 classes on M&E community disaster prevention.
+              o 79 training classes for teachers and 756 communication sessions for teachers and students.
+        100 commune-level Socio-Economic Development Plans (SEDP) were revised to integrate DRM and
+         were also approved, surpassing the target of 90 plans. SEDPs are an essential development tool for
+         budgeting and implementing priority actions within the communes.
+        The project supported 129 small-scale disaster mitigation works such as disaster evacuation centers,
+         flood evacuation roads, pools for children to learn swimming etc.
+
+3. Enhanced resilience of communities through natural hazard mitigation infrastructure:
+
+      The project rehabilitated 84.9 kilometers of evacuation roads, surpassing the target of 25 kilometers.
+      42.4 kilometers of dyke and river embankment improvements were made. This output did not have a
+         target.
+        19 dams were strengthened/rehabilitated, surpassing the target of nine dams.
+        29 kilometers of rural road were rehabilitated, achieving the target of 29 kilometers.
+        Four storm shelters for fishing boats were completed. This output did not have a target.
+        Seven reservoirs were upgraded and restored which were at the risk of falling apart. This output did
+         not have a target.
+
+
+
+                                                                                                  Page 6 of 16
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   VN-Managing Natural Hazards Project (P118783)
+
+
+
+4. Strengthened enabling environment for DRM:
+
+      Three DRM-related databases were improved including: i) database on dam safety; ii) database,
+       management software, and DRM maps for all ten project provinces; and iii) dyke management in the
+       central region, achieving the target of three databases being established and maintained.
+      Technical assistance was provided to 10 provinces to strengthen the capacity of dam operators for
+       reservoir safety, develop technical standards, guidelines, handbooks, budgetary mechanisms, and
+       strengthen the process of technical inspections for dam safety.
+      642 government staff at the national and provincial levels was trained, surpassing the target of 410
+       staff. The aim of the training was to improve the knowledge on DRM to build capacity and raise
+       awareness of stakeholders, central and local agencies, and local communities.
+
+Outcomes:
+
+1. Enhancing hydromet services and early warning systems:
+
+      All 100 communes were covered by storm and flood early warning services and with increased
+       awareness about emergency response, achieving the target of 100 communes.
+
+2. Enhanced preparedness at the community level:
+
+According to the ICR (p. 15) communes increased their response capacity by improving the quality of
+forecasts and provide impact-based forecasting. This allowed communes to better anticipate the effects of
+natural hazards and actions that should be taken to be prepared. Also, preparedness was improved through
+all communes being covered by storm and flood early warning services as stated above.
+
+Furthermore, the ICR stated that in September 2017, when Typhoon Doksuri struck Vietnam, in project-
+supported communes in Quang Binh province, people actively prepared for the arrival of the Typhoon. For
+example, communes used the project’s flood risk maps to identify evacuation routes to higher elevation
+areas, rescue equipment to evacuate vulnerable people to storm shelters, and actively protected their
+houses. This had a positive impact on reducing the risk.
+
+3. Enhanced resilience of communities through natural hazard mitigation infrastructure:
+
+      551,902 people were protected by enhanced priority infrastructure built by the project, achieving the
+       target of 550,000 people. According to the Bank team (June 1, 2020) construction was delayed due to
+       bad weather resulting in its completion during the last implementation phase.
+      62,061 hectares of land protected by enhanced flood protection measures, surpassing the target of
+       50,000 people. These works included strengthening of river and reservoir embankments,
+       improvements to critical dyke infrastructure and pumping stations, construction of emergency
+       evacuation roads, which reduced the risk of floods and enhanced the resilience of people with life-
+       saving evacuation infrastructure.
+
+4. Strengthened enabling environment for DRM:
+
+
+
+
+                                                                                                 Page 7 of 16
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                VN-Managing Natural Hazards Project (P118783)
+
+
+
+                            10 provincial river basin plans were prepared or updated with DRM factors and approved by the PPC,
+                            achieving the target of 10 plans.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project achieved significant results under all four resilience areas. However, according to the ICR (p. 22)
+                            some of the project outcomes were only achieved in the last phase of implementation. Therefore, the project’s
+                            overall efficacy is rated Substantial.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+   5. Efficiency
+   Economic efficiency:
+
+   The PAD (p. 9) conducted an Economic analysis for six sub-projects of Component 4 and considered Economic
+   benefits of Components 2 and 3. The main economic benefits were reduced likelihood of flood events and
+   associated damages through infrastructure investment, capacity building, and early warning. Net incomes per
+   crop/activity were estimated to be higher by 17 to 75 percent in the ‘with’ project scenario due to reduced
+   production losses. Household models showed that the project increased family incomes by 8 to 25 percent. In
+   addition, the models also confirmed significant project benefits for poor households.
+
+   Applying a discount rate of 10 percent, the overall economic rate of return (ERR) was estimated at 15.8 percent,
+   and the net present value (NPV) at VND 648 billion (US$32.4 million). The ERR for the individual sub-projects
+   varied between 11.8 and 24.6 percent, all showing positive NPVs.
+
+   The ICR (p. 21) conducted an ex post Economic analysis for component 3 and 4 sub-projects and the
+   development of the forecasting and early warning system strengthening under component 2 (99.8 percent of the
+   actual total project cost). The analysis also used a discount rate of 10 percent and calculated an ERR of 18.8
+   percent and a financial internal rate of return (FIRR) of 29.9 percent with an anticipated NPV of VND 1,362
+   billion (US$ 58,584,121 million).
+
+
+
+
+                                                                                                                              Page 8 of 16
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      VN-Managing Natural Hazards Project (P118783)
+
+
+
+According to the ICR (p. 21) the calculations at project appraisal were lower since it included a smaller amount
+of project activities and information on costs was limited. However, both analyses indicate that the project was a
+worthwhile investment.
+
+Operational efficiency:
+
+According to the ICR (p. 22) the project experienced implementation delays due to: i) limitations of Bank IDA
+allocations and access to counterpart funds; ii) delays in the implementation of component 2 and in streamlining
+the Ministry of Natural Resources and Environment (MONRE) approval process; and iii) lack of technical
+capacity at provincial and commune levels due to high staff turnover. This resulted in the need to extend the
+project duration by six months.
+
+However, taking everything together, the project’s efficiency is rated Substantial
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)          *Coverage/Scope (%)
+                                                                                     0
+ Appraisal                                                   0
+                                                                                      Not Applicable
+                                                                                     0
+ ICR Estimate                                                0
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Given the project's alignment to the relevant strategies and its designated response to a specific and required
+development challenge, relevance of the objective is High. Efficacy and Efficiency are Substantial, resulting in
+an overall outcome rating of Satisfactory.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+The risks can be grouped in the following categories:
+
+
+                                                                                                     Page 9 of 16
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      VN-Managing Natural Hazards Project (P118783)
+
+
+
+Financial: The project’s investments will require adequate funding for operation and maintenance (O&M)
+activities. According to the ICR (p. 32) small-scale structures, which were implemented under component 3,
+will be maintained and funded at the government’s community level and supported by volunteers benefiting
+from DRM measures. The Department of Agriculture and Rural Development (DARD) will train commune
+committees in the maintenance of DRM structures. Infrastructure, which was rehabilitated or upgraded under
+component 4, will be maintained by respective entities through their annual maintenance budget. Also, the
+ICR (p. 31) states that MONRE is committed to making the necessary budget allocations for the modernized
+hydromet and forecasting system as part of its Vietnam Meteorological and Hydrological Administration
+(VNMHA) annual business plan.
+
+Technical: Additional qualified staff to manage and operate the monitoring network and systems will be
+required and training of staff at the Vietnam Meteorological and Hydrological Administration as well as at the
+provincial, district, and commune government level will be necessary to keep up with the technical
+requirements for the modernization of hydromet systems. According to the ICR (p. 32) MONRE will need to
+finalize the remaining SOPs, which were identified during project implementation, to ensure a functioning
+operation of the modernized system.
+
+Political and Administrative: The project-built capacity and provided institutional strengthening at the
+national, provincial, and commune level through training, and development of SOPs for the operation of the
+hydromet system. Also, the project supported commune resilience and resilient infrastructure. The project
+contributed to the establishment of new planning and assessment processes. However, these will require to
+be integrated into normal government planning processes and routines to ensure their sustainability.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The project was built on lessons learned from the implementation of the Bank-supported Natural Disaster
+  Risk Management Project (NDRMP). According to the ICR (p. 26) these lessons included: i) DRM
+  decisions should be made based on perceived risk reduction, benefits and through a strategic
+  combination of structural (or physical) or non-structural (or non-physical) solutions in the context of a
+  larger river basin scale and integrated management approach; ii) strong institutional reform and
+  leadership of the coordination agency is essential for project success, sustainability and clear institutional
+  arrangements and responsibilities should be determined before project start; iv) appropriate operations &
+  maintenance funds at local levels need to be allocated; and iv) comprehensive M&E frameworks should
+  be developed and implemented before project start.
+
+  According to the ICR (p. 30) the NDRMP project had conducted several feasibility studies for priority
+  infrastructure sub-projects, allowing for a solid implementation start.
+
+  During project preparation the Bank identified relevant risks. These included weak capacity at the
+  implementing agency and high level of complexity and ambitiousness of introducing a river basin
+  approach and developing river basins plans across eight river basins and ten provinces.
+
+
+
+
+                                                                                                     Page 10 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     VN-Managing Natural Hazards Project (P118783)
+
+
+
+  According to the PAD (p. 9) the Bank mitigation measures were to include: a) training on procurement
+  and safeguards; b) engagement of independent technical auditors for construction quality; c)
+  engagement of
+
+  independent monitoring consultants for safeguard measures; and d) preparation and implementation of a
+  project specific Governance and Transparency Action Plan (GTAP). However, the risk of limited capacity
+  for implementing a river basin approach was underestimated. Since there was no functioning river basin
+  authority in Vietnam, extensive coordination with provincial authorities within each selected river basin
+  was challenging. Also, the risk of availability of counterpart financing was not identified resulting in
+  delays in the completion of construction works, payment of compensation, and resettlement for relocating
+  households.
+
+  According to the ICR (p. 25) the project’s complexity resulted in challenges in areas such as
+  procurement, supervision, and institutional coordination ranging from national to communal level and
+  across the Ministry of Agriculture and Rural Development (MARD) and MONRE. Furthermore, the river
+  basin approach to DRM planning was innovative and had not been implemented before. Finally, while the
+  Bank had planned to include three to five highest priority provinces, MARD suggested including ten
+  provinces. Therefore, developing river basin plans for eight river basins and ten provinces was ambitious.
+
+  Finally, the project’s Results Framework had shortcomings in regards to the selection of PDO indicators
+  and their ability to measure progress towards the achievement of the PDO (see section 9a for more
+  details).
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ According to the ICR (p. 31) the Bank team proactively identified implementation bottlenecks such as
+ delays in procurement and allocation in counterpart funding. When the implementation of component 2
+ experienced challenges due to the significant delay in hiring the System Integrator (SI) team, the Bank
+ team increased technical assistance and support a close cooperation between the PMO and the System
+ Integrator team. Also, the Bank team supported the project’s financial management and procurement. The
+ ICR (p. 31) stated that Implementation Status and Results Reports and Aide-Memoires were consistent
+ and candid. Furthermore, the ICR stated that even though the project had a high turnover of Task Team
+ Leaders (a total of six) it did not negatively affect project implementation.
+
+ However, the Bank team did not revise the project’s Results Framework despite its shortcomings (see
+ section 9 for more details).
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+
+
+                                                                                                 Page 11 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     VN-Managing Natural Hazards Project (P118783)
+
+
+
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The project’s objective was clearly specified and the theory of change and how key activities and outputs
+ were to lead to the intended outcomes was reflected in the Results Framework. The selected indicators
+ were sufficiently specific, measurable and relevant. However, the M&E design had several shortcomings.
+ First, PDO indicator 1 (“number of provincial river basin plans prepared or updated with DRM factors and
+ approved by the PPC”) and PDO indicator 2 (“hectares of land protected by enhanced flood protection”)
+ tried to measure similar outputs focusing on improving resilience. Second, PDO indicator 3 (“number of
+ people protected by enhanced priority infrastructure built by the project”) tried to measure outputs
+ implemented under two different components (components 2 and 3). Third, the selected indicators mainly
+ focused on outputs rather than outcomes. And fourth, the project’s activities under component 2, related to
+ the improvement in the quality of storm and flood forecasts, was not adequately reflected in the project’s
+ PDO indicators.
+
+ The Central Project Management Office (CPMO) and the Project Management Office (PMO) were to be
+ responsible for monitoring and evaluation of implementation progress and the project components for
+ which they were to be responsible. According to the PAD (p. 8) an independent baseline survey, a mid-
+ term review timed to assess results from phase I sub-project investments, and an independent final
+ evaluation were to be conducted covering both phase I and II investments.
+
+
+
+b. M&E Implementation
+  According to the ICR (p. 27) an M&E consultant was hired by the Ministry of Agriculture and Rural
+  Development (MARD) to coordinate and consolidate reporting from MARD, provincial PPMUs and PMO.
+  Furthermore, standardized reporting frameworks were developed to support the monitoring of indicators
+  as well as progress towards achieving the PDO.
+
+  The ICR (p. 28) stated that the quality of the M&E reporting conducted by the CPMO was inconsistent
+  due to weak data collection of PDO indicators and lack of capacity in data collection, verification, and
+  validation at PPMUs. In order to address these shortcomings, MARD and the Provincial People’s
+  Committees (PPCs) hired more staff and built technical capacities at central and provincial levels. As a
+  result, M&E activities improved throughout project implementation.
+
+  According to the Bank team (June 1, 2020) baseline data was collected by an M&E consultant and
+  updated on an ongoing basis. The M&E consultant conducted an independent survey twice, at the mid-
+  term review and closing stage. Survey results of the independent safeguard monitoring were also used
+  for project M&E.
+
+
+
+
+                                                                                                  Page 12 of 16
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     VN-Managing Natural Hazards Project (P118783)
+
+
+
+  The ICR (p. 28) stated that the project experienced challenges to measure activities under component 3.
+  Even though activities were implemented, the indicator showed zero progress since it was dependent on
+  the progress of one consultancy, which was delayed.
+
+  According to the Bank team (June 1, 2020) the project enabled significant learning in terms of developing
+  and using an enhanced M&E system. Also, the project supported the move from manual to web based
+  M&E, which may have a positive impact on the M&E processes’ and functions’ sustainability.
+
+
+
+c. M&E Utilization
+  According to the ICR (p. 28) M&E data was used for tracking results against monitoring indicators,
+  identify implementation bottlenecks and inform-decision making. However, the ICR did not provide any
+  concrete examples. The CPMO, PMO, and PPMUs thoroughly monitored indicators and outputs.
+  However, some provincial agencies did not always provide data on a regular basis.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as category B and triggered the Bank’s safeguard policies OP/BP 4.01
+   (Environmental Assessment), OP/BP 4.11 (Physical Cultural Resources), OP/BP 4.37 (Safety of Dams),
+   OP/BP 4.12 (Involuntary Resettlement), OP/BP 4.10 (Indigenous People) and OP/BP 7.50 (International
+   waterways).
+
+   The project prepared an Environmental and Social Management Framework (ESMF), a Dam Safety
+   Framework (DSF), a Resettlement Policy Framework and an Ethnic Minority Development Framework.
+   Also, an Environmental Codes of Practice (ECOP) was developed and applied to construction of sub-
+   projects under components 2 and 3. ESMPs were prepared for construction of sub-projects under
+   component 4. Also, a sub-project under component 4 resulted in the relocation of a burial ground, which
+   was addressed through a Resettlement Action Plan (RAP). For sub-projects involving dam rehabilitation, for
+   large dams a Dam Safety Report (DSR) and for small dams a Dam Safety Inspection Report (DSIR) were
+   prepared. Both types of reports were reviewed by a panel of experts, which was appointed by the
+   government.
+
+   According to the ICR (p. 29) the ESMPs and ECOP provided mitigation measures for the triggered OP/BP
+   4.11 (Physical and Cultural Resources).
+
+   The project provided full compensation and assistance to all 3,193 households who were affected by land
+   acquisition. The ICR (p. 30) stated that the Provincial Project Management Unit (PPMU) and Resettlement
+   Committees followed the resettlement procedures as defined in the Resettlement Policy Framework. The
+   project experienced two cases where compensation payments were delayed, which was resolved.
+
+
+
+                                                                                                 Page 13 of 16
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     VN-Managing Natural Hazards Project (P118783)
+
+
+
+   The Bank team stated (June 1, 2020) that the project also complied with OP/BP 7.50 (International
+   waterways) and that the project’s safeguard ratings were satisfactory throughout implementation.
+
+
+
+
+b. Fiduciary Compliance
+   Financial Management:
+
+   According to the ICR (p. 30) the project complied with the Bank’s financial management policies and
+   procedures. The CPMO and PPMUs provided the interim financial reports, which were of acceptable
+   quality in a timely manner. However, throughout implementation, the project experienced delays in regards
+   to internal financial audit reports as well as late and insufficient budget allocations to the provinces by the
+   Bank and the government. This negatively impacted payments to resettlement stakeholders, contractors,
+   and suppliers and resulted in project implementation delays.
+
+   Procurement:
+
+   The project experienced procurement delays during the initial phase of project implementation due to lack
+   of capacity, inefficient approval processes, and procurement planning issues. The Bank addressed this by
+   providing training in procurement, financial management, and contract management. These measures
+   resulted in the improvement of the project’s procurement performance and the ICR (p. 30) stated that 298
+   out of 300 procurement packages were closed. Also, the project did not declare any mis-procurement.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   NA
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                  Reason for
+Ratings                         ICR                     IEG
+                                                                                  Disagreements/Comment
+Outcome                         Satisfactory           Satisfactory
+
+Bank Performance                Satisfactory           Satisfactory
+
+Quality of M&E                  Modest                 Modest
+
+Quality of ICR                  ---                    Substantial
+
+
+
+
+                                                                                                     Page 14 of 16
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       VN-Managing Natural Hazards Project (P118783)
+
+
+
+12. Lessons
+
+The ICR (p. 32-33) provided several lessons learned, of which the following are selected for their
+relevance for similar future operations:
+
+        Long-term engagement for building resilience facilitates learning. This project was part
+         of a multi-phased programmatic approach and built on activities initiated under the previous
+         project, the NDRMP. Successful activities were scaled up under this project, allowing for
+         learning and innovation.
+        Introducing new approaches such as an integrated river basin approach can be
+         challenging and complex but will have long-term impacts. This project introduced eight
+         river basins plans which were supported by MARD and the Vietnam Disaster Management
+         Authority (VNDMA), resulting in this approach being continued to be supported by two new
+         World Bank projects (the “Emergency Reconstruction Project” and the “Dam Safety and
+         Rehabilitation Project”).
+        Bringing a System Integrator on board at an early stage is critical for hydromet
+         projects. In this project, the System Integrator was based in the country and was available
+         for technical support and system integration, allowing for the identification of technical,
+         administrative, and capacity bottlenecks and providing the opportunity to address them in a
+         timely manner.
+        Increasing resilience through a three-ponged approach which includes investments in
+         infrastructure, CBDRM, and early warning systems are complex and challenging.
+         However, such an approach is innovative and effective and has the potential to be
+         scaled up. This project’s design strengthened resilience through improving weather
+         forecasting and early warning systems, which complemented community-based disaster
+         preparedness and small-scale infrastructure activities with investments in large high-priority
+         infrastructure activities.
+
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provided a detailed overview of project preparation and implementation. The ICR was sufficiently
+candid, internally consistent, complied with the guidelines and included an adequate Economic Analysis.
+Furthermore, the evidence provided appeared to be reliable and of adequate quality, but the ICR could have
+benefited from more results orientation by providing additional outcome driven data. Taking everything together,
+the ICR quality is rated Substantial.
+
+
+
+
+                                                                                                     Page 15 of 16
+  Independent Evaluation Group (IEG)              Implementation Completion Report (ICR) Review
+  VN-Managing Natural Hazards Project (P118783)
+
+
+
+a. Quality of ICR Rating
+   Substantial
+
+
+
+
+                                                                               Page 16 of 16
+

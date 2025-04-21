@@ -1,0 +1,1426 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     West Bengal ISGPP-II (P159427)
+
+
+
+                                                                                  Report Number : ICRR0023558
+
+1. Project Data
+
+
+
+ Project ID                                  Program Name
+ P159427                                     West Bengal ISGPP-II
+
+ Country                                     Practice Area(Lead)
+ India                                       Urban, Resilience and Land
+
+
+ L/C/TF Number(s)                            Closing Date (Original)             Total Program Cost (USD)
+ IBRD-87230                                  31-Dec-2022                                        201,319,735.09
+
+ Bank Approval Date                          Closing Date (Actual)
+ 15-Mar-2017                                 31-Dec-2022
+
+                                             IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                           210,000,000.00                                               0.00
+
+ Revised Commitment                            210,000,000.00                                               0.00
+
+ Actual                                        201,319,735.09                                               0.00
+
+
+
+
+ Prepared by                 Reviewed by                   ICR Review Coordinator         Group
+ Cynthia Nunez-Ollero        Vibecke Dixon                 Avjeet Singh                   IEGSD (Unit 4)
+
+
+
+
+2. Program Context and Development Objectives
+
+DEVOBJ_TBL
+a. Objectives
+   According to the Loan Agreement (LA, p 5) and the Program Appraisal Document (PAD, paragraph 14), the
+   development objective of this second phase of the West Bengal Institutional Strengthening of Gram
+   Panchayats Program was "to strengthen the institutional and financial capacities of Gram Panchayats across
+   the State."
+
+   For the purpose of this review, the PDO will be parsed as follows:
+
+
+                                                                                                   Page 1 of 26
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     West Bengal ISGPP-II (P159427)
+
+
+
+          to strengthen the institutional capacity of Gram Panchayats across the State
+          to strengthen the financial capacity of Gram Panchayats across the State
+
+
+
+b. Were the program objectives/key associated outcome targets revised during
+   implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  No
+
+c. Will a split evaluation be undertaken?
+   Yes
+
+d. Components
+   Components were reflected in the following Key Results Areas (KRAs):
+
+   1. Establishing a state-wide unified performance-based grant (PBG) allocation system for all
+   discretionary funds available to Gram Panchayats (GPs): (US$155.3 million at appraisal, US$147.09
+   million actual) This component was to follow a two-pronged approach to establish a PBG system: first, the
+   Panchayats and Rural Development Department (PRRD) was to conduct Annual Performance
+   Assessments (APAs) of all GPs to distribute untied grants from the state. Second, grants were to be
+   allocated in a timely manner to allow GPs to plan and implement investments. This component was to
+   be linked with Disbursement Linked Indicators (DLIs) 1, 2, and 6. This component was also to finance
+   program management, coordination, and monitoring.
+
+   2. Improving local government financial management systems: (US$8.0 million at appraisal,
+   US$3.6 million actual) This component was to finance two sub-components. First, resources were to
+   finance the PBGs; and second, resources were to finance capacity building through formal learning and
+   mentoring of staff of GPs to improve their own-source revenue (OSRs) generation, their regular use of the
+   Gram Panchayat Management System (GPMS), and finance the establishment of an integrated state-level
+   digital dashboard to monitor GP performance in real time, and decision-making at the state and local
+   government levels. It would finance the institutionalization of a risk-based internal audit ecosystem for GPs
+   to strengthen the state’s oversight mechanism by developing an Internal Audit Manual and train internal
+   auditors on its use. In addition, this component would finance the timely completion of annual external
+   audits of GPs. This component was to be linked with DLI 5(a).
+
+   3. Improving local governance human resources (HR) capacities for increased transparency and
+   accountability in local government functioning. (US$5.25 million at appraisal, US$4.20 million
+   actual) This component was to finance vacant core staff positions of GPs, establish a Grievance Redressal
+   Management System (GRMS) and disclosures of such grievances, and provide training and capacity
+   building using mentors. This component was to be linked with DLIs 5(b) and 7.
+
+   4. Improving the decentralized and participatory planning and budgeting mechanisms at the local
+   level. (US$37.47 million at appraisal, US$36.92 million actual) This component was to finance citizen
+
+
+
+                                                                                                    Page 2 of 26
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    West Bengal ISGPP-II (P159427)
+
+
+
+  engagement activities, project communications, and information, education, and communication (IEC)
+  activities. This component was to be linked with the cross-cutting DLIs 3 and 4.
+
+
+
+e. Comments on Program Cost, Financing, Borrower Contribution, and Dates
+  Program Cost: The total program cost was US$210 million. Actual disbursement was US$201.3 million.
+  The balance of US$8.7 million was cancelled.
+
+  Financing: The International Bank for Reconstruction and Development (IBRD) financed this Program for
+  Results (P4R).
+
+  Borrower Contribution: The government committed to contribute US$384.2 million and disbursed
+  US$148.9 million at closing. The data was provided in ICR, Annex 3 but not reported in the Data Sheet.
+  According to footnote 21, the amount committed by the government included the grants from the 14th
+  Central Finance Commission (CFC). The government eventually decided to standardize and disburse these
+  grants for the entire country according to conditions not covered by this program. The CFC grants were then
+  excluded from this program and government contributions.
+
+  Dates: The program was approved on March 15, 2017 and became effective the following month, on April
+  19, 2017. The Mid Term Review (MTR) was conducted on August 19, 2020. The program closed as
+  originally planned on December 31, 2022. The program was restructured once, on March 31, 2021 to
+  reduce the target level of Year 5 of the outcome indicator, rationalize various targets in the Disbursement
+  Linked Indicators (DLIs), dropped one DLI altogether and the accompanying activity because the
+  government decided to freeze hiring of GP core staff, making that indicator unachievable, and reallocate
+  funds accordingly. Specific changes include the following:
+
+        PDO-level indicators. The target of PDO Indicator 1 (total number of GPs qualifying for BMC and
+           EMC criteria) for Year 5 was reduced from 80 percent to 70 percent.
+          DLI 2. (i) The Year 4 target was reduced to 1,562 GPs and (ii) an additional disbursement cycle of
+           APA for Year 5 was introduced for DLI 2 to use the US$13.69 million in savings
+          DLI 4. The Year 5 target for the assessment of mentors was increased from 60 to 75 percent.
+          DLI 5. The targets of Years 2, 3, 4, and 5 were revised by dropping unachievable targets, adding
+           new targets altogether, and reallocated resources along revised government priorities (see Section 3
+           Relevance of DLIs below).
+          DLI 7. was dropped and the corresponding amount of US$1 million was reallocated to DLI 5 (i). The
+           corresponding ‘Activity 5: GP level recruitment support’ was dropped and the related intermediate
+           Indicator results (IRI) was removed.
+          An IRI measuring percentage of women elected representatives mentored (physical/virtual mode) in
+           remote GPs, was added.
+          Funds were reallocated from savings to DLI 2 and DLI 5 (a).
+
+  Split Rating. A split rating of the objectives will be applied. The PDO was revised from the PAD to the FA
+  (deleting "further" in the PDO statement) although no further revisions were made in the PDO in the FA.
+  However, the outcome target value for year 5 was reduced by 10 percent - from 80 to 70 percent - at
+  restructuring because of the impact of COVID-19 (ICR, paragraph 25). According to the guidelines, if a
+  change in indicator/target lowered the program’s scope (with the same commitment level), a split rating
+
+                                                                                                  Page 3 of 26
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     West Bengal ISGPP-II (P159427)
+
+
+
+   applies. The loan had disbursed 81.1 percent by the time of the restructuring (equivalent to US$170.29
+   million).
+
+
+
+
+3. Relevance   TBL
+
+
+
+
+a. Relevance of Objectives   New
+
+
+
+
+  Rationale
+  Alignment with Sector Strategy: By strengthening the financial and institutional capacity of the Gram
+  Panchayats (GPs), the PDO was aligned with the World Bank's Country Partnership Framework (CPF) for
+  India for 2018–22 by complementing Focus Area 3: Investing in Human Capital, which included public
+  service quality. The PDO was also well aligned with Objective 3.3: Improve access to rural water supply and
+  sanitation services because the strengthened capacity of state and local institutions was expected
+  to deliver efficient and sustainable water and sanitation service, scale up performance-based service delivery
+  models, and increase customer voice for accountability. Achieving the PDO would also build quality
+  assurance mechanisms using its monitoring and evaluation (M&E) systems that formed part of the program's
+  key results. The PDO also contributed to Focus Area 2: Enhancing Competitiveness and Enabling Job
+  Creation as part of the capacity building of GPs by hiring GP staff and building local infrastructure under the
+  program. The PDO helped achieve Objective 2.4: Increase access to market-relevant skills development,
+  and Objective 2.5: Enable more quality jobs for women. The CPF acknowledged that the P4R instrument
+  was to provide the incentives to achieve better service delivery. The PDO was to cover all GPs of West
+  Bengal to implement the government's decentralization program using the rural local self-government system
+  of Panchayati Raj Institutions (PRIs) under India's 73rd Constitutional Amendment.
+
+  World Bank Previous Sector and Country Experience: In India, the World Bank has extensive expertise
+  and comparative advantages in decentralization and developing local government systems. The program's
+  first phase, ISGPP-I, was one of three World Bank operations on rural local governments in addition to
+  those in Karnataka, Bihar, and Kerala. All focused on strengthening the Panchayati Raj Institutions (PRI)
+  system as a critical institutional locus of service delivery and governance. Lessons from these operations
+  informed this program (see Section 7 Assessment of Bank Performance at Entry, below). The program in this
+  sector included objectives, and Disbursement Linked Indicators (DLIs) were consistent with progress derived
+  from the first phase and lessons from similar earlier projects.
+
+  Country Capacity and Adequacy of P4R Instrument: The state of West Bengal enacted its Panchayats
+  Act in 1973, which identified three tiers of Panchayati Raj Institutions (PRIs): Zilla Parishads (ZPs) or
+  districts, Panchayat Samitis or blocks, and Gram Panchayats (GPs) or villages. Two decades later, in 1993,
+  the government adopted the 73rd Constitutional Amendment to foster local government decentralization by
+  establishing a system of rural local self-government called Panchayati Raj Institutions (PRIs). States enacted
+  laws to give powers and authority to PRIs as self-government units. In 2015, the 14th Central Finance
+  Commission (CFC) recommended a substantial increase in tax devolution of the sharable central tax to the
+  states from 32 percent to 42 percent for the next five years (2015-2020). The P4R instrument was
+  deemed appropriate to use results as incentives to build capacity and develop systems for other GPs on a
+  state-wide coverage and fully aligned with the government’s program. The findings of the technical, fiduciary,
+  social, and environmental assessments and the progress achieved under the first phase informed the
+
+                                                                                                    Page 4 of 26
+                              Independent Evaluation Group (IEG)                         Implementation Completion Report (ICR) Review
+                              West Bengal ISGPP-II (P159427)
+
+
+
+                       broader scope of the program, targeting all GPs in the state. The incentives scheme was to
+                       synchronize with the performance-based grant (PBG) allocation and capacity-building support system. The
+                       fourth State Finance Commission (SFC) adopted the PBG allocation model used in phase I, which was to be
+                       rolled out throughout the State. This P4R instrument complemented the state's efforts to rationalize its PRI
+                       system by addressing the legal and fiscal constraints and expected development challenges brought about
+                       by the weak own source revenue (OSR) generation and management, unpredictable inter-governmental
+                       fiscal transfer framework, lack of expenditure management systems, accounting and budgeting
+                       procedures, and internal and external audit systems.
+
+                       Given the context and the government's decentralization needs, the project’s development objective for
+                       strengthening the institutional and financial capacity was important. The ICR states (paragraph 26) that the
+                       program was expected to improve the overall quality of service delivery, but this was not reflected in the
+                       objective. The relevance of the objectives is rated as Substantial.
+
+
+       Rating Relevance TBL
+
+
+
+
+                       Rating
+                       Substantial
+
+
+b. Relevance of DLIs                           New
+
+
+
+
+DLI RELEVANCE TBL
+
+
+
+
+                DLI 1
+                DLI
+                DLI 1: Number of phase II Gram Panchayats (GPs) that have qualified Basic Mandatory Conditions (BMCs) in
+                Annual Performance Assessment
+
+                Rationale
+                This DLI was to contribute to achieving institutional reform by providing GPs with sufficient incentives to
+                meet basic mandatory conditions (BMCs). The BMCs were designed to improve a GP's institutional
+                performance and help achieve the PDO. The four BMCs were: (i) own source revenue (OSR) generation; (ii)
+                having an external audit; (iii) having a development plan; and (iv) using the financial management system.
+                Achieving the BMCs were to be combined with meeting the extended mandatory conditions (DLI 2
+                below). This DLI was specific and measurable. Together with DLI 2 on achieving the EMC below, this set of
+                DLIs formed a coherent results framework to achieve the PDOs by institutionalizing the PBG system in all
+                GPs using a performance-based disbursement mechanism.
+
+                Overall, this DLI is rated Substantial.
+
+
+
+                Rating
+                Substantial
+
+                DLI 2
+                DLI
+
+                                                                                                                        Page 5 of 26
+      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+      West Bengal ISGPP-II (P159427)
+
+
+
+DLI 2: Number of phase II Gram Panchayats that have qualified Expanded Mandatory Conditions (EMCs) and
+got access to performance rewards in Annual Performance Assessment
+
+Rationale
+GPs were to meet the extended mandatory conditions (EMCs) in this DLI as an incentive to receive
+performance rewards that would lead to the GPs institutional reform. The EMCs covered the mandatory use
+of grant funds (EMC 1) and the completion of sub-projects (EMC 2). Meeting these conditions were to
+achieve the PDOs and meet all four Key Results Areas (KRAs). Together with DLI 6 below, these two DLIs -
+1 and 2 - comprised 75 percent of the P4R financing and were key to the institutionalization of the PBG
+system. This DLI was measurable with independent consultants conducting technically sound, and credible
+verification protocol to assess GP performance. Together with DLI 1 above, this DLI formed a coherent the
+results framework to achieve the PDOs. DLI 2 was revised at restructuring (see below).
+
+Overall, this DLI is rated Substantial.
+
+
+
+Rating
+Substantial
+
+DLI 2 REVISION 1
+Revised DLI
+The target number of participating GPs in Year 4 was reduced by 3 percent and a disbursement cycle was
+added to spend the savings from previous cycles.
+
+Revised Rationale
+This DLI 2 was revised at restructuring to remain relevant to the PDO, program needs, and government
+priorities. The number of targeted GPs in Year 4 was reduced from 1,634 to 1,562 GPs because 112 GPs
+were under the Gorkha Territorial Administration (GTA) and were not covered by the program. One additional
+disbursement cycle of APA for Year 5 was introduced to use the US$13.69 million in savings accumulated
+by Year 4 under both DLIs 1 and 2. Other aspects of the original DLI discussed above remained relevant to
+this revised DLI.
+
+Overall, this revised DLI remained rated Substantial.
+
+
+
+Revised Rating
+Substantial
+
+DLI 3
+DLI
+DLI 3: Percentage of activities implemented as per PRDD’s annual learning and training plan.
+
+Rationale
+This DLI was to provide an incentive to GPs to participate in the PRRD’s annual training plan to improve the
+GP’s performance in service delivery by building the institutional and financial capacity of the GPs to achieve
+
+                                                                                                   Page 6 of 26
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      West Bengal ISGPP-II (P159427)
+
+
+
+the desired results of the program. It was to contribute to all the following Key Results Areas: (i) establishing a
+statewide unified PBG system using all discretionary funds and made available to all GPs; (ii) improving local
+government financial management systems; (iii) improving local governance and human resource (HR)
+capacity for increased transparency and accountability in local government functions; and (iv) improving the
+decentralized and participatory planning and budgeting mechanisms at the local level. Together with DLI 4,
+this DLI was aligned with the PDO and the results framework by providing formal learning and training
+activities for all GP staff (NS, Secretaries, and Executive Assistants), elected representatives (Pradhans and
+Upapradhans), and contractors. The PRRD initiated the training plans through a bottom-up district-level
+planning process. District staff met every year to assess and plan the training needs of GPs. These plans
+were then consolidated at the state level.
+
+Relevance of this DLI is rated Substantial.
+
+
+
+Rating
+Substantial
+
+DLI 4
+DLI
+DLI 4: Average number of annual mentoring input days per Gram Panchayat with performance assessment
+
+Rationale
+This DLI served to institutionalize the practice started in the preceding phase 1 project to improve GPs
+institutional performance thereby achieve the PDOs by regularly deploying mentors to GPs to help the GPs
+navigate how to meet their extended minimum conditions (EMCs) to qualify for additional grants. Combined
+with DLI 3 above, this DLI facilitated GPs to adopt institutional change to achieve the PDO. The day-to-day
+mentoring support ensured that GPs understood their responsibilities and functions; identified and addressed
+the gaps in planning, service delivery, and fiduciary aspects, and enabled them to collectively achieve overall
+program outcomes. The DLI was strategic, easy to monitor, and was coherently tied to specific actions of the
+PRRD that were independently verified.
+
+This DLI is rated Substantial.
+
+
+
+Rating
+Substantial
+
+DLI 4 REVISION 1
+Revised DLI
+This DLI was not revised but the target for Year 5 for the assessment of mentors was increased at
+restructuring from 60 to 75 percent.
+
+Revised Rationale
+
+
+
+                                                                                                     Page 7 of 26
+      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+      West Bengal ISGPP-II (P159427)
+
+
+
+The March 2021 restructuring increased the annual target for this DLI. The government policy to freeze hiring
+of core GP staff led the GPs to rely on mentors to meet the targets for their APAs. The factors noted above
+for the original DLI remained the same.
+
+Overall rating of the relevance of this DLI remained Substantial.
+
+
+
+Revised Rating
+Substantial
+
+DLI 5
+DLI
+DLI 5: This DLI had two components: (i) Core institutional systems implemented by PRDD across all GPs for
+Gram Panchayat Management System (GPMS), Web-based Monitoring System (WBMS), and Geographic
+Information System (GIS); and (ii) Grievance Redressal Management System (GRMS)
+
+Rationale
+This DLI was to contribute to Key Results Area (ii) improving local government financial management
+systems and facilitating the development of integrated systems, dashboards, and analytical tools to
+improve accountability and transparency of all GPs, and to help state government departments in decision-
+making and analysis of GP performance. Together with DLIs 3, 4, and 7, this DLI complemented DLIs 1, 2,
+and 6, to drive institutional change and enable the achievement of the PDO. This DLI was strategic, could be
+monitored, time bound, and achievable. Activities under this DLI initiated reform by rolling out five user-
+friendly and integrated web-based applications: (i) GPIMS, which was designed to replace the manual system
+of collecting data, planning, and monitoring of GP-level activities (subprojects or schemes); (ii) GRMS, which
+played a key role in registering and timely resolution of grievances by the GPs; (iii) the training MIS
+application, which enabled departmental users to capture and monitor training/trainer/trainee data and take
+decisions accordingly; (iv) GP Works Manual, which contained a simplified list of typical works undertaken by
+GPs with descriptions of standardized procedures to be followed before and during construction, including the
+ESMF guidelines; and (v) GIS application, including the Mentor Reporting System (MRS). An automated link
+between the GPIMS and GPMS was created and allowed data exchange between the two systems
+to improve the accuracy and efficiency of the functional operations of GPs. The activities supported by this
+DLI also helped establish a state-level digital dashboard that displayed GP-level performance data in the
+public domain for improved accountability and transparency. The availability of this dashboard enabled GPs’
+staff and government officials to make decisions and analyze GP performance over time. It also developed an
+online vetting software to ensure efficient workflow management and timely vetting procedures for GP
+subproject documents (for example: estimates, drawings, and designs). Overall, the program enabled the
+implementation of several systems aimed at enhancing transparency and efficiency in GPs and
+facilitated decision-making at the state/department level. Targets were revised at restructuring
+to accommodate new government priorities (see below).
+
+This DLI is rated Substantial.
+
+
+
+Rating
+
+
+                                                                                                  Page 8 of 26
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      West Bengal ISGPP-II (P159427)
+
+
+
+Substantial
+
+DLI 5 REVISION 1
+Revised DLI
+This DLI was not revised but the targets for Years 2,3,4 and 5 were revised to realign with government priorities.
+
+Revised Rationale
+After the Mid Term Review, the March 2021 restructuring revised the unachieved targets for DLI 5 (a)
+in Years 2, 3, 4, and 5. This freed up US$5.6 million that was reallocated to new targets under this DLI. In
+Year 4, a state level dashboard was developed to improve transparency and inform the state and local
+decision making. The new targets and allocation for Year 4 were (i) web-based integrated system (GPIMS)
+developed and used by all GPs (US$3.2 million), and (ii) digital state level dashboard to provide a snapshot of
+key performance indicators on all financial and physical data of GPs (US$1.2 million). For Year 5, the new
+targets and allocations were: (i) module on preparation, submission and approvals of scheme estimates, and
+design and roll out to all GPs as part of the integrated GPIMS (US$1 million), and (ii) a comprehensive
+analytical tool developed and available in production mode to generate state level standard reports on the
+performance of GPs, using key information available in the existing GP systems (US$1.2 million). In addition,
+US$1 million freed up by dropping DLI 7 below was reallocated to DLI 5(a), for a total reallocation of US$6.6
+million under DLI 5(a). The target for Year 5 (percent of grievances redressed) of DLI 5(b) was increased at
+restructuring and a new DLI was added with a target of providing mentoring support (physical/virtual) to 70
+percent of women elected representatives in remote GPs. A few annual targets for DLI 5 became redundant
+and were dropped.
+
+Overall, new policies adopted by the government led to revising the rationale for this DLI, but strengthened
+the link to achieving the PDOs. This DLI is rated Substantial.
+
+
+
+Revised Rating
+Substantial
+
+DLI 6
+DLI
+DLI 6: APA conducted by Panchayats and Rural Development Department or PRDD
+
+Rationale
+This DLI was to contribute to Key Results Area 1 – establishing a statewide unified PBG system using all
+discretionary funds and made available to all GPs. PRRD was to conduct the APAs and facilitate its
+independent verification to inform how the state’s untied funds would be distributed to the GPs and achieve
+the intended results under the PDO. Together with DLIs 1 and 2, this DLI accounted for about 75 percent of
+the IBRD funds and were closely linked to the PDO and the results framework. Together, these DLIs
+helped institutionalize the PBG system and the performance-based disbursement mechanism in all GPs.
+This DLI was strategic, achievable, and time bound.
+
+The relevance of this DLI is rated Substantial.
+
+
+
+
+                                                                                                    Page 9 of 26
+                            Independent Evaluation Group (IEG)                    Implementation Completion Report (ICR) Review
+                            West Bengal ISGPP-II (P159427)
+
+
+
+
+            Rating
+            Substantial
+
+            DLI 7
+            DLI
+            DLI 7: Targeted number of vacant core GP positions filled - Executive Assistants; GP Secretaries; and Nirman
+            Sahayaks (NS)
+
+            Rationale
+            Hiring the core staff under this DLI was to help GPs implement the institutional and financial management
+            reforms and achieve the PDO. Meeting targets were acknowledged in the results framework and was to
+            contribute to Key Results Area 3 – improving local governance and human resource (HR) capacity for
+            increased transparency and accountability in local government functions. These vacant core GP positions
+            were – executive assistant, GP secretary, and Nirman Sahayaks (NS or engineer). The targets were
+            monitorable with credible verification protocols. This DLI was consistent with the Theory of Change indicating
+            that the hiring of staff would lead to enhanced institutional capacity of GPs. As a result of the state level hiring
+            freeze of GP core staff, changes in state laws, and systems development already implemented by other
+            central government systems, the March 2021 restructuring dropped this DLI and the activities and outputs it
+            supported. The corresponding amount of US$1 million was reallocated to DLI 5 (a).
+
+            Overall, the relevance of this DLI is rated Substantial. However, it was subsequently dropped due to the state
+            level hiring freeze and not pursued until the program closed.
+
+
+
+            Rating
+            Substantial
+
+
+OVERALL RELEVANCE DLI TBL
+
+
+
+
+            OVERALL RELEVANCE RATING
+            Rationale
+            Overall, relevance is rated as Substantial. The PDO and the DLIs were relevant to the Bank's strategy for the
+            country and supported the government's decentralization priorities throughout the program period. However,
+            there were minor shortcomings, which were addressed during restructuring to keep the DLIs relevant. Some
+            targets under DLI 5 could not be achieved and were made redundant as the state decided to implement
+            similar systems and froze the hiring of core GP staff making the DLI 7 targets unachievable. According to the
+            ICR, the West Bengal State Finance Commission (SFC) grants adopted these program DLIs and planned to
+            continue to use them to disburse the state level grants accordingly beyond the program period. Overall, the
+            DLI verification methodologies were comprehensive. All seven DLIs focused on indicators that provided
+            evidence of continued progress toward achieving the PDO.
+
+
+
+            Rating
+
+
+                                                                                                                  Page 10 of 26
+                  Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                  West Bengal ISGPP-II (P159427)
+
+
+
+               Substantial
+
+
+
+   4. Achievement of Objectives (Efficacy)
+EFFICACY_TBL
+
+
+
+
+               OBJECTIVE 1
+               Objective
+               To strengthen the institutional capacity of Gram Panchayats across the State
+
+               Rationale
+               Theory of Change: No explicit Theory of Change (TOC) was outlined at appraisal but the program activities
+               that led to key results areas (KRAs) provided a causal link of the inputs, outputs and expected outcomes at
+               appraisal. A retrospective TOC was prepared for the ICR. The activities were designed to strengthen
+               the institutional capacity of all 3,229 GPs in West Bengal by establishing a statewide performance-based
+               grant (PBG) allocation system that would distribute discretionary funds to the GPs. They were to use these
+               funds to build human resources capacity and improve the overall quality of service delivery.
+
+               Inputs: were training, technical assistance, and grants to eligible GPs. Surveys of a sampling of GPs were to
+               be conducted and results were to be gathered from workshops/consultations/field visits. The State of West
+               Bengal consisted of 3,342 GPs. Phase I covered 1,000 GPs. Phase II covered 2,230 GPs.
+
+               Outputs: were to be the system of allocating PBGs to GPs. The state's discretionary funds were to be
+               distributed through this system. Other outputs included enhanced human resources capacity, and service
+               delivery. The Panchayats and Rural Development Department (PRRD) was to conduct the annual
+               performance assessments (APAs) of the GPs to validate outputs. The APA assessed (i) four basic mandatory
+               conditions (BMCs); (ii) two additional expanded mandatory conditions (EMCs); and (c) specific thematic areas
+               that provided performance incentives in planning and budgeting, project execution and service delivery,
+               financial management, and transparency and accountability. These conditions also covered the progress of
+               the four Key Results Areas (KRAs) under the program.
+
+               Outcomes: were expected to be percentage of GPs that met the BMCs and EMCs annually in the APAs;
+               and the share of performance-based untied grants that the GPs utilized. Note that these two indicators
+               measured outputs and intermediate outcomes rather than outcomes such as the improvements in services
+               delivered by the GPs to its residents.
+
+               Critical assumptions: The TOC included the following critical assumptions that, if realized, were to enhance
+               the achievement of the PDO: (i) independent consultants carried out the assessments every year, following
+               pre-defined performance criteria; (ii) the government provided state level grants in a timely manner; and (iii)
+               GP-level capacity was in place to ensure timely recording of all sub-project level data in the Gram Panchayat
+               Management System (GPMS) and the Gram Panchayat Integrated Monitoring System (GPIMS).
+
+               OUTPUTS: The following three Key Results Areas (KRAs) under this objective – (i) establishing a statewide
+               unified PBG system using all discretionary funds and made available to all GPs; (ii) improving local
+               government financial management systems; and (iii) improving local governance and human resource (HR)
+
+
+                                                                                                                Page 11 of 26
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   West Bengal ISGPP-II (P159427)
+
+
+
+capacity for increased transparency and accountability in local government functions – generated the
+following outputs or intermediate results:
+
+      A state-wide unified performance-based grant allocation system for all discretionary funds was
+       established and made available to GPs.
+             o Annual performance assessments (APAs) were conducted for at least 95 percent of
+               GPs. The original target was to have completed annual assessments by September 30, 2020.
+               The baseline was April 19, 2017. Assessments were conducted annually by November 30,
+               2022. The Year End target for Year 5 APAs (2020) was delayed and was completed in July
+               2022 because the external auditors were delayed in completing their audits, and delays from
+               the impact of mobility restrictions in response to the COVID-19 pandemic.
+             o Performance-based grant allocations (following the APA results) were completed annually. The
+               baseline was April 19, 2017, the target date for annually allocating performance grants was on
+               October 31, 2020, and was achieved on November 30, 2022, indicating that the
+               program achieved the targets except for the last year when the 2020 APAs were
+               delayed. This cascaded to a delay in PBG allocation for that year.
+      Local governance and human resource capacities were improved indicating an increase
+       in transparency and accountability in local government functioning.
+             o Participation, transparency, and accountability aspects achieved a score of 51.21
+               percent. Baseline was 53.0 percent; the target was 73 percent. The target score for improved
+               participation, transparency, and accountability was not achieved and was lower than the
+               baseline. This was due to the low scores received in the Grievance Redressal Management
+               System (GRMS). Marks were allotted based on the number of grievances received
+               and resolved. Utilization of GRMS (number of grievances lodged) gradually increased over the
+               past few years as GPs continued to spread awareness about the system. The World Bank
+               team informed IEG that in the initial years, grievances were lodged and resolved orally and not
+               recorded or reported. Grievances were then subsequently recorded, registering 10,800 in
+               2019-2020 to 59,774 at closing with 99 percent of these redressed. However, it is not clear
+               how this data affected the 51.21 percent score reported in the ICR. The government clarified
+               that its replica initiatives may have drawn residents away from using the program promoted
+               GRMS because beneficiaries preferred the alternative government-sponsored redress
+               mechanisms.
+             o Human resource capacity: The GPs filled 1,195 vacant positions (executive assistant, GP
+               secretary, Nirman Sahayak, or engineer) were filled annually in the GPs. The baseline was 55
+               percent filled positions, and the target was 90 percent of vacant positions in GPs would have
+               been filled by the end of the program. The State decided to freeze hiring of staff statewide, so
+               no vacancies were filled by Year 4 or 5. The World Bank team informed IEG that the program
+               introduced mitigating measures to address the shortage of staff in those last two years
+               of implementation. These measures included increased mentoring, assistance from existing
+               GP technical staff of other government initiatives, and the implementation of online systems
+               and quality assurance mechanisms to boost staff efficiency. The March 2021 restructuring
+               dropped both the DLI 7 and the output linked to this disbursement. While IEG acknowledges
+               the additional measures taken, the program did not achieve the original target.
+      Improved the decentralized and participatory planning and budgeting mechanisms at the local level.
+             o Improved project execution and service delivery capacity at GP level. With a baseline of
+               65 percent and an original target score of 85 percent, the program achieved a score of 40.2
+               percent. The target was not achieved and the achievement was significantly lower than
+
+                                                                                                Page 12 of 26
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   West Bengal ISGPP-II (P159427)
+
+
+
+              the baseline value primarily because of a lack of operations and maintenance (O&M)
+              budgeting, establishment of remunerative assets, etc. Output Verification Studies were
+              conducted to assess the infrastructure built by the GPs. Quality assurance mechanisms were
+              commissioned, and a GP Works Manual was developed to standardize the procurement
+              processes, contract management, quality testing, etc. to guide GPs on how to prepare
+              estimates, execute works, etc. The World Bank team informed IEG that GPs improved their
+              technical capacity for project execution and service delivery shown in their delivery of basic
+              services such as providing accessibility to functional ladies’ toilets (99 percent) and safe
+              drinking water (89 percent) in their respective jurisdictions. This additional data, however, did
+              not increase the score achieved for this indicator target.
+            o Improved planning and budgeting capacity at the GP level - with a baseline of 55 percent,
+              the target score was 75 percent, and the program achieved a score of 68.39 percent, not
+              achieving the target. The overall planning and budgeting performance of GPs gradually
+              improved but did not meet the target.
+
+OUTCOMES:
+
+      The GPs utilized an average of 75 percent of the untied performance-based grants. The baseline was
+       46 percent. The original target was 66 percent. The target remained unchanged and was exceeded.
+      In Year 5, the total number of beneficiaries increased by 10.57 percent compared to Year 4. The
+       program reached 11 percent, exceeding the original target of 10 percent. The indicator was the total
+       number of beneficiaries, disaggregated by gender (male and female) but this information was not
+       provided, only the percent increase in the total number of beneficiaries.
+
+Overall, the efficacy of the program to achieve this objective is rated Modest. The technical capacity for
+project execution and service delivery improved in the GPs, as the procurement processes, contract
+management, quality testing, etc. were standardized. The outcome indicators related to the GPs qualified for
+PBGs after meeting the Basic Mandatory Conditions (BMCs) and Expanded Mandatory Conditions (EMCs),
+as well as the performance-based untied grants utilized by the GPs were substantially achieved. The World
+Bank team clarified that the moderate shortcomings noted in the achievement of key intermediate results that
+supported enhanced institutional capacity regarding – human resource capacity; participatory planning,
+transparency, and accountability; and project execution and service delivery – were supplemented to sustain
+enhanced institutional capacity through state-initiated measures. The efficacy of the program to achieve this
+objective of strengthened institutional capacity is rated Modest because of the significant gaps between
+achievements and output target value, where achievements of two of the targets were even lower than the
+baseline values.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 1 REVISION 1
+Revised Objective
+The objective was not revised. The targets were revised.
+
+Revised Rationale
+                                                                                                 Page 13 of 26
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   West Bengal ISGPP-II (P159427)
+
+
+
+REVISED TOC: The TOC noted above was unchanged. The revisions referred to the decrease by 10 percent
+of the target outcome indicator. Various targets of DLIs and the activities linked to those disbursements were
+dropped (in the case of DLI 7 and related activities) and increased in places (introduced new targets for
+added activities) as the MTR reallocated budgets and deleted redundant targets. The causal link between the
+inputs and outputs continued to establish a logical link to the expected outcomes. The assumptions were not
+revised.
+
+REVISED INPUTS: A performance assessment (APA) cycle for Year 5 was added for DLI 2 to allow the use
+of US$13.69 million in savings generated by unused resources linked to DLIs 1, 4, and 5. US$1 million was
+reallocated from DLI 7 to DLI 5 because DLI 7 was dropped. This DLI was dropped in response to the
+government's adoption of the statewide policy to freeze hiring of staff.
+
+REVISED OUTPUTS: The Year 5 target for the assessment of mentors increased. The DLI 5 targets of Years
+2, 3, 4, and 5 were adjusted according to government priorities. Year 2 target for OSR was modified as the
+government adopted other mechanisms for raising OSRs. The Year 3 target to develop a web-based
+integrated system was moved to Year 4. The Year 4 target of ease in doing business module was instead
+adopted by the state as its own initiative. The Year 5 target of an asset management module was revised to
+make way for the state initiative of centralizing the management of all GP assets in a web-based system
+instead. DLI 7 was dropped altogether. The corresponding amount was reallocated (see revised inputs
+above) and the associated activity was no longer supported by the program because the government adopted
+a freeze hiring policy of GP core staff. The GPs did not fill any vacancies in three key GP staff positions
+because of the statewide decision to freeze hiring of staff. This indicator was dropped. The World Bank team
+informed IEG that supplemental measures noted above were adopted to sustain the enhanced human
+resources capacity for subproject implementation and service delivery. A new target, providing onsite
+mentoring support (physical/virtual) to 70 percent of the women elected representatives across remote GPs,
+was added for Year 5. 82.52 percent of women elected representatives were mentored (physical/virtual
+mode) in remote GPs exceeding the target. The achievements of the key indicators related to participatory
+planning, transparency, and accountability (51.3 percent achieved compared to baseline of 53 percent and
+target of 70 percent, i.e., target not achieved and lower than the baseline); and project execution and
+service delivery capacity (40.2 percent compared to the baseline of 65 percent and target of 85 percent, i.e.,
+target not achieved and lower than baseline) remained the same.
+
+REVISED OUTCOMES: The target for the outcome level indicator regarding the share in the total number of
+GPs qualifying for BMC and EMC was reduced in Year 5 from 80 to 70 percent.
+
+      75 percent of GPs qualified for PBGs after meeting the Basic Mandatory Conditions (BMCs) and
+       Expanded Mandatory Conditions (EMCs) annually in the Annual Performance Assessments (APAs).
+       With a baseline of 40, the original target was 80 percent. This was revised to 70 percent at
+       restructuring and the target was exceeded. The APA exercise improved day-to-day GP functioning
+       and ensured effective utilization of the funds based on the DLIs that needed to be achieved to receive
+       a favorable score in the assessments. These assessments were conducted and
+       verified independently.
+      62.16 percent of the total number of Scheduled Tribes (ST) GPs met the extended mandatory
+       conditions (EMCs), against a baseline of 5, exceeding both the original target of 25 percent, and
+       the revised of 30 percent. The target was exceeded. Note that this outcome was erroneously referred
+       to as the "number" rather than "share" of Scheduled Tribes that met the EMCs. According to the
+       PAD, this indicator measured the total number of Scheduled Tribes GPs (GPs with 40 percent or more
+       of scheduled tribe populations) that each year will qualify the Expanded Mandatory Conditions by (i)
+
+                                                                                                Page 14 of 26
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   West Bengal ISGPP-II (P159427)
+
+
+
+       achieving a minimum of 60 percent expenditure across all untied fund (received up to and including
+       third quarter) within the fourth quarter of the Financial Year; and (ii) regularly maintaining a
+       computerized accounting system per state norms. This indicator was to track the program's impact on
+       State Tribes/State Castes, officially designated groups of people and among the most disadvantaged
+       groups in India. The Indian Constitution recognize these terms.
+      65.91 percent of the total number of Scheduled Castes (SCs) GPs met the EMC, from a baseline of
+       20, percent, and a target of 40 percent, revised to 45 percent. The target was exceeded.
+
+Overall, the efficacy of the program to achieve this objective with the revised indicators and targets is rated
+Modest despite the exceeded revised outcome targets. The human resources capacity indicator was dropped
+given the statewide hiring freeze. The World Bank team informed IEG that measures had been adopted to
+address the shortcomings presented by unmet targets in the key intermediate results indicators highlighted in
+the previous section (pre-restructuring) that supported enhanced institutional capacity. However, the key
+indicators related to participatory planning, transparency, and accountability (51.3 percent achieved
+compared to baseline of 53 percent and target of 70 percent); and project execution and service delivery
+capacity (40.2 percent compared to baseline of 65 percent and target of 85 percent) remained unmet and
+the reported achievements were below the baseline values. The efficacy of the program to achieve this
+objective is therefore rated Modest.
+
+
+
+Revised Rating
+Modest
+
+
+OBJECTIVE 2
+Objective
+To strengthen the financial capacity of Gram Panchayats across the State
+
+Rationale
+Theory of Change: As noted above, there was no TOC at appraisal but the causal relationship between the
+inputs, outputs, and expected outcomes were laid out in the activities that were to trigger the disbursements
+to achieve key results. A retrospective TOC was prepared for the ICR. The financial capacity of GPs in West
+Bengal was to be strengthened by improving the financial management systems, combined with the statewide
+PBG mechanism established under the first objective above.
+
+Inputs: were training, technical assistance, and grants to be distributed to eligible GPs.
+
+Outputs: The APA assessed (i) four BMCs; (ii) two additional EMCs; and (iii) specific thematic areas
+that provided performance incentives in planning and budgeting, project execution and service delivery,
+financial management, and transparency and accountability. These conditions also covered the progress of
+the following four Key Results Areas (KRAs) - (i) establishing a statewide unified PBG system using all
+discretionary funds and made available to all GPs; (ii) improving local government financial management
+systems; (iii) improving local governance and human resource (HR) capacity for increased transparency and
+accountability in local government functions; and (iv) improving the decentralized and participatory planning
+and budgeting mechanisms at the local level. In addition to scoring the factors in the APAs, the GPs
+performance was also assessed on their use of mentoring support (corresponding to DLI 4); their participation
+in formal learning and training (corresponding to DLI 3); their use of the institutional systems developed; and
+
+                                                                                                 Page 15 of 26
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   West Bengal ISGPP-II (P159427)
+
+
+
+overall program management. Outputs were to include the various systems that were designed to improve
+the financial capacity of GPs across the state such as the Gram Panchayat Integrated Monitoring System
+(GPIMS), the Gram Panchayat Management System (GPMS), the use of external audits, and the internal
+audit mechanisms.
+
+The TOC provided a clear causality between the inputs and outputs. Outputs could reasonably be attributed
+to the inputs. The expected outcomes were narrowly expressed as achieving sound financial management
+practices. There was a gap between how these management practices then led to improved services
+delivered to beneficiaries, similar to the those noted in objective 1 above. While attribution is reasonably
+achieved by the expected outcomes, these were expressed at the intermediate rather than outcome level.
+
+Critical assumptions: The same critical assumptions noted under Objective 1 above applied to this TOC.
+
+OUTPUTS: The following outputs improved local government finances and financial management systems in
+GPs. The key activities included providing hand-holding support to GPs (capacity building through formal
+learning and mentoring) to improve OSRs through PBGs.
+
+      The program institutionalized a risk-based internal audit ecosystem for GPs to strengthen the state’s
+         oversight mechanism. The program developed an Internal Audit Manual, achieving target.
+        The program trained more than 300 internal auditors. The ICR did not report a target.
+        Regular mentoring and training mechanisms were established in all 3,229 GPs, achieving target. In
+         FY2021–22, the Program targeted 14,100 participants on e-tendering, online GPMS, Goods and
+         Services Tax (GST), and technical and engineering issues (including environmental and social
+         safeguards (E&S) and disaster risk management and improving OSRs. At closing, the program trained
+         around 75,000 participants. No target was provided.
+        The program deployed around 480 mentors every year with an average of 19 days of onsite mentoring
+         in each GP and performance assessment of the mentors deployed. Mentor support increased from an
+         average of 21 days in FY2017–18 to 33 days in FY2021–22. A Mentor Deployment Strategy (MDS)
+         was developed to identify weaker GPs and intensify support for them. The Program’s Mentor
+         Reporting System (MRS) geotagged the movement of mentors and automatically updated the mentor
+         hours provided to GPs by each mentor. Mentor deployment was reduced during the
+         Panchayat elections in 2018, the State Assembly elections in 2021, and the COVID-19 pandemic in
+         2020 and 2021.
+        An integrated state-level digital dashboard was established to improve monitoring of GP performance
+         in real time, achieving target. However, the development and use of web-based integrated systems
+         across all GPs was not achieved at closing.
+        The comprehensive analytical tool was not developed at closing.
+
+OUTCOMES:
+
+      Own source revenues increased. GPs achieved a value of US$24.77 million increase in GP’s own
+       source revenue. The original target was equivalent to an annual increase of 10 percent over the
+       baseline till closing. Baseline was US$18 million; end target was US$26.3 million. The target was
+       exceeded. The exchange rates for ‘actual’ and ‘end target’ were the same as the one used for the
+       baseline (US$1 = INR 65).
+      The program achieved an average score of 75 percent of the performance-based untied grants
+       utilized by the GPs. The baseline was 46 percent, and the target of 66 percent was exceeded. The
+
+                                                                                               Page 16 of 26
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    West Bengal ISGPP-II (P159427)
+
+
+
+       Program helped institutionalize a set of FM systems and improved the OSRs of GPs. On average, GP
+       revenues increased by 8– 9 percent over the last four years of the program.
+      The state-level integrated digital dashboard informed decision-making at the state and local
+       government levels but no data was provided to support this claim.
+      At closing, all GPs completed their respective internal audits for FY2021–22 achieving target, an
+       improvement from the 75 percent of GPs completing their internal audits for the preceding fiscal year.
+       This improvement was reflected in achieving a score of 84.44 percent, exceeding the target of 73
+       percent.
+
+he targets for using the internal audit ecosystem, increasing GP level OSRs, and the state level dashboard to
+monitor GP financial management performance were achieved. There were minor shortcomings in the
+achievement of the intermediate results such as the lack of establishment of the digital dashboard to improve
+monitoring of GP performance. The efficacy of the program to achieve this objective is rated Substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2 REVISION 1
+Revised Objective
+To strengthen the financial capacity of Gram Panchayats across the State
+
+Revised Rationale
+Achievement and rating are as outlined above.
+
+
+
+Revised Rating
+Substantial
+
+
+
+
+OVERALL EFFICACY
+Rationale
+The overall efficacy of the program to achieve both objectives is rated Substantial with moderate
+shortcomings. There were moderate shortcomings in the achievement of the first objective regarding
+strengthening the institutional capacity of Gram Panchayats across the State. Even though the outcome
+indicators related to the GPs qualified for PBGs, as well as the utilization of performance-based untied grants
+were substantially achieved, there were shortcomings in the achievement of key intermediate results that
+supported enhanced institutional capacity regarding – human resource capacity; participatory planning,
+transparency, and accountability; and project execution and service delivery. The second objective related to
+the strengthening of financial management capacity was substantially achieved. On the financial
+management capacity front, GPs improved their OSRs, the rate of fund utilization of state grants, and have
+
+
+                                                                                                 Page 17 of 26
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      West Bengal ISGPP-II (P159427)
+
+
+
+ an internal audit mechanism in place to improve documentation and reporting systems. The overall efficacy
+ rating pre-restructuring is rated as Substantial with moderate shortcomings.
+
+
+
+ Rating
+ Substantial
+
+ OVERALL EFFICACY REVISION 1
+ Revised Rationale
+ The overall efficacy of the program to achieve the revised targets is rated Substantial with moderate
+ shortcomings. There were moderate shortcomings in the achievement of the first objective regarding
+ strengthening the institutional capacity of Gram Panchayats across the State. Even though the outcome
+ indicators related to the GPs qualified for PBGs, as well as the utilization of performance-based untied grants
+ were achieved, and the human resource capacity indicator was dropped there were shortcomings in the
+ achievement of key intermediate results that supported enhanced institutional capacity regarding –
+ participatory planning, transparency, and accountability, and project execution and service delivery. The
+ second objective related to the strengthening of financial management capacity was substantially achieved.
+
+ The overall efficacy rating post-restructuring is rated as Substantial with moderate shortcomings.
+
+
+
+ Revised Rating
+ Substantial
+
+
+5. Outcome
+
+The Relevance of Objectives and DLIs was substantial before and after restructuring. The efficacy rating was
+Substantial with moderate shortcomings both before and after restructuring. Given that the ratings were the
+same, both pre- and post-restructuring, a split evaluation will not make a difference to the overall outcome
+rating. The overall outcome rating is Moderately Satisfactory due to the shortcomings in Efficacy. It is noted that
+85 percent (i.e., $170.3 million was disbursed before restructuring).
+
+
+
+
+    Outcome Rating
+    Moderately Satisfactory
+
+
+6. Risk to Development Outcome
+
+The following pose risks to the development outcomes of the program (ICR, paragraphs 75-76):
+
+
+
+                                                                                                     Page 18 of 26
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     West Bengal ISGPP-II (P159427)
+
+
+
+     Technical risk: This is a moderate risk. In this project, innovative technology and systems were
+      introduced to design and implement the statewide unified PBG system to disburse untied grants to
+      GPs. Incentives that use online systems, such as the annual performance assessments, geo-tagging
+      the use of mentors, computerized accounting systems, internal audit mechanisms, Grievance
+      Redressal Management System (GRMS), Gram Panchayat Integrated Monitoring System (GIMS),
+      Gram Panchayat Management System (GMS), Mentor Reporting System (MRS, etc., were widely
+      adopted. These systems use software and hardware that require periodic updates as functionalities
+      evolve, services expand, and needs emerge. Commitment to these periodic technical updates may
+      need to be captured as part of the state's incentive scheme for the use of the systems to respond to
+      changes and be sustained over time. There is a risk that these updates may not be pursued if
+      government policy changes, if capacity in various departments reduce over time, or if training is not
+      delivered. GPs may discontinue their participation. External agencies may not continue to support the
+      systems in place, such as external audits to verify performance indicators. Mandating periodic
+      technical updates and finding resources to accompany this mandate may mitigate this risk.
+     Financial risk: This is a substantial risk. In this program, GPs were encouraged to raise their own
+      source revenues (OSR) as part of building their capacity to deliver services and meet the burgeoning
+      need of its constituents. Targets were met. GPs were encouraged to plan and implement basic
+      infrastructure and deliver services to its neighborhoods using grants from the state. Local
+      infrastructure assets completed under the program require financial commitments for operations and
+      maintenance (O&M). Noting that an output target (4.1 improved project execution) remained unmet at
+      project closing because of lack of financial resources to meet O&M needs highlights the risk to future
+      needs of assets completed under the program. GPs will also need support to address the O&M
+      needs of their remunerative assets. Retaining staff capacity also needs financing commitments to be
+      sustained. Refining the incentive schemes of the PBG from the state to include these considerations
+      may mitigate this risk at the GP level.
+     Government ownership/commitment risk. This is a moderate risk. In this program the government
+      embraced the institutional reform underlying the program to reach all the GPs in the state
+      (except GTA). The government expressed its commitment to continue with the program after the
+      program closed. In some instances, the government also committed to continue the training and use
+      of mentors to support the capacity of the GPs to perform its functions and deliver services to its
+      constituents. At closing, the state government acknowledged that the program improved the
+      institutional capacity of GPs, promoted decentralization, and committed to using and maintaining the
+      systems developed under this program.
+     Macroeconomic Risk. This is a high risk. In this program, the COVID-19 pandemic in 2020 affected
+      program implementation. Wars and other civil disturbances worldwide are expected to have economic
+      and social consequences worldwide. These pose high risks to sustaining the outcome achieved by
+      the program. There would be pressure on how to finance competing priorities. Disruptions to
+      employment and income earnings in rural areas may pose risks to the willingness to pay water and
+      sanitation tariff rates. The difficult and uncertain global and national macroeconomic environment in
+      the near- to medium-term pose high risks to sustaining outcomes achieved in this program.
+
+
+
+
+7. Assessment of Bank Performance
+
+a. Quality-at-Entry
+
+                                                                                                Page 19 of 26
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     West Bengal ISGPP-II (P159427)
+
+
+
+  The Bank team designed this program considering that West Bengal was at the forefront of the
+  decentralization process in India. The team identified the strengthening of the institutional and financial
+  capacity of GPs as its key development objective. The Bank team considered the priorities of the state as
+  well as those of the State Financial Commission (SFC) to scale up the program initiated under phase 1 to
+  reach all GPs (excluding the GPs of the Gorkha Territorial Administration or GTA) and adopt the PBG
+  system to distribute all state-level untied grants. The Bank team considered the lessons from the
+  predecessor phase I of the program that covered 1,000 GPs and now expanded the coverage to include
+  all GPs of the state (covering all 3,229 GPs of the state, except for the GTA GPs). The World Bank team
+  conducted a technical Fiduciary Systems Assessment (FSA), and the ESSA adequately identified the
+  implementation risks because of the lack of experience of the GPs that were not part of phase 1 and
+  identified measures in a comprehensive Program Action Plan (PAP) to address these weaknesses during
+  implementation. The Bank team designed mandatory conditions and performance measures to address
+  these risks built into the indicators to support capacity building and institutional strengthening. The team
+  designed the implementation arrangement by building on the preceding phase and incorporating lessons
+  from the preceding phase into the design. Among these lessons were leveraging a PBG system
+  to improve GPs performance, mentoring as a key element of capacity building, and separating the
+  executing from the evaluating agencies for objectivity and establishing the integrity of the performance
+  assessments and verification, such as using external independent firms for the APA, and conducting
+  independent verification studies. The team designed the results framework with matching DLI verification
+  methodology supported by an M&E framework (see Section 8)—the DLI verification
+  protocol distinguished between annual and end targets. The team justified using the P4R instrument as
+  an appropriate follow-on to the first phase, indicating a readiness to implement with staff from the state-
+  level Program Management Unit (PMU) continuing into phase II implementation. However, the Bank team
+  did not identify the risks of overextending the Examiner of Local Accounts (ELA) agency that was
+  mandated to conduct external audits, not just of these GPs, and government policy changes, in this case,
+  the freeze hiring of core GP staff that directly affected the achievement of a disbursement
+  linked indicator. Following the Mid Term Review (MTR, see below), the team designed corrective
+  measures for restructuring.
+
+  Overall, the performance of the Bank team at entry is rated Satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The task team leader changed once from preparation to closing. The team conducted 13 supervision
+ missions over the course of the five-year program period including virtual missions during the COVID-19
+ pandemic. During the pandemic, the World Bank task team proactively supported the PMU in developing a
+ virtual methodology for undertaking the APA exercise. The task team reported consultations with GPs
+ and the state-level PMU to discuss implementation delays from a lack of resources and impacts of COVID-
+ 19 on external audits by the ELA under the Office of the Accountant General of West Bengal, a decline in
+ performance of Phase I GPs, and government policy changes that led to freeze hiring of core GP staff. The
+ team addressed these at restructuring, following the MTR. The team drew up a Mentor Deployment
+ Strategy (MDS), recalibrated training and mentoring to uniformly deploy resources across all GPs. The
+ team rationalized indicators and targets to remove redundant targets and add a target on mentoring
+
+                                                                                                   Page 20 of 26
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     West Bengal ISGPP-II (P159427)
+
+
+
+ women elected representatives in far flung GPs. With the freeze hiring of core GP staff, GPs turned
+ to mentors to fill the capacity gaps (ICR, paragraph 53). External factors such as the policy change noted
+ above to freeze hiring of core GP staff, the Panchayat elections in 2018 and the State Assembly elections
+ in 2021, COVID-19 delayed implementation (ICR, paragraph 58). The Bank team helped revamp the APA
+ tool into a virtual desk-based activity. The Bank team devised a feedback loop for a need-based training
+ and mentoring plans and helped develop an online dashboard to inform the public and the government on
+ GP performance. The team also helped support systems to enable the government to continue with the
+ PBG systems after the program closed. However, funds made available under the program (CFC, SFC,
+ and IBRD) funds were less than the initial estimate of US$593.7 million (ICR, paragraph 57). Central
+ government discretionary (untied) funds (CFC) were disbursed separately and outside the program (ICR,
+ footnote 14) under a set of conditions separate from this program but applicable to the entire country.
+ However, this did not affect either the PDO, or the overall operation of the GPs, or attribution of the
+ program interventions because SFC and IBRD funds remained part of the Program.
+
+ Overall, the performance of the Bank team under supervision is rated Satisfactory.
+
+ The overall rating of the Bank performance at entry and supervision is rated Satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+8. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The Theory of Change prepared at closing showed a logical causal link where inputs led to outputs that led
+ to the expected outcomes. The program objectives were clear and specific, directed at the capacity of the
+ GPs in West Bengal. The coverage was adequate to provide an impact since the program covered the
+ entire state (except for GTA GPs). The PDO was well formulated and aligned with the government's plans
+ (national and state levels) to strengthen the PRI system, with a focus on the GP level. The PDO had a
+ clear link with the RF. Indicators encompassed all aspects of the PDOs..The DLIs were clearly defined,
+ measurable, and aligned with the PDOs. Technically sound and credible protocols and methodologies to
+ monitor and verify DLIs were in place. There were a few mislabeled indicators, e.g., the "Total number of
+ GPs" or "Total number of beneficiaries, disaggregated by gender" that were measured in percentages.
+ Each indicator was to be analyzed with on-ground feedback obtained through consultations. These
+ indicators sufficiently captured the contribution of the activities to the key results area and toward achieving
+ PDO-level outcomes. For example, the completion of the APAs received a score that qualified GPs to
+ indicate improvement in their capacities to plan and budget. The APA exercise constituted the overall M&E
+ arrangement of the program (ICR, paragraph 61) and was relied upon to provide the evidence to support
+ the achievement of the PDOs. Data collection methods and analysis of the indicators were contained in the
+ APA, the Independent Verification Agency (IVA), and the Quality Assurance Review (QAR) (hired by the
+ World Bank) to be engaged for the overall assessment verification and quality assurance of the APA
+
+                                                                                                     Page 21 of 26
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     West Bengal ISGPP-II (P159427)
+
+
+
+ process. A training MIS was to be developed to track annual capacity-building activities and the
+ implementation of the formal training plans. The M&E design and arrangements were well-embedded
+ institutionally.
+
+
+
+b. M&E Implementation
+  The M&E system was implemented by the PRRD using the APA exercise to measure and report on
+  progress against indicators in the results framework. The APA implemented the M&E system of the
+  program (ICR, paragraph 61). An APA firm with more than 300 field staff collected data directly from the
+  GPs. An Independent Verification Agent (IVA) verified the data. Weaknesses in M&E design, including
+  specification of indicators, were corrected after the mid-term review and rationalization and removal of
+  redundant targets, and a new indicator was added at restructuring that followed. The APA tool was often
+  fine-tuned (for example, targets were revised, and means of verification [MOVs] were clarified) before the
+  start of each cycle based on feedback from APA field staff and the IVA and QAR teams. Disbursement
+  indicators were scalable and well defined, verified through field visits by the IVA sampling 100 of the
+  3,200 GPs. The program encouraged all GPs to use GPMS and established an integrated state-level
+  digital dashboard to enhance transparency while monitoring GP performance in real-time. This
+  dashboard was available to the public and was intended to inform policy decision-making at the state and
+  local government levels. Post MTR, the program developed a feedback loop (ICR, paragraph 56) to
+  identify relatively weak GPs (based on APA scores) and deliver targeted training and mentoring. The
+  overall APA performance of GPs was reviewed at the department level, but the program did not include a
+  formal mechanism to communicate the APA performance scores to the GPs. After the program closed,
+  the government acknowledged the benefits of the systems introduced under this program and committed
+  to continue implementing those, including M&E functions and processes.
+
+
+
+c. M&E Utilization
+  The M&E data from the APA exercise was used to report on GP performance at the department level.
+  M&E data informed restructuring. The program created a feedback loop, wherein the APA performance
+  of the GPs was analyzed at the department level, and corrective measures such as targeted training and
+  mentoring were identified. M&E data was communicated to various stakeholders through the feedback
+  loops that were implemented later in the program and through the implementation of a state-level digital
+  dashboard using data from the GPMS and the GPIMS that made available GP-level data in the public
+  domain for improved accountability and transparency. M&E data was used to develop an online vetting
+  software to ensure efficient workflow management and timely vetting procedures for GP subproject
+  documents (for example, estimates, drawings, and designs). Overall, the Program enabled the
+  implementation of several systems aimed at enhancing transparency and efficiency in GPs and
+  facilitating decision-making at the state/department level. The M&E systems established were likely to
+  be sustained after closing (ICR, paragraph 66).
+
+  The overall rating of M&E quality is Substantial. The program designed an M&E system using the APA
+  exercise to provide evidence of achieving targets for the various indicators in the results framework.
+  M&E data was implemented and corrected when shortcomings were identified. M&E data was used to
+  inform feedback mechanisms for greater transparency and accountability.
+
+
+
+
+                                                                                                  Page 22 of 26
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     West Bengal ISGPP-II (P159427)
+
+
+
+
+  M&E Quality Rating
+  Substantial
+
+9. Other Issues
+
+a. Safeguards
+   Environmental Safeguards: The program was assigned OP/BP 9.00, which established the policy and
+   planning elements necessary to achieve outcomes consistent with a P4R operation. The policy, OP 9.00,
+   Program-for-Results Financing, was first issued in February 2012, revised in April 2013, and further updated
+   in April 2015. The elements of the policy guided Bank implementation support and assessed the
+   government's systems and their capacity to plan and implement effective measures for environmental and
+   social risk management. The program reported satisfactory performance of its Environmental and Social
+   Systems (E&S, ICR, paragraph 68). The program adopted the Environmental and Social Systems
+   Management Framework (ESMF) laid out in the preceding phase. The Environmental and Social
+   Safeguards Assessment (ESSA) was disclosed on December 15, 2016. The ESSA was uploaded in the
+   websites of the World Bank and of the state of West Bengal on December 22, 2016 and re-disclosed in the
+   program's website on February 15, 2017. Minor implementation delays initially occurred because the
+   coverage expanded from 1,000 GPs in Phase 1 to all 3,200 GPs in Phase II. GPs developed schemes that
+   reflected limited understanding of the ESMF at the block level leading to initial delays in technical
+   approvals/vetting of schemes. GPs in remote eco-fragile villages lacked technical/E&S capacity that led
+   to delays in developing infrastructure subprojects. Activities in the Program Action Plan (PAP) included
+   conducting an orientation on ESMF to build capacity at all levels of the local government. GP engineers and
+   contractors received regular technical trainings. Additional mentoring support was delivered to eco-fragile
+   GPs in remote areas. The GP staff were aware of E&S issues at the field level after the implementation of
+   the ESMF. Several GPs scaled up their E&S practices in other schemes, including adherence to the
+   negative list provided under the Program. The Output Verification Study indicated improvements in the
+   integration of ESMF guidelines by GPs. The program, however, did not meet the corresponding output
+   indicator because of shortcomings in ESMF reporting, geotagging of subprojects, preparing good quality
+   comparison statements during procurement, creation of sustainable and remunerative assets, fund
+   allocation for operation and maintenance (O&M) activities, and utilization of own funds for development
+   activities.
+
+   Social Safeguards: Since most of the works were anticipated to be small scale and subject to a negative
+   list, no major negative impacts were expected. No land acquisition or resettlement were expected. Negative
+   environmental impacts, if any, were expected to be minor. Activities in the Program Action Plan (PAP)
+   included implementing the Grievance Redress Mechanism System (GRMS). The GR was strengthened
+   through information and communication technology tools including a web-based system for effective
+   monitoring. The program created a Vulnerable Group Development Framework (VGDF). This enabled GPs
+   to identify lagging areas, prioritize areas of disparity (for example, disadvantaged rural citizens), and
+   improve the planning processes to provide better quality services. An online land portal was developed and
+   is now in use by all districts to document government land transfers, donation of land parcels, etc.
+
+
+
+
+b. Fiduciary Compliance
+
+                                                                                                 Page 23 of 26
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    West Bengal ISGPP-II (P159427)
+
+
+
+  Financial Management: The Integrated Fiduciary Systems Assessment (IFSA), conducted at preparation,
+  built on the experience gained from phase I. Suitable mitigation measures were embedded in the program
+  design to strengthen the system (ICR, paragraph 70). The program received complaints. These were sent
+  to the World Bank's Integrity Vice Presidency (INT) who investigated these. The West Bengal State
+  Vigilance Commission conducted its own investigation. The task team took actions in accordance with the
+  Legal Agreement (ICR, paragraph 71). At closing, the fiduciary arrangements assessed in the IFSA
+  remained except for the flow of funds to GPs. Funds went directly to the GPs from the ISGPP cell instead
+  of being routed through the district offices. External and internal audits were built into the systems funded
+  by the program. Completing those formed part of the annual performance assessments. Fiduciary issues
+  raised during implementation included weak accounting practices in the District Coordination Units (DCUs).
+  Both the internal and external auditors made repeated observations on DCU’s weak accounting practices.
+  These included maintenance of records for fixed assets and inadequate supporting documentation for
+  expenditure. These recurrent observations were usually related to petty expenditure. The PMU addressed
+  these weaknesses with training and frequent monitoring, but the weaknesses persisted till closing. Weak
+  internal audit at the Program level was another issue. Repeated delays in appointing internal auditors for
+  the program affected the program's internal expenditure control framework. The internal auditors did not
+  report on risks, process, and performance-related weaknesses of the program. They focused more on
+  compliance and inconsistencies in individual transactions/payment vouchers.
+
+  Procurement: A GP Works Manual was developed under the Program to help GPs standardize the
+  subproject execution and service delivery process and enabled them to complete subprojects more
+  efficiently. With the introduction of e-tendering systems and the Procurement Manual, the overall
+  procurement systems have become more transparent and efficient and facilitated wider participation of
+  bidders. Procurement of testing equipment and installation of quality control laboratories at the block level
+  have strengthened the GPs’ overall contract management capacity, as GP staff are now able to assess the
+  quality of materials provided by the contractors and are able to monitor the progress of works effectively.
+  Training of contractors under the Program has helped GPs manage expectations and improve the overall
+  quality of construction. One of the key fiduciary issues during Program implementation included the change
+  in Program procurement approach. Until the MTR, the Program continued to use World Bank IPF
+  procurement processes and legacy arrangements that were part of ISGPP. Post MTR, in line with the
+  approach to use country systems, the procurement arrangements were comprehensively revised and
+  aligned with the State Government’s procurement rules and guidelines. Also, the quality of procurement
+  audit during the initial years of Program implementation faced some issues. In FY2018– 19, a procurement
+  audit was undertaken by the Program’s external auditors who were transactional experts with limited
+  procurement audit capacity. As a result, the audit reports could not ascertain if the procurement processes
+  followed the agreed principles and procedures. Thereafter, it was agreed that qualified and specialized
+  firms would conduct the independent annual procurement audits. A few procedural lapses related to
+  authorization by competent authorities were observed by the auditors and these were resolved during
+  implementation.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+
+                                                                                                  Page 24 of 26
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     West Bengal ISGPP-II (P159427)
+
+
+
+10. Ratings
+                                                                               Reason for
+Ratings                        ICR                   IEG
+                                                                               Disagreements/Comment
+                                                                               Shortcomings in achievement of
+Outcome                        Satisfactory          Moderately Satisfactory   the institutional capacity
+                                                                               objective
+Bank Performance               Satisfactory          Satisfactory
+
+Quality of M&E                 Substantial           Substantial
+
+Quality of ICR                 ---                   Substantial
+
+
+11. Lessons
+
+Some of the key lessons offered by the operation are the following: (ICR, paragraphs 77-81)
+
+      A unified statewide performance-based grant system may facilitate institutional and
+       financial systems reform of GPs. In this project, untied grants from the state were
+       distributed to GPs using a performance-based grant allocation system. Disbursements were
+       linked to the adoption of targeted reforms and the use of various systems to build GP
+       capacity. The annual performance assessments facilitated institutional reforms. GPs
+       generated own-source revenues (OSRs) and regularized administrative functions such as
+       planning, budgeting, procurement, and improved service delivery.
+      A programmatic approach to follow reforms introduced under the first phase may
+       ensure a readiness to implement and help achieve development objectives. In this
+       project, GPs were provided a preview of the expected progression of the institutional reform
+       initiated under the program's first phase. GPs were given a preview of the benefits to be
+       derived from the adoption of institutional and financial reforms to benefit them. The P4R
+       mechanism served as a platform where incentives were offered to reward the adoption of
+       institutional reform. The P4R engagement allowed for cascading operational and technical
+       aspects of the reforms. The legacy systems adopted by the prior phase ensured the
+       program's readiness to be implemented. The state-level Program Management Unit (PMU)
+       had sufficient capacity, with many staff continuing from the first phase. Using established
+       systems and trained staff from the predecessor project helps ensure continuity.
+      Continuous community engagement may help sustain program interventions. In this
+       project, local communities were continuously engaged at the GP level. Para baithaks
+       (community meetings) were organized where the local people could interact directly with GP
+       officials and articulate their demands. Residents were consulted during the construction of
+       subprojects (for example, road laying). Any grievance was resolved through the GRMS within
+       a specified period. The program increased the participation of women in Gram Sabha and
+       Sansad meetings. Local people saw the benefits of a bottom-up planning process,
+       which helped them register ownership of the program activities. Adopting a state-level digital
+       dashboard that displays the public GP level performance noted above and the participatory
+       experience facilitated by the program may encourage residents to continue their civic
+       participation and help demand sustaining capital assets.
+
+
+                                                                                                 Page 25 of 26
+       Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+       West Bengal ISGPP-II (P159427)
+
+
+
+        A detailed assessment of external agencies may inform the design of program
+         incentives that would minimize implementation delays. In this project, some key program
+         activities, such as the external audit of GPs that involved the engagement of external
+         agencies (such as ELA), were severely delayed. Therefore, a thorough assessment of the
+         external agencies, which play a key role in implementing the program, needs to consider
+         adding incentives for the timely completion of obligations. In addition, programs may
+         establish a systematic coordination mechanism to engage with external agencies to help
+         reduce implementation delays.
+
+
+
+12. Assessment Recommended?
+
+  No
+
+13. Comments on Quality of ICR
+
+The ICR report followed the guidelines. The narrative, the evidence, and the ratings were clearly linked. The
+evidence linked to the disbursements were verified independently and documented to support evidence of
+outcomes. Verification processes were strong. The annexes provided additional justifications to support the
+ratings of program performance. The analysis of the data was clearly linked to the findings. The report provided
+strong arguments to support the link between the program interventions and the outcomes. The theory of
+change justified how the ratings were reached. Lessons were specific, useful, and based on evidence of what
+occurred in the program. Overall, the report is rated Substantial.
+
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                  Page 26 of 26
+

@@ -1,0 +1,1372 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Public Procurement Digitization Project (P160758)
+
+
+
+                                                                                   Report Number: ICRR0024200
+
+1. Project Data
+
+
+
+ Project ID                                   Project Name
+ P160758                                      Public Procurement Digitization Project
+
+ Country                                      Practice Area(Lead)
+ Bangladesh                                   Governance
+
+
+ L/C/TF Number(s)                            Closing Date (Original)                Total Project Cost (USD)
+ IDA-60770,IDA-68270                         30-Jun-2022                                         76,030,011.16
+
+ Bank Approval Date                          Closing Date (Actual)
+ 28-Jul-2017                                 31-Dec-2023
+
+                                             IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                              55,000,000.00                                             0.00
+
+ Revised Commitment                               78,469,600.64                                             0.00
+
+ Actual                                           76,430,818.69                                             0.00
+
+
+
+
+ Prepared by                  Reviewed by                  ICR Review Coordinator         Group
+ Gloria Carolina              Judyth L. Twigg              Kandi Magendo                  IEGEC (Unit 1)
+ Gutierrez Tejada
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to the Financing Agreement (FA) dated August 29, 2017 (FA, p. 4) and the Project Appraisal
+   Document (PAD, p. 4), the Project Development Objective (PDO) was:
+
+    To improve public procurement performance and enhance capacity for implementation monitoring of
+   development programs/projects.
+
+
+
+                                                                                                   Page 1 of 25
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Public Procurement Digitization Project (P160758)
+
+
+
+   For the purposes of this review, the PDOs have been parsed as follows:
+
+   PDO1: Improve public procurement performance.
+
+   PDO2: Enhance capacity for implementation monitoring of development programs/projects.
+
+   The PDO remained unchanged during the project lifecycle and, although two outcome targets were revised
+   and two new targets were added in 2021 with Additional Financing (AF), a split rating does not apply because
+   the project became overall more ambitious. One target (PDO indicator 4) was revised downward, but the
+   original and revised targets were exceeded; therefore, separate assessments against the original outcome
+   targets and revised outcome targets are not required.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  05-Feb-2021
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The PAD did not detail project activities. It described the intended and anticipated causal mechanisms of
+   change in descriptive terms and key constraints for project implementation, from which IEG has inferred a
+   list of activities under each component/ subcomponent.
+
+   Component 1: Restructuring the Central Procurement Technical Unit (CPTU) and Institutionalizing
+   Electronic Government Procurement (e-GP) (Approved US$9.0 million; Revised US$11.5 million; Actual
+   US$6.2 million). This component aimed to restructure CPTU to enhance its regulatory power and
+   institutionalize e-GP to function as a service provider with professional resources (PAD, Annex 1, p. 27).
+   There were two sub-components:
+
+        1. Restructuring CPTU and furthering policy reform.
+        2. Institutionalizing e-GP.
+
+   Activities for restructuring CPTU included: design of advanced and innovative solutions in public
+   procurement [1]; review of the legal framework and update of procurement manuals, including guidelines for
+   disposal of public assets; and making all legislation and tender documents available in Bengali and all acts/
+   rules in English (PAD, Annex 1, p. 28). Activities for policy reform included: exploration of an integrated risk
+   management system; capacity building on procurement monitoring; identification of risk factors for early
+   intervention and focusing policy modifications; and enhancement of national risk management frameworks
+   (PAD, Annex 1, p. 28). Activities for the institutionalization of e-GP included: making the e-GP operation
+   self-sustainable by using a service provider model that could be a corporate structure or an outsourced third
+
+                                                                                                      Page 2 of 25
+  Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+  Public Procurement Digitization Project (P160758)
+
+
+
+party; and provision of legal and financial management support as needed to support and protect the
+operation of the service provider (PAD, Annex 1, pp. 11, 13).
+
+Component 2: Enhancing Digitization of Public Procurement (Approved US$28.0 million; Revised US$63.0
+million; Actual US$54.3 million). This component aimed to enhance the scope of e-GP for all public entities
+in the country, including updating of e-GP modules with robust contract management processes,
+operationalizing two data centers, and business modeling (PAD, Annex 1, p. 32). Procurement performance
+was to be measured considering 32 Selected Public Sector Organizations (SPSOs), out of a total of about
+1300 in the country that would use e-GP. The 32 SPSOs included 28 new SPSOs (NSPSOs) with the
+largest volume of procurement, covering about 900 key procuring organizations, and 4 previous SPSOs
+(PSPSOs). Over 85 percent of the national development program allocation was spent through these 32
+SPSOs (PAD, p. 32). There were two sub-components:
+
+    1. Expansion of the e-GP system.
+    2. Implementation of contract management.
+
+Activities for expansion of the e-GP system included: managing the e-GP expansion (bid invitation to
+contract award) for procuring organizations focusing on the 28 new SPSOs (NSPSOs) because the e-GP
+system was already functional in the previous 4 (PSPSOs); leveraging existing training and support
+infrastructure developed during the initial system implementation with four key agencies [2]; exploring
+options for the private sector to use the e-GP platform; and providing logistical, technical, and
+implementation support for the e-GP system (PAD, Annex 1, p. 32). Activities for the implementation of
+contract management (CM) included: upgrading the features of the existing CM module [3] focusing on the
+4 previous SPSOs (PSPSOs); creating a citizen web portal; providing training; and developing a national
+contractor database with performance ratings by agencies, especially for civil construction works (PAD,
+Annex 1, p. 35).
+
+The cost of Component 2 at appraisal was over 60 percent of total project cost (US$85 million).
+
+Component 3: Professionalizing Procurement and Citizen Engagement (Approved US$18.0 million;
+Revised US$22.5 million; Actual US$18.6 million). This component aimed to improve procurement
+management capacity of the SPSOs, in terms of procurement practices and the use of e-GP (PAD, Annex
+1, p. 36). There were five sub-components:
+
+    1. Improving procurement management of SPSOs, the Implementation Monitoring and Evaluation
+         Division (IMED) and the CPTU.
+    2.   Capacity building and professionalization of procurement.
+    3.   Disclosure of public procurement information in open data format.
+    4.   Citizen engagement.
+    5.   Strategic communication.
+
+Activities for improving procurement management included: creation and operationalization of a
+Procurement Unit/Cell in each SPSO and accreditation of about 200 officials by the standards of the
+Chartered Institute of Purchasing and Supply (United Kingdom); development and operationalization of a
+system of internal audit/review of procurement functions; raising awareness of the procurement process for
+around 500 key officials of SPSOs by highlighting their role and responsibilities in public procurement; and
+pairing with best-practice international institutions through training or visits.
+
+
+                                                                                                Page 3 of 25
+  Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+  Public Procurement Digitization Project (P160758)
+
+
+
+Activities for capacity building and professionalization of procurement included: professionalizing public
+procurement officials through a four-tier accreditation program (4,000 expected to complete the basic
+procurement training), implementing a capacity development program for SPSOs and other agencies, and
+providing short procurement trainings (6,000 participants).
+
+Activities for disclosure of public procurement information in open data format included: improving
+collection, maintenance, analysis and dissemination of public procurement data and information to all
+stakeholders; and basing the system expansion on the Open Contracting Data Standard.
+
+Activities for citizen engagement included: capacity building for stakeholders from government, civil society,
+and the private sector to use and monitor contracting data; updating the Terms of Reference of the Public
+Private Stakeholder Committee Dialogue; strengthening the existing Government-Tenderers’ Forum at the
+district level for dialogue between public procuring entities (PEs) and bidders; improving citizen monitoring
+at the local level using a Site for Specific Citizen Monitoring; organizing a Citizen Monitoring Forum at the
+regional level; and analyzing the effectiveness of the citizen engagement strategy to improve public works
+outcomes.
+
+Activities for strategic communication included: communication support for the new public procurement
+authority, the expansion of e-GP, open contracting efforts, and citizen engagement; developing a
+communication strategy and action plan; tracking the perception of procurement reforms in the country; and
+introducing new technology tools to enhance the accessibility of public procurement systems and processes
+and to promote transparency and accountability in efficient public spending for better service delivery.
+
+Component 4: Digitizing Project Implementation Monitoring (Approved US$5.0 million; Revised US$8.0
+million; Actual US$5.9 million). This component aimed to strengthen implementation monitoring of
+development programs/projects at the national level using digital technology (PAD, Annex 1, p. 50). There
+were two sub-components:
+
+    1. Enhancing project management information system (PMIS).
+    2. Reinforcing monitoring skills and data analytics.
+
+Program/project implementation monitoring and evaluation was the responsibility of the IMED of the Ministry
+of Planning and was done mostly in a manual way. Activities for enhancing the PMIS included: streamlining
+the process and locating it online through a single web-based platform connecting all public sector
+organizations with state-of-the art technology. The PMIS captured only financial progress, and IMED was to
+expand it to capture real-time physical and financial implementation data. Activities for reinforcing
+monitoring and data analytics included: examining other M&E tools and techniques available to see how
+they may apply to some of the projects in Bangladesh; developing new guidelines for different types of
+projects and developing expert panels to support M&E; enhanced digitization of M&E processes; and
+implementing a skill development plan.
+
+
+
+[1] Solutions such as sustainable procurement framework with rated criteria, most economic and
+advantageous tender, best and final offer, life cycle costs, disposal policy/mechanism, single-stage two
+envelop, small and medium enterprises, social, economic, and environmental criteria.
+
+
+
+
+                                                                                                 Page 4 of 25
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    Public Procurement Digitization Project (P160758)
+
+
+
+  [2] The NSPSOs identified covered most Local Government Institutions (LGIs) with decentralized structure
+  up to the sub-district level, beyond the four target agencies of the ongoing Public Procurement Reform
+  Project II (PPRPII): Road and Highways Department (RHD), Local Government Engineering Department
+  (LGED), Bangladesh Water Development Board (BWD), and Bangladesh Rural Electrification Board
+  (BREB).
+
+  [3] To include supplier’s database, supplier’s performance rating system, geotagging, asset tracking, online
+  payment, critical activity/path management, and upgradation of the system consistent with open contracting
+  data standard.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project cost. The estimated total project cost at appraisal was US$60.0 million. The revised total cost was
+  US$105.0 million. The actual cost was US$85.0 million. There are data discrepancies in the ICR. The
+  revised amount on the Financing Table is US$78.5 million and the actual amount is US$76.4 million (ICR, p.
+  2) which are not correct. Table 2 (p. 10) and Annex 3 (p. 46) have the correct amounts, except that the
+  column labeled “Amount at Approval” should be labeled “Revised Amount after AF” (TTL interview).
+
+  Project Financing. The project was initially financed by an International Development Association (IDA)
+  Credit (IDA-60770) of US$55 million and a government contribution of US$5.0 million, bringing total planned
+  financing to US$60 million. AF of US$40.0 million was approved during the first restructuring along
+  with additional government financing of US$5.0 million, bringing total financing to US$105.0 million
+  (IDA=US$95 million, Counterpart=US$10 million) (ICR, Table 2, p. 10). The actual amount disbursed by
+  project closing was US$85.0 million (Annex 3). Unspent money (SDR 12,317,000) was cancelled on
+  December 27, 2023 (ICR, p.11), before project closing. This amount represented approximately US$16.0
+  million, or 15 percent of the project’s revised cost of US$105.0 million (TTL interview).
+
+  Borrower contribution. The Republic of Bangladesh's expected contribution at appraisal was US$5.0
+  million. This amount was revised to US$10.0 million during the first restructuring. The actual amount
+  disbursed by project closing was US$8.57 million.
+
+  Dates. The project was approved on July 28, 2017, became effective on October 8, 2017, and had an
+  original closing date of June 30, 2022. The project was extended to December 31, 2023 during the first
+  restructuring to allow for the completion of project activities affected by the COVID-19 pandemic. The Mid-
+  Term Review (MTR) did not occur as scheduled due to the COVID-19 and the timing coinciding with the AF.
+  However, the project’s TTL clarified that the August 4 - 24, 2020 identification mission practically served the
+  purpose of the MTR, and all necessary adjustments related to the original project were identified and
+  mentioned in the aide memoire.
+
+  Restructurings. The project underwent two level 2 restructurings, in January 2021 and December 2023.
+  There were no changes in the PDO. In 2021, an AF was approved, two new PDO indicators were added
+  (PDO indicators 5 and 6), the name of Component 1 was adjusted, two outcome targets were revised (PDO
+  indicators 1 and 4), and new intermediate result indicators (IRIs) were added. In 2023, the return of unused
+  funds to the WB was processed.
+
+  Restructuring No. 1: A (level 2) restructuring in January 2021, after three years of implementation,
+  extended the project’s closing date by 1.5 years from June 30, 2022, to December 31, 2023, to allow time to
+
+                                                                                                    Page 5 of 25
+  Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+  Public Procurement Digitization Project (P160758)
+
+
+
+complete pending project activities due to the COVID-19 pandemic. This made the total implementation
+period 6.5 years. An AF of US$40.0 million was approved (IDA-68270). There were no changes to the PDO,
+but the results framework, components, and costs, reallocations between categories, and one legal
+covenant were revised. At the time of the first restructuring, US$28.8 million (51 percent of IDA’s original
+funding) had been disbursed (Report PAD, p. 3).
+
+The AF aimed to expand the coverage and features of the e-GP (US$17.0 million); cover a cost overrun
+(US$16.0 million or 26 percent of original cost); and cover expenses related to the project extension (US$12
+million) (Report PAD, p. 10-11). The e-GP required new modules for international bidders that were facing
+difficulties due to travel bans and lockdowns during the pandemic and online features for contract
+management, payment, and supervision. Cost overruns resulted from higher procurement costs than
+originally estimated due to higher market prices and exponential growth of the procurement contracts in the
+e-GP, which reached 38 percent in Year 1 against a 2 percent target, and 58 percent in Year 2 against a 15
+percent target. In addition, there were 22 contracts pending out of the 96 under the original project.
+
+The amount of AF represented a 72.0 percent cost increase. The ICR does not discuss why this amount of
+AF was justified instead of initiating a new project (ICR, p. 11-12). The AF document shed some light,
+mentioning that AF was the most suitable option, instead of initiating a new project, because the project was
+not going to meet the PDO without implementing the 22 pending contracts, and the expanded coverage and
+new features for e-GP were of immediate need due to the COVID-19 pandemic (PAD, p. 11, p. 16).
+
+According to the project’s TTL, the justification proved to be right, as the expanded coverage of the e-GP
+system was crucial to adapting to the rapidly changing procurement landscape under the pandemic. Post-
+project assessment showed that the AF allowed the project to reach its objectives without the delays that
+would have come from starting a new project, justifying the decision. Currently, WB policy promotes AF
+rather than new projects. Undertaking an AF helped maintain momentum and consistency in the direction of
+the project, an important factor given the long-term nature of systems reforms such as this one (TTL
+interview).
+
+Restructuring No. 1 entailed the following (PAD, p. 17):
+
+      Funds were reallocated between categories, adding US$0.88 million to Category-3 (e-GP operations
+       and maintenance) equally from Category-1 (good and services) and Category-2 (operating
+       expenditures) of the IDA finance to cover the higher cost (US$7.2 million) of the e-GP Organization
+       and Management (O&M) contracts than originally estimated (US$5.0 million).
+      The deadline for the enactment of the Bangladesh Public Procurement Authority (BPPA) Act was
+       extended from being 24 months after the project’s effective date to June 30, 2023, six months before
+       the new closing date.
+      The name of Component 1 was changed to “Restructuring CPTU and Policy Reform” to emphasize
+       policy reform activities.
+      The PDO indicators/ outcomes were revised as follows:
+            o The target for PDO indicator 2 (NSPSOs inviting bids in national competitive bidding [NCB]
+               through the e-GP system) increased from 75 percent to 100 percent to increase bidder
+               access given COVID-19 lockdowns.
+            o The target for PDO indicator 4 (SPSOs’ projects implementation monitored on-line by IMED)
+               decreased from 45 percent to 25 percent due to delays in the new system.
+
+
+
+                                                                                                Page 6 of 25
+  Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+  Public Procurement Digitization Project (P160758)
+
+
+
+            o Two new PDO indicators were introduced: SPSOs conduct contract management using e-
+             GP system (target of 50 percent) and Invitation of International Competitive Bidding (ICB)
+             through e-GP system (target of 100).
+      The components were revised as follows (Report PAD, Section II):
+           o Component 1. New activities included development of a contract management manual
+             including emergency cases and extension of services of the existing individual consultants
+             (as required) of CPTU for the extended project period.
+           o Component 2. New activities included expanding the e-GP to the Recipient’s SPSOs,
+             including, inter alia: (a) developing and rolling-out new features of the e-GP system for
+             processing international bidding, single source/direct contracting, framework agreement, and
+             data analytics; (b) rolling out the enhanced electronic contract management and payment
+             system to all the SPSOs; (c) providing associated e-GP training and awareness programs to
+             implement the new features of e-GP; (d) enhancing the capacity of the existing e-GP data
+             center and conducting the assessment for a new data center; (e) enhancing cybersecurity
+             protection and monitoring of e-GP systems through the procurement of the necessary
+             hardware and software and related services; and (f) providing logistic, technical, and
+             implementation support associated with the management, operation, and maintenance of e-
+             GP. Activities included e-GP training and awareness programs to implement these new
+             features; enhancing the capacity of the e-GP data center to meet the demand/system
+             requirement for the new features; and an assessment to determine the requirement, cost,
+             and timing for establishing a new data center.
+           o Component 3. New activities included developing a smart phone application for the citizen
+             portal; updating the citizen portal to receive citizens’ feedback; restructuring the
+             communication program mainly to include a feedback mechanism to improve procurement
+             performance; and setting up a capacity development program on contract management with
+             features for management of contracts in case of emergencies.
+           o Component 4. No new activities were included, but AF was to cover the cost of the PMIS
+             which could no longer be covered from original project funds.
+
+      In line with the previous changes to the components, new IRIs were included (Report PAD, p. 36):
+             o Develop sustainable procurement policy and implementation roadmap (Yes/No).
+             o Develop mechanism to identify and track procurement performance of women-led/owned
+               enterprises (Yes/No).
+            o Strengthen country’s emergency procurement and contract management framework
+              (Yes/No).
+           o e-GP module for international procurement under development partner-funded projects
+              developed (Yes/ No).
+           o e-GP modules for direct procurement and framework agreement developed (Yes/ No).
+           o Officials trained on contract management (Number).
+      Some IRIs were dropped (Report PAD, p. 37):
+           o Previously Selected Public Sector Organizations' (RHD, LGED, BWD, BREB) contract
+              completion rate within the original time schedule (Percentage). This IRI was marked for
+              deletion as it was not possible to achieve the 50 percent target, as most of the contracts
+              under the selected organizations were delayed due to the COVID-19 pandemic.
+      Most of the remaining IRIs were revised (Report PAD, p. 35):
+
+Restructuring No. 2: A (level 2)restructuring on December 23, 2023, close to project’s end, returned
+unused funds equivalent to SDR12,317,000 to the WB (approximately US$16.0 million), representing
+
+                                                                                                Page 7 of 25
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Public Procurement Digitization Project (P160758)
+
+
+
+   around 15 percent of the project’s revised cost of US$105 million (TTL interview). An extension request
+   from the government was not accepted. At the time of this restructuring, there was a marginal shortfall in the
+   following PDO level indicators: (a) NSPSOs invite bids in NCB through e-GP system; and (b) Invite ICB
+   through e-GP system (Number) by project closure. There was also expectation that IRIs were not going to
+   be met: (a) Government-approved organogram with staffing of the proposed Authority; (b) Authority's
+   officials in place compared with the staffing plan; (c) Strengthen country’s emergency procurement and
+   contract management framework; and (d) Disposal policy drafted and issued. The government agreed to
+   attempt to achieve the PDO-level indicators and IRIs by June 2024 and progressively staff the BPPA by
+   December 31, 2024, using the government’s own funds.
+
+   At the time of the second restructuring, US$76.4 million out of IDA’s US$95.0 million (83 percent) had been
+   disbursed.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country/ Economic Context: At the time of project appraisal, despite economic achievements on export
+growth, higher remittances, agricultural productivity, and greater participation of manufacturing in the
+economy, which led to significant job growth as well as poverty reduction, Bangladesh was grappling with
+governance challenges. The Systematic Country Diagnostic (2015) identified the need to accelerate private
+sector-led growth with an improved investment climate and improved governance structure in spending
+public resources for better service delivery. In this context, the government favored the adoption of fast
+technology-based solutions for improving governance with greater efficiency, transparency, and
+accountability (PAD, p. 1).
+
+Sector/ Institutional Context: At the time of appraisal, the annual expenditure on public procurement in
+the country was about 24.0 percent of the national budget and 70.0 percent of the annual development
+program (ADP) of the government. By FY19, this figure had increased to 45.2 percent of the annual budget
+and 85.0 percent of the ADP (ICR, p. 12). However, procurement delays and inadequate public confidence
+had been identified as major contributors to slow budget execution. Based on recommendations of the
+Country Procurement Assessment Report 2002 (CPAR 2002), the government implemented a series of
+reforms to change the public procurement environment, including a well-functioning nodal agency - the
+CPTU (www.cptu.gov.bd), a single electronic government procurement (e-GP) portal for the entire country
+(www.eprocure.gov.bd), on-line performance measurement mechanisms, and a citizen engagement
+system. The CPTU was within the IMED of the Ministry of Planning (MOP).
+
+However, the country needed to accelerate the shift from traditional procurement practices to international
+standards through digitization of systems in line with the Public Procurement Act 2006 and the vision for e-
+Government by 2021.The project aimed to address these issues by supporting improvement of public
+procurement performance and enhancement of capacity for implementation monitoring of development
+programs/projects.
+
+Previous sector experience. Support from the WB had been continuous over two decades to bring about
+systemic change in the country’s public procurement environment. Upon the recommendations of the
+CPAR 2002, the government had implemented a complete package of reforms, with the support of the WB -
+
+                                                                                                    Page 8 of 25
+                                      Independent Evaluation Group (IEG)                  Implementation Completion Report (ICR) Review
+                                      Public Procurement Digitization Project (P160758)
+
+
+
+               Public Procurement Reform Project- PPRP (2002–2007), and PPRP II with its two AFs (2007–2017). The e-
+               GP was one of the major project components in the PPRPII which closed in June 2017. About 90 percent of
+               procurement in the four key sector agencies (roads, local government engineering, water, and rural electric)
+               were going through the e-GP platform. The project aimed to enhance the scope of e-GP for all public
+               entities in the country, covering system and technical requirements, among other objectives.
+
+               Alignment with Country Partnership Framework (CPF). The project was aligned with the CPF 2016–
+               2020, which included enhancing growth and promoting inclusion as focus areas. Increasing effectiveness
+               and efficiency in the use of public resources through good procurement practices were seen as important
+               factors for improving the investment climate and accelerating the pace of poverty reduction and for reducing
+               corruption. According to IEG’s Review on Bangladesh (2023), most of 97 incidents between FY16-21
+               reported with corruption allegations related to WB projects were related to procurement (ICR, p. 12).
+
+               At the time of closing, the project’s objectives were also aligned with the CPF FY23-27 that aimed to
+               transform Bangladesh into a more competitive, resilient, inclusive, and greener economy. A more efficient,
+               transparent, and accountable e-GP system supported by citizen participation and capable bidding
+               community fully supported the new CPF’s objectives through improved governance, greater efficiency in
+               public spending, and improved development outcomes over time (ICR, p. 13).
+
+               Alignment with the Government of Bangladesh’s Strategy. The project was fully aligned with the
+               “Perspective Plan of Bangladesh 2010-2021: Making Vision 2021 a Reality,” which mentioned the need for
+               public procurement to use the e-GP system. To materialize the vision, the government established a
+               “Bangladesh Digital Task Force,” chaired by the Prime Minister, who declared that all public procurement
+               should be conducted through the e-GP system by 2016 and monitored the progress of e-GP
+               implementation in person with the Principal Secretary in Chair (PAD, p. 2). The project was also aligned
+               with the country’s higher-level objectives of expediting poverty reduction, improving the investment climate,
+               and accelerating private sector-led growth that were identified as priority objectives in the Seventh Five
+               Year Plan (FY16–FY20)—Accelerating Growth and Empowering Citizens of the government (PAD, p. 8).
+
+               In summary, the project remained highly relevant during implementation and restructuring. The original
+               objectives were highly relevant according to their alignment with the CPF for FY16-10 at appraisal, the
+               CPF FY23-27 at project’s end, and Bangladesh’s Vision 2021 and Seventh Five Year Plan for FY16-20.
+               However, after two decades of continuous WB support, there had not been an assessment of the
+               sustainability of the reforms implemented or time to strategize the implementation of the next reform
+               generation. Overall, the relevance of objectives is rated as High.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+
+                                                                                                                        Page 9 of 25
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Public Procurement Digitization Project (P160758)
+
+
+
+
+Objective
+Improve public procurement performance.
+
+Rationale
+Theory of Change. The PAD did not include an explicit theory of change, and although one was added in the
+ICR focusing on key project interventions and targeted outcomes, activities are not clearly listed (pp. 6-8).
+IEG inferred activities for each PDO indicator from the project’s description in the PAD.
+
+The theory of change held that restructuring the CPTU into the BPPA was the key reform to achieve this
+objective, which required passing the BPPA Act, approving the BPPA organogram and staffing the Authority,
+updating and approving the e-GP guidelines, and developing, approving, and publishing a sustainable public
+procurement policy (SPP). It also held that increasing efficiency in the use of e-GP systems through training
+of government officials and user stakeholders, including participants from local government institutions, in the
+use of e-GP functions would contribute to improved public procurement performance. It also held that
+extending the use of e-GP systems through the creation of a tenderer’s database and implementation of
+nationwide training and workshops to implement the database; validating, authenticating, and uploading into
+the system all registered bidders with experience certificates; putting in place an e-alert system for delays in
+validating certificates; providing training and integrating the payments system Integrated Budget and
+Accounting System (iBAS++) into the e-GP to pay contractors; and developing the ICB module for goods and
+works for the government and development partners, would contribute to enhancing digitization of public
+procurement and achieve the objective of improving public procurement performance.
+
+The causal links between project activities (inputs), outputs, and some intermediate outcomes were clear,
+except for a few shortcomings. For example, increasing the e-GP registration of procuring entities and
+creating a tenderer’s database does not necessarily lead to increased efficiency; approving the BPPA Act and
+the organogram was out of the project’s control; and likewise sending the bidding documents and invitations
+for ICB was the responsibility of the SPSOs, but project design should have included interventions to make
+sure incentives for SPSOs were in place.
+
+
+
+Outputs
+
+The project delivered the following outputs by component. Most outputs are linked to an indicator (ICR,
+selected from Key Outputs by Component, pp. 40-41)
+
+Component 1: Restructuring CPTU and Policy Reform
+
+      Bill establishing the proposed Authority and amending the PPA 2006 drafted and placed in Parliament
+       (Target met IRI 1).
+      Organogram of BPPA with staffing completed, but not approved (Target not met IRI 2).
+      Sustainable procurement policy and implementation roadmap developed, approved, and published
+       (Target met IRI 4).
+      Mechanism to identify and track procurement performance of women-led/-owned enterprises
+       developed (Target met IRI 4.1).
+
+
+
+
+                                                                                                  Page 10 of 25
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   Public Procurement Digitization Project (P160758)
+
+
+
+
+      12,209 participants from 28 NSPSOs trained in the use of e-GP functions under DIMAPPP-AF (not
+         disaggregated by gender), including one NSPSO LGI consisting of 893 public sector organizations
+         covering municipalities, district councils, sub-district councils, and some city corporations.
+        96 percent of NCB bids in NSPSOs were invited through e-GP (target was 100 percent).
+        5,035 participants in training provided by CPTU on e-CMS under DIMAPPP and 1,863 under
+         DIMAPPP-AF (a total of 6,898) compared to a target of 600.
+        Payment’s system iBAS++ integrated into the e-GP to pay contractors' bills from June 14, 2023.
+        Draft Disposal Policy and relevant Standard Disposal Document (SDD) finalized with the draft policy
+         sent to all the ministries/divisions and 32 SPSOs and shared on the website for stakeholder review
+         (but not approved).
+
+
+
+Component 2: Enhancing Digitization of Public Procurement
+
+      e-contract management module in e-GP system updated (Target met IRI 7).
+      e-GP system-generated procurement performance reports of SPSOs published in CPTU/ Authority’s
+       website (Target met IRI 8).
+      e-GP module for international procurement for goods and works (ICB) for the government and
+       development partners developed on July 1, 2022 (Target met IRI 9).
+      ICB module assessed by CPTU for its compliance with the requirements of ISO/IEC 27001:2013 for
+       Information Security Systems Management for e-GP, information technology operations, and data
+       centers.
+      e-GP modules for direct procurement and framework agreement developed (Target met IRI 10).
+
+Intermediate Results Indicators (IRIs)
+
+There were 11 IRIs that informed the achievement of PDO 1, four of which were introduced during AF (IRIs 4,
+5, 9, 10) and one was dropped (IRI 11) during AF. Seven (7) IRIs achieved their end targets (IRI 4 and 4.1
+counted as one) and three did not (IRI 2, IRI 3, IRI 5). IRIs are numbered in the order they are presented in
+Annex 1 of the ICR:
+
+Component 1: Restructuring CPTU and Policy Reform
+
+      IRI 1: Draft bill establishing the proposed Authority and amending the PPA 2006 placed in Parliament
+       (Yes/No). Baseline: No. Target: Yes. Actual: Yes. The project achieved the end target. The parliament
+       passed the BPPA Act in September 2023, making the BPPA a legal entity as per the Financing
+       Agreement, a key action delayed since 2021. (IRI 1: Achieved).
+      IRI 2: Government approved organogram with staffing of the proposed Authority (Yes/No). Baseline:
+       No. Target: Yes. Actual: No. The project did not achieve the end target. The BPPA completed and
+       sent an organogram to its board of directors for approval, to send to the Ministry of Public
+       Administration, but it was not approved by project close. The final WB mission agreed that the BPPA
+       would follow up on the approval with staffing by June 30, 2024, and place BPPA officials according to
+       the staffing plan by December 31, 2024. (IRI 2: Not achieved).
+      IRI 3: Authority’s officials in place compared with the staffing plan (percentage). Baseline: 0. Target:
+       70 percent. Actual: 0. The project did not achieve the end target. This IRI was conditioned to
+
+                                                                                                 Page 11 of 25
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Public Procurement Digitization Project (P160758)
+
+
+
+       achievement of IRI 2. The government agreed to progressively staff the BPPA by December 31, 2024,
+       using the government’s own funds (IRI 3: Not achieved).
+      IRI 4 (AF new): Develop SPP and implementation roadmap (Yes/No). Baseline: No. Target: Yes.
+       Actual: Yes. The project achieved the end target. An SPP was developed, approved by the cabinet,
+       and published through the gazette before project close (IRI 4: Achieved).
+            o IRI 4.1: Develop mechanism to identify and track procurement performance of women-led/-
+               owned enterprises (Yes/No). Baseline: No. Target: Yes. Actual: Yes. The project achieved the
+               end target. (IRI 4.1: Achieved).
+      IRI 5 (AF new): Strengthen country’s emergency procurement and contract management framework
+       (Yes/No). Baseline: No. Target: Yes. Actual: No. The project did not achieve the end target, although
+       the ICR noted that policies were drafted before project closing, they were not yet approved or
+       implemented (ICR, para 44) (IRI 5: Not achieved).
+      IRI 6: Disposal policy drafted and issued (Yes/No). Baseline: No. Target: Yes. Actual: No. The project
+       did not achieve the end target although the policy was drafted and under processing for approval
+       (ICR, p. 63). This IRI is listed twice in the ICR, under Components 1 and 2 (p. 40), and also as an
+       Output under Component 2. The TTL explained the cross-cutting nature of the activity and agreed it
+       should be under Component 1 (TTL interview) (IRI 6: Not achieved).
+
+Component 2: Enhancing Digitization of Public Procurement
+
+      IRI 7: e-contract management module in e-GP system updated (Yes/No). Baseline: No. Target: Yes.
+         Actual: Yes. The project achieved the end target. (IRI 7: Achieved).
+        IRI 8: e-GP system generated procurement performance reports of SPSOs published in CPTU/
+         Authority’s website (percentage). Baseline: 0. Target: 100 percent. Actual: 100 percent. The project
+         achieved the end target. (IRI 8: Achieved).
+        IRI 9 (AF new): e-GP module for international procurement under development partner-funded
+         projects developed (Yes/No). Baseline: No. Target: Yes. Actual: Yes. The project achieved the end
+         target (IRI 9: Achieved).
+        IRI 10 (AF new): e-GP modules for direct procurement and framework agreement developed
+         (Yes/No). Baseline: No. Target: Yes. Actual: Yes. The project achieved the end target. (IRI 10:
+         Achieved).
+        IRI 11 (dropped): PSPSOs' (RHD, LGED, BWD, BREB) contract completion rate within the original
+         time schedule (percentage). Baseline: 0. Target: 50 percent. Actual: The result for this IRI is not
+         reported in the ICR because the indicator was dropped in the AF, as most of the contracts under the
+         selected organizations were delayed due to the COVID-19 pandemic (TTL interview). (IRI
+         11: dropped).
+
+Outcomes
+
+The achievement of the PDO was assessed using the indicators listed below (ICR, Annex 1). These
+indicators were adequate, as reducing procurement lead time by about one-third and inviting 100 percent of
+bids in NCB through the e-GP system would represent a significant efficiency gain translated into cost and
+time savings from faster procurement review processes and implementation of new contracts. Likewise,
+conducting half of all contract management using the e-GP by automatically routing all signed contracts from
+the e-GP into the e-contract management system (e-CMS) would improve procurement performance. Last,
+inviting all international bids through the e-GP, which was crucial to capturing high-value procurements, would
+also increase efficiency of the procurement process and coverage of the electronic procurement system,
+
+                                                                                                 Page 12 of 25
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Public Procurement Digitization Project (P160758)
+
+
+
+improving public procurement performance. However, indicators such as passing the BPPA bill by the
+Parliament, approving the BPPA organogram by the BPPA Board and the Ministry of Planning, and approving
+the disposal policy, while necessary legal framework outputs, were out of the project’s control. In addition,
+sending the international bidding documents and invitations for ICB was the responsibility of the SPSOs, but
+the project should have put incentives in place to make sure this indicator would be achieved.
+
+PDO Indicator 1. NSPSOs procurement lead time reduced in NCB using e-GP system (invitation to contract
+award) (days for the invitation to contract). Baseline: 100 days. Target: 70 days. Actual: 54 days. The project
+exceeded the end target (PDO Indicator 1: Exceeded)
+
+PDO Indicator 2. NSPSOs invite bids in NCB through e-GP system (percentage of invite bids). Baseline: 2
+percent. Target: 100 percent. Actual: 96 percent. The project almost fully achieved the end target. The use of
+this indicator was to assure technical quality of the system to ensure that there were no loopholes that might
+undermine the intention of improving accountability and public use of monies (PDO Indicator 2: Almost fully
+achieved)
+
+PDO Indicator 5 (AF new). SPSOs conduct contract management using e-GP system (percentage of
+contracts) Baseline: 0. Target: 50 percent. Actual: 12 percent. The project did not achieve the end target. The
+e-CMS module was operationalized in October 2022 and automatically routed all signed contracts from the e-
+GP into the e-CMS module. The payment system was integrated from June 14, 2023. By project’s end,
+SPSOs had 8,530 contracts in the e-CMS and used e-CMS for 12 percent of them (1,024), probably due to
+insufficient focus of SPSOs in the final months of the project to push procurement entities to use the system,
+not enough training for stakeholders on how to use the system, or natural resistance to change to a new more
+rigorous and demanding system. There were also questions on inherent disincentives to implement the e-
+CMS because of rent-seeking interests (ICR, p. 16). (PDO Indicator 5: Not Achieved)
+
+PDO Indicator 6 (AF new). Invitation of ICB through e-GP system (number of invitations). Baseline: 0.
+Target: 100. Actual: 167. The indicator was met and surpassed after project closing. By May 14, 2024, 167
+ICB bid packages were sent. However, at project closing, only 57 ICB bidgs had been sent. Delays were due
+to more additional security measures than originally anticipated and delays in preparation of bidding
+documents by the SPSOs with CPTU/ BPPA support, which fell outside of the project’s control. (PDO
+Indicator 6: Exceeded).
+
+IEG observed shortcomings with PDO Indicator 6. A more adequate indicator would be the share of
+invitations (percent) issued through the system, as was the case for PDO Indicator 2 (percentage of invite
+bids).
+
+The project achieved or was likely to achieve three of its four PDO indicators (PDO Indicators 1, 2 and 6)
+under this objective. PDO Indicator 6 was achieved after project closure, and PDO Indicator 5 was not
+achieved. In case of the IRIs, the operation achieved or was likely to achieve six (6) IRIs out of 10, as IRI 11
+was dropped during AF. The project exceeded the end target on reducing procurement lead time, which was
+the main indicator for procurement performance improvement. However, electronic contract management was
+practically not being used (12 percent of contracts were using e-CMS), and no procurement officials were in
+place at the BPPA (compared to the 70 percent target). These were major drawbacks in the achievement of
+improved procurement performance. Indicators met, such as drafting the BPPA bill, developing its
+organogram, and drafting the sustainable procurement policy, are necessary to the legal framework, but far
+from sufficient to achieve the project’s objective.
+
+
+                                                                                                 Page 13 of 25
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Public Procurement Digitization Project (P160758)
+
+
+
+The efficacy of PDO1 is rated as Substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+Enhance capacity for implementation monitoring of development programs/projects.
+
+Rationale
+Theory of Change. The PAD did not include an explicit theory of change, and although one was added in the
+ICR focusing on key project interventions and targeted outcomes, activities are not clearly listed (pp. 6-8).
+IEG inferred activities for each PDO indicator from the project’s description.
+
+The ToC held that implementing a series of activities focused on professionalizing procurement and citizen
+engagement and digitizing project implementation monitoring were key to increasing capacity for
+implementation monitoring of development programs/projects. It held that developing a four-tier procurement
+competency program; accreditation of procurement professionals; selection of officials through high
+performance to participate in an international procurement accreditation program; and finalizing the Draft
+Disposal Policy and relevant SDD, sending it to all the ministries/divisions and 32 SPSOs, and sharing it on
+the website for stakeholder review would contribute to achieving this objective. It also held that implementing
+a multifaceted communications and citizen’s engagement program that would include promotion of e-GP
+awareness through the production of promotional materials and videos, mobilizing citizens reporting through
+an online portal, and piloting in-person monitoring in a select 48 upazilas would contribute to the achievement
+of this objective. The causal links between project activities (inputs), outputs and some intermediate
+outcomes were clear.
+
+Outputs
+
+The project delivered the following outputs by component (ICR, selected from Key Outputs by Component,
+pp. 40-41):
+
+Component 3: Professionalizing Procurement and Citizen Engagement.
+
+      75 percent of procuring entities of NSPSOs have at least one trained/certified procurement
+         professional (Target 80 percent, IRI 12).
+        87 percent of SPSOs have a core procurement unit operationalized (Target 80 percent, IRI 13).
+        1,079 procurement professionalization/accreditation certificates issued (number) (Target 1,000, IRI
+         14).
+        Open contracting module developed and made functional (Target achieved, IRI 15).
+        Citizen portal developed and made functional with new features (citizen.cptu.gov.bd), including site
+         analytics, space for complaints and feedback, and a mobile app with photo capture including
+         geotagging (Target achieved, IRI 16).
+
+
+
+                                                                                                  Page 14 of 25
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   Public Procurement Digitization Project (P160758)
+
+
+
+
+      80 percent of officials trained in procurement reference to the training plan (24.92 percent female)
+       (Target 75 percent and 20 percent for females, IRI 17).
+      2,617 officials trained on contract management (Target 600, IRI 18).
+      Three firms hired to promote e-GP awareness through the production of promotional materials and
+       videos
+
+Component 4: Digitizing Project Implementation Monitoring
+
+      IMED’s on-line project implementation monitoring module developed (Target achieved, IRI 19).
+
+
+
+Intermediate Results Indicators (IRIs)
+
+There were eight (8) IRIs that informed the achievement of PDO 2, with one (IRI 18) introduced during AF.
+Seven IRIs achieved their end targets, and one practically did (IRIs are numbered in the order they are
+presented in Annex 1). The IRI on disposal policy drafted and issued is listed in Component 1, as it deals with
+policy reform.
+
+Component 3: Professionalizing Procurement and Citizen Engagement
+
+    1. IRI 12: Procuring entities of NSPSOs have at least one trained/certified procurement professional
+         (percentage) Baseline: 5.0 percent. Target: 80.0 percent. Actual: 75.0 percent. The project almost
+         achieved the end-target (IRI 12: Almost fully Achieved).
+    2.   IRI 13: Core procurement unit operationalized in each of the SPSOs (Percentage). Baseline:
+         0. Target: 80.0 percent. Actual: 87.0 percent. The project exceeded the end target (IRI 13:
+         Exceeded).
+    3.   IRI 14: Procurement professionalization/accreditation certificates issued (Number). Baseline: 0 Target:
+         1,000 (Original target was 70.0 percent, see PAD, p. 21, but AF changed it to a number). Actual:
+         1,079. The project exceeded the end target. The ICR indicated a target of certification of 800 by
+         mistake (TTL interview) (ICR, p. 17). 1,079 participants were issued Tier-1 certificates, and 75 were
+         selected to participate in an international procurement accreditation program (IRI 14: Exceeded).
+    4.   IRI 15: Open contracting module developed and made functional (Yes/No). Baseline: No. Target: Yes.
+         Actual: Yes. The project achieved the end target (IRI 15: Achieved).
+    5.   IRI 16: Citizen portal developed and made functional (Yes/No). Baseline: No. Target: Yes. Actual:
+         Yes. The project achieved the end target. The online citizen portal was updated with new features
+         (citizen.cptu.gov.bd), including site analytics, the ability to leave complaints and feedback, and a
+         mobile app with photo capture including geotagging. As of December 2023, the site had been visited
+         by over 80,776 visitors, and the app had been downloaded more than 100,000 times (IRI 16:
+         Achieved).
+    6.   IRI 17: Officials trained in reference to the training plan (Percentage). Baseline: 0. Target: 75.0
+         percent. Actual: 80.0 percent. The project exceeded the end target. (IRI 17: Exceeded)
+               a. IRI 17.1: Female officials' level of participation in training (Percentage). Baseline: 0. Target:
+                  20.0 percent. Actual: 24.9 percent. The project exceeded the end target (IRI 17.1: Exceeded).
+    7.   IRI 18 (AF new): Officials trained on contract management (Number). Baseline: 0. Target: 600. Actual:
+         2,617. The project exceeded the end target. However, e-CMS training continued until project closure.
+         By December 2023, CPTU had provided e-CMS training to 5,035 participants under DIMAPPP and
+
+                                                                                                    Page 15 of 25
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   Public Procurement Digitization Project (P160758)
+
+
+
+       1,863 under DIMAPPP-AF (a total of 6,898), compared to the initial target of 600. This substantial
+       achievement was not reflected in the final ISR (Implementation Status and Results Report) (TTL
+       interview) (IRI 18: Exceeded).
+
+Component 4: Digitizing Project Implementation Monitoring
+
+    1. IRI 19: IMED’s on-line project implementation monitoring module developed (Yes/No). Baseline: No.
+       Target: Yes. Actual: Yes. The project achieved the end target. The fully functional e-Project
+       Management Information System (e-PMIS) was completed on December 18, 2022, and was fully
+       functional for Project Directors, agencies, ministries, and IMED. There were 576 projects under
+       SPSOs in the ADP 2023−24 (397 with Project Director assigned, and 179 with no Project Director
+       assigned), and all project information was inserted into the e-PMIS by June 2023 (IRI 19: Achieved).
+
+
+
+Outcomes
+
+The achievement of the PDO was assessed using the indicators listed below (ICR, Annex 1). These
+indicators were adequate but had shortcomings. Engaging citizen monitoring in contract implementation
+captured an important aspect of capacity to monitor programs. Likewise, monitoring project implementation
+on-line by IMED enhanced monitoring capacity of programs and aimed to complete the end-to-end system
+from procurement itself to the monitoring of projects once contracts were awarded, all the way through
+payment, which is why an e-PMIS was envisioned. Finally, conducting contract management using the
+electronic procurement systems module of the e-GP system was crucial to enhance implementation
+monitoring, as it was an indicator tracking contract management where rent-seeking interests were
+particularly high.
+
+The shortcomings included the extent to which the information of the e-PMIS would be used for active project
+management, which was not measured by the indicator. In addition, other indicators, such as core
+procurement unit operationalized and citizen portal developed and made functional, were technical
+achievements but did not secure improved implementation monitoring of projects/ programs.
+
+PDO Indicator 3. Selected sub-districts engage citizen monitoring in contract implementation (Number).
+Baseline: 4. Target: 45. Actual: 48 sub-districts. The project exceeded the end target (PDO Indicator
+3: Exceeded).
+
+PDO Indicator 4. SPSOs’ projects implementation monitored on-line by IMED (Percentage). Baseline: 0.
+Target: 25 percent. Actual: 100 percent. The project exceeded the end target. The indicator target was
+exceeded, but the extent to which it was being used to fully manage projects could not be verified (ICR, p.
+18) (PDO Indicator 4: Exceeded ).
+
+PDO Indicator 5 (AF new). SPSOs conduct contract management using e-GP system (Percentage).
+Baseline: 0. Target: 50 percent. Actual: 12 percent. The project did not achieve the end target. IEG believes
+this indicator also contributed to achievement of PDO 1 (Improve public procurement performance), because
+the e-CMS module automatically routed all signed contracts from the e-GP into the e-CMS module,
+contributing to both PDO 1 and PDO 2 (PDO Indicator 5: Not Achieved).
+
+
+
+                                                                                                Page 16 of 25
+                                Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                                Public Procurement Digitization Project (P160758)
+
+
+
+                            The project achieved or exceeded two of its three PDO indicators under this objective. The operation
+                            achieved seven (7) IRIs out of 8, but achieved 94 percent of the target for IRI 12. Although
+                            project implementation monitored on-line by IMED greatly surpassed the target, it is questionable whether the
+                            e-PMIS was being fully used to manage projects. Other indicators achieved, such as the core procurement
+                            unit operationalized, the open contracting module, and the citizen’s portal, were technical achievements, but
+                            the extent to which these tools were being used to fully monitor project implementation could not be verified.
+                            On the other hand, results on professionalization were impressive, both in reference to the training plan and
+                            on contract management.
+
+                            The efficacy of PDO 2 is rated as Substantial.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project achieved five of its six PDO indicators. PDO Indicator 6 was surpassed after project closure, and
+                            is therefore considered achieved. Indicator 5 greatly missed the target. Most of the 18 IRIs (excluding IRI 11
+                            dropped) supporting the two PDOs were achieved or exceeded.
+
+                            Improved procurement performance was to be indicated through a measure of increased efficiency (Indicator
+                            1) and the extent of use of e-GP systems (Indicators 2, 5, and 6). Institutionalization of the BPPA was a
+                            condition of finance. Capacity for implementation monitoring was indicated in part through citizen participation
+                            (PDO Indicator 3) and systems such as e-PMIS (Indicator 4) and electronic contract management system (e-
+                            CMS, Indicator 5). According to the ICR, the efficacy of the systems approach was underpinned by the
+                            adherence of the updated project design, as amended in the 2021 AF, to international best practice in
+                            procurement systems design following the Organization for Economic Co-operation and Development’s
+                            International Standard Methodology for Assessing Procurement Systems framework (ICR, p. 18).
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+    5. Efficiency
+   Economic Efficiency: An economic and financial analysis was not prepared at the time of appraisal, but one
+   was performed at the time of AF. The direct benefits envisaged under the project included faster and more
+   efficient use of public resources with increased transparency, contributing to fewer delays and lower costs with
+   improved contract management. The e-GP aimed to be self-sustainable with revenues from three sources: a
+   one-time US$60.0 registration fee for a firm, about US$20.0 registration renewal fee per firm, and about
+
+                                                                                                                              Page 17 of 25
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Public Procurement Digitization Project (P160758)
+
+
+
+US$20.0 per bidder per procurement package sold. Selling of bidding documents was the main source, as it
+generated 95.0 percent of income during FY18-FY20 (PAD, p. 19).
+
+The analysis assumed US$333.5 million in earnings of the e-GP system by project closing (US$12.4 million from
+registration and renewal fees), of which US$40.9 million were from AF-related activities. The analysis assumed
+a total economic benefit of US$9,347.8 million, of which US$1,204.3 million was from AF. The future values of
+revenue generation and economic benefits from the e-GP system were estimated at US$426.57 million and US$
+11,820.77 million, respectively, by project closure (PAD, Annex A).
+
+For the estimation of savings, the Assessment of Bangladesh Public Project System Report (June 2020) was
+used, which estimated a net cost savings for e-GP during FY19 of about US$1.1 billion. Using the same
+methodology, US$8 billion savings were estimated for the entire project, of which US$1,204 million were to be
+from AF (PAD, pp. 19-20).
+
+The economic rate of return (ERR) of the original project and AF combined was estimated as 44 percent
+excluding economic benefits and 180 percent with economic benefits (PAD, p. 20). This is an extremely high
+ERR, and IEG observes that assumptions were not discussed in the AF document. For example, economic cost
+savings due to higher rebate rates were estimated at 87 percent of total economic benefits without an
+explanation.
+
+The ICR does not replicate the ERR’s calculation but notes that the estimate of e-GP income (US$333 million)
+was substantially higher (22 percent) than actual income (US$261 million) and that the project used 81 percent
+of its available resources by closure. The ICR concluded that economic efficiency of the Bangladesh
+procurement system was believed to have been significantly improved through the project, for a relatively small
+investment.
+
+Operational Efficiency: The project failed to achieve its goals within the established time frame and had to
+return almost 20 percent of funds at closure. Two challenging factors during implementation were identified in
+the ICR: the government’s commitment was strong at the start of the project, but there was a slowdown in
+progress towards the two new PDO indicators in the last six months of the project; and the COVID-19 pandemic
+reduced the implementation efficiency of the project and directly led to the AF restructuring in 2021. In addition,
+there were delays implementing the system security upgrade that was needed for the ICB module
+and institutionalizing the CPTU into the BPPA, as well as uncertainty regarding a project extension in the last
+year that was proposed by the government.
+
+Overall, the project contributed to a comprehensively improved public procurement system, but at a much higher
+cost than originally estimated and with inefficiencies in using additional resources to achieve the new PDO
+indicators. The AF expanded the coverage and features of the e-GP (US$17.0 million), but also covered a cost
+overrun (US$16.0 million or 26 percent of original project cost) and covered expenses related to the project
+extension (US$12 million) (Report PAD, p. 10-11). The project was closed on schedule, with some remaining
+unspent funds and certain targets not fully met. There was no indication that activities were ramped up in the
+final year of implementation to try to meet those targets or utilize and spend available resources (ICR, p. 19).
+
+Project management costs are not listed in the ICR to analyze whether they were deemed reasonable/
+unreasonable when compared to country and regional averages. The project’s TTL explained that these costs
+are listed as part of the standardized reporting in Annex 2, part B (p. 44); however, they were not explicitly
+broken out in the ICR beyond this. These costs comprised at least most of the overall project support costs and
+were deemed reasonable based on regional averages, with average staff costs at around US$120,000 per year
+
+
+                                                                                                     Page 18 of 25
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Public Procurement Digitization Project (P160758)
+
+
+
+($960,000 for 8 years approximately). On the Borrower side, the project’s cost was US$5.9 million over a period
+of eight years, which was reasonable, according to the TTL (TTL interview).
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)          *Coverage/Scope (%)
+                                                                                     0
+ Appraisal                                                   0
+                                                                                      Not Applicable
+                                                                                     0
+ ICR Estimate                                                0
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The PDO was highly relevant. PDO1 and PDO2 are rated as Substantially achieved, with the caveat that there
+are shortcomings in the achievement of PDO1. Efficiency is rated Substantial. The overall outcome rating of the
+project is however is rated Moderately Satisfactory due to shortcomings in the achievement of outcomes in
+PDO1.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+The risk to development includes political, technical, and financial factors.
+
+Political. Continuation of supportive government commitment, policies, and budgetary provisions is likely to
+be somewhat difficult, despite the recent reelection of the Prime Minister for a fourth term and her support of
+a digital agenda for the country. The remaining PDO indicator on e-CMS requires that 100 percent of
+contracts be managed electronically, which will require strong government support and regulation
+enforcement, as there will always be strong incentives for rent-seeking individuals to benefit from the manual
+system. This risk will be mitigated by making the e-CMS system mandatory and irreversible.
+
+Technical. Adequate staffing levels to support users, PEs, and other stakeholders will be an ongoing need.
+The project did not meet its indicator for adequate staffing of the BPPA, which is required to manage the
+increasing volume of procurement contracts through the system, systems maintenance, helpdesk
+
+                                                                                                    Page 19 of 25
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      Public Procurement Digitization Project (P160758)
+
+
+
+assistance, and other services. This risk could be mitigated by requiring that a portion of surplus revenues
+that the BPPA earns from e-GP service fees goes to the increasing staff cost. Adequate and regular staff
+training will also be an ongoing need as pending reforms are implemented.
+
+Financial. There is a low risk that the deterioration of the fiscal situation since the COVID-19 pandemic could
+undermine future procurement reform plans. However, there is a risk of market price increases due to the
+wars in Ukraine and Gaza which could negatively affect international bidders for high-value procurements.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The original project’s design benefitted from a long-standing WB engagement on procurement reform in
+  Bangladesh and the government’s initial commitment. However, the 2021 Assessment of Bangladesh’s
+  Procurement System found that assessments of the Bangladeshi procurement system had been either
+  out of date (the WB’s CPAR of 2002) or not comprehensive enough (PEFA of 2010 and 2016; e-GP
+  assessment of 2017) by not comparing the public procurement system with international practice and
+  standards. This suggested a deficiency of technical studies to inform the original project design.
+
+  There were also shortcomings in the AF regarding project design. On one hand, the AF introduced a
+  PDO indicator to measure invitation of ICBs to the e-GP system. The ICR noted this was not under the
+  project’s control, as bidding documents were prepared by the SPSOs. However, IEG observes if
+  achievement of the objectives was dependent on the SPSOs being able and willing to use the new
+  system, then project design should have included interventions making sure that was the case.
+
+  On another hand, the AF failed to consider political economy factors that could have affected
+  implementation of the e-CMS, such as lack of incentives to implement the system as it acted against rent-
+  seeking opportunities. Training should also have been considered to support this new PDO target.
+
+  Finally, the EFA did not make explicit assumptions for estimated project cost savings, and ERR estimates
+  did not include the e-CMS in the calculation (ICR, p. 24).
+
+  IEG would also add that some IRIs introduced during the AF measured reforms were not necessary to
+  achieve the PDO (e.g., green procurement, women's participation and business development
+  opportunities, and e-GP framework assessment for emergencies). Furthermore, the AF expanded the
+  project scope without evaluating key implementation challenges and shifted the project’s focus from the
+  original PDO towards new activities that could not be implemented by project’s end.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+
+                                                                                                    Page 20 of 25
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Public Procurement Digitization Project (P160758)
+
+
+
+ Supervision benefitted from the WB team’s high capacity, long-experience in e-GP systems, and location in
+ Dhaka. This helped oversee and support the project in real time, helped the CPTU, and resolved issues as
+ they arose. On the other hand, supervision was challenged in the last year of implementation by a high
+ turnover of Task Team Leaders, reduced government commitment, and a lack of candor in reporting. The
+ high-quality supervision in the early stages of the project was offset by the weaker reporting at the end
+ (ICR, pp. 24-25), hindering timely decision-making and leading to inaction from managers to push for the
+ completion of PDO indicators 5 and 6, as well as the IRIs that were off track. Likewise, the timing of
+ communications between the WB and the government was not efficient, possibly due to the TTL changes.
+ The government was not informed with enough lead time that the project was not going to be extended (as
+ the government had formerly requested), so it failed to push for project results in the last months of the
+ project. A few actions that could have helped achieve better results were additional training in e-CMS to
+ NSPOs, a requirement from government management for staff to use the e-CMS module (indicator 5), and
+ additional support given to contracting agencies to expedite the preparation of ICB packages (indicator 6).
+
+ Another key factor that hindered the government’s ability to push for results may have been that right until
+ the last quarter, the Parliament had not institutionalized the BPPA, a key condition of effectiveness that
+ was originally due in 2021.
+
+
+
+  Quality of Supervision Rating
+  Moderately Unsatisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ M&E design did not provide a theory of change at appraisal because it was not required, but the PAD
+ described the causal mechanisms of change in descriptive terms. Nevertheless, while the links between
+ project activities, outputs, and some intermediate outcomes were clear, there were a few shortcomings in
+ the choice of indicators and reliance on output indicators as most indicators were output-based. For
+ instance, PDO indicator 6 on ICB through e-GP system (Number) was a crucially important indicator to
+ capture high-value procurements that invite international bidders, but the target was not met because the
+ bidding documents were the responsibility of the SPSOs, and therefore achieving the target, according to
+ the ICR, was out of the project’s control. Nonetheless, good political economy analysis prior to the project
+ should have foreseen any reluctance, and the project could have incorporated related demand-side
+ interventions. In other words, SPSOs should have been incentivized by the project to make sure this
+ indicator would be achieved. Another case of indicators arguably not under the project’s control were the
+ adoption of the BPPA Act which was responsibility of the Parliament, and the staffing the BPPA which
+ would have been possible only after the BPPA organogram was approved; therefore, both targets were
+ conditioned by outputs out of the project’s control.
+
+
+
+
+                                                                                                   Page 21 of 25
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Public Procurement Digitization Project (P160758)
+
+
+
+ Additionally, the number of IRIs (19) was too large, making project supervision challenging, and the
+ relevance of some indicators introduced at AF/ restructuring was limited and/or achievement was out of the
+ project’s control.
+
+ For M&E, the CPTU was to use the technical support of a team of consultants (firm). A substantial part of
+ the data was to be obtained from the e-GP system, but data concerning professionalization, capacity
+ development, and citizen engagement was to be collected from the field. The consultant firm was to
+ prepare semi-annual reports on overall project M&E, including progress on the results indicators for review
+ by the WB. Results monitoring in the project covered: procurement performance by the SPSOs, capacity
+ development by the NSPSOs, e-contract management by the SPSOs, project implementation monitoring
+ by IMED, and citizens' monitoring of public procurement, all as designated areas (PAD, pp.11-12).The
+ MTR would have been an opportunity to provide recommendations related to M&E design and
+ implementation, but the planned MTR did not occur, as the timing coincided with the date of the AF.
+ However, the August 4 - 24, 2020 identification mission practically served the purpose of the MTR, and all
+ necessary adjustments related to the original project were identified and mentioned in the aide memoire
+ (TTL interview).
+
+
+
+b. M&E Implementation
+  Baseline data were compiled at the start of the project and during implementation. A large amount of data
+  was collected using the e-GP system itself by the CPTU and implementing agencies. According to the
+  ICR (p. 23), data were adequate to report in semi-annual ISRs. Training data were for the most part
+  output-based and provided by training organizations. According to the ICR, M&E processes (system
+  registration, time taken for procurements, numbers of helpdesk assistance calls, and other data) were
+  integrated into the e-GP systems and highly likely to be sustained after project closing.
+
+  On the other hand, M&E implementation was affected by poor indicator design, weak monitoring of
+  project indicators in the last months of the project, three changes in TTL in the last year of the project, the
+  onset of the COVID-19 pandemic, and lack of proactivity on the government’s part to meet indicator
+  targets towards the end of the project. The ICR also mentioned that it was discovered, or realized, that a
+  significant upgrade to system security would be needed for developing the ICB module (ICR, p. 22). The
+  delay in institutionalizing the CPTU to the BPPA by the National Parliament also affected M&E
+  implementation.
+
+  The WB lacked proactivity in addressing off-track indicators. This may have been a result of the many
+  changes in TTLs. During its lifetime, the project had five TTLs. This turnover was not high, except in the
+  last year when there were three changes (TTL interview).
+
+
+
+c. M&E Utilization
+  There were moderate shortcomings in M&E utilization. In the last months of implementation, targets and
+  IRIs that were off track were not reported as being deficient. The AF was flexible in amending targets to
+  take account of implementation progress considering COVID-19 conditions, but there were several out-
+  type indicators making it hard to know the internal quality of their implementation, such as the quality of
+  staff training, the knowledge of staff accredited in procurement processes, and the quality of systems
+
+
+
+                                                                                                      Page 22 of 25
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Public Procurement Digitization Project (P160758)
+
+
+
+  being used. Scope and usage of systems were the common indicator design, rather than performance-
+  based indicators.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   Environmental/ Social Safeguards: The project was assessed to have no environmental impact and
+   assigned “Category C” at appraisal and with additional financing. In the original project, as part of a
+   precautionary approach, an environmental code of practice including an e-waste disposal plan and
+   occupational health and safety issues related to e-waste handling was followed. On October 2020,
+   management approved a waiver to the use of the Environmental and Social Framework (ESF), the
+   Environmental and Social Directive for Investment Project Financing, and the Directive on Addressing Risks
+   and Impacts on Disadvantaged or Vulnerable Individuals or Groups for the Additional Financing. The AF
+   continued to follow the WB’s safeguard policies instead of the ESF as, similar to the original project, AF
+   activities were mainly for technical assistance and included policy support, capacity development, citizen
+   engagement, implementation of electronic procurement, information technology system upgrading, and
+   maintenance activities. The project and the AF did not involve any land acquisition or civil construction. As
+   such, there was no issue with construction-related environmental impact, displacement of people from
+   public or private lands, or impact on livelihoods on people or communities (PAD, pp. 21-22). Neither OP
+   4.12 Involuntary Resettlement nor OP 4.10 Indigenous People were triggered, as the project was not to
+   have any direct impact on small ethnic groups (PAD, p. 16).
+
+   A robust social safeguard policy was introduced within the project for grievances and workplace non-
+   discrimination. The social risk was low for the project.
+
+
+
+
+b. Fiduciary Compliance
+   At project appraisal, financial management risk was rated “substantial” mainly because of decentralized
+   operations and inadequacy in accounting and financial reporting of CPTU. The Enterprise Resource
+   Planning system was to be introduced to automate most of the financial management functions under the
+   project.
+
+   A designated account was set up and managed by the CPTU for the project and, under that account, an
+   operational account was also opened and managed by LGED to pay for expenditures at the LGED level
+   (that is, procurement for all local government institutions – 900 procuring entities). The project was to
+   follow report-based disbursements in the form of interim unaudited financial reports that consolidated all
+   expenditures, including LGED. The external audit of the project was to continue to be done by the Foreign
+   Aided Project Audit Directorate under C&AG of Bangladesh. The Government Financial rules were to be
+   applied (PAD, p. 15).
+
+
+                                                                                                  Page 23 of 25
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Public Procurement Digitization Project (P160758)
+
+
+
+   The ICR noted that no fiduciary issues were recorded during project implementation. The CPTU carried out
+   stakeholder consultations, including the implementation of the specific subcomponent on citizen
+   engagement in public procurement and contract implementation monitoring. The Bangladesh Citizen Portal
+   for Procurement had forms for citizens to provide feedback, and the CPTU conducted an awareness
+   program on behavioral change and communication with the assistance of a firm. A mobile phone app was
+   also developed. An annual audit was a requirement, and there were no unresolved audit issues at project
+   end.
+
+   However, the ICR failed to report on the timeliness of project external audits and whether the external
+   auditors’ opinions were qualified or on the nature of the qualifications.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   An unintended impact was an improvement in the bidding environment compared to the manual, paper-
+   based tender process, and a reported decrease in violence among individuals submitting bids during the
+   local procurement process. Previously, injuries were common, often due to threats from groups aiming to
+   limit competition and intimidate procurement officials. The project facilitated entry for women-owned
+   businesses by making the overall process of procurement more accessible to a wider cross section of
+   bidders through being online, less costly, and more flexible. The project also contributed to institutional
+   strengthening of the public procurement entities (BPPA, SPSOs), civil society, and bidder community
+   organizations through the extensive training provided and piloting of community engagement approaches
+   to involve community feedback into the procurement process.
+
+
+
+d. Other
+   None
+
+
+
+11. Ratings
+                                                                                   Reason for
+Ratings                          ICR                     IEG
+                                                                                   Disagreements/Comment
+                                 Moderately
+Outcome                                                  Moderately Satisfactory
+                                 Satisfactory
+                                 Moderately
+Bank Performance                                         Moderately Satisfactory
+                                 Satisfactory
+Quality of M&E                   Substantial             Substantial
+
+Quality of ICR                   ---                     Substantial
+
+
+12. Lessons
+
+The following lesson is IEG’s contribution to the analysis.
+
+
+                                                                                                    Page 24 of 25
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       Public Procurement Digitization Project (P160758)
+
+
+
+Key success factors include incorporating interventions that establish incentives for meeting
+project targets. In this project, the attitudes and actions of SPSOs should have been more
+effectively managed within the project's scope. The project should have implemented incentives to
+ensure that SPSOs would achieve the specified indicators.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR presented a clear, coherent, and well-organized overview of the project. Its analysis provided sufficient
+evidence for assessing project performance. The report is concise, follows most of the guidelines, and is
+focused on results. The ICR lessons are particularly useful and logically flow from the data and analysis
+provided in the ICR.
+
+The evidence provided is aligned with the messages outlined in the ICR, although there were some
+shortcomings. There were data discrepancies on project costs, although they were clarified by the TTL, but
+there was a missing ex-post economic and financial analysis. The ICR could also have more effectively
+captured and described the direct impact of the government’s lack of commitment and the WB’s weaker
+supervision towards the end of the project.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                   Page 25 of 25
+

@@ -1,0 +1,856 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     BR-FIP: Cerrado Monioring Systems (P143185)
+
+
+
+                                                                                 Report Number: ICRR0023095
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P143185                                   BR-FIP: Cerrado Monioring Systems
+
+ Country                                   Practice Area(Lead)
+ Brazil                                    Environment, Natural Resources & the Blue Economy
+
+
+ L/C/TF Number(s)                          Closing Date (Original)                Total Project Cost (USD)
+ TF-A1787                                  29-May-2020                                            9,149,320.30
+
+ Bank Approval Date                        Closing Date (Actual)
+ 28-Mar-2016                               29-Dec-2021
+
+                                           IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                            9,250,000.00                                     9,250,000.00
+
+ Revised Commitment                             9,149,320.30                                     9,149,320.30
+
+ Actual                                         9,149,320.30                                     9,149,320.30
+
+
+
+
+ Prepared by                Reviewed by                  ICR Review Coordinator          Group
+ Chikako Miwa               Christopher David            Christopher David Nelson        IEGSD (Unit 4)
+                            Nelson
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The objective of the project was to enhance the Member Country’s institutional capacity in monitoring
+   deforestation, in providing information on fire risks, and in estimating related GHG emissions in the Cerrado
+   (PAD, para 27). The “Member Country” refers to the Federative Republic of Brazil in the context of the World
+   Bank Group’s global partnership (PAD, footnote 17, page 13).
+
+   The following three objectives are assessed in this ICRR:
+
+
+                                                                                                  Page 1 of 16
+     Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+     BR-FIP: Cerrado Monioring Systems (P143185)
+
+
+
+        1. Enhance the Member Country’s institutional capacity in monitoring deforestation in the Cerrado
+        2. Enhance the Member Country’s institutional capacity in providing information on fire risks in the
+           Cerrado
+        3. Enhance the Member Country’s institutional capacity in estimating related GHG emissions in the
+           Cerrado
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component 1: Deforestation monitoring (Estimate: US$ 4.39 million, Actual: US$ 4.39 million) financed:
+   a) designing and implementing a deforestation monitoring system for the Cerrado, including annual
+   deforestation mapping and near real-time deforestation detection based on the PRODES and DETER
+   systems; b) training to selected stakeholders on access, interpretation and use of the information generated
+   by the Cerrado deforestation monitoring system; and c) designing and implementing a data quality control
+   system for the Cerrado deforestation monitoring system.
+
+   Component 2: Information systems on forest fire risk and GHG emissions estimation (Estimate: US$
+   3.31million, Actual: US$ 3.31million) financed: a) improving INPE’s fire risk information system by
+   designing, implementing, and providing, inter alia, (i) localized fire risk warning barometers, (ii) applications
+   for interactive fire risk updates, (iii) higher fire risk resolution maps, (iv) instruments for fire risk statistical
+   analysis, and (v) automatic status updates; b) adapting a fire ignition, spread and carbon model to the
+   Cerrado, including the integration of daily-updated, on-line fire spread forecast information on INPE’s
+   Queimadas website, and applying such model in selected conservation units as a fire management tool; c)
+   adapting INPE’s GHG emissions estimation system to the Cerrado; and d) hands-on training on the
+   practical application of fire risk modelling tools to selected stakeholders.
+
+   Component 3: Project management, monitoring, and evaluation (Estimate: US$ 1.55 million, Actual:
+   US$ 1.55 million) provided support for managing the technical and administrative aspects of the Project,
+   including financial management, procurement, annual audits, overall project coordination, monitoring, and
+   evaluation of project implementation.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost: At appraisal, the project was estimated to cost US$9.25 million (PAD, para 31). At project
+   closing, the actual cost was US$9.25 million (ICR, page 45).
+
+   Financing: As envisioned at appraisal (PAD, para 31), the project was fully financed by a grant from the
+   Strategic Climate Fund (ICR, para 29).
+
+   Dates: The project was approved on March 28 2016, and became effective on June 22 2016. The Mid-
+   Term Review was concluded in May 2019 (based on additional information provided through a meeting with
+
+                                                                                                           Page 2 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     BR-FIP: Cerrado Monioring Systems (P143185)
+
+
+
+   the last TTL of the project, hereafter, TTL meeting). The project was closed on December 29, 2021, which
+   was a year and seven months after the original closing date of May 29, 2020.
+
+   Restructuring: The project conducted two restructurings on August 1, 2019 and November 4, 2020. At the
+   first restructuring, the results framework (the theory of change diagram and three intermediate results
+   indicators) were revised to better capture the project results. In addition, the project closing date was
+   extended for ten months to: (i) compensate for initial delays due to the implementing agency’s unfamiliarity
+   of the World Bank’s guidelines and procedures and the insufficient human resources; and (ii) develop
+   another annual deforestation map for the Cerrado (covering the year 2019-2020) to inform the other two FIP
+   Projects under implementation (ICR, para 37). At the second restructuring, the project closing date was
+   further extended for nine months due to restrictions on field visits and face-to-face meetings under the
+   COVID-19 outbreak (ICR, para 38).
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and Sector Context: The Cerrado biome, located in the Brazilian Central Plateau south of the
+Amazon region, covers almost one quarter of the country’s territory, or approximately 200 million hectares,
+providing a home to 5 percent of all biodiversity on the planet (ICR, para 10). To a large extent, Brazil’s
+agricultural growth occurred over the last decade in the Cerrado biome (PAD, para 2). The expansion of
+agriculture in the Cerrado caused deforestation and use of fire, resulting in not only degradation of
+biodiversity, soil, and pasture and changes to water and sedimentation regimes, but also in large carbon
+emissions and methane releases from cattle ranching (ICR, para 11). Land-use data indicated that only
+54.5 percent of the Cerrado biome maintained its natural vegetation (ICR, para 11). Considering that much
+of the land in the Cerrado was available for legal deforestation and considered as having high agricultural
+potential, it was expected that agricultural activities would keep increasing in the region for some time
+(PAD, para 17). Given challenges in the Cerrado, the Brazil Investment Plan (BIP) was approved in May
+2012 under the Forest Investment Program managed by the World Bank (PAD, para 18). The BIP aimed to
+promote sustainable land use and forest management in the Cerrado biome, contributing to reducing
+pressure on the remaining forests, reducing GHG emissions, and increasing carbon dioxide (CO2)
+sequestration (PAD, para 18). This project was designed as a part of BIP to implement an early-warning
+system for preventing forest fires and a system for monitoring the vegetation cover under Theme 2
+(Production and Management of Forest Information) (PAD, annex 5, page 49). The Results Framework of
+the project was designed to be integrated at the BIP level, contributing to the annual reporting requirements
+under the FIP (PAD, annex 5, page 49).
+
+Relevance to Government Strategies: At appraisal and at project closing, the objectives were in line with
+the National Policy on Climate Change (Law No. 12.187/2009) and the Nationally Determined Contribution
+to reduce greenhouse gas (GHG) emissions submitted during the Paris Climate Conference in 2016 (ICR,
+para 42). The objectives were also in line with the Action Plan to Prevent and Control Deforestation and
+Fires in the Cerrado Biome (PPCerrado) launched in September 2010 with aims to promote sustained
+reduction in the rate of deforestation and forest degradation (including fires) in the biome by improving
+monitoring and control capabilities of federal agencies, while promoting the regularization of rural
+properties, sustainable production activities, and the restoration of degraded lands (PAD, para 16).
+
+
+                                                                                                   Page 3 of 16
+                                      Independent Evaluation Group (IEG)                      Implementation Completion Report (ICR) Review
+                                      BR-FIP: Cerrado Monioring Systems (P143185)
+
+
+
+               Relevance to Bank Assistance Strategies: At appraisal, the objectives aligned with the Country Partnership
+               Strategy (CPS) FY2012-2015, particularly with Strategic Objective 4 (Improving sustainable natural
+               resource management and climate resilience), which aimed to enhancing the World Bank’s Amazon
+               Initiative approach of combining conservation with development and employment opportunities to cover the
+               Cerrado savannah region (CPS, para 69). At project closing, the objectives aligned with the Country
+               Partnership Framework (CPF) FY18-FY23, which aimed to resolve conflicts over land and natural
+               resources, especially in Brazil’s Amazon and Cerrado biomes in Objective 3.1 (Support the achievement of
+               Brazil’s NDC with a particular focus on land use) under Focus Area 3 (Inclusive and sustainable
+               development) (CPF, para 99).
+
+               Bank Experience in the Sector: This project was complementary to another two World Bank projects
+               financed under BIP, namely, FIP: Environmental Regularization of Rural Lands in the Cerrado of Brazil
+               (P143334, FY16); and Sustainable Production in Areas Previously Converted to Agricultural Production
+               (P143184, FY15) (PAD, annex 5, table 7, page 48). The project results were expected to also inform the
+               later World Bank projects financed under BIP, namely, the Dedicated Grant Mechanism for Indigenous
+               People and Traditional Communities (P143492, FY15); the Integrated Landscape Management in the
+               Cerrado Biome (P164602, FY19); and the Brazil Investment Plan Coordination (P152285, FY18) (ICR,
+               footnote 3, page 6).
+
+               The objectives were in line with the strategies of the government and the World Bank’s assistance at
+               appraisal and project closing. This project complemented other projects financed by BIP. On the other
+               hand, the relevance of the objectives was pitched at a level that did not adequately reflect a potential
+               solution to development challenges of unsustainable land use, deforestation and forest degradation, and
+               GHG emissions in the Cerrado biome. While acknowledging the difficulty of the operational environment, a
+               shortcoming here was that the PDO formulation to "enhance the Member Country’s institutional capacity in
+               monitoring deforestation, in providing information on fire risks, and in estimating related GHG emissions in
+               the Cerrado" was not outcome focused and did not help in understanding what development results were
+               expected as a consequence of the project. The expected results were described in the PAD (para 18) as
+               the objective of the BIP program (“to promote sustainable land use and forest management in the Cerrado
+               biome, contributing to reducing pressure on the remaining forests, reducing GHG emissions, and increasing
+               carbon dioxide (CO2) sequestration”) that the project was part of, but they were not reflected in the PDO
+               formulation. These might be longer term targets but tracking them and identifying them was an important
+               aspect of a successful development operation. The relevance of objectives, therefore, is rated substantial.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             Enhance the Member Country’s institutional capacity in monitoring deforestation in the Cerrado
+
+                                                                                                                              Page 4 of 16
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   BR-FIP: Cerrado Monioring Systems (P143185)
+
+
+
+
+Rationale
+Theory of Change (TOC): The PDO statement focused on outputs, as described in section 3, resulting in
+insufficient articulation of expected outcomes of objective 1. According to information in the ICR (figure 1,
+page 12) and the PAD (annex 5, page 49), the TOC of objective 1 targeted the national and subnational level
+government institutions. The TOC postulated that monitoring deforestation by satellite and a national real-time
+deforestation detection system, publishing the deforestation through a web portal, and providing training to
+the government institutions to utilize the deforestation information would result in outputs including the
+publishment of the deforestation information, contributing to an outcome of sustainable land use and forest
+management in the Cerrado biome promoted. In the long-term, the outcome was envisioned to contribute to
+improved land use planning and management, pressures on the remaining forests reduced, GHG emissions
+reduced, and carbon dioxide (CO2) sequestration increased.
+
+Critical assumptions included: (i) there was adequate institutional capacity and experience in monitoring
+deforestation; (ii) information systems developed by leading specialized government agencies would improve
+use of government resources and service delivery; (iii) the deforestation information would be incorporated
+into daily operations improve coordination and law enforcement; and (iv) relevant stakeholders would
+participate in the training.
+
+Outputs (ICR, paras 44-62 and Annex 1):
+
+      9 annual deforestation maps on the scale of 1:250,000 were publicly available (PRODES-Cerrado),
+       exceeding the revised target of 5 annual deforestation maps. In addition to the data collected during
+       project implementation, the data kept from years prior to appraisal was used to create the annual
+       deforestation maps (TTL meeting).
+      Deforestation data on the scale of 1:500,000 was delivered to the public (DETER-Cerrado), achieving
+       the original target.
+      31 government institutions were provided with capacity building to improve management of forest
+       resources, doubling the original target of 15 government institutions.
+      88.89 percent of users satisfied with data provided by the project, exceeding the original target of
+       65.00 percent.
+
+Outcomes (ICR, paras 44-62 and Annex 1):
+
+      Information on deforestation in the Cerrado was regularly made available to the public and to relevant
+       institutions, achieving the original target. Though this indicator was designed as a PDO indicator, it
+       measured the output-level results because this indicator did not measure anything beyond
+       achievements of the two Intermediate Results indicators (publishing annual deforestation maps
+       through PRODES and publishing deforestation data through DETER) (ICR, page 35).
+      21 government institutions, which were in charge of policy, deforestation control, and fire prevention,
+       were using the information on deforestation and fire risk in the Cerrado at project closing, exceeding
+       the original target of 15 government institutions. Both national and subnational level intuitions
+       were using the information provided by the project (ICR, page 36). On the other hand, no evidence
+       was provided regarding how the information on deforestation was used and whether the information
+       was used to promote sustainable land use and forest management in the Cerrado biome.
+
+
+
+
+                                                                                                  Page 5 of 16
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   BR-FIP: Cerrado Monioring Systems (P143185)
+
+
+
+In addition to the outcome defined in the Results Framework, the ICR reported on the following achieved
+outcome which did not have any formal target.
+
+      According to the external evaluation of the project conducted in 2021, 100 percent of beneficiary
+       agencies’ interviewees recognized that the project contributed to institutional strengthening, while 79
+       percent of managers in the beneficiary institutions recognized the availability of almost real time and
+       improved quality information and of the systems to enable them to access the information (ICR, para
+       63).
+
+In summary, information on deforestation was regularly published and used by the relevant government
+institutions, where the managers were generally aware of the availability of the good quality and nearly
+spontaneous information and the system through which they can access it. Two PDO targets were met or
+exceeded. On the other hand, one of the PDO indicators did not provide evidence on outcome-level results.
+Referring to the TOC above, no evidence was provided regarding to what extent the achieved PDO targets
+contributed to promoting sustainable land use and forest management in the Cerrado biome, which was the
+objective of the Brazil Investment Plan. The achievement of objective 1, therefore, is rated substantial but
+marginally due to limited evidence to support the credibility of critical assumption (iii). More detail on the
+application of the relevant data and information would have provided a more complete picture of how effective
+the project had been.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+Enhance the Member Country’s institutional capacity in providing information on fire risks in the Cerrado
+
+Rationale
+Theory of Change (TOC): The PDO statement focused on outputs, as described in section 3, resulting in
+insufficient articulation of expected outcomes of objective 2. According to information in the ICR (figure 1,
+page 12) and the PAD (annex 5, page 49), the TOC of objective 2 targeted the national and subnational level
+government institutions and envisioned that improving the fire risk information system, developing the fire
+ignition spread and carbon (FISC) model for the Cerrado biome, and providing training to the relevant
+government institutions on the forest fire risk would result in outputs including the information on fire risk
+hazard made available to the public, the information on the risk of fire spreading in the Cerrado made
+available to the public and selected UCs, and the estimate of GHG emissions in the Cerrado made available
+to the public, contributing to an outcome of improved production and dissemination of biome-scale
+environmental information. In the long-term, the outcome was envisioned to contribute to improved land use
+planning and management in Brazil.
+
+Critical assumptions included: (i) the national space research institute and universities would collaborate with
+the project to improve the fire risk and fire spread information systems; (ii) the government institutions
+would utilize the modern modelling approaches and the data on fire risk, fire spread, and GHG emissions
+
+
+
+                                                                                                   Page 6 of 16
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   BR-FIP: Cerrado Monioring Systems (P143185)
+
+
+
+provided under the project; (iii) the deforestation information would be incorporated into daily operations
+improve coordination and law enforcement; and (iv) relevant stakeholders would participate in the training.
+
+Outputs (ICR, paras 44-62 and Annex 1):
+
+      63 new fire risk information products were available to users on interactive communication devices,
+       exceeding the original target of 26 new fire risk information products (243 percent of the target).
+      Off-line fire ignition spread and carbon (FISC) model was piloted in 3 conservation areas, meeting the
+       revised target of 3 FISC conservation areas.
+      On-line fire ignition and fire spread risk (FISC) data was published on INPE’s website, meeting the
+       target.
+      88.89 percent of users satisfied with data provided by the project, exceeding the original target of
+       65.00 percent. Though this indicator was designed as an intermediate results indicator, it measured
+       the outcome-level results.
+
+Outcomes (ICR, paras 44-62 and Annex 1):
+
+      Real-time information on potential fire spread in the Cerrado was publicly available, achieving the
+       original target. Though this indicator was designed as a PDO indicator, it measured the output-level
+       results.
+      Improved information on forest fire risk was publicly available, achieving the original target. Though
+       this indicator was designed as a PDO indicator, it measured the output-level results.
+      21 government institutions, which were in charge of policy, deforestation control, and fire prevention,
+       were using the information on deforestation and fire risk in the Cerrado at project closing, exceeding
+       the original target of 15 government institutions. Both national and subnational level institutions were
+       using the information provided by the project (ICR, page 36). However, more detailed systematic
+       information on how it is being used and whether it is likely to have the required impact is missing.
+
+In addition to the outcome defined in the Results Framework, the ICR reported on the following achieved
+outcome which did not have any formal target.
+
+      Chico Mendes Institute for Biodiversity Conservation (ICMBio: Instituto Chico Mendes de
+       Conservação da Biodiversidade), local fire brigades, and other stakeholders used the information to
+       improve planning and implementation of fire prevention activities in the Serra do Cipó National Park
+       (ICR, para 58).
+      The project results were used during policy discussions to demystify fallacies related to a federal law
+       passed in 2016 (law 4508/2016) allowing cattle to enter the legal reserve areas dedicated to
+       conservation for six months a year (ICR, para 47). The project verified that the presence of cattle
+       ranching was highly associated with the high-impact fires, refuting a false hypothesis of the law that a
+       larger cattle herd could reduce the size of fires by reducing the amount of highly combustible grasses
+       (ICR, para 47).
+      According to the external evaluation of the project conducted in 2021, 100 percent of beneficiary
+       agencies’ interviewees recognized that the project contributed to institutional strengthening, while 79
+       percent of managers in the beneficiary institutions recognized about the availability of almost real
+       time and improved quality information and of the systems to enable them to access the information
+       (ICR, para 63).
+
+
+                                                                                                   Page 7 of 16
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   BR-FIP: Cerrado Monioring Systems (P143185)
+
+
+
+In summary, information on potential fire spread and forest fire risk was published and used by the relevant
+government institutions, where the managers were generally aware of the availability of the good quality and
+nearly spontaneous information and the system through which they could access it. There was anecdotal
+evidence regarding how the information generated by the systems was used to improve planning and
+implementation of fire risk management activities. Three PDO targets were met or exceeded, though two of
+the three PDO indicators focused on output-level results. Referring to the TOC above, some evidence was
+provided regarding to what extent the achieved PDO targets contributed to promoting sustainable land use
+and forest management in the Cerrado biome, which was the objective of the Brazil Investment Plan. The
+achievement of objective 2, therefore, is rated substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 3
+Objective
+Enhance the Member Country’s institutional capacity in estimating related GHG emissions in the Cerrado
+
+Rationale
+Theory of Change (TOC): The PDO statement focused on outputs, as described in section 3, resulting in
+insufficient articulation of expected outcomes of objective 3. According to information in the ICR (figure 1,
+page 12) and the PAD (annex 5, page 49), the TOC of objective 3 targeted the national and subnational level
+government institutions and envisioned that extending the existing national GHG emissions estimate system
+to cover the Cerrado biome would result in outputs including the publication of GHG emissions estimates for
+the Cerrado, contributing to an outcome of improved production and dissemination of biome-scale
+environmental information. In the long-term, the outcome was envisioned to contribute to improved land use
+planning and management in Brazil.
+
+Critical assumptions included: (i) the modern modelling approaches and the data on fire risk, fire spread, and
+GHG emissions provided under the project were used by government institutions for policy development and
+implementation, deforestation control, and fire event response and prevention; and (ii) a broad range of
+relevant stakeholders would participate in training, increasing their awareness and developing capacities to
+interpret and use information generated by the project.
+
+Outputs:
+
+No Intermediate Results indicator to measure achievements of results for objective 3 was set in the Results
+Framework.
+
+Outcomes (ICR, paras 44-62 and Annex 1):
+
+      GHG emissions estimates for the Cerrado were publicly available, achieving the original target.
+       Though this indicator was designed as a PDO indicator, it measured output-level results. No evidence
+       was provided regarding how the GHG emissions estimates were used.
+
+
+
+                                                                                                 Page 8 of 16
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                BR-FIP: Cerrado Monioring Systems (P143185)
+
+
+
+                            In addition to the outcome defined in the Results Framework, the ICR reported on the following achieved
+                            outcome which did not have any formal target.
+
+                                  According to the external evaluation of the project conducted in 2021, 100 percent of beneficiary
+                                   agencies’ interviewees recognized that the project contributed to institutional strengthening, while 79
+                                   percent of managers in the beneficiary institutions recognized the availability of almost real time and
+                                   improved quality information and of the systems to enable them to access to the information (ICR,
+                                   para 63).
+
+                            In summary, information on GHG emissions estimates was published. The PDO indicator for objective 3 was
+                            met. On the other hand, no evidence on the outcome-level results was provided because evidence on
+                            utilization of the information was missing. Referring to the TOC above, no evidence was provided regarding to
+                            what extent the achieved PDO target contributed to promoting sustainable land use and forest management
+                            in the Cerrado biome, which was the objective of the Brazil Investment Plan. The achievement of objective 3,
+                            therefore, is rated modest due to insufficient evidence on outcomes.
+
+
+
+                            Rating
+                            Modest
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            Of the three objectives, achievements of two objectives were rated substantial and that of one objective was
+                            rated modest. The overall efficacy, therefore, is rated substantial.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+    5. Efficiency
+   Economic and Financial Analysis: At appraisal, no cost-benefit analysis (CBA) was conducted because the
+   technical assistance nature of the project would not render meaningful results (ICR, annex 4, page 50). At
+   project closing, a CBA was conducted in an external evaluation of the project to assess the impact on
+   stakeholders and their perception of project’s results by using the Social Return on Investment method for
+   measuring extra-financial value with 200 scenarios (ICR, para 63). The ex-post CBA revealed that every
+   Brazilian Real invested by the project generated a total monetary return of more than five times the investment
+   amount and only one out of the total 200 scenarios had a cost-benefit ratio lower than one (ICR, para 63).
+
+   Aspects of design and implantation that affected efficiency: The project was extended for a total of 19
+   months due to the following two aspects. First, the implementation delays in early years were caused by the
+
+                                                                                                                              Page 9 of 16
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      BR-FIP: Cerrado Monioring Systems (P143185)
+
+
+
+implementing agency’s unfamiliarity with the World Bank’s procurement and financial management procedures
+and requirements and insufficient human resources contributed to the project extension (ICR, para 37). Second,
+after the emergence of COVID-19 pandemic, the need for social distancing measures changed the delivery
+format of knowledge exchange activities from face-to-face to online and/or hybrid, negatively affecting the
+participants to acquire the necessary knowledge swiftly (ICR, para 49). No additional financing was made.
+
+The ex-post CBA indicated that the project’s investments generated the total monetary return more than five
+times the invested amount. The extension of project duration was accompanied by results of a larger number of
+beneficiaries reached and an additional annual deforestation map developed, without additional costs. The
+efficiency, thus, is rated substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?             Point value (%)          *Coverage/Scope (%)
+                                                                                    0
+ Appraisal                                                 0
+                                                                                     Not Applicable
+                                                                                    0
+ ICR Estimate                                              0
+                                                                                     Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of objectives was substantial, as the objectives aligned with the strategies of the government and
+the World Bank’s assistance but the PDO formulation focused on outputs. The efficacy was substantial, as
+achievements of two objectives were substantial and another objective was modest. The efficiency was
+substantial based on the results of the ex-post cost benefit analysis. Overall, the outcome is rated satisfactory.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+Ownership and commitment risk: There was a potential risk that the commitment from the Federal
+Government and involved institutions might not be sustained to maintain the institutional arrangements, the
+monitoring systems, and the associated human capacity and costs (ICR, para 100). A continued awareness
+and implementation of fire prevention and control that were demonstrated in selected National Parks might
+
+                                                                                                   Page 10 of 16
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      BR-FIP: Cerrado Monioring Systems (P143185)
+
+
+
+not be guaranteed after project closing (ICR, para 100). The potential risk was partially mitigated by the
+country’s uniqueness. The institutions in the fields were highly developed and with expertise, supporting
+them was not dependent on external aid and technical assistance (ICR, para 100).
+
+Political risk: There was a potential risk that changes in the political leadership might negatively affect the
+financial sustainability of the monitoring system of the Cerrado biome established under the project. To
+mitigate the risk, the project widely provided data not only to the other projects under the Brazil Investment
+Plan but also to the general public. There exists a high demand for the data produced by the monitoring
+system of the Cerrado biome from broadcasting entities and the international community (TTL meeting). The
+proven usefulness of the data might ensure the sufficient future financing for the system under possible
+political turnovers.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The strategic relevance and approach were adequate in general, as described in section 3. The
+  technical, institutional, and environmental and social aspects were well considered. Implementation
+  arrangements were well-designed and a key element of project success. The risk assessment was
+  adequate to identify and mitigate fiduciary risks related to the weak financial management mechanism in
+  the implementing agency at appraisal. Components were adequately designed to achieve the PDO
+  statement with the capacity of the implementing agencies. On the other hand, the output-focused PDO
+  statement negatively affected the M&E arrangements, as described in section 9. The project design and
+  preparation took more time than initially expected (ICR, para 93). The quality at entry, therefore, is rated
+  satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The supervision of fiduciary and safeguard aspects was adequate. The World Bank team maintained close
+ communications with the grant recipients and implementing agencies through technical meetings and
+ phone conferences and gave prompt support as needed. Joint meetings and other technical meetings in
+ Brasília were crucial to integrate the various implementation agencies, identify emerging issues, and
+ provide needed support. The risks associated with the high turnover of Financial Management Specialists
+ at the World Bank were mitigated by adequate transition arrangements (ICR, para 95). On the other hand,
+ the focus on development impact was not strong due to the output-focused PDO and the Results
+ Framework. Because the other projects under the Brazil Investment Plan are still under implementation,
+ outcome-level achievements of the Brazil Investment Plan are yet to be monitored and reported (TTL
+ meeting). The quality of supervision, therefore, is rated satisfactory.
+
+
+
+                                                                                                    Page 11 of 16
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     BR-FIP: Cerrado Monioring Systems (P143185)
+
+
+
+ Both the quality at entry and the quality of supervision was satisfactory; thus, the overall Bank performance
+ is rated satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The M&E arrangements were well embedded institutionally. The MCTI provided M&E oversight to the
+ project by establishing an independent technical evaluation group to review and assess the quality of
+ intermediate products and reports and provide feedback to the Project Institutional Coordination Committee
+ and the participating entities (ICR, para 82). The objectives in the PDO statement were clearly specified.
+ On the other hand, the PDO formulation was not pitched at the right level, as described in section 3. The
+ theory of change diagram in the ICR (figure 1, page 12) did not indicate outputs of the project. Instead, the
+ theory of change diagram presented output-level results as outcomes. Both the PDO and Intermediate
+ Results (IR) indicators in the Results Framework focused overly on measuring output-level results.
+
+
+
+b. M&E Implementation
+  All the indicators included in the Results Framework had baseline data and were measured and reported.
+  Three IR indicators were revised as follows based on changes that occurred during project
+  implementation. The IR indicator on independent reports on the quality of the project products was
+  dropped due to the loss of relevance (PAD, page 17). The IR indicator on the number of conservation
+  areas which piloted off-line fire ignition and spread risk model decreased its target from four to three due
+  to high costs (human resources and time) to monitor the large geographic areas (ICR, page 40 and TTL
+  meeting). The IR indicator on the number of annual deforestation maps publicly available increased its
+  target due to the project extension (ICR, page 38). The MCTI and the independent technical evaluation
+  group fulfilled their responsibilities on M&E oversight (ICR, para 83). The reliability and quality of M&E
+  data were adequate. M&E functions and processes are likely to be sustained after project closing given
+  that the whole project aimed to strengthen the monitoring capacity of the Cerrado biome by the
+  government institutions. On the other hand, the output-oriented PDO statement and the Results
+  Framework were not adequately adjusted during implementation. Some outcome-level results were
+  verified by the endline evaluation at project closing, compensating the weakness of the Results
+  Framework to a certain extent.
+
+
+
+c. M&E Utilization
+
+
+                                                                                                   Page 12 of 16
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     BR-FIP: Cerrado Monioring Systems (P143185)
+
+
+
+  The M&E findings were communicated to the stakeholders and used for annual project planning (ICR,
+  para 86). Some positive shifts in the implementation direction of the project were attributable to findings
+  of the Mid-term Review and follow-up actions. The M&E data and system developed under the project
+  provided pertinent information on forest management, forest fire risks, and GHG emissions to the
+  parallel and subsequent projects in BIP. On the other hand, focusing on this project itself, the M&E data
+  mainly provided evidence of application of inputs or achievement of outputs under the project.
+
+  The weaknesses in the M&E design were partially addressed during M&E implementation, resulting in
+  the limited utilization of the M&E data. Endline evaluation of the project supplemented the Results
+  Framework by providing additional evidence on outcomes. The M&E quality, therefore, is rated
+  substantial.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   Environmental Safeguards: The project was assigned a category C with no further requirements on
+   environmental assessments (ICR, para 88). The project triggered policies on Natural Habitats (OP/BP 4.04)
+   and Forests (OP/BP 4.36) and generated positive impacts on protected areas in the Cerrado biome (ICR,
+   para 88).
+
+   No social safeguard policies were triggered throughout project implementation (PAD, para 39 and ICR, para
+   89). No adverse social impacts were identified by the supervision team at project closing (ICR, para 89). No
+   complaints were received through the Grievance Redress Mechanism during project implementation (ICR,
+   para 92).
+
+
+
+
+b. Fiduciary Compliance
+   Financial Management: The financial management arrangements including staffing, budgeting,
+   accounting, internal control, funds flow, financial reporting, and auditing adhered to the standards required
+   by the World Bank (ICR, para 90). The audit reports were received mostly in a timely manner with minor
+   delays (ICR, para 90). The auditors expressed positive opinions on the financial reports and confirmed the
+   project’s compliance with financial covenants (ICR, para 90). On the other hand, the project management
+   unit’s mistake of classifying consultancy costs as operating costs had not been corrected since 2018,
+   despite the action plans agreed during the supervision missions (ICR, para 90).
+
+   Procurement: The risks concerning procurement function for the project identified in the PAD (page 43)
+   were not fully mitigated by the risk mitigation measures, resulting in initial implementation delays due to the
+   Research Development Foundation (FUNDEP: Fundação de Desenvolvimento da Pesquisa)’s unfamiliarity
+   with the World Bank Group’s procurement procedures and insufficient technical capacity to identify
+
+
+                                                                                                    Page 13 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     BR-FIP: Cerrado Monioring Systems (P143185)
+
+
+
+   required specifications of goods and equipment (ICR, para 91). The procurement capacity of FUNDEP
+   gradually increased, especially in the last two years of project implementation (ICR, para 91).
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   No unintended impacts were reported by the ICR.
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                               Reason for
+Ratings                        ICR                   IEG
+                                                                               Disagreements/Comment
+                                                                               The relevance of objectives was
+                                                                               substantial, as the objectives
+                                                                               aligned with the strategies of the
+                                                                               government and the World
+                                                                               Bank’s assistance but the PDO
+                                                                               formulation focused on outputs.
+                                                                               The efficacy was substantial, as
+Outcome                        Highly Satisfactory   Satisfactory
+                                                                               achievements of two objectives
+                                                                               were substantial and another
+                                                                               objective was modest. The
+                                                                               efficiency was substantial based
+                                                                               on the results of the ex-post cost
+                                                                               benefit analysis. Overall, the
+                                                                               outcome is rated satisfactory.
+Bank Performance               Satisfactory          Satisfactory
+
+Quality of M&E                 Substantial           Substantial
+
+Quality of ICR                 ---                   Substantial
+
+
+12. Lessons
+
+The ICR (paras 101-107) presented five lessons. Three of them are presented below with
+rephrasing because these lessons may be useful for future projects related to the biome-level
+environmental monitoring.
+
+Newly targeting the Cerrado savanna-forest biome is a necessary change from the prior
+operations with nearly exclusive emphasis on the Amazon rainforest for reducing
+deforestation and GHG emissions in Brazil. Progressively increasing recognition on the
+importance of the Cerrado biome for the economy, biodiversity conservation, and adaptation and
+
+                                                                                                 Page 14 of 16
+       Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+       BR-FIP: Cerrado Monioring Systems (P143185)
+
+
+
+mitigation of climate change has expanded funded initiatives in the area. A more intentional focus on
+addressing the issue of land-use change (Brazil’s primary source of GHG emissions) in both the
+Amazon and the Cerrado is of paramount importance and would be a bold initiative to better account
+for and reduce GHG emissions at the national and global levels.
+
+The Project demonstrated the transformational potential of a tightly focused, science-based
+project led by experienced, technically sound, and sophisticated institutions. INPE's solid
+experience with activities like those of the Project but focused on the Amazon was a key advantage
+in replicating that successful experience in the Cerrado biome, thereby minimizing uncertainty and
+difficulties in implementation and delivery. The synergies between three executing institutions, INPE,
+UFG and UFMG, enhanced and strengthened the development of the information systems,
+datasets, and tools. The complementarity between the technical expertise of INPE and UFMG
+enabled the development of information and first-of-its-kind modelling approaches (e.g., Fires risk,
+fire spread forecasts). Improved estimation of GHG emissions for the Cerrado biome contributes to
+enhanced global accountability of Brazil, considering its commitments in the context of the UNFCCC
+and towards 2025. Developing and scaling up of monitoring and accountability systems for other
+biomes of Brazil (which are incredibly vast and biologically diverse in nature) contribute to global
+climate change efforts and deliver benefits beyond the national border. As an outcome, the Project
+represents a persuasive argument for engaging in larger-scale environmental monitoring projects in
+Brazil. This is especially so when the agencies demonstrate excellence and national capacity (even
+in times of shifting government priorities and uncertain budgeting prospects), and when a disciplined
+approach limits project scope to a set of essential, nationally proven, and well-integrated activities
+that build upon the expertise of the agencies involved in implementation.
+
+The systematic provision of better information systems is a cost-effective public investment
+to pursue improved planning, response, and action on deforestation and fire risk. Access to
+accurate data, information, technology, and forecasting knowledge represents a game-changer at
+multiple levels within government and society, with the added value of increased awareness and
+validation of results. The application of such monitoring and modelling systems is particularly
+impactful when it is implemented to bridge the gap within institutional environments which are not
+used to such technology systems to effectively engage complex coordination efforts to the benefit of
+progressing its operations in office and field settings (e.g., local fire brigades, ICMBio, local
+stakeholders). The TerraBrasilis platform allows institutional and public users anywhere in Brazil
+(and abroad) to rapidly access deforestation information, analyze and verify it, and apply it to their
+specific purpose. The development of a state-of-the-art fire risk ignition and spread probability
+models is a major advance in the effort to control and prevent fires in the Cerrado biome with no
+equivalent anywhere in the world. These results will require continued support and expansion
+moving forward.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+
+                                                                                                   Page 15 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     BR-FIP: Cerrado Monioring Systems (P143185)
+
+
+
+The ICR provides a detailed overview of the project. The narrative is supported by available evidence that was
+collected from the project’s M&E system and the external evaluation. The ICR aimed to triangulate data to
+reach conclusions where possible. The ICR’s lessons are responding to the specific experiences and findings
+for the project. The quality of evidence and analysis is aligned to the messages outlined in the ICR. On the
+other hand, the theory of change was brief and did not articulate the links between activities, outputs, and
+outcomes. Orientation of the narrative to the theory of change was limited and constrained the broader
+emphasis on essential transformations in the sector. Overall, the quality of ICR is rated substantial.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                 Page 16 of 16
+

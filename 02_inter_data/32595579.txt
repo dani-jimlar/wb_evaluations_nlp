@@ -1,0 +1,703 @@
+     Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+     EG - Helwan South Power Project (P117407)
+
+
+
+                                                                               Report Number: ICRR0022143
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P117407                                   EG - Helwan South Power Project
+
+ Country                                   Practice Area(Lead)
+ Egypt, Arab Republic of                   Energy & Extractives
+
+
+ L/C/TF Number(s)                          Closing Date (Original)              Total Project Cost (USD)
+ IBRD-82780                                30-Jun-2019                                       419,213,909.10
+
+ Bank Approval Date                        Closing Date (Actual)
+ 27-Jun-2013                               30-Jun-2019
+
+                                           IBRD/IDA (USD)                                    Grants (USD)
+
+ Original Commitment                         585,400,000.00                                              0.00
+
+ Revised Commitment                          419,213,909.10                                              0.00
+
+ Actual                                      419,213,909.10                                              0.00
+
+
+
+
+ Prepared by                Reviewed by                  ICR Review Coordinator        Group
+ Ranga Rajan                Ihsan Kaler Hurcan           Ramachandra Jammi             IEGSD (Unit 4)
+ Krishnamani
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objective (PDO) as stated in the Loan Agreement (Schedule 1, page 6) and the
+   Project Appraisal Document (PAD, page 15) was:
+
+   "To increase power generation capacity in an efficient manner within the Borrower's territory."
+
+
+
+
+                                                                                                Page 1 of 13
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     EG - Helwan South Power Project (P117407)
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   There were two components (PAD, pages 45-46):
+
+   1. The Helwan South Power Plant. The appraisal estimate was US$2,168.9 million (of this, IBRD
+   contribution was US$503.8 million). The actual cost was US$1,294.4 million. The actual cost was lower
+   than appraised due mainly to the overestimation of the project cost, which was based on local prices.
+
+   This component planned to finance the construction of a 3x650 Megawatt (MW) supercritical steam
+   technology power plant at Helwan South fired by natural gas as the primary fuel, and heavy fuel oil as
+   a back-up, and consisting of: (i) three identical 650 - generating units, each comprised of a steam generator,
+   a steam turbine, a condenser, an electricity generator, process and cooling water supply systems, an air
+   and flue gas system, fuel supply and other auxiliary systems: and, (ii) a distributed control system and a
+   switchyard with step-up transformers. This component also planned to finance the costs of engineering
+   and project management services, and an associated environmental and social mitigation plan.
+
+   2. Gas pipelines. The estimated cost at appraisal was US$235.5 million (of this, IBRD contribution was
+   US$81.6 million). The actual cost was US$25. 9 million. The actual cost was lower than appraised due
+   to changes in project scope (discussed in section 2e).
+
+   This component planned to finance construction of two pipelines capable of supplying about 12.5 million
+   cubic meters of gas per day to the power plant described above. Activities in this component included:
+   (i) construction of a gas pipeline of about 93 kilometers (km) in length to connect the Helwan South Power
+   plant site near the town of Atfeeh to the existing gas pipeline network at the compressor station at Dashour;
+   (ii) construction of a gas pipeline of about 65 km in length, from the Abu Hommos compressor station to the
+   El Nubaria compressor station; (iii) pipeline inspection and cleaning facilities for on-line inspection vehicles
+   and Supervisory Control and Data Acquisition (SCADA) facilities; and (iv) associated environmental and
+   social mitigation plans.
+
+   This project did not specifically include Technical Assistance (TA) activities. However, this was deemed to
+   be not necessary in view of the TA activities co-financed by other donors, counterpart funding, and parallel
+   TA activities under other Bank financed projects.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project cost. The estimated cost at appraisal was US$2,404.4 million. The actual cost was US$1,321.3
+   million. The actual cost was about 56% of the estimated cost due to the sizeable overestimation of project
+   cost at appraisal.
+
+   Project financing. The project was financed by an IBRD loan of US$585.4 million. The revised estimate of
+   the loan was US$419.2 million. The revisions were due to lower than expected costs and exchange rate
+
+
+                                                                                                      Page 2 of 13
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     EG - Helwan South Power Project (P117407)
+
+
+
+   changes during implementation. About US$166.2 million was unutilized and the amount disbursed at
+   closure was US$419.2 million. There was co-financing from the following agencies.
+
+         The Arab Fund for Economic and Social Development: The appraisal estimate was US$193.5
+          million. The amount disbursed was US$139.3 million.
+         The Islamic Development Bank: The appraisal estimate was US$449.9 million. The amount
+          disbursed was US$383.8 million.
+         The Kuwait Fund for Economic Development: The appraisal estimate was US$213.8 million. The
+          amount disbursed was US$172.2 million. and,
+         The Organization of Exporting Countries (OPEC) Fund for Economic Development: The appraisal
+          estimate was US$40.0 million. The amount disbursed was US$41.5 million.
+
+   Borrower contribution. The borrower contribution was estimated at US$921.8 million at appraisal. Their
+   actual contribution was US$165. 2 million. The ICR (page 38) notes that detailed cost breakdowns and
+   savings on Borrower's finance contracts were not available when the project closed.
+
+   Dates. The project was approved on June 27, 2013, became effective about ten months later on April 30,
+   2014, and closed as scheduled on June 30, 2019.
+
+   Other changes. The following changes were made through a Level 2 restructuring on June 2, 2016.
+
+         The scope of the gas pipeline component was modified following the discovery of gas in
+          Egypt. This change entailed dropping the 93 km of gas pipeline that was to be connected to the
+          power plant, as this activity was no longer necessary since gas could be transmitted to the plant
+          through the nearby pipeline that was 1.2 km away.
+         The construction of a gas pipeline of about 70 km in length from the gas receiving facility at Raven
+          gas facility to the Western Desert Gas complex (WDGC) in Alexandria was added to strengthen the
+          gas transmission network.
+         The results framework was modified, and one PDO indicator (km of gas pipelines) was added.
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country context. Following the political events in January 2011, economic growth slowed significantly from
+7% in 2008 to 2% in 2012. With the low growth rate, public and private investments including power sector
+investments declined. As sector investments did not keep pace with demand (with peak demand increasing
+from 15,678 MW in 2005, to 21,330 MW in 2009, and 24,400 MW in 2014), load shedding and supply
+interruptions were common. This led to citizen dissatisfaction on the one hand and impacted on economic
+growth on the other hand. Given that electricity demand was expected to continue in the foreseeable
+future, power sector investments to meet the peak demand were relevant at appraisal. The PDO of
+increasing generation capacity was less relevant at project closure due to the substantial increase in
+capacity "from about 25.0 Gigawatts (GW) in 2010 to about 55.0 GW in 2018 leading to a reserve margin of
+over 25 Megawatt (MW) compared to a peak load of 30.8 GW in 2018" (ICR, paragraph 22). The
+
+
+                                                                                                   Page 3 of 13
+                                      Independent Evaluation Group (IEG)                       Implementation Completion Report (ICR) Review
+                                      EG - Helwan South Power Project (P117407)
+
+
+
+               construction of more efficient combined cycle gas turbine power plants to utilize the recently discovered
+               natural gas reserves was the main reason for the large increase in installed generation capacity.
+
+               Government strategy. At appraisal, the Egypt Electricity Holding Company's (EEHC) Five Year Plan (FYP)
+               for 2012-2017 forecast growth of peak electricity demand at 6% per year, and that 11,000 MW of additional
+               capacity was required to meet this demand. The FYP identified that the capacity was to be increased
+               through: (i) Combined-Cycle Gas Turbines (CCGT) using natural gas; and, (ii) steam plants
+               (through supercritical plants, capable of using either natural gas or heavy fuel oil). The government's
+               priorities regarding the sector, however, changed when the project closed. Having achieved sufficient power
+               generation capacity and following the discovery of gas, the government's focus shifted from installing
+               capacity to increasing energy security through renewable energy and other primary energy resources, such
+               as coal. The government's Integrated Sustainable Energy Strategy to 2035, which was approved by the
+               Cabinet in 2016, envisages diversification of the country's electricity generation mix to include coal, nuclear,
+               and renewable energy.
+
+               Bank strategy. The PDO was well-aligned with the Country Partnership Framework (CPF) for 2015-2019.
+               The Focus Area two of the CPF identified the need for "Improving opportunities for private sector job
+               creation " by increasing energy generation capacity and improving energy efficiency. The Performance and
+               Learning Review (PLR) of the CPF for 2015 - 2019 extended the CPF period to 2021. The CPF PLR does
+               not mention additions to conventional generation capacity, but noted that "outcomes on conventional and
+               renewable power generation capacity had been achieved" in Egypt to which the project contributed.
+
+               Bank prior experience. The Bank has had a long history of engagement with Egypt on the energy
+               sector through both investments and sector reforms. Since 2006, the Bank financed six energy investment
+               projects in renewable and conventional power generation, supporting wind power development, and gas
+               transmission and distribution. Given the conditions at appraisal and the institutional capacity of the project
+               implementing entity, the project objective was adequately challenging.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+
+                             To increase power generation capacity in an efficient manner within the Borrower's territory.
+
+                             Rationale
+
+
+
+
+                                                                                                                             Page 4 of 13
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   EG - Helwan South Power Project (P117407)
+
+
+
+Theory of change. The causal links between project activities, outputs and outcomes were logical, and
+the outcomes were measurable. Construction of a supercritical power plant that could be fired by natural gas
+as the primary fuel and heavy fuel oil as a backup, and the construction of a transmission line that was
+necessary for evacuating power from the power plant was aimed at increasing generation capacity. Building a
+gas pipeline for connecting the power plant and a gas pipeline from the gas receiving facility at Raven to the
+Western Desert Gas complex in Alexandria was likely to strengthen the gas grid. Regarding the efficiency
+aspect, although the supercritical plant with a backup was relatively costlier than constructing CCGTs, which
+can only use natural gas, there were other advantages of the supercritical plant that ensured greater
+reliability (such as dual fuel hedge against natural gas supply constraints, lower maintenance cost, and
+system stability due to the plant's ability to serve both base load and intermediate load). The combination of
+these activities was likely to improve delivery of electricity services to households and industries and to the
+long term development outcome of increasing welfare of the population.
+
+Outputs (ICR, pages 12-13 and pages 31-35).
+
+      The power plant was constructed as targeted. When the project closed, the three generating units
+       were synchronized (meaning they could provide power to the system).
+      The project aimed at constructing a total of 71.2 km gas pipeline: (i) 1.2 km of gas line connecting the
+       power plant; and (ii) 70 km of line for strengthening the gas supply system. While the former activity
+       was completed, the latter activity was ongoing when the project completed. This activity is expected to
+       be completed by the end of 2020. The ICR (page 13) notes that the commissioning of the power plant
+       was not impacted by the ongoing construction activity although its completion was expected to help
+       the long-run sustainability of the power plant (as the plant would be able to get the requisite natural
+       gas supply for its operations).
+
+Outcomes
+
+      The conventional generation capacity of the power plant increased to 2010 MW. This represented a
+       3% increase relative to the target of 1950 MW.
+      The estimates of the expected annual net generation capacity of the plant increased to 13,860
+       Gigawatt Hours (GWh), exceeding the target of 13,447 GWh. The ICR (paragraph 27) notes that the
+       three generating units were in commercial operation in 2019. According to the information provided
+       subsequently by the team, the power plant generated 6,226 GWh of electricity between October 2019
+       and September 2020 (with a monthly average of 522.20 GWh). The plant operated at an average of
+       35.6% capacity, slightly short of the target of 40%. The team clarified that this shortfall was due to the
+       adverse impact of COVID -19 on electricity demand and economic growth (especially in the tourism
+       sector).
+      According to the clarifications provided by the team, the government's plans for generating electricity
+       from coal or nuclear sources have been given a low priority, and new generation capacity is expected
+       to increasingly come from renewable sources and the one combined plant. This is likely to increase
+       the utilization of capacity of the plant.
+      The constructed power plant was 42% thermally efficient at project closure. This exceeded the target
+       of 40%.
+
+The supercritical power plant was constructed to increase generation capacity as targeted. The
+information provided by the team provides adequate evidence of the increase in generation capacity by the
+plant. Further, the utilization is likely to increase, given the changing priorities of the government (away from
+
+                                                                                                     Page 5 of 13
+                                Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+                                EG - Helwan South Power Project (P117407)
+
+
+
+                            coal and towards renewable sources and the one combined cycle plant). Therefore, the efficacy of the project
+                            objective is rated as substantial.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The supercritical power plant was constructed to increase generation capacity as targeted. In view of the
+                            increase in generation capacity of the plant, the efficacy is rated as substantial.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+    5. Efficiency
+   Economic analysis. An economic analysis was conducted using comparable methodology for the
+   activity associated with construction of the power plant. This activity accounted for 72% of the appraisal
+   estimate and 98% of the actual cost. The ICR (page 41) notes that, as there was no wholesale market for
+   electricity in Egypt, and retail prices were set by the government usually below cost recovery, the consumers
+   willingness to pay was used as the measure for deriving the value of electricity based on past consumption and
+   prices. The Net Present Value (NPV) at 10% discount rate at closure was US$7,435 million compared to the
+   NPV of US$5,270 million at appraisal. The ex-post Economic Rate of Return (ERR) was 26% compared to
+   the ex-ante ERR of 20%. The ex-post EIRR was higher due to the lower actual cost caused by a combination of
+   factors including decrease in global power equipment cost, competitive bidding, and exchange rate
+   changes during implementation. ERR was also calculated at closure for activities associated with transmission
+   investments. With transmission investments, the ex post ERR dropped slightly from 26% to 25.5%.
+
+   The consumers' willingness to pay was also computed using two other approaches at closure. The first
+   approach that was used in a prior Bank-financed project (Ain Sokhna Project) derived the measure of
+   willingness to pay from the cost of diesel generation. This approach assumes that the alternative to power from
+   large power plants was generation from diesel generators, and that consumers would not be willing to pay more
+   for electricity from the large plant than the price they would pay for electricity from diesel generators. The NPV
+   using this approach was US$5,361 million and the ERR was 32%. The second approach that was used in
+   another Bank-financed project (Giza North Project) utilized a demand function to derive the consumers
+   willingness to pay. The NPV using this approach was US$1,104 million and the ERR was 15%.
+
+
+
+
+                                                                                                                             Page 6 of 13
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      EG - Helwan South Power Project (P117407)
+
+
+
+The EIRRs were further calculated by the team, on the basis of the actual electricity generated by the
+plant using the three approaches. These figures confirmed the figures provided in the ICR. The EIRRs
+were significantly above the opportunity cost of capital in Egypt of 10%, and the NPVs were positive.
+
+Administrative and operational Issues. The project was implemented within the project timeframe. Advance
+procurement saved about a year and half of implementation period compared to the time it would have taken if
+the bidding process had been initiated after project effectiveness. There were some operational shortcomings.
+The project which was approved on June 27, 2013, became effective after 10 months on April 30, 2016.
+According to the clarifications provided by the team, these delays were mainly due the major political transition
+and election in May of 2014. There were delays in preparation of the Resettlement Action Plan with respect to
+the project activity of the construction of the Raven - Western Desert Gas Complex gas pipeline, due to the
+discovery of the new gas fields. These delays however, did not significantly impact implementation as
+the project closed as scheduled.
+
+In sum, efficiency is rated as substantial, given the economic analysis of the project, and relatively few
+administrational and operational shortcomings during implementation.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?              Point value (%)           *Coverage/Scope (%)
+                                                                                       72.00
+ Appraisal                                                  20.00
+                                                                                        Not Applicable
+                                                                                       98.00
+ ICR Estimate                                               26.00
+                                                                                        Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Relevance of the PDO is rated as Substantial. The efficacy of the achievement of the objective to increase
+power generation capacity in an efficient manner is rated as Substantial. Efficiency is rated as
+Substantial. Overall outcome is rated as Satisfactory.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+                                                                                                       Page 7 of 13
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      EG - Helwan South Power Project (P117407)
+
+
+
+
+Financial risk. Although the government has been raising electricity tariffs, they do not fully cover costs to
+date. Given this, there is a risk that the plant's performance could be undermined by the power plant's
+inability to generate enough revenue for meeting operational costs.
+
+Technical risk. There is the risk that the Helwan South supercritical plant may not be fully dispatched
+because (i) the new CCGT power plants recently commissioned by the government are more energy efficient
+with lower operating costs, they, therefore, could take precedence in power plant merit dispatch; and (ii)
+the use of renewable energy, given the country's extensive solar and wind resources, has been increasing.
+This risk is particularly so, given that Egypt has a much higher installed generation capacity now.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The project design aimed at addressing the need for meeting peak electricity demand by increasing
+  capacity. The project was prepared based on the experience from prior Bank-financed energy projects in
+  Egypt.The project was prepared in close collaboration with donors providing co-financing for the project.
+  Several risks were identified at appraisal including substantial risks associated with capacities of the
+  implementing agencies, and availability of natural gas supplies (the primary fuel for the plant). Mitigation
+  measures included training the staff of the implementing agencies and having a backup of heavy fuel
+  oil for the plant. The implementation arrangements were appropriate as the implementing agencies,
+  i.e., the Egyptian Electricity Holding Company (EEHC) and the Upper Egypt Electricity Holding Company
+  (UEEPC), were familiar with Bank procedures (PAD, paragraph 67). Appropriate arrangements were
+  made at appraisal for safeguards and fiduciary compliance (discussed in section 10).
+
+  There were some shortcomings. The project cost was significantly overestimated, with the actual cost far
+  lower than the appraisal estimate, which was based on local prices rather than international prices. This
+  contributed to underutilization of the loan.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ Supervision missions were held twice a year as per the norm. The continuity of leadership was
+ maintained with two task team leaders over the project lifetime. The location of the
+ specialists (environmental, social, fiduciary specialists and technical specialists) in Cairo aided
+ in safeguards and fiduciary compliance (discussed in section 10). Corrective actions were taken by the
+ team to address emerging issues during implementation. For instance, the ICR (paragraph 62) notes that
+ when the M&E information showed that the project was falling behind schedule during the first two years of
+ implementation, the team took the required action of agreeing on an action plan with the UEEPC. This
+ aided in acceleration of implementation since then. The ICR (paragraph 60) notes that the Implementation
+
+                                                                                                      Page 8 of 13
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     EG - Helwan South Power Project (P117407)
+
+
+
+ Status Results Reports were prepared twice a year and accompanied by more detailed information on
+ aspects of the project. This aided in M&E implementation (discussed in section 9). The Mid-Term Review
+ (MTR) was conducted as scheduled in the last quarter of October 2017 to assess project performance.
+
+ There were moderate shortcomings. The supervision team underestimated the challenges on activities
+ associated with the construction of the Raven-Western Desert Gas Complex gas line by GASCO. There
+ were significant delays in preparing the Resettlement Action Plan (RAP) for this activity, and the RAP was
+ only prepared after the project closed. Since this activity has not been completed to date, this necessitated
+ continued bank supervision even after the project closed.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The two key outcome indicators - the annual net electricity generated by the plant and the minimum
+ thermal conversion efficiency - were appropriate and measurable. The targets for these indicators were
+ clearly specified at appraisal. There was no indicator relating to the construction of the transmission line
+ and substation, although this was an associated facility to evacuate the power from the power plant.
+ According to the clarifications provided by the team, these indicators were included in the Ain Sokhna
+ project, under which the substation and transmission lines were supervised and financed.
+
+
+
+b. M&E Implementation
+  The EEHC, the UEEPC and GASCO were responsible for monitoring project performance using their
+  own systems. The ICR (paragraph 60) notes that M&E implementation proceeded smoothly. The
+  Implementation Status Results reports, which were produced twice a year, provided the status of the
+  indicators. The Mid-Term Review was held as scheduled to track implementation progress.
+
+  The important shortcoming in the M&E implementation was that the actual value of the indicator
+  measuring the amount of electricity generated by the power plant was an estimate. When the ICR was
+  finalized, the power plant must already have been operational for at least six months. The generation
+  amount should have been provided as evidence for the achievement of the PDO. According to the
+  clarifications provided by the team, the data was not available and the suggested six months would be
+  insufficient to estimate an average annual capacity utilization factor, given the seasonal variations (for
+  example, the first six months (October 19 - March 2020) would have excluded the summer peak
+  demand.
+
+
+
+
+                                                                                                      Page 9 of 13
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     EG - Helwan South Power Project (P117407)
+
+
+
+
+c. M&E Utilization
+  The ICR (paragraph 62) notes that the M&E information was reported regularly to project management
+  and used for discussing project progress with EEHC, UEEPC and GASCO. When the M&E information
+  showed that the project was falling behind schedule (as it was during the first two years of the project),
+  corrective action was taken to address the implementation issues. The M&E information was used to
+  take necessary actions to resolve issues.
+
+  In sum, given the additional clarifications provided by the team on M&E on design and implementation,
+  overall M&E is rated as substantial.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as a Category A (Full Assessment) project under the World Bank safeguard
+   policies. Three safeguard policies were triggered at appraisal: Environmental Assessment (OP/BP 4.01),
+   Involuntary Resettlement (OP/BP 4.12), and Projects on International Waterways (OP/BP 4.37) (PAD, page
+   viii).
+
+   Environmental Assessment. The PAD (paragraph 107) noted that the plant site was mainly desert with no
+   settlements nearby. The Environmental and Social Impact Assessments (ESIA) for the plant and the gas
+   pipelines were prepared and publicly disclosed at appraisal (PAD, paragraph 48). An ESIA for the new
+   pipeline (Raven - Western Desert Gas Complex) was prepared and publicly disclosed when the project was
+   restructured in 2016 (ICR, paragraph 64). The ICR (page 22) notes that there was environmental
+   compliance. The environmental parameters from the plant were monitored against the Environmental and
+   Social Management Plan (ESMP) requirements. Concerns raised by the Bank team regarding the
+   management of hazardous wastes and occupational safety issues were addressed.
+
+   Involuntary Resettlement. This safeguard was triggered as temporary land use and land acquisition
+   were envisioned at appraisal. A Resettlement Policy Framework (RPF) was prepared and publicly disclosed
+   at appraisal. The ICR (paragraph 64) reports that a Resettlement Action Plan (RAP) for the Raven - WDGC
+   pipeline was prepared and publicly disclosed in November 2019.
+
+   Land for power plant. The ICR (page 21) reported that the 90 feddan plot of land (about 38
+   hectares) required for building the plant was state-owned desert land. This land was transferred to the
+   UEEPC in February 2010. This site had about 24 feddans of land used by families with no land titles.
+   Adequate compensation was made by UEEPC to the families. An additional 15 feddans of land between the
+   plant and the Nile river was required to build the water intake and discharge structure. These feddans of
+   land were purchased through negotiated settlements between the land owners and UEEPC at a
+   price higher than the prevailing market price. The UEEPC also agreed to provide six jobs per feddan to land
+
+                                                                                                    Page 10 of 13
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    EG - Helwan South Power Project (P117407)
+
+
+
+  owners. The ICR notes that UEEPC offered 163 jobs. This included (i) 90 jobs to land owning families, of
+  which 86 families were employed and four pending eligibility considerations; and (ii) 73 jobs to qualified
+  members of non land-owning families.
+
+  Land for gas pipelines. The 1.2 km connector line to the power plant was located in an empty unoccupied
+  desert area. No Resettlement Action Plan was prepared for the interconnection line as the pressure
+  reduction station was located within the boundaries of the power plant.
+
+  The Raven - Western Desert Gas Complex pipeline encompassed agricultural land, wood land, and river
+  sections with fishing activity. The pipeline construction was expected to result in temporary economic
+  displacement. A RAP was prepared in October 2017 after the project closed. Land owners were to be
+  compensated for the affected assets. This pipeline was not complete when the project closed. The ICR
+  notes that the Bank team was to continue regular supervision until this activity has been completed.
+
+  Projects on International Waterways. The PAD ( paragraph 115) reports that the Bank notified the Nile
+  River riparian states of the project on October 13, 2011, and requested that their comments to be provided
+  to the Bank by November 14, 2011. No comments were received from any of the riparian states during this
+  period, or since then. On the basis of the Bank team's assessment that the project activities would not
+  cause appreciable harm to other riparian states, the Middle East and North Africa (MNA) Regional Vice
+  President approved preparation of the project on February 2, 2012.
+
+
+
+
+b. Fiduciary Compliance
+  Financial management. A financial management conducted at appraisal concluded that the financial
+  management arrangements of the implementing agencies (UEEPC and GASCO) were satisfactory. The
+  residual financial risk, i.e., financial risk after mitigation measures, were deemed to be moderate at
+  appraisal (PAD, paragraph 56). The ICR (paragraph 66) notes that financial management was satisfactory
+  throughout implementation. The project accounts were audited by an independent auditor, but some audits
+  were submitted late. The ICR provides no information on whether the audits were unqualified.
+
+  Procurement. An assessment of the procurement capacity of the implementing agencies conducted at
+  appraisal concluded that both UEEPC and GASCO had adequate experience for addressing procurement
+  issues (PAD, page 24). The procurement risk was rated as moderate at appraisal (PAD, paragraph 103).
+  The ICR (paragraph 67) reports that procurement management was satisfactory
+  throughout implementation.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+  None.
+
+
+
+d. Other
+
+
+                                                                                                 Page 11 of 13
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       EG - Helwan South Power Project (P117407)
+
+
+
+   None.
+
+
+
+11. Ratings
+                                                                                  Reason for
+Ratings                          ICR                    IEG
+                                                                                  Disagreements/Comment
+Outcome                          Satisfactory           Satisfactory
+                                 Moderately
+Bank Performance                                        Moderately Satisfactory
+                                 Satisfactory
+Quality of M&E                   Substantial            Substantial
+
+Quality of ICR                   ---                    Modest
+
+
+12. Lessons
+
+The ICR draws the following main lesson from the experience of implementing this project with some
+adaptation of language.
+
+1. Using country specific historical data in benchmarking can lead to overestimation of
+project costs and under-utilization of project funds. The actual plant cost was about 40 percent
+lower than the appraisal estimate. While other factors, such as competitive bidding and exchange
+rate changes during implementation, were at play as well, the lesson is that the appraisal estimate
+should be based not only on country historical data, but also benchmarked on global market prices
+to avoid under -utilization of project funds. This is especially so, given that cost overestimation has
+been a recurring issue in similar energy projects in Egypt, such as in the Ain Sokhna Power Project
+and the Wind Power Development project.
+
+The ICR draws the following lesson from this project.
+
+1. Strict technical designs can adversely affect the development impact of the project, if
+conditions fundamentally change. Given the country context at appraisal, the power plant was
+designed to run on both natural gas and heavy fuel oil. During project implementation, the discovery
+of large proven natural gas reserves resulted in a rapid increase in the construction of more efficient
+combined cycle gas turbine power plants. The technical design of the Helwan South Power Plant
+could not be revised under these new conditions. Egypt has now a large surplus of generation
+capacity, and there is a risk that the power plant would not be used at the estimated capacity,
+resulting in a lower than expected development impact.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+
+                                                                                                    Page 12 of 13
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      EG - Helwan South Power Project (P117407)
+
+
+
+14. Comments on Quality of ICR
+
+The ICR provides a comprehensive overview of the project and it mostly follows Bank guidance. The narrative
+is candid and internally consistent, but it does not adequately support the efficacy and efficiency ratings. The
+evidence base is not sound to support the achievements of the project and the evidence is insufficient: the
+achievement of the project objective is based on the expected generation amounts rather than actual
+generation amounts. Accordingly, the economic benefits of the project are calculated taking the expected
+generation amounts into consideration, which may not materialize if the power plant is underutilized. This is a
+substantial risk, given the massive increase in CCGT capacity - in 2018 the lower-cost CCGT capacity
+increased by 14.4 GW, whereas the higher-cost capacity created under the project is 2.1 GW. The ICR does
+not provide evidence to show that the power plant is generating electricity, and, if it is generating any electricity,
+at what capacity factor. Regarding what occurred as a consequence of the project's intervention, the focus is on
+outputs (that is, construction of the power plant), rather than the outcomes (that is, the amount of electricity
+generated by the power plant).
+
+The safeguards section in the ICR provides an adequate explanation of the implementation of safeguards
+policies in detail for a category A project, but there is no information in the ICR about the Projects on
+International Waterways safeguard policy that was triggered at appraisal. The discussion of financial
+management is brief, and there is no mention of whether the audits were unqualified. The section on quality of
+supervision does not include an evaluative discussion on the project team's focus on the project's development
+impact. The discussion in section V. Lessons and Recommendations is useful, but it is mostly about findings
+rather than lessons. Lastly, the ICR was substantially longer (25 pages), than the recommended in the
+guidelines (15 pages).
+
+
+
+  a. Quality of ICR Rating
+      Modest
+
+
+
+
+                                                                                                       Page 13 of 13
+

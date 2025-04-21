@@ -1,0 +1,984 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     MR Public Sector Governance Project (P146804)
+
+
+
+                                                                                 Report Number: ICRR0023613
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P146804                                   MR Public Sector Governance Project
+
+ Country                                   Practice Area(Lead)
+ Mauritania                                Governance
+
+
+ L/C/TF Number(s)                          Closing Date (Original)                Total Project Cost (USD)
+ IDA-D1030,IDA-D3450                       15-Feb-2020                                          24,128,723.69
+
+ Bank Approval Date                        Closing Date (Actual)
+ 28-Mar-2016                               31-Dec-2022
+
+                                           IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                           10,300,000.00                                               0.00
+
+ Revised Commitment                            24,800,000.00                                               0.00
+
+ Actual                                        24,128,723.69                                               0.00
+
+
+
+
+ Prepared by                Reviewed by                  ICR Review Coordinator          Group
+ Paul J. Kaiser             Clay Wescott                 Jennifer L. Keller              IEGEC (Unit 1)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to the Financing Agreement (FA) dated 13 April 2016, the project development objective (PDO) of
+   the Mauritania Public Sector Governance Project was: "to improve monitoring and transparency of selected
+   government entities and the administration of property and mining taxation.”
+
+
+
+
+                                                                                                  Page 1 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     MR Public Sector Governance Project (P146804)
+
+
+
+   According to the Additional Financing (AF) Agreement and first project restructuring dated 16 August 2018,
+   the revised PDO was: "to enhance transparency and improve the mobilization, allocation and management of
+   public resources." For this ICR Review, the objective is parsed into three sub-objectives:
+
+        1. Improve the Allocation of Public Resources;
+        2. Improve the Mobilization of Public Resources and
+        3. Improve the Management of Public Resources.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The original project comprised three components (FA, pages 4-6).
+
+   Component 1: Improved Transparency and Control in Public Resource Management (US$ 5.20 million
+   estimate at appraisal) to (i) enhance transparency and reporting in public resource management to improve
+   the Government Financial Management Information System (GFMIS), (ii) increase monitoring of state-
+   owned enterprises (SOEs) and Autonomous Public Agencies through improved performance and
+   accountability, (iii) improve accounting and auditing standards and internal and external oversight, and (iv)
+   enhance the public procurement system by implementing reforms for the new institutional and legislative
+   framework relating to public procurement.
+
+   Component 2: Strengthen the Administration of Property Registration and Taxation and Mining Taxation
+   (US$ 4.70 million estimate at appraisal) to (i) strengthen tax administration and compliance by supporting
+   ongoing tax reforms aimed at increasing domestic revenue mobilization and widening the tax base, (ii)
+   develop a national cadaster, (iii) improve fiscal management in the mining sector, and (iv) enhance the
+   management of the Mineral Registry and Geoscientific Data.
+
+   Component 3: Project Management (US$ 1.70 million estimate at appraisal) to support the Government of
+   Mauritania (GoM) to manage the project.
+
+   The revised project (AF and First Restructuring dated 16 August 2018) scaled up and expanded the scope
+   of the original project to (i) add US$14.50 million to the project’s financing envelope (increasing it to
+   US$27.0 million), (ii) revise the PDO statement, (iii) add one component, and (iv) introduce changes to other
+   components and subcomponents (as described below).
+
+   Revised Component 1: Enhancing Transparency and Efficiency in Public Resource Management (US$10.7
+   million estimate at AF). This component was renamed and significantly scaled up (by US$5.5 million), and
+   its sub-components were revised by (i) (re)allocating US$5.5 million in additional funding to subcomponent
+   1.1. and changing its name to Enhancing the Systems for Transparent Public Financial Management
+
+                                                                                                   Page 2 of 18
+  Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+  MR Public Sector Governance Project (P146804)
+
+
+
+and Reporting, (ii) (re)allocating US$0.72 million in additional funding to subcomponent 1.2 focusing on
+monitoring SOEs and Autonomous Public Agencies, (iii) dropping subcomponent 1.3 on improving
+accounting and auditing standards and internal and external oversight and reallocating the remaining funds,
+and (iv) renumbering subcomponent 1.4 focusing on enhancing the public procurement system to
+subcomponent 1.3.
+
+Revised Component 2: Strengthening the Administration of Land Registration and Mining Taxation (US $9.0
+million estimate at AF). This component was renamed and significantly scaled up (by US$ 4.8 million). Its
+four subcomponents were consolidated into 2.1 Strengthening the Administration of Land Registration and
+2.2 Broadening the Tax Base and Strengthening Fiscal Management in the Mining Sector. The scale-up
+included support for land registration pilots to increase the number of formally registered land parcels.
+Under the Second Restructuring, US$0.5 million was reallocated from this component to Component 4 after
+the procurement process for a US$1.125 million contract under sub-component 2.2 for the equipment
+purchase and training program for the General Tax Directorate (DGI) resulted in an unsuccessful bid.
+
+Revised Component 3: Project Management (US$3.55 million). The closing date was extended to reflect an
+expanded scope, institutional arrangements were modified, and resources allocated to this component were
+increased (by US$1.5 million).
+
+New Component 4: Strengthening National Statistical Capacity, Medium-term Programming, and Annual
+Budget Processes (US$3.75 million). This component was added to strengthen national statistical capacity
+and enhance macroeconomic and fiscal analysis to strengthen the linkages between medium-term
+programming and annual budgeting processes. Three sub-components were originally included: 4.1
+Enhancing the Capacity of the National Statistical System to Produce Timely and Quality Statistics
+(US$2.55 million); 4.2 Improving Medium-term Planning and Budgeting (US$0.4 million) and 4.3 Enhancing
+Access to Statistical Information (US$0.3 million). A fourth sub-component, 4.4, Supporting Government
+Capacity in Strategic Planning and Implementation Monitoring Through the New Delivery Unit (US$0.5
+million), was added under the Second Restructuring.
+
+The Second Restructuring (Amendment to AF FA dated 10 June 2021) introduced activities to support the
+operationalization of the Presidential Delivery Unit (CSEPS), which had the mandate to monitor GoM
+priorities. The CSEPS developed a digital monitoring tool with clear indicators that enable it to
+systematically assess progress and implementation challenges – 145 presidential engagements, equivalent
+to 1185 projects, were monitored, covering 16 sectors (45 percent in education and 16 percent in
+agriculture). CSEPS also began organizing regular briefings for the Council of Ministers chaired by the
+President, providing updates on program implementation and highlighting specific projects for deeper
+discussion and strategic decision-making.
+
+The AF and First and Second Restructuring reinforced the public sector's capacity to mobilize, allocate, and
+manage public resources transparently. The AF and First restructuring (i) enhanced the capacities and
+functionalities of the GFMIS through the modernization and interfacing of two core budgeting and treasury
+accounting information systems, (ii) strengthened statistical, macroeconomic, and fiscal forecasting capacity
+and enhanced medium-term programming and budgeting processes, and (iii) expanded the tax base and
+optimized revenue mobilization through scaled-up support for land registration pilots and improved audit
+capacity in the mining sector. The Second Restructuring further strengthened strategic planning and
+monitoring of GoM priorities by operationalizing CSEPS and strengthening its capacity in strategic planning
+and implementation monitoring.
+
+
+
+                                                                                                Page 3 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MR Public Sector Governance Project (P146804)
+
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost: The original total project cost was US$11.60 million (US$10.30 million IDA-D1030 and US$1.3
+   million in counterpart funds). An AF (P165501) and First Restructuring were approved in July 2018 for
+   US$16.40 million (US$14.5 million IDA-D3450 and US$0.9 million in counterpart funds). The final project
+   cost estimate was US$27 million, with an actual disbursement of US$26,328,724, representing 97.3
+   percent. The ICR did not provide the reason for the difference between the revised project cost estimate
+   and the actual disbursement.
+
+   Financing: IDA (IDA-D1030) financed SDR 7.5 million (US$10.30 million equivalent), and an additional IDA
+   Grant (IDA-D3450) funded SDR 10.1 million (US$ 14.50 million equivalent).
+
+   Borrower Contribution: The GoM provided US$ 1.3 million in counterpart funding for IDA-D1030 and US$
+   0.9 million for IDA-D3450.
+
+   Dates: The project was approved on 28 March 2016, became effective on 24 June 2016, and was
+   restructured two times along with one AF. The AF and First Restructuring (approved on 16 August 2018)
+   consolidated and scaled up activities, expanded the project’s scope and extended the closing date to 31
+   December 2022. The Second Restructuring (approved 10 June 2021) reallocated funds from Component 2
+   to Component 4 and added a new sub-component to Component 4.
+
+   A split evaluation will not be undertaken because the project’s revised PDO and activities continued to
+   reflect the original PDO. The two restructurings expanded the project's scope and ambition.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+The quality of overall public spending needed to be improved due to weak planning, programming,
+monitoring, and control. According to the ICR, there were significant differences between budgeted and
+actual expenditures within and among budget categories, with underspending in some categories and
+overspending in others. There was also uncertainty about the eligibility of spending, and almost a third of
+government spending was devoted to ‘unspecified expenses’, with no information available on which
+sectors received these funds or what type of expenditures they financed. Information and communication
+technology (ICT) systems did not provide a real-time picture of budget execution; oversight institutions did
+not effectively audit public accounts; there were increased fiscal risks for parastatals due to poor internal
+and external controls; procurement systems and processes were inefficient; and mining tax volatility
+demonstrated the need to expand the tax base and improve tax collection.
+
+Political Context: At the time of approval, the country faced several governance-related challenges that
+impeded fiscal and economic management. Medium-term planning and programming were at a nascent
+stage, the quality of public spending was affected by variations in the composition of expenditures and poor
+monitoring and control over public spending, and budget information systems did not provide a clear, real-
+time overview of budget execution. The GoM recognized the need to develop a public sector that can plan,
+
+                                                                                                     Page 4 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     MR Public Sector Governance Project (P146804)
+
+
+
+budget, execute, and account for public resources in a more effective manner. This was a key condition for
+Mauritania to consolidate social stability, create jobs, and reduce poverty. The GoM expressed its
+commitment to addressing these issues.
+
+Economic Conditions: At the time of approval, Mauritania was a lower-middle-income country with a gross
+national income per capita of US$1,270, driven by a thriving extractive sector and high international
+commodity prices. The PAD notes that a decline in mineral export prices and international demand showed
+how Mauritania’s strong economic performance was based in part on favorable external factors such as
+strong demand for high commodity prices. Annual real gross domestic product (GDP) growth was projected
+to decelerate markedly to 3.2 percent in 2015 from 6.4 percent in 2014, and real GDP growth was expected
+to return to rates observed before the commodity price boom (2011–2014), slowing down to 4.5 percent in
+2016 and 2017. Total public spending doubled between 2009 and 2014 in nominal terms or by 57 percent
+in real terms, yet 2015 poverty data demonstrated a modest decrease in absolute poverty from 46.8 percent
+to 41.2 percent and extreme poverty from 16.5 percent to 9.9 percent between 2008 and 2014. This was
+impacting the delivery of essential services as well, with development indicators in health, education, water
+and electricity access, and food security lagging behind Millennium Development Goal (MDG) targets and
+Sub-Saharan Africa (SSA) averages. The GoM recognized that despite the recent strong economic growth
+performance, there was a need to put in place programs to ensure shared growth and poverty reduction,
+specifically focusing on supporting a public sector that could effectively plan, budget, execute, and optimize
+public spending.
+
+Development Priorities: The project directly aligned with the GoM’s “Strategy for Accelerated Growth and
+Shared Prosperity 2016‐2030” (Stratégie de Croissance Accélérée et de Prospérité Partagée) overarching
+aim to strengthen governance in all its dimensions and to inform policy reforms in the areas of economic
+governance, institutional accountability, and investment climate. The project also supported GoM priorities
+to complete the upgrade and expansion of critical budget (TAHDIR, RACHAD) and tax (JIBAYA)
+information systems, strengthen the alignment between Medium-Term Expenditure Frameworks (MTEFs)
+and Annual Budget estimates, ensure the timely transmission of budget execution bills, and broaden the tax
+base/modernize tax administration for more predictable and stable revenue sources.
+
+The project was also aligned with, and effectively contributed to, the World Bank Group’s (WBG’s)
+FY14‐FY16 Country Partnership Strategy (CPS) Pillar 2: Economic Governance and Service Delivery, and
+specifically CPS Objective 2.3 Public Sector Development, Outcome 10 – Efficient Management of Public
+Financial Resources. The Completion and Learning Review (CLR) for the FY14‐16 CPS noted that the
+project supported the GoM in advancing reforms to optimize public spending, reinforce control over the
+parastatal sector, and enhance compliance with the country’s procurement framework (FY18–FY23 Country
+Partnership Framework, p.66). The project also directly aligned with the WBG’s FY18–FY23 CPF Focus
+Area 3: Strengthen Economic Governance and Private Sector‐Led Growth, and specifically CPF Objective
+3.1: Strengthen Fiscal Management.
+
+With the AF/First Restructuring, the project also became a core element of the WBG’s FY18–FY23 CPF for
+Mauritania – both were processed in parallel and approved on June 4 and 13, 2018, respectively, with the
+revised PDO and CPF Objective 3.1. Strengthen Fiscal Management, sharing much of the same wording.
+The Second Restructuring in May 2021, which occurred in the context of the COVID-19 pandemic,
+responded to an emerging need to further strengthen strategic planning and monitoring of GoM priorities
+and entailed support for the operationalization of the recently established CSEPS mandated to enhance
+public sector performance.
+
+
+
+                                                                                                    Page 5 of 18
+                                      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                                      MR Public Sector Governance Project (P146804)
+
+
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             Improve Allocation of Public Resources
+
+                             Rationale
+                             Improvements in planning, programming, procurement, monitoring, control, and oversight were required to
+                             improve the quality of public spending in Mauritania. ICT tax and budget systems needed to be upgraded and
+                             expanded to improve functionality and positively impact the quality of public spending, which was not
+                             adequately coordinated or cohesive.
+
+                             There was no theory of change (ToC) in the PAD. It was developed for the ICR. The ToC assumed that
+                             project support to improve expenditure controls through an updated, more integrated GFMIS, combined with
+                             measures to enhance accounting, auditing, oversight, and procurement standards, would constitute
+                             necessary steps toward addressing these constraints.
+
+                             There were three intermediate results indicators (IRIs).
+
+                                        Core Budget and Treasury Accounting Management Information Systems upgraded, integrated and
+                                         interfaced with other principal financial management information systems. Baseline: No (30 June,
+                                         2016). Target: Yes (31 December, 2021). No (2 December, 2022). Partially achieved. The new
+                                         Treasury accounting system could not be completed due to procurement issues. Nevertheless, the
+                                         project supported the GoM to upgrade and expand critical budget and tax information systems, along
+                                         with relevant modules, interfaces, servers, and licenses. This IRI measures an essential area of
+                                         project support linked to the two PDO indicators described below.
+                                        Share of Procurement Committee Leads (Personnes Responsables des Marches Publics) certified
+                                         through a procurement certification scheme. Baseline: 0% (30 November, 2015). Target: 40% (30
+                                         December, 2022). Achieved: 96% (2 December, 2022). The project supported increasing the capacity
+                                         of procurement authorities by increasing the percentage of tender committee members certified under
+                                         the training and certification program.
+                                        Delivery Unit Matrix of Policy Priorities. Baseline: A matrix of policy priorities monitored by the Delivery
+                                         Unit is unavailable (29 April 2021). Target: A matrix of policy priorities monitored by the Delivery Unit
+                                         is prepared and agreed upon (30 December 2022). Achieved: A matrix of policy priorities monitored by
+                                         the Delivery Unit is ready and agreed upon (2 December 2022). The project helped finance the Unit,
+                                         including an ICT-based monitoring system and regular briefings for the Council of Ministers chaired by
+                                         the President.
+
+
+
+                                                                                                                                       Page 6 of 18
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   MR Public Sector Governance Project (P146804)
+
+
+
+There were two PDO indicators.
+
+Transmission of the budget execution bill (Projet de loi de Reglement) for the preceding year to the Court of
+Accounts within the mandated timeframe (31 December). Baseline: After 31 December (30 June, 2016).
+Target: Yes, on or before 31 December 2022. Achieved: Yes, on 2 December, 2022. By providing support to
+enhance the functionality of GFMIS core modules that enable the timely and automated production of reliable
+information on budget execution, the project helped the GoM to submit the budget execution bill starting in
+2018. This significantly improved the comprehensiveness of the GoM’s aggregate fiscal position and controls
+over public spending..
+
+Alignment between Medium-Term Expenditure Framework (MTEF) estimates and Annual Budget estimates in
+two selected sectors. Baseline: No alignment (20 April 2018). Target: 95% (30 December, 2022). Partially
+Achieved: 89.7% alignment (2 December, 2022). The MTEF estimates for 2021-2023 of two selected
+ministries, the Ministry of Equipment and Transport (MET) and the Ministry of Social Affairs, Childhood, and
+the Family (MASEF), were prepared and transmitted on 31 March 2021. While achieving this represented a
+significant improvement, the final alignment rate of these MTEF estimates with the disclosed budgets was
+calculated at 89.7 percent, slightly lower than the end target of 95 percent. The variation between the MTEF
+and annual budget estimates was due to a downward revision of all budgets because of COVID-19. The
+improved alignment between the MTEF and budget estimates helped make the annual allocation of resources
+for these ministries significantly more evidence-based and results-focused.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 2
+Objective
+Improve Mobilization of Public Resources
+
+Rationale
+This component was initially designed to (i) broaden the tax base and modernize tax administration to create
+a more predictable and stable source of revenue, (ii) improve mining sector taxation by using a tax model and
+a risk-based methodology for audits to combat Base Erosion and Profit Shifting, and (iii) modernize the
+mining registry and strengthen the capacity of the Ministry of Mining for geoscientific analysis. Under the AF
+and First Restructuring, this objective was renamed and significantly scaled up support for land registration
+pilots to increase the number of formally registered land parcels in Mauritania.
+
+There were three IRIs.
+
+      Tax census in 3 largest cities (properties and businesses). Baseline: None (30 November, 2015).
+       Target: Nouakchott, Nouadhibou, and Rosso tax censuses are completed. Achieved: Nouakchott,
+       Nouadhibou, and Rosso tax censuses completed in 2020 by the DGI. By using the additional data on
+       businesses (turnover, staff, plants/equipment etc.) and properties (size, value, use), DGI expanded
+       the tax base with reliable information to increase tax revenue collection.
+      A risk-based annual action plan conducts mining sector tax audits. Baseline: 0 (30 March, 2018).
+       Target: 80 (30 June, 2022). Achieved: 86 (2 December, 2022). This action plan enabled the GoM to
+
+                                                                                                 Page 7 of 18
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   MR Public Sector Governance Project (P146804)
+
+
+
+       identify high-value tax revenue collection mining companies for targeted tax audits. Mauritania’s three
+       principal mining companies, along with 16 of 19 main subcontractors, were subject to risk-based
+       audits.
+      Geological database system accessible to the public on-site and online. Baseline: No (30 November,
+       2015). Target: Yes (30 June, 2022). Achieved: Yes (2 December, 2022). These databases helped the
+       GoM achieve Extractive Industries Transparency Initiative compliance in 2019 and 2020, positively
+       impacting the country’s investment and building accountability in resource governance.
+
+There were two PDO indicators.
+
+      Urban land parcels with use or ownership rights are recorded in a land information system (gender
+       disaggregated). Baseline: 35,000 (20 April, 2018). Target: 75,000 (30 December, 2022). Achieved:
+       207,763 (2 December 2022). By increasing the number of parcels registered in the land management
+       information systems, the GoM was able to build a more reliable database to increase property tax
+       receipts sustainably. According to Annex 1 of the ICR, the indicator achieved the target of 30 percent
+       female and 70 percent male.
+      Mining companies are subjected to tax audits. Baseline: o (30 March, 2018). Target: 80% (30
+       December, 2022). Achieved: 86% (2 December, 2022). Based on the risk-based annual action plan
+       described above, the additional tax audits will enable the GoM to increase mining sector tax receipts
+       over time and help combat Base Erosion and Profit Sharing.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 3
+Objective
+Improve the Management of Public Resources
+
+Rationale
+To improve the management of public resources, this object focused on strengthening the GoM’s audit
+function, specifically focusing on state-owned enterprises. At the time of approval, GoM oversight institutions
+needed to be adequately equipped to audit public accounts and systematically follow up on audit
+recommendations. The inadequate control of the parastatal sector also heightened financial risks. Financial
+statements and reports needed to be more frequent, complete, and standardized. The procurement system
+had gaps in the legal framework, including operational regulations and standard bidding documents. The
+institutional framework suffered from overlapping mandates, limited procurement capacities, a lack of controls
+and audits, ineffective mechanisms to report allegations of corruption, and an absence of civil society
+participation. The improved production, use, and dissemination of statistical data was meant to inform
+medium-term programming and planning, focusing on the National Statistics Office (Office National des
+Statistiques -- ONS), the General Directorate of Reform Studies and Monitoring and Evaluation (Direction
+Générale des Etudes, des Réformes et du Suivi-Evaluation – DGERSE) and the General Budget Directorate
+(Direction Générale du Budget – DGB) of the Ministry of Finance.
+
+
+
+
+                                                                                                 Page 8 of 18
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                MR Public Sector Governance Project (P146804)
+
+
+
+                            There were three IRIs.
+
+                                  Performance agreements are elaborated, signed between the State and SOEs, and monitored.
+                                   Baseline: 0 (30 November, 2015). Target: 2 (30 December, 2022). Achieved: 2 (2 December, 2022).
+                                   The project implemented and monitored two pilot performance contracts for the Société des
+                                   Transports Publics and the Société Nationale des Forages et des Puits, complementing the PDO
+                                   focus on publishing economic and budget information (see below).
+                                  Qualified statisticians employed by the National Statistics System. Baseline: 15 (20 April, 2018).
+                                   Target: 35 (30 December, 2022). Achieved: 36 (30 December, 2022). The project complemented
+                                   support provided by the European Union and the International Monetary Fund to (i) enhance the
+                                   capacity of the National Statistical System to produce timely and quality statistics, (ii) improve macro-
+                                   economic forecasting capacity and strengthen the linkages between medium-term programming and
+                                   annual budgeting processes, and (iii) increase access to statistical and fiscal information.
+                                  User satisfaction with the availability of publicly accessible budget information. Baseline: 25% (30
+                                   April, 2018. Target: 50% (30 June, 2022). Achieved: 56.14% (2 December 2022). Measuring user
+                                   satisfaction with access to budget information enabled the GoM to understand better how project
+                                   interventions were viewed by the users surveyed so that demand-driven policy solutions could be
+                                   developed.
+
+                            There were three PDO indicators (one was dropped at AF).
+
+                                  Public disclosure of annual consolidated reports on public corporations' financial performance and
+                                   fiscal risks (enterprises et établissements publics) issued by the Direction de la Tutelle Finaciere
+                                   (DTF). Baseline: 0 (30 November, 2015). Target: 6 (30 December, 2022). Achieved: 7 (2 December,
+                                   2022). This resulted in publishing economic and budget information and aggregate SOE portfolio
+                                   reports.
+                                  Improved public access to fiscal information (measured as elements of fiscal details). Baseline: 3 (31
+                                   December, 2014). Target: 6 (30 December, 2022). Achieved: 7 (2 December, 2022). The project
+                                   supported improved public access to seven key elements related to GoM budget forecasting and
+                                   execution, along with projected annual revenues and debt.
+                                  Coverage of internal audits in the Ministries of Health and Primary Education. Baseline: 10% (30
+                                   November, 2015). Target: 20% (30 June, 2020). Not Achieved: Dropped at AF/First Restructuring.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            PDO 1: Improve Allocation and Management of Public Resources. The project met the target for the PDO
+                            indicator on the transmission of the budget execution bill but fell short of the PDO indicator on the alignment
+                            between MTEF and annual budget estimates in two selected sectors. The GoM introduced MTEFs in 2000,
+
+
+                                                                                                                               Page 9 of 18
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    MR Public Sector Governance Project (P146804)
+
+
+
+but these programming tools were not systematically developed and had little influence over annual budget
+allocations. There was limited capacity of sectoral ministries to undertake medium-term programming, ensure
+regular updating of MTEFs, and monitor and align medium-term programming and annual budget processes.
+Given the GoM’s limited experience and capacity in aligning MTEF and budget estimates, the project focused
+on two sectors. By providing support to enhance the functionality of GFMIS core modules that focus on the
+timely and automated production of reliable information on budget execution, the project helped the GoM to
+submit the budget execution bill every year since 2018 on time. MTEF estimates for 2021-2023 of two
+selected ministries (MET and MASEF) were prepared and transmitted on 31 March 2021. While achieving
+this significant improvement, the final alignment rate of these MTEF estimates with the disclosed budgets was
+89.7 percent, below the target of 95 percent. The project met targets for two IRIs, falling short of the target for
+the IRI on upgrading, integrating, and interfacing core budget and treasury accounting management
+information systems with other principal financial management information systems. The achievement of PDO
+1 is rated as Modest.
+
+PDO 2: Improve Mobilization of Public Resources. The project exceeded the targets for the PDO
+indicators, focusing on urban land parcels with use or ownership rights recorded in a land information system
+and mine companies subjected to tax audits. As of 2019, the Geological and Mining Information System
+(Système Informatique Géographique Minéral) and the mining title management system "Flexicadastre” were
+online and accessible to investors and stakeholders in the sector. As of 2021, the country’s three principal
+mining companies were subject to risk-based audits, with 16 of the 19 main subcontractors subject to the
+same principles. The number of tax audits of mining companies and subcontractors (19 out of 22 companies)
+carried out by DGI thus exceeded the associated target. The targets for all IRIs were also exceeded. The
+achievements in regularizing land tenure and modernizing systems for land administration were notable since
+they laid the foundation for improved property tax revenue generation. While the PDO indicators were
+achieved, the PDO is rated as Substantial.
+
+PDO 3: Improve the Management of Public Resources. The project exceeded the targets for PDO
+indicators, focusing on improved public access to fiscal information and public disclosure of annual
+consolidated reports on public corporations' financial performance and budgetary risks. The project
+significantly improved public access to fiscal data, including (i) documents relating to the draft annual budget
+of the executive power, (ii) pre-budget statements, (iii) macroeconomic forecasts, (iv) adopted budgets, (v) in-
+year reports on budget execution, (vi) audited financial statements, and (vii) external audit reports. The
+original PDO indicator on the coverage of internal audits in the Ministries of Health and Primary Education
+was dropped at AF because the revised PDO indicator on the public disclosure of annual consolidated reports
+and the new PDO indicator on improved public access to fiscal information were assessed to be more
+adequate measures. The project exceeded all IRIs. The improvements in public access to financial
+information and opportunities for the public to monitor the financial performance of SOEs and autonomous
+government agencies were notable achievements that enhanced the overall transparency of public finances.
+The accomplishment of PDO 3 is rated as Substantial.
+
+
+
+Overall Efficacy Rating
+Substantial
+
+
+
+
+                                                                                                    Page 10 of 18
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      MR Public Sector Governance Project (P146804)
+
+
+
+ 5. Efficiency
+Economic Efficiency: No economic or financial rate of return was calculated at appraisal. The PAD (p. 21) uses
+an Economy-Wide Return of 12 percent as a benchmark for expected financial and economic benefits, based on
+“an ongoing Bank study” on the economic growth impact of Mauritania's 2014-16 Public Investment Program. A
+footnote in the PAD also mentions an ongoing Bank study on the economic growth impact of the 2014-16 Public
+Investment Program in Mauritania that notes a Financial Internal Rate of Return estimated at 6 percent and the
+Economic Internal Rate of Return estimated at 14 percent “based on conservative regional averages and the
+concessional nature of available financing.” Still, these amounts are not calculated or used for any estimates.
+
+Other specific assumed economic and financial benefits mentioned in the PAD and the AF Project Paper include
+(i) tax revenues and fees from an improved property tax system estimated to increase by 20 percent (assuming
+5 percent inflation and 5 percent annual increase in taxes and fees collected), (ii) transfer pricing documentation
+and disclosure requirements leading to revenue collection benefits of about 0.6 percent of GDP; and (iii) 1
+percent of GDP in budgetary savings from a decline in extra-budgetary spending and carryforwards in the
+parastatals sector. The economic and financial analyses in the PAD were not presented, and data sources were,
+in part, based on an ongoing World Bank study without adequate documentation. The AF Project Paper did not
+provide any additional or updated estimates on the overall expected economic benefits of the project.
+
+The ICR noted these limitations and conducted economic and financial analyses that identified some ‘tangible
+results” related to increased monitoring of SOEs and autonomous government agencies and some payroll
+savings (Annex 4). The economic and financial analyses in the ICR were limited to the data available to the
+team. The working assumptions for these analyses were also clearly stated and reasonable.
+
+Operational Efficiency: Partly reflecting its expanded scope, the project required about 2.5 times the original
+financing of US$10.3 million, and its implementation took 6.5 years instead of the originally planned 3.5 years.
+There were procurement challenges and implementation delays, mainly related to the upgrade of the GFMIS
+and exacerbated by restrictions imposed by COVID‐19. GFMIS procurement challenges included the
+cancellation of (i) a US$4.3 million Treasury accounting system contract (with Oracle South Africa) in June/July
+2021 and (ii) a Treasury banking software contract for US$1.4 million in May 2022. Project management costs
+aligned with initial expectations, representing US$3.55 million, or 13.4 percent of the total cost at project closing.
+Better due diligence and contingency planning for these complex IT procurements would have improved
+operational efficiency.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                 Rate Available?             Point value (%)            *Coverage/Scope (%)
+                                                                                        0
+ Appraisal                                                    0
+                                                                                         Not Applicable
+
+
+
+                                                                                                        Page 11 of 18
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      MR Public Sector Governance Project (P146804)
+
+
+
+                                                                                    100.00
+ICR Estimate                                              25.38
+                                                                                     Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project received a Substantial rating for Efficacy and a Modest rating for Efficiency. Most of the PDO
+indicators met or exceeded targets. The PDO remained aligned with and relevant to the country context, GoM,
+and World Bank strategies. The revised PDO adequately captured the scale-up and expansion of scope under
+the AF and First Restructuring in 2018 and minor changes under the Second Restructuring in 2021. This ICRR
+rates overall Outcome as Moderately Satisfactory since PDO Relevance is rated as High, Efficacy as
+Substantial and Efficiency as Modest.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+Despite progress in achieving the PDO, there are risks that threaten the sustainability of achieved outcomes
+moving forward. These risks relate to sustainability or PFM reforms and the mobilization of public resources.
+Despite substantial investments in financial management ICT systems (RACHAD and JIBAYA), they
+continue to be fragmented, with missing interfaces and the need for a centralized database and shared
+platform (see ICR Annex 8.2. and 8.3 for a helpful table and diagram that clearly illustrates this
+fragmentation). While the alignment between MTEF and annual budget estimates was strengthened for two
+ministries from 2021-23, it is not clear if the GoM is committed to scaling and sustaining this to additional
+ministries. This is needed to ensure that the annual allocation of public resources is more evidence-based
+and results-focused. The project financed the operationalization of the CSEPS to monitor government
+priorities, but for this to be effective, the GoM will need to commit the resources needed to institutionalize
+and sustain its operations in the future.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  Quality at Entry is rated as Moderately Satisfactory.
+
+  When the project became effective in June 2016, planned activities were directly aligned with GoM and
+  Bank strategies for Mauritania, including the 2016‐2030 Strategy for Accelerated Growth and Shared
+  Prosperity and the FY14‐FY16 County Partnership Strategy. There was no ToC in the PAD, with an
+  implicit ToC and Results Chain added under the AF/First Restructuring. The PAD's results framework
+  (RF) did not adequately track achievement toward the PDO. The RF did not have an indicator tracking
+
+                                                                                                   Page 12 of 18
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     MR Public Sector Governance Project (P146804)
+
+
+
+  revenue generation, which is fundamental to understanding the impact of project activities on public
+  research mobilization, a key part of the PDO. The indicator measuring the alignment with MTEF and
+  Annual Budget estimates focused on two ministries. Project documents did not provide the rationale for
+  the choice of ministries for this indicator, making it difficult to understand the broader impact of the project
+  beyond the ministries that were tracked.
+
+  During preparation, the Task Team drew on the experience of the previous World Bank projects, such as
+  the Projet de Renforcement des Capacités du Secteur Public (PRECASP) and Projet de Renforcement
+  Institutionnel du Secteur Minier (PRISM) 1 and 2 operations based on lessons learned from these
+  operations. The project’s simple design was informed by PRECASP’s experience, which was too
+  complex for a low-capacity environment such as Mauritania (five components and five ministries).
+  PRECASP’s experiences also highlighted the importance of establishing a strong focus on M&E at the
+  beginning (hiring a full-time M&E officer with a clear, yet realistic, data collection protocol), ensuring
+  robust supervision arrangements that allow for frequent in-country support missions, along with focusing
+  on donor coordination and GoM ownership of project activities. PRISM 1 and 2 provided opportunities for
+  the project to build on and coordinate with PRISM’s ongoing activities in the mining sector.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The Task Team was comprised of staff with expertise in governance (lead), extractives, land
+ administration, social and environmental safeguards, procurement, and financial management (FM). Over
+ its 6.5-year duration, the project had four different Task Team Leaders (TTLs) that provided supervision
+ and technical support throughout implementation. The ICR noted that supervision quality suffered
+ somewhat due to the frequent change of TTLs. Supervision missions were organized bi‐annually, and Aide
+ Memoires and implementation status reports (ISRs) were prepared promptly. A total of 13 ISRs were
+ generated between June 2016 to December 2022, and in November 2017, a midterm review (MTR)
+ mission was conducted.
+
+ As accurately noted in the ICR, reporting was generally of sufficient quality and candor, and systematically
+ covered challenges and provided recommendations on addressing them. This was especially true for the
+ MTR mission, which candidly identified project design and implementation difficulties. It directly informed
+ the AF and First Restructuring in 2018, which revised the PDO, and introduced a Results Chain organizing
+ existing and new PDO indicators across three expected outcomes. The AF also introduced changes to
+ implementation arrangements (including monitoring and evaluation - M&E) but still needed to revise the RF
+ to reflect activities fully. Following the MTR until project closing, ISRs consistently rated Implementation
+ Progress, Procurement, and M&E as Moderately Satisfactory (down from Satisfactory). The final three
+ ISRs also lowered the rating of overall progress towards the PDO to Moderately Satisfactory (from
+ Satisfactory).
+
+ The World Bank team helped the GoM improve its capacity for compliance with environmental and social
+ safeguards, FM, and procurement. However, later in project implementation, several more significant
+ procurements had to be canceled – most notably the Treasury accounting system and Treasury banking
+
+
+                                                                                                       Page 13 of 18
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     MR Public Sector Governance Project (P146804)
+
+
+
+ system procurements. A stronger focus on GoM procurement capacity issues might have identified
+ remedial actions earlier and prevented the canceled procurements.
+
+ Overall Bank Performance is rated as Moderately Satisfactory. This reflects Moderately Satisfactory ratings
+ for Quality at Entry and Quality of Supervision. Despite some shortcomings, the original project design was
+ adequate. Since an explicit ToC was not formulated at appraisal, an implicit ToC had to be derived. Under
+ the AF/First Restructuring, the original PDO was revised, and a Results Chain was introduced, organizing
+ existing and new PDO Indicators around three expected outcomes. Based on the findings of the MTR, the
+ AF also introduced changes to implementation arrangements, but it could have used this opportunity to
+ revise the RF more fully. No specific adjustments were made to address the impacts of COVID-19, even
+ though the pandemic was cited as an essential reason for canceling several activities (and the rationale for
+ the Second Restructuring). Under the AF/First Restructuring, several significant ICT procurements were
+ withdrawn and replaced with replacement activities. While this resulted in the non-achievement of one IRI
+ target, none of the replacement activities were captured in the RF – despite generating some critical
+ results. Despite the extension of the closing date (under the AF) to 6.5 years, the time was still insufficient
+ for PFM reforms focusing on improving the mobilization, allocation and management of public resources.
+ Supervision quality also suffered somewhat due to the relatively frequent changes of TTLs, and some of
+ the supervision ratings might have lacked some candor.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The M&E design evolved during implementation due to PDO changes requiring an updated RF. Previous
+ operations, PRECASP and PRISM 1 and 2 informed M&E and project design more generally, at appraisal.
+
+ The scale-up and expansion of the scope under the AF/First Restructuring in 2018 led to revisions of the
+ RF. Out of four original PDO indicators, (i) one was retained (and had already been achieved), (ii) two were
+ reformulated to capture project achievements better, (iii) one was dropped because one revised existing
+ indicator, together with one of the new indicators, were seen as more adequate measures of the associated
+ outcome, and (iv) three new indicators were introduced. Similar changes were introduced to IRIs. After that,
+ the RF remained intact, with one IRI added under the Second Restructuring in 2021.
+
+ While the PAD did not have an explicit ToC to inform the RF (World Bank guidelines did not require a ToC
+ at this time), there was a detailed narrative explaining the PDO. The primary Results Chain introduced at
+ AF did not, however, adequately organize existing and new PDO indicators around three expected
+ development outcomes (see ICR Annex 6.2). There were gaps in the RF. The third PDO was not well
+ named and did not fully capture the focus on building the GoM capacity to effectively manage public
+
+
+
+                                                                                                    Page 14 of 18
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     MR Public Sector Governance Project (P146804)
+
+
+
+ resources. The absence of revenue mobilization indicators in PDO 2 was also a shortcoming that made it
+ difficult to fully assess the impact of project activities on revenue mobilization.
+
+ The project’s M&E system was adequate. A project implementation unity (PIU) was established to ensure
+ fiduciary responsibility and technical coordination of activities. The PIU reported directly to the Minister and
+ supported a Project Steering Committee (Comité de Pilotage) comprised of project implementing agencies’
+ technical leadership, ensuring oversight and monitoring. PIU core staff included an M&E Specialist
+ responsible for monitoring and reporting results defined in the RF – per an established method, data
+ source, and frequency for each indicator. Baseline values were calculated based on statistical records,
+ reports, and data collected from the central administration. The M&E system also relied on focal points in
+ each implementing agency, reinforcing monitoring capacity within each targeted entity. The M&E
+ Specialist produced semi-annual reports with the latest data for each indicator made available to
+ beneficiaries and stakeholders.
+
+
+
+b. M&E Implementation
+  M&E was initially rated as Satisfactory in ISRs, falling to Moderately Satisfactory after the MTR mission.
+  The MTR identified several M&E shortcomings, including (i) slow progress in several reform areas
+  (auditing and accounting norms, GFMIS, and fiscal audit capacity in the mining sector), (ii) limited impact
+  in some activities that the RF needed to capture consistently, (iii) the formulation of some results
+  indicators that created challenges for monitoring progress, and (iv) insufficient technical coordination
+  since the Project Steering Committee only met once a year.
+
+  The AF/First Restructuring addressed some of these challenges by establishing a Technical Advisory
+  Committee attached to the Steering Committee to facilitate regular monitoring and enable just-in-time
+  adjustments to implementation modalities. Also, to strengthen institutional capacity, several technical
+  advisers were recruited to assist the PIU and beneficiary institutions in developing Terms of Reference
+  and monitoring contractor performance, mainly supporting the GFMIS procurements and the overall
+  reform process. Given the failed ICT GFMIS procurements after the AF/First Restructuring, these
+  measures were needed to address this issue effectively. Several new activities were added in the Second
+  Restructuring, but the RF was not revised to capture them, so the impact of these investments was not
+  adequately recorded.
+
+  A Government ICR (rapport d’achèvement) captured the project’s main achievements at the closure.
+  However, the completion date for the report was 30 September 2022, three months before project
+  closure, which did not allow for including final data for several PDO indicators and IRIs. The PIU
+  obtained updated M&E-related data from the implementing agencies/beneficiary institutions to finalize
+  project results for project closing.
+
+
+
+c. M&E Utilization
+  M&E was effectively used to inform the MTR and the subsequent AF/First Restructuring and led to
+  significant changes to the overall project design relatively early during implementation. After AF/First
+  Restructuring, M&E was less effective in identifying challenges related to more extensive procurement
+  processes – most notably the Treasury Accounting system. No corresponding adjustments were made
+  to the RF and/or M&E framework to monitor and capture data for the activities that replaced canceled
+
+                                                                                                     Page 15 of 18
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     MR Public Sector Governance Project (P146804)
+
+
+
+  activities, including (i) the upgrade of the Tax Management Information System, (ii) the introduction of
+  the Jira Work Management collaboration tool at the Ministry of Finance, (iii) the acquisition of tablets for
+  the realization of the General Census of Population and Housing by the National Agency of Statistics
+  and Demographic Analysis, and (iv) the audit of dormant funds and certified checks, the digitization of
+  archives, the training program for public procurement stakeholders, and the implementation of a
+  significant public-private partnership project plans. The Second Restructuring did not adequately
+  address these issues in the RF. Adding one or more IRIs to the RF could have handled this
+  shortcoming.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   Most project components did not entail any social risks. Given the sensitive and often contested nature of
+   land rights, the only area with potential social risks involved the land registration pilots. Pilots were selected
+   to avoid contested areas to mitigate any negative impacts, such as access restrictions because of the land
+   registration activities. Social assessments were conducted for each pilot area, including a condition in the
+   contract of the international firm responsible for supporting the pilots to ensure the prior completion of the
+   assessments and any mitigation measures. This approach embedded a solid risk management dimension
+   into the operation to facilitate adopting participatory and inclusive processes for land registration.
+
+
+
+
+b. Fiduciary Compliance
+   Assessments conducted by the World Bank team generally rated FM performance as Satisfactory. The
+   only two exceptions were Implementation Status Report (ISR) #2 (January 2017) and ISR #11 (March
+   2022), which rated FM as Moderately Satisfactory. The ISRs did not provide clear rationales for these
+   downgraded scores. The final disbursement rate was approximately 97.3 percent.
+
+   Procurement compliance was rated Satisfactory in the first three ISRs, with the remaining ten rated as
+   Moderately Satisfactory. This reflects the IT procurement challenges described above that negatively
+   impacted project implementation.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   The unintended impacts identified in the ICR focused on the reallocation of funds from unsuccessful
+   procurements to new replacement activities.
+
+
+
+
+                                                                                                       Page 16 of 18
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     MR Public Sector Governance Project (P146804)
+
+
+
+d. Other
+   No other issues were raised in the ICR.
+
+
+
+11. Ratings
+                                                                                 Reason for
+Ratings                         ICR                    IEG
+                                                                                 Disagreements/Comment
+                                Moderately
+Outcome                                                Moderately Satisfactory
+                                Satisfactory
+                                Moderately
+Bank Performance                                       Moderately Satisfactory
+                                Satisfactory
+Quality of M&E                  Modest                 Modest
+
+Quality of ICR                  ---                    Modest
+
+
+12. Lessons
+
+Small but targeted investments in strategic planning capacity in the executive branch can
+support the broader goals of governance operations. A comparatively small investment of US$
+500,000 was a catalyst for the operationalization of the newly created CSEPS. Based on the
+encouraging achievements described in Section 2.d, additional support for CSEPS could further
+PFM reform in Mauritania, focusing on improved public sector project monitoring and coordination.
+This support could include (i) building capacity through peer-to-peer exchanges in the region and
+beyond, (ii) encouraging CSEPS to prioritize further the projects it monitors (highlighting 3-5 projects
+with high visibility and impact, creating synergies with the other components, and (iii) helping to
+strengthen communication and citizen engagement around these critical projects given
+strengthening the social contract.
+
+Complex ICT procurements should be carefully planned at appraisal, with sufficient due
+diligence before initiating the procurement process. Due to protracted issues encountered
+during the procurement process, acquiring a new Treasury accounting system (from Oracle South
+Africa) was eventually abandoned in 2021 at the signature stage. The GoM subsequently decided
+that these funds (US$ 4.3 million) be reallocated to several replacement activities. Some of these
+activities required additional ICT procurements, which were also not successful. Procurement
+planning and due diligence would have addressed some of these challenges. These types of
+procurements should dedicate sufficient resources to ensure completion, testing, interfacing, and
+built-in provisions to ensure maintenance and sustainability.
+
+To effectively monitor implementation and assess the impact of governance projects, the RF
+should be fully aligned with the PDO from effectiveness to closure, capturing outputs and
+outcomes throughout implementation. The RF was extensively revised during the AF/First
+Restructuring and, to a lesser extent, the Second Restructuring, making it difficult to track progress
+and impact. The addition of a new component with the AF/First Restructuring (strengthening national
+statistical capacity, medium-term programming, and annual budget processes) and adding a new
+subcomponent (supporting the operationalization of the CSEPS) during the Second Restructuring
+
+                                                                                                    Page 17 of 18
+       Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+       MR Public Sector Governance Project (P146804)
+
+
+
+were not clearly linked with the PDO (which was also revised during the AF/Second Restructuring),
+making it difficult to monitor progress and assess impact over time. In addition, the project did not
+have an indicator that tracked revenue collection, a fundamental data source for the mobilization of
+public resources.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR presents a detailed and coherent description of project activities, documenting implementation
+challenges and achievements. There are eight annexes to the ICR, including (i) the results framework and key
+outputs, (ii) World Bank lending and implementation support/supervision, (iii) project cost by component, (iv) a
+detailed efficiency analysis, (v) ToC and RF diagrams, and (vii), helpful tables summarizing changes related to
+the AF and two project restructurings. These annexes provide adequate activity-level data and analysis to
+understand project implementation. The ICR correctly noted that more due diligence and analysis regarding the
+procurement and implementation of ICT solutions would have strengthened and deepened project outcomes.
+Overall, the analyses provided in the ICR provided a detailed understanding of project outputs and outcomes
+based on the available data, but a more robust assessment of project weaknesses in the RF and coherence of
+the two restructurings would have provided the basis for more targeted lessons learned for future governance
+operations in Mauritania and elsewhere. The ICR would have also benefitted from a more extensive editorial
+review to improve the flow and readability of the document.
+
+
+
+  a. Quality of ICR Rating
+       Modest
+
+
+
+
+                                                                                                   Page 18 of 18
+

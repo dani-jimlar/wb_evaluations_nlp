@@ -1,0 +1,877 @@
+      Independent Evaluation Group (IEG)                                      Implementation Completion Report (ICR) Review
+      MW-Fin Reporting and Oversight Improveme (P130878)
+
+
+
+                                                                                           Report Number: ICRR0021548
+
+
+1. Project Data
+
+
+
+ Project ID                                     Project Name
+ P130878                                        MW-Fin Reporting and Oversight Improveme
+
+ Country                                        Practice Area(Lead)
+ Malawi                                         Governance
+
+
+
+  L/C/TF Number(s)                              Closing Date (Original)                      Total Project Cost (USD)
+  TF-13825                                      30-Jun-2016                                               10,900,341.24
+
+  Bank Approval Date                            Closing Date (Actual)
+  07-Mar-2013                                   30-Apr-2018
+
+                                                IBRD/IDA (USD)                                           Grants (USD)
+
+  Original Commitment                                 19,000,000.00                                       19,000,000.00
+
+  Revised Commitment                                  19,000,000.00                                       19,000,000.00
+
+  Actual                                              10,900,341.24                                       10,900,341.24
+
+
+
+
+ Prepared by                   Reviewed by                    ICR Review Coordinator            Group
+ Srilal Mohan Perera           Clay Wescott                   Malathi S. Jayawickrama           IEGEC (Unit 1)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+
+
+
+                                                                                                             Page 1 of 18
+      Independent Evaluation Group (IEG)                                           Implementation Completion Report (ICR) Review
+      MW-Fin Reporting and Oversight Improveme (P130878)
+
+
+
+   The Project Development Objective (PDO) was to improve internal controls, accounting, reporting and oversight of the
+   Government of Malawi’s (GOM) finances at the central and decentralized levels in its ministries, departments and agencies
+   (MDAs). (Project Appraisal Document [PAD], p.15).
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+   Yes
+
+   Did the Board approve the revised objectives/key associated outcome targets?
+   No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component 1: Accounting and Financial Management. (Appraisal: US$ 9.20m; Actual: US$5.88m)
+
+   This component aimed to streamline the accounting systems and financial management in the MDAs at the centralized and
+   decentralized levels by: (i) improving the overall accounting systems and the integrated financial management system
+   (IFMIS); (ii) improving payroll management for all public servants through business process re-engineering (BPR) by
+   expanding the payroll systems into the regions; and (iii) expanding coverage of accounts, audits and reporting through the
+   IFMIS at the district levels by establishing local area networks (LANs).
+
+   Component 2: Internal Audit. (Appraisal: US$2.80m; Actual: US$1.43m)
+
+   This component was to provide a risk-based audit approach to support the Central Internal Audit Unit (CIAU) and enable
+   the Auditor General to track government income and expenditures efficiently. The component included training of CIAU
+   staff to enhance capacity. It also supported the passage of an improved and enforceable legal framework and adoption of an
+   internal audit policy.
+
+   Component 3: External Audit. (Appraisal: US$ 4.70m; Actual: US$1.38m)
+
+   This component supported the enhancement and improvement of the operational capacity of the National Audit Office
+   (NAO) through the revision and updating of all audit manuals and procedures. It also targeted strengthening the
+   independence of the NAO by bringing its independent audit standards in conformity with the International Standards for
+   Supreme Audit Institutions (ISSAI).
+
+   Component 4: Public Finance and Economic Management Reform Program (PFEMRP). (Appraisal: US$1.60m; Actual:
+   US$2.21m)
+
+
+
+
+                                                                                                                   Page 2 of 18
+                         Independent Evaluation Group (IEG)                                            Implementation Completion Report (ICR) Review
+                         MW-Fin Reporting and Oversight Improveme (P130878)
+
+
+
+                       This component supported all the activities under the above components, including the procurement of hard-ware and soft-
+                       ware.
+
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+                       Project Cost: (Appraisal: US$ 19.00m; Actual: US$ 10,90m). The IFMIS was not procured and some project activities were
+                       not accomplished—the main reason for the difference between the appraised and actual cost. The project was financed
+                       entirely through a multi-donor trust fund (MDTF) which was jointly funded by the UK Department for International
+                       Development (DFID), European Union (EU), Ireland (Irish Aid), Norway, and the German Agency for International
+                       Cooperation and Development. IDA did not contribute financing for the project, but administered it.
+
+                       Borrower Contribution: None at project closing.
+
+                       Dates: The Board approved the project on March 7, 2013. It closed on April 30, 2018 after a 22-month extension. The
+                       extension enabled some changes to project activities and introduced intermediate results indicators and revised the PDO level
+                       results indicators (baselines and targets).
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+
+The project objectives aligned with the World Bank’s and GOM’s general objective stated in Theme 3 of the World Bank’s
+Country Partnership Strategy 2013 -2016: “Mainstreaming Governance for Enhanced Development Effectiveness” (the
+most current Country Partnership Strategy (CPS) for Malawi). The project supported three areas of the government’s
+PFEMRP, which aimed to improve GOM’s macro-fiscal management, accountability and transparency in public financial
+management (PFM) and public oversight. The “cash-gate” scandal that involved the misappropriation of approximately
+US$32 million in government funds, in April and September 2013, required the granting of an extension for the project in
+May 2016. While the project objectives were not changed, the scandal necessitated the introduction of intermediate results
+indicators and revisions to the PDO level results indicators, and, most importantly, forced a refocus on activities to remedy
+long standing PFM problems (ICR, Para 2, p.5).
+
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+Substantial
+
+
+
+
+                                                                                                                                       Page 3 of 18
+                   Independent Evaluation Group (IEG)                                              Implementation Completion Report (ICR) Review
+                   MW-Fin Reporting and Oversight Improveme (P130878)
+
+
+
+  4. Achievement of Objectives (Efficacy)
+
+
+EFFICACY_TBL
+
+
+
+
+               OBJECTIVE 1
+               Objective
+               To improve the internal controls and accounting within the MDAs both at the central and decentralized levels of government.
+
+               Rationale
+               GOM needed to enhance the operation and implementation of the PFEM system at all levels (PAD, p.12-13) for improved
+               internal controls for producing timely audits and reporting. This required a new and automated IFMIS that would more
+               efficiently capture government revenue and expenditures, improve electronic public payment systems, and improve public
+               accounting standards at the centralized and decentralized levels. Moreover, interfacing the overall systems improvements with
+               the Central Bank of Malawi to improve accounting of government finances, was required to ensure overall checks and
+               accountability of PFEM in a transparent way. In addition, the activities also contemplated the installation of a disaster recovery
+               system and a budget module. These elements were all lacking or lagging prior to the project.
+
+               The project targeted four areas to achieve Objective 1: (a) purchasing a new IFMIS to improve overall accounting and financial
+               management within MDAs, its automation to capture government revenue and expenditures efficiently and providing staff
+               training on the new system; (b) improving payroll management by IFMIS business process re-engineering, improving audit
+               coverage of payroll, developing payroll interface within the districts and purchase of hardware for payroll decentralization,
+               including creation of a disaster recovery system and budget module; (c) interfacing the new IFMIS system with the
+               decentralized or district level systems by establishing LANs at the district levels; and (d) improving Information and
+               Communications Technology (ICT) equipment, and providing vehicles to support the automation of audit operations, including
+               installation in the NAO of Audit Management Software (AMS) and Central Audit Assessment Technology (CAAT).
+
+               Outcomes
+
+               1. Improved Accounting and Financial Controls (PI-25).
+
+               Procuring and applying a new IFMIS was critical to better accounting and financial management control , since the existing
+               EPICOR system based IFMIS was outdated and inefficient. At project closing, the new IFMIS had still not been installed,
+               although GOM agreed that they would purchase it with its own resources. Nevertheless, in its absence, the project proceeded to
+               enhance the existing EPICOR system with new hardware and software. Interfaces between the enhanced EPICOR system and
+               other major PFM systems including HRMIS and local authority systems were established, thereby upgrading internal controls
+               and transparency. There was, however, incongruence between the enhanced EPICOR system and the software systems used by
+               the Central Bank. As a result, bank reconciliations, public accounts and consolidation of reports could not be done
+               automatically, and information could be transmitted only manually (ICR p.13-14). Public accountants both at the central and
+               district levels had been trained in International Public Sector Accounting Standards (IPSAS) and were able to produce timely,
+
+                                                                                                                                    Page 4 of 18
+    Independent Evaluation Group (IEG)                                              Implementation Completion Report (ICR) Review
+    MW-Fin Reporting and Oversight Improveme (P130878)
+
+
+
+
+reconciled financial statements in MDAs following IPSAS standards. Therefore, the GOM has been able to reconcile its public
+accounts and is now on course to be current on financial statements (ICR p.47-48). The presence of two EPICOR consultants
+ensured the proper application of the enhanced system, thereby optimizing new security controls with tighter access control
+methods. The system restricted user rights by eliminating “super” users. The introduction of an audit trail system that captures
+all the changes made within the system was successfully implemented and was operating. However, the tracking of non-salary
+expenditures by creating the fixed asset register (to enable oversight over fixed public assets) remained unaccomplished, as was
+the implementation of the budget module, despite availability of funds (ICR, p.13-14).
+
+The enhanced EPICOR system was rolled out successfully to the districts and councils, including installation of LANS.
+Training was provided for Management Information Systems Officers (MISOs), This has enabled individual Councils at the
+District level to produce financial statements for preparation of audits. However, the interfaces are still not optimal and further
+work needs to be done. Principally, the interface between the enhanced EPICOR system at the central and decentralized levels
+lacked harmonization with the Chart of Accounts (COA) and remained a serious problem for the efficient, reliable and accurate
+preparation of financial statements (ICR, p.28).
+
+The baseline 2011 PEFA rating for effectiveness of internal controls for non-salary expenditure (PI-20, after 2016, PI-25) was
+C+. The revised target to measure this area from the 2016 PEFA framework was a B rating. The indicators for PI-25 measure
+somewhat different factors than in the 2011 PEFA framework, so ratings cannot be compared without adjustment, and thus the
+baseline is unknown. The actual achievement for PI-25 was a C rating (ICR, p.62).
+
+2. Improved Payroll Controls/Management (PI-23.4).
+
+Significant improvements were made to the public payroll system; payroll processing times and frequency of errors were
+reduced drastically, and county-level payroll hubs were installed in six counties. As a result, the payroll system was
+decentralized effectively allowing public servants to visit the closest hub each month; enter the payroll information and be paid
+without any delays. Teachers, who make-up over half of the public servants, had previously had payroll delays averaging one to
+two weeks. These delays have all but been eliminated. The NAO and the Auditor General were able to successfully use the
+improved system of interfacing the enhanced EPICOR system with HRMIS. As a result, data on all public servants on the
+government payroll was corroborated effectively, revealing that there were 17,669 ghost workers in public service. The problem
+was immediately remedied, and accountability and transparency established. However, the disaster recovery center was never
+established (ICR, p.14)
+
+The Baseline (2011) PEFA rating at the inception for effectiveness of payroll controls (PI-18, after 2016, PI-23.4) was (C+)
+with a target of B+. Payroll audit was only one of four dimensions comprising the earlier PI-18 rating, and the ICR does not
+report what the baseline rating was for that dimension. Further, the rating criteria have changed between the 2011 and 2016
+payroll audit dimension, so the scores could not be directly compared. The actual result for PI-23.4 for 2018 was a B rating
+(ICR, p.62).
+
+3. Improved internal audit (PI-26). The introduction of risk based internal audits has modernized the internal audit process,
+which now conforms with the International Standards for Supreme Audit Institutions (ISSAI) requirements (ICR, p.15). This
+
+
+                                                                                                                     Page 5 of 18
+    Independent Evaluation Group (IEG)                                               Implementation Completion Report (ICR) Review
+    MW-Fin Reporting and Oversight Improveme (P130878)
+
+
+
+
+has enabled the CIAU to identify the greatest potential for impact during audits. Training of internal auditors has improved the
+knowledge of audit coverage across MDAs and systems. The capacity of internal audit staff to execute specialized audits,
+including information technology (IT) audits and risk-based audits had improved significantly. The improvement of skills of
+internal auditors was supplemented by the updating, development and adoption of Audit Manuals (ICR p.59-60). While
+substantial improvements were made in the above areas, the roll-out of the continuous auditing soft-ware of the enhanced
+EPICOR system was only partially completed. The CIAU was unable to establish a training lab to convert all the formal
+training knowledge into practice (ICR p.15).
+
+Although the CIAU had laid the foundation for the adoption of ERM (Enterprise Risk Management) and emphasized the
+benefits of its application within the MDAs, at closing, the ERM system had still not been implemented. The guidelines for
+implementing ERM were not developed. This inhibited Managements of MDAs ability to understand potential risks, prevent
+future fraud and to respond effectively to audit issues. In addition, a majority of internal audit recommendations made by CIAU
+to Managements of MDAs were not implemented or were received with marginal interest (ICR p.15).
+
+The baseline 2011 PEFA rating for effectiveness of internal audit (PI-21 after 2016 PI-26) was D. The revised target from the
+2016 PEFA framework was a C rating for PI-26. The updated indicator measures somewhat different factors than PI-21 in the
+2011 PEFA framework, so ratings cannot be compared without adjustment, and thus the comparable baseline is unknown. The
+actual achievement for PI-26 was a D+ rating.
+
+Overall, under Objective 1, some gains were made through the activities in improved payroll management and financial
+statements at the centralized and decentralized level. However, the deficiency in procuring and applying a new IFMIS system
+affected optimal operations and application of controls. Many of the activities to achieve this objective such as those targeted for
+internal controls for non-salary expenditures (PI-25) remained unaccomplished. Except for some activities under PI-23.4, the
+revised PEFA targets of 2016 were not achieved. Efficacy of this overall objective is rated modest.
+
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 2
+Objective
+Improve oversight and reporting of Government finances within the MDAs both at the central and decentralized levels of
+government.
+
+Rationale
+Prior to the implementation of the project, there was a serious backlog of external audit reports of MDAs undertaken by the
+NAO staff. Parliament was reviewing four to five-year-old NAO audit reports. The need to upgrade the audit reporting in a
+timely, accurate and reliable manner that would enable Parliament to make decisions on public financing was a serious concern.
+
+
+                                                                                                                      Page 6 of 18
+    Independent Evaluation Group (IEG)                                             Implementation Completion Report (ICR) Review
+    MW-Fin Reporting and Oversight Improveme (P130878)
+
+
+
+
+It highlighted the need for software updates and automation of external audit functions, including the need for upgraded
+training of external audit staff. These concerns were recognized at appraisal and this project supplemented other projects both
+by the World Bank and external donors to cure these deficiencies. In addition, legislation and the adoption of an audit policy
+framework was required to ensure the independence of audit institutions and, more particularly, of the Auditor General. While
+there existed internal audit regulations and policies in the Internal Audit Charter, the Charter itself was not enforceable or
+legally binding (ICR, p.15).
+
+The activities focused on achieving the following : (a) preparing the Public Audit Amendment Act and the Bill on public audit
+policy for approval in Parliament; (b) providing training of Public Accounts Committee (PAC) members (in Parliament)
+and specialized audit training for external audit staff of the NAO that included IT audits and performance of forensic audits to
+enable follow-up oversight; and (c) upgrading audit reporting.
+
+Outcome
+
+
+1. Adoption of Legal and Policy Framework (PI-30): The Public Audit Amendment Act and the Audit Policy Bill had been
+drafted and has been approved by Parliament. The Act and the Bill, however, awaits implementation [ICR, p.48].
+
+The baseline 2011 PEFA rating for External Audit (PI-28, revised in 2016 as PI-30) was D+. The revised target from the 2016
+PEFA framework was a C rating for PI-30. This indicator measures somewhat different factors than PI-26 in the 2011 PEFA
+framework, so ratings cannot be compared without adjustment, and thus the comparable baseline is unknown. However, the
+PEFA actual rating has been recorded as C+ and exceeded the target by half a point.
+
+2. Audit Training and scrutiny (PI-30): Audit training, particularly of PAC members, with enhanced capabilities to scrutinize
+the Auditor General’s reports and final audit reports, enabled the effective discussion of current audit issues and timely follow-
+up (ICR, Para 38, p.15). The specialized audit training for audit staff and the updated automation systems helped in
+significantly reducing the delays in producing audit reports from 48 months to 3 months (ICR Para 33, p.14). Due to the
+reduction of external audit report backlogs at the national level, Parliament is now able to make funding decisions based on more
+recent information. However, performance of one of the key aspects of this component, which was the oversight responsibility of
+the NAO, stalled for more than a year due to the delay in appointing an Auditor General, which was a pre-condition for
+disbursement under the project (ICR, Para.20, p.12). Also, as seen below, the quality of the reports was still sub-par and were at
+times incomplete.
+
+The 2011 baseline for scope, nature and follow-up for external audit (PI-26, after 2016 PI-30) was D+. The revised target in
+2016 was C. The actual achievement for PI-30 was a C+ rating. This exceeded the target by half a point.
+
+3. Improved Quality and Reporting of Financial Statements (PI-29): The introduction of updated ICT, AMS and CAAT has
+resulted in reducing to a great extent the backlog of audit reports. It has enabled the NAO to carry out comprehensive and more
+accurate audits of MDAs including audits of reports prepared under the enhanced EPICOR and HRMIS. The quality of
+financial reporting still needs improvement and some bank reconciliation reports were still incomplete (ICR, p.14-15). It was
+
+
+                                                                                                                    Page 7 of 18
+                          Independent Evaluation Group (IEG)                                             Implementation Completion Report (ICR) Review
+                          MW-Fin Reporting and Oversight Improveme (P130878)
+
+
+
+
+                      recognized that more hardware and personnel may be required to enable the gains achieved to be sustained. The ICR also
+                      noted that the roll-out of the enhanced EPICOR based IFMIS continuous auditing software was only partially implemented
+                      (ICR, p.14) The activities undertaken here were severely hampered by the incurring of an ineligible expense of US$519,142.32
+                      to obtain refurbished computers when the expense required the procurement of new ones (ICR, p. 21). Upon discovery by the
+                      World Bank, further disbursements to the project were frozen until the entire amount was reimbursed to the World Bank by the
+                      GOM. The reimbursement was only made in 2017.
+
+                      With regard to improved quality of reporting of financial statements (Pl-25, after 2016, PI-29)) the 2011 PEFA baseline was C+
+                      with a target of B. In 2016, the Bank lowered the baseline target to C. The PEFA actual achievement was a D+ rating for PI-29,
+                      well below the baseline target of C set by the World Bank.
+
+                      Substantial achievements were made under this objective in the areas of adoption of the audit policy and the Act, and the ability
+                      of PAC members to review more current audit reports. However, the Act and the audit policy still remained to be implemented.
+                      In addition, while more current audit reports for review by PAC were made available, their quality required improvement, with
+                      additional soft-ware also required to enhance the quality of reporting (ICR, para 25, p.13). The overall efficacy rating for this
+                      objective, is therefore, modest.
+
+
+
+
+                      Rating
+                      Modest
+
+
+
+OVERALL EFF TBL OLD
+
+
+
+
+Rationale
+Efficacy of Objective 1 was modest. Under Objective 2, despite substantial achievements in the adoption of the Act and the audit
+policy, they still remained to be implemented. External audit functions and capabilities of MDAs and PAC also improved
+substantially, as seen above (PI-30), However, financial reporting (PI-29) still required improvements. Achievements, under
+Objective 2, in the aggregate, were, therefore, modest. Therefore, overall efficacy in achieving the Objectives was modest (ICR, para
+25, p.13).
+
+
+
+
+Overall Efficacy Rating                                                               Primary reason
+Modest                                                                                Low achievement
+
+
+      5. Efficiency
+Economic and financial analysis was not prepared ex ante or ex post. The PAD did not provide a cost benefit analysis due to the
+difficulty of quantifying the value of the reforms. The ICR explains that the nature of the activities under the project does not lend
+
+
+                                                                                                                                         Page 8 of 18
+       Independent Evaluation Group (IEG)                                               Implementation Completion Report (ICR) Review
+       MW-Fin Reporting and Oversight Improveme (P130878)
+
+
+
+itself to standard economic and/or financial analyses to determine value for money (ICR, Para 42, p.16). Instead, the efficiency
+assessment of the project is predicated on a combination of a qualitative assessment and a description of the project’s implementing
+efficiency such as, delays, underspending/overspending, degree of achievement of objectives and operating costs. An inhibiting
+issue in this assessment is a lack of data in the ICR. The key project factors for assessing overall efficiency are as follows:
+
+• Management of Resources: of the allocated US$19 million project, only 57percent of the allocation had been disbursed at
+closing, pointing to an overall inefficiency in managing allocated project funds despite the project term being extended by 22
+months. Except for activities under Component 4, for which there was a 138 percent increase from the allocated amount, the
+disbursements for the rest of the components were below what was anticipated, ranging between 29 percent and 64 percent. Many
+of the activities were either partially or not completed at all (ICR, Paras 43-44 pgs. 16,17).
+
+• Non-Adjustment of Costs: The ICR states that one of the key reasons for the project’s failure to achieve its objectives was
+because of the non-allocation of project funds rationally and in a timely manner. It was known to the various implementation units
+of PFEM that the procurement of a new IFMIS system would result in a concurrent and corresponding reduction of the costs
+allocated for each of the components. However, the implementing units were not informed by PFEM about the need for cost
+reductions and, therefore, many activities contemplated for the units were delayed or not implemented, unsure of whether funds
+were going to be available to complete the activities. As it was, at closing, funds were available for activities under the components
+but were never spent. This resulted in overall poor management of resources (ICR, Para 45, p.17).
+
+• Partial Gains from improved PFM through IT: The current IFMIS structure based on EPICOR has been upgraded and IT
+upgraded with better internal controls. With the utilization of the enhanced EPICOR system the backlog of financial statements
+has been vastly reduced (ICR, pgs.14-15). The ICR notes, however, that the quality of financial reporting still needs improvement
+since they are often incomplete and lack accurate reconciliation (ICR p.14-15). There is improved transparency and timeliness of
+financial reporting. Improved payroll functions were instituted both at the centralized and decentralized levels, reflecting efficient
+use of allocated funds for some discrete activities (ICR Para 31, p.14). However, the interface between national, district, and
+HRMIS is not fully functional and other modules such as the public asset registry and budget were not implemented. Thus, there
+was no optimization in the use of project funds to fully achieve the anticipated objectives (ICR, Para 47, p.17).
+
+• Gains in Capacity Building: The capabilities of the CIAU and the NAO have significantly improved by enhancing human and
+technology capacity by enhancing the EPICOR system in the absence of procuring a new IFMIS system and providing training.
+The project provided for appropriate training and additional technology, Both, hardware and software were provided. (ICR,
+p.14). It is reported in the ICR, however, that many of these gains may not be sustained over time for lack of programs for
+continuous training and technology maintenance pointing to the ad hoc nature of activities that did not secure the long-term
+efficiency of systems and personnel (ICR, Para 41, p. 16). Critically, the non-procurement of a new IFMIS, thereby creating a
+dependence on a failing and unreliable EPICOR system, have already begun to undermine any gains made in the project (ICR,
+
+p.25-26). The inefficiency with which the entire process of procuring a new IFMIS was carried out pointed to poor oversight and
+management of a key component of the entire project.
+
+• Conformity with legal, security and policy framework: The NAO’s work was greatly enhanced by the adoption of legislation and
+a security framework that provided for greater independence of the Auditor General. This activity had the result of, at least, laying
+
+                                                                                                                         Page 9 of 18
+       Independent Evaluation Group (IEG)                                              Implementation Completion Report (ICR) Review
+       MW-Fin Reporting and Oversight Improveme (P130878)
+
+
+
+the groundwork for strengthening the effectiveness of internal auditing and improving reporting for scrutiny by related
+stakeholders. The project also facilitated the revival of the then dormant audit committees (ICR, p.15). But the internal audit bill
+and policy and the Public Audit Amendment Act were yet to be implemented at closing. The impact of the Act and the Audit Bill
+not being implemented has the effect of the high risk of continuous exposure of MDAs to fraud, misappropriation of public funds
+and absence of accountability, because of the lack of enforceability.
+
+• Delays in Project Implementation: The delays in taking account of the “cash- gate” scandal and taking the necessary measures to
+immediately address the adverse effects, the delays incurred in procuring a new-IFMIS system and the unauthorized procurement
+of hard-ware, all had the impact on the efficient implementation of the project (ICR, Para 47, p.17).
+
+
+
+Efficiency Rating
+Modest
+
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal and the re-
+   estimated value at evaluation:
+                                     Rate Available?                 Point value (%)               *Coverage/Scope (%)
+                                                                                                   0
+ Appraisal                                                            0
+                                                                                                    Not Applicable
+                                                                                                   0
+ ICR Estimate                                                         0
+                                                                                                    Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+
+6. Outcome
+
+Relevance of the overall PDO is substantial. The objective was well aligned with both the Government and the World Bank
+strategies for the duration of the project. The main objective was aligned with Theme 3: Mainstreaming Governance for enhanced
+Development Effectiveness, of the World Bank’s CPS for 2013-2016. The PDOs directly supported the Government’s PFRMRP
+three-year plan by targeting areas such as GOM Accounting and IFMIS; Local Government and Financial management; GOM
+payroll management; external auditing and PFEM management (ICR, p.12-13). Activities under the four components sought to
+improve MDAs human resource capacity and capabilities through rigorous training programs and introduction of new hardware
+and software (ICR p.19).
+
+Efficacy of the first objective was modest, principally because of the non-acquisition of a new IFMIS. While the second objective
+achieved substantial gains in the legal and policy framework, training in audit scrutiny and follow-up, their impact was significantly
+reduced by the non-implementation of the Act and the audit policy as well as the sub-par quality of the audit reports. As observed
+
+
+                                                                                                                       Page 10 of 18
+       Independent Evaluation Group (IEG)                                              Implementation Completion Report (ICR) Review
+       MW-Fin Reporting and Oversight Improveme (P130878)
+
+
+
+above, while there was limited success in some areas, many activities that supported the achievement of Objective 2 remained
+incomplete or not implemented. Significant delays in procuring a new IFMIS system (including litigation in courts), the delays
+caused by the occurrence of cash-gate and procurement of unauthorized hardware, all undermined the efficacy of the activities and
+adversely affected outcomes.
+
+Efficiency was modest for the reasons set-forth in the Efficiency section above.
+
+Substantial relevance, modest efficacy and modest efficiency leads to a moderately unsatisfactory outcome.
+
+
+a. Outcome Rating
+   Moderately Unsatisfactory
+
+
+
+7. Risk to Development Outcome
+
+There are many discernible risks to development outcomes, including the risks of sustainability, political commitment and
+technology failure.
+
+The Government has shown commitment to continue with the current improvements by strengthening the role of audit under
+the project by enactment of the Public Audit Amendment Act. Any delays in implementation and enforcement of this
+legislation will expose the PFM system to fraud and continued misuse of public funds. (ICR p.25)
+
+The Government has been cooperating with the World Bank and other development partners to implement projects that
+would allow it to complete the non-IFMIS related tasks that remained to be accomplished under this project. For example, the
+Government is pursuing effective decentralizing of payroll processing in collaboration with the World Bank-supported project
+entitled “Malawi Governance to Enable Service Delivery” that will support continued service delivery in many of the areas
+that were completed under the project. The Government has committed to and agreed with the World Bank to procure a new
+IFMIS system. However, continuance, enhancement and sustenance, particularly of hardware and software applications by
+acquiring the new IFMIS system without delay and strengthening of human resources through additional staff in MDAs and
+continuous training programs for them, need to be acted on by GOM at the risk of eroding the overall modest gains achieved
+under the project.(ICR pgs.25-26). It is noted here that the GOM requested another extension to continue with the
+implementation of the project. But the Bank declined to grant the extension due to reputational risks associated with project,
+principally after the occurrence of “cash-gate”, legal issues related to the procurement of the new IFMIS system and
+unauthorized procurement activities. Further, the government’s total commitment to reform is lacking, particularly noting its
+lukewarm reception to accept and implement the internal audit recommendations (ICR, p.20).
+
+Critically, there needs to be a complete phase-in of a new IFMIS system that the GOM has agreed to procure. The problems
+associated with interface, coordination and consistency, particularly with the COA, which were encountered, need to be
+addressed to ensure that error free accounting reports are produced and continuity over time of these activities, is maintained.
+
+                                                                                                                       Page 11 of 18
+      Independent Evaluation Group (IEG)                                              Implementation Completion Report (ICR) Review
+      MW-Fin Reporting and Oversight Improveme (P130878)
+
+
+
+Continued reliance on the EPICOR system can only lead to the very high risk of technology failures and to the many related
+issues identified (ICR, pgs. 25-26).
+
+While a significant decrease in backlog of financial reports has been observed, serious doubts have been raised whether without
+increased capacity, capability and efficiency of audit staff, maintaining accuracy of auditing and financial reports will be
+possible over time. Consequently, the need for continuous training and placement of additional trained audit staff in MDAs
+has to be emphasized (ICR pgs. 25-26).
+
+Overall, the risk to development outcome is substantial.
+
+
+
+
+8. Assessment of Bank Performance
+
+a.Quality-at-Entry
+   The World Bank provided adequate human and financial resources to ensure quality and preparation and appraisal.
+   Remaining issues from preceding projects, together with PFEMRP that needed to be supported were taken cognizance of
+   in the design and scope of the project. The World Bank established a close working relationship with the borrower during
+   preparation and appraisal of the project (ICR, Para 76, p.24).
+
+   The Ministry of Finance (MOF) and Malawi’s development partners, including the World Bank, agreed that there was a
+   critical need for a new phase of reforms focused on implementation of new rules and regulations, tighter internal controls
+   and attention to the benefits and advantages that would be gained through a comprehensive PFM system reform.
+   Principally, these reforms required new technology, and institutional and human resource capacity building and all these
+   factors were considered in designing the project. All these elements were taken into account in designing the project (ICR,
+   Paras 1-7).
+
+   The PAD also provided appropriate warnings that the risks to implementation were high or substantial at various levels,
+   such as, the country level, implementation entities level, project level, budgeting and accounts and overall FM levels,
+   among others (PAD, pgs. 43,44,45).
+
+   The PAD did not have intermediate results indicators until the project restructuring in May, 2016, almost 3 years after the
+   project began when they were introduced. Although intermediate indicators were not required, given the high risks
+   involved, it would have been prudent to introduce them during preparation.
+
+   In addition, the design placed reliance on PEFA scores to adjudge results indicators. This impacted the quality of M&E. It
+   was a deficiency in light also of the high or substantial risks identified in the PAD for the project (PAD, Para 9 p.43-45).
+   The PEFA scores had last been used only in 2011 and were not reliable indicators.
+
+
+
+
+                                                                                                                      Page 12 of 18
+      Independent Evaluation Group (IEG)                                            Implementation Completion Report (ICR) Review
+      MW-Fin Reporting and Oversight Improveme (P130878)
+
+
+
+
+  Quality-at-Entry Rating
+  Moderately Unsatisfactory
+
+
+b. Quality of supervision
+ The World Bank team conducted routine missions and submission of reports was generally timely. The ICR states that the
+ Bank team remained engaged with the implementation units through regular missions particularly during the early part of the
+ project. However, the ICR observes that the project team failed to increase their procurement support even after the
+ unauthorized procurement of computers came to light and the serious issues that were confronted in procuring the new
+ IFMIS system were reported (ICR, p.24).
+
+ The implementation problems resulting in the non-procurement of the IFMIS system, was somewhat assuaged by the
+ constant and consistent presence of two external consultants in the field to advise and manage the upgraded EPICOR system
+ and help in supervision of internal and external audit activities. However, the ICR states that the World Bank’s
+ responsibilities were more focused on providing funds for procuring items for training but that there was the absence of a
+ TTL in the field to provide hands-on implementation support for operations in a low-capacity environment (ICR, pgs. 24-25)
+
+ The ICR’s conclusions that the World Bank did not utilize the project implementation measuring tools in the
+ Implementation Status and Results (ISR) Reports (a total of 9) to realistically gauge performance, can be concurred with
+ (ICR, p.25). ISRs reporting that implementation was moderately satisfactory in several instances, is troublesome (ICR, p.3).
+ In hindsight, the World Bank supervision missions did not have the benefit of the intermediate results and revised PDO
+ results indicators until 2016 when they were first introduced. This points to a design flaw, which undermined supervision.
+
+
+ Finally, the World Bank Team did not make timely use of the opportunity to restructure and strengthen the Results
+ Framework or the new IFMIS procurement despite the occurrence of “cash-gate” barely one month after the project’s
+ approval. The present and fourth TTL for the project was appointed only in 2017. These factors had a negative impact on
+ consistent and constant supervision over the project’s implementation.
+
+
+
+
+  Quality of Supervision Rating
+   Unsatisfactory
+
+  Overall Bank Performance Rating
+   Moderately Unsatisfactory
+
+
+
+
+                                                                                                                   Page 13 of 18
+      Independent Evaluation Group (IEG)                                              Implementation Completion Report (ICR) Review
+      MW-Fin Reporting and Oversight Improveme (P130878)
+
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ From the very inception, the design for effective M&E of the project was flawed. Three key and inter-related reasons can be
+ cited for this. First, the M&E system for application was based on PEFA methodologies and baselines were adopted based on
+ the 2011 PEFA framework. Since then, no PEFA assessments had been made to guide M&E for the project when it was
+ approved. It is indicated in the ICR that the PFEM unit also lacked manpower to agree on a current and effective PEFA
+ methodology for the project. Second, because of a dependence on a possible outdated PEFA methodology, it was not suitable
+ for gauging any qualitative advances made in the project, particularly in assessing whether PDOs could be achieved. In fact,
+ startlingly, the six intermediate results indicators and revisions to PDOs, were introduced after the project’s restructuring
+ close to three years after implementation began and no justifications were provided on how they were linked to the PDOs.
+ Nor were there indications as to how they were to be applied retroactively to those activities already accomplished or to
+ future activities. Third, the original target values of indicators set by increasing scores by one full or half grade were
+ achievable but should have been revised soon after “cash-gate”. This event exposed the fact that some of the higher-grade
+ baseline indicators had to be lowered to strive for reasonable and achievable results and lower expectations (ICR, p.62). This
+ was not done in a timely manner.
+
+ The “cash-gate” scandal was precisely this type of misappropriation that the project was designed to prevent and made
+ starkly clear about the viability and importance of the project. While the incident did not require the project objectives to be
+ changed, it necessitated the addition of tighter controls and better oversight. Revised intermediate results indicators were
+ introduced such as effectiveness of payroll controls, internal controls on non-salary expenditures, while new indicators such
+ as audit coverage standards, payroll audits and submission of reports for external audits were introduced. (ICR, Table 1, p.
+ 11). Unfortunately, these changes were introduced just one month before the original date for closing of the project (June 30,
+ 2016). Sparse reasons were provided in the ICR regarding why it took such a long time after the scandal to introduce the
+ required revisions. The project, however, was extended by 22 months until April 30, 2018.
+
+
+
+b. M&E Implementation
+  Many of the ISRs concluded that progress was “moderately satisfactory” even as the project was stalled often, and
+  implementation of activities began to lag (ICR p.22 and 23). New results indicators were introduced at restructuring,
+  following the revised, PEFA 2016 framework. Indicators from the new framework were not directly comparable with those
+  from the previous 2011 framework, without adjustment and were not detailed enough to monitor progress of
+  implementation (ICR p.23).
+
+
+
+c. M&E Utilization
+  There was inconsistent reporting of ratings in ISRs, particularly due to the lack of intermediate results indicators from the
+  inception. There was lack of any effective and reliable revisions to the results framework, and dependence on assessment
+
+                                                                                                                      Page 14 of 18
+      Independent Evaluation Group (IEG)                                          Implementation Completion Report (ICR) Review
+      MW-Fin Reporting and Oversight Improveme (P130878)
+
+
+
+  based on PEFA methodologies last used in 2011. All these shortcomings undermined severely the proper utilization of
+  M&E methodologies or tools for evaluating progress under the project.
+
+
+
+
+  M&E Quality Rating
+  Negligible
+
+10. Other Issues
+
+a. Safeguards
+   The project did not trigger social and environmental safeguards. The project was an environmental assessment Category “C”
+   TA project.
+
+
+
+
+b. Fiduciary Compliance
+   The entire project was funded by trust fund proceeds and administered by the World Bank. Quarterly interim financial
+   reports (IFRs) and annual audited financial statements were submitted to the World Bank in a timely manner. Procurement
+   procedures were conformed with until the second year, when the unauthorized substandard/refurbished computers were
+   procured. The total amount spent for the unauthorized acquisitions was reimbursed to the Bank.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+    ---
+
+d. Other
+   The Project did not have a gender component.
+
+
+
+
+11. Ratings
+                                                                                         Reason for
+Ratings                            ICR                       IEG
+                                                                                         Disagreements/Comment
+                                   Moderately
+Outcome                                                     Moderately Unsatisfactory
+                                   Unsatisfactory
+
+                                                                                                                Page 15 of 18
+      Independent Evaluation Group (IEG)                                                Implementation Completion Report (ICR) Review
+      MW-Fin Reporting and Oversight Improveme (P130878)
+
+
+
+                                                                                                There is sufficent evidence of positive
+                                                                                                factors both at Quality at Entry (ICR,
+                                                                                                Para 76,pg.24) and Quality of
+ Bank Performance                      Unsatisfactory            Moderately Unsatisfactory
+                                                                                                Supervision (ICR, Para 77,pg.24) to
+                                                                                                merit a higher rating of Moderately
+                                                                                                Unsatisfactory.
+ Quality of M&E                        Negligible                Negligible
+
+ Quality of ICR                        ---                       Modest
+
+
+12. Lessons
+
+ This review concurs with the ICR’s enumerated lessons and adds to them:
+
+       • M&E should be a critical aspect of methodically evaluating a complex project. An implementing unit should
+           continuously review progress and explain to both internal and external stakeholders how the declared
+           interventions are contributing to positive change. The design, at the very inception, of a dependable,
+           realistic and comprehensive results framework, especially suited to the project, with intermediate results
+           indicators, is a sine qua non for any complex project.
+       •   Where the procurement of an IT system (new IFMIS) is the foundation for the project and implementation
+           of many of the key activities are under it, every effort and focus must be made to prioritize its timely
+           procurement and operation. The inability and failure to timely procure a new IFMIS was a core reason for
+           the project’s lack of success.
+       •   Where procurement and associated training are important factors in the project and involves the
+           introduction of complex information systems and their application, highly experienced technical
+           assistance/support and expertise is always essential. The presence of expertise in design, training,
+           procurement, monitoring of implementation at all stages of implementation and including introduction of
+           disaster retrieval systems, is necessary from the inception to the close of a project especially dedicated to
+           financial reporting and oversight improvement.
+       •   Exogenous risks (such as “cash-gate”), as well as other unanticipated events, require quick mitigating
+           responses. The changes and remedies to be introduced and how they impact on the implementation units
+           must be effectively and quickly communicated to all implementing units. Further, when such exogenous
+           events do occur and clearly impact the project, it may be best to discontinue the project rather than extend it,
+           since the Bank runs a reputational risk to continue to support a project that was precisely designed to prevent
+           the occurrence of this type of event.
+       •   In complex projects, the presence of a TTL on the ground is necessary to oversee critical activities,
+           communicate with stakeholders and suggest restructuring where necessary both for preventive and proactive
+           responses.
+
+
+
+                                                                                                                        Page 16 of 18
+        Independent Evaluation Group (IEG)                                            Implementation Completion Report (ICR) Review
+        MW-Fin Reporting and Oversight Improveme (P130878)
+
+
+
+        • Where the project concerns transformation of MDAs accountability, transparency and ownership to ensure
+          good governance in the public finance sector, it is vitally important to secure the commitment of the GOM at
+          the highest levels to ensure that project activities are completed, that they are well aligned with the
+          Government’s policies and to ensure accounting, auditing and reporting are all in conformity with the
+          applicable laws and regulations.
+
+
+
+
+13. Assessment Recommended?
+
+   No
+
+
+14. Comments on Quality of ICR
+
+The ICR was overall comprehensive, exhaustive and captured most details that were relevant. The team’s effort to develop a
+results framework and the results chain in line with intermediate results indicators and revised PDO level results indicators mid-
+stream, was commendable. Conclusions and justifications for the ratings in the ICR were rational and plausible. The lessons
+learned from the project and iterated in the ICR were equally important and relevant.
+
+However, the ICR has shortcomings:
+
+      • The organization and presentation of information was difficult to follow. Details of evidentiary support for the various
+        conclusions had to be searched for throughout the report, including the GOM’s own ICR, and elsewhere, to provide a
+        more balanced assessment although the bottom-line ratings were justified. Confusing terms were used. For example, there
+        were references to a IFMIS when the more accurate reference should have been to the EPICOR system (ICR, Para.47,
+        p.17).
+      • There was also conflicting attribution in assessing the overall outcome rating. For example, the ICR concludes that the
+        biggest contributor to the underwhelming performance was the decision not to formally realign resources and reduce
+        activities and expectations to match the reprioritization for the new IFMIS (ICR, Para 48, p.17-18). But at many other
+        points in the ICR, the failure of the project was attributed to the delays caused and revisions required with the occurrence
+        of “cash-gate”; the lack of a proper M&E framework; the debacle in procuring and activating a new IFMIS system; and
+        other procurement issues.
+      • It was difficult to logically follow which activities under the discrete components aligned with which of the two
+        Objectives (or, PDOs, of which there were four). Nor was any effort made to identify and explain overlapping activities
+        that impacted on more than one PDO, although this may have been due to the very complicated “Theory of Change”
+        outlined to review progress of the project. For example, the adoption of a legal and policy framework and audit reporting
+        impacted on both Objectives (or PDOs 2,3 and 4 and to an extent PDO 1 as well). Nor was the theory of change
+        coherently explained, or the activities, out-puts, and their links to PDOs/Outcomes clearly described.
+
+
+
+                                                                                                                      Page 17 of 18
+   Independent Evaluation Group (IEG)                                           Implementation Completion Report (ICR) Review
+   MW-Fin Reporting and Oversight Improveme (P130878)
+
+
+
+  • The reasons for over-expenditure by 138 percent for activities under Component 4 were problematic. Nor were the
+    reasons why only 57% of the overall assigned budget was expended for activities under the components despite the
+    extension of 2 years for the project, properly explained. There was no analysis of expenses incurred as was required for
+    the efficiency analysis. The ICR’s conclusion that upon realization that additional expenses for procurement of a new
+    IFMIS, project resources had to be reallocated to implementing units and that it was never communicated, or done, is
+    difficult to understand. The ICR does not state, when, during the project’s implementation, this was realized and when,
+    and if, these increases or decreases in resources, and in what amounts, were ever communicated to the implementation
+    units. At the close of the project, the resources originally allocated for the 4 components remained the same and the new
+    IFMIS system had not been installed (ICR, Table 3, p.16).
+  • While the achievements for revised PDO targets based on the 2016 PEFA framework are presented (ICR, Annex 1), the
+    ICR did not use the 2011 PEFA ratings, the PDO revised targets and the PEFA actual ratings as shown in Annex 1 and
+    Annex 6 to assess performance under the project, as required under the PAD (PAD, p.15).
+
+
+
+a. Quality of ICR Rating
+   Modest
+
+
+
+
+                                                                                                               Page 18 of 18
+

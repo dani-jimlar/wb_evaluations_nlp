@@ -1,0 +1,1039 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     KE-Judicial Performance Improv SIL (FY13 (P105269)
+
+
+
+                                                                                  Report Number: ICRR0023035
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P105269                                   KE-Judicial Performance Improv SIL (FY13
+
+ Country                                   Practice Area(Lead)
+ Kenya                                     Governance
+
+
+ L/C/TF Number(s)                          Closing Date (Original)                 Total Project Cost (USD)
+ IDA-51810                                 31-Dec-2018                                          108,660,998.51
+
+ Bank Approval Date                        Closing Date (Actual)
+ 15-Nov-2012                               31-Oct-2021
+
+                                           IBRD/IDA (USD)                                       Grants (USD)
+
+ Original Commitment                          120,000,000.00                                                0.00
+
+ Revised Commitment                           117,768,527.21                                                0.00
+
+ Actual                                       108,660,998.51                                                0.00
+
+
+
+
+ Prepared by                Reviewed by                   ICR Review Coordinator          Group
+ Alma Pekmezovic            Judyth L. Twigg               Jennifer L. Keller              IEGEC (Unit 1)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The project’s development objectives were to improve the performance of the judiciary to provide its services
+   in the project areas in a more effective and accountable manner (ICR, p. 13). The outcome targets were
+   revised at restructurings in 2016 and 2018, both upward and downward. A split evaluation will not be
+   undertaken, as over 80 percent of funds were disbursed after the 2016 restructuring, and the 2018 targets
+   were exceeded.
+
+
+
+                                                                                                   Page 1 of 19
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     KE-Judicial Performance Improv SIL (FY13 (P105269)
+
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  31-Mar-2016
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project originally contained four components: (1) Court Administration and Case Management; (2);
+   Judiciary Training and Staff Development; (3) Court Infrastructure; and (4) Project Management.
+
+   The first project component comprised two subcomponents: 1. Court Administration and 2. Case
+   Management. The first subcomponent included an emphasis on strengthening court administration systems.
+   Key planned activities under this subcomponent included: an organizational review of the judiciary; the
+   development and implementation of the Integrated Performance Management and Accountability System
+   (IPMAS); support to Court User Committees (CUCs); and capacity building for the Judiciary’s Directorates.
+   The second subcomponent included the design, installation, and commissioning of information and
+   communication technology (ICT) hardware; the implementation of a Case Management Information System
+   that offers audio/visual recordings of court proceedings and electronic case tracking and management, and
+   an Integrated Justice Information Portal.
+
+   At the first restructuring (approved in March 2016), the first project component was substantially revised.
+   Several proposed activities were dropped, including activities relating to the Case Management Information
+   System and the planned Integrated Justice Information Portal, as well as information technology upgrades
+   such as video recording and videoconferencing. With regard to the latter, the Kenyan judiciary indicated it
+   was not ready to proceed with these activities. Additionally, capacity building activities for the Judiciary’s
+   Directorates were dropped.
+
+   The aim of the second project component originally was to strengthen the capacity of the Judiciary Training
+   Institute (JTI); provide structure for defining critical competencies of judicial officers; establish a Legal
+   Research Resource Center concerned with developing online training and legal information services for
+   judges, magistrates, and judiciary staff; and support capacity-building efforts for the legal personnel at the
+   Office of the Attorney General.
+
+   The third project component included the construction of eight High Court buildings, the refurbishment of
+   approximately 30 magistrates courts, the construction of two magistrates courts, and the supply of a
+   minimum of 20 demountable or temporary courts. As originally planned, the project area consisted of
+   approximately 68 courts where service improvements were to be made. Funding under this project
+   component was primarily directed to courts that were most likely to produce improvements in services and
+   improved access to courts. The project also supported the establishment of a unit responsible for design,
+   supervision, maintenance, and management of judicial buildings.
+
+
+                                                                                                    Page 2 of 19
+  Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+  KE-Judicial Performance Improv SIL (FY13 (P105269)
+
+
+
+The fourth project component was to facilitate project implementation. Planned activities included, among
+other things, supporting the function of the Project Management Unit; financing an Integrated Fiduciary
+Agent (IFA) responsible for the project’s fiduciary management and procurement functions; supporting
+monitoring and evaluation (M&E) and collection of data to facilitate impact evaluation; implementing
+environmental and social safeguard requirements; and developing and implementing the project’s
+information, education, and communication strategy.
+
+These project components (with the exception of the fourth component) were subsequently substantially
+revised following a 2015 mid-term review (MTR). Implementation of activities based on the initially proposed
+structure experienced significant challenges, and it was decided to shift away from focus on institutional
+inputs toward more priority on service delivery functions. As a result, the substantive project components
+were revised as follows at the 2016 restructuring:
+
+Table 1. Change in Component Names and Costs (US$, Millions)
+
+                                                                                Cost       Cost    Change
+ Component Name (Original)              Component Name (Revised)
+                                                                              (Original) (Revised)   (%)
+ Court Administration and Case   Increase Access to Courts and Legal
+                                                                         42.80               50.00      +16.8
+         Management                          Information
+  Judiciary Training and Staff
+                               Improve Timeliness of Judiciary Services 17.00                45.00     +164.7
+         Development
+                                 Enhance Performance and Quality of
+      Court Infrastructure                                               50.00               20.00      –60.0
+                                           Decision Making
+     Project Management                 Project Management              O10.20               5.00       –49.0
+                                Total                                   120.00              120.00       —
+
+The revised project components are discussed below:
+
+1. Increase Access to Courts and Legal Information (Appraised Cost US$ 42.80 million, Actual Cost:
+US$ 41.55 million). This component aimed at reducing geographical distance to courts, improving links to
+court users, and enhancing access to legal information. To improve access to courts, the project sought to
+improve court outreach to communities, with the planned addition of 25 newly constructed courts. The
+original target of 10 new courts was increased to 25, as a result of a re-classification of some court buildings
+from “upgraded” to “new” to reflect the scale of the work being constructed (new courts were defined as
+courts where more than 60% of the final floor space was newly constructed). Secondly, to improve access
+to legal information, the project aimed to increase the average number of unique monthly visitors of the
+Kenya Law Reports from 350,000 to 900,000, and improve the dissemination and publication of legal
+information and court decisions.
+
+2. Improve Timeliness of Judiciary Services (Appraised Cost: US$ 17.00 million, Actual Cost: US $
+51.00 million). The project was to support improvements to court infrastructure and management, as well
+as the modernization of the registry and filing processes in courts. To this end, the project aimed to
+standardize registry processes, and to introduce new records management policies and registry operation
+manuals. The project was also to support internet connectivity in all the courts that were constructed. It
+aimed at increasing efficiencies through the upgrading of court facilities and the provision of adequate
+furniture and equipment. Another aim was to increase the speed of case resolution through
+the implementation of court-annexed mediation, the holding of special sessions (justice@last) to clear old
+
+
+
+                                                                                                  Page 3 of 19
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    KE-Judicial Performance Improv SIL (FY13 (P105269)
+
+
+
+  cases over five years, active case management in criminal cases, and provision of adequate ICT
+  equipment.
+
+  3. Enhance Performance and Quality of Decision Making (Appraised Cost: US$ 50.00 million. Actual
+  Cost: US $14.00 million). To improve the work of the Kenyan judiciary, the project aimed to support the
+  introduction of performance and data systems including Performance Management and Measurement
+  Understandings (PMMUs). In furtherance of this aim, the project was to support various studies and
+  surveys, including: (i) an impact evaluation undertaken by the judiciary (through the support of the WB
+  DIME system); (ii) a study to determine the workload of magistrates courts and to assess optimal resource
+  allocation as well as allocation of budgetary resources among courts; (iii) court user and court stakeholder
+  surveys; (iv) a governance and anti-corruption mapping survey, including the preparation of reports to guide
+  the judiciary to combat and prevent corruption; and (v) the financing of a training needs assessment to
+  support the JTI in the delivery of its annual programs and review of the judiciary’s training needs.
+
+  4. Project Management (Appraised Cost: US$ 10.20 million, Actual Cost: US $4.00 million). Planned
+  activities included improvements in the way the judiciary worked and implemented its oversight role. This
+  was to be done through a number of mechanisms, including: (a) the use of project dashboards to monitor
+  and report on performance; (b) the introduction of bimonthly meetings with the World Bank task team on
+  project implementation; (c) internal judiciary construction sub-committee meetings (tasked with monitoring
+  new court constructions); (d) payment diagnostics and tracking systems to detect payment delays and take
+  corrective measures; and (e) the introduction of a Geo-Enabling Initiative for Monitoring and Supervision
+  (GEMS) to monitor project implementation.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project cost and financing: Project cost at appraisal was US$ 120 million, to be financed by an IDA
+  Credit. Exchange rate depreciation resulted in the reduction of the original credit and inability of the project
+  to be fully implemented, as the sums originally envisioned under the project were not fully available towards
+  the end of project. Actual costs were US$ 110.55 million (ICR, p. 48).
+
+  Dates: The project was approved on November 15, 2012 and became effective on April 30, 2013. An MTR
+  was undertaken in July 2015. The project underwent four restructurings, resulting in various changes to the
+  initial design and implementation structure of the project, fewer implementing units and activities, new
+  outcome indicators, and revised closing dates.
+
+        The first restructuring (approved on March 31, 2016) shifted focus to judicial services: (a) access to
+         courts and legal information, (b) timeliness of services, and (c) performance and quality of decision-
+         making. This, in turn, resulted in project adjustments focused on: streamlining and re-organizing of
+         project activities; the reallocation of funding between the new components; revisions to the results
+         framework; changes in data collection methods; and revisions to outcome indicators. The project
+         components were revised to address key issues that the public continued to raise frequently in their
+         interactions with the judiciary. Moreover, the restructuring sought to reduce transaction costs
+         associated with the initial design of components by input types, such as "training" and
+         "infrastructure." The latter involved a large number of implementing units (21 units in total), resulting
+         in a situation where annual work planning processes undermined the focus on development
+         outcomes; and more importance was given to the needs of the implementing units rather than
+
+
+                                                                                                     Page 4 of 19
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     KE-Judicial Performance Improv SIL (FY13 (P105269)
+
+
+
+          problems faced by the court users and public. The restructuring was intended to address these
+          issues.
+         A second restructuring (approved on December 14, 2018) extended the project’s closing date from
+          December 31, 2018 to October 30, 2020. Due to the exchange rate depreciation, the restructuring
+          also resulted in the reduction of the original credit from US$120 million to US$110.55 million, and
+          further changes in the results framework.
+         During a third restructuring (approved on October 21, 2020), the project closing date was extended
+          again from October 30, 2020 to July 31, 2021. This was in response to the COVID-19 pandemic,
+          with the ICR noting that the COVID-19 pandemic negatively affected the schedule of delivery of ten
+          courts.
+         A fourth restructuring (approved on 19 July 2021) extended the project closing date from July 31,
+          2021 to October 31, 2021. The purpose of the extension was to allow for the completion of the
+          remaining court constructions.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country Context: The project was highly relevant to the needs and priorities of the Kenyan judiciary. The
+judiciary is one of the three arms of the state and critical to the maintenance of the rule of law in the
+country. The Constitution of Kenya (2010) specifically provides a role for courts to act a counterbalance to
+executive power, independent of the executive apparatus, and as a guardian and arbiter of human rights. It
+also establishes a basis for the institutional and financial independence of the judiciary (ICR, p. 10),
+promoting decentralized budgeting.
+
+Kenya’s judiciary suffered from a range of structural and capacity problems, many of which are historic and
+political in nature (ICR, p. 10). There was general mistrust and dissatisfaction with the court system among
+the public (ICR, p. 10). The court system suffered in a significant way from a lack of funding, poor physical
+infrastructure, and persistent capacity and integrity problems (including the judiciary's failure to deliver
+timely justice, poor conditions of service for its officers, and ineffective case management systems), all of
+which have been well documented over the last four decades in various commissioned reviews of the
+judiciary, including reviews commissioned by the judiciary itself (ICR, p. 10). The lack of physical facilities
+hampered performance and efficiency significantly, with court users in some areas having to travel over 200
+km to access the nearest court (ICR, p. 55) and the judiciary struggling to reach poor and marginalized
+segments of the Kenyan population that live in remote areas. Indeed, the Kenyan judiciary was
+fundamentally “characterized by inaccessibility and undue delays” (ICR, p. 52). Despite past reform efforts ,
+including government-wide and internal judiciary-driven attempts to improve judicial performance, justice
+administration suffered from severe weaknesses. At the time of project design, “access to justice was a
+major problem for the vulnerable and the marginalized” (ICR, p. 24), and especially for women “as they had
+to cover excessive distances to courts” (ICR, p. 24).
+
+In addition, there was significant risk, that if left unaddressed, weaknesses in judicial administration and
+court structure would destabilize democratic governance and electoral processes in the country, potentially
+leading to a breakdown of rule of law and order. Thus, both the Independent Review Commission ( Kriegler
+Commission) and the Commission of Inquiry on Post-Election Violence (Waki Commission), both
+
+                                                                                                     Page 5 of 19
+                                      Independent Evaluation Group (IEG)                        Implementation Completion Report (ICR) Review
+                                      KE-Judicial Performance Improv SIL (FY13 (P105269)
+
+
+
+               established in February 2008, linked the poor state of the judicial arm of government with electoral
+               irregularities and electoral violence in 2007-2008, making a strong case for judicial reform in the country
+               (ICR, p. 6).
+
+               Alignment with Kenyan Government Strategy: The underlying objective of the project – improving the
+               effectiveness and accountability of the Kenyan judiciary – was well aligned with several high-level policies
+               and strategies. The project was fully aligned with the government's overall objective of improving the
+               judiciary’s performance in a more effective and accountable manner (ICR, p 15). It was also aligned with
+               the government’s long-term development strategy, Vision 2030, which lays out a plan for “adherence to the
+               rule of law applicable to a modern, market-based economy in a human rights-respecting state.”
+
+               The project components collectively reflected and reinforced the country's Judiciary Transformation
+               Framework (2012-2016) pillars and subsequent blueprint on Sustaining Judiciary Transformation (2017-
+               2021). The project also considered the strategic plans of other justice sector actors including the National
+               Council for Law Reporting, the Judicial Service Commission, and the National Council for the Administration
+               of Justice.
+
+               Alignment with World Bank Strategy: The project was aligned with the most recent 2014-2018 Country
+               Partnership Framework (CPF). The CPF identified good governance as a cross-cutting platform facilitating
+               achievement of results across three dimensions: (i) competitiveness and sustainability; (ii) protection and
+               potential; and (iii) consistency and equity. (The CPF was extended to 2020 and again to 2021, and a new
+               CPF is currently under preparation.) The 2020 Kenya Systematic Country Diagnostic (SCD) highlighted the
+               importance of the judiciary in magnifying citizen voice, counterbalancing executive power, and upholding
+               the constitutionally enshrined Bill of Rights in the country (SCD, p. 23). Objectives were aligned with the
+               2021 Country Policy and Institutional Assessment, which highlighted the significance of a fully independent
+               Judiciary with direct financial accountability lines to the Parliament.
+
+               Overall, the relevance of the project's objectives is rated as High.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To improve the performance of the Judiciary to provide its services in the Project Areas in a more effective
+                             manner.
+
+                             Rationale
+                             The causal chain by which the project was to achieve its objectives was not explicit at design; the Project
+                             Appraisal Document (PAD) did not have an explicit Theory of Change (TOC). The ICR constructed a TOC for
+
+                                                                                                                               Page 6 of 19
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   KE-Judicial Performance Improv SIL (FY13 (P105269)
+
+
+
+the at the time of project approval in 2013 (ICR, p. 12). A revised TOC was developed following the
+restructurings to the project and is reproduced in the ICR's Annex 7 (p. 75). The ICR traces the
+ineffectiveness and inefficiency of the Kenyan Judiciary primarily back to inadequate physical infrastructure,
+poor court management, and more broadly, a lack of independence of the Judiciary, noting that prior to 2017,
+the Judiciary “was totally dependent on the Ministry of Public Works for designing, managing, and maintaining
+all capital investments” (ICR, p. 24).
+
+The TOC held that the construction and rehabilitation of courts (including the establishing of mobile courts),
+investments in ICT, court registries, and new court data systems, and improved court processes would help
+improve court functioning and make the judiciary more effective and accountable. Against this background,
+the TOC identified clear outputs specifically focused on improving the efficiency and operations of Kenya’s
+national court system and boosting the capacity of local courts (including through court outreach in remote
+regions) to absorb cases and reduce long delays in court proceedings (through alternative dispute resolution
+techniques, information kiosks, better case management, and improved filing mechanisms and digitization,
+among other things).
+
+Overall, the TOC was aligned with and contributed to the two thematic objectives of the PDO focused on
+“effectiveness” and “accountability.” (Accountability was primarily to be addressed through improved
+performance evaluation frameworks and training to improve the quality of judicial decision making, see
+below). However, there was some lack of clarity in the articulation of outputs and intended outcomes
+specifically for each of the two thematic areas. Although “effectiveness” and “accountability” frequently
+overlap, the TOC could have drawn out more explicit linkages between the project interventions, the
+proposed outputs and intended outcomes, and each objective. This could have also been applied in the
+results framework more effectively.
+
+The key outputs and outcomes relating to “effectiveness” are evaluated below.
+
+Reduction of case backlog. As stated, one of the greatest weaknesses and most immediate issues in the
+Kenyan Judiciary was the large number of delayed and backlogged cases, which in turn, profoundly impacted
+public trust and confidence in courts. Therefore, a key component of the project was to reduce the backlog
+and increase the speed of case resolution. To this end, multiple delay reduction strategies were employed.
+The project supported the holding of special sessions – referred to as justice@last – in the judiciary’s High
+Court civil division. Special sessions/benches were held initially in a one-week event where 15,000 cases
+over five years were resolved. This led to the strategy being adopted by the Magistrates Courts and Court of
+Appeal, triggering a series of events commonly referred to as “service weeks.” Additionally, the project
+supported the establishment of an alternative and less costly case resolution mechanism, CAMP (ICR, p. 61).
+
+Outcomes:
+
+      Cumulatively, 217,018 backlogged cases (including those that matured over time to 5 years) were
+       resolved (ICR, p. 19). This represented a 124 percent achievement of the target (175,000 cases)
+       (ICR, p. 22).
+      Since the launch of CAMP in 2018-19, over 6,900 cases were resolved using mediation, “releasing
+       over KSh 50 billion ($US 44 million) in restricted resources back into the Kenyan economy” (ICR, p.
+       23).
+      CAMP also resulted in a significant reduction of the time taken to finalize cases, i.e., 2 months
+       compared to around 11 months if cases that went through litigation.
+
+
+                                                                                                  Page 7 of 19
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   KE-Judicial Performance Improv SIL (FY13 (P105269)
+
+
+
+Average time to dispose of cases in courts. The project supported the modernization of court registries
+and filing infrastructure. Specific challenges included lost files, misfiling, damaged files, delays in registering
+cases, and difficulties in locating records and filing documentation. To address these and related challenges,
+registry processes were to be streamlined through the creation of modern registries in courts. Files were
+standardized for maintenance of file integrity and easy identification and retrieval. In total, 1.5 million color-
+coded file folders were procured and distributed to all court stations. The project also supported the
+development of registry operational manuals and court procedures for all court cadres. Information kiosks and
+queue management systems were commissioned at Milimani Law Courts. In response to filing and record-
+keeping challenges, the Judiciary developed a Draft Records Management Policy in 2017.
+
+The project also supported increased efficiency through improvements to ICT equipment and infrastructure,
+and internet connectivity in all the courts constructed. Installation and commissioning of Local Area Networks
+was completed in 25 courts. 1,300 computers were procured and distributed across 128 court stations.
+
+In order to ascertain the total volume of backlogs in the judiciary as well as the causes of delay in case
+resolutions, Case Audits and Institutional Surveys were done in 2014 and in 2016 (the judiciary case audit
+and institutional capacity survey conducted in August 2014; and the judiciary case census and institutional
+capacity survey in 2016). In addition, a case diagnostic study (to assess the cause of delays in case
+processing) was done in 2015. An impact evaluation study was conducted to determine the main reasons for
+adjournments in sample courts. This entailed conducting a randomized controlled trial study across 124 court
+stations in Kenya. As part of the study, courts were randomly divided into groups, with certain courts as well
+as CUCs being asked to report on adjournments using a one-page feedback form.
+
+Additionally, all the constructed and refurbished courts were fully equipped with furniture. This eliminated the
+problem of staff working in turns, thereby increasing efficiency and productivity. The Directorate of Building
+Services (DBS) was fully established with staff to help manage and supervise court construction and
+renovation programs. Additionally, to enhance efficient operations for eight court stations (Ngong, Kikuyu,
+Webuye, Wanguru, Kisii, Homabay, Eldoret, and Meru law courts), the project procured fabricated containers
+serving as registry, courtrooms, and/or archives. Through these initiatives, courts were able to expand
+existing space available by about 300 square feet for provision of services.
+
+Outcomes:
+
+      The average time to dispose of cases was reduced from 15 months to 10 months. The original target
+       was 8 months, which was revised to 11 months in 2016, and then to 10 months in 2018. The project
+       achieved the 2018 revised target of 10 months. This represents a 100 percent achievement of the
+       2018 revised target (ICR, p. 20).
+      74% of court users reported timely services. However, as no baselines were reported, it is not
+       possible to estimate how much progress was achieved.
+      At project completion, 64% of cases were completed in less than one year of filing. No baseline was
+       provided, thus it is not possible to estimate improvement.
+      Costs involved in case processes were reduced through electronic filing; however, the ICR does not
+       indicate the extent of the cost reductions and what cost unit was used to measure costs.
+
+Average distance to courts as a result of constructing new courts. This was a significant achievement of
+the project. A total of 21 new courts were constructed. Nine mobile courts were introduced to serve the most
+remote parts of Kenya (ICR, p. 17). Although the project mentions an increase in the number of cases filed
+
+
+                                                                                                     Page 8 of 19
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   KE-Judicial Performance Improv SIL (FY13 (P105269)
+
+
+
+per day after a court construction (ICR, p. 19), it did not measure usage of courts, such as, for example
+measuring how extensively certain courts were used and by which types of project beneficiaries.
+
+Outcomes:
+
+      The project aimed at reducing the average distance to courts from 394 km originally to 186 km (the
+       original target). This target was revised in 2016 to 110 km, and then revised in 2018 to 140km. At
+       project conclusion, the average distance was 152 km, representing progress toward but not meeting
+       the revised target (ICR, p. 20).
+
+Users’ satisfaction with the delivery of court services in project courts. The project supported carrying
+out surveys including court user surveys (2015), employee surveys (2017), and environmental satisfaction
+surveys (2019), which collectively measured satisfaction in terms of accessibility, fairness, accuracy,
+timeliness, knowledge, and courtesy. As part of the surveys, a satisfaction index was developed and used to
+establish the level of improvement. (ICR, p. 60). A legal needs and satisfaction survey was conducted in
+2017
+
+Outcomes:
+
+      The surveys showed an improvement in the delivery of court services from a satisfaction index of 56
+       percent in 2015 to 67 percent in 2019, exceeding the original target of 60 percent and the 2016/2018
+       revised targets of 65 percent (ICR, p. 20).
+      The ICR notes that the new courts with improved customer service facilities improved court efficiency.
+       In particular, out of 11 parameters of satisfaction, the users expressed relatively greater satisfaction
+       with the services at the customer care desk, where staff were courteous and provided more useful
+       guidance to clients, including compliance with the service charter on time.
+      The ICR links the construction of new courts with improved overall access to the justice system, noting
+       that “the number of cases filed per day after a court construction is completed increased by
+       approximately 30 percent on average” (ICR, p. 19)
+
+Gender Impact. There was positive gender impact. The project promoted gender equity in accessing judicial
+services through new court buildings, which were designed to provide a conducive and dignified space for
+women (for example, separate cells for women and children). In addition, the project facilitated waiting areas,
+service bays, and lactating rooms for nursing mothers. The project also supported CAMP and facilitated
+mediation on family and succession issues that most commonly adversely affect women. Training on
+alternative forms of dispute resolution helped with handling sexual offense cases in court. Further, the project
+supported capacity building of female judges and magistrates.
+
+Outcomes:
+
+      The project targeted at least 30 percent of the project beneficiaries to be women. Project beneficiaries
+       are defined as both the number of court users and the number of judicial personnel trained. At project
+       closing, at least 45% of project beneficiaries were women, exceeding expectations.
+
+
+
+
+                                                                                                   Page 9 of 19
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   KE-Judicial Performance Improv SIL (FY13 (P105269)
+
+
+
+Despite the difficulties experienced in implementation, the project substantially contributed to the
+modernization of the court system in Kenya and greater judicial capacity. All revised output targets were
+substantially achieved, including a marked increase in access to and satisfaction with courts.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+To improve the performance of the Judiciary to provide its services in the Project Areas in a more
+accountable manner.
+
+Rationale
+At project design, there was a lack of performance reporting in place and insufficient information about
+performance measures and standards. The project identified deficiencies in the accountability framework of
+the Kenyan Judiciary and the need to enhance the accountability of judicial officers and staff, in general. The
+TOC, as it related to accountability, was premised on the notion that introducing mechanisms and tools for
+improving judicial performance would lead to greater judicial accountability.
+
+However, the originally planned IPMAS, which was to be used as a tool for evaluating staff performance, was
+dropped, and with it the related outcome indicator.
+
+Additional activities specifically relevant to the thematic area of accountability are discussed below. Some
+outputs are the same as under Objective 1, as the reforms that contributed to improved court functioning and
+court processes also enhanced judicial accountability. For example, the publication of regular court user
+survey results is a crucial transparency and accountability tool.
+
+Number of PMMUs signed. The project supported entrenchment of PMMUs/performance contracts in the
+Judiciary. Performance contracts were gradually introduced, with 284 performance contracts having been
+signed at project closing (ICR, p. 23). Performance contracting has been fully adopted, with the ICR noting
+that this contributed to more efficient and overall improved service delivery by the Judiciary, as described
+under the first objective.
+
+Improved consistency and clarity of judicial decision-making, and increased access to legal
+information. The project financed a training needs assessment to support the JTI in its annual programs
+through a review of the Judiciary's training needs. The assessment identified specific knowledge and skills
+that employees need to be trained on to be more productive, efficient, and innovative in their jobs. To
+increase legal knowledge and improve practices, the project supported the dissemination of legal materials to
+the Judiciary for use by judicial officers (over 620 Grey Books were disseminated to the Judiciary) and
+members of the public (4,500 copies of the Kenya Law Reports and 100,000 pocket-sized copies of the
+Constitution were provided to the public to “enhance understanding of the law and bridge the knowledge
+gap”). A total of 6,000 volumes of Commonwealth Law Reports and East Africa Law Reports, among a host of
+other titles, were bought and distributed to 28 court stations for legal research by judicial officers/legal
+
+
+
+                                                                                                 Page 10 of 19
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                KE-Judicial Performance Improv SIL (FY13 (P105269)
+
+
+
+                            practitioners. Additionally, the National Council for Law Reporting website (kenyalaw.org) was revamped to
+                            enhance access to legal information, leading to a 93 percent increase in average monthly unique users.
+
+                            Strengthened integrity of decision-making. A governance and anti-corruption mapping survey was
+                            undertaken, as well as preparation of a report to guide the Judiciary in addressing and preventing corruption.
+                            The complaints management system of the office of the Judiciary Ombudsman was reviewed, strengthened,
+                            and upgraded. The system was upgraded with the following features: (1) auto response – allowing clients to
+                            lodge complaints via emails upon which they receive an automatic response to the effect that a ticket has
+                            been created; (2) search options – the search parameters were broadened to enhance the search function;
+                            (3) contact editing – to allow enhanced feedback whenever a clients contact changes; (4) merging tool –
+                            enabling users to efficiently handle more than one ticket relating to the same customer simultaneously and;
+                            (5) complaints trends – this enables knowing frequency of each category of complaints. (ICR, p. 61).
+                            Additionally, the project funded the installation of audio recording equipment in 26 courts for quick and easy
+                            access to the recordings of any proceeding.
+
+                            Impact Evaluations to Improve Judicial Performance. With the support of the World Bank’s DIME
+                            program, the Judiciary undertook an impact evaluation to determine how to improve judicial performance.
+                            Toward case weighting and optimal resource allocation, the project facilitated a study for magistrates courts,
+                            which assessed: (a) the workload of judicial cases in the magistrates courts and established optimal
+                            resources, (b) the appropriate number of judicial officers necessary for effective case resolution, (c) the
+                            duration of a case from registration to resolution, (d) the distribution of cases among magistrates, and (e)
+                            allocation of budgetary resources among courts.
+
+                            Although achievement of the objective is rated Substantial based on these activities, a more outcomes-based
+                            analysis of accountability would have improved the ICR's argument in this area.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project significantly reduced case backlogs, modernized court registries and related processes, and
+                            improved access to courts and legal information, leading to substantial practical achievements under the first
+                            objective of improving the effectiveness of the Kenyan court system. Several project activities supported
+                            improvements in judicial accountability. Overall efficacy is therefore rated Substantial.
+
+
+
+
+                            Overall Efficacy Rating
+
+
+                                                                                                                             Page 11 of 19
+       Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+       KE-Judicial Performance Improv SIL (FY13 (P105269)
+
+
+
+  Substantial
+
+
+
+ 5. Efficiency
+The ICR does not include a formal economic analysis, and economic benefits are not discussed.
+
+The absence of technical staff within the Judiciary to properly cost and design courts led to severe
+underestimation of the costs of court construction. While this issue was later rectified and reflected in the MTR
+(the project supported experts to strengthen capacities of the Building Services Unit), even with more accurate
+cost estimates (because costs were estimated as of 2015), by the time most of these courts were completed
+(2020-2022) prices of construction materials had significantly risen.
+
+Implementation was hampered by a range of procurement issues, including irregular tender committee
+meetings, repeated errors in procurement processes, infrequent scheduling of evaluation committees, delays in
+writing up committee reports, and the need to seek legal opinions on the implementation of World Bank
+procurement protocols in the context of domestic legislation (ICR, p. 51).
+
+Contract management and monitoring was inadequate. The ICR comments on the poor performance of the IFA,
+noting that “due to the inability of the IFA to conduct due diligence, some of the engaged contractors lacked
+financial capacity to independently continue with the construction” (ICR, p. 26). The project also experienced
+implementation delays in processing payments to contractors (ICR, p. 26). Timely contractual remedial
+measures were not adequately pursued for non-performing contracts. As a result, deliveries/completions of
+many court building contracts were delayed compared to contracted completion dates. This problem
+was compounded by challenges posed by the COVID-19 pandemic.
+
+While the Project Management Unit attempted to monitor the situation, remedies were not always proactive. The
+World Bank team fielded a number of missions, including virtual follow-ups, to improve the situation; however,
+many of the challenges persisted.
+
+Overall, efficiency is rated Modest. Implementation of the project required significantly more time than was
+originally allotted, and it suffered from various operational inefficiencies, thus delaying benefits to intended
+beneficiaries.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                 Rate Available?              Point value (%)           *Coverage/Scope (%)
+                                                                                        0
+ Appraisal                                                    0
+                                                                                         Not Applicable
+
+
+                                                                                                        Page 12 of 19
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      KE-Judicial Performance Improv SIL (FY13 (P105269)
+
+
+
+                                                                                     0
+ICR Estimate                                                0
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project's objectives were highly relevant to the Kenya 2030 Vision, country conditions, and Bank strategy.
+Achievement of both objectives is rated Substantial. Efficiency is rated modest due to project under-costing,
+delays in implementation, and the absence of economic analysis. Overall, these ratings are indicative of
+moderate shortcomings in the project's preparation, implementation, and results, producing an Outcome rating
+of Moderately Satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+The following two factors are likely to lower risks to development outcomes: (1) the passage and
+operationalization of the Judicial Fund Act 2016; and (2) the willingness of members of the Kenyan Judiciary
+(including judiciary leadership) to continue with the reform process, including important cultural reforms.
+
+The Judicial Fund Act was enacted on 12 June 2016 and finally operationalized in 2022. This is expected to
+ensure that the Judiciary has adequate resources to carry out maintenance and improvements of court
+houses, vehicles, and ICT infrastructure. Also, according to Bank staff, the Judiciary is invested in many of
+the reforms. The current Chief Justice is seeking to ensure that “institutional and cultural aspects are being
+maintained” (ICR, p. 27). However, the length of the Chief Justice's appointment term is uncertain.
+
+Training and staffing issues: The absence of continuing training on ICT infrastructure maintenance is
+considered a significant risk to the longevity of the reforms. The ICR highlights limited technical knowledge of
+staff as an issue, stating, that after project closing, as consultants left the project, staff remaining in the
+finance and accounting functions were in need of additional training and had limited or no technical
+knowledge of the project (ICR, p.27). Recruitment issues are also a risk to the project’s maintenance. To fill
+the gap in the DBS created by the departure of the 20 short-term consultants leaving the project, additional
+recruitment by the judiciary as well as training of staff in technical departments is needed. Delays in the
+recruitment process may create challenges for the maintenance of project outcomes. These issues could be
+resolved by ensuring that staff tasked with continuing the reforms implemented by the project have additional
+and continuous technical training, and that proper recruitment is implemented.
+
+Resource issues: Financing is likely to pose a major risk to the continuity of the project. While the Judiciary
+agreed to finance unfinished courts from its own resources, there is a realistic risk that this will not be
+achieved in a political climate where austerity measures were – at the project’s closing – being implemented
+to curb public spending. A lack of adequate financing in the medium-term expenditure framework could result
+in the Judiciary not being regularly ab8. Assessment of Bank Performancele to maintain and improve IT
+infrastructure and building facilities, resulting in a deterioration of both. There is also risk that increased
+
+                                                                                                    Page 13 of 19
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     KE-Judicial Performance Improv SIL (FY13 (P105269)
+
+
+
+tensions between the executive and Judiciary result in less funding being allocated to the Judiciary. This
+problem is compounded by inadequate life cycle costing of court buildings and ICT infrastructure, which, in
+turn, could result in improper maintenance and run-down buildings and systems.
+
+Lack of Improvements to Accountability Framework: The success of the reforms will depend on further
+improvements to accountability, as the quality of the justice system will depend on citizens having access to
+courts (and other dispute resolution systems) that are trusted and accountable.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The project was prepared with sound background analysis, based on the government's reform objectives
+  and priorities as well as prior judiciary reform initiatives in Kenya (ICR, p. 25). Thus, the initial M&E
+  design suffered from various shortcomings, including the large number of implementing units, as well as
+  a large number of small internally focused activities (266 in total were designed in FY2013/14 alone,
+  many of which were not completed).
+
+  The ICR also points to issues surrounding the weak capacity of the IFA, which do not appear to have
+  been adequately considered at point of entry. The IFA was ineffectively staffed and non-responsive to
+  PMU and Judiciary needs, adding little in terms of capacity development or quality. These weaknesses
+  became apparent in 2013 (when the IFA was contracted) and were also highlighted during the MTR in
+  2015, which, among other things, decided that the IFA would be phased out and its procurement and
+  financial management functions directly transferred to the PMU.
+
+  On the upside, the project preparation team took into account country-specific implementation and
+  procurement challenges and considered the work of other World Bank-financed activities in support of
+  judicial reforms, as well as the work of other donors (such as the German Agency for International
+  Cooperation’s support for CUCs, the United States Agency for International Development-financed Case
+  Management Project in Eldoret, and code of conduct work facilitated by the United Nations Office on
+  Drugs and Crime) in an attempt to build on prior efforts and avoid duplication.
+
+  Lessons learned from previous initiatives in Kenya and similar operations throughout the region were
+  incorporated. Thus, the project management component (Component 4) was built on lessons learned
+  from the judiciary’s 2008 forensic audit and the recommendations made in the institutional risk-based
+  policy framework (funded through the World Bank FLSTAP – the Financial and Legal Sector Technical
+  Assistance Project) to address fiduciary capacity constraints in the judiciary (ICR, p. 26). The project
+  preparation team also took into account the procurement challenges experienced in automating the
+  recording of court proceedings (under the Norwegian grant for the Kenya Public Sector Management
+  Project, TF052274, FY02) and in the piloting of a case tracking system for the High Court Family Court
+  Division by the NCLR (Gender Responsive Legal Reforms Project, TF053703).
+
+
+
+  Quality-at-Entry Rating
+
+                                                                                                   Page 14 of 19
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     KE-Judicial Performance Improv SIL (FY13 (P105269)
+
+
+
+  Moderately Unsatisfactory
+
+
+
+b. Quality of supervision
+ The project was implemented in a “context of weak public sector governance and government
+ accountability” (ICR, p. 25). The task team, through supervision missions, regularly highlighted issues for
+ World Bank management’s attention. Quarterly and annual progress reports and monthly fiscal reports
+ were used to monitor project outcomes and results indicators. Throughout the lifecycle of the project,
+ several rounds of adjustments were made, including four project restructurings and extensions of project
+ completion dates. During the MTR, shortcomings were identified (such as those relating to the large
+ number of implementing units and related high transaction costs, as well as cumbersome annual planning
+ processes), and the project was restructured away from focus on institutional inputs, as originally designed
+ at entry, towards service delivery outcomes. However, as the ICR notes, it took over two years for the team
+ to take the remedial action of replacing the IFA. This factor contributed to delays and slow disbursements.
+ After the team’s decision to restructure the project, significant improvements were noted in achievement of
+ outputs and outcomes. The direct involvement of the PMU (and the hiring of procurement and financial
+ management consultants who reported directly to the Project Coordinator) improved efficacy and
+ efficiency, increasing responsiveness and reducing costs.
+
+ The World Bank intensified its supervision efforts during the final year of project implementation. The Bank
+ held more frequent technical and management meetings with the client and provided day-to-day support in
+ the final months, to help accelerate implementation and completion of the project. During the COVID-19
+ pandemic, the task team was effective, successfully switching to virtual meetings and missions. It deployed
+ ICT innovatively to minimize disruptions to service delivery and to supervise court constructions remotely
+ (using the GEMS tracking tool, for example).
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ Primary responsibility for M&E was with the PMU, which was tasked with tracking the project’s performance
+ indicators as defined in the results framework. That framework (developed as part of a consultative process
+ with the Judiciary and other stakeholders) included five PDO-level indicators and six intermediate
+ indicators, linked to the project's objectives. In carrying out its monitoring function, the PMU worked closely
+ with the directorates of the Judiciary. The project provided M&E training, mentoring, and technical
+ assistance for the Judiciary and recruited a full-time M&E officer as part of the PMU team, in addition to
+
+
+
+
+                                                                                                    Page 15 of 19
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     KE-Judicial Performance Improv SIL (FY13 (P105269)
+
+
+
+ engaging independent third-party monitoring (through community service organizations, court users, and
+ affected communities). An M&E plan was developed to operationalize the results framework.
+
+ Moreover, the cumbersome structure consisting of many implementing units and small internally focused
+ activities adopted as part of M&E made it difficult to prioritize activities for clear assessment of project
+ achievements and monitoring of redefined components and outcome indicators. Corrective actions were
+ taken to improve M&E design after the first restructuring. Additionally, some of the outcome indicators were
+ flawed, as there was no baseline to measure progress.
+
+ The TOC is reflected in the results framework, which measures practical progress using both efficiency and
+ quality indicators. The latter measured the delivery of quality court services (data gathered using client and
+ court stakeholder surveys), whereas the former relied on numerical targets and indicators (geographic
+ distance to courts, reduction of case backlog, timeliness and speed of case resolution, and the number of
+ PPMU contracts adopted across courts). Overall, however, M&E did not include enough indicators to
+ understand how progress toward the achievement of the accountability objective would be measured.
+
+
+
+b. M&E Implementation
+  Implementation of M&E improved over time. However, the ICR notes that data in some cases were
+  collected with delays due to coordination issues with government departments. In particular, the ICR
+  notes that “data collection had gaps in the early years” which were addressed later, with M8E
+  implementation being conducted more rigorously in the final years of the project.
+
+
+
+c. M&E Utilization
+  The project supported the development of a Daily Court Returns Template (DCRT), a data collection and
+  administrative system to collect data from each court system. The DCRT was folded into the electronic
+  case management system and is used for various purposes, including hiring and promotion of judges,
+  decision-making to deploy infrastructure, allocation of court budgets, performance monitoring through
+  the performance dashboard implemented by the PMU, and the GEMS e-supervision tracking tool.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   Environmental Safeguards
+
+   The project was in compliance with environmental and social safeguards (ICR, p. 26). It was rated Category
+   B for environmental purposes. The project entailed construction and rehabilitation of courts and therefore
+   triggered the World Bank’s safeguard policies OP/BP 4.01 on Environmental Assessment and OP/BP 4.12
+   on Involuntary Resettlement. The majority of court buildings rehabilitated were small magistrates court
+
+                                                                                                   Page 16 of 19
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     KE-Judicial Performance Improv SIL (FY13 (P105269)
+
+
+
+   facilities, and environmental impacts were expected to be moderate. To ensure the minimization of
+   environmental impacts on court facilities, the Kenyan Government prepared a number of policies to guide
+   the process: (i) an Environmental and Social Management Framework (which included guidance on dealing
+   with physical cultural resources that could be affected by the court rehabilitation and construction facilities;
+   (ii) a Resettlement Policy Framework; (iii) Environmental and Management Plans (ESMPs) for the first two
+   courts to be rehabilitated (Kangema and Kitui Magistrates Courts); and (iv) a Resettlement Action Plan that
+   was developed in the event that there were land acquisitions that would impact assets or cause loss in
+   economic activity.
+
+   Social Safeguards
+
+   As part of the project, adverse social impacts were minimized through implementation of a resettlement
+   audit and payment of compensation to 14 project-affected persons. Further, to strengthen oversight, a
+   safeguards focal point was appointed at the PMU; CUCs were established in each court to function as a
+   complaints mechanism where issues between court users and the Judiciary could be raised and settled;
+   and any new contractors or subcontractors brought onto site were briefed on the ESMP and were required
+   to develop and implement a contractor ESMP, as well as follow up on the ESMP during site meetings.
+
+
+
+
+b. Fiduciary Compliance
+   The ICR (p. 26) comments on the shortcomings of the IFA, which performed below expectations during
+   2014-15, failing to put in place adequate processes to conduct quarterly audits and create appropriate filing
+   and document management systems. Moreover, as the ICR notes, the IFA made repeated mistakes in
+   procurement processing and invested only marginally toward enhancing the capacity of the seconded
+   Judiciary staff. Due to the inability of the IFA to conduct due diligence, some of the engaged contractors
+   lacked financial capacity to independently continue with construction, causing delays to project
+   implementation.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   n/a
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                  Reason for
+Ratings                         ICR                     IEG
+                                                                                  Disagreements/Comment
+                                                                                  Significant operational and
+Outcome                         Satisfactory           Moderately Satisfactory
+                                                                                  implementation inefficiencies
+
+
+                                                                                                     Page 17 of 19
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     KE-Judicial Performance Improv SIL (FY13 (P105269)
+
+
+
+                                Moderately
+Bank Performance                                      Moderately Satisfactory
+                                Satisfactory
+                                                                                 Shortcomings in M&E design
+Quality of M&E                  Substantial           Modest                     and implementation, delays in
+                                                                                 data collection
+Quality of ICR                  ---                   Modest
+
+
+12. Lessons
+
+IEG concurs with the lessons set out in the ICR. The project offers some lessons specific to Kenya
+and others that may be applicable more generally. Below, the most pertinent lessons are extracted:
+
+The Value in Leveraging Partnerships with World Bank Units. The project team sought
+assistance from DIME in the design of data systems, especially for the data collection system, which
+helped the Judiciary in transforming its data collection mechanisms for performance contracts,
+budgeting, training, and infrastructure.
+
+The broader justice community plays a crucial role in the local reform process. The rich
+experiences from the justice community, as well as other task teams in other judiciary projects, can
+help inform a project’s implementation, including providing guidance on best-fit options that a project
+can pursue to address emerging challenges.
+
+Institutionalizing change management champions within the judiciary can help drive the
+reform process forward. Change management champions are essential to ensure that reform
+activities continue being implemented, despite changes in the leadership body of the judiciary. For
+example, key reforms implemented as part of this project – such as the development of a
+governance and anti-corruption strategy, and conducting an organization review assessment and a
+court-annexed mediation pilot – continued despite changes in the judiciary’s leadership body.
+
+IEG adds the following:
+
+The quality of judicial performance cannot be determined solely by numbers of cases
+resolved. Numerical case resolution targets must be coupled with other qualitative factors to
+determine judicial performance and avoid potential adverse effects associated with the application of
+numerical case resolution targets alone (such as judgments being processed too quickly, or
+summarily being dismissed). In this context, quality surveys are essential, and establishing a
+continuous process for court user surveys and reporting on court performance is essential to ensure
+that quality standards are maintained. Court reports on performance ought to be conducted on a
+regular basis (for example, on an annual basis) to enable cross-comparisons on a year-to-year
+basis. In the interests of transparency and improving public trust and confidence in courts, the
+reports should be made available publicly.
+
+In the justice sector, outcome indicators chosen ought to measure improved quality in usage
+of courts. While reducing the distance to courthouses is essential, outcome indicators ideally should
+also capture how extensively courthouses are used, where and by which intended project
+
+
+
+                                                                                                   Page 18 of 19
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       KE-Judicial Performance Improv SIL (FY13 (P105269)
+
+
+
+beneficiaries. Rigorous monitoring and evaluation systems are required to determine improvements
+in usage, and thus correct continuing deficits.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR substantiated its conclusions with a thorough assessment of the project’s design, restructurings, and
+achievements. The report is especially useful in setting out risks to the project’s reforms and outcomes, as well
+as lessons learned and recommendations for similar or future projects. The information in the report was
+generally accessible, with conclusions presented in a clear and structured way. However, it was challenging to
+glean a clear list of identifiable initiatives that were taken under the project, and in this regard the information
+may have benefitted from being set out in a more thematic manner, especially in so far as the information
+relates to the project's two objectives. It was especially difficult to determine how much practical progress was
+made toward achieving improved accountability, and what gaps remain. In addition, there could have been less
+overlap between the substance of the report and Annex 4. The ICR strayed from guidelines by assessing
+achievement of components, rather than achievement of objectives. Moreover, its efficiency discussion
+assessed sectoral/judicial system efficiency, not project efficiency.
+
+
+
+  a. Quality of ICR Rating
+       Modest
+
+
+
+
+                                                                                                      Page 19 of 19
+

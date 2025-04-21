@@ -1,0 +1,765 @@
+     Independent Evaluation Group (IEG)                         Implementation Completion Report (ICR) Review
+     NIRTTP (P144335)
+
+
+
+                                                                             Report Number: ICRR0023107
+
+1. Project Data
+
+
+
+ Project ID                             Project Name
+ P144335                                NIRTTP
+
+ Country                                Practice Area(Lead)
+ Nepal                                  Transport
+
+
+ L/C/TF Number(s)                       Closing Date (Original)               Total Project Cost (USD)
+ IDA-52730,IDA-H8630                    31-Dec-2019                                         70,537,770.52
+
+ Bank Approval Date                     Closing Date (Actual)
+ 28-Jun-2013                            30-Nov-2021
+
+                                        IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                        99,000,000.00                                              0.00
+
+ Revised Commitment                         76,705,753.67                                              0.00
+
+ Actual                                     70,537,770.52                                              0.00
+
+
+
+
+ Prepared by              Reviewed by                 ICR Review Coordinator         Group
+ Kavita Mathur            Peter Nigel Freeman         Kavita Mathur                  IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objective (PDO) as stated in the Financing Agreement (page 4) and the Project
+   appraisal Document (PAD) (para 26), was "to decrease transport time and logistics costs for bilateral
+   trade between Nepal and India and transit trade along the Kathmandu-Kolkata corridor for the benefit
+   of traders by reducing key infrastructure bottlenecks in Nepal and by supporting the adoption of
+   modern approaches to border management".
+
+
+
+                                                                                              Page 1 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     NIRTTP (P144335)
+
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project had three components :
+
+   Component A. Modernize transport and transit arrangements between Nepal and India (appraisal cost
+   US$9.0 million; actual cost US$1.65 million). This component planned to provide Technical Assistance (TA)
+   to: (i) introduce a modem and effective transit regime including technical assistance in enhancing the
+   capacity to negotiate trade and transit treaties; (ii) simplify and harmonize customs and border management
+   procedures, processes and systems, especially to provide for electronic interchange of transit data; and (iii)
+   strengthen and modernize the regulation of national and international trucking services including axle load
+   control and road safety from a transport management perspective.
+
+   Component B. Strengthen Trade-Related Institutional Capacity in Nepal (appraisal cost US$23.0
+   million; actual cost US$10.12 million). This component included three subcomponents: (i) trade portal and
+   Single Window System Development; (ii) Improvement of Trade-Related Laboratories; and (iii) institutional
+   strengthening for Interagency Coordination including financing of Project Coordination Office (PCO).
+
+   Component C. Improve Select Trade-Related Infrastructure (appraisal cost US$69.0 million; actual cost
+   US$58.77 million). This component included three subcomponents: (i) expand and upgrade the
+   Narayanghat-Mugling road section and implement measures for improvement of entire Birgunj-Kathmandu
+   Corridor; (ii) build a Container Freight Station (CFS) or Inland Container Depot (ICD) in Kathmandu; and
+   (iii) improve the infrastructure at Birgunj and Bhairahawa ICDs.
+
+   Following revisions were made during implementations (ICR para 14):
+
+         Slope protection works were added to the scope of the Narayanghat-Mugling road upgrade based
+          on risk assessments during monsoons and in the aftermath of the 2015 earthquake.
+
+         Construction of four additional bridges along the Narayanghat-Mugling road alignment.
+
+         Training activities for the Department of Roads was not undertaken due to lack of approvals from the
+          Ministry of Finance (MoF) to use the project credit funds for training. However, essential trainings
+          were conducted in-country including a training on slope stabilization.
+
+         The initially planned Railway Track Modification at Birgunj ICD was dropped by Nepal Intermodal
+          Transport Development Board (NITDB), as bids were not received from qualified bidders even after
+          two attempts.
+
+         The planned cargo monitoring system for Nepal Intermodal Transport Development Board (NITDB)
+          was not developed, as there was no mechanism to receive the data generated by the Kolkata Port
+
+
+
+                                                                                                    Page 2 of 14
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     NIRTTP (P144335)
+
+
+
+          Authority, Indian Customs, and Indian Railways. Instead, a study to design a Data Capture
+          Framework for Kolkata-Kathmandu Corridor Monitoring was undertaken.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost. The actual project cost was US$70.54 million, substantially lower than the appraisal estimate
+   of US$101.0 million.
+
+   Financing. The project was originally financed through an IDA Credit of US$69.0 million and an IDA Grant
+   of US$30.0 million. The actual IDA credit disbursed was US$58.77 million and IDA Grant disbursed was
+   US$11.77 million.
+
+   The ICR reports (para 17) that on November 22, 2021, SDR 2.0 million of IDA Credit and SDR 11.00 million
+   of IDA Grant were cancelled based on an assessment of projected disbursements. Due to savings from the
+   exchange rate gain of about 35% and non-completion of National Single Window (NSW), at the end of
+   project closure, on March 2022 a further SDR 2.3 million from the IDA Credit and SDR 669,000 from the
+   IDA Grant were cancelled.
+
+   Borrower Contribution. The actual borrower contribution was US$1.5 million. At appraisal, there was no
+   planned contribution.
+
+   Co-financing. At appraisal, the International Finance Corporation (IFC) planned contribution was US$2.0
+   million. The actual contribution was none.
+
+   Closing Date. The project’s closing date was extended by 23 months from December 31, 2019 to
+   November 30, 2021, to complete two critical activities under the trade component, viz., development and
+   implementation of National Single Window (NSW) and the construction of the Inland Container Depot (ICD)
+   at Kathmandu (ICR para 17).
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and Sector Context. Nepal is a landlocked country, nestled between China and India. As a
+consequence, transport costs are high and the country completely depends on India for transit
+routes. Nepal is ranked as one of the worst performers in the world in the global Logistics Performance
+Index, ranking 151 of 155 countries ranked. Exports suffered from low productivity, high tariffs, and poor
+transportation infrastructure (PAD para 4).
+
+Over 60 percent of Nepal's imports and exports are traded with India. The Governments of Nepal and India
+have had a long history of cooperation on trade and transit. The two countries meet regularly at several
+levels to discuss these issues. The Kolkata-Haldia port in India serves as Nepal's access to the sea and is a
+major transit point for Nepal's third-country trade.
+
+
+
+                                                                                                    Page 3 of 14
+                                      Independent Evaluation Group (IEG)            Implementation Completion Report (ICR) Review
+                                      NIRTTP (P144335)
+
+
+
+               Alignment with the Government Strategy. The PDO was aligned with Nepal Trade Integration Strategy
+               (NTIS) 2010 which sought to enable inclusive growth in Nepal through enhancing the competitiveness of
+               Nepal's exports and reducing the cost of trade. The priorities of this strategy were: (i) reducing the time and
+               cost of trade-related transactions through efforts at simplification, harmonization, and automation; (ii)
+               building the capacity of domestic trade-related institutions including for sanitary and phytosanitary
+               inspections (measures to control plant diseases), trade negotiations, logistics, and monitoring and
+               regulating trade-related sectors; and (iii) enhancing the Government's ability to coordinate trade-related
+               institutions and development partners (PAD para 29).
+
+               The PDO is aligned with the Nepal’s Long-Term Vision as articulated in the ongoing 15th Plan (2019-2024).
+               The vision highlights (a) the importance of trade for growth in production and productivity; and (b) the
+               development of trade infrastructure, trade facilitation and strengthening of institutional capacity, as key
+               priorities.
+
+               Alignment with the World Bank Strategy. The PDO was well-aligned with the Bank Group's Nepal
+               Country Partnership Framework (CPF) for FY2019-2023. The Objective 2.2 "Increased transport
+               connectivity" of the CPF emphasized the need to improve transport connectivity to facilitate the movement
+               of people and goods within and across the borders of Nepal. The CPF indicated that the World Bank would
+               support regional transport connectivity with India and China to facilitate trade integration with the IDA
+               Regional Program Window (CPF para 34).
+
+               The current World Bank South Asia Regional Strategy recognizes regional cooperation and integration as a
+               key strategic objective. It pinpoints limited intraregional trade and connectivity, cumbersome procedures,
+               non-tariff barriers, and costly road transport and logistics services as key impediments to increasing trade in
+               the region (ICR para 19).
+
+               Previous Bank experience. This was the first regional project for the regional trade and transport series in
+               the South Asia Region (PAD para 30).
+
+               The statement of objectives was clear and focused. The PDOs remained highly relevant to the Government
+               and Bank strategy for Nepal. The objectives were formulated to a level of ambition that adequately reflected
+               a potential solution to a development problem i.e., reduction in transport and logistics cost for Nepal, a
+               landlocked country. Therefore, the relevance of the PDO is assessed as high.
+
+
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+
+                                                                                                                    Page 4 of 14
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   NIRTTP (P144335)
+
+
+
+
+Objective
+Decrease transport time and logistics costs for bilateral trade between Nepal and India and transit trade along
+the Kathmandu-Kolkata corridor.
+
+Rationale
+The theory of change of the project envisioned that activities including (i) modernization of transport and
+transit arrangements between Nepal and India; (ii) strengthen trade-related institutional capacity in Nepal; and
+(iii) improving select trade related infrastructure, would result in outputs such as trade policy documents,
+guidelines for cross border monitoring, Nepal information Trade Portal System, Geo-positioning System
+(GPS) enabled Vehicle Tracking System (VTS), Inland Container Depot (ICD) in Kathmandu, upgraded
+Narayanghat-Mugling road section, and new bridges. These outputs would result in (a) simplification,
+harmonization, and automation of trade related transactions, (b) adoption of modern approaches to border
+management, and (c) the reduction of key infrastructure bottlenecks for transit, thereby contributing to the
+achievement of project outcome "decreased transport time and logistics costs for bilateral trade between
+Nepal and India and transit trade along the Kathmandu-Kolkata corridor".
+
+The key assumptions were related to the proper utilization of capacity enhancement activities which would
+help reduce the time associated with meeting regulatory requirements for import, export and transit activities.
+The key critical assumptions were: (a) the capacity enhancement activities in the field of Sanitary and Phyto-
+Sanitary (SPS), Custom labs, and improvement of border infrastructure would help reduce the border
+crossing time at Raxaul-Birgunj border post; and (b) the capacity enhancement of National Trade and
+Transport Facilitation Committee (NTTFC) and Ministry of Industry, Commerce and Supplies (MoICS), for
+policy level and bilateral issues, introduction of Customs Transit Declaration (CTD), use of National Single
+Window, and improvement of Narayanghat Mugling road (which was a key bottleneck) would help reduction
+in total time between cargo offloading at Kolkata to arrival at Birgunj and Kathmandu.
+
+Outputs
+
+      The upgrading of a 33 km of the Birgunj-Kathmandu Road corridor (as targeted), construction of four
+       new bridges (as targeted), and slope stabilization. The last additional contract for the valley side slope
+       stabilization was not completed by project closing due to the impact of the COVID-19 pandemic. It was
+       completed by the Government of Nepal using its own resources.
+
+      Piloting of the Road Accident Information Management System in the Kathmandu valley and the
+       Kathmandu-Birgunj corridor.
+
+      The ICD at Kathmandu was substantially completed by project closing and became operational in
+       April 2022. Improvement of the ICDs in Bhairahawa (pavement works), and Birgunj (railway shed).
+       The ICD facility at Birgunj led to proper cargo segregation and consolidation at the border. An
+       integrated check-post was constructed on the Raxaul (India)-Birgunj (Nepal) border (the construction
+       of this check-post was underway at appraisal and the Nepal side was financed by a grant from the
+       Government of India).
+
+      Completion of the Sanitary and Phyto-Sanitary (SPS) building in Kathmandu with all required lab
+       equipment and furnishings.
+
+
+
+
+                                                                                                   Page 5 of 14
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   NIRTTP (P144335)
+
+
+
+
+      Studies were conducted to expediate the movement of cargo at Kolkata port. These studies identified
+       cumbersome procedures and documentation as the main cause of high logistics costs and time. The
+       project facilitated policy dialogue between the governments of India and Nepal and agreements were
+       reached to develop the automation of processes, reduce the number of administrative documents, and
+       streamline procedures.
+
+      Improvements in banking regulations were made such as for developing e-payment alternatives.
+       Insurance mechanisms were updated and are now common across the two countries along the transit
+       routes. The regulatory changes on banking, and insurance eased the process for traders to recover
+       goods from ICDs.
+
+      Technical assistance activities led to: (a) automation of documents and procedures as part of the
+       National Single Window (NSW), (b) automated system for customs data (ASYCUDA), and (c) training
+       on e-customs and coordination of border management for terminal operators.
+
+      Launching of the Nepal Trade Information Portal (NTIP).
+
+      Launch of Phase 1 of the National Single Window (NSW) and the successful integration of 13
+       agencies (significantly exceeding to a target of five agencies). The remaining phases of the NSW are
+       being completed by the Government of Nepal using its own resources.
+
+      National Trade and Transport Facilitation Committee (NTTFC) mandate was increased to coordinate
+       relevant agencies (public or private) involved in trade and transport logistics. It monitored issues
+       related to trade and transport and addressed them in a timely fashion through discussions with all
+       high-level stakeholders.
+
+Outcomes
+
+The construction of an integrated check-post on the Raxaul (India)-Birgunj (Nepal) border (not a direct project
+output) and the ICD facilities, along with the technical activities (mentioned above) resulted in a reduction in
+delays, costs, and red tape. Border crossing times at Raxaul -Birgunj was significantly reduced from 2.3 days
+to 0.87 days, significantly exceeding the target of 1.5 days.
+
+Transit trade. Total time between cargo off loading at Kolkata to arrival at Birgunj by road and Birgunj to
+Kathmandu for trucks was reduced from 10 days (baseline) to 5.94 days, exceeding the target of 8 days.
+
+Total time between cargo offloading at Kolkata to arrive in Birgunj by rail, and Birgunj to Kathmandu for trucks
+was reduced from 22 days (baseline) to 3.74 days, exceeding the target of 17.6 days.
+
+Time associated with meeting regulatory requirements for import, export and transit activities was reduced
+from 4.8 days (baseline) to 2.5 days, achieving the target of 2.4 days. This indicator directly measures the
+transaction costs to traders.
+
+The project resulted in (a) simplification, harmonization, and automation of trade related transactions, (b)
+adoption of modern approaches to border management, and (c) the reduction of key infrastructure
+bottlenecks for transit, thereby contributing to the achievement of project outcome "decreased transport time
+
+
+
+                                                                                                  Page 6 of 14
+                                Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+                                NIRTTP (P144335)
+
+
+
+                            and logistics costs for bilateral trade between Nepal and India and transit trade along the Kathmandu-Kolkata
+                            corridor". The achievement of the objective is substantial.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project resulted in (a) simplification, harmonization, and automation of trade related transactions, (b)
+                            adoption of modern approaches to border management, and (c) the reduction of key infrastructure
+                            bottlenecks for transit, thereby contributing to the achievement of project outcome "decreased transport time
+                            and logistics costs for bilateral trade between Nepal and India and transit trade along the Kathmandu-Kolkata
+                            corridor". The achievement of the objective is substantial.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+   5. Efficiency
+   Economic Efficiency.
+
+   At appraisal, the economic analysis of the project was based on a "Quantitative supply chain model" which used
+   the impact of logistic cost, delays and uncertainty in lead time to transit operations. The benefits included: (i)
+   reduction in cargo dwell time and its unpredictability in the port of Kolkata in India; (ii) reduction in cargo
+   clearance and border crossing times at the main border posts, and in particular at the Birgunj border post; (iii)
+   reduction in loading and unloading time and unpredictability in Kathmandu; and (iv) improvement
+   in transparency and predictability of import, export and transit requirements (PAD para 53).The ex-ante
+   Economic rate of Return (ERR) was estimated 30 percent, at a 12 percent discount rate over a 20-year period.
+
+   The ex-post ERR was 41 percent, higher than the appraisal estimate. This was due to unexpectedly large transit
+   benefits within Nepal (almost all from the Narayanghat-Mugling road improvements and largely because of a
+   longer assessment period for benefits), and the impact on Kathmandu ICD (ICR para 29). The ex-post net
+   present value was double that estimated at appraisal (US$60.3 million compared to US$29.8 million).
+
+   Implementation Efficiency.
+
+
+
+
+                                                                                                                             Page 7 of 14
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      NIRTTP (P144335)
+
+
+
+The project experienced implementation delays and was extended by 23 months due to cancellation of some of
+the Component 3 works at Birgunj ICD because of unsuccessful procurement. Also, NSW was not completed by
+project closure (ICR para 31), which was expected to adversely affect project efficiency.
+
+Overall, project efficiency was substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?           Point value (%)          *Coverage/Scope (%)
+                                                                                   80.00
+ Appraisal                                                30.00
+                                                                                    Not Applicable
+                                                                                   85.00
+ ICR Estimate                                             41.00
+                                                                                    Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of objectives was high. Project efficacy and efficiency was substantial. The overall outcome is
+satisfactory.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+The ICR identified the following two risks to development outcome:
+
+Government ownership/commitment risk. This risk is rated Moderate. This risk relates to the successful
+completion of the National Single Window (NSW). The ICR notes (para 64) that the government is committed
+to the completion of this activity.
+
+Operation and Maintenance risk: This risk is assessed as Moderate. The ICR notes (para 64) that the ICD
+Kathmandu has been in operation since April 2022. Regarding the maintenance of Narayanghat-Mugling
+road, the government has prioritized it for maintenance allocations and any needed repairs.
+
+
+
+                                                                                                   Page 8 of 14
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     NIRTTP (P144335)
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The project covered both investments in infrastructure and policy issues covering both trade and transit
+  issues. The project design reflected lessons learned from previous transport and trade facilitation
+  projects, but did not mitigate sufficiently the lack of capacity. The ICR (page 18) says that the MoICS
+  could have identified further training needs in large contract management. For the trade component,
+  global lessons from successful Trade Portal and National Single Window systems (such as Lao PDR for
+  the Trade Portal and Singapore, Philippines, and Indonesia for the Single Window) were incorporated
+  into the project design. The project design included findings from the Bank-managed Non-Lending
+  Technical Assistance such as: preparation of the technical and functional architecture for the National
+  Single Window, business process simplification, change management and communication as well as
+  capacity building for officials and the trading community. For the transport component, the application of
+  E&S policies and the inclusion of key governance and sustainability features were incorporated (PAD
+  pages 11 and 12).
+
+  Overall, the project's risk rating at appraisal was assessed "high" due to weak implementation capacity.
+  To mitigate this risk, during project preparation, the Bank Team highlighted the need for filling critical
+  positions such as a Project Director, a Procurement Specialist, and a Financial Management Specialist.
+  There were some delays in hiring these positions. The ICR reports (para 43) that the risks related to
+  political instability did not materialize. The ICR reports (para 43) that substantial capacity building
+  activities, targeting both policy and technical levels, combined with sound project implementation
+  mechanisms (in particular sound coordination among various agencies), contributed to mitigate capacity
+  and governance risks. However, this did not prevent delays from insufficient consultations with local
+  communities (six months), which the Inspection Panel said should be strengthened. The capacity building
+  was not enough because there was insufficient contract management and procurement capacity to
+  explain requirements clearly for the bidders. This led to a 10-month delay while re-bidding took place
+  after lots of errors were made. ICR (para 59) notes that the appraisal was completed rapidly in only 9
+  months. Perhaps more time should have been devoted to capacity building in preparation.
+
+  The safeguards were adequately identified (see section 10 a). The quality at entry also fell short because
+  of a weak M&E design (see section 9).
+
+  Overall, the quality-at-entry was moderately satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The ICR reports (para 61) that the project team worked closely with the Government of Nepal and the
+ implementing agencies and provided direct capacity building support and ad hoc technical inputs even
+
+                                                                                                   Page 9 of 14
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     NIRTTP (P144335)
+
+
+
+ during periods of political instability, the 2015 earthquake, and the COVID-19 pandemic related disruptions.
+ Regular site visits were conducted, and mission documentation and reporting was timely and
+ comprehensive (ICR para 61). The project team had monthly meetings with the client and contractors to
+ support contract management. For the transport component, the Bank team provided technical support for
+ slope protection works. For the trade component, study tours were arranged to learn about NSW good
+ practices.
+
+ There were a few shortcomings: (i) the M&E was not updated during implementation, thereby missing an
+ opportunity to address issues to improve the results framework, and (ii) moderately
+ satisfactory performance in financial management and serious delays in procurement.
+
+ Overall, the quality of supervision was moderately satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ A corridor monitoring system was designed and implemented during project preparation with the
+ collaboration of stakeholders in both India and Nepal (PAD para 36). The Nepal Intermodal Transport
+ Development Board (NITDB, under MoCS) was responsible for the monitoring system, and M&E capacity
+ building was included in the project design.
+
+ There were three PDO level indicators: (i) time associated with meeting regulatory requirements for import,
+ export and transit activities; (ii) border crossing time at Raxaul-Birgunj border post; and (iii) total time
+ between cargo offloading at Kolkata to arrival at Birgunj by road and rail and Birgunj to Kathmandu for
+ trucks. These indicators could have been much improved as they only captured the time savings and did
+ not measure logistics costs as stated in the PDO "to decrease transport time and logistics costs" could
+ have been useful in assessing the achievement of the logistics part of PDO. The ICR notes (para 22) that
+ the reduction in total time of travel proportionately reduces inventory costs and travel times have been
+ considered an adequate proxy for logistics costs.
+
+
+
+b. M&E Implementation
+  The ICR reports (para 46) that each implementing agency monitored the relevant indicators and
+  submitted reports to the Project Coordination Office (PCO). However, the data on time reduction was not
+  submitted on time and did not include all required origins/destinations. Also, the reductions in time and
+  costs for freight forwarders were not monitored.
+
+
+
+                                                                                                  Page 10 of 14
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     NIRTTP (P144335)
+
+
+
+
+c. M&E Utilization
+  The ICR reports (para 47) that the National Trade and Transport Facilitation Committee (NTTFC)
+  reviewed and discussed semi-annual data and monitoring reports and suggested actions for addressing
+  identified problems.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   The project was assigned environmental category "A" and the following six safeguards policies were
+   triggered: Environmental Assessment (OP 4.01); Natural Habitats (OP 4.04); Physical & Cultural Resources
+   (OP 4.11); Forests (OP 4.36); Involuntary Resettlement (OP/BP 4.12); and Indigenous Peoples (OP/BP
+   4.10).
+
+   According to PAD (para 87), although the civil works for the Narayanghat-Mugling road were planned within
+   the existing Right of Way, the fragile ecosystem in this hilly/mountainous country could pose greater than
+   average environmental risks, if not managed appropriately. The key environmental issue of concern was the
+   likely impact of the road on biodiversity/wildlife. A small section of the Narayanghat-Mugling road (about 6
+   km) from Aaptari to Jugedi was within the Barandabhar Forest Corridor had been gazetted as a Protected
+   Forest in February 2012.
+
+   The upgrade of Narayanghat-Mugling road would adversely impact 80 private structures owned by 74
+   households (414 Project Affected Persons (PAPs)). It would also affect 11 community structures which
+   included public toilets, a temple, and a park with a statue of political leader, a chautara, waiting hall, and a
+   youth club (PAD para 81).
+
+   The upgrade of Narayanghat-Mugling road would adversely impact a total of 66 vulnerable households
+   which included 55 janjati (nearly three fourth of the total affected households), 6 dalit (8 percent) and 4
+   chepang community households (5.41 percent), and one female-headed household (PAD para 83).The
+   operational policy on Indigenous People OP 4.10 was triggered and a Vulnerable Community Development
+   Plan was prepared.
+
+   At appraisal, an Environmental and Social Management Framework (ESMF) was prepared. It included a
+   screening tool (to help in identifying appropriate locations for sub-projects, wherever applicable);
+   identification of likely impacts; and a management plan. The ESMF included: (i) the Resettlement Policy
+   Framework (RPF), (ii) Indigenous Peoples Planning Framework (IPPF), (iii) Gender Development
+   Framework (GDF), and (iv) consultation framework.
+
+   Environmental Safeguards.
+
+
+
+                                                                                                       Page 11 of 14
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    NIRTTP (P144335)
+
+
+
+  The project introduced bio-engineering techniques to stabilize the hill slopes, valley side slopes, and the
+  disposal areas along the Narayanghat-Mugling road upgrading alignment. To protect natural habitats along
+  the Narayanghat-Mugling road and Inland Container Depot (ICD) at Kathmandu, the contracts included
+  compensatory tree plantation for the tree losses (25 trees to be planted for each tree felled). The project
+  also developed innovative environmental measures, such as wildlife animal crossing along the
+  Narayanghat-Mugling road. Four water holes were rehabilitated (two on either side of the road) for
+  quenching the thirst of wildlife animals inside Barandabhar forest.
+
+  The ICR reports (para 52) that the environmental safeguards implementation faced several challenges: (i) a
+  high turnover of Environmental and Social (E&S) staff and capacity constraints to implement and manage
+  E&S issues, especially in sub-projects under the trade component; (ii) safeguards capacity and
+  commitment/ownership of the contractors; and (iii) lack of monitoring by the Bank during COVID -19
+  pandemic related restrictions.
+
+  Social Safeguards.
+
+  The Narayanghat-Mugling road upgrade works, and landslide impacts impacted 131 private structures
+  (appraisal estimate was 80) owned by 103 households (appraisal estimate was 74). In addition, twenty
+  community structures, mainly public toilets, and passenger sheds were also affected by the road works. All
+  community structures were reinstated.
+
+  A Vulnerable Community Development Plan (VCDP) was implemented to address project impacts on 91
+  households, mostly dalit people and other minority ethnic groups.
+
+  Cash compensation, displacement allowance, stipend for rental, and business disturbance allowance were
+  paid to the project affected households in line with the RAP, except for one absentee household.
+
+  Inspection Panel.
+
+  The Inspection Panel received and registered a request for inspection of the Kathmandu ICD, with the
+  requesters alleging non-compliance with World Bank’s policies on Involuntary Resettlement, Indigenous
+  Peoples, Physical Cultural Resources and Environmental Assessment. The Inspection Panel visited the
+  project site and did not find sufficient grounds to investigate the complaint. However, the Inspection Panel
+  recommended that consultations with local communities be strengthened in future projects (ICR para 55).
+
+
+
+
+b. Fiduciary Compliance
+  Financial Management. The ICR reports (para 56) that the project's financial management was
+  “moderately satisfactory” due to some internal control deficiencies such as (i) no vouchers of designated
+  account, (ii) “PAID” stamp not affixed on supporting documents, (iii) payment of reimbursable expenses not
+  as per actual expenses, (iv) no payees’ signatures on some payments, (v) claimed retention amount of
+  Nepalese Rupees 32.64 million with the Bank before payment to the contractors, and (vi) payment of full
+  daily allowance to individual consultants for the day of return. The audit reports with unqualified opinions
+  were generally submitted on time.
+
+
+
+                                                                                                  Page 12 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     NIRTTP (P144335)
+
+
+
+   Procurement. The ICR reports (para 57) that project procurement complied with Bank Procurement
+   Guidelines. However, significant delays occurred in the two-stage procurement for National Single
+   Window.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                Reason for
+Ratings                         ICR                   IEG
+                                                                                Disagreements/Comment
+Outcome                         Satisfactory          Satisfactory
+                                Moderately
+Bank Performance                                      Moderately Satisfactory
+                                Satisfactory
+Quality of M&E                  Modest                Modest
+
+Quality of ICR                  ---                   Substantial
+
+
+12. Lessons
+
+The following lessons are taken from the ICR with some modification of language:
+
+Building on solid analytical work is key to successful design and implementation of trade
+and transit projects. The non-lending technical assistance allowed the Bank to formulate
+recommendations to enhance the legal and regulatory framework, prepare options for the effective
+governance and operational models, prepare the technical and functional architecture for the
+National Single Window, carry out preliminary work on business process simplification, and capacity
+development of relevant stakeholders. Implementation arrangements allowed for effective project
+delivery.
+
+World Bank guidance and support for the project’s technical and Environmental and Social
+(E&S) design can provide the government with high quality standards, that can be
+mainstreamed in other similar projects. Given the importance of tourism in Nepal and its rich
+biodiversity, the systematic incorporation of environmental features, such as the construction of the
+animal passes and the development of water holes for wildlife, constitutes good practice. Similarly,
+the early design of road safety components and slope stabilization can minimize road safety risks
+during implementation.
+
+IEG adds following lessons:
+
+
+
+                                                                                                   Page 13 of 14
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       NIRTTP (P144335)
+
+
+
+Environmental Category “A” projects which trigger safeguards policies on “Involuntary
+Resettlement” and “Indigenous Peoples” could strengthen consultations with local
+communities. During the implementation of this project, the Inspection Panel received and
+registered a request for inspection of the Kathmandu Inland Container Depot, with the requesters
+alleging non-compliance with World Bank’s policies on Involuntary Resettlement, Indigenous
+Peoples, Physical Cultural Resources and Environmental Assessment. The Inspection Panel visited
+the project site and did not find sufficient grounds to investigate the complaint. However, the
+Inspection Panel recommended that consultations with local communities be strengthened in future
+projects.
+
+Processes such as “two-stage bidding” require additional training is countries with weak
+procurement capacity. In this project, significant delays occurred in the two-stage procurement for
+National Single Window.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is candid and provides a sound detailed overview of the project. It presents adequate evidence
+to support the project achievements. The ICR is internally consistent; the logical linking and integration of the
+various parts of the report is adequate. The lessons are based on evidence and analysis.
+
+Overall, the quality of the ICR is rated substantial.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                     Page 14 of 14
+

@@ -1,0 +1,1629 @@
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     PFM/accountability to supp. service deli (P157507)
+
+
+
+                                                                                   Report Number : ICRR0024116
+
+1. Project Data
+
+
+
+ Project ID                                   Program Name
+ P157507                                      PFM/accountability to supp. service deli
+
+ Country                                      Practice Area(Lead)
+ Pakistan                                     Governance
+
+
+ L/C/TF Number(s)                             Closing Date (Original)              Total Program Cost (USD)
+ IDA-61700                                    30-Nov-2021                                        379,999,571.43
+
+ Bank Approval Date                           Closing Date (Actual)
+ 19-Dec-2017                                  31-Oct-2023
+
+                                              IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                             400,000,000.00                                              0.00
+
+ Revised Commitment                              380,000,000.00                                              0.00
+
+ Actual                                          379,999,571.43                                              0.00
+
+
+
+
+ Prepared by                  Reviewed by                   ICR Review Coordinator         Group
+ Gloria Carolina              Vandana Chandra               Donna Kaidou Jeffrey           IEGEC (Unit 1)
+ Gutierrez Tejada
+
+
+
+
+2. Program Context and Development Objectives
+
+DEVOBJ_TBL
+a. Objectives
+   According to the Financing Agreement (FA) dated December 29, 2017 (p. 5) and the Program Appraisal
+   Document (PAD) (p. 3), the Program Development Objective (PDO) was:
+
+   “To improve public financial management (PFM) and procurement systems for better management and
+   accountability in service delivery for health and education sectors.”
+
+
+
+                                                                                                    Page 1 of 30
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     PFM/accountability to supp. service deli (P157507)
+
+
+
+   For the purposes of this review, the Program Development Objective (PDO) has been parsed as follows:
+
+         PDO 1: To improve public financial management for better management and accountability in service
+          delivery for the health and education sectors.
+         PDO 2: To improve procurement systems for better management and accountability in service delivery
+          for the health and education sectors.
+
+
+
+b. Were the program objectives/key associated outcome targets revised during
+   implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The Program had five Key Result Areas (KRAs) and eight (8) Disbursement Linked Indicators (DLIs). For
+   clarity, IEG is labelling the KRAs as Components 1-5 and their Sub-components would be the
+   corresponding DLIs (PAD, Table 1 and Annex 1):
+
+   Component 1: Strengthening the legal framework and internal management systems in the line
+   ministries and service delivery units. This component aimed to strengthen the PFM regulatory framework
+   to ensure that all funds were remitted to the Treasury Single Account (TSA) and empower service delivery
+   practitioners to spend timely resources by simplifying the rules for expenditure authorization.
+
+         DLI 1: Reduction of variance in functional expenditure composition for the health and education
+          sectors to improve reliability of the budget (Allocated amount US$70 million).
+         DLI 2: Reduction in cash held outside the Recipient’s TSA (Allocated amount US$70 million).
+
+   Component 2: Improved procurement performance. This component aimed to improve transparency,
+   efficiency, and competition in procurement practices for better value for money in selected federal ministries
+   and provincial departments.
+
+         DLI 3: Percentage of vendor contracts processed through the recipient’s e-procurement system
+          (Allocated amount US$50 million).
+
+   Component 3: Payroll and pension payment systems. This component aimed to track resources to the
+   point of use at the school or health center level and use technology to correct for large inefficiencies in the
+   pension payment system.
+
+         DLI 4: Percentage of alignment of information and identification numbers for individual primary
+          school teachers and health workers related to their place of work and salaries (Allocated amount
+          US$30 million).
+         DLI 5: Percentage of pensioners, disaggregated by gender, authenticated against the National
+          Database and Registration Authority (NADRA) computerized national identity card, paid through the
+
+
+
+                                                                                                       Page 2 of 30
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    PFM/accountability to supp. service deli (P157507)
+
+
+
+         Direct Credit Scheme no later than the following pension payments cycle after retirement (Allocated
+         amount US$30 million).
+
+  Component 4: External audit, legislative scrutiny, and social accountability. This component aimed to
+  strengthen the technical capacity of the Department of Auditor General of Pakistan (DAGP), develop and
+  implement social accountability strategies for citizen participation, improve financial reporting and improve
+  transparency in PFM.
+
+        DLI 6: Percentage of audit recommendations processed through the Audit Management Information
+         System (AMIS) (Allocated amount US$40 million).
+        DLI 7: Increased citizens’ access to key fiscal information concerning health and education
+         (Allocated amount US$30 million).
+
+  Component 5: Performance-based grant. This component aimed to strengthen federal-provincial fiscal
+  coordination and promote innovative service delivery and accountability ideas in PFM.
+
+  DLI 8: Percentage of fiscal performance and service delivery indicators met by the provinces (Allocated
+  amount US$80 million).
+
+
+
+e. Comments on Program Cost, Financing, Borrower Contribution, and Dates
+  Program Cost: The total program cost at appraisal was US$982 million, of which the World Bank’s (WB)
+  contribution was US$400 million. The WB’s revised contribution was US$380 million. The total amount
+  disbursed at closing through the PforR instrument was US$ 379.99 million.
+
+  Financing: The Program for Results (PforR) was originally financed with a US$400 million IDA credit and
+  US$582 million in additional non-WB administered financing provided by the government of Pakistan
+  (US$575 million) and the European Commission (US$7 million). The original Program cost was US$982
+  million. The actual disbursements were as follows: Revised Program cost US$1,512 million of which the
+  GoP disbursed US$1,125 million, WB US$379.99 million and EU US$7 million.
+
+  Dates: The Program was approved on December 19, 2017, and became effective on December 29, 2017.
+  A Mid-Term Review (MTR) was conducted in December 2020. The original closing date was November 30,
+  2021, but the Program was extended by two years and closed on October 31, 2023.
+
+  Restructurings: While the PDO, components (KRAs), and outcome targets remained the same during the
+  life of the Program, the latter was restructured three times.
+
+  Restructuring No.1: The first restructuring on November 22, 2021, aimed to ensure that all critical
+  activities across Components (KRAs) were finalized and implemented to support the achievement of the
+  PDO (RES45628, p. 5). All DLIs, except DLI 8, and their timelines, allocation, and scope were revised. The
+  PDO and M&E framework remained unchanged. The WB’s financing was decreased by US$20 million to
+  align with the narrowed scope of DLIs 2 and 3 and the closing date was extended by 19 months
+  from November 30, 2021, to June 30, 2023 (PAD Annex 1; ICR, para 11).
+
+
+
+
+                                                                                                   Page 3 of 30
+  Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+  PFM/accountability to supp. service deli (P157507)
+
+
+
+Restructuring No.2: The second restructuring on June 25, 2023, aimed to further extend the Program’s
+closing date by four months from June 30, 2023, to October 31, 2023.
+
+Restructuring No.3: The third restructuring on October 26, 2023, aimed to adjust the reallocations of
+funds.
+
+DLI                          Changes made during Restructuring No. 1
+                                  Baseline updated and DLI made scalable in proportion to the
+                                   results achieved by each province and the federal government
+DLI 1: Reduction of                (DLR 1.5 and 1.6)
+variance in functional            Scope broadened with inclusion of federal government (1.5 and
+expenditure composition            1.6).
+for the health and                DLR 1.4 deleted.
+education sectors                 Two new DLRs introduced.
+                                  Completion date extended.
+
+                                   Baseline revised and scope sharpened to exclude cash held by
+                                      provincial and local governments in commercial banks and focus
+DLI 2: Reduction in cash              on federal government deposits held outside the TSA, aligning
+held outside the                      DLI with TSA Policy.
+Recipient’s Treasury                 DLRs 2.3, 2.4, and 2.5 deleted.
+Single Account.                      Two new DLRs introduced.
+                                     Reduced allocation of US$30 million, including a US$15 million
+                                      cancellation.
+                                     Completion date extended
+
+                                   Scope sharpened to include only health and education sectors.
+                                   End target reduced from 90% to 50 - 90% of transactions
+DLI 3: Percentage of                processed through the e-GP and verification protocols amended
+vendor contracts                    to align with the PDO.
+processed through the              Three new DLRs introduced.
+recipient’s e-procurement          Allocation reduced by the relevance of the Program's objectives
+system.                             $5 million.
+                                   Completion date extended.
+
+DLI 4: Percentage of
+alignment of information           Baseline reworded and scope broadened to cover the whole of
+and identification numbers          the government instead of selected district pilots.
+for individual primary             Two new DLRs introduced: 4.6 and 4.7.
+school teachers and                Allocation increased by US$5 million.
+health workers related to          Completion date extended.
+their place of work and
+salaries.
+DLI 5: Percentage of               Two new DLRs were introduced: 5.5 and 5.6.
+pensioners, disaggregated          Allocation split between two financial years.
+by gender, authenticated
+
+                                                                                                 Page 4 of 30
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     PFM/accountability to supp. service deli (P157507)
+
+
+
+   against the National               Completion dates extended.
+   Database and Registration
+   Authority (NADRA)
+   computerized national
+   identity card, paid through
+   the Direct Credit Scheme
+   (DCS) no later than the
+   following pension
+   payments cycle after
+   retirement.
+   DLI 6: Percentage of audit         Scope broadened to include four sectors —Revenue, Social
+   recommendations                     Safety, Climate, and Public Works.
+   processed through the              Two new DLRs were introduced: 6.5 and 6.6.
+   Audit Management                   Allocation increased by US$10 million.
+   Information System.
+
+   DLI 7: Increased citizen
+                                      DLR 7.1 was not achieved because the Open Government Action
+                                       Plan was not submitted and was replaced with enhanced
+   access to key fiscal
+                                       reporting requirements under DLI 6.
+   information concerning
+   health and education.              Two new DLRs introduced: 7.5 and 7.6.
+
+   DLI 8: Percentage of fiscal
+   performance and service            No change.
+   delivery indicators met by
+   the provinces.
+
+3. Relevance   TBL
+
+
+
+
+a. Relevance of Objectives     New
+
+
+
+
+  Rationale
+  Country and sector strategy: The PDO was relevant at appraisal both in the broader country context as
+  well as the more specific PFM context which was highly centralized in Pakistan. Addressing PFM bottlenecks
+  by the federal government was critical to service delivery. PFM functions were split between federal and
+  provincial entities with budgeting and expenditure management being responsibilities of the provincial
+  government, and accounting and auditing being federal mandates. Provincial Accountant Generals,
+  employed by the federal government were responsible for processing payroll, pension and vendors’
+  transactions which were targeted in Component 2 (Improved Procurement Performance) and Component 3
+  (Payroll and Pension Payment Systems) of the Program. The institutional capacity of the provincial
+  governments was important for implementing these functions.
+
+  Health and education service delivery was devolved to the provinces in 2010 under the 18th Constitutional
+  Amendment in Pakistan, but despite a substantial increase in the health and education budget at the
+  provincial level between 2013 -14 and 2017-18, resources failed to be efficiently executed. The government
+  aimed to increase the budget allocation to both sectors, but without structural changes in PFM and reliable
+  execution of the budget, a larger budget would not translate into better PFM performance. According to
+
+                                                                                                  Page 5 of 30
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   PFM/accountability to supp. service deli (P157507)
+
+
+
+the Program’s PAD (para 4), the actions needed to remove the PFM bottlenecks were: a robust law; strong
+cash management; timely and comprehensive reporting; improved federal-provincial coordination; timely
+release of funds; streamlined payroll and pension systems; efficient and transparent procurement, and user-
+friendly reports for citizen engagement.
+
+Government Strategy: At appraisal, the proposed PDO was well aligned with the government’s six-pillar
+PFM Reform Strategy (2018-2027) that had been jointly approved by the federal and provincial governments.
+The objective of the reform was to consolidate PFM progress and make incremental improvements to ensure
+that systems delivered to their full potential and were subject to accountability and transparency. Five of the
+six pillars of the PFM Reform Strategy were directly supported by the PforR: Pillar 1 on fiscal sustainability
+and credibility of the budget; Pillar 3 on service delivery and results-based management; Pillar 5 on
+oversight, transparency and accountability; Pillar 6 on vehicle PFM coordination; and, partially, Pillar 4 on
+public investment management and PPP (PAD, para 8).
+
+The PFM Reform Strategy was also supported by the National Procurement Strategy and Training Plan
+(2017-2021) (PAD, para 7). In addition, the Program’s PDO was aligned with Pakistan’s Vision 2025 which
+focused on a responsive, inclusive, transparent, and accountable system of governance, and was fully
+relevant for the Program’s objectives.
+
+Country Partnership Strategy: At appraisal, the PDO was well aligned with the WBG’s Country Partnership
+Strategy (CPS) FY15-20 for Pakistan. The Program was aligned with Result Area 4 on “Service Delivery” by
+adopting a citizen-centered approach to removing PFM constraints to service delivery, focusing on results,
+and fully exploiting the potential of emerging technologies to advance transparent and accountable service
+delivery as expressed in Component 3 (Payroll and pension payment systems), Component 4 (External
+audit, legislative scrutiny, and social accountability), and Component 5 (Performance-based grant).
+
+The PDO supported the International Development Association (IDA) 18 commitment to improve public
+expenditure, financial management, and procurement, and was aligned with Sustainable Development Goal
+(SDG) 16 on governance and institutions.
+
+In addition, the PDO was aligned with the World Development Report 2017: Governance and the Law on its
+recommendations to strengthen commitment, coordination, and cooperation in PFM systems and institutions.
+Finally, it would contribute to Pillar 2 of the 2020 Systematic Country Diagnostic (SCD) by improving PFM
+under the priority area: “Improve efficiency and equity of spending on poverty reduction.”
+
+Prior WB sector and country experience: The Program was informed by previous WB work in Pakistan,
+including the Public Expenditure and Financial Accountability (PEFA) Assessment of 2012 and the lessons
+learned from the Project to Improve Financial Reporting and Auditing (PIFRA). The basic ICT infrastructure
+was already in place through the previous PIFRA projects (PAD, para 11).
+
+Moreover, the Program complemented ongoing WB-financed health and education operations aimed at
+improving service delivery outcomes directly. According to the PAD (para 12), there were five ongoing sector
+projects with actions relevant to the Program: Pakistan: Third Punjab Education Sector Project (P154524),
+Pakistan: Sindh Education Sector Project, Enhanced Nutrition for Mothers and Children (P131850), Punjab
+Health Sector Reform Project (P123394), and the National Immunization Support Project (P132308).
+
+Country capacity and adequacy of PforR Instrument: Given the challenges in Pakistan, and the need for
+multiple system-wide reforms, designing the first PforR Program around five PDO-level indicators
+
+
+                                                                                                 Page 6 of 30
+                       Independent Evaluation Group (IEG)                         Implementation Completion Report (ICR) Review
+                       PFM/accountability to supp. service deli (P157507)
+
+
+
+                was appropriate to address the key PFM and procurement constraints to better service delivery in the
+                education and health sectors.
+
+                Five PDO-level indicators and targets, as well as the eight DLIs were considered adequate outcome
+                measures, except that the Program failed to distinguish between targets at the provincial and federal levels
+                and the scope of the Program was ambitious. Each of the five PDO-level indicators overlapped with a DLI;
+                DLIs 4, 5 and 7 were not associated with a PDO-level indicator. The Program’s Theory of Change (ToC)
+                (ICR, Figure 1, p. 60) presents a succinct and logical flow from activities (inputs) and outputs to DLIs, and
+                intermediate outcomes to PDO level outcomes and high-level outcomes.
+
+                The program supported capacity building and institutional strengthening of key PFM institutions and service
+                delivery units and provided incentives for behavioral change in recipient agencies. Support was aimed at the
+                Pakistan Audit and Accounts Academy (PAAA) to operate as a PFM Centre of Excellence using the
+                qualification framework of the Pakistan Institute of Public Finance Accountants. Support was also to be
+                provided to the Public Procurement Authority to enable it to provide training in Public Procurement Rules
+                across government departments. Finally, training on collaborative leadership was to be developed with the
+                PAAA with the objective of supporting behavioral change and program ownership.
+
+                In addition, the Program benefitted from consultation and dialogue with development partners and
+                complementary support through projects with the European Union, USAID, and the United Kingdom’s
+                Department for International Development. These would contribute to the country’s capacity for implementing
+                its first PforR (PAD, p. 14).
+
+                The selection of a PforR instrument was well justified for this operation as it was driven by the need
+                to address system-wide bottlenecks to PFM and procurement by supporting key reforms,
+                strengthening country systems, capacity building and institutional strengthening accompanied by incentives
+                for behavioral change, and reforms to strengthen public administration processes using emerging
+                technologies. Proposed solutions included a PFM law; timely and comprehensive reporting; streamlined
+                payroll and pension systems; e-procurement; and citizen-friendly reports.
+
+                There were, however, some shortcomings in the instrument. The absence of Technical Assistance (TA) was
+                a shortcoming as it was needed to strengthen capacity and knowledge of the new instrument both at the
+                provincial and federal levels. Despite actions needed to address major federal-provincial coordination
+                constraints necessary for program implementation, the Program’s Performance-based grant DLI (8) only
+                dealt with the creation of a coordination mechanism (the Fiscal Coordination Committee) and establishment
+                of an incentive system for rewarding fiscal performance in selected areas. While a coordination mechanism
+                and incentives for fiscal performance were necessary, they would not resolve the constraints.
+
+                Despite these shortcomings, the relevance of objectives is rated Substantial.
+
+
+Rating Relevance TBL
+
+
+
+
+                Rating
+                Substantial
+
+
+b. Relevance of DLIs                     New
+
+
+
+
+                                                                                                                  Page 7 of 30
+                      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+                      PFM/accountability to supp. service deli (P157507)
+
+
+DLI RELEVANCE TBL
+
+
+
+
+                DLI 1
+                DLI
+                DLI 1 referred to the reduction of variance in functional expenditure composition for the health and education
+                sectors to improve the reliability of the budget.
+
+
+                Rationale
+                DLI 1 contributed to PDO 1 by reducing the variance in expenditure for the health and education sectors
+                through a set of measures that included a strong PFM regulatory framework for fiscal discipline, strengthening
+                the connection between plans and budgets, efficient procurement systems, and trimming the arbitrary
+                reallocation of resources to other sectors. DLI 1 would be measured by the reduction in the variation between
+                the original approved budget and actual expenditures in health and education. The timeline set targets at less
+                than 25 percent variance in year 2; less than 15 percent in year 3; and less than 10 percent in year 4. The
+                verification protocol was clear, technically sound and credible, entailing review of the PFM law, review of the
+                Auditor General of Pakistan (AGP) Notification, review of the Financial Accounting and Budgeting System
+                (FABS) report and calculation of variance using the PEFA methodology. The original disbursement allocated
+                to this DLI was US$70 million, and the actual amount disbursed was the same.
+
+                Achieving this outcome would improve reliability of the budget in health and education. This, in turn, would
+                contribute to the achievement of PDO 1 (improve PFM for better management and accountability in service
+                delivery for health and education sectors) by narrowing the variance between the original and actual
+                expenditures in both sectors. However, a lower variance did not automatically imply better budget execution
+                or better quality of programs and projects in health and education.
+
+                During the first restructuring, DLI 1 was adjusted to be scalable although the target was unchanged.
+
+                This DLI is rated Substantial.
+
+
+
+                Rating
+                Substantial
+
+                DLI 2
+                DLI
+                DLI 2 referred to the reduction in cash held outside the Recipient’s TSA.
+
+                Rationale
+                DLI 2 contributed to PDO 1 by addressing the need to enact a legal framework to ensure that all funds went
+                to the TSA and simplified expenditure authorization rules to allow timely spending by service delivery
+                practitioners. Two factors encouraged government departments to keep cash outside the TSA: a highly
+                centralized payment authorization system without a legal framework, and an inadequate IT infrastructure for
+                e-payment. As of June 2017, there were 753,084 government accounts in commercial/scheduled banks with
+                a total balance of PKR 1.584 trillion. DLI 2 would be measured by a special survey of governments accounts
+                in commercial banks and the adoption of an accounting framework for daily consolidation of all government
+                cash balances as part of the TSA. The timeline set targets at 5 percent reduction in cash held outside the
+                TSA in year 2; additional 5 percent in year 3; and additional 5 percent in year 4. The verification protocol was
+
+                                                                                                                    Page 8 of 30
+      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+      PFM/accountability to supp. service deli (P157507)
+
+
+
+clear, technically sound and credible, entailing review of the Auditor General of Pakistan’s (AGP) special
+survey report on government bank accounts held in the State Bank of Pakistan (SBP) and scheduled/
+commercial banks; verification of adequacy of coverage, including several accounts held in public entities and
+line ministries; and review of the SBP Bulletin on classification of scheduled bank’s deposits; fiscal operations
+report, and FABS bank reconciliation reports.
+
+Achieving this outcome would ensure all funds went to the TSA and simplified expenditure authorization rules
+for the health and education sectors. This would contribute to the achievement of PDO 1 by allowing timely
+spending in both sectors.
+
+The original disbursement allocated to this DLI was US$70 million, and the actual amount disbursed was
+US$40 million. During the first restructuring, DLI 2 was adjusted to exclude cash held by provincial and local
+governments in commercial banks and focus on federal government deposits held outside the TSA, aligning it
+with TSA Policy and the allocation was reduced by US$30 million, including a US$15 million cancellation.
+
+This DLI is rated High.
+
+
+
+Rating
+High
+
+DLI 3
+DLI
+DLI 3 referred to the percentage of vendor contracts processed through the Recipient’s e-procurement system.
+
+
+Rationale
+DLI 3 was to be achieved through reforms to enhance transparency, efficiency, and competition in
+procurement practices for better value for money in selected federal ministries and provincial government
+departments. DLI 3 contributed to only PDO 2 (improve procurement systems for better management and
+accountability in service delivery for health and education sectors). The procurement reforms would be
+measured by the share of the targeted procurement packages processed through e-procurement in the health
+and education sectors and included the publication of bidding documents for goods, proposals for
+consultancy services, and contracts for specialized procurements. The timeline set targets at 50 percent of
+targeted packages to be processed through e-procurement for the health and education sectors in year 3,
+and 90 percent in year 4 as well as 50 percent for additional procurement entities also in year 4. The
+verification protocol was clear, technically sound and credible, entailing review of notifications on Public
+Procurement Rules, Standard Bidding Documents, procurement plans and transaction reports from the e-
+procurement system, among others.
+
+The key constraints to efficient procurement included the lack of linkages between procurement plans and
+budgets, gaps in procurement rules limiting competitive bidding, inefficiencies due to a manual procurement
+system, and the need for qualified procurement personnel. These issues caused delays and inadequacies in
+funding for service delivery units, hindering the timely receipt of essential inputs and negatively impacted
+health and education service delivery outcomes.
+
+
+
+                                                                                                    Page 9 of 30
+      Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+      PFM/accountability to supp. service deli (P157507)
+
+
+
+Achieving DLI 3 would improve the transparency and efficiency of the procurement system in health and
+education and contribute to the achievement of PDO 2.
+
+The original disbursement allocated to this DLI was US$50 million, and the actual amount disbursed was
+US$45 million. During the first restructuring, DLI 3 was scaled down to include only the health and education
+sectors, the end target was reduced from 90% to 50 - 90% of transactions processed through the e-GP,
+verification protocols amended to align with the PDO, and the allocation was reduced by US$5 million.
+
+This DLI is rated High.
+
+
+
+Rating
+High
+
+DLI 4
+DLI
+DLI 4 referred to the percentage of alignment of information and identification numbers for individual primary
+school teachers and health workers related to their place of work and salaries.
+
+Rationale
+DLI 4 aimed to strengthen tracking the attendance, postings, and transfers of front-line service delivery
+personnel that complicated the planning and payroll audits of teachers and health workers. DLI 4 sought to
+rectify the constraint caused by the lack of integration between the Education Management Information
+System (EMIS), the Health Management Information System (HMIS) and the Financial Accounting and
+Budgeting System which made it difficult to track resources to their end use. For example, bulk budgets
+received by Drawing and Disbursing Officers (DDOs) were not broken down by individual schools or health
+centers. DLI 4 was to be measured by the mapping of school teachers and health workers to education and
+health units in pilot districts and standardization of sanctioned position codes between the budget and payroll
+in pilot districts. The timeline set targets at 40 percent of teachers and health workers tagged in year 2; 60
+percent in year 3; and 80 percent in year 4. The verification protocol was clear, technically sound and
+credible, entailing review of extracts from an Organization Management module to ascertain linkage of payroll
+and sanctioned positions. The original disbursement allocated to this DLI was US$30 million, and the actual
+disbursed amount was US$35 million as US$5 million was added during restructuring. During the first
+restructuring, the DLI was adjusted to cover the whole of the government instead of selected district pilots and
+the allocation was increased by US$5 million.
+
+Achieving DLI 4 would improve tracking of teachers and health workers personnel, planning and payroll
+audits. This, in turn, would contribute to the achievement of PDO 1 by improving the percentage of alignment
+of information and identification numbers for individual primary school teachers and health workers related to
+their place of work and salaries.
+
+This DLI is rated High.
+
+
+
+Rating
+
+
+                                                                                                  Page 10 of 30
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      PFM/accountability to supp. service deli (P157507)
+
+
+
+High
+
+DLI 5
+DLI
+DLI 5 referred to the percentage of pensioners, disaggregated by gender, authenticated against the National
+Database and Registration Authority’s (NADRA) computerized national identity card, paid through the Direct
+Credit Scheme no later than the following pension payment cycle after retirement.
+
+Rationale
+DLI 5 aimed to improve the efficiency of the pension payment system through the authentication of
+pensioners against the NADRA database. DLI 5 contributed to PDO 1 by addressing a PFM constraint
+caused by a highly inefficient pension payment system in which most pensioners were from the health and
+education sectors. A PFM bottleneck was created because their service records were maintained manually at
+various office locations where they served. DLI 5 sought to remove the bottleneck by setting authentication
+targets at 70 percent in year 2; 80 percent in year 3; and 90 percent in year 4. The verification protocol was
+clear, technically sound and credible, entailing a review of employee records in HR/ Payroll databases and
+measures to ensure gender disaggregation. The original disbursement allocated to this DLI was US$30
+million, and the actual amount disbursed was the same.
+
+Achieving DLI 5 would contribute to the achievement of PDO 1 by narrowing the variance between the
+original and actual expenditures for pension payments in both sectors.
+
+During the first restructuring, the allocation was split between two financial years.
+
+This DLI is rated High.
+
+
+
+Rating
+High
+
+DLI 6
+DLI
+DLI 6 referred to the percentage of audit recommendations processed through the AMIS.
+
+
+
+Rationale
+DLI 6 aimed to address the inefficiencies in financial reporting and transparency in PFM and contributed to
+PDO 1 by increasing and ensuring that the number of audit recommendations in the health and education
+sectors processed through the AMIS were effectively acted upon. This DLI was measured by the
+establishment of a competency wing with trained staff, Public Accounts Committee (PAC) recommendations
+effectively acted upon, and reports made accessible to the public. The timeline set targets of 40 percent for
+the recommendations effectively followed up and reports published and made accessible to the public by year
+2; 60 percent in year 3; and 80 percent in year 4. The verification protocol entailed reviews of the AMIS
+implementation and training plan, and review of the DAGP Annual Audit Report to verify evidence of effective
+follow-up of the audit findings; included issuance by the executive or audited entity of a formal written
+
+                                                                                                  Page 11 of 30
+      Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+      PFM/accountability to supp. service deli (P157507)
+
+
+
+response to the findings and reports on follow-up to provide evidence of implementation. The verification
+protocol was clear, technically sound, and credible, entailing processing audit reports through the AMIS.
+
+Achievement of DLI 6 would increase the share of the audit reports that were acted upon and published on an
+official website. The outcome, however, was more comprehensive as the AMIS system was implemented
+across all directorates within the Auditor General’s Office contributing to the achievement of PDO 1.
+
+The original amount allocated to this DLI was US$40 million, and the actual amount disbursed was US$50
+million. During the first restructuring, the scope of DLI 6 was expanded to cover the follow-up of audit
+recommendations from two to six sectors, including four additional sectors — Revenue, Social Safety,
+Climate, and Public Works and the allocation was increased by US$10 million.
+
+
+
+Rating
+High
+
+DLI 7
+DLI
+DLI 7 referred to increased citizen access to key fiscal information on health and education.
+
+Rationale
+DLI 7 aimed to develop and implement social accountability strategies for citizen participation in PFM. DLI 7
+contributed to PDO 1 because a strong PFM system is influenced by transparency and citizen participation
+when there is strong evidence that transparency positively impacts public service delivery outcomes. A report
+from Uganda indicated that public access to financial information can enhance service delivery and improve
+accountability. According to the Open Budget Index, the GoP provided the public with limited budget
+information, but it had committed to the Open Government Partnership (OGP) Principles. This was to be
+measured with the submission in year 1 of an OGP National Action Plan that included a Fiscal Transparency
+theme and the uploading of the Integrated Service Delivery Report (ISDR) for the education and health
+sectors in the Open Public Finance Data Portal by year 2 and its continuation in years 3 and 4. The
+verification protocol was clear, technically sound and credible, entailing the submission of the OGP National
+Action Plan and review and verifications of the use of the ISDR for budget monitoring and accountability,
+among other protocols.
+
+Achieving this outcome would improve reliability of the budget in health and education. This, in turn, would
+contribute to the achievement of PDO 1 by reporting on the narrowing of the variance between original and
+actual expenditures in both sectors on the Portal. The Portal was established, and the ISDRs were uploaded
+in the Portal and websites of the Ministry of Finance (MoF), Auditor General and Controller General under
+“Citizen data” (TTL interview).
+
+The original amount allocated to this DLI was US$30 million, and the actual amount disbursed was the same.
+However, during the first restructuring, the DLI was adjusted as the OGP Action Plan was not submitted and
+was replaced with enhanced reporting requirements under DLI 6.
+
+
+
+Rating
+
+                                                                                                Page 12 of 30
+                            Independent Evaluation Group (IEG)                   Implementation Completion Report (ICR) Review
+                            PFM/accountability to supp. service deli (P157507)
+
+
+
+            Substantial
+
+            DLI 8
+            DLI
+            DLI 8 referred to the percentage of fiscal performance and service delivery indicators met by the provinces.
+
+
+            Rationale
+            DLI 8 aimed to address shared responsibilities between federal and provincial governments and was the
+            Program’s most important aspect. It contributed to PDO 1 as service delivery responsibilities had largely
+            shifted to the provinces while PFM stayed with the federal government, and fiscal performance and delivery
+            indicators were directly linked to PFM systems.
+
+            Three key developments had significantly impacted PFM systems and service delivery in the country: (i) the
+            provinces were responsible for service delivery; (ii) the Auditor General of Pakistan’s role in holding provinces
+            accountable for resource use had been strengthened; and (iii) the provinces' share of the federal resource
+            pool had increased significantly. These changes empowered provinces to enhance service delivery, but also
+            necessitated more collaborative leadership to implement national goals and the Sustainable Development
+            Goals. DLI 8 was to be measured by the establishment of a Fiscal Coordination Committee (FCC) by the
+            Council for Common Interests (CCI); establishment and approval of an incentive system by the FCC to
+            improve fiscal performance and service delivery in selected areas, the provision of an innovation award for
+            the indicators met, and other measures. The timeline set targets on the innovation award to be provided to
+            provincial governments for 10 to 20 percent of the fiscal performance indicators met by year 2; between 25 to
+            50 percent by year 3; and between 35 to 70 percent by year 4. The verification protocol was clear, technically
+            sound and credible, entailing review of the FCC Notifications issued by the CCI; review of the incentive
+            system for performance-based grants; achievement of the Fiscal Responsibility and Service Delivery
+            Barometer to determine the innovation award; and the scalability of the innovation award thresholds. The
+            original disbursement allocated to this DLI was US$80 million, and the actual amount disbursed was the
+            same.
+
+            Achieving DLI 8 would improve Pakistan’s fiscal performance and service delivery indicators. This, in turn,
+            would contribute to the achievement of PDO 1 by improving transparency and coordination between the
+            federal and provincial governments. The program led the provinces to adopt the citizens’ budgets, enact PFM
+            laws, as well as fully implement Direct Credit Pension payments and e-Payment solutions, thanks to these
+            strategic interventions. In addition, the federal government’s e-Procurement system was adopted by the
+            provinces.
+
+            During the first restructuring, DLI 8 was the only DLI left unchanged.
+
+            This DLI is rated High.
+
+
+
+            Rating
+            High
+
+
+OVERALL RELEVANCE DLI TBL
+
+
+
+
+                                                                                                               Page 13 of 30
+                   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                   PFM/accountability to supp. service deli (P157507)
+
+
+
+
+               OVERALL RELEVANCE RATING
+               Rationale
+               The relevance of the Program's objectives was rated Substantial, and the relevance of the 8 DLIs was rated
+               Substantial. The overall relevance rating for the Program is Substantial.
+
+               The DLIs were highly relevant to the WB's country and sector strategies both at appraisal and closure. They
+               were also highly relevant to the GoP’s PFM strategy at appraisal, but less so by the time of closing as
+               external factors such as the COVID-19 pandemic had shifted the government’s focus away from the policy
+               priorities of the Program.
+
+               The eight DLIs were clearly defined, well aligned with the PDO, and provided appropriate incentives to trigger
+               actions and performance. They reflected measurable progress towards the broader reform priorities of the
+               government and improved efficiency mainly by helping to clear PFM and procurement bottlenecks, innovating
+               on technologies to advance transparency and accountability, improving citizen participation, and building
+               human and institutional capacity to sustain PFM and procurement system reforms over the long term. Among
+               the few shortcomings were the lack of TA to familiarize the government officials with the logistics of the DLI’s
+               given that this was the country’s first PforR, and the absence of discrete targets at the federal and provincial
+               levels.
+
+
+
+               Rating
+               Substantial
+
+
+
+   4. Achievement of Objectives (Efficacy)
+EFFICACY_TBL
+
+
+
+
+               OBJECTIVE 1
+               Objective
+               PDO 1: To improve PFM for better management and accountability in service delivery for health and
+               education sectors.
+
+               Rationale
+               Theory of Change. The Program would achieve PDO 1 by simplifying PFM processes and supporting legal
+               and institutional reforms. This would be achieved by reducing the variance in functional expenditure
+               composition for health and education to improve reliability of the budget (DLI 1); and reducing the cash held
+               outside the Recipient’s TSA (DLI 2). This would be facilitated by key activities such as approving Pakistan’s
+               first PFM Act of 2019 that would provide the legal basis for PFM reforms, standardize expenditure controls,
+               and capacity building, as well as activities such as the implementation of a special survey of government
+               bank accounts, setting up a cash management policy and accounting framework for TSA consolidation, online
+               bill submission and EFT, and timely automated bank reconciliation to reduce the cash held outside the TSA.
+
+               The Program would also achieve PDO 1 by aligning information and identification numbers for primary school
+               teachers and health workers related to their place of work and salaries (DLI 4); and authenticating
+
+                                                                                                                 Page 14 of 30
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   PFM/accountability to supp. service deli (P157507)
+
+
+
+pensioners, disaggregated by gender, against the National Database and Registration Authority (NADRA)
+computerized national identity card (DLI 5). This would be achieved by key activities such as
+the establishment of biometric identification and linkage to NADRA, linkages with the EMIS and the
+HMIS, digitizing service books and setting up the Pension Management Information System.
+
+The Program would also achieve PDO 1 by increasing the number of audit recommendations processed
+through the AMIS (DLI 6); and increasing citizen access to key fiscal information on health and education (DLI
+7). The key activities that would facilitate these included establishing the AMIS Wing and Financial
+Transactions audited through Computer Aided Audit Tools, guidelines/MoUs for the selection of Civil Society
+Organizations (CSOs), publishing guidelines on Citizen Participatory Audits (CPA), and
+establishing performance audits conducted through CPA. Other activities included instituting an Open Data
+Readiness assessment (ODRA), an ISDR template, and an Open Public Finance data Portal.
+
+The Program would also achieve PDO 1 by attaining fiscal performance and service delivery indicators in the
+provinces (DLI 8). This would be accomplished by establishing a Fiscal Coordination Committee to facilitate
+coordination between provincial and federal governments, developing a Performance Grant Framework and
+performance indicators to reward health and education practitioners, establishing innovation award criteria
+and innovation proof of concepts. The ultimate outcome sought was improved PFM processes in all provinces
+to facilitate an enabling environment for PFM in service delivery.
+
+The achievement of PDO 1 is based on the efficacy of 7 DLIs and 4 PDO outcome indicators. The evidence is
+further triangulated with the achievement of 10 Intermediate Result Indicators (IRIs) - IRIs 1 – 8, and IRIs 15-
+16. The 4 PDO indicators were similar or identical to the 4 DLIs.
+
+The four PDO indicators targeted to reducing the variance between the originally approved budget
+and expenditure (same as DLI 1), reducing cash held outside the Recipient’s TSA (same as DLI 2),
+increasing the percentage of audit recommendations processed through the AMIS (same as DLI 6) and
+increasing the percentage of fiscal performance and service delivery indicators met by the provinces (same
+as DLI 8) would, like the DLIs, contribute to the achievement of PDO 1.
+
+In short, a strengthened legal framework enabled by Pakistan’s first PFM Act of 2019 and internal
+management systems provided Pakistan a legal basis for PFM reforms, led provinces to establish PFM laws,
+improved budget preparation, reduced unapproved projects, and reduced arbitrary allocations. The program
+also improved efficiency in payments for service delivery through digital payments and fiscal savings through
+TSA; digitized pensions payments and payroll to improve resources management; enhanced transparency in
+audit; and reduced manual processes that curbed paper and fuel usage, lowering the PFM carbon footprint.
+The combination of these activities led to improved PFM for better management and accountability in service
+delivery for the health and education sectors.
+
+Key Inputs/Outputs
+
+        Pakistan’s first PFM Act of 2019 was established.
+        Steps in standardized expenditure controls reduced from 22 steps to 3 steps.
+        51% of vouchers were exempted from pre-audit and cleared within 24 hours.
+        Savings of PKRs 10.9 billion in 8 months of TSA rollout.
+        Delays in vendor payments were reduced from 27 to 4 days.
+        Delays in pension payments reduced from 90 days to 1 day.
+
+                                                                                                 Page 15 of 30
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   PFM/accountability to supp. service deli (P157507)
+
+
+
+
+      22,000 ghost pensioners were removed from the scroll thanks to biometric verification.
+      2.5 million pensioners received payments directly in their bank accounts (20% (500,000) were
+         women).
+        Payroll information of six million employees was made accessible on an online dashboard.
+        AMIS was established and audit reports were published.
+        Guidelines on Citizen Participatory Audits were prepared and published.
+        Citizen dashboards and citizens’ budgets were published on the FD website.
+        A Fiscal Coordination Committee was established, and the Performance Grant Framework was
+         developed.
+
+DLIs and PDO Outcome Indicators
+
+There were seven DLIs (DLIs 1-8, except DLI 3), that contributed to PDO 1. Four DLIs were similar but not
+identical to the PDO indicators.
+
+DLI 1/ PDO indicator 1 were similar and referred to the reduction of variance in functional expenditure
+composition for the health and education sectors to improve reliability of the budget at the federal and
+provincial government levels (ICR, Annex 1A and 1B). DLI 1 focused on the variance at the federal level while
+PDO indicator 1 focused on the variance at the provincial level. Baseline: Variance in: Health 43%; Education
+30%. Variance in health and education for fiscal year 2016-17 for the federal and provincial governments:
+Federal: 26%; Punjab: 21 %; Khyber Pakhunkhwa: 29%; Sindh: 11%; Baluchistan: 10% (ICR, Annex 1A);
+Original Target for Health and Education: less than 10% (Annex 1B, p. 31). Original/ Revised Targets:
+10% (ICR, p. 18 notes the same target); Actual achieved at completion: No information is reported for the
+variance in the individual sectors (See Annex 1B, p. 31-32). The combined average variance for the
+education and health sectors was Federal: 9.65%; Punjab: 14%; Sindh: 10%; KPK: 17%; Baluchistan: 7%
+The target was achieved at the Federal level (DLI 1 achieved), as well as at the provincial levels in Sind and
+Baluchistan, but the target was missed in the provinces of Punjab and Khyber Pakhtunkhwa largely due to
+catastrophic floods. As the Actual target was met for DLI 1 but only partially achieved for PDO indicator 1, a
+rating of Modest is assigned to DLI 1/ PDO indicator 1. They contributed to PDO 1 by reducing the variance
+and improving the relationship between PFM plans and budgets.
+
+DLI 2/ PDO indicator 2 referred to the reduction in cash held outside the Recipient’s TSA. Baseline: 753,084
+government accounts in commercial/scheduled banks with a total balance of PKR 1.584 trillion (Annex 1B)/
+(FY 2016-17) federal government deposits of PKRs 0.916 trillion parked in commercial bank accounts of
+which PKRs 0 billion was brought into the TSA (Annex 1A); Original and Revised Target: 15% of the
+baseline or PKRs 150 billion brought into the TSA. The Revised Target focused only on federal government
+accounts. Actual achieved at completion: PKRs 152 billion of funds brought into the TSA through a
+sweeping arrangement resulting in significant cost savings (estimated at PKR 9 billion in interest expenses
+during the last 8 months of the Program) for the government. The Target was modestly exceeded and is rated
+Substantial. DLI 2/ PDO indicator 2 contributed to PDO 1 by ensuring that all funds went to the TSA and
+simplifying expenditure authorization rules to allow timely spending by service delivery practitioners.
+
+DLI 4 referred to the percentage of alignment of information and identification numbers for individual primary
+school teachers and health workers related to their place of work and salaries. After restructuring, DLI 4 was
+broadened to align with the Human Resource Management Information System (HRMIS) and the Integrated
+Financial Management Information System (IFMIS) from two pilot districts to all four provincial and federal
+levels. Baseline: Individual data in the OM was not aligned with data in EMIS and HMIS; Target: 80% of
+
+                                                                                                 Page 16 of 30
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   PFM/accountability to supp. service deli (P157507)
+
+
+
+primary school teachers and health workers tagged; Actual: 80% achieved at completion but by only one of
+the four provincial governments - Modest. DLI 4 contributed to PDO 1 by integrating the EMIS, the HMIS, and
+the FABS to track resources to their end use in one province.
+
+DLI 5 referred to the percentage of pensioners, disaggregated by gender, authenticated against the National
+Database and Registration Authority (NADRA) computerized national identity card, paid through the Direct
+Credit Scheme (DCS) no later than the following pension payment cycle after retirement. Baseline: DCS paid
+35%; Target: 90%; Actual achieved at completion: 90% exceeded DLI 5 is rated High as the target was
+surpassed and the DCS system was replicated across the country. An additional US$500,000 was disbursed
+for each additional 1% achieved above the target of 85% (Annex 1B, p. 43). DLI 5 contributed to PDO 1
+through the authentication of pensioners against the NADRA database because most pensioners were from
+the health and education sectors with their service records maintained manually.
+
+DLI 6/ PDO indicator 3 referred to the percentage of audit recommendations processed through the AMIS.
+After restructuring, DLI 6 was expanded from covering 2 sectors (education and health) to 6 sectors including
+four additional sectors — Revenue, Social Safety, Climate, and Public Works. Baseline: AMIS did not exist;
+Target: 80% of the audit recommendations for education and health were effectively acted upon and reports
+published on an official website or by any other means easily accessible to the public; Actual achieved at
+completion: 100% and AMIS was implemented although with shortcomings across all directorates within the
+Auditor General's Office. The outcome was more comprehensive than the initial aim but was achieved with
+delays and its impact has yet to be assessed (ICR paras 25 and 29). As an example, the internal audit
+function was implemented but did not become operational in the Department of Education and remained as
+pilots in the education and health sectors. Therefore, the achievement of DLI 6 is rated Substantial. DLI 6
+contributed to PDO 1 as the number of audit recommendations in the health and education sectors processed
+through the AMIS were effectively acted upon, improving legislative scrutiny and social accountability.
+
+DLI 7 referred to increased citizen access to key fiscal information on health and education. Baseline: Budget
+execution report by economic classification in PDF format. Target: ISDR for education and health sectors
+uploaded in Open Public Finance Data Portal; Actual achieved at completion: The Portal was established,
+and the dashboards were uploaded on the websites of the Ministry of Finance under “Citizen data,” Auditor
+General and Controller General. The Open Public Finance Data Portal was established. Public access to
+financial data through citizen dashboards and online portals improved the Open Budget Index Score. The key
+actions that contributed to this improvement include publishing of audit reports, monitoring reports of the
+Output Based Budget, pre-budget statements, citizens’ budget, and annual fiscal risk statements. The budget
+execution reports compelled citizens and government officials to make 137,000 site visits (ICR, p. 46-47 and
+TTL interview). However, it is unclear whether these achievements apply to all four provinces or only the
+federal government. The ICR notes: “The Citizens’ Participatory Audit (CPA), with guidelines published, was
+piloted in one province and two pilots are underway,” (para 25). Achievement rating Substantial. DLI 7
+contributed to PDO 1 by contributing to transparency and citizen participation in PFM.
+
+DLI 8/ PDO indicator 4 referred to the percentage of fiscal performance and service delivery indicators met
+by the provinces. Baseline: 0%, no existing coordination mechanism existed; Target: Award from the MoF
+provided to the provincial governments for meeting at least 35% and up to 70% of the fiscal performance and
+service delivery indicators; Actual achieved at completion: 74.14%. The provinces adopted citizens’
+budgets and enacted PFM laws, and fully implemented Direct Credit of Pension Payments and e-Payment
+solutions. In general, the provinces adopted the Federal government’s e-procurement system. While
+the target was exceeded, the ICR does not clarify whether it was achieved by all four provincial governments.
+While the ICR notes that the e-procurement system was adopted by the provinces, it also notes that KP,
+
+                                                                                               Page 17 of 30
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   PFM/accountability to supp. service deli (P157507)
+
+
+
+Punjab and Sindh demonstrated commitment to it but does not specify whether Balochistan adopted or
+rejected it. DLI 8/PDO indicator 4 is rated Substantial.
+
+Based on the preceding discussion of DLIs, three DLIs out of four that were also PDO indicators are rated
+Substantial, and one was rated Modest. Out of the remaining three DLIs, one is rated High, one Substantial,
+and one DLI is rated Modest.
+
+The overall rating for the 7 DLIs and four PDO Outcome indicators is Substantial.
+
+PDO 1 IRIs
+
+The Efficacy of PDO 1 is also assessed by evidence provided by ten IRIs (IRIs 1 – 8, and IRIs 15-16).
+
+IRI-1: Notification of revised updated delegation of power, General Financial Rules, Accounting Policies and
+Procedures Manual and Chart of Accounts. Baseline: Legal Framework for PFM in terms of Law and
+Subsidiary Rules does not exist. Target: Regulatory Framework updated (PFM law, Functions and Powers of
+PAO, Receipt and Payment Rules, General Financial Rules, APPM and Chart of Accounts). Actual achieved
+at completion: PFM Law of 2019 enacted. Delegation of Power Rules notified, Treasury Rules revised,
+General Financial Rules updated. Payment procedures updated. However, the New Accounting Manual was
+not updated. (Achieved - Substantial)
+
+IRI-2: Internal Audit arrangements modernized in the health and education departments. Baseline:
+Regulatory framework for the internal audit function does not exist. Target: 2 internal audit reports prepared
+for the Departments of Health and Education. Actual achieved at completion: Internal Audit Rules were
+notified, and 2 internal audit reports were prepared for the Departments of Health and Education. The position
+of Financial Advisor was eliminated. (Achieved - Substantial)
+
+IRI-3: Improve the timeliness of comprehensive financial and nonfinancial reporting by linkage or interface.
+Baseline: Dashboard for fiscal information does not exist. Target: Improve the timeliness of comprehensive
+financial and nonfinancial reporting by linkage or interface of FABS to Departmentalized Accounts and
+establish interface with SBP, National Bank of Pakistan, Federal Bureau of Revenue (FBR), Central
+Depository of National Savings (CDNS), Economic Affairs Division (EAD), Pakistan Post Office Department ,
+Pakistan Railways, Public Works Department (PWD)/Communication and Works. Actual achieved at
+completion: Linkages have been established with FBR, CDNS, Pak PWD, Pakistan Post and SBP, whereas
+linkages with EAD and Military Accountant General are in process. Customized dashboards were prepared
+for Budget and Expenditure Wing of MoF. The dashboards are available on the website of the MoF. These
+are updated at least once a month. (Achieved - Substantial)
+
+IRI-4: Approved Cash Management Policy with accounting framework for daily consolidation of all
+government. Baseline: Regulatory framework for Cash Management does not exist. Target: Cash
+Management Policy approved by the Cabinet and Secretary of Finance approved a framework for
+implementation of TSA. Actual achieved at completion: Cash Management Policy approved by the Cabinet.
+Secretary Finance has also approved a framework for implementation of TSA. TSA Rules were notified and
+the PFM law mandated establishment of a cash management function. Accounting procedure for sweeping of
+TSA was also notified. (Achieved - Substantial)
+
+IRI-5: Reports of PAC hearings on audit report on annual financial statements are published on the website.
+Baseline: Reports of PAC hearings on audit report on annual financial statements do not exist. Target:
+
+                                                                                               Page 18 of 30
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   PFM/accountability to supp. service deli (P157507)
+
+
+
+Reports of PAC hearings on audit report on annual financial statements are published. Actual achieved at
+completion: PAC sessions are open to media and the audit reports are widely publicized through new
+reporting. Since 2019, at the direction of PAC, the AGP published all the audit reports on its website.
+(Achieved - Substantial)
+
+IRI 6: Financial transactions of health and education function recorded in FABS audited through Computer AI.
+Baseline: 0%. Target: 80%. Actual achieved at completion: 100%. IT center established and Audit
+Command Language (ACL) software acquired. Officials were re-trained in ACL and financial transactions of
+the health and education sectors were subjected to ACL audit. The AGP procured an additional software
+QLIK for data analytics. The automated system runs on the entire payroll data on a real-time basis and any
+suspicious transaction is automatically singled out. (Achieved - Substantial)
+
+IRI 7: Citizen Portal set up to facilitate CPA, including fraud hotline for feedback. Baseline: Citizen Portal did
+not exist. Target: Citizen Portal was established. Actual achieved at completion: CPA Portal on the
+website of the AGP is operational. (Achieved - Substantial)
+
+IRI 8: Citizen Participatory Audit reports that cover indicators in the ISDR published. Baseline: 0.0. Target: 8
+performance audit reports are published. Actual achieved at completion: The Auditor General notified that
+all Directors Generals should undertake at least one performance audit by using the CPA. For the fiscal year
+ending 2021, 12 performance audit reports are published covering topics such as elementary education and
+health. Citizens are engaged at the time of audit planning and identification, but not for the entire
+cycle. (Achieved - Substantial)
+
+IRI 15: Incentive system by the FCC to improve fiscal performance and service delivery in selected areas.
+Baseline: No. Target: Yes. Actual achieved at completion: Performance Grant mechanism was notified by
+the council of ministers in 2019. This has helped with the replication of PFM reforms in the
+provinces. (Achieved - Substantial)
+
+IRI 16: Innovative applications used to report and account for funds utilized. Baseline: 0. Target: 4. Actual
+achieved at completion: MIS for procurement was developed in Punjab and piloted in the federal Ministry of
+Education. The Punjab Education Department developed FMIS which is being integrated with the IFMIS.
+Online bill submission was piloted in the ministries of health and education at the federal level. The e-
+stamping system was replicated across all provinces. (Achieved - Substantial)
+
+All IRIs targets were achieved. Based on the evidence provided, their overall Efficacy rating in support of
+PDO 1 is Substantial.
+
+The Efficacy of PDO 1 is rated Substantial on the basis of the achievement ratings of 7 DLIs, triangulated by
+the achievement ratings of four PDO Outcome indicators and 10 IRIs. The PforR operation succeeded in
+creating institutional change by facilitating Pakistan’s first PFM Act of 2019 that provided the legal basis for
+the PFM reforms, that, in turn, led the provinces to establish PFM laws, redress PFM constraints to service
+delivery, and create an enabling environment for improved service delivery. The program improved efficiency
+in payments for service delivery through digital payments and fiscal savings through TSA. As an example, the
+TSA consolidated over PKR 152 billion (around US$550 million), exceeding targets and saving PKR 10.9
+billion (US$32 million) in interest by 2023. Electronic funds transfer (EFT) and online billing systems reduced
+payment time from 27 to 5 days. The program also digitized pension payments and payroll to improve
+resources management, enhanced transparency in audit through the establishment of the AMIS, and
+improved public access to financial data through citizen dashboards and online portals. AMIS made 40,000
+
+                                                                                                    Page 19 of 30
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   PFM/accountability to supp. service deli (P157507)
+
+
+
+audit recommendations transparent and helped recover US$1.6 billion in FY2023. The program also
+promoted institutional strengthening and coordination between federal and provincial governments setting up
+a council of ministers to coordinate PFM reforms across the federal and provincial levels and introduced a
+performance grant mechanism to unify reforms countrywide.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+PDO 2: To improve procurement systems for better management and accountability in service delivery for
+health and education sectors.
+
+Rationale
+Theory of Change. The Program would achieve the PDO of improving the procurement systems for better
+management and accountability in service delivery in the health and education sectors by increasing the
+number of vendor contracts processed through the Recipient’s e-procurement system (DLI 3). This would be
+achieved by key activities such as an e-procurement system that would reduce bureaucratic delays and
+dispute resolution time, amendment of procurement rules, linking procurement plans and budgets, developing
+procurement guidelines, developing Standard Bidding Documents and Price Norms, providing training for
+accreditation of procurement staff and committee members, training users and registering vendors, reducing
+litigation times and making declarations on beneficial ownership mandatory.
+
+Like the DLI 3, the PDO indicators targeted towards increasing the percentage of vendor contracts processed
+through the Recipient’s e-procurement system would contribute to the achievement of PDO 2.
+
+In sum, legal reforms in procurement, and the establishment of an e-procurement system to tackle
+inefficiencies in procurement and reduce bureaucratic delays led to improved procurement systems for better
+management and accountability in service delivery in the health and education sectors.
+
+Key Inputs/ Outputs
+
+        E-procurement system was rolled out.
+        E-procurement guidelines and standard bid documents were developed.
+        7,500 users were trained.
+        2,700 vendors were registered.
+        Litigation time was reduced from two years to 70 days.
+        Beneficial ownership declaration was made mandatory.
+
+The achievement of PDO 2 is based on the efficacy of one DLI (DLI 3) and one PDO indicator. They were
+similar. This evidence in this discussion is further triangulated with the achievement of 6 IRIs (IRIs 9 – 14).
+
+DLIs and PDO 2 Outcomes Indicator
+
+
+                                                                                                    Page 20 of 30
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   PFM/accountability to supp. service deli (P157507)
+
+
+
+DLI 3/PDO Outcome indicator 5 referred to the percentage of vendor contracts processed through the
+GoP’s e-procurement system. DLI 3 initially focused on e-procurement in all sectors, but later prioritized
+health and education. Baseline: 0.0%; Original Target: 90%; Revised Target: 50 – 90%. Actual achieved
+at completion: 100% of entities in the Health and Education sectors were processed through the e-
+procurement system. In addition to these two sectors, the system was implemented in 17 departments of the
+federal government in addition to health and education. It was also implemented in the provinces. However,
+the e-procurement system faced delays. The program exceeded the targets by closure, but the
+remaining timeframe was inadequate for a comprehensive impact evaluation. As a result, even though the
+revised target was eventually exceeded, DLI 3 is rated – Substantial. DLI 3 contributed to PDO 2 by
+requiring vendor contracts to be processed through the Recipient’s e-procurement system which contributed
+to better PFM management and accountability for service delivery.
+
+PDO 2 IRIs
+
+The Efficacy of PDO 2 is also assessed by evidence provided by 6 IRIs (IRIs 9 – 14).
+
+IRI 9: Number of departments with vendor claims for health and education departments paid at accounting
+offices electronically. Baseline: 0. Target: 4. Actual achieved at completion: 34. Guidelines for simplifying
+payment authorization procedures developed by CGA and approved and notified by the AGP. The EFT and
+online billing system reduced the payment time from 27 to 5 days. A separate channel for petty expenditures
+was also introduced (31% of the petty expenditures in the health and education departments of the federal
+government and 52% of expenditures in the government of Punjab were exempted from pre-audit
+requirements). During October 2023, transactions from more than 250 departments were paid through EFT,
+out of which at least 34 departments related to health and education. (Achieved - Substantial)
+
+IRI 10: WB reconciliation of all active government bank accounts in the TSA takes place at least monthly.
+Baseline: 8 weeks. Target: 4 weeks (monthly). Actual achieved at completion: 4 weeks. For the entities
+which migrated to EFT solutions, the reconciliation was in real time. (Achieved - Substantial)
+
+IRI 11: Percent of budget derived from procurement plans in selected federal ministries of health and
+education. Baseline: 0 percent. Target: 100 percent. Actual achieved at completion: 100 percent. Before
+the budget demand, all procurement plans for the ministries of health and education were uploaded onto the
+system. (Achieved - Substantial)
+
+IRI 12: Databases or records are maintained for contracts, including data on what has been
+procured. Baseline: 0 percent. Target: 50 percent. Actual achieved at completion: 100 percent. Under the
+Program, the database has been digitized using AI. The data is now available on the Public Procurement
+Regulatory Authority (PPRA) website in machine readable format. Contract data of all selected entities are
+archived in the e-Procurement system. The selected entities are under the federal ministries of education and
+health. (Achieved - Substantial)
+
+IRI 13: E-procurement guidelines issued and Supplier Relations Management Module is operational in the
+health and education sectors. Baseline: 0. Target: 2. Actual achieved at completion: 2. The system’s
+operational and guidelines are issued. (Achieved - Substantial)
+
+
+
+
+                                                                                                Page 21 of 30
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    PFM/accountability to supp. service deli (P157507)
+
+
+
+IRI 14: End user training in e-Procurement systems. Baseline: 0. Target: 80. Actual achieved at
+completion: 9,500 persons were trained. Extensive end user training was conducted in federal and provincial
+governments. (Achieved - Substantial)
+
+The government decided to replicate the system across all federal and provincial governments. A large
+number of end users as well as vendors had to be trained. The total number was 9,809, of which 9.65 percent
+were women.
+
+On the basis of this discussion of the IRIs, the overall rating for the IRIs supporting PDO 2 is Substantial.
+
+The achievement of the DLI, PDO outcome indicator and the IRIs jointly support an efficacy rating of
+Substantial for PDO 2. The Program developed an e-procurement system targeting the health and education
+sectors originally but was later extended to all sectors and provinces. The systems improved the dispute
+resolution time from 18 months to 70 days. Over 7,500 procurement agents were trained countrywide.
+Although an impact assessment could not be conducted due to insufficient data, focus group discussions
+revealed that more than two thirds of the participants recognized that the new system improved transparency,
+efficiency and user-friendliness and improved the bidding process. The Program was expanded to Khyber
+Pakhtunkhwa, Punjab, and Sindh.
+
+
+
+Rating
+Substantial
+
+
+
+
+OVERALL EFFICACY
+Rationale
+Based on the Program’s achievement supporting PDO 1 and PDO 2, the Overall Efficacy rating is
+Substantial. Despite the significant impact on the overall efficacy of PFM, and impressive institutional
+development in the PFM area, there were certain shortcomings. For example, while important achievements
+were made with respect to the internal audit function in the AGP’s office, and the guidelines were published
+for the CPA, the latter did not become fully operational in the Department of Education and remained as a
+pilot in both health and education sectors. The e-procurement system faced delays and although the program
+exceeded the e-procurement target by closure, the remaining timeframe was inadequate for a full-fledged
+impact evaluation (ICR, para 29).
+
+The focus of the Program was clearly on the PFM bottlenecks to service delivery as evidenced in the Results
+Framework, the DLIs and the PAD. Since the sequencing of the interventions was not clear, implementation
+was undermined by the lack of a sequencing strategy. The targets for the federal and provincial government
+levels were also not specified. As a result, it is unclear whether achievements at the provincial level apply to
+all four provinces or just one. The timeframe was severely insufficient for an ambitious PDO and the
+largescale reforms that were aligned with the Government of Pakistan’s 15-year PFM Reform Strategy.
+
+
+
+Rating
+                                                                                                   Page 22 of 30
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     PFM/accountability to supp. service deli (P157507)
+
+
+
+ Substantial
+
+
+5. Outcome
+
+The relevance of the Program's objectives was Substantial as they were strongly aligned with the country
+context in which the service delivery functions for the health and education sectors were devolved to the
+provinces. The relevance of the Program's objectives was also aligned with the goals of the GoP’s 15-year PFM
+Reform Strategy, the WB’s CPS and the IDA 18 Commitment. Although the DLIs and PDO outcome indicators
+together with the IRIs support the substantive achievement of PDO 1 and PDO 2, due to moderate
+shortcomings, the overall outcome is rated Moderately Satisfactory.
+
+
+    Outcome Rating
+    Moderately Satisfactory
+
+
+6. Risk to Development Outcome
+
+The main foreseeable challenges to the sustainability of the reforms introduced by the Program relate to the
+continued implementation of the e-procurement systems, including the need for sufficient HR capacity, the
+need for committed and visionary leadership that will sustain the pace of the reform, the governance
+arrangements in the PPRA, the need to overcome bureaucratic impediments, and the ability of the GoP to
+maintain and update the new e-procurement system countrywide. There is also a risk that despite the PFM
+reforms, they do not translate into tangible impacts on health and education service outcomes. Due to
+insufficient time, the Program could not evaluate outcomes on the ground. Nevertheless, two other WB
+projects, namely, Punjab Resource Improvements and Digital Effectiveness (PRIDE) and Khyber
+Pakhtunkhwa Spending Effectively for Enhanced Development (SPEED), introduced complementary reforms
+in the provinces and partially mitigated these risks. These programs also focused on addressing bottlenecks
+in health and education and included e-procurement.
+
+The ICR points to the need that future operations include a pathway to ensure that reforms have a
+measurable impact on the quality of health and education services.
+
+
+
+
+7. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  From a positive lens, the PforR operation built successfully on the previous PFM reform efforts by the
+  GoP and responded to the new challenges under the 18th Constitutional Amendment (2010) that
+  devolved health and education service delivery to the provinces. A PEFA assessment and a PIFRA were
+  implemented prior to the Program and informed it. Additionally, the WB had five ongoing health and
+  education operations aimed at directly improving service delivery outcomes. This enabled the WB team
+  to develop both a deeper understanding of the issues and challenges confronting the PFM bottlenecks in
+
+                                                                                                    Page 23 of 30
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   PFM/accountability to supp. service deli (P157507)
+
+
+
+health, education and decentralized service delivery. This also helped the team to forge a close working
+relationship with the client. The Program thus drew and built upon the GoP’s PFM Reform Strategy
+(2018-2027), prior WB experience with PFM in the health and education sectors and benefitted from the
+GoP’s commitment and multiple stakeholder’s contributions in its design.
+
+The Program was the first PFM reform operation in Pakistan to employ the PforR instrument. The
+decision to use the PforR instrument was informed by an understanding that an appropriately incentivized
+system-wide change management approach was required and a traditional investment project could not
+achieve this objective. The Key Result Areas were priorities of the GoP’s Program and PFM Reform
+Strategy. The Results Framework was aligned with the output-based budgeting (OBB) system of the
+implementing agencies, the DLIs were carefully crafted to ensure they were realistic and achievable, and
+the implementation arrangements were organized under the leadership of the Finance Division (FD) and
+had a Program Implementation Cell (PIC) established at the onset of implementation.
+
+The WB’s PFM expertise and its understanding of the country context helped. The WB’s co-Task Team
+Leader (co-TTL) became the Accountability and Decision-Making (ADM) TTL throughout implementation
+and ensured sustained support because of his presence in the country. In the absence of a TA
+component, the task team’s substantial support and the presence of the ADM TTL in the country helped
+collaboration.
+
+
+
+The Program’s design had several shortcomings that surfaced in the early stages of implementation and
+became a challenge for the client. The design was too complex including a two-level broad and ambitious
+PDO. For a first-time PforR, the number of DLIs, PDO indicators and IRIs to be achieved was excessive,
+especially when applied to a PFM Program designed for a 15-year period. It is not clear to what extent it
+was useful to have a two-level PDO (PDO 1 and PDO 2) after the PAD emphasized PDO 1 that included
+most of the indicators. The ambitious PDO posed the greatest challenge for the initially overoptimistic
+timeframe. An additional factor was the variable capacity of the four provincial governments that were
+expected to apply all components and pursue similar objectives. The complex design and ambitious
+timeframe both led to the project’s problem status which arose partly because the client (federal and four
+provincial governments) was learning about the project while implementing it without the benefit of
+technical assistance (TA) which accompanies most projects in a similar country context and is
+instrumental in building capacity and facilitating learning.
+
+The health and education indicators were largely absent from the Program’s design without any
+explanation in the ICR. The ICR notes the relevance of the procurement DLIs but does not differentiate
+between the targets and achievements at the beneficiary sector level such as health and education.
+
+A TA component and a Project Management Unit were two important requirements missing from the
+Program’s design. The client had limited knowledge of the PforR instrument as it was the first in Pakistan.
+It was also a complex and large-scale Program designed to be rolled out over a 15-year period. In the
+section on Key Factors During Implementation, the ICR reports that the absence of a TA component and
+a PMU exacerbated delays in implementation. According to the Virtual Quality Enhancement Review of
+the ICR (April 9 to April 17, 2024), the interviews with stakeholders also confirmed that a TA could have
+helped to avoid delays, including at the stage where the PPRA was struggling to draft the Request for
+Proposals (including the requirements for the e-procurement system). According to the Program team, at
+the Program design stage, the guidelines for PforRs were still being developed and there was an
+
+
+                                                                                                Page 24 of 30
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     PFM/accountability to supp. service deli (P157507)
+
+
+
+  aversion to a hybrid PforR. During approval, the team was not authorized to proceed with a TA
+  component due to a corporate decision.
+
+  In addition, the PDO lacked targets for the federal and provincial levels which made it difficult to gauge
+  whether they were achieved by all four or only one provincial government. This later required
+  modifications in the coverage of some DLIs. For a first PforR for Pakistan that was also responding to the
+  new political challenges under the 18th Constitutional Amendment (2010) that devolved health and
+  education service delivery to the provincial government level, the Program clearly had an overambitious
+  schedule and a large array of targets which negatively affected the Program’s quality-at-entry.
+
+  The IEG assessment of WB performance on quality-of-entry is Satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ There was regular engagement with the government counterparts, fostering trust and collaboration that
+ were further enhanced by the permanent presence of the co-Task Team Leader (TTL) in the country. The
+ WB conducted at least ten Implementation Support Missions (ISMs), one MTR, several regular meetings
+ between the ISMs, and regular virtual meetings during the COVID-19 pandemic. The team prepared the
+ Implementation Status and Results Reports (ISRs) for every mission and filed Aide Memoires and
+ Management Letters routinely to ensure continuous monitoring of progress. The Program was in a problem
+ status for almost two years between March 2020 and December 2021. In addition to the COVID-19
+ pandemic-related delays and disruptions, the ambitious schedule and complexity of the first PforR Program
+ posed a variety of difficult challenges and risks for the Program. As the ICR (para 44) aptly notes, robust
+ supervision and restructurings successfully turned the Program around in 2022. Supervision was highly
+ commendable during the remainder of the Program’s implementation. The third-party verification protocol
+ was strong and important in the absence of a PIC.
+
+ Overall, the quality of supervision is assessed as Satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+8. M&E Design, Implementation, & Utilization
+
+
+
+
+                                                                                                  Page 25 of 30
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     PFM/accountability to supp. service deli (P157507)
+
+
+
+a. M&E Design
+ The M&E framework linked the DLIs, the PDO indicators, and the intermediate indicators (IRIs). All PDO
+ indicators were DLI indicators and the IRIs helped in triangulating the evidence for achieving the DLIs and
+ PDOs. However, the design lacked an M&E plan which would have strengthened capacity in the absence
+ of a TA component.
+
+ The M&E arrangements were appropriate and clearly established in the ToC. The Results Framework
+ provided a roadmap to measure progress toward objectives and was in line with the outcomes-based
+ budgeting (OBB) of the implementing entities, making the M&E design efficient and sustainable. The
+ Program was designed to use formal country systems’ structures through the Program Implementation Cell
+ (PIC) to ensure that the responsibility for meeting the DLIs was within the mandate of the assigned
+ implementing agencies. The implementation of each component (KRA) was supervised by the Controller
+ General of Accounts (KRA 1 & 3), F-PPRA (KRA 2), DAGP (KRA 4) and FD (KRA 5) (PAD, p. 39). The FD
+ had overall responsibility for coordinating, monitoring, and reporting on the Program’s results indicators.
+
+
+
+b. M&E Implementation
+  Based on the ICR, the M&E arrangements worked well during implementation, and data collection and
+  reporting were well structured. The FD coordinated and reported on results and had a reform minded
+  leader that managed data coordination and accelerated the pace of implementation. Coordination was
+  strong between all implementing agencies. However, one of the main challenges during implementation
+  was the absence of an M&E plan and an M&E Specialist, although, according to the ICR, it did not affect
+  the quality of the M&E. A Program Management Committee also monitored the progress of the DLIs
+  and the third-party verification agency (TPVA) was instrumental for maintaining integrity and stakeholder
+  trust in particular given that a PIC had not been created. The TPVA verified results and submitted annual
+  verification reports which, according to the ICR, ensured timely disbursements against the achievement
+  of the DLIs.
+
+
+
+c. M&E Utilization
+  The M&E system of the Program informed operational and policy decisions, including the various
+  restructurings from the federal to the provincial levels. The GoP discussed progress regularly with the
+  WB and kept the WB’s team informed through regular meetings. Data from M&E guided the
+  implementing agencies in submitting annual performance reports against their Output-Based Budgeting
+  (OBB) to the FD which, in turn, contributed to the Annual Performance Monitoring Report for the
+  Parliament. Data from M&E, such as the results from the implementation of the DLIs, also guided the
+  provinces in implementing similar reforms such as the e-procurement and pension systems.
+
+  Overall, the quality of design, implementation, and utilization of M&E is assessed as being Substantial.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+
+
+                                                                                                  Page 26 of 30
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     PFM/accountability to supp. service deli (P157507)
+
+
+
+9. Other Issues
+
+a. Safeguards
+   The Program was assessed to have no environmental and social risks at the outset and remained so
+   throughout implementation. The Program did not trigger any social or environmental safeguards and
+   policies. According to the ICR (para. 41), the assessment at appraisal concluded that the DLIs did not
+   comprise activities that would negatively impact the population, or that required land acquisition and would
+   cause any physical or economic displacement.
+
+
+
+
+b. Fiduciary Compliance
+   Fiduciary Risks were assessed as Substantial at the outset, and the quality of fiduciary performance was
+   assessed as adequate by the ICR.
+
+   According to Annex 5 of the PAD, the Fiduciary Systems Assessment (FSA) covered financial
+   management, procurement, grievance and complaints mechanisms, fraud, and corruption risks associated
+   with the Program. The FM risks and mitigation measures were included for entity and program level, legal
+   and institutional framework, planning and budgeting, funds flow, accounting and financial reporting, internal
+   control, and audit and oversight risks. The procurement risks and mitigation measures were included for
+   procurement planning, standard procedures, procurement documents, procurement capacity, and
+   compliance and oversight risks. The assessment concluded that the PFM system complemented by the
+   program-specific mitigation measures was adequate to support the operation.
+
+   The Program achieved all the legal covenants concerning mitigation of fiduciary risks and mitigation
+   measures were implemented in the Program Action Plan (ICR, para 42). The Program relied on country
+   PFM systems (including procurement) to provide reasonable fiduciary assurance. The ICR (para 42)
+   reports that a high-level PFM Reforms Steering Committee provided continuous oversight, including
+   fiduciary matters, and the TPVA reported that the FM systems were adequate. All project audit reports
+   were presented and acceptable, sometimes with minor delays.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   None.
+
+
+
+d. Other
+   N/A
+
+
+
+10. Ratings
+
+
+                                                                                                   Page 27 of 30
+     Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+     PFM/accountability to supp. service deli (P157507)
+
+
+
+                                                                                    Reason for
+Ratings                          ICR                      IEG
+                                                                                    Disagreements/Comment
+                                 Moderately
+Outcome                                                   Moderately Satisfactory
+                                 Satisfactory
+Bank Performance                 Satisfactory             Satisfactory
+
+Quality of M&E                   Substantial              Substantial
+
+Quality of ICR                   ---                      Substantial
+
+
+11. Lessons
+
+This was the first PforR Program in Pakistan, in the South Asia region of the WB, and in the federal
+and provincial government administration sectors. The ICR offers two lessons. IEG agreed with
+them but would like to add one on program complexity.
+
+Successful program implementation, especially in a first-of-its-kind PforR, can be
+compromised if the original program design is not simple. The Pakistan PFM PforR Program
+had a complex, wide-ranging, two-level PDO that was applicable at the federal and four state-
+government levels with diverse capacity, and covered PFM for greater accountability in service
+delivery as well as improvement in procurement systems. As the PforR was being used for the first
+time in Pakistan, government officials were tasked with simultaneously implementing the Program
+while also learning about it, and striving to meet a large array of targets set by eight Disbursement-
+Linked Indicators, five PDO outcome indicators, and 16 IRIs. The Program experienced a two-year
+implementation delay, resulting in a "problem project status" during its early stages. This delay
+underscores the benefits of a simpler initial design. A simpler design from the outset can be useful in
+preempting initial delays, fostering a more productive learning experience and enabling gradual and
+longer-lasting capacity building at the federal and state government levels.
+
+Complex reform programs need to plan for adequate implementation time to allow the
+achievement of outcomes. The Pakistan PFM PforR Program’s successful implementation was
+undermined by an inadequate timeframe at the design stage and the lack of a sequencing strategy.
+The original timeframe was insufficient for an ambitious PDO and the largescale reforms that were
+aligned with the government’s 15-year PFM Reform Strategy leading to the extension of the
+Program’s closing date by two years. Building institutional capacity is a long-term process. The ICR
+(para 34) noted that the Program experienced delays, mainly due to its nature and scale of reforms
+requiring multi-stakeholder coordination across federal and provincial levels, as well as a lack of
+dedicated HR capacity. At least five steering and management committees were established but
+staff in the implementing entities struggled with daily management issues. The ICR also noted that
+the project period was insufficient to manifest tangible improvements in the health and education
+sector outcomes (para 45), and that a sequencing strategy would have helped leverage the progress
+achieved.
+
+A first-of-its-kind PforR can benefit significantly from a TA component. The Pakistan PFM
+PforR was the first in the country and the client and stakeholders had little knowledge of its
+approach, challenges and logistics. These collectively undermined the Program’s implementation as
+the client required time to understand the instrument. A TA component and training on the PforR
+
+                                                                                                      Page 28 of 30
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       PFM/accountability to supp. service deli (P157507)
+
+
+
+instrument for the client and other stakeholders would have been useful to avoid delays in
+implementation. The ICR (para 48) mentioned that the WB’s substantial support was positively
+embraced by stakeholders, but a TA component would have more effectively built institutional
+capacity, particularly in change management, M&E, trainings, and impact evaluations.
+
+
+
+12. Assessment Recommended?
+
+  No
+
+13. Comments on Quality of ICR
+
+The ICR provided a clear and complete overview of the Program. The TOC showed how the program aimed at
+overcoming PFM bottlenecks in the health and education sectors in Pakistan through eight DLIs, including
+procurement issues that impacted funds for service delivery.
+
+The evidence supporting the results of the Program was synchronized with the independently verified indicators
+that triggered the disbursements. The ICR narrative supported the ratings using the results framework. The
+justifications for the ratings were summarized under each section of the report. The lessons for consideration in
+future PforR programs were also clearly informed by this Program. The annexes further clarified the results of
+the operations.
+
+The summary of the Virtual Quality Enhancement Review conducted for the ICR (April 9-17, 2024) provided
+additional guidance on the Program’s storyline, ratings and lessons learned.
+
+However, the ICR has the following shortcomings:
+
+      The ICR interprets the focus of the Program’s PDO as addressing PFM bottlenecks to service delivery
+       in Pakistan’s health and education sectors but fails to report the actual or expected outcome for the
+       individual sectors. Instead, the reported outcomes are combined for both sectors. As stated in the FA, p.
+       5, the PDO is a compound statement: “To improve public financial management and procurement
+       systems for better management and accountability in service delivery for health and education sectors”
+       that needs to be “unpacked” to recognize the relevance of each promised outcome.
+      The discussion in the ICR focuses well on the relevance of the DLIs in the context of their contribution to
+       the PFM constraints but not their implications for the two PDOs. The methodology of this section is
+       important as it has implications for the Overall Relevance Rating for the PDOs and DLIs.
+      In the ICR, the overall rating of Efficacy as “Substantial” is supported under the conclusion that “the
+       Program achieved nearly all its objectives, albeit with implementation delays.” Despite the ICR
+       discussion on the achievement of both PDO Outcomes, it is not clear how each PDO was assessed for
+       the ICR and contributed to the “Substantial” rating (ICR, para 29).
+      While the ICR highlighted how the Program responded to the priorities of the federal government, it
+       should have also discussed in more detail how the targets were achieved at the provincial levels.
+       Similarly, the ICR could have shed more light on PFM coordination between the federal and provincial
+       government levels as improving federal-provincial coordination was a key bottleneck to be addressed by
+       the government’s PFM reform (ICR, para 4).
+
+                                                                                                    Page 29 of 30
+  Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+  PFM/accountability to supp. service deli (P157507)
+
+
+
+   The ICR notes the evolving country context, including flooding, and the COVID-19 pandemic as external
+    factors that disrupted the Program’s implementation. Given that the WB provided consistent support and
+    conducted at least ten ISMs and an MTR (on average two missions per year) to ensure monitoring of
+    progress, the ICR should have explained the relevance of these external factors to the achievement of
+    the Program’s objectives and whether the government’s commitment to the Program was affected by
+    these exogenous factors.
+
+
+
+a. Quality of ICR Rating
+   Substantial
+
+
+
+
+                                                                                            Page 30 of 30
+

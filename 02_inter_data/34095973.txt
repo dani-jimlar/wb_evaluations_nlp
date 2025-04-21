@@ -1,0 +1,794 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     GY Payments System Project (P159512)
+
+
+
+                                                                                 Report Number: ICRR0023317
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P159512                                    GY Payments System Project
+
+ Country                                    Practice Area(Lead)
+ Guyana                                     Finance, Competitiveness and Innovation
+
+
+ L/C/TF Number(s)                           Closing Date (Original)               Total Project Cost (USD)
+ IDA-59660                                  31-Mar-2021                                           2,375,710.32
+
+ Bank Approval Date                         Closing Date (Actual)
+ 31-Mar-2017                                31-May-2022
+
+                                            IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                            6,000,000.00                                               0.00
+
+ Revised Commitment                             2,031,294.34                                               0.00
+
+ Actual                                         2,375,710.32                                               0.00
+
+
+
+
+ Prepared by               Reviewed by                    ICR Review Coordinator         Group
+ Antonio M. Ollero         Ebru Karamete                  Christopher David Nelson       IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The project development objective of the Guyana Payments System Project was to improve the national
+   payments system by enhancing the safety and efficiency of payments.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+   No
+
+                                                                                                  Page 1 of 15
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     GY Payments System Project (P159512)
+
+
+
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project had three components:
+
+        1. Developing Payments System Infrastructure (US$4.30 million estimated at appraisal, US$1.754
+          million disbursed at closing) supported the acquisition of hardware and software by the Government
+          to provide interbank clearing and settlement services for electronic payments. Specifically, the
+          component would support: (a) the acquisition of hardware and software for the real time gross
+          settlement system (RTGS) – the instantaneous and continuous process of settling interbank
+          payments on an individual order basis across the books of a central bank; (b) the acquisition
+          of hardware and software for the central securities depository (CSD) – a specialized financial
+          institution that holds securities, such as shares and bonds, provides for the safekeeping of these
+          assets, and allows for the settlement of securities transactions; (c) the upgrade of the automated
+          clearinghouse (ACH) – the electronic funds-transfer system that facilitates payments between
+          banks; (d) the upgrade of the core systems of the Bank of Guyana, the Ministry of Finance, the
+          Guyana Revenue Authority, and the National Insurance Fund (also called the National Insurance
+          Scheme) as users of the new payments system; (e) the acquisition and installation of
+          interconnectivity hardware and virtual private network to connect the Bank of Guyana, the Ministry of
+          Finance, the Guyana Revenue Authority, the National Insurance Fund, and all commercial banks
+          operating in Guyana; and (f) the conduct of an information security audit of the payments
+          system infrastructure. The following activities, originally part of this component at approval, were
+          cancelled during the second restructuring: (a)
+
+        2. Capacity Building of the Bank of Guyana (US$1.38 million estimated at appraisal, US$0.559
+          million disbursed at closing) focused on strengthening the technical capacity of the Bank of Guyana
+          to operate the modernized payments system infrastructure. A specialized firm would assist the
+          central bank with the procurement process for the RTGS and the CSD and the associated
+          information technology (IT) infrastructure. The advisor would also oversee the knowledge
+          transfer and capacity building services to be extended by the RTGS and CSD systems supplier to
+          the central bank. Cancelled Activities: The training activities for the staff of the Bank of Guyana
+          on information technology security, database administration, and systems management, which were
+          originally part of this component at appraisal (Part 2.d of the Project Description in the Financing
+          Agreement), were cancelled at the second restructuring because of mobility restrictions during the
+          COVID-19 pandemic. According to the Bank team, the cancellation of these activities did not
+          compromise the achievement of the project results because: (a) hardware suppliers and software
+          providers extended training to the Bank of Guyana staff; (b) a technical assistance firm hired by the
+          Bank of Guyana provided advisory services on these topics; (c) the Bank of Guyana organized the
+          virtual training sessions which were also delivered to staff of the participating government agencies
+          and commercial banks.
+
+        3. Project Implementation Unit (US$0.32 million estimated at appraisal, US$0.062 million disbursed
+          at closing) supported the implementation of the project by the Bank of Guyana, including by the
+          Project Implementation Unit, which was responsible for planning, coordinating, implementing,
+          managing, and monitoring all project activities.
+
+
+                                                                                                  Page 2 of 15
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     GY Payments System Project (P159512)
+
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost, Financing, and Borrower Contribution. The project was estimated to cost SDR 4.5 million
+   (US$6 million equivalent) at appraisal. The project was financed by a credit of SDR 4.5 million from the IDA
+   to the Co-operative Republic of Guyana. Total disbursements at closing were US$2.376 million (SDR 1.76
+   million equivalent), after US$3.5 million (SDR 2.47 million equivalent) was cancelled at the second
+   restructuring. The cancelled amount represented exchange rate gains (the exchange rate, which was
+   SDR1.00 = US$1.34 at appraisal, was SDR1.00 = US$1.42 at the second restructuring) , savings from
+   procurement activities (actual costs were lower than originally budgeted), and savings from activities that
+   were not implemented due to restrictions during the COVID-19 pandemic (see Section 2.D - Component 2).
+
+   Dates. The project was approved on March 31, 2017, became effective on September 8, 2017, and closed
+   on May 31, 2022, fifteen months after the original closing date of March 31, 2021.
+
+   Restructuring. The project was restructure thrice.
+
+         The first restructuring on February 23, 2021, with US$1.94 million disbursed (82 percent of the final
+          disbursement amount), extended the project closing date by six month from March 31, 2021 to
+          September 30, 2021, to allow for technical assistance by the World Bank to the Bank of
+          Guyana to test the functionality of the new system, once deployed, and to monitor the
+          implementation of capacity-building activities to strengthen the Payments System Unit at the central
+          bank.
+         The second restructuring on September 29, 2021, with US$1.94 million disbursed (82 percent of the
+          final disbursement amount), extended the closing date by three months from September 30, 2021 to
+          December 31, 2021 to allow the Ministry of Finance, the Guyana Revenue Authority, and the
+          National Insurance Fund to upgrade their core systems to link with the new payments system
+          infrastructure at the Bank of Guyana. The amount of US$3.5 million – representing exchange rate
+          gains, savings from procurement activities, and savings from activities that were not implemented –
+           was cancelled (see Section 2.E - Project Cost, Financing, Borrower Contribution). The restructuring
+          also adjusted two results indicators (see Section 9.B).
+         The third restructuring on December 16, 2021, with US$2.14 million disbursed (90 percent of the
+          final disbursement amount), extended the closing date by five months from December 31, 2021, to
+          May 31, 2022, to allow the Ministry of Finance to complete the delivery and installation of critical
+          hardware and software updates. The extension would also allow the project to: make progress
+          with the Principles for Financial Market Infrastructures (the international standards for payment
+          systems, central securities depositories, securities settlement systems, central counterparties, and
+          trade repositories issued by the Committee on Payments and Settlement Systems of the Bank for
+          International Settlements and the Technical Committee of the International Organization of
+          Securities Commissions); continue receiving technical assistance; and, implement support from the
+          World Bank.
+
+
+
+
+3. Relevance of Objectives
+
+
+
+                                                                                                   Page 3 of 15
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     GY Payments System Project (P159512)
+
+
+
+Rationale
+The project development objectives were highly relevant to the country needs and strategies.
+
+Development Constraints. Guyana lacked a modern national payments system – the system used to
+conduct and settle financial transactions through the transfer of monetary value – that was crucial to finance
+and to economic activity: (a) the legal and regulatory framework governing payments was deficient; (b) the
+financial infrastructure was underdeveloped, lacking the basic mechanisms to automatically clear and settle
+retail interbank payments, to efficiently process large value payments, and to electronically settle and
+record securities transactions; and (c) the institutional capacity of market participants to operate a modern
+payments system was weak. Overall, the cost of conducting payments was higher than necessary, the time
+to settle transactions longer than normal, and the risks to finance and economic activity higher than
+acceptable.
+
+      According to the IMF Financial Sector Stability Assessment of 2016, based on the work of the joint
+       IMF and World Bank Financial Sector Assessment Program (FSAP) of 2016-18, Guyana needed to
+       develop an effective national payments system with "a robust legal and regulatory framework, and
+       safe and efficient payment infrastructures ... for facilitating account transactions and thus access to
+       finance." The assessment further explained – "These relate to both interbank payment mechanism
+       and retail services. Innovative retail payment services, including bill payment and e-money services,
+       should be further promoted. Execution should be broad-based for interbank currency trades, money
+       market transactions, collateral placements in government securities, and government securities
+       trading. Market infrastructures should develop immediately to electronically record transactions,
+       manage risks, provide market transparency, or enable the Bank of Guyana to monitor developments
+       on a timely basis."
+      According to the World Bank Guyana Country Systematic Diagnostic of 2020 - A Pivotal Moment for
+       Guyana, the national payments system "lagged far behind the needs of the economy", with the
+       prevalence of cash transactions slowing productivity growth and reducing financial
+       transparency. Paper instruments dominated the payment system, accounting for 99 percent of the
+       243 million retail payment transactions made annually. The manual processing of paper instruments
+       cost the economy US$74 million annually, or 2.5 percent of GDP. Shifting at least half of
+       retail payments to electronic payments would save consumers around US$6 million annually, and
+       the Government, about US$2 million.
+
+Government Priorities. Guyana articulated a National Payments System Strategy in 2018, which aimed to
+"build a robust, safe and sound, efficient and inclusive National Payments System that meets the current
+and future needs of the economy, supports financial activity and financial sector development, advances
+the use of electronic payments, contributes to financial risk mitigation, achieves compatibility with
+international systems, and adheres to the relevant international standards, guidelines and codes.” To
+create the enabling legal and regulatory framework for the strategy, Parliament passed the National
+Payments System Act 2018 (Act No. 13 of 2018), which provided for the establishment, regulation, and
+oversight of a national payments system. This project would help Guyana develop, install, and operate the
+new system.
+
+Bank Group Strategy. The project objective was aligned with the country strategy articulated in the
+Country Engagement Note for the Cooperative Republic of Guyana for the Period FY16-
+18 (CEN). According to the CEN, the Bank engagement would focus on three objectives: (a) enhancing
+resilience of selected infrastructure and building disaster risk management capacities, (b) setting up
+
+                                                                                                    Page 4 of 15
+                                      Independent Evaluation Group (IEG)                       Implementation Completion Report (ICR) Review
+                                      GY Payments System Project (P159512)
+
+
+
+               the foundations for high quality education, and (c) laying the ground for private sector development. On
+               private sector development, the CEN noted that both the legal framework and the financial infrastructure for
+               the payments system were underdeveloped and deficient, posing constraints to private economic
+               activity. To promote private sector development as well as access to finance, Bank would "continue to
+               focus on strengthening the financial sector infrastructure, including the payment system." The Bank listed
+               analytic and advisory services on payments system reform among activities planned over 2016-2018.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             Improve Guyana's national payments system by enhancing the safety and efficiency of payments.
+
+                             Rationale
+                             Theory of Change. The procurement and installation of a real time gross settlement system, central
+                             securities depository, and upgraded automatic clearinghouse would provide Guyana with the basic financial
+                             infrastructure for a modern national payments system that would be capable of instantaneously and
+                             continuously settling interbank payments across the books of the central bank, electronically settling and
+                             recording securities transactions, and facilitating electronic funds transfers and payments between
+                             banks. The modern payments system would become operational with the installation of interconnectivity
+                             hardware and a virtual private network connecting the Bank of Guyana, the Ministry of Finance, the Guyana
+                             Revenue Authority, the National Insurance Fund, and all commercial banks, coupled with upgrades to the
+                             software of the central bank and the agencies and the provision of technical assistance and training to a new
+                             Payments System Unit in the central bank. Should it meet the international standards set by the Bank for
+                             International Settlements and the International Organization of Securities Commissions, the new financial
+                             market infrastructure should provide Guyana residents a safer and more efficient electronic-based national
+                             payments system.
+
+                             The theory of change was cogent and adhered to the principles advanced by the Bank for International
+                             Settlements, the financial institution that serves as a bank for central banks, and the International
+                             Organization of Securities Commissions, the association of organizations that regulates the world's securities
+                             and futures markets, for the establishment, operation, and management of national payments systems (BIS,
+                             2006, Guidance for National Payment System Development and BIS and IOSCO, 2012, Principles of
+                             Financial Market Infrastructures). The achievement of the development objectives assumed a credible level
+                             of institutional capacity on the part of Bank of Guyana, the Ministry of Finance, the Guyana Revenue
+                             Authority, the National Insurance Fund, and commercial banks, to modernize current practices and operate
+                             the new system, a topic which was vetted by the Bank at appraisal and would be enhanced by advisory
+                             services and training provided during implementation. The degree of achievement of the development
+                             objectives would be evidence by seven output indicators focused on the operationalization of the constituent
+
+                                                                                                                              Page 5 of 15
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   GY Payments System Project (P159512)
+
+
+
+parts and government use of the system, and two outcome indicators, reflecting commercial bank use of the
+system and adherence to international standards. The choice of the indicators was consistent with Bank
+guidance on measures and methods (World Bank, 2008, Measuring Payment System Development). The
+results indicators were specific, measurable, achievable, relevant, and time-bound.
+
+Outputs. The project achieved six of seven output targets defined for the objective to improve the national
+payments system.
+
+      The RTGS became operational on March 31, 2021, achieving the target that it be operational by
+         closing. All commercial banks in the country, the Bank of Guyana, the Ministry of Finance, and the
+         Guyana Revenue Authority were connected to the RTGS by closing. Commercial banks processed
+         US$1.77 billion of large value transactions through the RTGS from March 2021 to May 2022, and
+         Bank of Guyana, US$1.3 billion (including transactions made on behalf of the Ministry of Finance. and
+         Guyana Revenue Authority).
+        The CSD became operational on March 31, 2021, achieving the target that it be operational by
+         closing. A total 44 Treasury bills, with a nominal value of US$993 million (GY$199 billion), were
+         issued using the CSD from March 2021 to May 2022, and 27 Treasury bills, with a nominal value of
+         US$493 million (GY$99 billion), were redeemed. In addition to processing the auction and recording
+         as well as transferring the ownership of government securities in electronic form, the CSD could
+         hence be used for the repo and other Open Market Operations of the Bank of Guyana, the securities
+         that are used as collateral for liquidity support in the RTGS, and for changes in the ownership of
+         corporate securities.
+        The Ministry of Finance was connected to the RTGS, the CSD, and the ACH, meeting the
+         target. In addition to issuing and redeeming Treasury bills using the CSD (see above), the Ministry
+         of Finance processed 589,733 low value transactions (payments less than US$25,000) from July 2021
+         to May 31, 2022, through the Electronic Funds Transfer of the ACH. Meanwhile, the Ministry of
+         Finance is expected to process large value payments directly though the RTGS in 2023, after
+         previously channeling large value payments through the Bank of Guyana (see above).
+        The Guyana Revenue Authority was connected to the RTGS and the ACH, meeting the target. The
+         Guyana Revenue Authority processed 18,019 low value transactions through the Electronic Funds
+         Transfer of the ACH from July 2021 to May 31, 2022. Like the Ministry of Finance, the Guyana Revue
+         Authority is expected to process large value payments directly though the RTGS in 2023, after
+         previously channeling large value payments through the Bank of Guyana (see above).
+        The National Insurance Fund was connected to the ACH, meeting the target. The National Insurance
+         Fund was supposed to be connected also to the RTGS, but this plan was scrapped because the
+         National Insurance Fund processed only small value payments and not large-value payments (which
+         would require the RTGS). The National Insurance Fund, however, had not started processing
+         payments through the ACH by closing.
+        The percentage of Government payments channeled through the RTGS or the ACH was 20.57
+         percent by closing, failing to meet the original target (set in May 2017) of 100 percent (the 100 percent
+         target was retained during the second restructuring in September 2021 and remained unchanged
+         through closing). Between July 2021 and May 31, 2022, the Ministry of Finance processed 54 percent
+         of its 1,091,439 low-value payments through the ACH and the Guyana Revenue Authority, 2 percent
+         of its 900,950 low-value transactions.
+        The Payments System Unit (part of the Banking Division under the Operations Department) was
+         established and functioning at the Bank of Guyana, with trained staff, meeting the target that an
+         organizational unit focused on the payments system and with trained personnel be created and
+
+                                                                                                    Page 6 of 15
+                     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                     GY Payments System Project (P159512)
+
+
+
+                           functioning at the central bank. This unit, with responsibility over the RTGS, CSD, and ACH, received
+                           training and technical assistance during project implementation.
+
+                  Outcomes. The project achieved the two outcome targets defined for the objective to improve the national
+                  payments system.
+
+                          Large-value payments processed through the RTGS reached 14.98 percent of GDP by closing,
+                           exceeding the revised target of 7 percent (revised in September 2021) as well as the original target of
+                           12 percent (set in March 2017). The number of large-value payments (payments greater than
+                           US$250,000) processed by commercial banks through the RTGS was 2,857 from April 2021 (the
+                           month after the RTGS became operational) to May 31, 2022 (the closing date), with an aggregate
+                           value of US$1.11 billion (GY$ 232 billion), amounting to 14.98 percent of GDP. Additional data after
+                           closing indicate that the number of large-value payments processes by commercial banks through the
+                           RTGS reached 4,974 by September 2022, with a value of US$2.48 billion (GY$ 519
+                           billion). Meanwhile, the Guyana Revenue Authority was expected to start processing payments
+                           through the RTGS by the end of 2022, and the Ministry of Finance, by the second quarter of 2023.
+                          The new National Payments System "broadly observes" all applicable standards under the Principles
+                           for Financial Market Infrastructures, meeting the target that the system either "observes" or "broadly
+                           observes" the standards set by the Bank for International Settlements and the International
+                           Organization of Securities Commissions. The system is supported by a strong legal and policy
+                           framework and has been modernized with new hardware and software, allowing for greater
+                           operational efficiency, reduced costs, and better management of credit, liquidity, and operational risks
+                           across the payments system. The assessment was made by the Bank of Guyana, using templates
+                           provided by the Bank for International Settlements. The findings and conclusions of the Bank of
+                           Guyana, and the attendant documentation, were verified by the Bank (specifically, the World Bank
+                           Payments System Development Group, the unit which helps member countries adopt international
+                           best practice and standards for payments systems and financial market infrastructure and which
+                           publishes the biennial Payment Systems Worldwide - Outcomes of the Global Payments System
+                           Survey).
+
+                  The achievement of the objective is rated high. The real time gross settlement system, central securities
+                  depository, and upgraded automatic clearinghouse were all operational more than a year before closing. The
+                  Ministry of Finance was connected to the RTGS, CSD, and ACH, the Guyana Revenue Authority, to the
+                  RTGS and ACH, and the National Insurance Fund, to the ACH. Total large value payments processed by
+                  commercial banks through the RTGS were double the target, although the percentage of government
+                  payments processed through the RTGS or ACH was lower than expected. The Payments System Unit at the
+                  Bank of Guyana, responsible for payments system regulation, supervision, and oversight, was established
+                  and functioning. The new system was determined to broadly observe international standards for financial
+                  market infrastructures, according to the Bank of Guyana and the World Bank.
+
+
+
+                  Rating
+                  High
+
+
+OVERALL EFF TBL
+
+
+
+
+                                                                                                                      Page 7 of 15
+              Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+              GY Payments System Project (P159512)
+
+
+
+ OBJ_TBL
+
+
+
+
+           OVERALL EFFICACY
+           Rationale
+           The project achieved the objective to improve the national payments system by enhancing the safety and
+           efficiency of payments. Guyana had an operational real time gross settlement system, central securities
+           depository, and upgraded automatic clearinghouse. The Ministry of Finance were connected to the RTGS,
+           CSD, and ACH, the Guyana Revenue Authority, to the RTGS and ACH, and the National Insurance Fund, to
+           the ACH. Total large value payments processed by commercial banks through the RTGS were double the
+           target, although the percentage of Government payments processed through the RTGS or ACH was lower
+           than expected. The Payments System Unit at the Bank of Guyana was established and functioning. The new
+           system broadly observed international standards for financial market infrastructures. The efficacy is rated
+           high.
+
+
+
+           Overall Efficacy Rating
+           High
+
+
+
+ 5. Efficiency
+Economic Efficiency. The ICR did not compute a formal cost-benefit analysis of the project, but argued that
+the project earned economic benefits far greater than the project cost of US$2.38 million: (a) the continuous,
+real-time, large-value payments processed through the RTGS sped up the velocity of money in the economy –
+ involving payments worth 15 percent of GDP; (b) the use of the CSD opened the opportunity to use government
+securities (about US$1.5 billion in Treasury bills) for the repo and other Open Market Operations of the Bank of
+Guyana – a well-functioning repo market would also support liquidity in other markets, contributing to the
+efficient allocation of capital in the real economy; (c) the Ministry of Finance and Guyana Revenue
+Authority reduced their costs by about US$424,000 by processing 1.8 million low-value payments through the
+Electronic Fund Transfer of the ACH from July 2021 to May 2022 (the processing fee was US$0.24 per
+transaction for an electronic payment versus US$1.00 for a check payment). Post-closing, additional cost
+reductions of US$148,000 was estimated for actual transactions from June to September 2022, and US$3.6
+million was projected for future transactions from 2023 to 2025. Based on the foregoing, the economic
+efficiency of the project is rated high.
+
+Operational Efficiency – Project Cost. The project completed all the project activities at 40 percent of the
+original project cost estimated at appraisal (i.e., a cost underrun): (a) Payments System Infrastructure –
+ US$1.754 million versus original cost of US$4.3 million; (b) Capacity Building – US$0.559 million versus original
+cost of US$1.38 million; and (c) Project Implementation – US$0.062 million versus original cost of US$0.32
+million. The amount of US$3.5 million was cancelled, representing exchange rate gains, savings from
+procurement activities with actual costs lower than originally budgeted, and cancellation of some capacity-
+building activities that could not implemented as originally designed because of restrictions during the COVID-19
+pandemic. In addition, the Bank of Guyana absorbed the costs of project management under the third project
+component.
+
+The large differential between estimated and actual project cost raises questions about the precision of the
+appraisal estimates. This ICR Review calculates the cost differential – representing the US$3.5 million amount
+
+                                                                                                          Page 8 of 15
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       GY Payments System Project (P159512)
+
+
+
+cancelled – as consisting roughly of: (a) exchange rate changes – the appreciation of the SDR from
+SDR1.00=US$1.34 at appraisal to SDR1.00=US$1.42 at the second restructuring resulted in lower US$ costs of
+US$0.36 million; (b) cancellation of some capacity building activities – costs for the second project
+component were US$0.82 million lower than planned; (c) absorption by the Bank of Guyana of some project
+implementation costs – costs for the third project component were US$0.26 million lower than planned; and (d)
+the residual – US$2.06 million – would represent lower procurement costs for the first project component. The
+ICR (page 22) contends that the cost of the RTGS and CSD estimated at appraisal was "based on industry
+benchmarks and historic prices of similar projects." If international prices for technology products and services
+were roughly unchanged between appraisal and implementation, the cost difference could only be explained on
+the "quantity side." This would appear to be the case – for example, for the modification and upgrade of the
+software for the National Insurance Fund, "the scope of the activity needed to connect the entity with the
+Electronic Funds Transfer [of the ACD] was relatively less complex; therefore, the actual cost was about US$0.6
+million lower," according to the ICR (page 22). This ICR Review concludes that more a detailed specification of
+the technology requirements at appraisal would have produced more conservative estimates of the project
+cost. On this basis, this aspect of the operational efficiency of the project is rated moderate.
+
+Operational Efficiency – Project Completion Time. The project was extended for 15 months from March 31,
+2021, to May 31, 2022, but there were extenuating factors, according to the ICR: (a) the political environment
+was unstable in 2019 and 2020 when a new government was installed; and (b) the COVID-19 pandemic
+resulted in economic uncertainty, activity lockdowns, and mobility restrictions. On this basis, this aspect of
+the operational efficiency of the project is rated substantial.
+
+Overall, the efficiency of the project is rated substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                 Rate Available?               Point value (%)       *Coverage/Scope (%)
+                                                                                     0
+ Appraisal                                                     0
+                                                                                      Not Applicable
+                                                                                     0
+ ICR Estimate                                                  0
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of objectives is rated high. The project development objectives were highly relevant to the
+country needs and strategies (see Section 3).
+
+
+
+                                                                                                     Page 9 of 15
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      GY Payments System Project (P159512)
+
+
+
+The efficacy is rated high. The project achieved the objective to improve the national payments system by
+enhancing the safety and efficiency of payments. All parts of the system were operational, and all four key
+Government agencies were connected to the system. Government use of the system was still lower than
+planned at closing, when measured as a percentage of all Government payments, but commercial bank use of
+the system for large value payments was double the target. The unit at the central bank responsible for system
+regulation and supervision was functional and the system broadly observed international standards for national
+payments systems and financial market infrastructures (see Section 4).
+
+The efficiency is rated substantial. The project earned economic benefits far greater than the project cost. The
+project completed all the project activities at 40 percent of the original project cost estimated at appraisal. The
+project was extended for 15 months, but there were extenuating factors (see Section 5).
+
+The outcome is rated highly satisfactory.
+
+
+a. Outcome Rating
+   Highly Satisfactory
+
+
+7. Risk to Development Outcome
+
+Operational Risk. The risk to the sustainability of the development outcome achieved by this project is
+considered low. With the national payments infrastructure (hardware and software) in place and the systems
+operational, and with the participants having gained experience with the system, it is unlikely that the
+transition to the modern payments system will be derailed. From June 2022 to September 2022 (the project
+closed in May 2022), use of the new system has grown further: (a) the commercial banks processed 1,372
+large-value payments through the RTGS worth US$714 million; (b) the Ministry of Finance and the Guyana
+Revenue Authority processed 195,718 low-value payments though the Electronic Fund Transfer of the ACH;
+and (c) the National Insurance Fund processed 7,500 pension payments though the Electronic Fund
+Transfer of the ACH, covering 10 percent of all retirees.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  Analytic Underpinnings. The design of the project was informed by the Financial Sector Assessment
+  Program (FSAP) jointly conducted by the International Monetary Fund and the Bank in 2016-2017. On
+  the national payments system, the FSAP recommended that the authorities: adopt a robust law to govern
+  the national payments system, enable the safe and efficient use of electronic payments, strengthen the
+  associated regulatory framework, and grant the Bank of Guyana enforcement powers. The design of the
+  project also benefitted from the Practical Guide for Measuring Retail Payment Costs - Results from the
+  Guyana Surveys prepared in 2015 which estimated the potential efficiency gains from the transition from
+  a primarily paper-based payment economy to an electronic payment economy. The design of the M&E
+  was informed by Measuring Payment System Development prepared by the Bank in 2008.
+
+
+                                                                                                     Page 10 of 15
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     GY Payments System Project (P159512)
+
+
+
+  Lessons from Past Operations. The project incorporated lessons learned from the Bank's work
+  supporting national payments system development and reforms globally. The Bank, which had
+  conducted five Global Payments System Surveys covering 142 countries since 2007, had provided both
+  project financing and technical assistance to help client countries develop their national payments
+  systems, following international standards set by the Bank of International Settlements and the
+  International Organization of Securities Commissions. The Bank adequately covered the technical,
+  operational, safeguards, and fiduciary aspects of the project at appraisal, according to the
+  ICR. Stakeholders from the government (Bank of Guyana, the Ministry of Finance, the Guyana Revenue
+  Authority, and the National Insurance Fund) and private sector (commercial banks) participated in project
+  design.
+
+  Operational Risks. The Bank assessed the operational risks of the project as moderate
+  overall. Political and governance risk, arising chiefly from changes in political leadership, was
+  considered moderate. Macro-financial risk could arise from U.S. and other global banks reconsidering
+  their correspondent banking relationship with local banks - a rupture would reduce the appetite of the
+  local banks to connect to the RTGS and the CSD. However, the ongoing effort by the authorities and the
+  Bank to complete an anti-money laundering and countering the financing of terrorism (AML/CFT)
+  assessment and strategy would mitigate this risk. Institutional capacity risk involving the ability of the
+  Bank of Guyana to operate the new payments system would be addressed by the extension of technical
+  advisory services to the central bank, the training of specialists, and the establishment of a credible
+  internal control system.
+
+
+
+  Quality-at-Entry Rating
+  Highly Satisfactory
+
+
+b. Quality of supervision
+ The Bank fielded five project supervision missions before the outbreak of the COVID-19 pandemic and
+ conducted periodic virtual review meetings since. The Bank produced nine Implementation Status and
+ Results Reports (ISRs) over the five-year duration of the project, or about two a year, the average for
+ investment project financing operations.
+
+ According to the ICR, (a) the Bank interacted extensively with the officers and staff of the Bank of Guyana,
+ the Ministry of Finance, the Guyana Revenue Authority, and the National Insurance Fund and those of the
+ commercial banks; (b) technical, operational, procurement, financial management, and disbursement
+ specialists provided close support to the Project Implementation Unit and were available on a regular and
+ on-call basis; (c) the low staff turnover rate ensured the consistency of the support services extended by
+ the Bank to the project.
+
+
+
+  Quality of Supervision Rating
+  Highly Satisfactory
+
+  Overall Bank Performance Rating
+
+                                                                                                  Page 11 of 15
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     GY Payments System Project (P159512)
+
+
+
+  Highly Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The Project Appraisal Document defined seven output and two outcome indicators to measure the
+ achievement of the project objective. The choice of the results indicators was consistent with Bank
+ guidance on measures and methods (World Bank, 2008, Measuring Payment System Development). The
+ results indicators were specific, measurable, achievable, relevant, and time-bound.
+
+ The Financing Agreement required the Government to prepare and submit to the Bank biannual Project
+ Reports detailing the progress of the project. A Project Implementation Unit would be responsible for M&E
+ activities.
+
+
+
+b. M&E Implementation
+  At the second restructuring, some refinements were introduced in the results framework: (a) the outcome
+  indicator "Percentage of large-value payments processed through the RTGS (turnover of GDP)" was
+  adjusted to better reflect the results of using the new payments system for nine months instead of 12
+  months (considering that the closing date at that time was December 31, 2021) and to make the
+  target consistent with international data based on the World Bank Global Payment Systems Survey (the
+  Sixth Survey would cover data through end-2021), and (b) the output indicator "National Insurance Fund
+  is connected to the RTGS and ACH platform" was adjusted to clarify that the National Insurance Fund
+  would be connected only to the ACH since the institution managed low-value and not large-value
+  payments.
+
+  The Bank of Guyana and the World Bank systematically reported on the progress toward the
+  achievement of the project outputs and outcomes. The Bank of Guyana prepared semiannual project
+  reports that were shared with the World Bank. The reports included a summary of the project activities
+  executed during the reporting period, the status of each project component, and updates on the
+  milestones listed in the M&E plan. Both the Bank of Guyana and the World Bank adapted their M&E
+  activities to the restrictions arising from the COVID-19 pandemic.
+
+
+
+c. M&E Utilization
+  The M&E data was reported in the ISRs, was used to guide operational management, and informed
+  decisions made to restructure the project.
+
+
+
+  M&E Quality Rating
+  High
+
+10. Other Issues
+
+                                                                                                Page 12 of 15
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     GY Payments System Project (P159512)
+
+
+
+
+a. Safeguards
+   Environmental Safeguards. The project was classified as a Category C (no environmental review
+   required) at appraisal and did not trigger any safeguards policy. The category remained the same at
+   closing.
+
+
+
+
+b. Fiduciary Compliance
+   Procurement. Procurement was conducted in accordance with Bank procurement regulations and
+   following the terms of the Financing Agreement, according to the ICR (pages 21-22). The project
+   experienced delays in obtaining authorizations from the National Procurement and Tender Administration
+   Board. However, the Bank procurement team worked closely with the Bank of Guyana, providing the
+   Project Implementation Unit extensive support in the procurement process. Although procurement was
+   initially rated as moderately satisfactory at the beginning of the project (which reflected the Bank of
+   Guyana's unfamiliarity with Bank procedures), the rating was upgraded to, and maintained at, satisfactory
+   throughout project implementation, including in the last ISR of January 2022.
+
+   Financial Management. Budgeting, accounting, internal control, funds flow, financial reporting, and
+   auditing adhered to the standards set by the Bank as general conditions for credits and followed the terms
+   of the Financing Agreement, according to the ICR (page 21). Interim financial reports were submitted on
+   time and were of satisfactory quality. Annual audits received unqualified audit opinions. Financial
+   management was rated as satisfactory throughout project implementation, including in the last ISR of
+   January 2022.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                               Reason for
+Ratings                        ICR                   IEG
+                                                                               Disagreements/Comment
+Outcome                        Highly Satisfactory   Highly Satisfactory
+
+Bank Performance               Highly Satisfactory   Highly Satisfactory
+
+Quality of M&E                 High                  High
+
+Quality of ICR                 ---                   High
+
+
+
+                                                                                                 Page 13 of 15
+       Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+       GY Payments System Project (P159512)
+
+
+
+12. Lessons
+
+Two lessons are drawn from the ICR, with adaptation.
+
+A comprehensive set of interventions, starting with a national strategy that addresses the
+needs of the government and the private sector for clearing, settlement, and recording of
+monetary and financial transactions, helps to ensure the successful development and
+implementation of a modern national payments system. The Government adopted a National
+Payments System Strategy in 2018 to guide its efforts to build a robust, safe, and efficient national
+payments system. Parliament enacted the National Payments System Act 2018 to provide the
+enabling legal and regulatory framework for the creation, operation, and oversight of the new
+system. The project funded both the acquisition and installation of hardware and the procurement
+and upgrading of software for the new infrastructure and extended technical assistance and training
+to the central bank to lead the development and operation of the new system. The project catered
+to both the government and the private sector requirements for the system, serving not
+only interbank payments and retail services but also agency payment transactions and government
+securities trading. Finally, the project required observance of the international standards for financial
+market infrastructures as a results target.
+
+The participation of all key government agencies in a project promoting electronic payments
+strengthens the viability of a nationwide electronic payment innovation. In this project, the
+Ministry of Finance, the Guyana Revenue Authority, and the National Insurance Fund were
+chosen as key participants and users of the modern payments system with targets set for the
+percentage of Government payments processed through the real time gross settlement system and
+the automated clearinghouse. The three key agencies were directly connected to the new payments
+infrastructure, including to the system's virtual private network, and their software were upgraded to
+enable them to channel payments through the new infrastructure. An Inter-Participant Working
+Group established by the Bank of Guyana served to coordinate the participation of these key
+agencies in the design and implementation of the project. In a complex system undertaking of this
+nature, harnessing the participation of all stakeholders created a collaborative environment that
+proved critical to the success of the project.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is consistent with OPCS guidelines on ICRs for investment project financing operations.
+
+The document is concise.
+
+The efficacy assessment is outcome-oriented and based on the degree of achievement of the results targets.
+
+
+
+                                                                                                     Page 14 of 15
+     Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+     GY Payments System Project (P159512)
+
+
+
+The ICR presents ample evidence to support its assessment of the Bank’s performance at design and
+implementation and M&E design and implementation.
+
+The assessment of the efficacy of the program is candid.
+
+The ICR draws lessons that would be valuable to modernizing national payments systems elsewhere.
+
+
+
+  a. Quality of ICR Rating
+      High
+
+
+
+
+                                                                                              Page 15 of 15
+

@@ -1,0 +1,759 @@
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     LR-Accelerated Electricity Exp. (FY13) (P133445)
+
+
+
+                                                                                      Report Number: ICRR0023476
+
+1. Project Data
+
+
+
+ Project ID                                   Project Name
+ P133445                                      LR-Accelerated Electricity Exp. (FY13)
+
+ Country                                      Practice Area(Lead)
+ Liberia                                      Energy & Extractives
+
+
+ L/C/TF Number(s)                             Closing Date (Original)                  Total Project Cost (USD)
+ IDA-52520,IDA-56800                          30-Jun-2018                                             91,923,159.97
+
+ Bank Approval Date                           Closing Date (Actual)
+ 30-May-2013                                  31-Jul-2022
+
+                                              IBRD/IDA (USD)                                        Grants (USD)
+
+ Original Commitment                              35,000,000.00                                                  0.00
+
+ Revised Commitment                               95,000,000.00                                                  0.00
+
+ Actual                                           91,923,159.97                                                  0.00
+
+
+
+
+ Prepared by                  Reviewed by                   ICR Review Coordinator            Group
+ Dileep M. Wagle              Christopher David             Ramachandra Jammi                 IEGSD (Unit 4)
+                              Nelson
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The project’s development objectives were “to increase access to electricity and strengthen institutional
+   capacity in the electricity sector”. This was as per the Financing Agreement, 2013, Schedule 1, p.6, as well
+   as the Project Appraisal Document (PAD), p.5.
+
+   In the analysis that follows, the PDO can be parsed as follows: (i) “to increase access to electricity, (ii) to
+   strengthen institutional capacity in the electricity sector”.
+
+
+                                                                                                        Page 1 of 14
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     LR-Accelerated Electricity Exp. (FY13) (P133445)
+
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component 1: Extension of electricity transmission and distribution systems (Estimated cost at
+   appraisal: US$20 million; Additional Financing (AF) of US$53 million; Actual cost at closing: US$70.79
+   million). This component was intended to upgrade the Monrovia-Kakata transmission and distribution
+   system. Planned activities included: (i) construction of a 66 kV sub- transmission line between the
+   Paynesville substation in Monrovia and Kakata; (ii) construction of a 66/22 kV sub-station in Kakata; (iii)
+   construction of a 22 kV and low-voltage distribution lines and connections to new consumers in Monrovia
+   and Kakata along the Monrovia-Kakata corridor; (iv) for Monrovia city, the construction of infrastructure for
+   distribution lines and related connections in Paynesville and environs; (v) provision of analytical support for
+   preparatory activities.
+
+   Component 2: Construction of facilities for off-loading, transport and storage of heavy fuel-oil (HFO) and
+   support for optimization of HFO procurement (Estimated cost at appraisal: US$11 million; Actual cost at
+   closing: US$10.91 million). The component supported the Government’s decision to replace expensive
+   diesel-based generation with less costly HFO-based thermal generation. The following activities were to be
+   implemented: construction of (a) a pipeline connecting Bong Mining Company (BMC) pier and Bushrod
+   Island, (b) a pump station, (c) storage tank at Bushrod Island (capacity: 16,200 m3 capacity); provision of (i)
+   support to optimize usage of HFO for electricity generation, and (ii) advisory services to the MLME on
+   procurement of HFO in the international market.
+
+   Component 3: Support for expansion of supply options and for strengthening of the sector’s institutional
+   capacity (Estimated cost at appraisal: US$4 million; AF of US7 million; Actual cost at closing: US$10.24
+   million). This component financed the completion of studies, strengthening of the institutional capacity, and
+   provision of advisory services to the MLME to ensure proper management, monitoring and evaluation of the
+   project, and preparation of timely audits.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost and Financing
+
+   All of the project’s financing was provided through two IDA credits, an initial credit of US$35 million followed
+   by an additional financing amount of US$60 million. No other development partners were involved in the
+   financing of the project. Actual project costs at closing were just under US$92 million, or nearly 97 percent
+   of the aggregate project cost of US$95 million.
+
+
+                                                                                                      Page 2 of 14
+     Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+     LR-Accelerated Electricity Exp. (FY13) (P133445)
+
+
+
+   Borrower contribution
+
+   No borrower contribution was envisaged at appraisal, nor did any take place subsequently.
+
+   Dates
+
+   The project was approved on May 30, 2013, becoming effective on November 25, 2013. The original
+   closing date was June 30, 2018. However, this date was extended – first through the May 19, 2015
+   restructuring, which introduced a three-point action plan for management of the Liberia Electricity Company
+   (LEC), followed by the June 1, 2015 restructuring, which introduced the AF of US$60 million equivalent, and
+   extended the closing date to April 30, 2020. The third restructuring of January 13, 2020, which revised
+   some PDO indicators, extended the closing date by a further two years, to April 30, 2022, followed by a
+   fourth and final restructuring in April 2022, which extended the closing date to July 31, 2022. The AF
+   expanded the scope of the project, thus a split evaluation will not be required in this instance.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and Sector Context
+
+Liberia is a fragile state striving to overcome the legacy of civil conflict. Liberia’s electricity sector has
+suffered on account of two civil wars between 1989 and 2003, during which its sole hydropower plant at Mt.
+Coffee was destroyed, along with other transmission and distribution (T&D) infrastructure. At that time, the
+country’s electricity utility ceased operations and the population’s access to electricity from the grid fell to
+zero. Following the peace treaty and elections in 2006, significant donor resources were mobilized to
+implement the Emergency Power Program (2006-12), which led to the reestablishment of operations of
+LEC, and supported the installation of up to 22 MW of high-speed diesel generators, along with
+reconstruction of some basic T&D infrastructure in some parts of Monrovia. A five-year management
+contract, financed by the Government of Norway, was also signed between LEC and the Ministry of Lands,
+Mines and Energy (MLME), and Manitoba Hydro International (MHI).
+
+The high cost of electricity from diesel generation, reflected in tariffs that were higher than US$0.50/kWh –
+among the highest in the world – was one of the key obstacles to economic recovery. Limited access to
+costly electricity affected the competitiveness of Liberian firms and commercial enterprises, which were
+forced to rely on expensive private diesel generators. In 2016, as per the Household Income and
+Expenditure Survey, only one in six households had access to electricity either from a generator or
+LEC. Most of these households were located in urban areas, less than 2 percent of rural households
+having access to electricity. For these reasons, investment in the electricity sector was identified as a key
+driver of Liberia’s economic recovery and transformation. A five-year Medium Term Economic Growth and
+Development Strategy (2012-17) was adopted by the Government, with investment in the electricity sector
+being envisaged as a key component. LEC’s Electricity Master Plan (2012) identified two main bottlenecks
+to the efficient and sustainable development of a national electric system; namely, (a) the lack of
+infrastructure to transmit and distribute electricity, and (b) an electricity utility (LEC) in a precarious financial
+
+
+
+                                                                                                           Page 3 of 14
+                       Independent Evaluation Group (IEG)                 Implementation Completion Report (ICR) Review
+                       LR-Accelerated Electricity Exp. (FY13) (P133445)
+
+
+
+and technical situation, capable of serving only the capital city, Monrovia.
+
+
+Alignment with Country Strategies
+
+Under the second pillar of the Government’s Agenda for Transformation, Liberia’s energy strategy aimed to
+shift from emergency management towards development of the electricity sector in a comprehensive and
+sustainable way, by expanding electricity services. The strategy aimed at a dramatic increase in electricity
+coverage to 70 percent of the population in Monrovia and 35 percent of the country by 2030. In this
+context, MLME drew up a short-term investment program for T&D, in addition to which the Government
+began to develop a Least-Cost Power Development Plan (LCPDP), completed in 2014, to provide a
+roadmap for expansion of the sector over the next two decades. Meanwhile, donors provided considerable
+support to efforts to restore the power sector, with the World Bank playing an important role through several
+interventions, such as the Liberia Electricity System Enhancement project (LESEP), with a US$10 million
+IDA credit in FY11.
+
+The current project’s objectives were fully aligned with the Government’s priorities for the electricity sector,
+as articulated in the above-mentioned Agenda for Transformation. The project focused on supporting
+implementation of the first phase of the Government’s access agenda, with the objective of contributing to
+the strategy of accelerated service expansion by increasing electricity coverage in accordance with the
+targets of the LCPDP.
+
+The project’s development objectives were also consistent with the Bank Group’s country strategies at
+project appraisal, as reflected in the Country Partnership Strategy (CPS) for FY13-17, which had placed a
+strong priority on expanding electricity services and making them more affordable to businesses and
+households, so as to spur economic growth, job creation and poverty reduction. They were also broadly
+consistent with the objectives of the Country Partnership Framework (CPF) for FY19-24- – though not
+necessarily among the highest priorities. Pillar III of the CPF aimed at ‘Narrowing the Infrastructure Gap to
+Foster More Equitable Development Nationwide’, Objective 7 of which focused on ‘Improved access to
+utilities, markets, and community services. Activities under this Objective included road construction,
+rehabilitation and maintenance, expansion of access to the internet, and expansion of reliable electricity
+services, and included achievement of enhanced access to affordable and reliable electricity among its
+various outcomes (such as better access to markets for farmers and entrepreneurs, increased ICT
+penetration and improved access to water). Thus, while there was clear demand for amplifying electricity
+supply and improving the sector, it is unclear exactly what the institutional capacity needs were and whether
+support to this aspect of the sector was the most prescient issue.
+
+Based on this, the relevance of the project’s objectives is assessed as Substantial.
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+Substantial
+
+
+4. Achievement of Objectives (Efficacy)
+
+
+
+                                                                                                        Page 4 of 14
+                  Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+                  LR-Accelerated Electricity Exp. (FY13) (P133445)
+
+
+EFFICACY_TBL
+
+
+
+
+               OBJECTIVE 1
+               Objective
+               “To increase access to electricity”
+
+               Rationale
+               Theory of Change (TOC)
+
+               The project was designed to increase access to electricity and strengthen institutional capacity. Project
+               activities aimed to expand the urban and suburban T&D network, including through the completion of new
+               connections, addition of sub-stations, improved procurement of HFO (including through new pipeline and
+               storage infrastructure, and strengthening of energy management by both Government and the electricity
+               utility. These activities were expected to lead to outcomes such as increased access to electricity and
+               electricity services, greater reliability and efficiency of the electricity distribution system, increased efficiency
+               in the handling of HFO, and improved management ability within the utility and the electricity sector.
+
+               While the activities were broadly appropriate to achieving the desired outcomes, the theory of change (TOC)
+               discussion in the ICR does not specifically analyze whether the investments were of adequate scale to create
+               a critical mass for change.
+
+               Indicators used to measure the achievement of objectives were consistent with the above results chain. For
+               PDO Indicator 1, intermediate outcome indicators measured the length of T&D lines constructed/rehabilitated
+               under the operation, the increase in number of household and commercial connections, the construction and
+               upgrade of HFO off-loading, transport and storage facilities, and the increase in direct project
+               beneficiaries. For PDO2, the indicator measured the increase in LEC customers billed or buying prepayment
+               credit using the Customer Management System (CMS). Outcome indicators measured the number of people
+               provided with access to electricity by household connections, as well as the number of
+               commercial/institutional customers, the number of direct project beneficiaries, and the number of LEC
+               customers billed or buying prepaid credit using the CMS.
+
+               Key assumptions underlying the TOC included: (i) the pursuit of the electricity reform agenda, (ii) the need to
+               mobilize resources to ensure continued maintenance of T&D infrastructure, and (iii) an increase in the level of
+               dialogue between Government and key energy sector stakeholders.
+
+               Outputs
+
+               - Transmission lines constructed or rehabilitated under the project were of the order of 113.2 km, fully
+               achieving the (post-restructuring, revised) target of 110 km. About half (54 km) of these lines were
+               constructed under the original project, and the other half (59.2 km) post-AF. These included the Paynesville-
+               Kakata 66 kV transmission line and the 66/33 kV Kakata substation lines, energized since March 31, 2020.
+
+               - Distribution lines constructed/rehabilitated under the project were of the order of 1,586.7 km, well in excess
+               of the formally revised target of 1,200 km (the original target had been 70 km).
+
+               - 85,961 new customer connections were made to the grid in the Monrovia-Kakata corridor by project closing,
+               against a target (for January, 2020) 56,450.
+
+
+
+                                                                                                                        Page 5 of 14
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   LR-Accelerated Electricity Exp. (FY13) (P133445)
+
+
+
+- Construction of 23,500 m3 HFO storage facilities, consisting of three fuel tanks and one water tank, against
+a revised target of 16,200 m3.
+
+- The length of pipeline constructed for transportation of HFO was 1.9 km, against a target of 1.5 km.
+
+- Operationalization of the HFO pipeline, pumping station and storage facility was achieved by April 2022 (the
+revised target date was however June 2015). Along with this, options for launching the procurement of fuel
+on a competitive basis were also assessed: this being completed by April 2022 (though here again the target
+date was June 2015). That said, on account of LEC’s precarious financial position, and the need to provide
+up-front payment in the international market, the utility was not able to procure any HFO on competitive basis
+for storage in the facility constructed. Apart from this, although HFO consumption did increase between 2019
+and 2021, the balance of electricity generation underwent a shift away from thermal, towards hydro, with the
+operationalization of the rehabilitated Mt. Coffee hydroelectric plant in 2017. As a consequence, the need for
+HFO declined, and was relevant mainly in the dry season when the Mt. Coffee hydro plant’s effective
+generation capacity fell from 88 MW to as low as 10 MW.
+
+Outcomes
+
+As noted by the ICR (p.17), T&D networks were enhanced by the commissioning of four new, and three
+upgraded, substations in Monrovia and the peri-urban counties. Electricity transmission and distribution lines
+were expanded in these areas
+
+There was a significant increase recorded in the number of people - by household connection - provided with
+access to electricity. Actuals at project closing were of the order of 429,805, as against a revised target of
+280,000 (original target had been only 10,300).
+
+Progress recorded was however much more limited in the case of commercial and institutional
+customers. Against a revised target of 450 customers (original target, 476), actual achievement was of the
+order of only 173 customers by project closing. Commercial and institutional customers needed 3-phase
+connections, in which there was limited progress. Part of the reason for this lack of progress was the high
+tariff in place for electricity, combined with unreliable supply, making connection to the LEC network relatively
+unattractive for large customers, who normally used captive generators. It was expected that with the
+reduction in tariff to US$0.22 in January 2022, the number of large customers connected to the grid would
+increase over the foreseeable future.
+
+Based on the total number of connections made by end-July, 2022, and assuming 5 household members per
+connection, the total number of direct project beneficiaries was assumed to have reached 429,805, against a
+revised target of 233,000 (original target of 48,410). The share of female beneficiaries was 51 percent
+(target: 49 percent).
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+
+                                                                                                    Page 6 of 14
+                               Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                               LR-Accelerated Electricity Exp. (FY13) (P133445)
+
+
+
+                            “To strengthen institutional capacity in the electricity sector”
+
+                            Rationale
+                            The theory of change applicable to this objective is the same as for Objective 1. Relevant activities to meet
+                            this objective included the hiring of individual utility experts to manage LEC, subsequent to the MHI contract,
+                            and completion of studies underpinning energy sector reforms. Achievement was measured by three
+                            intermediate indicators and one outcome indicator.
+
+                            Outputs
+
+                            - LEC’s Action Plan for improving commercial management and strengthening local managerial capacity was
+                            approved by the LEC’s Board of Directors by project closing.
+
+                            - The Customer Management System (CMS) and the Integrated Management System (IMS) were fully
+                            implemented by project closing.
+
+                            - MLME and LEC staff received training through several capacity-building trainings, conducted under the
+                            project. Several short-term training courses were attended by LEC staff in such areas as Environmental &
+                            Social, Engineering, Project/Contract Management, Procurement and Finance. Consultant experts were also
+                            hired under the project, to support implementation. These included a Financial Management (FM) consultant,
+                            a senior international procurement expert and an experienced project coordinator.
+
+                            Outcomes
+
+                            The IMS set up in LEC enhanced the prepayment credit system, the main modules becoming operational by
+                            project closing. As such, the percentage of LEC customers billed or buying prepayment credit using the CMS
+                            reached 100 percent by April 2022 (ICR, p.19), against a revised target of 95 percent. In effect, all customers
+                            connected to the grid were integrated into the IMS.
+
+                            The project supported the transition from the Management Services Contract (MSC) to full-time management
+                            of LEC – with funds being provided for five full-time utility experts. However, the Government opted for
+                            another MSC (financed by the Millenium Challenge Corporation), so these funds were used to finance a
+                            contract with Tetra Tech to provide advisory services to the local Interim Management Team (IMT) and
+                            support the smooth transition to a long-term sustainable management arrangement. A human resources firm
+                            was subsequently hired to assist LEC in the recruitment of a new Chief Executive Officer and Chief Operating
+                            Officer, as part of the transition from the MSC to the full-time management model. This transition had not
+                            been completed by project closing, however. It remains unclear as to what, if any, transformation has
+                            occurred regarding the capacity of LEC’s staff as a consequence of the training programs.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                                                                                                                               Page 7 of 14
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      LR-Accelerated Electricity Exp. (FY13) (P133445)
+
+
+
+
+  Rationale
+  As seen from the above, the project substantially achieved its two objectives. Considerable progress was
+  achieved in terms of increasing access to electricity, especially in terms of household connections (though
+  less so, for commercial and institutional customers). The HFO pipeline and facilities were operationalized,
+  although on account of other factors, the full benefit from the increased availability of heavy fuel oil was not
+  realized. Substantial progress was also made in strengthening institutional capacity, though the transition
+  from MSC to full-time management fell behind schedule. As such, Overall Efficacy is rated Substantial.
+
+
+
+  Overall Efficacy Rating
+  Substantial
+
+
+
+5. Efficiency
+Economic efficiency
+
+The economic internal rate of return (EIRR) for the project at closing was estimated at 30 percent, with a Net
+Present Value (NPV) of US$129 million (at a 10 percent discount rate), compared to the estimated rate at
+appraisal of 34 percent and NPV of US$190 million at the same discount rate. In addition, it was estimated that
+at completion, the project would trigger lifetime emissions reduction of 2.1 million tCO2, which would significantly
+raise the estimated NPV to between US$229 million and US$247 million.
+
+Financial returns estimated were however negative, reflecting the sharp increase in non-technical losses
+between 2016 and 2020, and the FIRR was hence substantially below that estimated at appraisal (17 percent).
+
+Operational/Administrative Efficiency
+
+The project, whose implementation was affected by the two pandemics (Ebola and Covid-19), closed 49 months
+after the original closing date (although to some extent this reflected the extra time needed to process and
+implement the additional financing). Nevertheless, the actual cost of implementing the operation remained
+within the earmarked budget. The project’s results were achieved at a total cost of US$91.94 million, which was
+slightly lower than the estimated cost of US$95 million.
+
+Based on the above, the project’s efficiency can be considered to be Substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)            *Coverage/Scope (%)
+
+                                                                                                       Page 8 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     LR-Accelerated Electricity Exp. (FY13) (P133445)
+
+
+
+                                                                                    0
+Appraisal                                                 34.00
+                                                                                     Not Applicable
+                                                                                    0
+ICR Estimate                                              30.00
+                                                                                     Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project’s development objectives remain substantially relevant to the needs of Liberia’s energy sector and
+of a fragile state. Its overall efficacy is rated Substantial, the project having achieved many of its key
+development objectives. Its efficiency is similarly rated Substantial, on the basis of both economic analysis and
+Operational/Administrative efficiency considerations. As such, its overall outcome is rated Satisfactory.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+Key risks to development outcome relate to the pricing and reliability of energy services. Unless the pricing
+of grid energy services is brought down to reasonable levels, the incentive for self-generation of electricity
+will not diminish, and expansion of energy access will be difficult to sustain. These risks apply also to the
+sustainability of the improvements made to institutional capacity. Mitigation measures include advancing the
+pace of energy sector reforms, including electricity tariff adjustments and bringing improved governance and
+greater transparency to the functioning of the utility.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The design of the project was strategically relevant at appraisal, and remained so during
+  implementation. The objective of increasing access to electricity and strengthening the capacity of the
+  utility was a key priority for a country emerging from two civil wars which had destroyed the electricity
+  infrastructure. The World Bank’s engagement in the electricity sector in Liberia followed a multiphase
+  programmatic approach, with the Bank playing a leadership role among the key donors involved in this
+  sector, who brought additional resources to bear. However, according to the ICR (pgs.30-31), the design
+  of the TA activity would have benefited from some checks and balances to ensure that institutional
+  capacity supported by the project was effective and efficient. Notwithstanding some on-going
+  coordination among stakeholders, accountability regarding quality of results was not a major
+  consideration of the contracts package.
+
+
+
+                                                                                                    Page 9 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     LR-Accelerated Electricity Exp. (FY13) (P133445)
+
+
+
+  The implementation arrangements put in place for the project were generally adequate, though there was
+  some room for improvement. The arrangements involved placing the project implementation unit (PIU) in
+  LEC itself, however without clear specification of responsibilities between line ministry and utility – which
+  led to some confusion and impacted results, especially as regards the management of the TA activity
+  during the implementation period.
+
+  The ICR also draws attention to the project’s risk assessment, which was appropriate, though mitigation
+  measures could have been strengthened. The risk relating to the capacity of the implementing agency
+  for instance was identified – the PAD rating it as High (PAD, p.16). However, mitigation measures were
+  not adequate, so when the risk manifested, project implementation was adversely impacted.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The project appears to have been adequately supervised. The Bank team conducted 14 bi-annual
+ supervision missions over an eight-year period which included the deadly Ebola pandemic (2014-15),
+ which delayed implementation by two years, and affected the pace of remobilization of contractors and
+ consultants to the sites. Despite this, and the subsequent Covid-19 pandemic, which also slowed down
+ project implementation, the Bank team continued to provide sustained implementation support to the
+ Government in a fragile, post-conflict (FCV) environment.
+
+ The Bank team worked to support and sustain Government commitment for the operation, and to ensure
+ coordination of donors to the project’s development objectives. The key donors active in the sector (EU,
+ USAID and JICA) supported the Government with parallel operations in generation and in expanding rural
+ and urban electrification.
+
+ The ICR notes (p.31) that the Bank team could have pushed for improved staffing of the PIU, closer
+ oversight of which could have positively affected the quality and pace of the project’s implementation. This
+ would have included the need to hire an M&E expert, select a permanent owner’s engineer and monitor the
+ performance guarantees diligently.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+
+
+                                                                                                    Page 10 of 14
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     LR-Accelerated Electricity Exp. (FY13) (P133445)
+
+
+
+a. M&E Design
+ M&E design and arrangements appear to have been generally adequate. The PDOs were clearly stated
+ and appropriately reflected in the results framework. Most indicators to measure outputs and outcomes of
+ individual objectives were sound. That said, while the PDO indicators were mostly measurable and
+ achievable, they could have been more comprehensive and specific to each sub-objective – especially for
+ PDO-2, where outcome indicators needed to be more attuned to capturing the breadth and performance of
+ the institutional strengthening of the energy utility and line ministry.
+
+ As mentioned earlier (Section8), the PIU did not envision hiring an M&E specialist. This was a mistake,
+ which hampered project monitoring, and should have been rectified during implementation.
+
+
+
+b. M&E Implementation
+  The Mid-Term Review (MTR) in July 2018, which assessed program implementation, found that the M&E
+  system was appropriate for the requirements of the project and was functioning well, with outcome and
+  intermediate indicators being reported regularly. According to the ICR (p.27), some of the intermediate
+  indicators needed to be elevated to PDO-level, in order to measure the institutional-strengthening aspect
+  of the PDO better.
+
+  According to the ICR also, M&E supervision was insufficient in reporting on the progress made about the
+  transitional management arrangement at LEC and the progress achieved towards achieving PDO-2. An
+  external audit of the MSC and TA contracts would have been particularly useful in assessing
+  achievement under the contracts and institutional capacity building results.
+
+
+
+c. M&E Utilization
+  Data reporting by the PIU, Aide Memoires and Implementation Status and Results Reports (ISRs) all
+  played a role in establishing dialogue among key stakeholders. These data also informed key
+  implementation decisions, including the restructurings/additional financing. The quality of M&E
+  utilization was however hampered by the absence of an M&E specialist.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as Category B, triggering the following policies: (a) Environmental Assessment
+   (OP 4.01), (b) Physical Cultural Resources (4.11), and (c) Involuntary Resettlement (OP4.12). An updated
+   Environmental and Social Management Framework (ESMF) and Resettlement Policy Framework (RPF)
+   were prepared and cleared by the World Bank, which implementing agencies were responsible for
+   implementing, along with preparation of an Environmental and Social Impact Assessment (ESIA) and an
+   Environmental and Social Management Plan (ESMP). The ESIA and ESMP, which specified several
+
+                                                                                                 Page 11 of 14
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    LR-Accelerated Electricity Exp. (FY13) (P133445)
+
+
+
+  mitigation measures to minimize or avoid potential environmental impacts, were approved by Liberia’s
+  Environmental Protection Agency (EPA) and the World Bank.
+
+  An Oil Spill Response Plan for the HFO facilities was also approved by the World Bank, providing an
+  agreement with the company running the facility to apply sound environmental management standards.
+
+  A Grievance Redress Mechanism (GRM) was put in place, and a complaint was filed by a private company
+  relating to a dispute with LEC over ownership of a land where one of the project substations (Kakata) was
+  constructed. After the company rejected LEC’s proposal for arbitration, the case went to the courts, where it
+  was subsequently dismissed.
+
+  An estimated US$87,000 was provided by the Government to compensate project-affected persons (PAPs)
+  for mainly economic tree crops, makeshift commercial structures and some private plots of land. A further
+  US$740,000 was disbursed to compensate 858 RAP beneficiaries for affected structures, land and
+  economic tree crops. However, another US$50,229 was needed to compensate a further 393 PAPs for
+  economic tree crops in the Virginia to Bomi corridor: this compensation was not received by these PAPs up
+  to project closing because of insufficient funds, and discussions were on-going with the Ministry of Finance,
+  to obtain the necessary funds.
+
+  The ICR points out (p.29) that ISRs had rated the Safeguards function as Moderately Satisfactory
+  throughout the implementation period.
+
+
+
+
+b. Fiduciary Compliance
+  Procurement performance was rated Moderately Satisfactory in the ISRs, procurement risk remaining
+  Substantial throughout the period. Allegations of fake manufacturers authorization in some winning bids
+  related to SCADA equipment were uncovered at one point, leading the Bank to impose debarment
+  sanction on the bidder. The Procurement Plan was updated regularly in the Bank’s procurement system
+  (STEP), though it appears that some contract management documents had yet to be uploaded as
+  required. The ICR notes (p.29) that although procurement performance had improved gradually, there
+  were still outstanding issues related to contract extensions and order variations. The ICR cited an example
+  of LEC attempting to procure goods without following IDA procurement guidelines and without the
+  knowledge of the project coordinator. Though the purchase order was later cancelled it brought to light
+  serious deficiencies in accounting controls at LEC.
+
+  Financial management (FM) performance was adequate overall during the implementation period in terms
+  of staffing, budgeting, reporting, accounting and external audit. Interim Financial Reports (IFRs) were
+  generally submitted on time, meeting the financial covenants. However, some challenges emerged in the
+  execution of budgets. In addition, there was a general capacity constraint concerning FM reflected in slow
+  processing of Letters of Credit, and payment and performance guarantees expiring.
+
+  The Annual Financial Statement Audit for the project for FY20-21 was completed and final reports
+  submitted on time. An unqualified opinion was expressed by the Auditor General on the financial
+  statements for the period under review, with the final audit of the project after August 31, 2022 expected to
+  be delivered by end-May 2023.
+
+
+                                                                                                  Page 12 of 14
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     LR-Accelerated Electricity Exp. (FY13) (P133445)
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                  Reason for
+Ratings                          ICR                    IEG
+                                                                                  Disagreements/Comment
+Outcome                          Satisfactory           Satisfactory
+                                 Moderately
+Bank Performance                                        Moderately Satisfactory
+                                 Satisfactory
+Quality of M&E                   Substantial            Substantial
+
+Quality of ICR                   ---                    Substantial
+
+
+12. Lessons
+
+IEG derives the following lessons drawn from the ICR:
+
+1. The Bank Group’s reengagement in the energy sector in FCV countries calls for sustained
+coordination and dialogue with both Government and other development partners (DPs) to
+achieve maximum synergy. This project was part of a multiphase programmatic approach for
+providing support to the energy sector, and the World Bank was engaged with several other DPs,
+such as USAID/MCC, JICA, EU and the African Development Bank (AfDB), who were all engaging
+with Liberia through key investments in the sector. The process of coordination and harmonization
+of the priorities and contributions of individual DPs to the country’s short-term and medium-term
+goals was not without challenges – which explains some of the shortcomings in the project’s results
+(e.g. the weaknesses in technical and institutional capacity). The coordination was helpful however
+in enabling a comprehensive program to be developed to support the modernization and
+diversification of the country’s electricity sector, with the Bank providing seminal support to Liberia’s
+energy subsectors, and each DP providing specific investment support in electricity generation,
+transmission and management.
+
+2. Having an M&E specialist within the PIU matters for close project monitoring and
+implementation reporting. As Liberia was a post-conflict country, technical capacity was scarce in
+the PIU, notwithstanding which the hiring of an M&E specialist was not considered a priority. During
+implementation, and by project closing, the absence of such a specialist made project monitoring
+and implementation reporting definitely more challenging. This also affected ICR preparation (see
+ICR, p.33), as the PIU’s institutional memory was found to be lacking, as there were no specific M&E
+staff to monitor, record and report on the project’s implementation.
+
+
+
+                                                                                                      Page 13 of 14
+       Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+       LR-Accelerated Electricity Exp. (FY13) (P133445)
+
+
+
+3. Planning in the electricity sector needs to go beyond short- and medium-term
+objectives. Under the project, construction of HFO storage tanks was prompted by a short-term
+need without a long-term view. When electricity generation progressively switched over from
+thermal to hydro generation, the storage tanks constructed ended up being underutilized. Current
+hikes in HFO prices viewed against more recent developments in renewable energy suggest that
+focusing on purely short-term needs can lead to suboptimal decisions in a longer-term context.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is well written, candid and internally consistent, and provides a fair amount of detail on design and
+implementation issues. The achievement of objectives is adequately analyzed. Weaknesses in the M&E
+system and elsewhere are highlighted and discussed. Overall, the narrative appears to support the ratings and
+available evidence. One area which could have been better framed is compliance with environmental and
+safeguards issues. Also, key lessons from the project could usefully have had a broader application to potential
+future operations and interventions.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                  Page 14 of 14
+

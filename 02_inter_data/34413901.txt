@@ -1,0 +1,926 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     ZA - Eskom Renewables Support Project (P122329)
+
+
+
+                                                                                Report Number: ICRR0024207
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P122329                                   ZA - Eskom Renewables Support Project
+
+ Country                                   Practice Area(Lead)
+ South Africa                              Energy & Extractives
+
+
+ L/C/TF Number(s)                          Closing Date (Original)               Total Project Cost (USD)
+ TF-10690                                  31-Dec-2016                                        249,999,999.25
+
+ Bank Approval Date                        Closing Date (Actual)
+ 27-Oct-2011                               31-Dec-2023
+
+                                           IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                         250,000,000.00                                  250,000,000.00
+
+ Revised Commitment                          250,000,000.00                                  250,000,000.00
+
+ Actual                                      249,999,999.25                                  249,999,999.25
+
+
+
+
+ Prepared by                Reviewed by                  ICR Review Coordinator         Group
+ Maria Shkaratan            Chikako Miwa                 Avjeet Singh                   IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objective (PDO) was to facilitate accelerated development of large-scale renewable
+   energy capacity in support of the long-term carbon mitigation strategy of South Africa (ICR, page 9). The PDO
+   was stated identically in the Project Appraisal Document (PAD) (PAD, page ii).
+
+   The PDO is sourced from the PAD and the ICR because the Loan Agreement was not available in the
+   Operations Portal.
+
+
+                                                                                                 Page 1 of 17
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     ZA - Eskom Renewables Support Project (P122329)
+
+
+
+   The PDO was not revised.
+
+   For the purposes of this ICR review, the objective will not be broken into parts but will be assessed as one
+   PDO.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  30-Nov-2018
+
+c. Will a split evaluation be undertaken?
+   Yes
+
+d. Components
+   1. Original components
+
+   Component 1: 100 MW Sere Wind Power Plant and associated infrastructure for the connection of
+   wind and renewable IPPs to the grid (cost at appraisal: US$353.5 million; actual cost: US$252
+   million). The component was to finance the design, procurement, construction and commissioning of a 100
+   MW wind power plant and associated transmission lines and substations at Sere in the Western Cape
+   Province. The plant design comprised turbines totaling 100 MW with an expected load factor of 26 percent
+   and an annual energy output of 219 GWh. The plant would be a flagship in the sector; and investments in
+   transmission capacity would catalyze private sector investment under the renewable energy (RE)
+   development program.
+
+   Component 2: 100 MW Upington Concentrating Solar Plant (CSP) (cost at appraisal: US$1,197.4
+   million; actual cost: US$0 million). This component was to finance the design, procurement, construction,
+   and commissioning of 100 MW CSP capacity at Upington in the Northern Cape Province on a turnkey basis,
+   including associated infrastructure to connect the plant to the grid (an overhead 132 kV power line linking
+   the substation at the facility site to the nearest substation at the grid). The plant was designed to operate as
+   semi-base load using storage capacity. The plant was expected to operate at a load factor of 60-65 percent,
+   generate 516 GWh per year, and result in avoidance of an estimated 9 million tons of GHG emission over
+   its projected 20-year life.
+
+   Management fee at appraisal: US$0.875 million.
+
+   Revised Components: The components were revised, as described in section 2.e under “Restructurings”.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+
+
+                                                                                                     Page 2 of 17
+  Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+  ZA - Eskom Renewables Support Project (P122329)
+
+
+
+Project Cost: The appraisal estimate was US$1,551.8 million (PAD, page 10), and the actual disbursement
+was US$512.9 million. This difference is explained by the following. At Restructuring 5 of November 2018,
+the CSP investment under component 2 was replaced by a Battery Energy Storage System (BESS)
+investment, resulting in a reduction in component 2 cost by US$542.4 million. The BESS was implemented
+partially, and its actual cost at Project closing was US$260 million (an additional reduction in cost of
+US$395.0). Component 1 was completed at a lower cost than expected, with a reduction of US$101.5
+million, bringing the overall cost reduction to US$1,038.9 million. With this reduction, a total actual cost was
+US$512.9 million.
+
+Project Financing: Project’s financing from IBRD was expected to be US$510 million and consist of: a
+Clean Technology Fund (CTF) loan to the Eskom Holdings SOC Ltd., though IBRD (appraisal estimate:
+US$250.0 million) and own IBRD financing (appraisal estimate: US$260.0 million) (PAD, page 10). The
+actual disbursement at closure was US$250 million.
+
+Project’s co-financing was expected to be US$1,000.0 million, provided by several lenders, including the
+African Development Bank (AfDB), Agence Française de Développement (AFD), Kreditanstalt für
+Wiederaufbau (KfW), and European Investment Bank (based on PAD, page i, page 10). The amount at
+closure was US$212 million, including AfDB’s loan in the amount of US$9.0 million, a CTF loan (though the
+AfDB) in the amount of US$73.0 million, and a contribution from AFD in the amount of US$130 million (at
+IEG’s request, these data were provided by the team).
+
+Borrower/Recipient contribution: The Borrower’s (Eskom Holdings’) contribution was estimated at
+US$41.78 million at appraisal, but there was no Borrower contribution.
+
+Project Dates: The Project was approved on October 27, 2011, and became effective on July 25, 2012.
+The MTR review was on September 12, 2014. The Project was restructured eight times: (i) on December
+11, 2014; (ii) on December 31, 2016 (source: Restructuring Paper RES20010, page 1); (iii) on June 30,
+2017; (iv) on March 29, 2018; (v) on November 30, 2018; (vi) on December 17, 2021; (vii) on December 24,
+2022; and (viii) on April 13, 2023. The original closing date was December 31, 2016. The Project was
+extended four times, for a total of seven years (or 84 months), to December 31, 2023, which was the date of
+the Project’s actual closure.
+
+Restructurings: The Project had eight restructurings. Five of them were for extension of Project closing
+dates only, while two included minor adjustments of components and reallocation of financing (within the
+same overall funding), and one involved significant restructuring, requiring a split evaluation (Restructuring
+5, of November 30, 2018). Restructuring 5 was mainly to significantly revise component 2: drop the CSP
+investment (original Component 2, estimated cost US$1,197.4 million) and introduce instead the Battery
+Energy Storage System (BESS) (revised Component 2, estimated cost US$655 million), after the failure of
+the CSP bidding process under the Project and advances in private sector development of CSP. The BESS
+component was further revised at Restructuring 7 in December 2022 to exclude two sites from the activities
+financed by the CTF Loan, following an Eskom’s decision. After that, six sites for a total of 162.5 MW
+remained for Bank financing. There was no revision of Project results framework (RF) targets at
+Restructuring 7.
+
+Restructuring 1 (December 11, 2014) was to amend the disbursement percentages for financing under
+the CTF to align them with the financing plan as updated after Board approval due to changes in project
+
+
+
+
+                                                                                                   Page 3 of 17
+  Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+  ZA - Eskom Renewables Support Project (P122329)
+
+
+
+costs and contributions by co-financiers. The restructuring also added the African Development Bank
+(AfDB) to the list of co-financiers for the CSP.
+
+Restructurings 2-4 (December 31, 2016; June 30, 2017; and March 29, 2018, correspondingly) were to
+extend the Project’s closing date by a total of 23 months, from December 31, 2016, to November 30, 2018,
+to allow time to select an alternative to the CSP investment and prepare and appraise it. The
+recommendation by Eskom to replace the CSP component was due to significant delays in its
+implementation and the non-responsive final stage bids for the main package (because of commercial and
+technical deviations).
+
+Restructuring 5 (November 30, 2018) involved the following changes:
+
+    i. Changes in components: under component 2, the investment in the CSP plant was replaced with
+        the investment in a 360 MW BESS with a storage capacity of 1,440 MWh, at an estimated cost at
+        restructuring of US$655.0 million and the actual cost at closure of US$260.0 million. Note: The
+        BESS cost estimate was made for the whole BESS program, including phase 1 and 2, whereas only
+        a part of phase 1 was implemented (ICR, page 32).
+    ii. Changes in financing: some of the funding for component 1 was reallocated to component 2;
+   iii. Changes in the RF:
+             o A new core indicator was added to measure battery storage capacity (MW);
+             o The intermediate results indicator (IRI) measuring the CSP progress was dropped;
+             o The PDO indicator measuring GHG emissions avoided due to the Project was reduced to
+                reflect that the CPS investment was dropped (gains from the BESS investment were not
+                accounted for).
+             o The IRI “Energy supply from renewable sources, GWh” was replaced with the IRI
+                “Generation Capacity of Renewable Energy (other than hydropower) constructed, MW” to
+                better reflect the value added by the Project;
+             o The CTF leveraged financing indicator was adjusted to include investments outside of the
+                Project (in addition to the Project co-financing);
+             o A new indicator measuring the number of jobs created by the Project was added.
+   iv. Changes in safeguards requirements: the Indigenous People Policy (OP4.10) was triggered;
+
+    i. A change in Project closing date by 37 months, from November 30, 2018 to December 31, 2021, to
+       allow time for the implementation of the BESS component.
+
+Restructuring 6 (December 17, 2021) was to extend the Project closing date by 18 months, from
+December 31, 2021, to June 30, 2023, to allow time to implement the BESS component.
+
+Restructuring 7 (December 24, 2022) was to: (i) remove the site on which the IP policy was triggered (the
+implementation was to be financed by non-WBG sources); (ii) reallocate the remaining Component 1
+funding (there were savings of 12 percent of the allocated funding) to Component 2 (a total Project cost
+remained the same).
+
+Restructuring 8 (April 13, 2023) was to extend the Project closing date by six months, from June 30, 2023,
+to December 31, 2023, to allow completion of construction and commissioning of BESS.
+
+
+
+
+                                                                                             Page 4 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     ZA - Eskom Renewables Support Project (P122329)
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and Sector Context. At Project appraisal, South Africa continued to experience power shortages.
+During the decade of 1999-2008, average growth in electricity demand was above 6 percent a year,
+outpacing GDP growth of 4.1 percent per year. The growth in electricity demand was, however, not
+matched by investments in new generation capacity, leading to severe power shortages and load shedding.
+At the same time, the Government was preparing its climate policy, and environmental goals were
+incorporated in the country’s energy development strategy. This required that power system planning factor
+in the externalities, in particular, GHG emissions from fossil fuel-based generation.
+
+Relevance to Government Strategies at approval and at closure. At Project appraisal, its objectives
+were aligned with South Africa’s macroeconomic and energy sector development strategies. Energy was
+considered essential for the macroeconomic recovery and growth, especially after the global financial crisis
+of 2007-2009. The Government had committed to low carbon growth and set the objective of reducing GHG
+emissions by 34 percent by 2020 and 42 percent by 2025, after which they would plateau for a decade
+before reducing in absolute terms thereafter (Presidency statement of December 6, 2009, and a
+confirmation letter on these commitments issued by the South African Government to the UNFCCC). At
+closure, the Project was aligned with the Presidency Strategic Plan 2020-25 Grow South Africa. Priority 1:
+Economic transformation and job creation, intervention 2 Improve the quality and rate of infrastructure
+investment. It was also aligned with the National Development Plan (NDP) 2030 Our Future-Make it Work,
+which stated the following objectives in the energy sector: energy infrastructure investments that promote
+growth; reliable and efficient energy service; social equity through access and affordable tariffs; and
+environmental sustainability through a reduced share of coal in electricity mix, an increased own production
+of wind and solar electricity, and hydroelectricity imports.
+
+Relevance to the WBG’s Assistance Strategies at closure. The Project was aligned with the WBG’s
+Country Partnership Framework (CPF) FY2022-26, specifically, with Objective 1.2 Greater climate change
+Resilience and Environmentally Sustainable Investments in Selected Sectors, which emphasized support to
+South Africa in implementing its Integrated Resource Plan (2019) to achieve a secure and sustainable
+energy mix by, amongst other measures, installing battery storage facilities to support grid integration of
+renewables, and increasing the share of renewables in electricity generation mix.
+
+Related projects and support to clean energy at appraisal. At appraisal, the Government and Eskom
+had begun the development of South Africa’s first utility-scale RE projects. South Africa‘s CTF Investment
+Plan, a US$2,350 million program to scale up CSP and wind, was endorsed by the CTF Trust Fund
+Committee in October 2009. It included support for development of a private sector-led solar water heater
+market and energy efficiency investments. At the same time, the Bank‘s Carbon Partnership Facility offered
+an opportunity to attract carbon finance resources through projects in energy efficiency, solar water heating,
+and RE. Bank support to the electricity sector would include analytical work to help catalyze private sector
+financing of RE investments, development of low carbon options, and strengthening Bank-South Africa
+Partnership on climate change.
+
+While the Project was in full alignment with the CPF FY2022-26 and with the government objectives of
+energy sector development and low carbon growth, the Project’s objectives were overambitious considering
+
+
+
+                                                                                                    Page 5 of 17
+                                      Independent Evaluation Group (IEG)                       Implementation Completion Report (ICR) Review
+                                      ZA - Eskom Renewables Support Project (P122329)
+
+
+
+               the Government’s and Eskom’s capacity in relation to RE project implementation at the time. On balance,
+               the rating for Relevance of Objectives is Substantial.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To facilitate accelerated development of large-scale renewable energy capacity in support of the long-term
+                             carbon mitigation strategy of South Africa.
+
+                             Rationale
+                             The theory of change (ToC) for the Project was not included in the PAD; it was prepared for the ICR (ICR,
+                             page 9). It reflected the logic of the implementation of the Original Project and did not include the BESS
+                             component added at Restructuring 5 of November 2018. It showed causal links from Project activities to
+                             outputs/intermediate outcomes, and to the PDO outcomes. To achieve the three PDO objectives, the Project
+                             would support the following activities: (i) construction of the wind power plant and the associated
+                             infrastructure; and (ii) construction of the CSP plant and the associated infrastructure. The expected
+                             outputs/intermediate outcomes of these activities were presented as the RF indicators and included:
+                             cumulative implementation progress, number of jobs created, total investments in clean energy generation,
+                             and percentage of clean electricity supply in total electricity supplied. The achievement of the intermediate
+                             outcomes would ultimately result in the following PDO outcomes: (i) energy supply from RE increased; (ii)
+                             GHG emissions reduced; and (iii) financing leveraged by funding from other sources.
+
+                             While the ICR’s ToC provided a clear description of the Project’s logic from inputs to PDO outcomes, it was
+                             not comprehensive because it did not include the BESS component. Also, the intermediate outcomes
+                             replicated the RF indicators and did not play the expected role of showing how the outputs result in sectoral
+                             changes, how they are used to solve problems. In addition, the critical assumptions were not listed.
+
+                             The efficacy under Objective 1, Original Project, was assessed using the following indicators:
+
+                             Outputs/Intermediate Outcomes:
+
+                             1. “Sere Wind Power Project commissioned, percentage” (target: 100 percent). The actual achievement at
+                             closure was 100 percent, the target was reached.
+
+                             2. “Upington Concentrating Solar Power (CSP) commissioned, percentage” (target: 100 percent). The
+                             component was cancelled, and the achievement of the target was zero percent.
+
+
+
+                                                                                                                               Page 6 of 17
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   ZA - Eskom Renewables Support Project (P122329)
+
+
+
+3. “Total investments in clean energy generation (public and private), US$ mn” (target: US$1,900 million). The
+actual achievement at closure was US$14,882 million, the target was significantly exceeded.
+
+The ICR explained this discrepancy: at Restructuring 5 in November 2018, the definition of financing
+leveraged was expanded to include not only the co-financing under the Project, but also all private sector
+investment in clean energy. Under this definition, the leveraged amount was US$14,882 million at closure.
+This created two issues: (i) the original target’s achievement was no longer tracked and was unknown at
+closure and (ii) the level of attribution to the reviewed Project under this definition became unclear. Regarding
+the attribution, the ICR assured that there was “a strong basis for assigning some attribution to the project in
+qualitative terms”, as the Project truly facilitated investment in RE in the country in many ways. (ICR, page 13)
+The feedback from local stakeholders showed that by supporting improved regulatory and environmental
+frameworks for competitive bidding and developing an inventory of potential sites and technical specifications
+for BESS, the Project facilitated large scale private investments in RE (ICR, page 39).
+
+4. “Investments in clean energy generation as a share of all investments in electricity generation, percentage”
+(target: 17 percent). The actual achievement at closure was 10 percent, the target was 58.8 percent achieved
+(partially achieved).
+
+5. “Percentage of clean energy supply in the overall electricity consumption” (target: 3 percent). The actual
+achievement at closure was 3.5 percent, the target was exceeded.
+
+6. “Number of jobs created (Number)” (target: 800 jobs). The actual achievement at closure was 572 jobs, the
+target was 71.5 percent achieved (partially achieved).
+
+PDO outcomes:
+
+1. "Direct GHG emissions avoided under the project, t/year” (target: 952,000 tons/year). The actual
+achievement at closure was 271,000 tons/year, the target was 28.5 percent achieved (partially achieved).
+This was due to the cancellation of the CSP component, while the contribution of the wind power plant
+component exceeded the expectations (ICR, page 13)
+
+2. “Energy supply from renewable sources, GWh” (target: 520 GWh). The actual achievement at closure was
+329 GWh (ICR, page 12), the target was 63.3 percent achieved (partially achieved). The sole contributor to
+this indicator was the Sere wind plant (component 1), which was completed by closure. This partial
+achievement of the target was due to the cancellation of the CSP plant (component 2).
+
+3. “CTF Leveraged financing under the project, US$mn” (target: US$1,200 million) and “CTF Leveraged
+financing under the project, % of project cost” (target: 77 percent). The actual achievement at closure was
+US$1,778 million and 80 percent, respectively; the target was exceeded.
+
+Note: At closure, the BESS window launched three private sector bids: 513 MW in 2022, 615 MW in 2023,
+and 616 MW in 2024 (ICR, page 13). Other related solar PV and battery storage projects were awarded
+contracts in prior rounds, including the Norwegian Scatec’s 540 MW solar PV and 225 MW/1140 MWh battery
+storage projects that went into operation at the end of 2023 (ICR, page 39).
+
+Rating. The Original Project partially achieved its intended results, and its efficacy rating is Modest.
+Specifically, the Project barely achieved one of the PDO targets (on avoided emissions), partially achieved
+another one (on energy supply from RE sources), and exceeded the other two (on CTF leveraged financing
+
+                                                                                                   Page 7 of 17
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   ZA - Eskom Renewables Support Project (P122329)
+
+
+
+for RE). Regarding the IRI targets, the wind power plant construction target was reached, while the CSP
+construction was not implemented (zero percent achievement of the target); one of the two targets on
+investment in clean energy generation was exceeded, while the other was partially achieved; and the job
+creation target was partially reached.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 1 REVISION 1
+Revised Objective
+To facilitate accelerated development of large-scale renewable energy capacity in support of the long-term
+carbon mitigation strategy of South Africa.
+
+Revised Rationale
+Please see the discussion of the ToC under Objective 1, Original Project.
+
+The efficacy under Objective 1, Revision 1 Project, was assessed using the following indicators:
+
+Outputs/Intermediate Outcomes:
+
+1. “Sere Wind Power Project commissioned, percentage” (original target: 100 percent). The actual
+achievement at closure was 100 percent, the target was reached.
+
+2. “Total investments in clean energy generation (public and private), US$ mn” (original target: US$1,900
+million). The actual achievement at closure was US$14,882 million, the target was significantly exceeded
+(please see the note to this indicator under Original Project).
+
+3. “Investments in clean energy generation as a share of all investments in electricity generation, percentage”
+(original target: 17 percent). The actual achievement at closure was 10 percent, the target was 58.8 percent
+achieved (partially achieved).
+
+4. “Percentage of clean energy supply in the overall electricity consumption” (original target: 3 percent). The
+actual achievement at closure was 3.5 percent, the target was exceeded.
+
+5. “Number of jobs created (Number)” (original target: 800 jobs). The actual achievement at closure was 572
+jobs, the target was 71.5 percent achieved (partially achieved).
+
+PDO outcomes:
+
+1. "Direct GHG emissions avoided under the project, t/year” (revised target: 199,000 tons/year). The actual
+achievement at closure was 271,000 tons/year, the target was exceeded.
+
+2. “Generation Capacity of Renewable Energy (other than hydropower) constructed, MW” (newly added
+target: 460 MW). The actual achievement at closure was 168 MW, the target was 36.5 percent achieved
+
+
+
+                                                                                                   Page 8 of 17
+                                 Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                                 ZA - Eskom Renewables Support Project (P122329)
+
+
+
+                              (partially achieved). The underperformance was due to the low achievement of the BESS sub-target
+                              (component 2), while the wind power plant sub-target (component 1) was fully reached.
+
+                              2.a. Generation Capacity of Renewable Energy constructed – Wind, MW (newly added target: 100 MW). The
+                              actual achievement at closure was 100 MW, the target was reached.
+
+                              2.b. Battery Storage Capacity Constructed, MW (newly added target: 360 MW). The actual achievement at
+                              closure was 68 MW, the target was 18.9 percent achieved (barely achieved).
+
+                              Rating. The Revised Project mostly achieved its intended results, and its efficacy rating is Substantial, with
+                              moderate shortcomings. Specifically, two of the PDO targets (on avoided emissions and wind generation
+                              capacity constructed) were reached or exceeded; while one PDO target was barely reached (on battery
+                              storage constructed), leading to a partial achievement of the overall RE capacity target. Regarding the IRI
+                              targets, two were reached or exceeded (the wind power plant construction and one of the RE investment
+                              targets), while two were partially reached (the target on the number of jobs and one of the investment
+                              targets).
+
+
+
+                              Revised Rating
+                              Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            For the Original Project, the rating for efficacy is Modest. The main reason is that the construction of the CSP
+                            plant (component 2) was not implemented. As a result, the PDO targets on avoided emissions and on energy
+                            supply from RE sources were barely/partially reached. At the same time, the PDO indicator target on
+                            leveraging RE financing was exceeded.
+
+
+
+                            Overall Efficacy Rating                                    Primary Reason
+                            Modest                                                     Low achievement
+                  OBJR1_TBL
+
+
+
+
+                            OVERALL EFFICACY REVISION 1
+                            Overall Efficacy Revision 1 Rationale
+                            For the Revision 1 Project, the rating for efficacy is Substantial, with moderate shortcomings. The two PDO
+                            targets related to wind generation capacity constructed and avoided emissions were reached. At the same
+                            time, battery storage construction was barely implemented, resulting in a low achievement of the third PDO
+                            target.
+
+
+
+
+                                                                                                                                 Page 9 of 17
+      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+      ZA - Eskom Renewables Support Project (P122329)
+
+
+
+
+  Overall Efficacy Revision 1 Rating
+  Substantial
+
+
+
+ 5. Efficiency
+a. Economic Analysis:
+
+At appraisal (PAD, pages 19-21).
+
+The economic analysis was carried out for the two components separately; it was then combined for the Project
+as a whole. The benefits were estimated based on the consumer willingness to pay (WTP) approach. The
+discount rate was 10 percent. The price of CO2 per ton was assumed at US$29. For the Sere wind plant
+(component 1), the economic internal rate of return (EIRR) was estimated at 4.7 percent, and the NPV was
+negative, -US$103.2 million. When the benefits from GHG emission reduction were added, the EIRR increased
+to 7.3 percent, and the NPV became positive at US$55.3. These calculations assumed a conservative 26
+percent load factor. With a 32 percent load factor, the EIRR increased to 4.8 percent. For the CSP plant
+(component 2), the EIRR was zero percent and the NPV was negative, -US$404.1 million, when using a
+conservative load factor of 12 hours a day. When the benefits from the GHG emission reduction were added,
+the EIRR increased to 2.2 percent. When using the load factor of 15 hours a day (the intended level), the EIRR
+increased to 4.8 percent. For the Project as a whole (combining the calculations for the two components), the
+conservative EIRR estimate without the benefits of GHG emission reduction was 1.4 percent, while with such
+benefits, it was 3.8 percent.
+
+At Restructuring 5 of November 2018 (ICR, pages 33).
+
+The economic analysis for the new BESS component was conducted at the time when the component was
+added to the Project (at Restructuring 5). The discount rate used was 10 percent. The price of carbon was
+estimated at US$35 per tCO2. The analysis resulted in the EIRR of 1.2 percent and the negative NPV of -
+US$139 million. The ERR increased to 3.1 percent after accounting for GHG emissions. The analysis assumed
+that the batteries would displace energy during the evening peak usage for four hours per day. The
+counterfactual to the batteries was the existing open cycle gas turbines (OCGT).
+
+At closure (ICR, pages 14-15, pages 33-35).
+
+The economic analysis at closure was conducted separately for the Sere wind plant and BESS; a combined
+analysis for the Project as a whole was not presented. The approach replicated the one used originally, at
+appraisal for the wind plant and at Restructuring 5 of November 2018 for the BESS investment. The discount
+rate was 10 percent. The price of carbon was US$55 per tCO2 (low price scenario) and US$108 per tCO2 (high
+price scenario). For the Sere wind plant (component 1), the EIRR was 17.5 percent and the NPV was US$96
+million. When the GHG reduction benefits were added, the EIRR increased to 20.4 percent and the NPV to
+US$128 million in the low carbon price scenario (in the high carbon price scenario, 22.6 percent and US$160
+million, respectively,). For the BESS component, the EIRR was 4.8 percent and the NPV was negative at -
+US$47.6 million. The EIRR increased to 11.4 percent after accounting for GHG emissions, while the NPV
+increased to US$21.1 million in the low carbon price scenario (in the high carbon price scenario, 17.0 percent
+and US$89.6 million, respectively).
+
+
+                                                                                                 Page 10 of 17
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      ZA - Eskom Renewables Support Project (P122329)
+
+
+
+At appraisal, since the EIRRs for both components 1 and 2, as well as the combined estimate, were below the
+opportunity cost of capital (discount rate), the Project was economically inefficient. However, at closure, the
+EIRR for both components were above the discount rate (for component 2, only after accounting for the benefits
+of the GHG emission reduction), therefore, the Project was economically efficient.
+
+b. Administrative Efficiency (ICR, page 15):
+
+The administrative efficiency differed for the two components of the Project. The wind plant construction
+(component 1) was implemented efficiently: it was completed ahead of the schedule, within the budget, and
+following the original design. However, both the Original and Revised component 2 were implemented
+inefficiently: there was a seven-year delay and inefficiently used resources (including the failed bid for the CSP
+and the non-response to the first BESS tender).
+
+On balance, considering the economic viability of the Project at closure and the administratively efficient
+implementation of the wind plant construction (component 1), but also taking into account the economic
+inefficiency of the Project at appraisal and the deficiencies of implementation of both the CSP and BESS
+(component 2) (significant delays and the inefficiency in the use of resources), Project’s efficiency is rated as
+Modest.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?              Point value (%)           *Coverage/Scope (%)
+                                                                                       100.00
+ Appraisal                                                  3.80
+                                                                                        Not Applicable
+                                                                                       100.00
+ ICR Estimate                                               11.40
+                                                                                        Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+                                     Original Project:           Revised Project:
+Relevance of objectives              Substantial
+Efficacy                             Modest                      Substantial
+Efficiency                           Modest
+Outcome                              Moderately Unsatisfactory   Moderately Satisfactory
+Outcome value                        3                           4
+Amount disbursed, US$ million        34.93*                      238.07
+
+
+                                                                                                      Page 11 of 17
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     ZA - Eskom Renewables Support Project (P122329)
+
+
+
+Disbursement percentage          12.79%                      87.21%
+Weight value                     0.38                        3.49
+Total weight                     3.87
+Overall outcome rating           Moderately Satisfactory
+
+Based on the shares of the disbursed funds before and after Restructuring 5 of November 2018 (US$34.93 or
+12.79 percent; and US$238.07 or 87.21 percent), the overall Project outcome rating is Moderately Satisfactory**
+(0.1279 * 3 + 0.8721 * 4 = 3.87).
+
+* Source: Restructuring Paper 5 of November 30, 2018, page 6.
+
+** Based on a six-point scale, where: 1 = Highly Unsatisfactory, 2 = Unsatisfactory, 3 = Moderately
+Unsatisfactory, 4 = Moderately Satisfactory, 5 = Satisfactory, and 6 = Highly Satisfactory.
+
+
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+Financial. The risk to sustainability relates primarily to Eskom’s financial capacity for maintenance and
+replacement of batteries, and for investments to remove transmission system bottlenecks, which were cited
+by the private sector as a key constraint to investing in RE capacity. To facilitate Eskom’s investment in
+transmission and maintenance of existing assets, the Government approved a three-year substantial debt
+relief package for the utility. The tariff increases approved by the regulator for 2023/24 and 2024/25 will
+provide additional help. (ICR, page 22)
+
+Institutional. Limited capacity of the public sector during implementation was a significant factor of the
+Project’s low administrative efficiency. Going forward, the sustainability of the Project’s outcomes depends
+on enhanced capacity of Eskom and relevant government agencies to support RE development.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The ICR reported that the Project was prepared with technical due diligence on the CSP technology;
+  thorough safeguards due diligence; credible risk identification and mitigation; and reliable arrangements
+  regarding lenders’ coordination, as reflected in the MoU.
+
+  However, there were shortcomings, including the following: (i) insufficient market research for the CSP
+  design (a technology which was still in its early stages of development when a scale-up can be
+
+                                                                                                   Page 12 of 17
+     Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+     ZA - Eskom Renewables Support Project (P122329)
+
+
+
+  challenging), which could have signaled the unsuccessful market response if it were done properly. The
+  ICR notes that the CSP failed because it was a new technology that both Eskom and the regulators were
+  unfamiliar with, and the Project fully relied on public sector solutions, leading to delays and ultimately
+  unsuccessful bids. Later in Project life, it was realized that public sector intervention was no longer
+  necessary since the private sector was already involved in other CSP projects in South Africa, and the
+  component was cancelled. This could have been avoided if sound market research was done at
+  appraisal.; (ii) limited risk identification and mitigation in relation to the BESS component, particularly, with
+  capacity constraints within Eskom, as well as the limitations of the Government’s legal and regulatory
+  framework; and (iii) insufficient considerations for the risk of not obtaining the level of co-financing
+  expected at appraisal. (ICR, pages 18-19, 21).
+
+
+
+  Quality-at-Entry Rating
+  Moderately Unsatisfactory
+
+
+b. Quality of supervision
+ The ICR reported that Project implementation had several strengths, including: (i) the proactivity of the
+ Bank team; (ii) the adequacy of supervision inputs, and (iii) coordination with other lenders. The Project
+ task team had diverse skills mix, supporting various aspects of Project implementation; only four task team
+ leaders over the 12 years of Project implementation; and a stable core team. Coordination with other
+ donors was critical and focused on joint supervision missions and on the dialogue with Eskom on important
+ matters. Project reporting was adequate, with only a few gaps in filing ISRs and aide memoires.
+
+ The ICR also pointed out that Project implementation was challenging and took 12 years from Board
+ approval to partial completion on loan closing date, instead of the 5-year period that had been expected at
+ appraisal. There were several factors of delays and challenges. This included due to disagreements by the
+ financiers, including the AfDB and the New Development Bank (NDB), to follow the Bank’s procurement
+ guidelines and safeguard policies, contradictory to the MoU signed by all lenders at appraisal. Moreover,
+ the Government’s regulatory actions (a factor outside of the Project’s control) added to delays, including
+ the two-year time it took to approve Eskom’s investment in BESS; the 120-day waiting period required by
+ the energy regulator for licensing of BESS; and delays with approvals for contract awards and waivers,
+ which were required by law, resulting in delayed bidding or award of contracts.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+
+
+                                                                                                        Page 13 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     ZA - Eskom Renewables Support Project (P122329)
+
+
+
+a. M&E Design
+ The RF reflected the logic of Project interventions in the PAD, was sufficiently linked to the PDO and the
+ ToC, and was comprehensive yet manageable. The PDO outcome indicators reflected all expected Project
+ outcomes. The intermediate results indicators (IRIs) were linked to the PDO indicators, providing more
+ details. All of the RF indicators were quantitative and time bound. The ICR noted that the Project’s M&E
+ system comprised quarterly progress reports, annual reports, and quarterly interim unaudited financial
+ statements; and that the data collection instruments, responsibilities, frequency of reporting, and the
+ intended use of the collected data were defined well at approval (ICR, pages 17, 18). There was also an
+ agreement on a five-year M&E program for BESS, to be continued after Project closure (ICR, page 19).
+
+ The ICR noted that there were shortcomings, such as the inclusion of the contributions from the CSP
+ component in the targets, while CSP was a high-risk pilot activity; and the design of the leveraged financing
+ indicator to capture the RE co-financing under the Project but not the potentially catalyzed private sector
+ investment in RE outside of the Project. (ICR, pages 17-18)
+
+
+
+b. M&E Implementation
+  The RF design proved to be solid, and the RF remained stable, assuring a continuity of monitoring of
+  Project outcomes throughout Project life. The changes made during implementation were limited to: (i)
+  adding a new PDO indicator for BESS and dropping the IRI measuring the CSP progress, to reflect
+  component 2 restructuring in November 2018; (ii) changing the unit of measurement for the component 1
+  PDO indicator, from GWh to MW, to refine the measurement of the outcomes; (iii) modifying the
+  leveraged financing indicator to include investment in RE outside of the Project; and (iv) adding an
+  indicator of the number of jobs created by the Project.
+
+  There were some deficiencies. First, the new leveraged financing indicator, while being more reflective of
+  the Project objectives, also created an attribution issue, as there were other RE investments in the
+  country that were also incentivizing a scale-up. Second, in the initial stages of the project, there was a
+  lack of clarity regarding reporting format. This was later resolved, and a common reporting format was
+  agreed for the World Bank and other financiers; the ICR assessed the quality of the progress reports as
+  generally satisfactory. Third, the revised CTF leveraging indicator was not consistently tracked during
+  implementation. Fourth, the RE targets for the BESS component continued to be based on the whole
+  program, even as the scope of activities financed by the Bank was reduced at Restructuring 7. (ICR,
+  page 13, page 20)
+
+
+
+c. M&E Utilization
+  The quarterly progress reports, though not of a high quality, provided the basis for the implementation
+  missions’ discussions with Eskom. The use of a common report format facilitated the joint missions by
+  the World Bank and other financiers and helped in focusing all parties on the key issues. (ICR, page 20)
+
+  Overall, the design of the M&E system was solid, supporting monitoring during Project life, and the
+  weaknesses were limited. At the same time, there were several deficiencies in the implementation and
+  utilization of the M&E system. On balance, the M&E system is rated as Modest.
+
+
+
+                                                                                                  Page 14 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     ZA - Eskom Renewables Support Project (P122329)
+
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   Environmental and Social Safeguards. At appraisal, the Project was classified as Environmental
+   Category A (Full Assessment), and the following safeguards policies were triggered: Use of Country
+   Systems (OP/BP 4.0), Environmental Assessment (OP/BP 4.01), Natural Habitats (OP/BP 4.04), Physical
+   and Cultural Resources (OP/BP 4.11), and Involuntary Resettlement (OP/BP 4.12). The Indigenous
+   Peoples (OP/BP 4.10) policy was triggered during Restructuring 5 in November 2018 due to the presence of
+   Indigenous peoples in one site proposed for BESS. Eskom decided to use AfDB and NDB funding for this
+   site. Other issues that arose during implementation were: the management of biodiversity areas at some
+   sites, the handling of waste management at one site, and minimum land acquisition. In all cases corrective
+   actions were taken; and there were no significant outstanding safeguards issues at closure in the final ISR
+   dated December 18, 2023. The project was rated Satisfactory for Safeguards throughout its implementation.
+   (ICR, page 20)
+
+
+
+
+b. Fiduciary Compliance
+   Financial management (FM). The ICR reported that financial management was rated Satisfactory for
+   most of the Project implementation and remained as such at Project closure. However, there were some
+   deficiencies. The main issue was the continuing audit qualification of Eskom’s financial statements based
+   on the inadequacy of Eskom’s system to record irregular expenditures fully and accurately. The auditors
+   also expressed an emphasis of matter due to material uncertainty in their report on the financial year
+   ending on March 31, 2023, relating to Eskom’s ability to continue as a going concern. The last ISR rated
+   Project’s FM as Satisfactory and the FM risk as Moderate. On the Loan closing date there were no
+   outstanding audits. (ICR, page 21)
+
+   Procurement. The ICR reported that procurement presented major challenges for the successful
+   implementation of the Project; and most of the ISRs rated it either Moderately Unsatisfactory or
+   Unsatisfactory. Procurement challenges were due to several reasons, including the lack of familiarity with
+   the new technologies, which contributed to delays in obtaining regulatory/approval decisions; procurement
+   capacity constraints within Eskom; and delays in bidding and contract awards due to the requirements to
+   meet the GoSA’s regulatory approvals under the Public Financial Management Act (PFMA) and
+   Preferential Procurement Policy Framework Act (PPPFA) legislation. There were a few cases of non-
+   responsive bids that resulted in re-tendering. The challenge of coordinating activities among the financiers
+   complicated the procurement. However, procurement performance improved towards the end of the
+   Project when all contracts financed by the Bank had been awarded, and its rating was Moderately
+   Satisfactory at closure (ICR, page 26).
+
+
+
+
+                                                                                                   Page 15 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     ZA - Eskom Renewables Support Project (P122329)
+
+
+
+c. Unintended impacts (Positive or Negative)
+   There were no unintended impacts.
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                 Reason for
+Ratings                        ICR                     IEG
+                                                                                 Disagreements/Comment
+                               Moderately
+Outcome                                                Moderately Satisfactory
+                               Satisfactory
+                               Moderately
+Bank Performance                                       Moderately Satisfactory
+                               Satisfactory
+Quality of M&E                 Modest                  Modest
+
+Quality of ICR                 ---                     Substantial
+
+
+12. Lessons
+
+The following lessons were derived from the ICR (ICR, page 23):
+
+1. Projects based on innovative technologies, despite being associated with higher risks, can
+produce significant development outcomes and incentivize a scale-up and knowledge
+sharing, provided that they are properly designed with respect to ambition and cost. The CSP
+component of the reviewed Project was designed as a large and costly pilot, which increased its
+risks and contributed to the failure of the bidding process. An innovative BESS program, while also
+large, was based on a phased approach and although considerably delayed, had a wide catalytic
+impact in South Africa and globally. The first phase contributed to a large investment in renewable
+energy, including in BESS capacity, by the private sector, and encouraged other countries to invest
+in solar battery storage. It also supported Eskom’s acquisition and sharing of related knowledge and
+experience.
+
+2. When projects introduce new and innovative technologies, it is important to focus due
+diligence not only on the feasibility of the technology, but also on the options for
+implementation structures, including private sector involvement when applicable. In the
+reviewed Project, if such due diligence was conducted during the preparation stage, it could have
+suggested alternatives to a public sector project design and involved private sector, since it was
+already showing interest in CSP. This could have helped to avoid the waste of resources used to
+prepare the Eskom’s CSP, which ultimately failed.
+
+3. For projects implemented in highly regulated sectors, careful advance planning and
+consultations, as well as a clear agreement with the Borrower and/or government agencies
+on decision timelines, are critical. This can help ensure that the required regulatory licenses,
+
+
+                                                                                                     Page 16 of 17
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       ZA - Eskom Renewables Support Project (P122329)
+
+
+
+authorizations, permits, and consents are secured on time. Implementation of the reviewed Project
+was plagued by delays in granting approval and regulatory licenses for the BESS component.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provides sufficient technical details and evidence to support the analysis and the ratings; the analysis
+clearly links the evidence to the findings; and the presentation is succinct and has internal consistency. Both
+efficacy and efficiency analyses are logical, well-structured, and written clearly. The lessons are based on
+evidence and are useful for future operations. The expected transformative impact of the project is clear, as
+well as the challenges of Project implementation and the resulting level of achievement. However, the
+presentation of Project costs and sources of financing could have been clearer.
+
+Overall, the ICR quality is rated as Substantial.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                   Page 17 of 17
+

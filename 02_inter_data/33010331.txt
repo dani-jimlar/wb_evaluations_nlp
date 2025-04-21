@@ -1,0 +1,755 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Pacific Reg ICT Regulatory Dev. Project (P148238)
+
+
+
+                                                                                  Report Number: ICRR0022514
+
+1. Project Data
+
+
+
+ Project ID                                  Project Name
+ P148238                                     Pacific Reg ICT Regulatory Dev. Project
+
+ Country                                     Practice Area(Lead)
+ Pacific Islands                             Digital Development
+
+
+ L/C/TF Number(s)                            Closing Date (Original)               Total Project Cost (USD)
+ IDA-H9820                                   31-Jul-2019                                           1,401,399.72
+
+ Bank Approval Date                          Closing Date (Actual)
+ 30-Jul-2014                                 30-Jun-2020
+
+                                             IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                              4,500,000.00                                              0.00
+
+ Revised Commitment                               1,774,089.00                                              0.00
+
+ Actual                                           1,401,399.72                                              0.00
+
+
+
+
+ Prepared by                 Reviewed by                   ICR Review Coordinator         Group
+ Ranga Rajan                 Kavita Mathur                 Victoria Alexeeva              IEGSD (Unit 4)
+ Krishnamani
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objectives (PDOs) as stated in the Loan Agreement (Schedule 1, page 4) and in
+   the Project Appraisal Document (PAD, page 7) were: "to strengthen the capacity of Information
+   Communication Technology (ICT) regulatory institutions in the participating countries and enhance
+   regional collaboration and knowledge sharing on ICT regulatory issues."
+
+
+
+
+                                                                                                   Page 1 of 14
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Pacific Reg ICT Regulatory Dev. Project (P148238)
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   There were three components (PAD, pages 7 - 9).
+
+   Component 1. Regional ICT capacity development and knowledge management. The estimated cost
+   at appraisal was US$2.25 million. The revised estimate was US$3.50 million. The actual cost was US$1.25
+   million. This component planned to finance Technical Assistance (TA) activities aimed at knowledge sharing
+   and cooperation among regional regulators. Activities in this component included: (i) regional dissemination
+   of knowledge products; (ii) development of regulatory best practices; (iii) improving access to sector data;
+   (v) providing a central mechanism for sharing knowledge at the regional level; and (vi) hiring key staff and
+   consultants.
+
+   Component 2. Regional advisory services. The estimated cost at appraisal was US$1.75 million. The
+   revised estimate was US$0.00 million. This component planned to finance advisory services on demand
+   and training regional regulators. This component was dropped during the May 2018 level 2 restructuring
+   and a new activity on cybersecurity support was added. (reasons discussed in section 2e).
+
+   Revised: Cybersecurity support. The revised estimate of this component was US$0.5 million. The actual
+   cost was US$0.0 million. This component planned to provide technical and analytical support for
+   cybersecurity in the participating countries, including, inter alia, through developing cybersecurity strategies,
+   policies, and incident response capabilities, technical support for establishing computer emergency
+   response teams, regional and international knowledge sharing, and research on cybersecurity issues.
+
+   Component 3. Project administration. The estimated cost at appraisal was US$0.5 million. The actual
+   cost was US$0.16 million. This component planned to provide project implementation support in the areas
+   of fiduciary management and monitoring and evaluation.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project cost. The estimated cost at appraisal was US$4.5 million. The revised estimate was US$1.7
+   million. The actual project cost was US1.4 million.
+
+   Project financing. The project was financed by a regional IDA grant of US$4.5 million. The revised
+   estimate was 1.7 million. The amount disbursed was US$1.4 million. An undisbursed amount of US$2.7
+   million (67.5% of the IDA grant) was cancelled on June 25, 2020.
+
+   Borrower contribution. Borrower contribution of US$0.4 million was estimated at appraisal. There was no
+   borrower contribution during implementation.
+
+   Dates. The project was approved on July 30, 2014, became effective on September 12, 2014, and was
+   scheduled to close on July 31, 2019. The project closed about a year behind schedule on June 30, 2020.
+
+
+                                                                                                       Page 2 of 14
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Pacific Reg ICT Regulatory Dev. Project (P148238)
+
+
+
+   Restructurings. There were two Level 2 restructurings during the project lifetime.
+
+   The following main changes were made through the first Level 2 restructuring on May 2018, following the
+   mid-term review (MTR) on August 2017:
+
+         The component two activity associated with regional advisory services on demand was dropped due
+          to a combination of factors, including challenges associated with identifying two or more regulators
+          with similar needs of regulatory services and issues with counterpart funding. Resources from this
+          component were partly reallocated to financing component one activities of regional knowledge
+          sharing and capacity building, and financing a new activity on cybersecurity that
+          was a shared concern in the region. Following the dropping of the activity associated with regional
+          advisory services, counterpart funding was no longer applicable, and the disbursement table was
+          revised to reflect 100% of Bank financing for the project.
+
+         Procurement capacity was augmented, with the recruitment of a dedicated procurement specialist
+          for the project at the University of the South Pacific (USP). The overall procurement arrangements
+          and project implementation structures however remained unchanged.
+
+         The results framework was modified to reflect the changes in project activities. The intermediate
+          indicator “establishment and Maintenance of Annual Regulatory Lessons Learned Section on
+          Advisory Services Database” associated with the dropped component was dropped.
+
+         The project closing date was extended by a year from July 31, 2019, to July 31, 2020, to allow time
+          for completing the ongoing activities.
+
+   The following changes were made through the second Level 2 restructuring on June 26, 2020.
+
+         An undisbursed amount of US$2.74 million of the Bank financing that could not be utilized, was
+          cancelled.
+
+         The closing date for the project was brought forward by a month from July 31, 2020, to June 30,
+          2020.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Reginal context. The opportunities for economic development of the Pacific Islands are constrained by
+their small size. While low purchasing power, challenges of scale and distance to markets
+inhibited their businesses' opportunities, geographic isolation hindered knowledge sharing between
+them. Developing the ICT was seen by the Pacific Island countries as a way for addressing the challenges
+associated with isolation and reducing the cost of doing business in these countries.
+
+Sector context. The ICT sector of Pacific Island countries are at varying levels of development. While
+the sector was liberalized in some countries (such as, Fiji, Papua New Guinea, Samoa, Solomon Islands,
+
+                                                                                                   Page 3 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Pacific Reg ICT Regulatory Dev. Project (P148238)
+
+
+
+Tonga and Vanuatu), the sector in some others (such as, Kiribati, Marshall Islands, Palau, and Tuvalu) was
+still in its infancy. The regulatory institutions likewise varied in the countries. While some had regulatory
+institutions for a number of years, the regulatory ability to muster resources from license fees or levies was
+limited in others. Accessing knowledge and technical support collectively to analyze market data and
+information, building capacity of regulatory institutions, and building a central facility to support smaller
+regulators was important at the regional level.
+
+Alignment with the Pacific Islands ICT Regional Strategy. The project was fully aligned with the
+"Framework for Action on ICT Development in the Pacific", developed in 2010 by the Secretariat of the
+Pacific Community. While focus number one of the framework identified the need for regional collaboration
+on ICT issues, focus number two, articulated the need for developing ICT policy and the legislative and
+regulatory framework, and focus three highlighted the need for ICT human capacity building. The concept of
+a regional ICT regulatory advisory committee was first raised at a meeting of regional ICT stakeholders in
+2007, with the ICT ministers of Pacific Island countries requesting the World Bank, to undertake an options
+study in 2008 for setting a "Pacific ICT Regulatory Resource Center" (PIRRC) for regional regulation of
+the sector. Following this, the Bank and the Asian Development Bank (ADB) mobilized resources from
+the Pacific Region Infrastructure Facility Trust Fund and set the PIRRC. In the absence of a dedicated
+regional institutional/forum, the University of South Pacific (USP) was assigned a leading role for ICT
+outreach and ICT development at the regional level. A two-phase implementation was envisioned for
+PIRRC, with the first phase executed using Bank and ADB executed Trust Fund Resources.
+
+Alignment with Bank Strategy. The PDOs are well-aligned with the Bank's regional strategy for Pacific
+Islands articulated in the Regional Partnership Framework (RPF) for 2017 - 2021. This framework identified
+ICT as the key infrastructure for supporting the region's development objectives, and improvements to the
+ICT regulatory environment as essential for improving ICT access, adoption and affordability. The
+PDOs were directly aligned with Focus Area Four of the RPF (strengthening the enablers of growth), and
+objective 4.2 (increased access to basic services and improved connectivity infrastructure). The RPF also
+highlighted the need for adopting a regional approach to sector development and greater regional
+integration. The RPF was also fully aligned with the common themes emerging from the current national
+development strategies of regional countries such as, building climate resilience, investing in human
+development, improving infrastructure and fostering growth. The importance of connectivity to respond to
+crisis is also underscored by the ongoing COVID - 19 pandemic. The ICR (paragraph 21) notes that while
+research on the economic impact of COVID - 19 is still scarce, initial evidence indicated that countries with
+advanced connectivity can mitigate up to half the negative long-term impact of the pandemic. The PDOs
+were fully aligned with Pillar Four of the Bank's COVID - 19 Response Approach Paper of June
+2020 (strengthening ICT policies, institutions and investments for rebuilding better).
+
+Previous Bank Experience. This Bank-funded project was the second phase, aimed at developing
+a regional approach to ICT regulatory issues in Pacific Islands. This phase was designed to be part of a
+wider program, with enhanced scope and sophistication of ICT activities as compared to the first
+phase. Although the level of ambition of this recipient-executed second phase (as compared to the Bank-
+executed first phase) was appropriate, following the dropping of the original component, two activities
+and persistent implementation challenges associated with the constraints of the financing instrument
+(regional IDA grant), this project turned out to be a mere continuation of the first phase, with little value
+added. The regional mechanism (the Pacific ICT Regulatory Resource Center) was already established in
+Phase 1, the types of outputs remained largely the same for the two projects, and the networks
+
+
+
+
+                                                                                                     Page 4 of 14
+                                      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                      Pacific Reg ICT Regulatory Dev. Project (P148238)
+
+
+
+               developed between ICT regulators of the region were already in place, prior to preparation and approval of
+               this project. The relevance of objective is rated as substantial.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+
+                             To strengthen the capacity of ICT regulatory institutions in the participating countries.
+
+                             Rationale
+                             Theory of change. The causal links between project activities, outputs, and outcomes were logical. Given
+                             the limited ICT regulatory capacities in the Pacific Island countries, their varying levels of development, and
+                             lack of adequate scale in individual markets to finance sophisticated ICT products, technical assistance
+                             activities aimed at regional capacity building and knowledge management, were likely to strengthen the
+                             capacities of regulatory institutions in the participating countries. These activities were aimed at the long-
+                             term development objective of a regional approach to IT sector regulation in Pacific Islands.
+
+                             Outputs (ICR, pages 32 - 35).
+
+                                        Knowledge portal was established when the project closed as targeted. An online website that
+                                           provided access to an advisory services database was maintained by the Pacific ICT Regulatory
+                                           Resource Center (PIRRC) as targeted. The ICR (page 33) notes that while the knowledge portal at the
+                                           PIRRC was established and active at the time of project closing, it is currently not active and
+                                           unavailable online.
+                                          Eleven working papers on priority regulatory topics (such as, spectrum management, open access
+                                           and national emergency telecommunication plans) were completed when the project closed. This
+                                           exceeded the target of five.
+                                          Gender-disaggregated data on ICT market penetration was not maintained as targeted when the
+                                           project closed. The ICR (page 32) mentions that this indicator was to be revised at first project
+                                           restructuring, but erroneously was not. An inventory of gender specific existing ICT programs in the
+                                           region were not developed as targeted at project closure.
+                                          Five training programs with fifteen regulatory staff were trained per program per year when the project
+                                           closed. This was short of the target of twenty.
+                                          Five regional sharing events were held annually, short of the target of twelve.
+
+                             Outcomes
+
+
+                                                                                                                                    Page 5 of 14
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Pacific Reg ICT Regulatory Dev. Project (P148238)
+
+
+
+
+      The project activities were expected have a favorable impact on the telecommunications sector of the
+       participating countries. This impact was measured through sector-specific standard indicators
+       developed by the Bank's Sustainable Development Network to measure the impact of technical
+       assistance to the sector. These indicators were expected to show the impact of the project on: (i)
+       making the legal and regulatory framework more effective at delivering sector performance; (ii)
+       improving the capacity of the regulatory institutions to deliver on their mandate; (iii) increasing the
+       level of competition in the ICT sector; (iv) improving the ICT policy environment in the country; and (v)
+       reforming state-owned assets in the ICT sector (PAS page 22). The indicators were measured by
+       composite scores ranging from one (low) to five (high)). The score reached when the project closed
+       was two as compared to the target of four.
+
+In the absence of any evidence of implementation of regulatory or policy actions by participating countries
+that can be attributed to the outputs produced by the project, aimed at strengthening the capacity of ICT
+regulatory institutions in the participating countries, efficacy is rated negligible.
+
+
+
+Rating
+Negligible
+
+
+OBJECTIVE 2
+Objective
+
+To enhance regional collaboration and knowledge sharing on ICT regulatory issues.
+
+Rationale
+Theory of change. The causal links between project activities, outputs and outcomes were clear. Given the
+limited collaboration and knowledge sharing between ICT sector regulators, activities aimed at regional
+advisory services on cybersecurity issues were aimed at enhancing regional collaboration and knowledge
+sharing on ICT regulatory issues, and these were expected to contribute to the long-term development
+objective of regional approach to ICT sector regulation in Pacific countries. The two development indicators
+may be considered inter-related intermediate outcomes of project activities, synergizing to achieve the
+development objectives measured by the PDO indicators.
+
+Outputs (ICR, pages 35-36).
+
+It should be noted that no activities were implemented under the original (regional advisory services) and
+revised (cybersecurity support) component two.
+
+      The set of tools and templates for developing a Pacific model to assist the development of a National
+       Cyber Security Master Plan, were not delivered as targeted.
+      No regional cyber security capacity development workshop was held annually when the project
+       closed. This was short of the target of three.
+
+Outcomes
+
+
+
+                                                                                                   Page 6 of 14
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                Pacific Reg ICT Regulatory Dev. Project (P148238)
+
+
+
+                            As discussed above, the project activities were expected have a favorable impact on the Information
+                            Technology/Information Technology Enabled Services (IT/ ITES) sectors of the participating
+                            countries. This impact was measured by composite scores as discussed above. The score reached when the
+                            project closed was two as compared to the target of four.
+
+                            Given that none of the outputs were produced and outcomes not realized, efficacy of the objective of
+                            enhancing regional collaboration and knowledge sharing on IT regulatory issues is rated as negligible.
+
+
+
+                            Rating
+                            Negligible
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            In the absence of any evidence of implementation of regulatory or policy actions by participating countries
+                            that can be attributed to the outputs produced by the project, overall efficacy is rated as negligible.
+
+
+
+                            Overall Efficacy Rating                                  Primary Reason
+                            Negligible                                               Low achievement
+
+
+    5. Efficiency
+   Economic analysis. There was no economic or financial analysis at appraisal, given that the impact of
+   improving regulatory capacity could not be easily quantified. The potential economic project benefits from
+   improving regulatory capacity was assumed to come from improved service delivery of ICT services at the
+   regional level. This in turn was expected to facilitate private sector participation in the sector and aid in efficient
+   provision of telecommunication services. There was no economic analysis at closure.
+
+   This project was far less efficient as compared to the Phase 1 project executed by the Bank/ADB, in terms of the
+   accepted norms of value of money such as, implementation time frame, cost, and outputs produced. While
+   the prior project was implemented in two years, this project had a time frame of six years. Both projects cost
+   US$1.4 million (although this project had an envelope of US$4.5 million, over two-thirds (67.5%) of this
+   amount could not be utilized and was cancelled at closure). While the number of technical notes, knowledge
+   products, and knowledge sharing events were the same for both projects, no ad hoc advisory services were
+   recorded under this project, as compared to 31 under the phase 1 project.
+
+   Administrative and operational shortcomings. There were significant administrative and operational
+   shortcomings. There were delays in (i) hiring a Project Director (a legal covenant); and (ii) preparation of the
+   Project Operations Manual. Also, the lack of effective coordination between the University of South Pacific
+   (USP) and the Steering Committee contributed to implementation delays. Project progress up to the mid-term
+   review was quite slow, with less than a third of the Bank financing disbursed till them. This was partly due to the
+
+                                                                                                                              Page 7 of 14
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      Pacific Reg ICT Regulatory Dev. Project (P148238)
+
+
+
+lack of familiarity of the USP with the Bank's procurement processes. The USP further took the decision (since it
+was responsible for project administration as per the financing agreement) not to renew the contract of the
+Project Director and scale down the role to that of a Project Manager (ICR para 49). This exacerbated the
+already tense relationship between the USP and the Steering Committee. At closure, there was no progress on
+activity associated with cybersecurity, and over two-thirds of Bank financing that could not be utilized were
+cancelled.
+
+In sum, efficiency is rated as negligible given that the recognized norms of value for money were not met and
+there were significant administrative and operational shortcomings.
+
+
+Efficiency Rating
+Negligible
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                     0
+ Appraisal                                                  0
+                                                                                      Not Applicable
+                                                                                     0
+ ICR Estimate                                               0
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Relevance of the PDO is substantial. Overall efficacy was negligible, given that there is no evidence
+of regulatory or policy actions by the participating countries that can be attributed to the project
+activities. Efficiency is rated negligible, given that the recognized norms of value for money were not met and
+there were significant administrative and operational shortcomings. Taking these ratings into account as per the
+Bank ICR IPF guidance (Appendix H), outcome is rated highly unsatisfactory, reflecting severe shortcomings in
+the project's achievement of its objectives and in its efficiency.
+
+
+a. Outcome Rating
+   Highly Unsatisfactory
+
+
+7. Risk to Development Outcome
+
+Stakeholder risk. The ICR (paragraph 78) notes that the ICT agenda still remains a priority in the region and
+that although the Pacific ICT Regional Resource Center (PIRRC) is not currently active and financed, the
+notion of adopting a regional approach to ICT regulation is still valued by regulators. However, there is a lack
+
+                                                                                                     Page 8 of 14
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Pacific Reg ICT Regulatory Dev. Project (P148238)
+
+
+
+of technical leadership in the region without a regional organization taking a leading role for addressing ICT
+regulatory issues.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  This project was prepared on the experience from the phase one of the project and the Bank's
+  experience of similar regional initiatives undertaken in other sectors in Pacific Islands (such as the
+  aviation sector aimed at establishing Pacific Aviation Security Office as a regional provider of additional
+  security to national authorities on aviation safety and security). Lessons incorporated at appraisal
+  included, active involvement of the steering committee and continued presence of the Project Director
+  with financial management expertise during project execution. Several risks were identified at appraisal
+  including, substantial stakeholder risk. Mitigation measures incorporated at design included a stakeholder
+  consultative mechanism at appraisal. With mitigation measures, project risk was rated as moderate at
+  appraisal; it was not adequate, as pointed out by the ICR, since the project involved the same
+  stakeholders as Phase 1, but in different capacities. The ICR (paragraph 67) points to the fact that the
+  risks of coordination and counterpart financing were the main reasons for component 2 ’s activities not
+  being implemented, and these were not identified at appraisal. The arrangements made at appraisal for
+  fiduciary compliance were appropriate (discussed in section 10b). There were weaknesses in M&E
+  design (discussed in section 9a).
+
+  In addition to weak risk identification and mitigation measures, there were major shortcomings at Quality-
+  at-Entry:
+
+         The phased implementation approach was to enhance scale and sophistication, but the project
+          turned out to be a mere continuation of phase 1 activities at the regional level, with little value-
+          added.
+
+         A regional IDA Grant used as the lending instrument, excluded certain (non-IDA) Pacific Islands
+          and members of the Pacific ICT Regulatory Resource Center (PIRRC) from being direct
+          beneficiaries of the project on account of not being eligible for IDA financing (although the non-
+          IDA countries were retained as members of the Steering Committee). There were challenges
+          associated with direct exclusion of non-IDA countries from the project (ICR, paragraph 41).
+          According to the clarifications provided subsequently by the team, the implementation challenges
+          stemmed from the constraints of the regional IDA grant that led to the selection of USP as the
+          grant recipient. This effectively created a gap between the financing and project beneficiaries.
+          The team further clarified that this was a critical element that impacted the Project's performance
+          as compared to the more successful first phase of the program.
+
+         In the absence of a sector-focused regional institution in place, the University of South Pacific
+          (USP), was selected to implement the project. The Project design did not consider the lack of
+          incentive for USP to implement the Project on behalf of the beneficiaries represented by the
+          Steering Committee. The USP, a higher education institution, did not have the related technical or
+
+
+                                                                                                        Page 9 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Pacific Reg ICT Regulatory Dev. Project (P148238)
+
+
+
+         fiduciary capacities for Bank financed operations. The limited oversight from USP contributed to
+         implementation delays.
+
+        The project was not ready for effectiveness, given that of the four legal covenants, only two
+         covenants were complied with, and there were delays in appointment of a Project Director (a legal
+         covenant). Further, at closure this covenant was not complied with due to the non-renewal of the
+         Project Director's contract and implementation challenges leading to the non-recruitment of
+         a Project Director not being recruited for the remainder of the project.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Unsatisfactory
+
+
+b. Quality of supervision
+ Ten Implementation Status Results Reports (ISRRs) were filed over a project implementation time frame of
+ six years (implying on average twice a year supervision missions as per the norm). Following the mid-term
+ review, the supervision team made the required changes, given that component two activities had
+ changed. The support provided by the team aided in fiduciary compliance (discussed in section 10b).
+
+ There were significant shortcomings in supervision:
+
+       Following the first restructuring only one mission was held in 2019, for which no aide memoire was
+        transmitted (ICR, paragraph 73).
+
+       The supervision team did not sufficiently address key issues, such as the lack of engagement by
+        the USP following the first restructuring, the sources of tension between stakeholders, and non-
+        renewal of the contract for the Project Director (a legal covenant). The ICR (paragraph 72) notes
+        that despite multiple attempts to engage with the client including efforts to meet with USP by
+        members of the task teams visiting Fiji on missions for other ongoing engagements, there was lack
+        of responsiveness from the recipient following the first project restructuring in 2018.
+
+       The ICR provides no information on the continuity of leadership during implementation, but notes
+        that there was a change in leadership after the first project restructuring, at a time when greater
+        engagement was needed.
+
+ Given the very limited progress after the first project, the Bank could have proactively closed the
+ project earlier. The quality of supervision is rated as moderately unsatisfactory.
+
+ Overall, the Bank performance is rated as unsatisfactory, in view of the major shortcomings at quality-at-
+ entry that could not be overcome.
+
+
+
+  Quality of Supervision Rating
+  Moderately Unsatisfactory
+
+                                                                                                    Page 10 of 14
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Pacific Reg ICT Regulatory Dev. Project (P148238)
+
+
+
+
+  Overall Bank Performance Rating
+  Moderately Unsatisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The impact of the project was measured through sector-specific standard indicators developed by the
+ Bank's Sustainable Development Network to measure the impact of technical assistance to the sector. The
+ indicators were measured by composite scores ranging from one (low) to five (high)). The USP was in
+ charge of monitoring project performance.
+
+ While the indicators were appropriate, given that the project activities aimed at addressing ICT regulatory
+ issues at the regional level, there were no indicators aimed at measuring progress on regional
+ collaboration. That is, demonstrating the benefits of adopting a collaborative approach on ICT regulatory
+ issues. Furthermore, the PDO level indicators lacked adequate detail in terms of methodology and data
+ sources to measure progress.
+
+
+
+b. M&E Implementation
+  The ICR (paragraph 55) notes that the USP's reporting of results was sporadic, with limited supporting
+  evidence. The ICR further reports that the mid-term review noted that USP expressed data collection
+  issues and suggested a revision in the Results Framework. However, the UPS proposal was not shared
+  with the team. There were no adequate supporting materials for demonstrating progress after project
+  restructuring and that there were data entry errors in the Results Framework throughout the
+  implementation period (ICR paragraph 56).
+
+
+
+c. M&E Utilization
+  The ICR (paragraph 59) notes that data collection was limited and there was no evidence of utilization of
+  the M&E data. There was no evidence of any follow-up being conducted on outputs and their
+  downstream impacts. There was no evidence that any participating country used the outputs produced
+  under the aegis of this project to take policy or regulatory action. Likewise, there was no evidence of
+  knowledge sharing at the regional level.
+
+  In sum, M&E is rated negligible primarily on account of shortcomings in the M&E implementation and
+  utilization.
+
+
+
+  M&E Quality Rating
+  Negligible
+
+10. Other Issues
+
+                                                                                                   Page 11 of 14
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Pacific Reg ICT Regulatory Dev. Project (P148238)
+
+
+
+
+a. Safeguards
+   The project was classified as a category C project under the World Bank safeguard policies. No safeguard
+   policies were triggered at appraisal (page 16). No safeguard policies were triggered during implementation.
+
+
+
+
+b. Fiduciary Compliance
+   Financial management. A financial management assessment of the University of South Pacific
+   (USP) conducted at appraisal, concluded that their financial arrangements were satisfactory. The financial
+   management risk was rated as moderate at appraisal (PAD, paragraph 6.08).
+
+   The ICR (paragraph 65) notes that financial management was rated as moderately satisfactory during the
+   implementation period. However, the project did face issues relating to recovering administrative costs
+   incurred by USP, delays in establishing online disbursement processing arrangements and financial
+   reporting issues during implementation. However, there were no major compliance issues or outstanding
+   financial reports when the project closed. The ICR provides no information on the quality of audits.
+
+   Procurement. An assessment of the procurement arrangements was conducted at appraisal. The risks
+   identified at appraisal included lack of clarity on who would be accountable for procurement decisions and
+   inadequate procurement staff. Mitigation measures incorporated at design included preparation of a
+   detailed procurement plan at appraisal and clarification of the role of USP as the entity in charge of
+   procurement. With these measures, procurement risk was rated as moderate (PAD, paragraph 6.09).
+
+   The ICR notes that there were significant procurement delays during implementation, the quality of
+   procurement documentation was low, and materials were often returned for improvement. The ICR reports
+   no case of mis-procurement.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                  Reason for
+Ratings                         ICR                      IEG
+                                                                                  Disagreements/Comment
+                                                                                  In line with the Bank ICR IPF
+                                                                                  guidance, 2020 (Appendix H),
+Outcome                         Unsatisfactory           Highly Unsatisfactory    with substantial relevance,
+                                                                                  negligible efficacy and efficiency,
+                                                                                  the overall outcome rating is HU.
+
+
+                                                                                                     Page 12 of 14
+     Independent Evaluation Group (IEG)                                   Implementation Completion Report (ICR) Review
+     Pacific Reg ICT Regulatory Dev. Project (P148238)
+
+
+
+                                Moderately               Moderately
+Bank Performance
+                                Unsatisfactory           Unsatisfactory
+Quality of M&E                  Negligible               Negligible
+
+Quality of ICR                  ---                      Substantial
+
+
+12. Lessons
+
+The ICR draws the following lessons from the experience of implementing this project, which are
+presented below with some adaptation of language.
+
+1. Technical leadership is critical for regional activities. This project demonstrated the
+importance of regional championship and ownership of the agenda. A lack of technical leadership on
+the agenda limits the ability of the institution to coordinate the necessary expertise and inputs to
+effectively implement projects in that field. While the University of South Pacific was given the
+mandate for ICT development in this project, it was not aligned with its core function as a tertiary
+education institution and lacked the necessary technical capacity to execute a Bank-financed
+project.
+
+2. Multi-stakeholder projects require clearly defined roles and responsibilities for stakeholder
+coordination. This entails a greater level of engagement, consultation, and stakeholder
+coordination during project preparation. Documents such as the project operation manual and
+implementation agreements between participating stakeholders need to be prepared early on and
+stakeholders sensitized ahead of project effectiveness to reduce stakeholder coordination risk and to
+avoid potential misunderstandings that may lead to downstream challenges.
+
+3. Procurement capacity building should be complemented with technical assistance, if need
+be through support firms. While procurement is central to any project’s implementation, the
+experience from this project highlights the criticality of the processes around the execution of
+procurement itself. This includes many areas that require much more subject matter expertise than
+procurement process familiarity, such as designing terms of reference, conducting market analysis,
+carrying out technical evaluation of proposals/bids, and contract management, among others. The
+lesson from this project is that in technical assistance projects such as those pertaining to ICT, the
+availability of adequate technical capacity becomes more critical. In this project, the University of
+South Pacific did not clearly have the capacity to address procurement issues.
+
+4. Developing regional approaches requires long-term engagement. Regional approaches to
+economic development has advantages, particularly for small-states. The regional IDA Grant was
+potentially the only Bank financing instrument to continue this long-term engagement. The lesson
+from this project is that the Bank's existing financial instruments may not be best suited to respond
+to such needs, particularly in low-capacity regions where long-term engagement require sustained
+technical assistance, technical and implementation capacity building, and grant financing to continue
+operations till long-term sustainability options are realized.
+
+
+
+13. Assessment Recommended?
+
+                                                                                                       Page 13 of 14
+       Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+       Pacific Reg ICT Regulatory Dev. Project (P148238)
+
+
+
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR candidly discusses the issues associated with the regional dimensions of the project, especially when
+there is no regional forum with a clear mandate. It also discusses candidly the issues associated with the
+monitoring and evaluation of the project. The ICR draws reasonably good lessons from the experience of
+implementing this project.
+
+However, there were some shortcomings. With relevance of objective rated high and efficacy and efficiency
+negligible, the overall outcome is highly unsatisfactory as per the Bank ICR IPF guidance, instead of
+unsatisfactory as reported in the ICR. The ICR provides no information on the continuity of leadership and the
+quality of financial audits. The ICR is also excessively long, with the main text at 30 pages (double the
+recommended length of 15 pages).
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                  Page 14 of 14
+

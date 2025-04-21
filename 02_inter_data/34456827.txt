@@ -1,0 +1,1500 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     CI: E-Agriculture Project (P160418)
+
+
+
+                                                                                 Report Number: ICRR0024183
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P160418                                   CI: E-Agriculture Project
+
+ Country                                   Practice Area(Lead)
+ Cote d'Ivoire                             Digital Development
+
+
+ L/C/TF Number(s)                          Closing Date (Original)                Total Project Cost (USD)
+ IDA-62440                                 30-Jun-2023                                          56,788,067.58
+
+ Bank Approval Date                        Closing Date (Actual)
+ 25-May-2018                               31-Oct-2023
+
+                                           IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                           70,000,000.00                                                0.00
+
+ Revised Commitment                            65,069,652.10                                                0.00
+
+ Actual                                        56,900,757.13                                                0.00
+
+
+
+
+ Prepared by                  Reviewed by                ICR Review Coordinator          Group
+ Hassan Maher Amin            Samjhana Thapa             Avjeet Singh                    IEGSD (Unit 4)
+ Waly
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objective (PDO) of Cote D'Ivoire's E-Agriculture project as articulated in the
+   Financing Agreement (FA, page 4) was identical to the one stated in the Project Appraisal Document
+   (PAD, page 18) and aimed to:
+
+   "Increase access to digital services in rural communities and leverage digital platforms to improve
+   farm productivity and access to markets."
+
+
+                                                                                                  Page 1 of 28
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     CI: E-Agriculture Project (P160418)
+
+
+
+   The PDO was revised as part of the May 2021 restructuring to:
+
+   “Increase access to digital services and farmers’ access to markets through digital platforms and
+   rural roads and mitigate the impact of the COVID-19 crisis on the agriculture sector”
+
+   Parsing the original PDO. The PDO will be parsed based on the following three objectives:
+
+   1. To increase access to digital services in rural communities.
+
+   2. To leverage digital platforms to improve farm productivity.
+
+   3. To leverage digital platforms to improve access to markets.
+
+   Parsing the revised PDO. The PDO will be parsed based on the following four objectives:
+
+   1. To increase farmers' access to digital services.
+
+   2. To increase farmers’ access to markets through digital platforms and rural roads
+
+   3. To mitigate the impact of the COVID-19 crisis on the agriculture sector.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  No
+
+c. Will a split evaluation be undertaken?
+   Yes
+
+d. Components
+   The PDO was supported by the following six components:
+
+   1. Extending digital connectivity in rural and remote areas (appraisal cost US$31.50 million, actual
+   cost: US$15.10 million). This component supported the improvement of the digital environment through
+   technical assistance and capacity-building and financed the extension of digital infrastructure in rural areas
+   through catalytic public subsidies to unlock private capital investment. It included the following two sub-
+   components:
+
+   1.1 Review and improvement of the digital services enabling environment legal and institutional
+   framework. This sub-component aimed to provide technical assistance to strengthen key stakeholders,
+   including the Ministry of Communication and Digital Economy and Post (MICENUP), the
+   Telecommunications Regulatory Authority of Côte d'Ivoire (ARTCI), and the Telecommunications Service
+   National Agency (ANSUT) in defining, enhancing, and enforcing an enabling environment conducive to
+   providing Information and Communication Technology (ICT) coverage in rural areas. Additionally, this sub-
+
+
+
+                                                                                                     Page 2 of 28
+  Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+  CI: E-Agriculture Project (P160418)
+
+
+
+component aimed to fund a legal review of the current enabling environment and identify bottlenecks that
+hinder private investment.
+
+1.2. Supporting the extension of digital infrastructure in targeted rural areas. In areas where public
+funding was not immediately required, International Finance Corporation (IFC) may envisage to partner with
+potential investors, using the new Private Sector Window (PSW) IDA Facility to go beyond its standard
+market and risk framework. The project aimed to implement competitive awards of “least‐cost” capital
+subsidies through a “least‐cost subsidy auction” tender process to private operators, thereby supporting
+‘Open Access’ broadband infrastructure in targeted areas that were not commercially viable. Open Access
+digital infrastructure promotes best practices ensuring wholesale, transparent, non‐discriminatory, fair, and
+effective access for all market players. IDA funds would be managed by MICENUP in accordance with a
+Manual of Operations specifically developed for expanding coverage in white zones. In designing the
+Public‐private Partnership (PPP), the guiding principle is to minimize public intervention that could crowd
+out or replace private investments, alter commercial investment incentives, and ultimately of distort
+competition.
+
+2. Digital services for sustainable agricultural development (appraisal cost US$12.50 million, actual
+cost: US$7.40 million). This component strengthened the capacity of farmers in climate-smart production
+management and marketing, while facilitating the formation or consolidation of farmer groups into more
+formal structures. It also strengthened the capacities of related agricultural agencies, funded the digital
+platform for the Ministry of Agriculture and Rural Development (MeMINADER) and the development of local
+content, e‐Agriculture applications, and services, and supported the digital ecosystem. This component
+included the following four sub-components:
+
+2.1. Smart agriculture and producer organizations. This sub-component aimed to support farmers
+organized around a commodity of common interest and builds their capacity in climate smart production
+management and marketing, etc. The project will identify farmers who were engaged in the production of
+selected commodities within the targeted project areas and provide the necessary training. This approach
+was utilized extensively as the initial step in on‐farm productivity improvements, and provides an effective
+means to deliver training, inputs and marketing support to smallholder farmers. This activity involves
+targeting, enrolling, and digitally registering producers and producer organizations digitally. The project
+would facilitate the formation or consolidation of farmer groups into more formal structures, if desired by
+group members. With a focus on targeting women, it would provide basic digital literacy skills as well as
+business development skills training using digital platforms to help project beneficiaries with financial
+literacy, business planning, negotiation, and marketing, etc. A targeted public education campaign, and
+behavioral change communication would help the small farmers and producer organizations recognize the
+benefits, and effectively utilize digital tools and platforms.
+
+2.2. Capacity building in digital solutions in agriculture. This sub-component aimed to strengthen the
+capacity of the MINADER and relevant agricultural agencies at all stages of data collection and
+management to improve the design, implementation and evaluation of policies and programs for sustainable
+agricultural development at the national and local levels. Specifically, the sub‐component aimed to provide
+technical assistance to: (i) identify the various institutions within the public, private, non‐governmental sector
+at the national and targeted districts level who are involved in the agricultural data-to- decision making value
+chain; (ii) capacity strengthening of MINADER staff and relevant agencies in utilizing digital tools and
+applications for data collection and management; (iii) improve the enabling environment for agricultural
+data, including a review of current status of policies, laws and regulations making recommendations for their
+
+
+
+                                                                                                    Page 3 of 28
+  Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+  CI: E-Agriculture Project (P160418)
+
+
+
+revisions; and (iv) review and upgrade as needed the current strategy and action plan for the development,
+dissemination and use of agricultural data.
+
+2.3. Digital platform for the MINADER. This sub-component aimed to strengthen the communication
+system of MINADER. The existing communication system was lacking modern technology and adequate
+services coverage. The project would leverage Big Data technologies and enable the free flow of data,
+information and knowledge among all project stakeholders, including sourcing data from universities and
+research labs outside Côte d’Ivoire . The sub‐component would also help establish reliable data flows
+between the MINADER in Abidjan and all its decentralized offices, enabling the consolidation and validation
+of agriculture‐related data.
+
+2.4. Digital ecosystem and e‐agricultural services. This sub-component aimed to provide real time
+agricultural advisory services to small‐scale farmers in the project areas enhancing productivity. It would
+tackle the challenges faced by small‐scale farmers in the targeted project areas, including: (i) a lack of
+easily accessible, affordable and reliable and relevant data, information and knowledge services on
+agriculture and climate, which are crucial for timely advice to improve crop and livestock productivity and
+income generation; (ii) lack of digital skills and low levels of literacy, little or no access to learning
+opportunities for relevant information and knowledge to access local, national, regional and international
+markets; and (iii) very low levels of internet connectivity at affordable prices to enable access to various
+information and knowledge materials which are freely available on the world wide web.
+
+3. Rehabilitation and maintenance of rural access roads (appraisal cost US$19.50 million, actual
+cost: US$8.10 million). This component aimed to fund technical feasibility studies, environmental and
+social assessments, rehabilitation works of about 560km rural roads, along with the maintenance of
+2,240km of rural roads over four years. The total distance of rural roads maintained would be about 2,800
+km (560 km/year).
+
+4. Program implementation and monitoring (appraisal cost US$6.50 million, actual cost: US$6.60
+million). This component aimed to establish a dedicated Project Implementation Unit (PIU) and would
+provide support for training, office equipment, operating costs, audits and communications. Additionally,
+this component would support the establishment of an M&E system, grievance redress mechanisms (GRM)
+and conduct environmental and social studies.
+
+5. Support for the COVID-19 Emergency Program in the Agriculture Sector (appraisal cost US$0.00
+million, actual cost: US$18.90 million). This component was added as part of the May 2021
+restructuring for COVID-19 related support to farmers. This was an emergency measure requested by the
+Government as the country was facing serious effects due to the COVID-19 crisis. It included the following
+three sub-components:
+
+5.1. Support to poultry sector. To provide: (a) Non-Cash Subsidies for cold storage facilities for excess
+poultry production, assist affected poultry farmers and poultry breeding farms, and poultry slaughtering
+operations; (b) farm disinfection; (c) sero-monitoring in the context of vaccination against low pathogenic
+avian influenza/H9N2; (d) supervision of poultry producers; (e) acquisition of disinfection equipment for
+processing infrastructures; and (f) Cash Subsidies for consumer price support for frozen and preserved
+poultry.
+5.2. Support to rice/paddy. To: (a) acquire and distribute inputs (urea and NPK6 fertilizers); (b) enhance
+paddy processing; and (c) improve the distribution of milled rice.
+
+
+
+                                                                                                  Page 4 of 28
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    CI: E-Agriculture Project (P160418)
+
+
+
+  5.3. Support to staple food sector. To enhance: (i) the collection and grouping centers for food products;
+  and (ii) the information and data collection system for the marketing chain.
+
+  5.3. Support to staple food sector. To enhance: (i) the collection and grouping centers for food products;
+  and (ii) the system for collecting information and data on the marketing chain for food products.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost. The total project cost was estimated at US$70.00 million. According to the final restructuring
+  paper (paragraph 3) the IDA Credit was equivalent to US$ 60.8 million at project closure. The actual cost
+  according to the ICR (Annex 3) was US$56.90 million or about 93.5% of the appraisal estimate.
+
+  Financing. The project was financed through an IDA credit of US$70.00 million equivalent. The actual
+  amount disbursed was US$56.90 million (ICR Data sheet, page 2). The difference was due to the
+  cancellation of about US$5.00 million as a result of savings from economic gains realized from activities
+  where actual costs were below the forecasted values (ICR, paragraph 8).
+
+  Borrower Contribution. The project was fully financed through IDA credit and no borrower contribution
+  was expected.
+
+  Dates. The project was approved on May 25, 2018 and became effective six months later on November 14,
+  2018. The Mid-term Review (MTR) was expected to be conducted 30 months after effectiveness as stated
+  in the PAD (Annex 2, paragraph 37). The MTR was conducted on July 12, 2021, about 38 months after
+  effectiveness or eight months later than the expected date. The project closed on October 31, 2023 which
+  was four months beyond the original closing date on June 30, 2023.
+
+  The project was restructured three times as follows:
+
+  1. On April 26, 2021, Level-2 with RVP Decision due to change in PDO was undertaken, when the amount
+  disbursed was US$16.72 million, in order to: (i) add a new “Component 5” (US$20.00 million) reallocated
+  from existing components for COVID-19 related support to farmers. This was an emergency measure
+  requested by the Government as the country was facing serious effects due to the COVID-19 crisis; (ii)
+  revise the PDO; (iii) adjust and streamline the existing components; (iv) revise and update the Results
+  Framework (RF); (v) modify implementation arrangements; and (vi) adjust the social and environmental
+  analysis.
+
+  2. On June 23, 2023, with US$45.92 million disbursed, the closing date was extended by 4 months from
+  June 30, 2023, to October 31, 2023. The extension was needed to allow additional time for the completion
+  of the key activity, specifically extending digital connectivity in rural and remote areas under Component 1
+  (Restructuring Paper, paragraph 2).
+
+  3. On October 5, 2023, when US$47.76 million had been disbursed, a partial cancellation of EUR4.629
+  million (equivalent of about US$5.0 million) was processed, reducing the total Credit amount from
+  EUR56.800 million to EUR52.171 million. The savings were mainly from economic gains realized from
+  activities where actual costs were below the forecasted values.
+
+
+
+
+                                                                                                   Page 5 of 28
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     CI: E-Agriculture Project (P160418)
+
+
+
+   This Review applied a split rating methodology to assess the overall outcome of the project because the
+   PDO and the associated outcome targets were both revised downwards. The ICR did not apply a split rating
+   to assess the overall outcome of the project. In a further communication, the project team explained that the
+   ICR opted not to apply a split rating because "the project scope significantly expanded with a whole new
+   Component 5 dedicated to the agriculture sector for a total of US$20 million, representing more than a third
+   of the total financing for Project components dedicated to investments." However, irrespective of the
+   expansion of scope of other components, a split evaluation is applicable given the reduction in some of the
+   original targets for other components.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Context at Appraisal. Cote d’Ivoire faced significant infrastructure challenges with urban-rural gaps,
+including for internet access. Poor road networks hindered the transport of goods. Agricultural productivity
+was low due to high input costs, post-harvest losses, and limited modern farming techniques. Given the
+strong role agriculture plays in the economy, and with the ambition to also enhance digital usage, the e-
+Agriculture project sought to improve internet coverage and adoption in the country, and foster the use of
+large-scale digital platforms and adoption of sustainable digital services for agriculture. The project was
+expected to improve access to digital services and digital platforms in rural communities, ultimately boosting
+farm productivity and improving access to markets.
+
+Previous Bank Experience. The World Bank financed the West Africa Agricultural Productivity Program
+(WAAPP, P129565), which, contributed to the first phase of digitalizing the agricultural sector in Cote
+d’Ivoire. This project was expected to benefit from the WAAPP's experience and lessons, in particular
+related to the e-extension system. Additionally, the World Bank has extensive global experience learned
+from previous similar projects in Europe, Latin America, Africa, and Asia, including the: Nicaragua Rural
+Telecom (P089989), Madagascar Regional Communications Infrastructure Program (P094103), Tanzania
+Regional Communications Infrastructure Program (P111432), Uganda Energy for Rural Transformation
+Project (P069996), and Papua New Guinea 3G Network Upgrade (P107782).
+
+Consistency with Bank Strategies. At appraisal, the PDO was aligned with the World Bank Group’s
+Country Partnership Framework for Cote d’Ivoire (CPF, FY2016‐FY2019) particularly with Focus Area One:
+“Accelerating sustainable private sector led growth” which comprised of four objectives that the
+project directly or indirectly supported. The project also directly contributed to two objectives of the CPF:
+Objective 1: Improve Productivity in Agriculture/Agribusiness Value Chains by improving
+productivity through digital solutions; and Objective 2:Strengthen Economic Infrastructure by extending ICT
+connectivity in rural areas. Additionally, the project indirectly contributed to two objectives of the CPF (i)
+Enhancing business environment and (ii) Improving access to land. For Objective 3“Improve Business
+Regulatory Framework and Access to Finance,” the project extended ICT connectivity and facilitated the
+digitization of economic transactions. While Objective 4“Formalize and Enhance Regulatory Access to Land
+for Business and Agriculture” was supported through the development of ICT platforms which were
+expected to provide affordable and reliable tools to register land and issue land certificates. Ultimately, the
+project would also contribute to the World Bank Group’s twin goals of ending extreme poverty and boosting
+
+
+
+                                                                                                    Page 6 of 28
+                                      Independent Evaluation Group (IEG)                    Implementation Completion Report (ICR) Review
+                                      CI: E-Agriculture Project (P160418)
+
+
+
+               shared prosperity through enhancing climate resilience of the agriculture sector and promoting agricultural
+               growth, inclusive of smallholder farmers.
+
+               At completion, the ICR did not discuss the relevance of the PDO in relation to the current CPF (FY2023-
+               FY2027). However, this Review found that the PDO remained aligned with current CPF, specifically,
+               objective 8 “Support development of sustainable and competitive agricultural and manufacturing value
+               chain” and to a lesser extent objective 9 “Improve business environment and access to finance”. The
+               project enhanced productivity by promoting digital solutions, and contributed to improving the business
+               regulatory framework and access to finance by extending the reach of ICT connectivity and facilitating the
+               digitization of economic transactions. The project also contributed to one of the CPF's cross cutting themes,
+               namely, climate change where better digital connectivity was expected to make farmers better informed
+               about climate events. Further communication with the project team confirmed that the PDO was aligned
+               with the new CPF, which strongly reiterated the role of the digital sector in the structural transformation of
+               the economy. Specifically, the PDO was aligned with CPF's Objective 4 “Expand connectivity through
+               quality climate-resilient infrastructure”; and Objective 8 “Support the Development of Sustainable and
+               Competitive Agricultural Manufacturing Value Chains”.
+
+               Consistency with the Government strategies and priorities. At appraisal, the PDO was in line
+               with the National Development Plan of Cote d’Ivoire (PND 2016-2020), particularly with its pillars focused
+               on agricultural development, infrastructure and digital development.
+
+               At completion, the PDO continued to be in line with the Government’s development priorities, such as the
+               Emergency Program to Support Agricultural Sectors Impacted by Covid-19 (PURGA) and the new National
+               Development Plan (PND 2021-2025).
+
+               Summary of Relevance of Objectives Assessment. While the original PDO statement was clear, the
+               revised PDO statement was more specific and better reflected the project’s activities. The revised PDO was
+               also pitched at an appropriate level of ambition. The project was built on the Bank’s prior experience with an
+               earlier project that focused in supporting initial activities in digitizing agriculture. At completion, the PDO
+               continued to be relevant and aligned with both Bank’s strategy and the Government priorities as noted
+               above. Therefore, Relevance of Objectives was rated as High.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To increase access to digital services in rural communities.
+
+                             Rationale
+
+                                                                                                                          Page 7 of 28
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   CI: E-Agriculture Project (P160418)
+
+
+
+Theory of Change (ToC). To achieve the stated objective, the project supported expanding digital access
+and inclusion by reviewing the legal and institutional environment of digital services in order to improve the
+enabling environment. The project also supported the extension of Information and Communication
+technologies (ICT) coverage in targeted rural areas through Public Private Partnerships (PPP) and open
+access arrangements to improve internet coverage and usage.
+
+Key Outputs/Intermediate outcomes included: adoption of an open access and PPP strategy, and
+strengthened policy, technical and regulatory capacity of the Ministry of Communication, Digital Economy,
+and Post (MINECUP) and the Telecommunications Regulatory Authority of Côte d'Ivoire (ARTCI), and
+improved strategic and regulatory framework for digital development.
+
+Outcomes: increased access to the internet by the population, and increased agricultural access to services
+by farmers.
+
+This would ultimately contribute to increasing access to digital services in rural communities.
+
+The achievement of the PDO was underpinned by the following critical assumptions: 1. A stable economic
+and fiscal environment with no economic or fiscal shocks, 2. The Government is committed and ready to
+support policy and legal reforms related to digital services, and 3. the private sector is willing to expand
+investments in expanding infrastructure and will direct investments in the project target areas.
+
+The ToC mostly reflected adequate connections between inputs, outputs/Intermediate outcomes and
+outcomes in plausible causal chains. The stated assumptions were both logical and realistic.
+
+Outputs/Intermediate Results
+
+The following achievements were reported by the ICR but not captured by the RF:
+
+      The project deployed 160 mobile sites in 175 localities (ICR, paragraph 18)(no target was set).
+      43,000 mobile money accounts were created in the covered areas, 187 vendors (selling SIM cards,
+       broadband connectivity and mobile money services) established, and more than 53,000 SIM cards
+       were bought by targeted beneficiaries (ICR, paragraph 18) (no targets provided in the PAD).
+      The project helped elaborate a set of critical digital strategies (covering the period 2021-2025)
+       including: the National Digital Development Strategy 2025, the National Cybersecurity Strategy 2025,
+       and the National Innovation Strategy 2025 (ICR, paragraph 19).
+      The project supported preliminary legal and regulatory work, which included a legal and regulatory
+       assessment to identify bottlenecks hindering the growth of private investment in ICT as well as
+       stakeholders' consultations to update the 2012 Telecom Laws. This helped to draft the current Bill of
+       Electronic Telecommunications (PA #1) adopted by the Government in November 2023 and the
+       Parliament in April 2024 (ICR, paragraph 19).
+
+Outcomes
+
+      By project completion 5,221,267 people were provided with access to the Internet (PDO outcome
+       indictor #1) compared to baseline of 5,000,000 and below the original target of 6,000,000. This
+       represented 221,267 people who benefitted from new access to Internet service (PDO outcome
+       indictor #2) under the project, which was significantly below the original target of 1,000,000.
+
+
+                                                                                                   Page 8 of 28
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   CI: E-Agriculture Project (P160418)
+
+
+
+Summary of Efficacy Assessment. The project aimed to increase access to digital services in rural
+communities. However, the project fell short of achieving its PDO outcome targets on peoples’ access to the
+Internet. Additionally, the assessment of project’s achievements was hindered by a inadequately
+designed Results Framework (RF). Therefore, the efficacy with which this objective was achieved is rated as
+Modest.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 1 REVISION 1
+Revised Objective
+To increase farmers' access to digital services.
+
+Revised Rationale
+Theory of Change (ToC). The same ToC under the original Objective 1 applies as only the targets for the
+PDO outcome indicator #1 were revised down.
+
+Outputs/Intermediate Results
+
+      91% of beneficiaries felt the project investments reflected their needs exceeding the original target of
+       80% (target exceeded).
+
+The following achievements were reported by the ICR but not captured by the RF:
+
+      The project deployed 160 mobile sites in 175 localities (ICR, paragraph 18)(no target was set).
+      43,000 mobile money accounts were created in the covered areas, 187 vendors (selling SIM cards,
+       broadband connectivity and mobile money services) established, and more than 53,000 SIM cards
+       were bought by targeted beneficiaries (ICR, paragraph 18) (no targets provided in the PAD).
+      The project helped elaborate a set of critical digital strategies (covering the period 2021-2025)
+       including: the National Digital Development Strategy 2025, the National Cybersecurity Strategy 2025,
+       and the National Innovation Strategy 2025 (ICR, paragraph 19).
+      The project supported preliminary legal and regulatory work, which included a legal and regulatory
+       assessment to identify bottlenecks hindering the growth of private investment in ICT as well as
+       stakeholders' consultations to update the 2012 Telecom Laws. This helped to draft the current Bill of
+       Electronic Telecommunications (PA #1) adopted by the Government in November 2023 and the
+       Parliament in April 2024 (ICR, paragraph 19).
+
+Outcomes
+
+      By project completion 5,221,267 people were provided with access to the Internet (PDO outcome
+       indictor #1) compared to baseline of 5,000,000 and exceeded the revised target of 5,200,000. This
+       represented 221,267 people who benefitted from new access to Internet service (PDO outcome
+       indictor #2) under the project, which exceeded the revised target of 200,000.
+
+
+                                                                                                   Page 9 of 28
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   CI: E-Agriculture Project (P160418)
+
+
+
+Summary of Efficacy Assessment. The project aimed to increase access to digital services in rural
+communities through expanding digital access and inclusion. The project slightly exceeded its revised PDO
+outcome targets.
+
+Therefore, the efficacy with which this objective was achieved is rated Substantial.
+
+
+
+Revised Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+To leverage digital platforms to improve farm productivity.
+
+Rationale
+Theory of Change (ToC). To achieve the stated objective, the project supported digital services for
+sustainable agriculture development. This included supporting climate smart agriculture in key commodities
+and building capacity of producers' organizations; strengthening capacity of Ministry of Agriculture and Rural
+Development (MINADER) and relevant agricultural agencies on digital tools and applications for data
+collection and management in agriculture; supporting digital platforms for the MINADER allowing reliable flow
+of data and information among key stakeholders; and supporting digital ecosystems and e-agricultural
+services.
+
+Outputs/Intermediate outcomes were: Development of an e-service platform or market place, establishment
+of e-agriculture extension service and e-content development, and improve connectivity and information
+sharing between national and district level agencies.
+
+Outcome: Increased access to digital agricultural services by farmers.
+
+This would ultimately contribute to improving farm productivity.
+
+The achievement of the PDO was underpinned by the following critical assumptions: 1. A stable economic
+and fiscal environment with no economic or fiscal shocks, 2. The Government is committed and ready to
+support policy and legal reforms related to digital services, and 3. The private sector is willing to expand
+investments in expanding infrastructure and will direct investments in the project target areas.
+
+Overall, the ToC lacked a clear connection between increasing access to digital services and improving farm
+productivity. While, the stated assumptions were logical and realistic, there was a disconnect between the
+ToC and the operation’s results framework with several activities not tracked by any indicators (see more
+details in Section 9a).
+
+Outputs/Intermediate Results
+
+      401,931 farmers (of which 236,902 were females) were reached with agricultural assets or services
+       which was significantly below the overall original target of one million farmer and the female target of
+       700,000 females (both targets not achieved).
+
+                                                                                                  Page 10 of 28
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   CI: E-Agriculture Project (P160418)
+
+
+
+
+      91% of beneficiaries felt the project investments reflected their needs exceeding the original target of
+       80% (target exceeded).
+      Beneficiaries of job-focused interventions including females were none compared to an overall target
+       of 10,000 and 7,000 females (both targets not achieved).
+      Share of women within the newly established cooperatives/producers organizations (led by women)
+       was none compared to a target of 90%.
+      Increase in share of women in leadership roles (among the targeted beneficiaries) was none
+       compared to an original target of 20%.
+
+Notable achievements not directly captured by the RF included:
+
+      The project supported the National Rural Development Agency (ANADER) to provide comprehensive
+       e-Extension services to the beneficiary population. This included the delivery digital of agricultural
+       advisory services and agro-meteorological advice to farmers through digital channels such as SMS,
+       mobile applications, web service and telephone call center. The project also supported the
+       establishment of an agricultural observatory in ANADER and the establishment of a toll-free number
+       for farmers.
+
+Outcomes
+
+      Assessing the impact of the project on improving farm productivity was hindered by shortcomings in
+       the M&E design. There were no indicators to capture the impact of the project on farm productivity.
+       While the project established a digital agricultural advisory service and provided agro-meteorological
+       advice to farmers, the impact of those activity on fam productivity was not measured.In a further
+       communication, the project team explained that the RF did not set any quantitative impact indicators
+       to measure productivity. The team also reported that while a 10% increase in productivity for the rice
+       sector was reported by the Director General of the National Rice Development Agency (ADERIZ), no
+       data was available for the staple food and poultry sectors.
+
+Summary of Efficacy Assessment. The project aimed to leverage digital platforms to improve farm
+productivity by supporting digital services for sustainable agriculture development. However, the project fell
+short of achieving all its intermediate results targets as noted above. Additionally, shortcomings in the M&E
+design hindered the assessment the project’s impact on improving farm productivity.
+
+Therefore, the efficacy with which this objective was achieved is rated Negligible.
+
+
+
+Rating
+Negligible
+
+
+OBJECTIVE 2 REVISION 1
+Revised Objective
+Dropped.
+
+Revised Rationale
+
+                                                                                                  Page 11 of 28
+      Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+      CI: E-Agriculture Project (P160418)
+
+
+
+---
+
+Revised Rating
+Not Rated/Not Applicable
+
+
+OBJECTIVE 3
+Objective
+To leverage digital platforms to improve access to markets.
+
+Rationale
+Theory of Change (ToC). This objective was interdependent on the activities under Objective 1 and 2. To
+improve access to markets, the project supported the following activities:
+
+1. Support digital services for sustainable agriculture development. This included supporting climate smart
+agriculture and producers' organizations; providing capacity building in digital solutions in agriculture;
+supporting digital platforms for MINADER; and supporting digital ecosystems and e-agricultural services.
+
+2. Rehabilitation and maintenance of rural access roads. This was expected to improve access to markets for
+small scale farmers and reduce vulnerability of the affected population during flooding and landslide seasons.
+To enhance resilience to impacts of climate change and natural disasters, the rehabilitation and maintenance
+of roads would include improvements to drainage structures, ensuring all‐weather/season
+accessibility through spot improvements and an adequate level of service for the project area. The high level
+of service was expected to attract more means of transport, thus improving person and goods movement
+while reducing transport cost on these roads.
+
+Outputs/Intermediate Outcomes: 560 km of rural roads rehabilitated and 2,200 km of rural roads
+maintained, development of an e-service platform or market place, rural beneficiaries capacity improved in
+digital tools and applications, establishment of e-agriculture extension service and e-content development,
+and improve connectivity and information sharing between national and district level agencies.
+
+Outcomes: increased revenues for the beneficiaries.
+
+All of the above would contribute to leveraging digital platforms to improve access to markets.
+
+The achievement of the PDO was underpinned by the following critical assumptions: 1. A stable economic
+and fiscal environment with no economic or fiscal shocks, 2. The Government was committed and ready to
+support policy and legal reforms related to digital services, and 3. The private sector was willing to expand
+investments in expanding infrastructure and direct investments in the project target areas.
+
+The ToC lacked a clear connection between leveraging digital platforms and improving access to markets.
+While the stated assumptions were logical and realistic, there was a disconnect between the ToC and the
+operation’s results framework with several activities not tracked by any indicators.
+
+Outputs/intermediate Results
+
+
+
+
+                                                                                                  Page 12 of 28
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   CI: E-Agriculture Project (P160418)
+
+
+
+
+      218.15 km of rural roads were maintained which was significantly below the original target of 2,800
+       km (target not achieved).
+
+Outcomes
+
+      The RF lacked PDO outcome indicator(s) to assess the achievement of this objective. As noted above
+       the project fell short of achieving its original targets for rural road rehabilitation.
+      The project also fell short of its outcome targets under Objective 1. So the envisioned increase in
+       access to digital services did not happen and consequently leveraging digital platforms to improve
+       access to markets was expected to be limited than originally envisioned.
+
+Summary of Efficacy Assessment. The project aimed to increase access to markets through two
+approaches: improving rural roads and increasing access to digital services. The project, however, fell
+significantly short of achieving its targets for rural roads rehabilitation as well as the envisioned increase in
+access to digital services (Objective 1). Consequently leveraging digital platforms to improve access to
+markets was expected to be limited. Therefore, the efficacy with which this objective was achieved is rated as
+Modest.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 3 REVISION 1
+Revised Objective
+To increase farmers’ access to markets through digital platforms and rural roads
+
+Revised Rationale
+Theory of Change (ToC). While the PDO wording was slightly revised, the same ToC under the original
+objective 3 applies with additional activities that relate to rural roads. This included: Rehabilitation and
+maintenance of rural access roads. This was expected to improve access to markets for small scale
+farmers and reduce vulnerability of the affected population during flooding and landslides season. To
+enhance resilience to impacts of climate change and natural disasters, the rehabilitation and maintenance of
+roads would include improvements of drainage structures, ensuring all‐weather/season accessibility through
+spot improvements and an adequate level of service for the project area. The high level of service provided
+by the roads was expected to attract more means of transport, thus improving person and goods movement
+while reducing transport cost on these roads.
+
+Outputs/Intermediate Outcomes: 256.40 km of rural roads rehabilitated and 256.40 km of rural roads
+maintained (project scope decreased).
+
+Outcomes: increased agricultural access to services by farmers, and increased revenues for the
+beneficiaries.
+
+All of the above would contribute to improving access to markets.
+
+
+
+                                                                                                  Page 13 of 28
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   CI: E-Agriculture Project (P160418)
+
+
+
+The achievement of the PDO was underpinned by the following two critical assumptions: 1. A stable
+economic and fiscal environment with no economic or fiscal shocks, and 2. The private sector was willing to
+expand investments in expanding infrastructure and direct investments in the project target areas.
+
+The ToC reflected a clear connection between inputs, outputs/Intermediate outcomes and outcomes in
+plausible causal chain. The stated assumptions were logical and realistic. However, there was a disconnect
+between the ToC and the operation’s results framework with as the increase in marketing (a core element of
+the PDO) was not tracked.
+
+Outputs/Intermediate Results
+
+      401,931 farmers were reached with agricultural assets or services (baseline was none) exceeding the
+       revised target of 200,000 (target exceeded).
+      236,902 female farmers were reached with agricultural assets or services (baseline was none)
+       exceeding the revised target of 120,000 (end target as reported in the restructuring paper).
+      91% of beneficiaries felt the project investments reflected their needs which exceeded the target of
+       80% (target exceeded).
+      218.50 km of rural access roads were maintained under the project substantially achieving the revised
+       target of 256.40 km.
+      228.52 km of rural access roads were rehabilitated under the project substantially achieving the
+       revised target of 256.40 km.
+
+The following were notable achievements not directly captured by the RF:
+
+      The project provided capacity-building support to over 400 cooperatives and NGOs, benefiting a total
+       of 1,692 beneficiaries.
+      The project developed and deployed the “Agristore.Ci” platform (both website and mobile app) to
+       facilitate the marketing of agricultural products and boost trade by connecting suppliers and buyers of
+       products through the services offered by the platform. According to the ICR (paragraph 21) 401,931
+       beneficiaries were enrolled in the platform from the target regions, of which 236,902 were female. By
+       project completion, the platform recorded 160,000 visits with 36,000 publications indicating a high
+       usage level by targeted beneficiaries. The Project Implementation Unit (PIU) estimated through online
+       surveys that the total cumulated transactions facilitated by the platform in 2023 amounted to more
+       than $220,000.
+      The project created an e-Library for the Ministry of Agriculture and Rural Development (MeMINADER)
+       and established an intranet for digital archiving and information exchange between the national and
+       regional offices of MeMINADER.
+      The project supported ANADER to deliver comprehensive e-Extension services to the beneficiary
+       population. This included the delivery of digital agricultural advisory services and agro-meteorological
+       advice to farmers through digital channels such as SMS, mobile applications, web service and
+       telephone call center. The project helped establish of an agricultural observatory at ANADER and set
+       up a toll-free number for farmers.
+
+Outcomes
+
+      5,221,267 people were provided with access to the Internet compared to a baseline of 5,000,000 and
+       slightly exceeding the revised target of 5,200,000.
+
+                                                                                                 Page 14 of 28
+      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+      CI: E-Agriculture Project (P160418)
+
+
+
+
+        The net number of people who benefitted from new access to Internet service was 221,267 slightly
+          exceeding the revised target of 200,000.
+
+Summary of Efficacy assessment. The project aimed to increase farmers’ access to markets through digital
+platforms and the rehabilitation and maintenance of rural roads. This was to be achieved by expanding digital
+service coverage in the project area and establishing digital platforms. Although the project exceeded its
+revised target for internet access as noted above, the Results Framework (RF) did not indicate relevant
+indicator to measure the impact of digital platforms on improving market access. That said, the ICR provided
+evidence that the project supported digital platform (Agristore) was functional and was used by farmers to
+access markets, as mentioned above. While the project substantially achieved its targets on rural road
+rehabilitation and maintenance, the impact of this on increasing farmers' access to markets was not captured
+by the project's RF. The ICR (footnote #19) stated that "the PIU estimated there was a 52% increase in the
+number of travels and a 77%time reduction during travel after the rehabilitations." It is therefore, plausible to
+assume that some of the increased traffic may have involved farmers traveling to markets in the project area.
+
+Therefore, the Efficacy with which this Objective was achieved is rated as Substantial with moderate
+shortcomings.
+
+
+
+Revised Rating
+Substantial
+
+
+OBJECTIVE 4
+Objective
+There was no original objective 4 related to mitigating COVID-19.
+
+Rationale
+---
+
+Rating
+Not Rated/Not Applicable
+
+
+OBJECTIVE 4 REVISION 1
+Revised Objective
+To mitigate the impact of the COVID-19 crisis on the agriculture sector (new objective).
+
+Revised Rationale
+Theory of Change (ToC). To achieve the stated objective, the project aimed to support the poultry industry,
+which was heavily impacted by the Covid-19 crisis, the project supplied agricultural and livestock inputs that
+enabled breeders to renew their assets and recover economically. The project also supported 80 local
+cooperative factories to increase their rice production and supported 10,576 farmers with a total of 8,855
+hectares of paddy rice production.
+
+Outputs/Intermediate Results
+
+
+                                                                                                  Page 15 of 28
+                               Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+                               CI: E-Agriculture Project (P160418)
+
+
+
+                            1. Support to the poultry industry:
+
+                                    1,875 metric tons of poultry were stored in cold rooms exceeding the target of 1,400 metric tons.
+                                    5,190,617 one-day old chicks were distributed by the project exceeding the target of 4,700,000.
+                                    No poultry farms were disinfected compared to a target of 1,068 farms.
+                                    The project distributed the following under emergency procedures for the poultry sector: (i) 3 tons of
+                                     animal feed and veterinary products to 793 poultry farmers’ households; (ii) subsidization of 798,000
+                                     one day-old chicks and 1,578 tons of animal feed to 2 industrial poultry producers; (ii) subsidization of
+                                     1,638,107 tons of feed to 6 industrial animal feed producers; (iv) the subsidization of slaughter costs
+                                     for industrial producers for about 790,000 units; and (v) the subsidization of conservation costs for
+                                     industrial producers for about 875,000 units (ICR, paragraph 23).
+
+                            2. Support to the rice sector:
+
+                                  900 metric tons of urea were distributed which was below the target of 2,000 metric tons (target not
+                                     achieved).
+                                  45,000 tons of paddy rice were collected from farmers which was below the target of 100,000 tons
+                                     (target not achieved).
+                                  1,350 tons of NPK fertilizer was distributed which was below the target of 3,000 tons (target not
+                                   achieved).
+                                  The project supported 80 local cooperative factories to increase their rice production and supported
+                                   10,576 farmers with a total of 8,855 hectares of paddy rice production. This led to over 10% increase
+                                   in the productivity of the cooperative factories and generated hundreds of direct and indirect jobs-with
+                                   an increased average of above 4 jobs per cooperative, and the production of 31,200 tons of paddy
+                                   rice per cycle (ICR, paragraph 24).
+
+                            Outcomes
+
+                                  The ICR reported that the project support positively impacted the entire poultry value chain and
+                                     sustained the national rice production.
+
+                            Summary of Efficacy Assessment. The project sought to mitigate the impact of the COVID-19 crisis on the
+                            agriculture sector by providing support to both the poultry sector and rice sectors. However, the RF lacked
+                            PDO outcome indicators to assess the achievement of this objective. The project surpassed its intermediate
+                            results targets for two indicators out of three related to poultry support, but it fell short of achieving its targets
+                            for the three indicators measuring support to the rice sector. Therefore, the efficacy with which this objective
+                            was achieved is rated as Substantial, with moderate shortcomings.
+
+
+
+                            Revised Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                                                                                                                                   Page 16 of 28
+             Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+             CI: E-Agriculture Project (P160418)
+
+
+
+
+         OVERALL EFFICACY
+         Rationale
+         Overall Efficacy is rated Modest. The project aimed to increase access to digital services in rural communities
+         and leverage digital platforms to improve farm productivity through expanding digital access and inclusion and
+         supporting digital services for sustainable agriculture development. However, the project fell short of
+         achieving all its PDO outcome targets pertaining to this objective. The project also aimed to increase access
+         to markets through two approaches: improving rural roads (primary approach) and to a lesser extent
+         increasing access to digital services. The project fell significantly short of achieving its targets on rural roads
+         maintenance and rehabilitation, and also fell short of achieving the envisioned increase in access to digital
+         services. Consequently, leveraging digital platforms to improve access to markets was expected to be limited.
+         Furthermore, assessing the achievements of the project was undermined by a poorly designed results
+         framework (RF).
+
+
+
+         Overall Efficacy Rating                                    Primary Reason
+         Modest                                                     Low achievement
+ OBJR1_TBL
+
+
+
+
+         OVERALL EFFICACY REVISION 1
+         Overall Efficacy Revision 1 Rationale
+         Overall Efficacy is rated Substantial with moderate shortcomings. The project aimed to increase farmers'
+         access to digital services through expanding digital access and inclusion It slightly exceeded its PDO
+         outcome targets pertaining to this objective. Additionally, the project aimed to increase access to markets
+         through two approaches: improving rural roads and increasing access to digital services. The
+         project substantially achieved its targets on rural roads maintenance and rehabilitation and slightly exceeded
+         its target on access to digital services. The project developed and deployed the “Agristore.Ci” platform (both
+         website and mobile app) to facilitate the marketing of agricultural products and boost trade by connecting
+         suppliers and buyers of products through the services offered by the platform. The project also sought to
+         mitigate the impact of the COVID-19 crisis on the agriculture sector by supporting the poultry and rice sectors.
+         The project achieved mixed results; it surpassed its intermediate results targets for two out of three indicators
+         for the poultry support, but fell short on all the three intermediate indicators measuring support for the rice
+         sector. Therefore, the overall Efficacy with which the project achieved its revised objectives was rated as
+         Substantial with moderate shortcomings.
+
+
+
+         Overall Efficacy Revision 1 Rating
+         Substantial
+
+
+
+5. Efficiency
+Economic and Financial (EFA)
+
+Ex-ante
+
+
+
+                                                                                                             Page 17 of 28
+        Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+        CI: E-Agriculture Project (P160418)
+
+
+
+     The EFA of the project was based on a relevant cost approach (incremental approach), which focused
+        only on the extra costs and revenues generated by the project and disregards any other non‐relevant
+        sunk cost that would be incurred whether the project takes place or not.
+       The PAD did not report an overall economic or financial rate of return for the project investments. The
+        EFA at appraisal featured three separate analysis for: (i) extending connectivity to targeted rural areas;
+        (ii) digital services for sustainable agricultural development; and (iii) rehabilitation of feeder roads in the
+        targeted production zones.
+       For extending connectivity to targeted rural areas with public capital support, the financial rate of return
+        (FRR) was estimated at 13%; with a break‐even point after 12 years; and the NPV of US$17.7 million
+        (with a discount rate of 8%). Identified economic benefits included: saving on time and travel cost by
+        performing administrative and business activities online, increasing mobile banking and micropayment
+        usage, reducing the opportunity cost of providing goods and services via Internet, equity, ubiquity,
+        improved competition, and cost savings for the public sector. However, due to the lack of socio‐economic
+        data at the local level, the economic analysis was limited to two direct measurable effects, namely: the
+        extra fiscal revenue earned by the Government and the local salaries paid to local staff to ensure the
+        maintenance and security of staff.
+       For digital services to promote sustainable agricultural development, the PAD cited several case
+        examples from developing countries including Bangladesh and Ghana to demonstrate the financial and
+        economic benefits of e‐Agriculture.
+       For rehabilitation of feeder roads, a cost efficiency analysis was performed in the targeted production
+        zones. The analysis showed that rehabilitation and maintenance increased the level of service of rural
+        roads and with services promote connectivity and social cohesion. Economic benefits included: reduction
+        of transport costs, freight rates, vehicle operating costs, and travel times, and enabling more expansion
+        in agriculture, trade, access to markets. No ERR or FRR were provided because at appraisal, the rural
+        access (feeder) roads to be rehabilitated were not identified yet.
+
+Ex-post
+
+     At completion, the same incremental approach was applied in a similar model to measure the project’s
+      NPV, break-even point and ERR and compare the actual economic impacts of the project with those
+      measured at appraisal and reflected in the PAD. As per the ICR, the analysis showed that the economic
+      rate of return for extending connectivity to targeted rural areas was estimated at 16.7% with a break‐even
+      point after 9 years; and the NPV was US$11.7 million (with a discount rate of 10%). However, the
+      appraisal analysis used a financial rate of return (estimated at 13%) while the analysis at completion
+      used an economic rate of return (estimated at 16.7%).
+     The ex-post efficiency analysis also incorporated a standard Cost-Benefit Analysis (CBA) methodology to
+      measure the impact of other project activities not included in the original analysis. This included; the
+      economic impact in yearly GDP growth due to broadband penetration increase; economic impact from
+      savings due to farmers being reached with agricultural assets or services; economic impact from people
+      reached with Digital Financial Services (DFS) and the DFS agent network developed; and, savings and
+      productivity gains due to the rehabilitation of rural roads. These estimations were limited to economic
+      benefits, and did not consider potential additional social benefits. The ad-hoc CBA NPV reached US$
+      1.77 million and yielded a 13% ERR over a span of six years.
+     An accurate estimation of the expected economic and financial returns associated with the project's
+      support for the COVID-19 Emergency program in the agriculture sector related activities supported by
+      the project was not possible due to the limited data availability.
+
+
+                                                                                                        Page 18 of 28
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      CI: E-Agriculture Project (P160418)
+
+
+
+      Implementation efficiency. The project closed four months beyond its original closing date. The project
+       experienced some implementation delays due to factors outside of the control of the project. The
+       COVID-19 crisis and Russia's invasion of Ukraine slowed down implementation and the Government
+       requested a restructuring to reallocate funds to mitigate the impact of the COVID-19 crisis. Additionally,
+       the Russian invasion of Ukraine disrupted the fertilizers supply chains, leading to steep increase in spot
+       price of fertilizers. During the initial two years of implementation, changes in leadership within the
+       Ministry of Digital Economy further slowed the decision-making process and contributed to
+       implementation delays. Finally, the rehabilitation of rural roads was negatively impacted by poor
+       management of contracts.
+
+Summary of Efficiency Analysis Assessment. There are concerns on the robustness of the ex-post analysis
+which lacked sufficient details. The efficiency section in the ICR discussed the various variables used for the
+analysis, but did not provide adequate supporting evidence with data.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?            Point value (%)           *Coverage/Scope (%)
+                                                                                     0
+ Appraisal                                                 13.00
+                                                                                      Not Applicable
+                                                                                     0
+ ICR Estimate                                              16.70
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Pre-Restructuring
+
+Relevance of Objectives was rated High. Overall Efficacy was rated Modest. The project fell short of achieving
+all its PDO outcome targets pertaining to digital access. Consequently leveraging digital platforms to improve
+access to markets was expected to be limited. The project also fell significantly short of achieving its targets on
+both the rehabilitation and maintenance of rural roads. Efficiency was rated Modest. The ex-post analysis lacked
+sufficient details and there were concerns on its robustness.
+
+Based on the assigned ratings to the three outcome criteria, Outcome is rated Moderately Unsatisfactory.
+
+Post Restructuring
+
+Relevance of Objectives was rated High. Overall Efficacy was rated Substantial with moderate shortcomings.
+The project slightly exceeded its revised PDO outcome targets pertaining to increasing access to digital
+
+                                                                                                    Page 19 of 28
+      Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+      CI: E-Agriculture Project (P160418)
+
+
+
+services. The project also substantially achieved its targets pertaining to the maintenance and rehabilitation
+of rural roads. However, the project achieved mixed results with respect to mitigating the impact of the COVID-
+19 crisis on the agriculture sector. The project exceeded its intermediate results targets for two indicators out of
+three for the poultry support, but fell short of achieving its targets for the three intermediate indicators measuring
+support to the rice sector. Efficiency was rated Modest. There ex-post analysis lacked sufficient details and
+there were concerns on its robustness.
+
+Based on the assigned ratings to the three outcome criteria, Outcome is rated Moderately Satisfactory.
+
+Split Rating
+
+                                        Pre-Restructuring               Post Restructuring
+Relevance of Objectives               High                           High
+Overall Efficacy                      Modest                         Substantial
+Efficiency                            Modest                         Modest
+Outcome Rating                        Moderately Unsatisfactory      Moderately Satisfactory
+Numerical value of the outcome
+                                      3                              4
+rating*
+Disbursement (US$ million)            16.72                          40.18
+Share of disbursement                 0.30                           0.70
+Weighted Value of Outcome             0.9                            2.8
+                                                                     0.9 +2.8 = 3.7 rounds to 4
+Final Outcome
+                                                                     Moderately Satisfactory
+
+The overall weighted outcome rating is Moderately Satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+The following risks could potentially impact the Development Outcome:
+
+1. Institutional risk. This project supported building the capacity of the client to implement a cross-sectoral
+digital project. The Bank is preparing a new digital project (Cote d’Ivoire Digital Acceleration Project
+P180059) with the support of an interim PIU. This calls for building on the experience gained through this
+project and further developing the required capacities to implement the second generation of digital projects
+in Cote d'Ivoire (ICR, paragraph 62).
+
+2. Technical risk. The sustainability of the deployed digital infrastructure is ensured as the operator owns
+the infrastructure and is obliged to guarantee an adequate delivery of the service for the next 10 years (this is
+
+
+
+
+                                                                                                       Page 20 of 28
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      CI: E-Agriculture Project (P160418)
+
+
+
+a contractual obligation enforced by the regulator the Telecommunications Regulatory Authority of Côte
+d'Ivoire) (ICR, paragraph 63).
+
+3. Financial risk. The sustainability plan for the digital agriculture platform (Agristore) is supported by the
+Cashew Value Chain Sustainable Development projects (P158810 and P180040), currently active in the
+Northern region, as well as the Cote d'Ivoire Agri-Food Sector Development Project (P171613), active in the
+South and Center regions. Both projects were expected to sustain Agristore enrollment and training efforts in
+the targeted areas. The maintenance of rural roads is added to the national road registry and are now
+scheduled for routine maintenance (ICR, paragraph 63).
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+        Strategic relevance and approach. The project was strategically relevant and in line with the
+            Government priorities. The PDO was also in line with the Bank strategies (see Section 3 for
+            details). The project aimed to help Cote d’Ivoire improve access to digital services and digital
+            platforms in rural communities, with the objective to improve farm productivity and access to
+            markets.
+           Technical, financial and economic aspects. While the project design featured a clear and
+            focused PDO, the "improvement in farm productivity" and "access to markets" elements of the
+            PDO were both not adequately monitored in the absence of relevant indicators, along with a weak
+            RF. The project design was complex with three different components implemented under three
+            different government institutions against a challenging implementation environment. Furthermore,
+            Components 1 and 2 had clear synergies since both supported digital activities. On the other
+            hand, Component 3 (rural roads) had limited synergies with components 1 and 2. The PAD
+            featured an economic and financial analysis that relied mainly on citing similar projects and the
+            analysis lacked an overall estimation the economic validity of the project.
+           Poverty, gender, and social development aspects. The project contributed to poverty reduction
+            and shared prosperity through the provision of broadband services in the rural areas. Also, the
+            digital Agristore platform and the rehabilitated rural roads contributed to facilitating economic
+            transactions for farmers and food producers. The project was gender-tagged with specific gender
+            disaggregated indicators, and the project was screened for gender representation, labor, and
+            capacity (ICR, paragraph 34). The project also provided subsidies to 10,000 farmers affected by
+            the COVID-19 crisis, allowing them to continue their agricultural activities, which potentially saved
+            thousands of direct and indirect jobs.
+           Environmental and Fiduciary aspects. The project design adequately addressed environmental
+            aspects. However, financial management proved more challenging due to the inexperience of the
+            Directorate of Financial Affairs (DAF) within the Ministry of Communication, Digital Economy, and
+            Post with Bank‐FM procedures; and the complex design of the project which featured several
+            sub-components with multiple actors and beneficiaries mainly in rural areas. The project also
+            experienced procurement challenges since the reversed auction approach was employed for the
+            first time in the country, which required capacity building for the government and the PIU.
+           Implementation arrangements. The project had complex institutional arrangements with a PIU
+            under the MICENUP, a Technical committee and a Steering Committee at the strategic level both
+
+                                                                                                      Page 21 of 28
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     CI: E-Agriculture Project (P160418)
+
+
+
+         chaired by MICENUP, and Departmental committees to be created on ad hoc basis. However, the
+         PAD lacked details on key members of the technical and strategic committee and their roles. This
+         was later determined by a Ministerial decree (ICR, paragraph 40). Also, the structure of the
+         institutional arrangements, relationship and reporting lines were not always adequately
+         identified. While the technical specialists supporting the project implementation were government
+         civil servants, fiduciary and environmental and social framework specialists were recruited
+         competitively.
+        Risk assessment. The overall risk to achieving the PDO was rated Substantial. Eight risks were
+         identified at appraisal including: political and governance (substantial), macroeconomic
+         (substantial), sector strategies and policies (moderate), technical design of project (substantial)
+         institutional capacity for implementation and sustainability (substantial), fiduciary (moderate),
+         environmental and social (substantial), stakeholders (moderate). The Bank used the Systematic
+         Operations Risk Rating Tool (SORT) to propose adequate mitigation measures drawing lessons
+         from similar digital and agricultural World Bank projects implemented in Africa and the rest of the
+         world. However, the risk related to fiduciary aspects and the capacity of national Road Agency
+         (AGEROUTE) to manage contracts was under estimated. Also, the risk related to the capacities
+         of service providers with respect to Bank procedures was unanticipated.
+        M&E arrangements. The PIU was responsible for developing a detailed M&E plan, specifying
+         standard protocols and guidelines for data collection and use for the duration of the project. M&E
+         had design shortcomings pertaining to the results framework (RF). The RF lacked relevant
+         indicators to comprehensively capture key project achievements (see Section 9a for details).
+
+  Summary of Quality-at-Entry (QAE) Assessment. The project was strategically relevant, although the
+  design was complex with limited synergies between some components. Poverty, gender, and social
+  development as well as environmental aspects were adequate. However, fiduciary challenges were
+  experienced. The complex implementation arrangements were not adequate in an environment of weak
+  institutional capacity. The risk related capacities of service providers with respect to Bank procedures
+  was unanticipated, and the risk related to fiduciary aspects and the capacity of national Road Agency
+  (AGEROUTE) to manage contracts was under estimated. M&E arrangements had notable shortcomings
+  in the design of results framework. Overall, the Quality at Entry is rated Moderately Satisfactory due to
+  moderate shortcomings pertaining to technical aspects, implementation arrangements, and risk
+  identification, along with significant shortcomings in M&E arrangements.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+       The project faced challenging implementation conditions with the outbreak of the COVID-19
+        pandemic in early 2020. Also, the project experienced a disruption in the fertilizer supply
+        chain following the Russian invasion of Ukraine in early 2022.
+       The World Bank task team provided continuous support to the PIU by conducting
+        regular supervision missions, both in-person and virtual during the COVID-19 restrictions. In total
+        the Bank conducted 10 implementation support missions over the duration of implementation
+
+
+                                                                                                  Page 22 of 28
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     CI: E-Agriculture Project (P160418)
+
+
+
+        period. While the project experienced two TTL changes, the co-TTL remained the same from
+        project preparation to closure.
+       The project implementation benefited from a competent extended Bank team with experience in
+        Sub-Saharan Africa (ICR, paragraph 60). The Bank team provided support on technical aspects,
+        the Environmental and Social Framework and fiduciary matters.
+       The Bank team discussed strategic and technical matters with the government openly and
+        effectively. The team also ensured exposure to other good practices beyond Cote d’Ivoire, for
+        example, the Ministry of Digital Economy of Benin visited the project to inform the WB-supported
+        Benin e-Agriculture IPF (P162599) that had similar activities.
+       However, the Bank team could have used the project restructurings to revise the RF to rectify
+        shortcomings and comprehensively capture the project achievements.
+
+ Summary of Quality of Supervision Assessment. The Bank task team guided the project through
+ challenging implementation conditions. The team provided support to the PIU on technical aspects,
+ Environmental and Social Framework and fiduciary matters. While M&E shortcomings were identified after
+ the first restructuring, the Bank team could have used the first restructuring to rectify the RF weaknesses.
+ Over, the Quality of Supervision is rated Satisfactory.
+
+ Based on the assigned ratings to Quality At Entry and Quality of Supervision, overall Bank performance is
+ rated Moderately Satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+      The achievement of the PDO was measured by four PDO outcome level indicators. While increased
+        access to digital services was adequately measured by one PDO outcome indicator, there were no
+        PDO level indicators to measure improvement in farm productivity and access to markets (two core
+        elements of the original PDO). The RF lacked an intermediate results indicator (IRI) to capture the
+        uptake of mobile money services in the covered areas. Also, while the PDO - level indicator
+        mentioned the number of “farmers reached with agricultural assets or service”, the volume of
+        transactions was not specified.
+       Overall, M&E design had significant shortcomings that did not allow the M&E system to
+        comprehensively capture the project achievements.
+
+
+
+
+                                                                                                  Page 23 of 28
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     CI: E-Agriculture Project (P160418)
+
+
+
+b. M&E Implementation
+       According to the ICR (paragraph 50) "reporting was adequate throughout the project." The project
+         relied on several sources to collect data including the PIU, government agencies, and service
+         providers. The ICR (paragraph 50) noted that field missions helped triangulate and ensure the
+         quality of the data provided by the PIU for effective oversight of the project implementation.
+        The World Bank team conducted weekly meetings and regular implementation supervision
+         missions to monitor project progress on the ground (ICR, paragraph 50). The PIU updated
+         indicators to measure progress against baselines, and worked collaboratively with the Bank
+         team to address any issues.
+        Finally, the first restructuring did not include a PDO-level indicator for component 5 and kept some
+         IRIs for component 2 in place even though those were no longer relevant as the activities were
+         dropped due to the reallocation of funds
+
+
+
+c. M&E Utilization
+       The M&E data was used to monitor performance throughout the implementation phase and to
+           refine the project scope during the first restructuring. M&E findings were disseminated by the PIU
+           to all stakeholders.
+
+  Summary of M&E Quality Assessment. M&E design had notable shortcomings, as discussed above.
+  Despite restructuring the project, M&E design shortcomings were not addressed. However,
+  implementation and utilization of M&E were both deemed adequate.
+
+  Overall, the Quality of M&E is rated Modest due to significant design shortcomings that did not allow for
+  a comprehensive assessment of the project achievements and outcomes. The project could have used
+  the restructurings to improve and enhance the clarity of the RF to better capture the impacts of the
+  project activities.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+        Environmental Category and Safeguards. This project was classified as environmental category B
+          - Partial Assessment, given that no significant and/or irreversible adverse environmental impacts
+          were anticipated. Two environmental and one social safeguards policies were triggered:
+          Environmental Assessment (OP 4.01), Physical Cultural Resources (OP 4.11), and Involuntary
+          Resettlement (OP 4.12). A Resettlement Policy Framework (RPF) and an Environmental and Social
+          Management Framework (ESMF) were prepared and disclosed in Côte d'Ivoire and on the World
+          Bank website on March 13, 2018.
+         Compliance with Environmental and Social Safeguards. According to the ICR (paragraph 53)
+          "the project was compliant with the applicable safeguards during implementation." The ICR
+
+                                                                                                   Page 24 of 28
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     CI: E-Agriculture Project (P160418)
+
+
+
+           (paragraph 54) noted that the average performance of the environmental and social ratings during
+           implementation was Moderately Satisfactory. The ICR also flagged a couple of weaknesses that
+           impacted safeguard compliance including the late establishment of the Grievance Redress
+           Mechanism (GRM) which became fully operationalized in December 2022, and the poor
+           performance of the social safeguard specialist in the PIU.
+
+
+
+
+b. Fiduciary Compliance
+        Financial Management (FM). Financial reports were submitted by the PIU on time. However,
+          validating payments were delayed due to the frequent unavailability of the financial controller from
+          the Ministry of Finance. This caused slowdowns in financial payments to service providers. The
+          external audits did not flag any inconsistencies. The overall performance of financial management
+          was rated Satisfactory in the ISR (October 2023).
+         Procurement. The annual procurement work plans and budget were prepared following Bank
+          procedures (ICR, paragraph 56). However, procurement faced two key challenges: (i) the
+          procurement method used for component 1 (reversed auction) was employed for the first time in
+          the country, and required capacity building for the government and the PIU; and (ii) challenges due
+          to the Russia’s invasion of Ukraine disrupted global supply chains for some Component 5
+          activities. The ICR (paragraph 56) noted that the PIU staff managed the afore-
+          mentioned challenges efficiently and innovatively. The overall performance of procurement was
+          rated Moderately Satisfactory in the last ISR.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   "The project built trust and collaborative relationships between MeMINADER and the Ministry of Digital
+   Economy, which have henceforth collaborated on digital agricultural initiatives, strengthened
+   information sharing between the central MeMINADER and its regional agencies and improved the
+   development and use of digital registries (databases) in the different interprofessional associations through
+   component 5 (ICR, paragraph 39)."
+
+
+
+d. Other
+   None.
+
+
+
+11. Ratings
+                                                                                Reason for
+Ratings                          ICR                  IEG
+                                                                                Disagreements/Comment
+                                 Moderately
+Outcome                                               Moderately Satisfactory
+                                 Satisfactory
+
+
+                                                                                                   Page 25 of 28
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     CI: E-Agriculture Project (P160418)
+
+
+
+                                                                                Quality at Entry had moderate
+Bank Performance                 Satisfactory         Moderately Satisfactory
+                                                                                shortcomings.
+Quality of M&E                   Modest               Modest
+
+Quality of ICR                   ---                  Modest
+
+
+12. Lessons
+
+The ICR included five lessons. The following four are emphasized with some adaptation of
+language:
+
+1. To enable projects to adequately respond to external crises, project design needs to reflect
+enough flexibility and adaptability. The project experienced two external crisis: the COVID-19
+pandemic and Russia’s invasion of Ukraine which resulted in major disruptions during the project
+period, required to reorient funds and activities to address emerging needs. Both the Client and the
+World Bank showed proactivity and flexibility in adapting to the new constraints and managed to
+restructure the project to expand the scope and include emergency activities to mitigate the impact
+of the Covid-19 crisis on farmers. In anticipation of such shocks, Task Teams should be ready to
+implement major restructuring to respond to the new urgent needs of the Client. Collaboration
+(between the CMU, the Task Team, the PIU and the MICENUP and MeMINADER) facilitated the
+project’s ability to adapt and achieve the desired results
+
+2. A project scope that is overly ambitious and with limited synergies between activities can
+cause delays in implementation. Following the first restructuring, the PIU was responsible for
+multiple activities covering digital infrastructure, digital agriculture platform, rural roads, and
+agriculture support. This had the effect of having “4 projects in 1”, with added challenge of
+maximizing synergies between the components. The PIU and Task Team faced with various issues
+for each component with limited economies of scope (e.g., experience learned in managing
+safeguards for rural roads had limited transferability for the other activities), often under competing
+deadlines. In hindsight, the first Restructuring could have been more drastic by removing the entire
+Component 3 (rural roads)to free up even more resources (in terms of both financial resources and
+staff time), enhancing impact of the remaining components.
+
+3. It is essential to strengthen the design and implementation of the M&E systems in projects
+to effectively monitor activities and assess outcomes. A well-designed M&E system enhances
+project monitoring and helps capture impacts. The M&E framework needs to be well designed at the
+approval stage, with clear identification and definition of indicators, potential outputs, and
+outcomes. The experience of this project suggests that the RF could have been adjusted during
+second restructuring.
+
+4. Adopting financing gap mechanisms can provide an alternative to countries facing acute
+budget constraints in deploying digital infrastructures. However, remain regarding their
+familiarity with, understanding of, and willingness to adopt these mechanisms. Specifically,
+Governments are reluctant to provide catalytic subsidies to private operators, as they would like to
+retain the ownership of the digital infrastructure deployed, even though this may undermine the
+sustainability of the assets. To address these challenges, the World Bank should continue providing
+resources to improve the skills and knowledge necessary for countries to effectively implement and
+
+                                                                                                   Page 26 of 28
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       CI: E-Agriculture Project (P160418)
+
+
+
+manage financing gap mechanisms, and encourage exchange visits between countries to share
+knowledge and lessons learned.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+      Quality of Evidence. The ICR reflected an evidence base that was marginally adequate to assess the
+         project outcomes.
+        Results Orientation. The ICR included a limited discussion (in the main text) on the achievement of the
+         PDO as the discussion mostly focused on the PDO outcome indicators. It would have been useful to
+         reflect a balanced discussion in the main text of the ICR.
+        Quality of Analysis. The ICR assessment of outcomes was somewhat limited due to M&E design
+         shortcomings. The ICR also included a limited analysis of the EFA.
+        Internal Consistency. Various parts of the ICR were internally consistent and logically linked and
+         integrated.
+        Lessons. Lessons reflected the project experience and were based on evidence and analysis.
+        Consistency with guidelines. The ICR used the standard structure defined in the Guidelines and utilized
+         available evidence to justify the assigned ratings. However, the discussion on the achievement of the
+         PDO was brief and not assessed against the current CPF. Also, the ICR should have used a split rating
+         to assess outcomes, as both the PDO and the targets for the outcome indicators were revised.
+        Conciseness. Overall, the ICR provided a concise coverage of project activities to the extent possible,
+         and candidly reported most shortcomings. However, the triggered safeguards were not accurately
+         reported under section B of the ICR. Additionally, there were some discrepancies between the numbers
+         reported in the ICR (Annex 1) and the main text.
+
+Summary of the Quality of ICR Assessment. Most sections were concise and reflected descriptive
+information and some evidence. The lessons drawn by the ICR were relevant. The relevance of objectives were
+not assessed against the current CPF. The ICR reflected a limited analysis of the EFA, and did not include a
+split rating for the overall project outcome. Finally, the ICR had discrepancies between the numbers reported in
+the ICR (Annex 1) and the main text. Overall, the Quality of the ICR is rated Modest.
+
+
+
+  a. Quality of ICR Rating
+         Modest
+
+
+
+
+                                                                                                   Page 27 of 28
+Independent Evaluation Group (IEG)    Implementation Completion Report (ICR) Review
+CI: E-Agriculture Project (P160418)
+
+
+
+
+                                                                   Page 28 of 28
+

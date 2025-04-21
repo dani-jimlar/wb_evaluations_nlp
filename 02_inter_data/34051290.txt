@@ -1,0 +1,817 @@
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     MG Statistical Capacity Building (P160071)
+
+
+
+                                                                                    Report Number: ICRR0023257
+
+1. Project Data
+
+
+
+ Project ID                                   Project Name
+ P160071                                      MG Statistical Capacity Building
+
+ Country                                      Practice Area(Lead)
+ Madagascar                                   Poverty and Equity
+
+
+ L/C/TF Number(s)                            Closing Date (Original)                 Total Project Cost (USD)
+ IDA-59960                                   31-Mar-2022                                            31,882,553.27
+
+ Bank Approval Date                          Closing Date (Actual)
+ 29-Mar-2017                                 31-Mar-2022
+
+                                             IBRD/IDA (USD)                                       Grants (USD)
+
+ Original Commitment                              30,000,000.00                                                0.00
+
+ Revised Commitment                               30,000,000.00                                                0.00
+
+ Actual                                           31,882,553.27                                                0.00
+
+
+
+
+ Prepared by                  Reviewed by                  ICR Review Coordinator           Group
+ Sara Johansson de            Judyth L. Twigg              Jennifer L. Keller               IEGEC (Unit 1)
+ Silva
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Financing Agreement (FA) states the objective of the Project as: “to strengthen the capacity of the
+   National Statistics Institute (INSTAT) to produce quality statistics and to enhance its statistical dissemination
+   practices” (FA, p. 4). The PDO can be unpacked into two objectives, reflecting distinct results chains:
+
+   Objective 1: Strengthen INSTAT’s capacity to produce quality statistics
+
+
+
+                                                                                                      Page 1 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     MG Statistical Capacity Building (P160071)
+
+
+
+   Objective 2: Enhance INSTAT’s statistical dissemination practices
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   1. Institutional Reform and Capacity Building (US$3.4 million IDA allocation, US$0.65 million actual).
+   This component contained four sets of activities:
+
+        a. Institutional reform of the national statistical system, to (i) modernize the regulatory framework and
+           (ii) improve INSTAT’s organizational structure and management.
+        b. Support for developing a new National Strategy for the Development of Statistics (NSDS).
+        c. Modernization of information and communications technology (ICT) and equipment.
+        d. Strengthening of human resources to improve production, analysis, and dissemination of quality
+           statistics.
+
+   2. Data Collection, Analysis, and Dissemination (US$24.8 million IDA allocation, US$29.9
+   million actual). This component supported the production of statistics to close critical data gaps,
+   enhancement of accessibility and dissemination practices, and capacity building in these areas. The
+   component contained four sets of activities:
+
+        a. Production of a new Population and Housing Census.
+        b. Production of two Household Poverty and Living Standards Surveys (Enquête permanente auprès
+          des ménages, EPM) for 2018 and 2021, respectively.
+        c. Updating of national accounts (NA) and Consumer Price Index (CPI) to latest international
+          methodological standards.
+        d. Support for data analysis and dissemination, including developing policies and platforms and
+          strengthening institutional capacity.
+
+   3. Component 3: Project Management (US$1.8 million IDA allocation, US$1.2 million actual).
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   The project was approved on March 29, 2017; became effective on August 31, 2017; held a mid-term
+   review in November 2020; and closed as planned on March 31, 2022.
+
+   The project was approved at a cost of US$30 million, equivalent to 22.4 million SDR, as IDA Allocation.
+   Bank funds were expected to be complemented with US$2.5 million from development partners and US$2.6
+   million from the government, in support of the population and housing census (PAD, p. 2). At approval,
+   development partners included the United States Agency for International Development (US$0.7
+   million) and the United Nations Population Fund (US$1.8 million). There were also ongoing discussions with
+
+
+                                                                                                      Page 2 of 15
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     MG Statistical Capacity Building (P160071)
+
+
+
+   the European Union on the possibility of an additional US$6 million in funding (PAD, p. 16). The
+   government did not provide the requisite funds.
+
+   At closure, the project had disbursed US$30.88 million, exceeding the budget by nearly US$2 million. The
+   project incurred higher than foreseen expenditures as the census (component 2a) incurred unexpected
+   additional expenditures on the order of US$5 million. The project was not restructured. Given the
+   importance of the census, as the basis for other statistical products, funds were reallocated within the
+   project to cover the higher costs of the census. The project reallocated expenditures from component 1 to
+   the census and within component 2, from other activities to the census (Table 1). Funding for work on NA
+   and CPI (component 2c), the NSDS (component 1b), one of the two EPMs (component 2b), and support to
+   ICT (component 1c) was cancelled. The contribution of the Bank as well as development partners increased
+   (Table 2). Information on the detailed contributions is not available in the ICR.
+
+   Table 1. Amount by component, at approval and project closing.
+
+                   Amount at approval         Actual spending at project
+   Components
+                   (US$M)l                    closing (US$M)
+   Component 1     3.40                       0.65
+   Component 2     24.80                      28.46
+   Component 3     1.80                       1.20
+   TOTAL           30.00                      30.31
+   Source: ICR, annex 3, drawn from the financial reporting system of the PIU.
+
+   Table 2. Estimated and actual expenditures on household census funding.
+
+                                Initial
+                                                  Final
+                                estimates
+   Project contribution         $20.2 million     $25.4 million
+   Government                   $2.6 million      ~$0.3 million
+   Development partners         $2.5 million      ~$6.3 million
+   Global cost                  $25.3 million     ~$32.0 million
+   Source: ICR, p.12
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+At project inception, Madagascar’s statistical capacity was low, as measured by the World Bank’s Statistical
+Capacity Index (62.6, compared to an average of 62.9 for IDA countries). Low capacity resulted from a
+weak regulatory framework and a large but underqualified staff. Lack of financial resources had made it
+difficult to retain qualified staff and led INSTAT to focus on revenue-generating activities with development
+partners instead of core statistical functions. Madagascar’s score was particularly weak regarding “source
+
+                                                                                                   Page 3 of 15
+                                      Independent Evaluation Group (IEG)                     Implementation Completion Report (ICR) Review
+                                      MG Statistical Capacity Building (P160071)
+
+
+
+               data” (50.0, compared to an average of 60.5 for IDA countries), reflecting a lack of key statistical
+               information for population, national accounts, and poverty. The lack of an up-to-date population census
+               posed a particular challenge, as the census forms part of core statistical sources, without which the
+               credibility of the entire statistical system is put in question.
+
+               The PDO was fully aligned with the Government’s National Development Plan 2015-2019 (NDP), which
+               recognized both the importance of targeted and evidence-based policy making to move Madagascar onto a
+               higher, more inclusive, and sustainable growth trajectory, and the role of reliable, accessible, timely, and
+               relevant data underpinning these policy directions. More and better statistics, widely disseminated, would
+               help strengthen governance and accountability and support the policy targeting needed to foster economic
+               recovery and improve inclusive growth and local roots of development, two main pillars of the NDP.
+
+               The project remained relevant to the World Bank’s strategy, as expressed in the country partnership
+               framework (CPF) FY17-FY21. The CPF emphasized the need for effective and targeted policy interventions
+               to foster inclusive growth, address significant gender and income gaps, and promote higher social
+               accountability and citizen participation to increase the legitimacy and credibility of policy interventions and
+               support much-needed resource mobilization. The CPF highlighted the role of the statistical capacity building
+               project as a means of informing the implementation of policies central to the NDP, especially social
+               services, decentralization, and civil registration.
+
+               At the time of this Review, a new country partnership framework was not in place. An update to the
+               Systemic Country Diagnostic (dated April 2022), intended to inform the upcoming CPF 2023, emphasized
+               the continued governance challenges facing Madagascar and the need to strengthen citizen engagement to
+               deliver better policy outcomes and limit state capture, all of which needs to be underpinned by reliable data.
+               The operation was expected to provide basic information that would feed directly into subsequent World
+               Bank-financed operations in Madagascar. This suggests that strengthening statistical capacity remains
+               highly relevant to Madagascar’s needs and the World Bank’s engagement.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             Strengthen INSTAT’s capacity to produce quality statistics
+
+                             Rationale
+                             More effective management and organization of INSTAT, together with strengthened skills in INSTAT and
+                             updated ICT equipment and software, are critical ingredients to enable the production of core statistics –
+                             adequate population data, national accounts, consumer price index, and data on poverty and employment --
+
+
+                                                                                                                           Page 4 of 15
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   MG Statistical Capacity Building (P160071)
+
+
+
+essential to inform government, the general public, and other stakeholders and improve policy design,
+implementation, monitoring, and evaluation.
+
+Theory of Change (ToC):
+
+The PAD did not provide a ToC. The ICR constructs one ex-post based on the project's results framework,
+including activities, outputs, two PDO/outcomes consistent with the two unpacked objectives presented in this
+Review (production and dissemination of quality statistics), and a higher-level outcome on sustained capacity
+to produce and disseminate quality statistics to support evidence-based policy making. The ToC presents a
+plausible results chain from activities to outputs and outcomes. Technical assistance, capacity building, and
+upgraded technology logically and plausibly assist in producing key statistical outputs that could be
+disseminated to different users.
+
+Inputs:
+
+At appraisal, the key activities (inputs) were defined as (i) technical assistance/capacity building to improve
+skills among INSTAT staff and guarantee long-term provision of relevant skills and (ii) upgrading of ICT
+equipment and software. More specifically, planned technical assistance/capacity building encompassed the
+following activities:
+
+      Review of the existing regulatory framework and human resources; support to development of a new
+          regulatory framework and a new National Strategy for the Development of Statistics (NSDS)
+      Skills enhancement of existing staff in capacities directly linked to production and dissemination of
+       statistics
+      Improved training in the national statistics school, including a scholarship program for new recruits
+      Direct support to the production of the population census and household poverty and living survey and
+       the revision of national accounts and CPI statistics.
+
+At closure, due to the increased costs of the census and the outbreak of COVID-19, the set of activities
+undertaken had been modified as follows:
+
+      Cancelled: Support to activities on national accounts and CPI were stopped due to the census overrun
+       and the fact that only one set of EPM had been undertaken, as data collection was interrupted in 2020
+       due to COVID-19. NSDS and the modernization of ICT/equipment were also stopped; the NSDS was
+       instead funded by the United Nations Development Programme (UNDP).
+      Added: The project funded four rounds of high-frequency phone surveys on COVID-19's impact on
+       households and two rounds of business pulse surveys on COVID-19's impact on businesses.
+
+Outputs:
+
+The outputs expected (as per the ToC), were: (i) an updated legal framework and a new NSDS, (ii) a
+workforce equipped with skills and technology to undertake large-scale statistical productions, (iii) a
+completed Housing and Population Census, two Household Poverty and Living Standard Surveys, and NAs
+aligned with international standards. There were three intermediate (output) indicators related to Objective 1.
+
+
+
+
+                                                                                                   Page 5 of 15
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   MG Statistical Capacity Building (P160071)
+
+
+
+
+      Skills enhancement was measured by the number of staff achieving improvements in skills knowledge
+       compared to a pre-training baseline (baseline 0, target 75). By December 2021, 186 staff had
+       improved their skills related to production, analysis, and dissemination of data, exceeding the target.
+      Production of key data sources was measured by the number of census, welfare, employment, and
+       business surveys implemented (baseline 0, target 6). By December 2021, 6 surveys had been
+       implemented. The Population and Housing Census was successfully carried out. Data collection for a
+       household poverty and living standards survey was completed in March 2022, after an earlier attempt
+       in 2020 had to be abandoned due to COVID-19. In addition, four rounds of high-frequency phone
+       surveys on the impact of COVID-19 on household welfare, and two rounds of business pulse surveys,
+       were undertaken and used to directly inform government policy. The number of products exceeded
+       targets. However, the rapid phone surveys cannot be said to represent the same quality of output as
+       the full business survey, informal survey, and poverty household survey they supplanted.
+      Improved BA and CPI (baseline 0%, target 100%, weighted as follows: Coverage of the informal
+       sector (20%), updated source data on businesses (20%), updated CPI basket (20%), updated base
+       year of national accounts (20%), and use of the 2008 system of national accounts (20%)). Funds for
+       this component were reallocated to the census. The indicator is estimated to have been achieved to
+       60%, representing updated source data on business, updated base year of NA, and updated
+       consumption basket for the CPI. By March 2020, the NA had been rebased to the year 2007 but
+       remained based on System of National Accounts (SNA) 1993.
+
+The original results framework did not contain a specific indicator related to regulatory reform. However, the
+ICR reports that (i) a new statistical law was adopted in 2018, but the ensuing decrees have not yet been
+adopted, and (ii) an institutional assessment of INSTAT management and organization was undertaken,
+including recommendations to strengthen human resources management.
+
+Out of the three output indicators, the target for one (staff training) was fully achieved, but the production of
+key data sources and improved NA and CPI were only partially achieved.
+
+Outcomes:
+
+The expected outcome was an increase in the capacity of Madagascar to produce relevant quality statistics
+as measured by:
+
+      An increase in the statistical capacity index (SCI) score for the variables that the project will target
+       (baseline 62.6, target 71). By March 2022, the SCI had only improved marginally, to 63.3. This modest
+       progress was due to the decrease in the “poverty survey” and “income poverty” sub-indices, as the
+       earlier household survey became outdated and a new one was not yet completed. The new World
+       Bank statistical performance index (SPI), which replaces the SCI, indicates more substantial
+       improvement in statistical capacity, with the overall SPI index improving from 41.7 in 2017, to 52.0 in
+       2019. The sub-score for data sources also improved, albeit more modestly and from a very low level,
+       from 11.7 to 21.0.
+      The number of statistical products supported by the project designed and implemented in line with
+       international standards (baseline 1, target 4: CPI, Census, Household Survey, National Accounts). By
+       June 2021, 5 statistical products had been produced, including the population census, NA, CPI, and
+       the rapid phone surveys for households and businesses. The household survey was completed just
+
+
+
+
+                                                                                                      Page 6 of 15
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   MG Statistical Capacity Building (P160071)
+
+
+
+         after project closure (May 2022). Although the NA was updated, it did not meet international
+         standards, as it made use of the 1993 SNA whereas the most recent standard is the 2008 SNA.
+
+Conclusion:
+
+The project increased INSTAT capacity by supporting the provision of a key statistical product (the census)
+that underpins other surveys. The project adapted resources to produce relevant statistical information during
+COVID-19 (rapid phone surveys). However, several products (household income, business, and informal
+sector surveys) had to be abandoned, and other core statistics, such as the NA, have not improved
+sufficiently to meet international standards. The rating of efficacy under objective 1 is modest.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 2
+Objective
+Enhance INSTAT’s statistical dissemination practices
+
+Rationale
+The discussion under objective 1 applies to objective 2.
+
+Theory of Change
+
+The discussion objective 1 applies to objective 2.
+
+Inputs
+
+The activities under Objective 1 – regulatory framework, skills development, data production -- also supported
+Objective 2. Improved data and microdata dissemination policy and the production of source data were
+necessary conditions for dissemination.
+
+Outputs
+
+In addition to skills enhancement (objective 1), the outputs defined in the ToC relevant for outcome 2
+included: (i) reports and anonymized micro-datasets for the Population and Housing Census and Poverty and
+Living Standards Survey available online; (ii) disseminated national accounts and price indices; and (iii)
+available user feedback intended to enhance user friendliness. INSTAT adopted a new data and microdata
+dissemination policy, and a platform was created to support microdata sharing. The intermediate outputs
+related to Objective 2 were:
+
+      Number of statistical reports funded by the project available online, disaggregated by availability of
+         gendered statistics (baseline 0, target 20). By December 2021, 23 reports were available.
+      Number of survey and census micro-datasets available online (baseline 0, target 6). By March 2020,
+         7 such datasets were available online: the census, and the 6 rapid phone surveys.
+
+
+                                                                                                   Page 7 of 15
+                                Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                                MG Statistical Capacity Building (P160071)
+
+
+
+
+                                    User feedback measured by whether focus groups had been held to gather feedback (baseline No,
+                                     target Yes). At the end of the project, user feedback had been collected through quantitative and
+                                     qualitative surveys.
+
+                            Out of the 3 output indicators, targets for all were achieved, with rapid phone surveys replacing the household
+                            surveys originally planned.
+
+                            Outcomes.
+
+                            The expected outcome was an increase in the capacity of Madagascar to disseminate relevant statistics to
+                            users, as measured by:
+
+                                    The number of statistical products that are released according to the statistical release calendar
+                                     (baseline 1, target 4: population census every 10 years, household surveys every 3 years, NA every
+                                     year, CPI monthly). The NA and CPI have been released regularly, and the census has been
+                                     released. The results from the household rapid response and business surveys have also been
+                                     released, bringing the number of products to 5.
+
+                                    Number of views of micro-datasets available online (baseline 72,000, target 100,000). Due to a
+                                     mistake in the baseline/target values set up originally, this indicator was monitored with "views on
+                                     INSAT website." This is arguably a completely different but nonetheless relevant indicator of
+                                     information dissemination. By December 2021, there were 182,370 views, much above the target.
+
+                            The ICR provides additional indicators as evidence of improved quality and relevance of dissemination:
+
+                                    The new statistical capacity index, SPI, shows a significant increase in the sub-index related to
+                                     services (data releases, online access, advisory and analytical services, and data access services),
+                                     from 18.3 in 2017 to 56.3 in 2019 (latest year available).
+                                    The ICR reports that the rapid phone surveys (not foreseen in the PAD) were used directly by the
+                                     government to inform its policy responses to COVID-19.
+
+                            Conclusion: INSTAT managed to increase the availability of relevant data, significantly exceeding targets.
+                            The achievement of Objective 2 is therefore rated high.
+
+
+
+                            Rating
+                            High
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project achieved only modest increases in the statistical capacity index score due to weak results on the
+                            outcome related to production of quality statistics. Lower efficacy was partly due to COVID-19 and thus
+                            beyond the control of the project. At the same time, the project achieved a critical output – the census – thus
+
+                                                                                                                                Page 8 of 15
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      MG Statistical Capacity Building (P160071)
+
+
+
+  contributing to a central statistical product, whereas other components were taken over by other partners. The
+  project also supported high achievements in data dissemination practices and higher usage of data.
+
+  Given the combination of modest and high achievements on key outcomes, and the unavoidable impact of
+  COVID-19 on data collection, project efficacy is rated substantial.
+
+
+
+  Overall Efficacy Rating
+  Substantial
+
+
+
+ 5. Efficiency
+The project’s objective does not lend itself to comprehensive cost-effectiveness analysis. The ICR instead
+provides costs of different components in other countries as a basis for comparison. Despite the budget overrun,
+the cost of the population census, for a total of US$32 million, is estimated at about US$1.2 per capita. This is
+lower than the estimated costs for censuses in other Sub-Saharan African countries (Comoros US$1.7, Sierra
+Leone US$1.5, Ghana US$3.0). This suggests efficient resource management from a total cost perspective.
+However, it also raises questions as to why the census was budgeted at a significantly lower cost initially
+(budgeted US$ 25.3 million for a population of 24 million, i.e., US$1.05 per capita), which would have introduced
+risks of overrun. Total costs of the household survey, at approximately US$1.9 million, appear to be in line with
+international levels/averages (US$1.7 million).
+
+The project performed comparatively well on timeliness. The time lapse between project approval and the first
+disbursement was under six months. Despite the emergence of COVID-19 during implementation. the project
+closed as planned on March 31, 2022.
+
+During implementation, some delays and abandoned activities were due to external events (presidential election
+campaign, COVID-19). Data cleaning and analysis work on the census, and the data collection field work of the
+first EPM, were especially affected. However, underestimation of costs and timelines needed for execution,
+delayed government contributions, and poor fiduciary compliance also delayed implementation compared to
+plan. Census preparation (Cartography) and validation of results (by National Council) took longer than foreseen
+and incurred higher costs. This also delayed the first EPM, for which the census was to have provided the
+sampling frame. The preparation of the second round of the EPM was delayed due to lack of funds, partly due to
+delayed government contributions. COVID-19 had a deep negative impact on Madagascar, which widened fiscal
+deficits significantly and, together with mounting financial pressures from public entities, raised pressures to
+prioritize other spending.
+
+At the same time, project management made a logical decision in prioritizing the census. The update of the
+census was urgent, as it also constituted the foundation for the other surveys. The project also adapted to
+supporting unforeseen but relevant activities, namely the rapid phone surveys. Finally, other development
+partners partly took over financing or technical assistance for some abandoned project components (e.g., the
+NSDS by UNDP, and NA/CPI by the International Monetary Fund (IMF)).
+
+Procurement and financial management of the project was marked by poor performance, especially in 2017 and
+2018. First, there were significant cumulative delays in appraising offers for consultants, goods, and non-
+
+
+                                                                                                    Page 9 of 15
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      MG Statistical Capacity Building (P160071)
+
+
+
+consulting services. Second, financial management, in particular relating to the census activities, was
+unsatisfactory, and fiduciary risk mitigation measures were not applied.
+
+In sum, the project responded to delays to ensure the completion of the census and also ensured the completion
+of other activities through other funding sources. However, procurement and financial management practices
+were poor, contributing to derailing the project and severely limiting the production of quality data (resulting in
+modest achievement of the first objective). Hence, project efficiency is rated modest.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)          *Coverage/Scope (%)
+                                                                                     0
+ Appraisal                                                  0
+                                                                                      Not Applicable
+                                                                                     0
+ ICR Estimate                                               0
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+At inception, the project’s objectives of improving statistical capacity and dissemination as a foundation for
+better governance were highly relevant to Madagascar’s development challenges and for the World Bank’s
+partnership. These objectives remained relevant at project closure and beyond. Overall project efficacy was
+substantial, despite external challenges, with a completed census 25 years overdue, an EPM, new COVID-19-
+related survey tools, and significant headway on statistical reporting and dissemination; however, one outcome
+– the production of source data - was rated modest. The project's efficiency is rated modest, due to weak
+procurement and financial management, and the significant reorganization of the team.
+
+Given high relevance, substantial efficacy, and modest efficiency, the overall outcome rating is Moderately
+Satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+
+
+                                                                                                     Page 10 of 15
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      MG Statistical Capacity Building (P160071)
+
+
+
+The main risks are related to the sustainability of human and financial resources, part of which are due to
+slow progress on institutional reform and the macro-fiscal context, which remains challenging.
+
+First, higher capacity is the main pillar of the project’s achievements. The current institutional framework
+precludes market-based remuneration, reducing INSTAT’s capacity to recruit and retain competent staff,
+including staff with skills enhanced through the project.
+
+Second, weak commitment on the part of the government to secure adequate financing remains a key risk.
+Without a government-INSTAT contract specifying resource allocation, the government may divert resources
+to other pressing needs. The shortfall in the government contribution during project implementation
+underscores this risk.
+
+A new World Bank statistical capacity building project is under preparation, which may secure some
+continuation over the medium-term.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The Bank designed a highly relevant project focusing on key missing statistical products that were
+  essential for results-based policy making and accountability. The project centered on much-needed
+  institutional reform and capacity building to ensure sustainable increases in statistical capacity. Project
+  design did not adequately consider the weak governance context when setting up an ambitious set of
+  activities and outputs to be achieved. The Bank underestimated: (i) the cost of a census (planned cost of
+  around US$1.05 per capita, whereas international comparison suggested higher costs) (ii) the potential
+  impact of the presidential election on census activities and (iii) the sensitivity of the schedule to delays in
+  the census for other activities that depended on the sampling frame and (iv) the implementation capacity
+  of the counterparts.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The Bank conducted regular supervision missions (two per year, plus a mid-term review). The ICR refers to
+ the Implementation Status and Results Reports (ISRs) to support its assertion that the Bank made efforts
+ to resolve many of the issues that arose during implementation and ensured strong coordination and
+ engagement with external stakeholders, including by ongoing coaching of the PIU. Confronted with the
+ census budget overrun, the Bank chose not to restructure the project and did not acquire additional
+ financing, based on the logic that an upcoming project would be able to cover those activities that were not
+ undertaken. As a result of the gap in financing, the Bank chose to abandon work on the regulatory
+
+
+
+
+                                                                                                       Page 11 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MG Statistical Capacity Building (P160071)
+
+
+
+ framework, although the framework is critical to ensure sustainability and accountability of governance
+ within the statistics system, which may have put sustainability at risk.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The results chain outlined in the PAD was logical, with a clear overall objective and links between inputs,
+ outputs, and outcomes that could easily be translated into a ToC in the ICR. In general, indicators were
+ relevant, measurable, and time-bound (annual, or by end of project), and baselines and targets were well
+ defined. Some shortcomings included:
+
+       The results chain lacked output indicators related to progress on institutional reform.
+       Indicator 2 under outcome 1 measured the number of statistical products produced but did not
+        capture the relative importance of statistical products. The fact that several of the regular key
+        surveys planned (including enterprise, informal sector) were not undertaken due to reallocation of
+        funds and COVID-19 reduced the overall efficacy of outcome 1.
+       Indicator 2 under outcome 2 measured the number of views of micro-data sets. Unlike reports,
+        dashboards, and similar analysis, access to raw data may indicate interest primarily by the research
+        community or international organizations. It is less likely to include policy makers in the country (for
+        improved policymaking) or the general public (for higher accountability). In reality, this indicator had
+        to be measured by hits on the INSTAT website, which in fact may be a better indicator of general
+        access to information.
+
+ The Project Implementation Unit (PIU) within INSTAT was responsible for progress monitoring. The Bank
+ highlighted the lack of experience with World Bank projects as a key risk to be mitigated with recruitment of
+ qualified personnel and specific training and continuous support by the Bank. Given the project's poor
+ financial management performance, more significant support may have been needed.
+
+
+
+b. M&E Implementation
+  The Bank monitored progress through regular missions and regular reports (including 10 ISRs, 5 audit
+  reports, and mission aide memoires). The ICR reports that these monitoring products provided key
+  implementation information, including progress, challenges, and critical actions needed. Internal auditing
+  highlighted major weaknesses in asset management related to the census. Additional support was given
+  to INSTAT (by a professional accounting firm) to track ineligible expenses and improve financial
+  management and reporting.
+
+
+                                                                                                    Page 12 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MG Statistical Capacity Building (P160071)
+
+
+
+  However, the ICR has not been able to reconstruct the financial contributions of development partners to
+  the project (ICR, p.12). This information appears to be critical information given the importance of
+  partners to the completion of the project, especially given reallocations of project funds.
+
+
+
+c. M&E Utilization
+  The ICR (p. 25) states that monitoring output from INSTAT, together with Bank ISRs, was used to inform
+  INSTAT management and prompt corrective action, but it does not specify what actions.
+
+
+
+  Overall, the design of M&E showed some shortcomings, and the project might have benefitted from
+  more significant effort at strengthening the PIU's M&E capacity from the outset. On the other hand, the
+  project benefited from frequent monitoring with clear guidance for action, supporting an overall M&E
+  rating of substantial.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project did not trigger any environmental or social safeguards.
+
+   An operational grievance mechanism was put in place for overall project activities as well as for project
+   workers. The project recorded a total of 97 complaints, all covered and closed in compliance with the
+   established grievance mechanism.
+
+
+
+
+b. Fiduciary Compliance
+   As noted, the project underperformed on financial management, especially at the outset. Procurement
+   processes were lagging significantly at both appraisal and approval. These problems were addressed only
+   with the onboarding of a new procurement team in 2019. At project closure, procurement performance was
+   rated satisfactory. Similarly, the lack of control of census activities reflected weaknesses related to slow
+   recruitment of an independent firm to handle enumeration, poor performance of the firm finally recruited,
+   and the use of cash instead of mobile money to pay enumerators. The Bank identified ineligible expenses
+   of the order of US$1 million in 2021. The government refunded these expenses and devised an action plan
+   to improve financial management. These efforts were successful, and at the end of the project financial
+   management was rated Moderately Satisfactory.
+
+
+
+
+                                                                                                   Page 13 of 15
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     MG Statistical Capacity Building (P160071)
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   None reported in the ICR
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                   Reason for
+Ratings                          ICR                    IEG
+                                                                                   Disagreements/Comment
+                                 Moderately
+Outcome                                                Moderately Satisfactory
+                                 Satisfactory
+                                 Moderately
+Bank Performance                                       Moderately Satisfactory
+                                 Satisfactory
+Quality of M&E                   Substantial           Substantial
+
+Quality of ICR                   ---                   Substantial
+
+
+12. Lessons
+
+The ICR offers several lessons, with which IEG concurs:
+
+      A holistic approach to learning by doing is central to effective institutional capacity building.
+       By focusing on building INSTAT capacity through the roll-out of core statistical products, the
+       project contributed to building not only technical skills but also human resources
+       management, project organization, and financial management, as INSTAT management
+       was responsible for project implementation.
+      Project teams need to be agile to quickly adapt to changing contexts while maintaining focus
+       on identified critical data gaps. In this case, the census, which was central in the hierarchy of
+       all statistical products, was successfully completed despite several challenges, albeit at the
+       expense of other planned outputs.
+
+IEG adds the following lessons:
+
+      The learning process needs to be accompanied by significant training, coaching, and
+       ongoing technical support. In addition to technical experts, for example, the project had
+       country office experts providing ongoing training and advice on an “as-needed“ basis. The
+       IMF also provided intense technical support for key statistical products.
+      Parallel progress on institutional reform is necessary to sustain results from capacity building
+       interventions. The lack of reform of INSTAT management and organization now poses a
+       significant threat to sustainability by reducing coordination and accountability mechanisms
+       and endangering INSTAT statistical capacity.
+
+
+
+                                                                                                      Page 14 of 15
+       Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+       MG Statistical Capacity Building (P160071)
+
+
+
+        Sustainability also depends on adequate financing. Ensuring/institutionalizing government
+         funding of statistical capacity building projects should be a priority.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provides a comprehensive, concise, and candid analysis of the project’s design and implementation
+processes. The ICR provides a clear account of the implementation of the project, sources of changes, and the
+rationale and consequences of the reallocations undertaken. The discussion around efficacy adequately
+highlights achievements not covered by results indicators, and presents additional information collected,
+especially on statistical dissemination, to support the ratings on efficacy. The ICR provides a highly useful
+overview of key factors that affected implementation and outcome (positively or negatively) and summarizes
+these in a salient (non-standard) table, drawing logical lessons learned from each factor, and recommendations
+going forward. However, the analysis of “lessons learned” could have benefitted from focusing even more on
+higher-level findings with implications for other projects and institutions. Some key information on final financial
+contributions is also missing, although this reflects weaknesses in project M&E.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                      Page 15 of 15
+

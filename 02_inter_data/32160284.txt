@@ -1,0 +1,834 @@
+     Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+     Ethiopia Statistics for Results Project (P147356)
+
+
+
+                                                                                         Report Number: ICRR0022114
+
+1. Project Data
+
+
+
+ Project ID                                    Project Name
+ P147356                                       Ethiopia Statistics for Results Project
+
+ Country                                       Practice Area(Lead)
+ Ethiopia                                      Poverty and Equity
+
+
+ L/C/TF Number(s)                              Closing Date (Original)                   Total Project Cost (USD)
+ TF-17115,TF-A5617                             30-Jun-2019                                           15,428,227.53
+
+ Bank Approval Date                            Closing Date (Actual)
+ 30-May-2014                                   30-Sep-2019
+
+                                               IBRD/IDA (USD)                                       Grants (USD)
+
+ Original Commitment                                15,500,000.00                                    15,500,000.00
+
+ Revised Commitment                                 15,428,227.53                                    15,428,227.53
+
+ Actual                                             15,428,227.53                                    15,428,227.53
+
+
+
+
+ Prepared by                   Reviewed by                   ICR Review Coordinator            Group
+ Igor Pejovic                  Judyth L. Twigg               Malathi S. Jayawickrama           IEGEC (Unit 1)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Program Development Objective (PDO) of the project was to enhance the capacity of the Central
+   Statistical Agency at the organizational, human, and physical levels in order to produce and disseminate
+   reliable, accessible, and timely statistics. The statement of the PDO in the Project Appraisal Document (PAD,
+   p. 8) is the same as in the Grant Agreement (May 12, 2014, p. 5).
+
+
+
+
+                                                                                                       Page 1 of 16
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Ethiopia Statistics for Results Project (P147356)
+
+
+
+   Although some key outcome targets were revised at a 2017 restructuring, the adjustments did not impact
+   efficacy ratings. A split rating is therefore not performed.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  15-Jun-2017
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component 1: Organizational and Infrastructure Capacity Development in the National Statistical
+   System (NSS) (US$4.90 million at appraisal, US$7.80 million during Additional Financing (AF), and
+   US$11.90 million actual) was to improve organizational performance, staff productivity, and data
+   accessibility by strengthening planning and physical infrastructure at the Central Statistical Authority (CSA).
+
+   Component 1 had three sub-components:
+
+   - Organizational Strengthening: This sub-component aimed at enhancing institutional management and
+   logistical capacity at the CSA, through: (i) strategic planning and visioning exercises for the introduction of
+   improved management and administration systems in the CSA, and technical assistance to strengthen the
+   national account statistics; (ii) upgrade of office space at the headquarters; and (iii) executive development
+   training, peer-to-peer learning, and knowledge sharing with sister institutions for CSA and NSS stakeholder
+   staff.
+   - Physical Infrastructure: This sub-component aimed at enhancing staff productivity in the CSA by improving
+   working conditions. It was to support construction and furnishing of four of the 25 branch office buildings
+   that the CSA has planned to build in the next few years to introduce new work methods, organizational
+   design and information technology (IT) systems.
+   - Information and Communication Technology (ICT) Infrastructure, Systems and Tools for Data Production
+   and Management: The objective of this sub-component was to modernize data collection, data entry and
+   storage, data analysis, and dissemination capacity in the CSA, accomplished through provision of a data
+   center, video conferencing equipment and infrastructure, and the latest survey technology and institutional
+   management tools.
+
+   Component 2: Statistical Data Development and Management (US$1.5 million at appraisal, US$3.20
+   million during AF, and US$1.63 million actual) was to strengthen the quality of statistical data production,
+   compilation, and validation, including preparatory activities and technical assistance to help undertake
+   selected National Statistical Development Strategy (NSDS) priority surveys.
+
+   Component 2 had five sub-components:
+
+
+                                                                                                     Page 2 of 16
+  Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+  Ethiopia Statistics for Results Project (P147356)
+
+
+
+- Development of Business Statistics: This sub-component aimed to strengthen the CSA’s statistical
+capacity in the area of business statistics, which combined various resources from relevant national and
+regional agencies. The project was to finance: (i) the design of a comprehensive business register that
+integrates data sources; (ii) the pilot computerization of the register and development of mechanisms to
+remove duplicates; (iii) the development of bridge tables to reclassify the register entries to the International
+Standard Industrial Classification; and (iv) the set-up of a system that regularly updates the business
+register and caters to changes in the status of business entities.
+- Development of Mining, Energy, Construction, and Transport Sector Statistics: The objective of this sub-
+component was to narrow the gap in data needed for national accounts. The project was to finance: (i)
+design of survey instruments (e.g. sampling frames, questionnaires, manuals, etc.) to help consolidate and
+reveal data gaps in national accounts; and (ii) training of statistical staff and officials.
+- Support for Planning and Development of the Next Agricultural Census: The sub-component aimed to
+support the preparatory activities of the agricultural census in 2014-2015. It was to finance: (i) preparatory
+planning workshops for the next agricultural census; (ii) design of survey instruments (e.g. sampling frames,
+questionnaires, manuals, etc.); (iii) piloting of new methods for data collection; and (iv) research studies on
+“standard and non-standard” units in estimation of area and production, among other areas.
+- Improving Coverage and Quality of the Annual Agricultural Sample Survey (AGSS): This sub-component
+aimed to develop and test a survey methodology to expand the coverage of AGSS in pastoral areas (Afar
+and Somali regions). It was to finance: (i) piloting of new methods in selected pastoral areas; (ii)
+implementation of Computer-Assisted Personal Interviewing in selected AGSS enumeration areas; and (iii)
+field staff training.
+- Planning and Compilation of Vital Statistics: This sub-component aimed at laying the foundation for long-
+term development of vital registration systems in the regions, as outlined in the approved Vital Statistics
+Law. The NSDS had already made plans for a review and implementation of the system by the CSA in
+collaboration with regional governments. This component was to finance technical assistance in the areas
+of instrument design and building CSA’s vital statistics data management and analytical capacity.
+
+Component 3: Statistical Methodology, Standards and Data Quality Assurance and Information
+Dissemination (US$1.90 million at appraisal, US$2.40 million during AF, and US$0.41 million actual) was
+to promote, sensitize, and implement the Data Quality Assurance Framework Standard (EDQAF) prepared
+by the CSA for the NSS, and to support improvements in services for users, including dissemination of
+regular statistical publications produced by both the CSA and its key ministries, departments, and agencies
+(MDAs) as per the release calendar, and to promote statistical education of citizens and non-governmental
+organizations.
+
+Component 3 had two sub-components:
+
+- Statistical Methodology, Standards and Data Quality Assurance. This sub-component was to support
+development of the DQAF-E. It was to finance: (i) educational and outreach materials for use at the CSA
+training center to be set up under the project; (ii) organizing “specialized” short- and long-term educational
+statistical courses and study visits for CSA and partner MDA staff on select data quality assurance topics
+(e.g. survey methods, poverty mapping techniques, gender analysis of household surveys, data production
+priorities); (iii) assistance to the Household Consumption & Expenditure Survey and Welfare & Monitoring
+Survey; and (iv) technical assistance to improve the quality of poverty mapping and gender statistics and
+analysis.
+- Information Dissemination: The aim of the sub-component was to support improvements in services for
+users. It was to finance: (i) stakeholder analysis, including development of a user satisfaction index,
+and training and communication support (e.g. via web, media, radio); (ii) upgrades to the CSA library and
+
+                                                                                                    Page 3 of 16
+    Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+    Ethiopia Statistics for Results Project (P147356)
+
+
+
+  open web portal, to enable civil society, NGOs, researchers, and the private sector to access the CSA and
+  NSS data for policy making, investment decisions, or research purposes; (iii) publication of flagship
+  statistical reports and documents produced by the CSA to build the CSA brand; and (iv) the launch of an e-
+  CSA mobile education office by identifying and training appropriate staff, offering adequate per diems, and
+  procuring a vehicle (air-conditioned bus or similar transport) equipped with multi-media and ICT tools, as
+  well as relevant statistical education materials and publications, for visits to educational institutions,
+  libraries, municipalities, Woredas, and other locations.
+
+  Component 4: Monitoring and Evaluation (US$1.70 million at appraisal, US$2.10 million during AF, and
+  US$1.49 million actual) was to strengthen the monitoring and evaluation capabilities of the CSA with
+  respect to the NSDS and the project's coordination and fiduciary requirements, including Environmental and
+  Social Management Framework (ESMF) implementation. It was to finance consultations for the
+  development of the next NSDS, provide technical assistance to strengthen the national account statistics,
+  and support M&E of the country's Growth and Transformation Plan (GTP) and GTP2. The component was
+  also to support Statistics for Results project management activities, including ESMF implementation
+  requirements and price contingency. As part of this component, parallel financing was provided by UK
+  Department for International Development for a period of three years to fund an in-country statistician to
+  serve as an advisor to the Director General CSA and support work with the Donor Working Group.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  The project was approved on May 30, 2014. It was to be financed through a US$10 million grant by the
+  Statistics for Results Catalytic Fund (SRF-CF). The project became effective on June 13, 2014. An AF from
+  SRF-CF of US$5.5 million was approved on February 26, 2018. Both grants were fully disbursed and closed
+  on February 28, 2019. The borrower had no part in the financing of the project.
+
+  The project underwent three restructurings to extend the project closing date, to revise the results
+  framework, and to reallocate funds between components due to AF. The AF helped strengthen CSA
+  capacity in IT systems and tools for data dissemination. Component 2 was changed to support for social,
+  poverty, and price statistics. In terms of project financing, although the AF allocated additional funds to all
+  four components, actual spending increased only for the first component.
+
+  The first restructuring, approved on June 15, 2017, extended the closing date of the initial project by 20
+  months, to February 28, 2019, and revised the results framework. The number of PDO-level indicators was
+  reduced from five to four, some PDO indicators’ target values were adjusted, and the target dates for the
+  PDO and implementation progress (IP) indicators were adjusted to align with the new project closing date.
+
+  The second restructuring, including AF of US$5.5 million, was approved on February 20, 2018. The
+  project’s closing date was extended by four months, from February 28, 2019 to June 30, 2019. This
+  restructuring and AF retained the same PDO, project components, and PDO-level indicators. However, the
+  results framework was revised to monitor progress on the scaled-up and new activities added under the
+  intermediate indicators, and end target dates for both the PDO and IP indicators were adjusted to reflect the
+  additional time for implementation and the new project closing date.
+
+
+  The third restructuring was approved on April 19, 2019 and extended the project closing date from June
+  30, 2019 to September 30, 2019. The results framework end target date was changed to align with the
+
+                                                                                                      Page 4 of 16
+                                        Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                                        Ethiopia Statistics for Results Project (P147356)
+
+
+
+                                      project’s new closing date without any change in target values.
+
+
+
+
+   3. Relevance of Objectives
+
+               Rationale
+               During project appraisal, the Government of Ethiopia (GoE) was implementing an ambitious GTP 2010/11–
+               2014/15, which set a long-term goal of becoming a middle-income country by 2023, with growth rates of at
+               least 11.2% per year during the planned period. To achieve the GTP goals and objectives, the GoE
+               followed a "developmental state" model with a strong role for the government in many sectors of the
+               economy. It prioritized key sectors, such as industry and agriculture, as drivers of sustained economic
+               growth and job creation. The GTP identified sectoral targets and strategies to enhance economic growth
+               and achieve medium and long-term objectives. The development strategy highlighted the importance of
+               data to track and monitor achievement of targets underlined in the plan.
+
+               The PDO is highly relevant to the World Bank’s Country Partnership Framework at project closing (CPF)
+               (2018–2022). The objective of the CPF is to foster sustainable inclusive growth through job creation and
+               economic transformation. The objective of the project aligns with the objectives stated in the CPF, as
+               enhanced statistical capacity is mentioned in several places within the document (p. 42), and the CPF
+               Objective 3.3 coincides with the project’s objective. At completion, the PDO remained highly relevant and
+               aligned to the country’s development priorities, as indicated in NSDS II (2015/16 to 2019/20), which calls for
+               improved data for policy decision making.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             Enhance the capacity of the Central Statistical Agency (CSA) at the organizational, human, and physical
+                             levels in order to produce and disseminate reliable statistics
+
+                             Rationale
+                             As demonstrated in the ICR's reconstruction of the project's theory of change (p. 8, Figure 1), the project
+                             intended to provide an integrated package of support to the NSS focusing on the CSA and selected MDAs to
+                             build capacity, both human capital and physical and statistical infrastructure. It envisioned that project support
+
+                                                                                                                                      Page 5 of 16
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   Ethiopia Statistics for Results Project (P147356)
+
+
+
+would contribute to a longer-term outcome of a strengthened NSS with an enhanced capacity to provide
+accessible, timely, and reliable statistics relevant for evidence-based policy making.
+
+
+Reliability. This objective was to be achieved through short- and long-term training of CSA and NSS staff;
+the introduction of software, systems, and tools for data production and management; establishment of a
+business registry database; and the improvement of a data quality assurance framework standards through
+assistance and training.
+
+Outputs
+
+Six new branch office buildings were made operational, achieving the target. A new conference hall and
+training center was established and made operational at CSA headquarters. A Statistical Business Register
+system was developed and made operational. The project planned to directly support eight surveys, out of
+which six surveys were supported. Of 534 planned female CSA and MDA staff to be trained on specialized
+quality assurance topics including EDQAF, survey methods, poverty mapping techniques, and the gender
+analysis of household surveys, the actual number of women who received training was 542, exceeding the
+target. Three user satisfaction survey reports were planned, and all of them were carried out. All of the
+planned 2,944 CSA and MDA employees who were to be trained annually on areas of organizational
+management, IT, and statistics received this training. Of these, 719 of the planned 765 were women.
+
+Through the implementation of EDQAF, which was achieved, statistical information generated from line
+ministries is now assessed, among others, for quality, relevance, accuracy and timeliness. Furthermore,
+implementation of EDQAF is expected to identify the critical bottlenecks affecting the quality of data.
+
+
+Outcomes
+
+Indicator 1: Number of key NSS members who have applied the EDQAF (Target: 5. Actual: 5). This target
+was fully achieved, as all the key members (Ministry of Agriculture, Education, Health, Road, and Water
+Resources) have applied the EDQAF.
+
+Indicator 2: Percentage of users who are satisfied with official statistics methodologies as determined by the
+user satisfaction survey (Target: 97%. Actual: 80%). After the first restructuring, the end target value was
+reduced from 100 percent to 97 percent. This target’s achievement, expressed in percentage, is 82.5%.
+The reason for some shortfall in this target was the preparation work for the Population and Housing Census,
+which was postponed several times and forced the CSA to cancel several planned activities.
+Even though the user satisfaction target was not met, the targeted number of agencies adopted and started
+applying the EDQAF manual, which is sufficient for a Substantial rating of this objective.
+
+The overall rating for Objective 1 is substantial.
+
+
+
+
+Rating
+
+
+                                                                                                 Page 6 of 16
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   Ethiopia Statistics for Results Project (P147356)
+
+
+
+Substantial
+
+
+OBJECTIVE 2
+Objective
+Enhance the capacity of the Central Statistical Agency (CSA) at the organizational, human, and physical
+levels in order to produce and disseminate accessible statistics
+
+Rationale
+Accessibility. This objective was to be achieved by supporting information dissemination and statistical
+awareness activities, including user satisfaction surveys, and through developing physical infrastructure (i.e.
+offices, conference centers, and training centers) as well as by improving the CSA online systems.
+
+Outputs
+
+Six new branch office buildings were made fully operational, achieving the target. A conference hall and
+training center were established and made operational at CSA HQ, as planned. CSA websites were made
+user-friendly. Six of the planned eight video conference centers were established.
+
+Outcomes
+
+Indicator 1: Percentage of users who are satisfied with the accessibility of official statistics as determined by
+the user satisfaction survey (Target: 97%, Actual: 80%). This target’s achievement, expressed in
+percentage, is 82.5%. The shortfall was because the preparation work for the Population and Housing
+Census, which had been postponed several times, forced CSA to cancel several planned activities, which
+likely reduced the level of achievement for this indicator. The end target value was increased from 85% to
+97% after the first restructuring of the project.
+
+The activities implemented by the project contributed to an increase in the level of accessibility as more
+offices were built and the CSA websites were made more user-friendly, but the way in which the achievement
+of this objective was measured is questionable. Instead of using the user satisfaction surveys, some other
+methods might have been preferable, i.e. completeness of portals, etc. As this information is missing and the
+target for user satisfaction was only partially achieved, this objective has a Modest rating.
+
+The overall rating for Objective 2 is Modest.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 3
+Objective
+Enhance the capacity of the Central Statistical Agency (CSA) at the organizational, human, and physical
+levels in order to produce and disseminate timely statistics
+
+Rationale
+
+                                                                                                     Page 7 of 16
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                Ethiopia Statistics for Results Project (P147356)
+
+
+
+                            Timeliness. This objective was to be achieved through training of CSA and NSS staff, among other things,
+                            for statistical data production; establishing and developing the Statistic Business Register; and supporting the
+                            NSDS II.
+
+                            Outputs
+
+                            Six surveys were directly supported by the project, as planned. The project also supported finalization
+                            and approval of the NSDS II. When it comes to the number of people trained 198 people were trained in
+                            areas of statistical data production, not meeting the target of 387.
+
+                            Outcomes
+
+                            Indicator 1: Percentage of execution rate of annual statistical release calendar (Target: 75%, Actual: 71%).
+                            Target was substantially achieved by 94.7%. Percentage of execution rate (dissemination) was analyzed
+                            through the number of activities implemented within a year. The dissemination activities included info graphic
+                            competitions and statistical awareness activities on television, radio, and other media. The preparatory
+                            activities under the planned Population and Housing Census occupied most of the CSA’s resources, including
+                            the yearly activities that were planned under the annual statistical release calendar, producing the minor
+                            shortfall.
+
+
+                            The project helped to achieve this objective with adequate activities and, despite missing the targeted number
+                            of trained staff, therefore impacting the level of capacity building achieved within the CSA, it still greatly
+                            contributed to the overall achievement of this objective through a considerably high execution rate of the
+                            annual statistical release calendar.
+
+                            The overall rating for Objective 3 is Substantial.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            At project completion, out of the four PDO-level indicators, one was fully achieved, namely number of key
+                            NSS members who have applied the EDQAF manual, and two PDO-level indicators were substantially
+                            achieved. The way in which some of the achievements were measured could have been improved by having
+                            a more precise and relevant indicator and by providing more information, thus better explaining the
+                            achievement of objectives. The user satisfaction survey could have focused more on tangible aspects related
+                            to the level of services provided by the CSA instead of measuring the target through how satisfied the users
+                            were with the official statistical methodology. Another example where the indicator should have been phrased
+                            in a way which would have assessed the target achievement is the one related to the percentage of execution
+                            rate of annual statistical release calendar. This indicator was supposed to track the progress made in terms of
+
+
+                                                                                                                              Page 8 of 16
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Ethiopia Statistics for Results Project (P147356)
+
+
+
+  increasing the CSA’s capacity but measuring the achievement of this target would have been better if the
+  number of dissemination activities was the indicator. Additionally, there were some minor and some
+  substantial discrepancies between the planned and achieved output targets, but this did not jeopardize the
+  overall accomplishment of objectives. The planned outputs were designed in a way which contributed to the
+  overall achievement of objectives. In addition, the Ethiopia Statistical Capacity Index increased over the
+  project period, from 61.11 in 2014 to 72.22 in 2018 (ICR, p. 5). With this improvement likely attributable, at
+  least in part, to project activities, and with two objectives rated Substantial and one rated Modest,
+
+  Overall efficacy is rated Substantial.
+
+
+
+  Overall Efficacy Rating
+  Substantial
+
+
+
+ 5. Efficiency
+The project was not amenable to financial analysis because national statistical agencies have very limited
+opportunities to recover the costs of data collection and analysis. National statistics are generally considered a
+public good and are usually financed from government revenue. The type of investments implemented by the
+CSA covered the essential aspect of its mandate, which is data production and dissemination. CSA had utilized
+99.5% of the budget allotted for the project by the end of September 2019 (at project closing). The budget
+utilization shows that there was disproportionate use of funds across components compared with the initially
+planned budget. Some components ended up receiving far more funds whereas funds for others were reduced.
+ICR Annex 4 shows the actual cost of each component at project closing compared with the amount after the AF
+and restructuring. There were several reasons for this: some activities were ambitious, some were understated
+in the PAD, and others could not be implemented due to the country’s regulatory framework, for example, open
+data portal development.
+
+Even though there were good reasons for restructuring the project three times (to extend the project closing
+date, to revise the results framework, to reallocate funds between components due to AF), this still affected the
+efficiency of project implementation. Moreover, there were several issues that hindered project implementation.
+One of the biggest problems was related to the procurement process, mainly due challenges in preparing
+specifications, Bill of Quantities, and terms of reference for complex activities. During the meeting with the TTL
+he stated: During the AF preparation, a procurement capacity assessment of the CSA-PIU was carried out. The
+assessment found that the CSA-PIU had experience in implementing World Bank-financed projects and it is the
+reason why the last two branch offices were constructed in a more time-efficient and well contracted procedure.”
+However, this should have been done before the start of the project.
+
+There was also the issue of missing or inadequate documentation related to some decisions made during
+procurement processes. During the meeting between IEG and the TTL, the TTL said the following:
+“Procurement risk of the CSA was thoroughly assessed at appraisal and rated High in the PAD. As a result,
+action plans were prepared to mitigate risks. In addition, the World Bank provided periodic training to the project
+implementing team particularly on procurement and Financial Management. However, frequent staff turnover
+
+
+
+
+                                                                                                      Page 9 of 16
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      Ethiopia Statistics for Results Project (P147356)
+
+
+
+due to low salary levels limited the ability of CSA-PIU to apply agreed procurement procedures and led to delays
+in procurement activities.”
+
+In addition, local suppliers were sometimes slow which led to some bids being cancelled, subsequently leading
+to late deliveries of goods or products. According to the ICR one other issue was the shortage of foreign
+exchange which slowed down the procurement process. Finally, during the project period, there were mass
+movements and civil unrest in many parts of the country, which negatively affected the supervision of
+construction activities (ICR, p. 22).
+
+Overall, when relating costs to benefits, the project received 50% more funds than had been planned, but the
+ambition and goals of the project did not increase commensurately. Given this consideration and the
+noted implementation efficiencies, efficiency is rated Modest.
+
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                 Rate Available?           Point value (%)           *Coverage/Scope (%)
+                                                                                     0
+ Appraisal                                                  0
+                                                                                      Not Applicable
+                                                                                     0
+ ICR Estimate                                               0
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+With the relevance of the PDO rated High, overall efficacy rated Substantial (with substantial achievement of
+two objectives and modest achievement of one objective), and efficiency rated Modest, the outcome of the
+project is rated Moderately Satisfactory, consistent with overall moderate shortcomings.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+There is a risk that, after project closure, there will be a financing gap in relation to repair and maintenance
+expenses of infrastructure investments, including the newly built six branch offices, headquarters conference
+
+                                                                                                     Page 10 of 16
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Ethiopia Statistics for Results Project (P147356)
+
+
+
+center, training center and its renovated library, and ICT improvements, as well as the regular user
+satisfaction surveys that had been conducted with the support of the project. Continued support for CSA will
+be provided through its role as a primary verification agent for the Bank's Enhancing Shared Prosperity
+through Equitable Services project (US$ 600 million, 2015-2023). One other potential risk was heard from
+the project TTL: “However, there remain issues related to unstable connections, and further improvements in
+connectivity are required to make the video conferencing facilities 100% functional and reliable.” This is an
+issue which cannot be solved quickly as the internet quality in the country is quite poor and it will mostly
+affect the capacity building and the share of knowledge within the CSA. As part of sustainability, Enhancing
+Shared Prosperity through Equitable Services (ESPES) project will continue financing CSA on indented
+project activities (ICR p. 26, par 86).
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The project design reflected the strong interest and commitment of the government (including the CSA,
+  MDAs, and NSS members) to improve the provision of reliable and timely statistical data. The project was
+  strategically relevant as it was aligned with the GTPII priorities and was closely related to the goals
+  outlined in the World Bank’s 2013–2016 Country Partnership Strategy. Its design aimed to support NSDS
+  I, which was expected to provide the relevant indicators to be used in formulating, updating, monitoring,
+  and evaluating the strategies and targets of the country’s social and economic development programs.
+  Therefore, the project design reflected the government's strong interest and commitment to address the
+  demand for statistical information in the country. The technical design of the project was based on a
+  detailed institutional analysis of CSA and the related entities comprising the NSS. The Bank’s
+  procurement and technical experts reviewed specifications for construction works, purchase of computing
+  and communications equipment, business process re-engineering plans, and human resource training
+  needs. However, they failed to consider frequenting staff turnover due to low salaries, as well as the lack
+  of capacity within the PIU.
+
+  However, the project may have benefited from a more detailed and precise results framework that clearly
+  reflected the outputs of the project (to measure the project’s progress) including its immediate, short-
+  term, and long-term outcomes. Additionally, during the initial year, the project encountered start-up
+  challenges related to procurement planning, the setup of the Project Implementation Unit (PIU), and
+  internet connectivity (ICR, p. 21). There were also delays in site allocation for the construction of the first
+  four new branch offices.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ Supervision of the project was instrumental in the achievements that the project made by closure. All three
+ restructurings and AF were necessary to help achieve the project objectives. The Bank’s technical
+
+                                                                                                      Page 11 of 16
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Ethiopia Statistics for Results Project (P147356)
+
+
+
+ specialists who helped design the project continued supporting the project to ensure timely completion of
+ ICT, physical infrastructure, and capacity improvement tasks, and their successful implementation to
+ support statistical data production and dissemination (ICR p. 25, par 79). However, the ICR doesn’t present
+ any evidence to support such a claim. The team provided hands-on support by sharing knowledge on how
+ similar project activities are generally managed in Ethiopia and other countries. For example, info-graphic
+ competitions were started in Ethiopia, learning from a similar dissemination activity conducted in Rwanda.
+ Introduction and implementation of ICT in survey activities were also conducted through strong World Bank
+ guidance and support. The World Bank ensured that project implementation was carried out according to
+ the project specifications spelled out in the project funding agreements. As evidenced by Implementation
+ Status and Results Reports (ISRs), the World Bank team conducted regular supervision missions and
+ made efforts to resolve many of the issues following project implementation delays while correctly
+ identifying the need to revise the results framework to improve the recording of project accomplishment
+ and tracking of project progress. Most of the World Bank team was present in the country and therefore
+ was able to provide continuous, timely support and follow up with project implementation (ICR, pp. 25-26).
+ The TTL gave some additional information related to the issue of construction works and administrative
+ work accompanying those works: “The World Bank assessed the performance of CSA-PIU and
+ recommended mitigation for challenges that kept arising during the construction implementation. The
+ technical team frequently visited construction sites and provided technical operational recommendations on
+ next steps for administration. However, the low capacity of contractors and contractors not delivering as
+ promised is a country wide problem and persisted throughout the project’s duration, without this being
+ related to PIU capacity. Changing contractors in the middle of a construction could have extended the
+ project's duration and risk of a worsened delivery. Low salary of the project management team also led to
+ staff turnover, leading previously hired procurement specialists to change positions when they receive a
+ better paying contract elsewhere. The World Bank team should have prepared for this scenario before the
+ beginning of the project so that this issue could be avoided. The strong follow-up and assistance of the
+ World Bank team helped the client alleviate most of the construction challenges that arose during
+ construction. All branch offices were finally delivered on time, and all new buildings are now operational.”
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ Some of the indicators in the original results framework lacked baseline data and/or realistic targets. As a
+ result, it was difficult to monitor project implementation progress in the early stages of the project. After the
+ first project restructuring, PDO and IP-level indicators had clear target values and M&E became more
+ systematic. Despite the fact that the project went through three restructurings some of the indicators
+ remained inadequate in terms of how well they could track the achievement of the objective, and they
+ should have been phrased differently.
+
+
+                                                                                                       Page 12 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Ethiopia Statistics for Results Project (P147356)
+
+
+
+
+ CSA was the responsible institution for M&E, and its key staff, as well as MDA statisticians, had good
+ professional and analytical capacity. When it comes to the issue of causation between the project’s
+ activities, outputs, and outcomes, the M&E design was adequate.
+
+
+
+b. M&E Implementation
+  The PIU regularly produced progress reports summarizing recent developments, including information on
+  budget, capacity building, data production and dissemination, and procurement and financial
+  management (ICR p. 21, par 59). However, these reports were not a part of the ICR and no link with
+  them was made. Such reports emphasized key implementation challenges and provided status updates
+  on all issues, recommendations, and progress on actions agreed at previous implementation support
+  missions through ISRs and aides-memoire.
+
+
+
+c. M&E Utilization
+  Project M&E data and analysis was used to adjust the project at the first restructuring and the AF.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   As the environmental and social impacts of the proposed project activities were insignificant, the project was
+   rated Category B for environmental purposes. The project entailed the construction and rehabilitation of
+   select CSA offices and, in this respect, triggered World Bank safeguard policy OP/BP 4.01 on
+   Environmental Assessment. Only a few (about four) CSA branch offices were constructed, and they had
+   moderate office space requirements (e.g. for about 15 professionals and 70 other staff members. To ensure
+   the minimization of any negative impacts, the CSA prepared an Environmental and Social Management
+   Framework. Among other things, an environmental clause for construction contractors was annexed with
+   the construction contract agreement and signed by the contractors, so that the guideline could be legally
+   binding and so that the constructors could take mitigation measures as per the environmental clause. The
+   branch offices regularly monitored the implementation of mitigation measures. However, the contractors did
+   not formally report to the branch offices about actions taken in compliance with the requirements of the
+   environmental clause. No occupational health or safety incidents and no outstanding environmental
+   safeguards issues were reported or recorded during the implementation of the project. Therefore, overall
+   social safeguard implementation and compliance was rated Satisfactory in the ICR (p. 23).
+
+
+
+
+                                                                                                   Page 13 of 16
+       Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+       Ethiopia Statistics for Results Project (P147356)
+
+
+
+b. Fiduciary Compliance
+   The information provided in the ICR on fiduciary issues is incomplete, particularly regarding financial
+   management dimensions. The ICR mentions that there were five external audit reports produced (ICR, p.
+   14), but it does not say whether they were qualified. In a meeting between IEG and the project TTL, the
+   TTL said: “Audits were periodically conducted, and the project was audited five times over the period. The
+   auditors in the final audit also issued a clean report, and the copy of that report together with the
+   management report was duly submitted to the World Bank Country Office by the Central Statistics Office.”
+
+   There were moderate procurement challenges, as outlined in Section 5.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   None reported.
+
+
+
+d. Other
+   -
+
+
+
+11. Ratings
+                                                                                     Reason for
+Ratings                             ICR                    IEG
+                                                                                     Disagreements/Comment
+                                                                                     Two objectives were
+                                                                                     substantially achieved, one was
+Outcome                             Satisfactory           Moderately Satisfactory
+                                                                                     modestly achieved, and
+                                                                                     efficiency was modest.
+                                                                                     Quality at Entry was Moderately
+Bank Performance                    Satisfactory           Moderately Satisfactory   Satisfactory and Supervision
+                                                                                     was Satisfactory.
+Quality of M&E                      Substantial            Substantial
+
+Quality of ICR                      ---                    Modest
+
+
+12. Lessons
+
+The lessons in the ICR (pp. 26-27) are deemed appropriate and precise.
+
+a) Having client commitment, ownership, and accountability around a strengthened NSS is key for
+the achievement of results. The CSA has demonstrated a high level of commitment to statistical
+development. In this case, there was: (a) a continued understanding of project objectives and
+support for its success, related decision making, and management of the project; (b) a clear
+understanding of how the project was helping in development of the institution; and (c) a deeper
+
+                                                                                                      Page 14 of 16
+       Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+       Ethiopia Statistics for Results Project (P147356)
+
+
+
+knowledge of the broad sector reform process.
+
+b) Without proper follow-up and oversight of achieved project results, there is risk to their
+sustainability. Risks might be a consequence of insufficient government funding after the project
+completion, lack of facility maintenance, inadequate or no professional training for staff, etc.
+
+In addition, IEG lists these closely related lessons:
+
+a) Having a significant presence of the World Bank team in the country in which a project is being
+implemented greatly contributes to the success of a project.
+
+b) The capabilities and experience of any institution responsible for the implementation or
+organization of some activity need to be assessed beforehand in order to avoid any issues that
+might hinder the achievement of objectives. In this case, the PIU had insufficient experience in
+managing procurement processes.
+
+c) If any project outcome targets or objectives depend on the quality of internet connection, this
+needs to be taken into account, and measures should be taken to either increase internet quality or
+find a way to work around the issue. In this case, the poor internet connection greatly affected staff
+training and slowed down procurement processes. The issue of internet speed and reliability is of
+particular importance for projects in developing countries.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is clearly written and concise. It is candid and critical. However, it fails to mention and address some of
+the critical aspects of the project. The discussion on the assessment of the achievement of outcomes is too
+short, as is the discussion on efficiency. The ICR does not mention the quality of the evidence and whether it is
+sufficient to assess the achievement of objectives. It also fails to give a detailed account of the causes behind
+some of the issues related to procurement procedures and construction works. Additionally, more detail would
+have been preferable when it comes to fiduciary matters. The project received AF in order to scale up project
+activities, but the ICR does not state which specific activities were scaled up. Due to these shortcomings, the
+ICR quality is rated Modest.
+
+
+
+  a. Quality of ICR Rating
+       Modest
+
+
+
+
+                                                                                                     Page 15 of 16
+Independent Evaluation Group (IEG)                  Implementation Completion Report (ICR) Review
+Ethiopia Statistics for Results Project (P147356)
+
+
+
+
+                                                                                 Page 16 of 16
+

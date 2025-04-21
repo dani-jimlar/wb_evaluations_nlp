@@ -1,0 +1,821 @@
+     Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+     BD Ghorashal Unit 4 Repowering Project (P128012)
+
+
+
+                                                                               Report Number: ICRR0024084
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P128012                                   BD Ghorashal Unit 4 Repowering Project
+
+ Country                                   Practice Area(Lead)
+ Bangladesh                                Energy & Extractives
+
+
+ L/C/TF Number(s)                          Closing Date (Original)              Total Project Cost (USD)
+ IDA-57580                                 31-Mar-2022                                       181,741,472.08
+
+ Bank Approval Date                        Closing Date (Actual)
+ 21-Dec-2015                               30-Sep-2023
+
+                                           IBRD/IDA (USD)                                    Grants (USD)
+
+ Original Commitment                          217,000,000.00                                             0.00
+
+ Revised Commitment                           185,264,026.34                                             0.00
+
+ Actual                                       181,741,472.08                                             0.00
+
+
+
+
+ Prepared by                Reviewed by                  ICR Review Coordinator        Group
+ Fernando Manibog           Christopher David            Ramachandra Jammi             IEGSD (Unit 4)
+                            Nelson
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objective (PDO) was “to increase generation capacity and efficiency of the targeted
+   power plant.” (Financing Agreement dated April 7, 2016, Schedule 1)
+
+   The PDO statement is the same in the Project Appraisal Document (PAD) and the Implementation
+   Completion and Results Report (ICR).
+
+
+
+                                                                                                Page 1 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     BD Ghorashal Unit 4 Repowering Project (P128012)
+
+
+
+   For the purposes of this IEG ICR Review, the PDO will be assessed as follows:
+
+   Objective 1: to increase the generation capacity of the targeted power plant
+
+   Objective 2: to increase the efficiency of the targeted power plant.
+
+   The PDO, the theory of change, and the PDO-level outcome indicators were not modified during project
+   implementation. Consequently, a split rating is not required.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component 1: Repowering of the Target Unit
+
+   (Total estimated cost at appraisal of US$255 million, of which IDA US$210 million; the actual cost is
+   US$219.95 million per the ICR, Annex 3)
+
+   This component financed all the required plant equipment and auxiliaries, design, and installations services
+   for the full repowering of Unit 4 including a 239MW GE gas turbine to allow conversion of the existing steam
+   unit to a combined cycle unit. The component did not cover the works on the existing steam turbine as
+   major overhauling works were carried out, including repair and replacement of key turbine parts/blades,
+   during the preparation of the project in 2015.
+
+   Component 2: Technical Assistance for Institutional Strengthening Support
+
+   (Total estimated cost at appraisal of US$8 million, of which IDA US$7 million; the actual cost is US$3.95
+   million per the ICR, Annex 3)
+
+   This component financed an Owner’s Engineer (implementation support consultant) to ensure effective
+   management, monitoring and quality assurance of the design, engineering and construction and the initial
+   operation of the repowered plant. This component also focused on capacity building and automation of
+   BPDB’s financial reporting system. The TA also was used to hire individual consultants to support PMU and
+   GPS in areas of environmental and financial management and other areas as needed.
+
+   Although not in the PAD, the ICR mentions a Component 3: Spare Parts, amounting to US$29.10
+   million. With the actual contract offer much lower the original estimate, i.e., US$177 million versus US$210
+   million), a Component 3 was added to cover the initial spare parts from IDA savings under the long-term
+   service agreement (LTSA) for gas turbine maintenance. It was decided at the mid-term review to reallocate
+   about US$24.9 million from those savings from Category 1 to a new Category 3 to enable this procurement.
+
+
+
+
+                                                                                                    Page 2 of 15
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     BD Ghorashal Unit 4 Repowering Project (P128012)
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost. The original total project cost was US$263 million. This amount was revised to US$185.3
+   million when IDA funds were cancelled in March and then in September 2023, at closing. The actual amount
+   disbursed was US$181.7 million.
+
+   Financing. IDA financed the total actual project cost.
+
+   Borrower Contribution.. At appraisal, the Borrower committed to contribute US$46 million The Borrower’s
+   actual contribution was about US$14 million through payments of taxes and duties and VAT.
+
+   Dates. The project was approved on December 21, 2015 and declared effective on May 15, 2016. A
+   midterm review was conducted on April 7, 2019. The original closing date was March 31, 2022. With an
+   extension of 18 months, the actual closing date was September 30, 2023.
+
+   Restructuring Events. The project was restructured five times, as follows:
+
+   November 2021: The first restructuring extended the closing date by nine months due to a delay in
+   commissioning the combined cycle plant to allow for additional work to fix the shaft vibration in the steam
+   turbine, and delays resulting from the COVID 19 pandemic. A new component was added for the
+   procurement of initial spare parts under the long-term service agreement (LTSA), for which IDA Credit
+   savings were reallocated. The technical assistance for automating BPDB’s financial reporting was removed
+   to avoid duplication with another government-funded project.
+
+   October 2022: The second restructuring reallocated US$4 million to accommodate the conversion rate
+   fluctuations between SDR and USD.
+
+   December 2022: The third further extended the closing date by nine months due to the delay in completing
+   the additional works to fix the shaft vibration in the steam turbine, which was needed prior to commissioning
+   of the combined cycle plant.
+
+   March and September 2023: The 4th and 5th restructuring the cancellation of IDA proceeds. US$10 million
+   from the savings was first cancelled; then US$21.92 million was also cancelled that was expected to be
+   paid to the contractor after achieving the guaranteed output in combined cycle, at closing. When the Bank
+   exited from the project, BPDB agreed to pay this amount from their own resources after the contractor has
+   achieved the combined cycle guaranteed output.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and Sector Context. At appraisal, the Bangladesh economy had been performing well, with a GDP
+growth rate that rose from an annual average of 3.7 percent in the 1980s to over 6% since 2010, thus
+moving the country to lower-middle income status in 2015. This growth depended on reliable and affordable
+electricity supply. The government, however, was behind on its generation capacity expansion plans,
+resulting in a major gap of about 3,000 megawatts (MW) between supply and demand, leading to significant
+
+
+                                                                                                   Page 3 of 15
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     BD Ghorashal Unit 4 Repowering Project (P128012)
+
+
+
+load shedding. Over the medium term, the project annual growth rate in electricity demand growth is ten
+percent, i.e., demand will double every seven years.
+
+The project’s strong rationale during the preparation phase remains valid at present. During preparation, the
+relevant sector master plan was the Power Sector Master Plan (PSMP) 2010, which recommended higher
+efficiencies in thermal generation and gas utilization through the re-powering of existing power stations,
+given the prospect of curtailment of natural gas production. For this specific project, repowering of the
+Ghorasal unit would result in reduced per-MW cost by reusing existing auxiliaries, equipment, and site, thus
+avoiding the time and cost for new land development works, resettlement, and related social issues. With
+some modification, the existing gas supply and power evacuation system can also be used. Unlike the
+current power surpluses, the project was also intended to address severe power shortages at that time. The
+project’s longer-term objective was to reduce overall generation costs by commissioning large power
+plants—including the conversion of steam plants to combined cycle—thus enabling the retirement of costly
+liquid fuel plants and the reduction of burdensome government subsidies.
+
+By the 2015 appraisal, with only 310 MW capacity added to the grid due to delays in reaching financial
+closures, the Government of Bangladesh (GOB) contracted about 2,400 MW of rental plants (with terms of
+3 to 5 years) running on expensive liquid fuel. Due to delays in adding base load generation, GOB had to
+renew most of these expensive rental contracts for another term. About 62 percent of power generation was
+based on natural gas and 30% on imported diesel and heavy fuel oil (the balance come from hydro, coal,
+and power imports from India). However, while rich in natural gas resources, gas supply was in deficit of
+around 600 mmcfd due to limited exploration investments and inadequate gas transmission systems.
+
+At appraisal, about 42 percent of the total installed generation capacity was owned by the Bangladesh
+Power Development Board (BPDB), while Private Power Producers (rentals and independent power
+producers) accounted for 43 percent of installed capacity, 4% of the capacity was being imported and the
+rest was held by state-owned corporations. BPDB’s generation infrastructure, however, had not been
+modernized and had a low average efficiency of around 30 percent, or a mere half that of modern gas-
+based combined cycle power plant efficiencies of 60%. Consequently, with gas supplies diminishing, the
+repowering of existing power stations to achieve higher efficiency was included in the 2010 Power Sector
+Master Plan (PSMP).
+
+At present, GOB still relies on private generation at a time when there is an electricity oversupply, i.e., a
+supply of 26 gigawatts (GW) compared to the maximum demand of about 15 GW. This is the result of
+having awarded, around the time of the 2015 appraisal, many private sector-led liquid fuel-based capacity
+with 3- to 5-year terms. GOB is obliged to make capacity payments to these private generators, thus
+obliging BPDB to prioritize running these power plants, despite higher costs. Since this has constrained the
+utilization of public-sector plants, GOB has assumed the financial burden of allocating major subsidies to
+the power sector.
+
+Relevance to Bank and Country Strategies. At the September 2023 project closing, the relevance of the
+PDOs to the World Bank Group’s Bangladesh Country Partnership Framework (CPF) for FY 2023-FY 2027
+remained high. In view of poverty reduction goals, the CPF confirmed the energy sector as the country’s
+main economic driver and a priority investment area of investment. The PDOs have become even more
+highly relevant to the objectives of improving the efficiency in fuel consumption and thereby reducing
+carbon dioxide (CO2) emissions. Thus, the PDOs remain well aligned with the Government’s Power Sector
+Master Plan, which aims to introduce highly efficient power supply and technologies with low CO2
+emissions to move toward a low-carbon society. Through plant modernization, the PDOs are also
+
+
+                                                                                                   Page 4 of 15
+                                      Independent Evaluation Group (IEG)                       Implementation Completion Report (ICR) Review
+                                      BD Ghorashal Unit 4 Repowering Project (P128012)
+
+
+
+               consistent with (i) the Bank’s strategic focus on mitigating climate change impacts and (ii) the ongoing focus
+               on energy efficiency as part of the Global Challenge Program.
+
+               Summary Assessment of the Relevance of Objectives. While the project’s PDOs and level of ambition are
+               appropriately pitched to the country’s level of development, the issue of project timing needs further
+               clarification (e.g., in the context of the Project Performance Assessment Report recommended in Section
+               13) since the issues of excess generation capacity, oversupply of electricity, and merit order dispatch were
+               already looming around the 2015 appraisal, given the number of the quick-rental private suppliers and the
+               renewal of their contracts. The relevance to the Bangladesh economy of balancing electricity supply and
+               demand is high; however, given the need for further assessment to clarify and learn from this timing issue,
+               the relevance of this particular project’s PDOs is rated substantial.
+
+               On the issue of project timing, the Bank team clarified on June 21, 2024, that the demand-supply gap was
+               about 3,000 MW in 2014-2015 when the project was prepared, whereas there is currently an electricity
+               oversupply situation resulting from having awarded many private sector-led, liquid fuel-based capacity to
+               the grid. Thus, despite the government’s commitment to prioritize the project’s gas supply, the project did
+               suffer from this new rental capacity or renewal of existing contracts. The government’s commitment to make
+               capacity payments to these private generators obligates it at times to keep this power capacity running at
+               high cost, while ignoring higher efficiency public sector plants. There were also vested interest groups with
+               incentives to keep the rental plants running. This resulted in the government’s lack of emphasis in restarting
+               the project’s gas turbine (240 MW) in January 2021. At the Bank’s insistence, the gas turbine was put back
+               in operation and is generating electricity at a higher efficiency than the steam turbine.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To increase the generation capacity of the targeted power plant
+
+                             Rationale
+                             Theory of Change (TOC). As a standard supply expansion operation in the well-established electricity
+                             industry, the TOC for Objective 1 is straightforward. The physical inputs to repower Unit 4 of the Ghorasal
+                             power plant, from 210 MW to 409 MW, in combination with the overhauling of the existing steam turbine, can
+                             be assured per engineering design to result in outputs that include a gas turbine and a heat recovery steam
+                             generator. Upon commissioning and operation at targeted capacity (which did not materialize due to under-
+                             utilization), the PDO-level outcomes (which consequently were not achieved) of increased generation
+                             capacity, higher efficiency in combined cycle mode, and greater lifetime fuel savings can be guaranteed to
+                             materialize per technical design. These short-term outcomes, which are within the project’s scope of
+
+
+                                                                                                                             Page 5 of 15
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   BD Ghorashal Unit 4 Repowering Project (P128012)
+
+
+
+implementation, are expected to contribute to the longer-term outcomes of improved BPDB operational
+capacity and greater sustainability of the generation system.
+
+The critical assumptions were well identified. Sustained economic growth and high electricity demand
+materialized. However, the assumptions related to client and consultant capacity and ownership did not
+materialize: the performance of the Owner’s Engineer was unsatisfactory, and the government’s ownership of
+the project was weak or absent. One critical assumption that was not addressed had to do with the political
+economy and governance issues surrounding merit order dispatch.
+
+The PDO-level outcome indicator is:
+
+      Generation capacity constructed under the project measured by MW.
+
+Outputs/Intermediate Results
+
+      Compared to the original target date of June 30, 2018, the gas turbine was commissioned with four
+       months of delay on October 30, 2018, due to the delay (by the Power Grid Company, not BPDB) in
+       the arrangements for temporary evacuation. However, the GT unit was not in operation for one year
+       between January to December 2021 because BPDB did not take over the operation of the unit on time
+       from EPC contractor.
+      The overhauling of the steam turbine, which was targeted for completion in September 2023, was not
+       completed.
+
+Outcomes
+
+      Only 240 MW of additional generation capacity was achieved at closing, compared to the baseline of
+       170 MW in June 2015 and the target of 409 MW by March 2021.
+      The Bank team notes in its June 21, 2024 comments that “the GT continued to be in operation as per
+       NLDC (National Load Dispatch Center) requirement. Until March 2024 when the ICR was being
+       completed, more than 2,700 GWh was generated by the GT since its commissioning. BPDB has
+       earned more than US$150 million as revenues (considering average selling rate to distribution
+       companies and average exchange rate) when EPC contract was around US$177 million."
+
+By the ICR’s own account (page 10), “the project fell short of the PDO level indicator to achieve 409 MW in
+combined cycle at project completion.” Unit 4’s generation capacity was increased from 170 MW to 240 MW,
+without the steam turbine (ST) in operation, when the Bank decided not to extend the closing date beyond the
+18 months of extension already granted. The Bank’s decision to exit the project is “due to GOB’s lack of
+ownership and urgency, which caused significant delay in initiating the additional works to achieve the
+baseline capacity of the ST.”
+
+As a background, the agreed works under Bank funding to get the plant ready for combined cycle operation
+were completed two years prior to the project closing date. However, the successful commissioning was
+halted by vibration in the ST shaft, hence limiting the baseline capacity. The gas turbine remained idle for a
+long period of 11 months.
+
+Although additional works were agreed, the awarding of the variation order for the additional works was
+delayed significantly and was not completed by project closing. More delays occurred when, upon
+
+
+                                                                                                  Page 6 of 15
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   BD Ghorashal Unit 4 Repowering Project (P128012)
+
+
+
+commissioning of the GT in Oct 2018, the ST had to be taken out of operation due to the need to change the
+gas connection from ST to GT. Also, for CC operation, additional equipment needed to be installed and the
+existing boiler dismantled. During the CC commissioning trials in January 2021, when there were still
+technical issues related to shaft vibration, a maximum generation capacity of 384 MW in combined cycle was
+achieved.
+
+The Bank team suggested to BPDB to operate the plant in CC mode at lower capacity, backed by the Bank
+ST expert’s advice. However, BPDB refused, citing the issue of the shaft vibration. Despite the Bank ST
+expert’s assessment that during high shaft vibration, the bearing vibrations were all normal and the ST
+condition was not of concern. BPDB insisted on its own differing technical assessment, when there were also
+broader issues suggesting that the timely and full capacity operation of the plant may not have been a priority
+for BPDB. At that time, Bangladesh had an oversupply of electricity and government’s obligations to private
+generators appeared to have been prioritized.
+
+The performance of the Owner’s Engineer (OE), who was supposed to supervise the works of the EPC
+contractor, was unsatisfactory. This was most evident during the shaft vibration discussions. The OE did not
+provide BPDB with a technical assessment of the issues, appeared reluctant to provide any official report to
+BPDB management, and was not involved during the negotiations of the additional works with the EPC
+contractor. In light of the OE’s lack of active engagement, the Bank team had to hire an independent steam
+turbine expert. However, when the expert’s report was submitted to the Power Division, no action was taken
+based on the report’s findings.
+
+Summary Assessment of Efficacy for Objective 1. BPDB took over the funding of the ST additional works.
+The ICR indicates that the full targeted capacity of the plant operating in combined cycle could be expected
+by December 2024. This is in doubt, however, given the history of long delays resulting from the lack of
+government ownership. With the PDO-level indicator being delayed and far from achieved at project closing,
+i.e., 240 MW actual versus the 409 MW target, the project’s efficacy in achieving Objective 1 is rated modest.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 2
+Objective
+To increase the efficiency of the targeted power plant
+
+Rationale
+Theory of Change. As mentioned above, if operated at the targeted capacity, the efficiency and fuel savings
+targets can be expected to materialize per engineering design. The inputs including a project engineer,
+institutional support to BPDB can be expected to result in effective implementation support and efficient plant
+operation. However, as discussed above, the Owner’s Engineer performed unsatisfactorily and BPDB and the
+Power Division resisted the Bank’s technical advice, thus preventing the causal links of the TOC to operate.
+The same critical assumptions and identified shortcomings as discussed above apply here in Objective 2.
+
+The PDO-level outcome indicators are:
+
+
+                                                                                                  Page 7 of 15
+                               Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                               BD Ghorashal Unit 4 Repowering Project (P128012)
+
+
+
+
+                                  Projected lifetime fuel saving measured by Petajoules (PJ)
+                                  Overall efficiency of the target unit measured in percentage (%)
+
+                            Outputs/Intermediate Results
+
+                                  Compared to the targeted 303 petajoules (303,000,000,000 megajoules) of projected lifetime fuel
+                                     savings by March 2021, only 62.6 petajoules (62,600,000,000 megajoules) was achieved with a delay
+                                     of two and a half years in September 2023.
+
+                            Outcomes
+
+                                  The efficiency of the targeted unit, as measured by gas consumption per GWh output, was targeted to
+                                     increase from the baseline of 30 percent in June 2021 to 53 percent by March 2021. However, at
+                                     project closing, only 34 percent was achieved.
+
+                            The plant’s efficiency had increased from 30% to 34% at project completion by adding the new GT in October
+                            2018. This falls significantly short of the 54% target since the plant was not operated in CC mode. The same
+                            issues that impeded the achievement of Objective 1 apply in explaining the failure to achieve Objective 2.
+
+                            Summary Assessment of Efficacy for Objective 2. Given the significant delays, the lack of government
+                            ownership, the low achievement of lifetime savings (about 20 percent of targets), and the failure to achieve
+                            the plant efficiency target (34 percent versus the targeted 54 percent), the project’s efficacy in achieving
+                            Objective 2 is rated modest.
+
+
+
+                            Rating
+                            Modest
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The achievement of both Objectives 1 and 2 are modest, as explained in more detail in the summary
+                            assessments above. None of the PDO-level indicators were achieved. The actual levels of achievement are
+                            significantly below targets, while experiencing major delays. The only achievements were that the Strategic
+                            Business Unit and the Environmental & Social Management Unit at Ghorasal plant became functional.
+                            Overall, the lack of government ownership, gas supply constraints for feeding the GT, and the political
+                            economy surrounding priority dispatch of electricity of private producers during electricity oversupply
+                            situations, seriously undermine the prospects for achieving project objectives.
+
+
+
+                            Overall Efficacy Rating                                 Primary Reason
+                            Modest                                                  Low achievement
+
+
+                                                                                                                             Page 8 of 15
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      BD Ghorashal Unit 4 Repowering Project (P128012)
+
+
+
+ 5. Efficiency
+Economic Analysis. The ICR compared the ex ante and ex post economic efficiency of the project based on
+comparative Net Present Values (NPVs) for different operational scenarios for the plant, alternative fuels,
+and market demand. According to the ICR (page 13), the project’s actual performance produces “negative NPVs
+ranging from US$135 to US$190 million, due to poor utilization, reduced efficiency and lowered capacity.” The
+ICR hypothesizes that: “With improvements in utilization and achievement of CCGT operations starting 2025,
+the project will be able to deliver on an expected ERR of 26 to 34 percent under the project-as-designed (PDE)
+scenario at appraisal. The reality at closing, however, is that the plant is achieving 67 percent utilization
+compared to the PDE of 87 percent; moreover, it is operating at 34 percent efficiency compared to the PDE of
+54 percent. This calls into question the ambitious forecasts outlined in the analysis.
+
+Administrative and Implementation Delays. The PDE expected construction works to span 36 months. However,
+given the significant delays due to the changing scope of work resulting from technical challenges and COVID-
+19 pandemic restrictions, the commercial operation date of the 409 MW CCGT has yet to be achieved. Thus, in
+strict terms, the construction stage of the project has not yet been completed.
+
+Summary Assessment of Efficiency. Given the negative NPVs generated by the project, and the implementation
+delays, the project’s efficiency is rated modest.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                     0
+ Appraisal                                                  0
+                                                                                      Not Applicable
+                                                                                     0
+ ICR Estimate                                               0
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of objectives is substantial. The project’s efficacy in achieving the objectives is modest and its
+efficiency is also modest. Thus, the project’s overall outcome is moderately unsatisfactory.
+
+
+
+
+a. Outcome Rating
+   Moderately Unsatisfactory
+
+                                                                                                      Page 9 of 15
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      BD Ghorashal Unit 4 Repowering Project (P128012)
+
+
+
+
+7. Risk to Development Outcome
+
+Gas shortage. The shortage of gas supply is likely to affect the operation of gas plants in Bangladesh,
+including Ghorashal unit 4. This has resulted on the client’s inability to utilize the power plants at optimal
+levels. GOB is reported to be working on a plan to increase supplies, which, if successful, will improve the
+situation at Ghorashal. This risk needs close monitoring and follow-up to ensure GOB’s prioritization of gas
+supply to the Ghorashal power plant and its commitment to achieve the project outcome.
+
+Capacity Oversupply. The oversupply of power capacity is a risk that may hinder full utilization of the power
+plants, including unit 4. As of project closing, the Ghorashal power complex had a total generation capacity
+of about 800 MW. However, it generates only about 400MW, or 50% of available capacity. This capacity is
+expected to increase to 1,200 MW once the repowering of unit 4 and other units are completed. As a
+mitigating action, BPDB is proposing the signing of new Power Purchase Agreements (PPA) once units 3
+and 4 become operational in combined cycle mode. This signed PPA would commit the government to buy
+adequate amounts of electricity from the Ghorasal power system and limit the idling of the units.
+Nonetheless, overcapacity needs to be monitored closely as a potential mid-term risk, as well as the pace at
+which oversupply will diminish as power demand grows in the long run.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The PDOs were and continue to be well aligned with the strategic priorities of the Bank and the
+  Government. The project’s theory of change and design were straightforward as a supply capacity
+  expansion and efficiency improvement operation. The Results Framework adequately served the needs
+  of the M&E system. The appraisal process adequately covered the technical, financial, and economic
+  aspects of the project. However, the political economy, market pressures, and governance aspects
+  needed more analysis and foresight. Ultimately, these factors were central to the effectiveness of what
+  was a considerable infrastructure investment.
+
+  Environmental and social aspects were sufficiently addressed at entry through the preparation of the
+  Environmental and Social Management Framework (ESMF) and site-specific Environmental and Social
+  Impact Assessments (ESIAs).
+
+  For implementation arrangements, plans were made to adequately staff the Project Management Unit
+  (PMU) in GPS. Technical assistance was also planned to support capacity improvements. Apart from the
+  political and governance risks mentioned above, the risk assessments and mitigation measures were
+  adequate.
+
+  Given the fiduciary risks in the country, and more generally to mitigate procurement risks, an Independent
+  Procurement Panel (IPP) was agreed between the Bank and GOB during project preparation and
+  subsequently appointed. The IPP was intended to protect the procurement process from external
+
+                                                                                                     Page 10 of 15
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     BD Ghorashal Unit 4 Repowering Project (P128012)
+
+
+
+  influence on procurement decisions, and independently conduct procurement of high-value packages.
+  Thus, the four-member IPP conducted the technical evaluation of the EPC bids. The IPP excluded BPDB
+  staff and was comprised of experts with international experience. According to the ICR, there were no
+  complaints received during or after the evaluation; moreover, the cost of the repowering works for unit 4
+  came to about US$90 million less than the other repowering contract (unit 3) awarded by the BPDB two
+  years earlier (i.e., respectively US$177 million versus US$261 million). Thus, quality at entry is rated
+  satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The ICR (page 19) indicates that the Bank team provided regular implementation support for the project,
+ comprising 12 missions. There were two Task Team Leaders (TTLs) during the project period, with the
+ primary TTL based in the country throughout implementation to ensure close supervision. The team’s
+ engagement with the implementing agencies was proactive and intensive, especially during the stage of
+ making the gas turbine operational. The team also addressed several delays in submission of audit reports,
+ PMU staffing of PMU, and signing of the Long Term Service Agreement.
+
+ COVID-19 had a challenging impact on field supervision that was most especially evident during the
+ combined cycle commissioning trials. With special permission from the Country Director, however, the
+ Bank team was still able to meet with the counterparts despite restrictions on external meetings. The
+ operationalization of the steam turbine, which was unresolved at closing, was outside the Bank team’s
+ control.
+
+ The Bank team sought to find solutions to the various challenges to the project. They actively pursued
+ BPDB to resolve implementation issues, leading to successful and timely completion of the main EPC
+ contact. Most significantly, the Bank team persistently elevated to higher management (Power Division,
+ Finance Division and BPDB) the financial implications of keeping the GT idle, hence the urgent need to
+ resolve the challenges related to awarding the contract for the overhauling and operationalization of the
+ steam turbine. The ICR credits the Bank team’s persistence for helping make the GT operational from
+ December 2021 and cites the team’s candid and continuous updates to the Bank’s management regarding
+ the project’s implementation challenges.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+                                                                                                 Page 11 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     BD Ghorashal Unit 4 Repowering Project (P128012)
+
+
+
+
+a. M&E Design
+ The project’s theory of change (TOC), which was the basis of the M&E system design, was sound and
+ logical in terms of its causal links and the attributability of outcomes to project interventions. The Results
+ Framework was consistent with the TOC and well-aligned with the strategic priorities of the Bank and the
+ Government. The selected PDO indicators were adequate measures of the generation capacity expansion
+ and efficiency improvement PDOs. These outcome-level indicators and the intermediate results indicators
+ (IRIs) were relevant, measurable, and time-based. Specific baselines and targets were established. The
+ TOC, however, did not operate since important critical assumptions did not materialize, as discussed in the
+ Efficacy section.
+
+
+
+b. M&E Implementation
+  The PMU in BPDB was responsible for collecting and processing relevant data and providing them to the
+  Bank team. The data collection system and reporting arrangements were generally adequate. Monitoring,
+  data processing, and evaluation have been generally regular. Overall, the quality and timeliness of
+  required M&E reporting were satisfactory.
+
+
+
+c. M&E Utilization
+  The M&E system was used to report on Project progress, including both positive and negative aspects,
+  were reported through the M&E system. To obtain first-hand data on implementation progress, the Bank
+  task team made regular field trips that included meeting with the contractor’s engineer and GPS
+  management team to assess ongoing and emerging issues. This enabled timely remedial actions to be
+  carried out. The findings and operational results were communicated to the GOB and Project agencies
+  through the Bank supervision mission’s working documents and technical notes that feed into the
+  periodic reporting of the Implementation Status Reports (ISRs). As discussed earlier, however, BPDB
+  and the Power Division resisted or ignored the Bank's advice, through its technical expert, regarding the
+  operation of the steam turbine.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as a "Category A" given the complexity of environmental issues associated the
+   project’s major civil works and decommissioning of existing boilers. Apart from the umbrella policy of OP/BP
+   4.01: Environmental Assessment, no other safeguard policies were triggered since all of the project
+   activities would occur within the borders of the industrial complex. According to the ICR (p. 17), safeguards
+   implementation was satisfactory. All of the required assessment were done. BPDB and EPC contractors
+
+
+
+                                                                                                    Page 12 of 15
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     BD Ghorashal Unit 4 Repowering Project (P128012)
+
+
+
+   also prepared and implemented safeguards management plans. There were no pending environmental and
+   social issues at project closing.
+
+   BPDB with the support of EPC contractors also prepared a COVID management plan consistent with World
+   Bank and WHO guidelines. The EPC contractors arranged and satisfactorily implemented an occupational
+   health and safety training for the workers in October 2020, as well as a Labor Influx Plan.
+
+   A grievance redress committee was also established at the project level. The PMU did not receive any
+   grievances from the local people related to labor influx or community health and safety issues.
+
+
+
+
+b. Fiduciary Compliance
+   Financial Management (FM). For almost two years, BPDB was non-compliant on one legal covenant and
+   did not meet the pre-agreed deadline for the internal audit of the project. In FY19, external auditors
+   expressed an unqualified audit opinion on the project’s financial statements; however, BPDB still needed to
+   conduct a risk-based internal audit of the project as required by the Financing Agreement. This issue was
+   resolved in 2021 after repeated recommendation during Bank supervision missions, albeit with delay in the
+   selection of the auditor. Other than this issue, audit reports, financial reports, and other financial
+   information were submitted on time. The audit opinion for FY21 was unqualified. However, there was a
+   material audit observation in the management letter of the audit report, which were subsequently resolved
+   by BPDB.
+
+   Procurement. An Independent Procurement Panel was used to satisfactorily undertake the procurement
+   process for the EPC contract, resulting into significant cost savings. Regarding the rectification of the ST
+   vibration problem, however, there were significant delays in the procurement of the additional works by the
+   EPC contractor. This had the negative impact of delaying the operation of unit 4 in combined cycle mode,
+   and not achieving the associated PDO indicator. There were also major delays in procuring the LTSA for
+   spare parts, on a direct contract with the OEM. BPDB eventually awarded the LTSA contract and
+   implementation was able to resume.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   None identified, given the supply focus of the project that was implemented within the restricted boundaries
+   of a power generation complex.
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                Reason for
+Ratings                         ICR                     IEG
+                                                                                Disagreements/Comment
+
+                                                                                                  Page 13 of 15
+     Independent Evaluation Group (IEG)                                    Implementation Completion Report (ICR) Review
+     BD Ghorashal Unit 4 Repowering Project (P128012)
+
+
+
+                                                                                      None of the PDO indicators
+                                                                                      were achieved at closing. The
+                                                                                      likelihood of achievement is not
+                                                                                      assured, given political economy
+                                  Moderately              Moderately                  and market factors, governance
+Outcome
+                                  Satisfactory            Unsatisfactory              risks, and most especially the
+                                                                                      lack of Government ownership,
+                                                                                      all of which negatively and
+                                                                                      persistently burdened and
+                                                                                      delayed project implementation.
+Bank Performance                  Satisfactory            Satisfactory
+                                                                                      The reported M &E performance
+                                                                                      is expected and standard, with
+Quality of M&E                    High                    Substantial
+                                                                                      no distinguishing achievements
+                                                                                      or special attributes.
+Quality of ICR                    ---                     Substantial
+
+
+12. Lessons
+
+The ICR presented several lessons, of which the two below (with paraphrasing by IEG) had the most
+prospects for broader application and replicability.
+
+Focusing on the political economy and market analysis is essential during project design
+and preparation. Although the replacement of high-cost liquid fuel was a major benefit of the
+project, it was only partially achieved due to major political economy factors. First, whereas there
+was an undersupply 3,000MW of electricity during the preparation stage, there was an oversupply of
+10,000MW at project closing. Second, there were issues with the gas supply shortage. Third,
+the use of private sector generators involved costly capacity payments and are very likely to be non-
+compliant with the merit order dispatch policy due to other vested interests. While there is already a
+merit order dispatch policy in place, it appears that it is not strictly followed due to inefficiencies in its
+implementation system, which detracted from implementation success and the achievement of
+project outcomes. These highlight the need for greater focus on the political economy and market
+analysis as early as the project design stage. Much earlier and greater emphasis on analyzing
+market movements would also help to encourage studies on upstream gas supply and to identify
+measures to mitigate potential risks to downstream demand. Finally, new reforms and concrete
+measures are needed to link economic dispatch to SCADA so that inefficiencies in the dispatch
+process are removed.
+
+In low-capacity environments, the use of an Independent Procurement Panel (IPP) could be
+considered but needs to be matched with the country client’s full ownership. While the
+project’s use of an IPP was a generally successful story, it contributed to the client’s lack of
+ownership. Where applicable and needed, the use of independent experts could be considered to
+provide technical and procurement advice to the client during the procurement process.
+
+
+
+
+                                                                                                          Page 14 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     BD Ghorashal Unit 4 Repowering Project (P128012)
+
+
+
+13. Assessment Recommended?
+
+  Yes
+  ASSESSMENT_TABLE
+  Please Explain
+  A case study needs to be undertaken to analyze the implementation experience of this project to identify ways
+  to mitigate the potential risk of corruption and minimize reputational risk to the Bank. The study could also yield
+  valuable insights on the power dynamics that may influence factors outside the direct control of the project,
+  including weak institutional governance, lack of accountability, and vested interests that may have deliberately
+  slowed down the implementation, left capacity underutilized, and diminished the prospect and visibility of
+  project achievements.
+
+
+
+14. Comments on Quality of ICR
+
+The ICR is written clearly, logically presented, and sufficiently candid about the numerous and complex
+technical as well as political challenges encountered by the project. It developed an adequate theory of change
+(TOC), to which it adhered closely to trace the project’s causal links from inputs/outputs to intermediate and
+final outcomes, thus transparently and objectively presenting how and why the PDO-level indicators were not
+achieved. The ICR placed much emphasis on providing quantitative evidence, thus making its findings robust
+and strengthening its assertions related to project performance. As a whole, it complies with the OPCS
+guidelines for preparing ICRs. One shortcoming, however, is the lack of comparison in the Efficiency section
+between the actual economic performance indices at closing and the PAD’s forecast economic analysis at
+appraisal. There were also gaps, like the incomplete annex on original and actual project costs. Overall, the
+ICR Quality is rated substantial.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                    Page 15 of 15
+

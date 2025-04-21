@@ -1,0 +1,754 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     RAMP (P130202)
+
+
+
+                                                                                   Report Number: ICRR0021935
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P130202                                    RAMP
+
+ Country                                    Practice Area(Lead)
+ Romania                                    Governance
+
+
+ L/C/TF Number(s)                           Closing Date (Original)                 Total Project Cost (USD)
+ IBRD-82610                                 31-Mar-2019                                            19,275,788.78
+
+ Bank Approval Date                         Closing Date (Actual)
+ 26-Apr-2013                                31-Mar-2019
+
+                                            IBRD/IDA (USD)                                       Grants (USD)
+
+ Original Commitment                            91,800,000.00                                                 0.00
+
+ Revised Commitment                             23,734,071.67                                                 0.00
+
+ Actual                                         19,275,788.78                                                 0.00
+
+
+
+
+ Prepared by                 Reviewed by                  ICR Review Coordinator           Group
+ Igor Pejovic                Clay Wescott                 Malathi S. Jayawickrama          IEGEC (Unit 1)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The project development objectives (PDOs) were: (i) to increase effectiveness and efficiency in collection of
+   taxes and social contributions; (ii) to increase tax compliance; and (iii) to reduce the burden on taxpayers to
+   comply. The PDOs in the Project Appraisal Document (PAD, p. 7) are the same as in the Loan Agreement
+   (Loan Agreement, 8261-RO, May 8, 2013, p. 5).
+
+
+
+
+                                                                                                     Page 1 of 14
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     RAMP (P130202)
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Institutional Development
+
+   (Appraised cost: US$M 9.00. Actual cost: US$M 2.77).
+
+   The component supported the development of a modern organization and management structure of
+   Romania’s Revenue Administration, the National Agency for Fiscal Administration (NAFA), instilled a
+   strategic focus, emphasized the importance of integrity, rationalized the organization’s structure to increase
+   NAFA’s effectiveness, and strengthened the management of human resources through specific professional
+   training and technical assistance. This component also aimed to improve the analytical capacity required to
+   support the strategic management of NAFA and improve the legal framework and process of appealing, as
+   well as reviewing all business procedures in these areas, and reengineering the operational business
+   processes in order to create a modern revenue administration modeled after best practice in the European
+   Union (EU).
+
+   Increasing Operational Effectiveness and Efficiency
+
+   (Appraised cost: US$M 75.69. Actual cost: US$M 11.52).
+
+   The component aimed to streamline business process and workflows and invest in the modernization of
+   core Information Technology (IT) systems in order to take advantage of automation in NAFA’s back-office
+   operations, as well as in the interactions with taxpayers. The component also aimed to strengthen the
+   effectiveness of audit and enforcement functions, including the collection of tax arrears. This was to be
+   achieved by: (i) modernizing the tax audit function, tax intelligence, and preventive functions, (ii) upgrading
+   IT management functions in NAFA to manage all NAFA IT resources, including staff, (iii) implementing
+   electronic document management and archiving, (iv) developing and implementing an Integrated Revenue
+   Management System (RMS), and (v) upgrading NAFA’s information and communication technology
+   infrastructure, including developing a centralized data processing center, data warehouse, and a business
+   center capable of sustaining all NAFA operations with no data loss in case of a disaster.
+
+   Taxpayer Services and Corporate Communications
+
+   (Appraised cost: US$M 3.83. Actual cost: US$M 1.89).
+
+   This component financed activities aimed at modernizing taxpayer services, implementing mechanisms for
+   transparency and accountability, such as a adopting consultative technical panel and community surveys to
+   ensure fair community input, modernizing service delivery channels in order to provide advanced services to
+   taxpayers, promoting communities’ understanding of revenue laws, procedures, rights and obligations of
+   taxpayers, as well as promoting taxpayer efficiency by simplifying and providing electronic services, and by
+   strengthening external and internal communication.
+
+
+
+
+                                                                                                      Page 2 of 14
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     RAMP (P130202)
+
+
+
+   Project Coordination and Management
+
+   (Appraised cost: US$M 3.31. Actual cost: US$M 1.16.
+
+   The project aimed for a Project Management Unit (PMU) well integrated into NAFA’s headquarters
+   management structure, and responsible for the daily implementation of the project. The PMU included a
+   project administration team responsible for the administrative and fiduciary processes related to project
+   management, procurement, financial management, and project reporting. The PMU also included a change
+   management team to assist management during the process of change, providing substantive guidance
+   and leadership. The team was responsible for supporting the management in the change process
+   necessary for the implementation of each component and its related activities, as well as coordinating
+   institutional change promoted by the project components and sub-components.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   The US$ 91.8 million project was approved on April 26, 2013. It became effective on August 9, 2013. The
+   project closed on March 31, 2019. Borrower financing was US$ 220,000. The project was restructured
+   twice. First on November 1, 2016, to change the closing date to March 31, 2021. On request from the
+   Ministry of Public Finance (MoPF), on behalf of NAFA, the project was extended by two years to ensure
+   sufficient time to implement the RMS. On November 19, 2018, the Bank received another official request
+   from the MoPF, on behalf of NAFA, to cancel € 51,902,124 (US$ 68,065,928.33) of the loan amount. As a
+   result, the project was restructured a second time on January 25,2019 to change the closing date back to
+   March 31, 2019, to cancel financing, and to reallocate among disbursement categories. The World Bank
+   financed just over 74 percent of total actual project costs. The rest was financed by the borrower.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+    1. Alignment with the Bank’s country strategy. The project was closely aligned with the first pillar of
+       the Bank’s strategy, on “Creating the 21st Century Government” (Country Partnership Framework
+       for Romania 2019-23, p. 51), to build institutions fit for a prosperous and inclusive Romania, and to
+       support public administration reform.
+    2. Country context. The project’s focus on efficiency in the collection of taxes and social contributions
+       remained relevant for country conditions at closing. Before and during the period of accession to the
+       to the EU (2007-2013), Romania’s tax collection capacity was weak. In 2013 Romania’s revenue
+       envelope had shrunk, dropping to 27.3 percent of GDP from 28.1 percent of GDP in 2007, when
+       Romania became an EU Member State. The government program was part of a broader program of
+       EU support to institutional strengthening in the EU member states, emphasizing more efficient use
+       of public resources as well as reducing multiple institutional weaknesses in tax administration.
+       Romania committed to deepening structural reforms and strengthening public administration in order
+       to reap the benefits of the EU membership. The objectives were broadly outcome-oriented with
+       focus on efficiency, accountability and transparency in the tax administration and they were
+
+
+
+                                                                                                   Page 3 of 14
+                                      Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+                                      RAMP (P130202)
+
+
+
+                                        appropriate for the country conditions and the status of a new EU member state and its capacity at
+                                        the time.
+
+               However, a major shortcoming was that the objectives and associated targets were too ambitious in light of
+               the political and technical constraints. In 2013 the country was still recovering from the macroeconomic
+               challenges and uncertainties that had slowed down hoped for convergence with other EU countries. While
+               deepening structural reforms including measures to increase revenues were viewed as key to fully
+               benefiting from EU membership, NAFA's capacity constraints were assessed as a high risk at appraisal. A
+               detailed strategy for IT investments was being prepared to address the capacity constraint but was not
+               completed before approval. The strategy eventually concluded that NAFA needed additional technical staff
+               to manage a complex IT procurement, but these were never put in place.
+
+               The same types of difficult reforms had limited traction in the past and failed to take off under the previous
+               Revenue Administration Reform Project supported by the Bank. The quality enhancement review for the
+               RAMP had suggested a simpler approach to modernize business processes before investing in an RMS
+               that, in hindsight, would have been more appropriate.
+
+               Then, in 2019, the government adopted a new National Reform Program. While by then the
+               macroeconomic situation had improved, there was still the need to improve tax collection through
+               modernization. However, the government now believed that this might be achieved without implementation
+               of an integrated RMS, thus questioning an essential part of the logic underlying the RAMP’s objectives.
+               (PAD p. 20 and Annex 4; ICR p. 1, 11, 21; see also Section 8a below)
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Modest
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             Increased Effectiveness and Efficiency in the Collection of Taxes and Social Contributions
+
+                             Rationale
+                             The theory of change of the project was not explicit in the PAD. However, implicitly, it could be reconstructed
+                             as in the ICR (p. 6-7). Institutional development (restructuring, business process engineering and training),
+                             increased operational effectiveness and efficiency enabled by an RMS, and improved taxpayer services and
+                             corporate communications would lead to increased effectiveness and efficiency in collection of taxes and
+                             social contributions, increased tax compliance, and reduced burden on taxpayers to comply. This would in
+                             turn lead to a modernized revenue administration with business processes and workflows befitting an EU
+                             member state. In the long run, this would help to improve the business environment and make Romania more
+                             attractive for investors.
+
+
+                                                                                                                                  Page 4 of 14
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   RAMP (P130202)
+
+
+
+Efficiency and effectiveness in the collection of taxes and social contribution was to be increased through
+modernization and improvement of business processes and workflow. This sub-objective was measured in
+two areas, as follow:
+
+    1. Improving effectiveness in revenue collection.
+
+Effectiveness was measured by three indicators:
+
+      Tax arrears recovered /stock of tax arrears. The indicator was tax arrears collected. The 2013
+       baseline was 40% on 31-Jan-2012 while the target was 50% by 30-Mar-2018. Actual recovery was
+       36.7% at the midpoint of the project in 2015, dropping further to 33.2% in 2018. The problem was that
+       in order to improve collection of tax arrears, legislative changes were required which did not occur
+       during project implementation. One example was the absence of clear criteria for the write-off of
+       “irrecoverable” tax arrears. These arrears remained in the accounting records and tax officers were
+       held personally liable for any write-off decisions by the Romanian Court of Accounts. As a result,
+       these arrears continued to accumulate and had a negative impact on the effectiveness of revenue
+       collections. Indicator target; not achieved.
+      Value-added tax (VAT) productivity, VAT productivity is the ratio of VAT revenue collected to
+       expected VAT revenue. The 2013 baseline for VAT productivity was 35.8% and the target was 46.0%.
+       The actual productivity rate in 2018, 34.9%, was below the baseline. Romania registered the lowest
+       VAT productivity among the EU Member States. Indicator target: not achieved.
+      Corporate income tax (CIT) productivity. CIT productivity is the ratio of CIT revenue collected to
+       expected CIT revenue. The 2013 baseline was 11.9% and the target was 21%. The actual outcome,
+       10.3%, was also below the baseline. This poor outcome resulted in part from legislative changes
+       related to corporate income tax from 2015 to 2018 that significantly reduced the number of firms liable
+       for tax. The ICR finds that without these changes, CIT productivity would have likely
+       improved. Indicator target: not achieved.
+
+2. Improving Efficiency in Revenue Collection.
+
+Efficiency was measured as revenue collected per NAFA staff. Revenue collected per NAFA staff at the
+baseline of 2013 was Romanian Leu (RON) 6.31 million. With support from the project, NAFA reorganized,
+streamlined business processes and workflows and achieved high volume processing of revenue collections.
+As a result, revenue collected per staff increased to RON 9.147 million, exceeding the target for 2018 of RON
+8.715 million. The cost of revenue collection is now close to that of peer countries in Central, Eastern, and
+South-Eastern Europe, but higher than in advanced EU countries (International Monetary Fund (IMF) May
+2018. Romania - Selected Issues: 7). Indicator target: exceeded.
+
+The PAD does not contain and the ICR doesn’t measure any indicator connected with social contributions.
+Aside from the specific factors indicated under each of the above targets, the overall factor explaining weaker
+than expected performance was the lack of RMS implementation. According to the theory of change, it would
+have a key role in addressing the weaknesses in tax administration, thus improving tax efficiency and
+narrowing compliance gaps. While the theory of change seems correct, the ambition of the performance
+targets was too great.
+
+
+
+
+                                                                                                  Page 5 of 14
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   RAMP (P130202)
+
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 2
+Objective
+Increased Tax Compliance
+
+Rationale
+Increased Tax Compliance is measured by: (i) VAT gap, (ii) CIT gap, (iii) Personal income tax (PIT) gap.
+
+Activities intended to increase tax compliance included the modernization and enhancement of business
+processes and workflows, including an RMS and IT infrastructure, the improvement of the system for internal
+alerts, installing and using risk compliance and VAT fraud software, establishing a taxpayer assistance
+center, a monitoring unit and call-centers, delivering educational campaigns and raising tax
+awareness, implementing electronic garnishment of debtors bank account and electronic communication for
+all administrative acts of enforcement, and switching from face to face to electronic payments. Results were
+measured in three areas of tax compliance, as follows:
+
+      VAT gap. The VAT gap measures the difference between expected VAT revenues and VAT actually
+       collected. The gap can be caused by tax fraud, evasion and avoidance, along with bankruptcies,
+       financial insolvencies or miscalculations. The 2013 baseline was 36.2% less than expected VAT
+       revenues, and the target was 26.2%, while the actual 2018 gap was 36.0%. Romania had the largest
+       VAT gap in the EU. Romania reduced its standard VAT rate from 24% to 20% in January 2016, yet
+       despite this, the level of VAT non-compliance increased, and the gap widened. Romania was one of
+       the rare EU countries which went through a widening of the tax gap in 2016. This target was not
+       achieved
+      CIT gap. The CIT Gap measures the difference between expected CIT revenues and CIT actually
+       collected. The differences can be caused by unintended errors due to unclear instructions
+       and differences in interpretation, fraud, evasion, and avoidance. The 2013 baseline was 45.5% less
+       than expected CIT revenues, and the target was 40.6%, while the actual 2018 gap was 29.9%. The
+       Bank's project team told IEG that the improvement in the CIT gap was due in part to NAFA making
+       electronic filing mandatory (by the end of the project the electronic filing rate by large- and medium-
+       size RMS was 99%). This was supported by the project, and helped to reduce the compliance
+       burden, encouraging RMS to comply. This target was exceeded.
+      PIT gap, The PIT Gap measures the difference between expected PIT revenues and PIT actually
+       collected, and stems from the same types of reasons causing the CIT gap. The 2013 baseline was
+       41.5% less than expected PIT revenues, and the target was 36.5%, while the actual 2018 gap
+       increased to 43.4%. One reason why the measures taken didn’t lead to a decrease in the PIT gap is
+       personal tax evasion, characteristic for Romania and East-European countries. This target was not
+       achieved.
+
+While the project supported modernization and enhancement of business processes and workflows to support
+this objective, a key part of the program - implementation of an RMS - did not occur and helps to explain the
+non-achievement of the targets.
+
+
+
+
+                                                                                                 Page 6 of 14
+                               Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                               RAMP (P130202)
+
+
+
+
+                            Rating
+                            Modest
+
+
+                            OBJECTIVE 3
+                            Objective
+                            Reduced Burden on taxpayers to comply
+
+                            Rationale
+                            Reduced burden on taxpayers to comply is measured by:
+
+                            (i) compliance cost, as measured by the average time for preparation of tax returns for corporate taxpayers as
+                            well as
+
+                            (ii) intermediate results indicators: (i)Taxpayers' satisfaction with NAFA's integrity (corporate taxpayers and
+                            those who are self-employed), (ii) Taxpayers' satisfaction with NAFA's quality of taxpayers’ services
+                            (corporate taxpayers and those who are self-employed), (iii) Taxpayer perception of the time required to
+                            comply with tax procedures (corporate taxpayers and those who are self-employed) and (iiii) Ratio of NAFA
+                            staff in taxpayer services.
+
+                            The target for measuring this objective was average time for businesses to prepare tax returns. The 2013
+                            baseline was 224 hours, and the target was 176 hours, while the actual was 163 hours. Simplifying the tax
+                            system and reducing bureaucracy has taken place gradually. NAFA made the electronic filing of declarations
+                            by taxpayers mandatory. By project closing, the electronic filing rate by large- and medium-size RMS was
+                            99%. Taxpayer services were also improved through a multi-channel approach which included face-to-face
+                            interaction, post, email, and phone, providing taxpayers with various options to engage and seek assistance.
+                            Eight call centers were established at the regional level and a total of 400 taxpayer services staff were trained
+                            on improving taxpayer services. In 2018, over 24,000 taxpayers were served using the various platforms for
+                            assistance developed under the RAMP.
+
+                            There was a mainly positive result on achieving intermediate result targets concerning reducing the burden of
+                            compliance. The payment compliance rate for VAT and CIT, and the electronic filing rate by large and
+                            medium size firms, all exceeded the set targets, while the compliance rate for social contributions met the
+                            target. Corporate taxpayers' perception of the time required to comply with tax procedures had decreased
+                            from 180 hours in 2014 to 168 in 2016, close to the target of 163 hours. However, there was a small decrease
+                            in taxpayer satisfaction as measured by a 2016 survey, rather than the targeted increase, and no
+                            surveys were carried out after that year. Aside from this minor shortcoming, the strong achievement of the
+                            PDO target and of most intermediate targets are major accomplishments.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                                                                                                                               Page 7 of 14
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      RAMP (P130202)
+
+
+
+
+  OVERALL EFFICACY
+  Rationale
+  While some of the planned results were achieved based on staff reorganization, expansion of electronic filing
+  and other improved business processes, achievement on most objectives was held back because RMS was
+  not procured and implemented which prevented a comprehensive reform of NAFA’s systems to reduce the
+  compliance burden on taxpayers.
+
+
+
+
+  Overall Efficacy Rating                                     Primary Reason
+  Modest                                                      Low achievement
+
+
+ 5. Efficiency
+Administrative efficiency was low due to the long delay in the implementation and disbursements, and the
+eventual cancellation of the RMS.
+
+Economic and financial analysis focused on compliance costs reduction for corporations in order to:
+
+(i) simplify filing and payment of taxes and social contribution; and
+
+(ii) decrease the number of tax inspections and reduce the time spent dealing with tax officials.
+
+The economic and financial analysis looks at 2 aspects. First, as measured by compliance cost for corporate
+customers, the estimated annual economic effect of reduced compliance cost, due to electronic filing and other
+measures adopted, was € 137m, which was greater than the expected € 95m. Second, looking at increases in
+tax revenues as a result of measures supported by the project, the ratio of tax revenues to GDP was expected
+to increase from 29.0% of GDP in 2013 to 29.8% in 2017, leading to an expected IRR of 90%. In fact, the
+ratio of tax revenues to GDP declined to 26.7% in 2018. The ICR does not estimate an IRR for the actual result
+(PAD p. 80-1; ICR Annex 4).
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?              Point value (%)          *Coverage/Scope (%)
+                                                                                      0
+ Appraisal                                                   90.00
+                                                                                       Not Applicable
+
+
+
+                                                                                                      Page 8 of 14
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      RAMP (P130202)
+
+
+
+                                                                                       0
+ICR Estimate                                                 0
+                                                                                        Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The objectives were modestly relevant. While aligned to the Bank-supported strategy and government policy at
+appraisal, the alignment was weaker at project completion. Objectives were broadly relevant to the country
+context, but targets were too ambitious in light of the political and technical constraints. These constraints made
+it difficult for Romania to achieve their targets due to global financial crisis, lack of unity in the government when
+it came to decisions which needed to be adopted, as well as the institutional capacity. The theory of change was
+that effectiveness, efficiency, and compliance in revenue administration would be enhanced by changes in
+business processes enabled by adoption of an RMS, while reducing the burden on taxpayers to comply. The
+theory of change is plausible, but in this case many of the targets were too ambitious to be achieved in the time
+period during a politically volatile period as it is discussed in PAD (page 2). IEG rated achievement of the
+objectives on revenue effectiveness, efficiency and compliance as modest, while achievement of the objective
+on reducing taxpayer burden is rated substantial. Efficiency is rated modest due to implementation delays and
+lack of evidence of financial and economic benefits.
+
+
+a. Outcome Rating
+   Unsatisfactory
+
+
+7. Risk to Development Outcome
+
+Key project activities and associated achievements are at risk of not having a lasting impact. Implementation
+of intermediate targets deteriorated significantly and by the end of the project only 5 of the 18 targets were
+met, indicating serious capacity weaknesses still needing to be addressed, such as the large number of
+revenue offices in the country that enhance the risk of corruption. Structural reforms, such as streamlining of
+processes, reorganizing key functions and establishing a performance framework for NAFA have resulted in
+significant improvements; however, more work is needed. The training provided under the project
+strengthened the capacities of some key personnel, but their skills needed to be continuously updated to
+keep pace with new technologies and changed business processes. Serious capacity constraints remained
+in IT and change management (ICR, page 32).
+
+The state’s own budget financing continues, and the RMS could be completed by the government and with
+support of EU funds that Romania, as a member state, now has at its disposal but didn’t before. A
+computerized system for payments and checking taxpayer’s obligations in order to improve fiscal
+administration services and combat tax evasion is being developed, as well as the virtual private space, an
+IT system that facilitates communication with taxpayers and helps to simplify procedures.
+
+
+
+
+                                                                                                        Page 9 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     RAMP (P130202)
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  On the positive side, the project included a clear statement of objectives targeting economic efficiency of
+  taxation and reducing the compliance burden. The project was strategically relevant to Bank and
+  government strategies at design as it supported the efforts of increasing effectiveness and efficiency in
+  the collection of taxes and social contributions, increasing tax compliance and reducing the burden on
+  taxpayers to comply. The Bank had extensive experience in Europe and in Romania with tax
+  administration reforms and activities. It also gained considerable diagnostic knowledge during the
+  previous cooperation with the Romanian government that underpinned the preparation and design of the
+  project. The project built on extensive diagnostic work by the Bank, the EU and the IMF. For example, a
+  2011 IMF tax policy diagnostic found that ongoing cuts to taxes and social security contributions were
+  making the tax structure more supportive of economic growth (ICR, p. 5). Reform efforts were also
+  intended to be supported by continuing technical assistance from the IMF and EU on institutional
+  developments in NAFA, and from complementary operations supporting revenue administration reforms,
+  including the precautionary financial assistance agreements with the IMF and EU and the Deferred Draw-
+  down Option Development Policy from the Bank. Unlike the case with past efforts to reform revenue
+  administration, this time there was broad based support from different political parties. (PAD, pp. 1, 2,
+  66) The project was of high importance as it was needed to accelerate Romania’s convergence with
+  other EU member states.
+
+  Yet despite these positive factors, the reforms were too ambitious, as pointed out in Section 3. At the
+  Quality Enhancement Review, the team was advised to adopt a simpler, more focused operation but they
+  didn’t follow the advice. In addition, the decision to support a customized off the shelf (COTS) RMS rather
+  than bespoke system could have been better handled as the option to implement an in-house solution
+  lingered in the background and was raised periodically during implementation and even just before the
+  project was cancelled. The PAD (p. 41) outlines a sound justification for adopting COTS, Yet, the ICR (p.
+  18) points out that the preparation phase should have been longer to better monitor the fast-changing
+  political economy, and to build acceptance by key stakeholders for the type of IT system that would be
+  pursued.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Unsatisfactory
+
+
+b. Quality of supervision
+ The implementation support plan called for two formal supervision and implementation support missions
+ per year, and there was a total of 11 supervision missions carried out over six years which is close to the
+ plan. However, the quality of supervision weakened over time because the implementation support
+ missions became infrequent resulting in missed opportunities to address the encountered difficulties in a
+ timely manner and there were constant changes in task team leadership (4 TTLs in five years). The
+ frequent changes in task team leaders (four TTLs over the project term) didn’t help, although IEG was
+ informed that there was a good handover process between the third and fourth TTL
+
+
+
+                                                                                                   Page 10 of 14
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     RAMP (P130202)
+
+
+
+ The Bank’s performance deteriorated as the project progressed, resulting in a lack of dialogue with NAFA
+ and other key stakeholders during which several issues and problems related to implementation were not
+ adequately addressed. Problems with the client’s lack of acceptance of the COTS continued to
+ fester. There was fear of scrutiny of a large COTS procurement by the Romanian Court of Accounts with
+ its rigorous audits and prosecutorial approach. In addition, complex IT procurement requires sufficient
+ technical staff to ensure technical readiness. While the Bank kept urging government to take on a highly
+ skilled team to do this work, the government didn't appoint the team, even though local organizations like
+ Serviciul de Telecommunicatii Speciale had vast experience in the area. Another problem raised by NAFA
+ was the cost of adapting the IT system under procurement to changes in tax legislation, even though Bank
+ staff pointed out that in other countries such as Russia, RMS managers adapted to several changes each
+ year. The Bank was never able to persuade NAFA that COTS was the best solution, and the lack of
+ ownership by the client helped to derail the procurement.
+
+ The long list of issues that eventually led to the canceling of the RMS may have been due to vested
+ interests that opposed enhanced transparency and accountability and the reduced individual discretion that
+ would come from a well-functioning tax administration enabled by a world class RMS. This was not flagged
+ as a risk in the PAD (Annex 6).
+
+ A related issue was the task of reducing the number of revenue offices throughout the country to improve
+ efficiency and reduce opportunities for corruption. Reducing the number of offices was also needed to
+ adopt the enhanced business process that would underpin the RMS. Initially, the government agreed and
+ closed offices, reducing the total from 400 to 205. However, a new government that came to power was
+ less committed. The Bank team continued to reiterate the importance of reducing the number of offices to
+ 50. as the previous government had agreed, but the new government did not do so (ICR, p.57).
+
+ Additionally, the mid-term review occurred in March 2016 before major problems related to procurement
+ and implementation of the RMS were visible, which meant that a needed restructuring of the project was
+ not proposed at that time. This was important as the project needed to move from the analytical phase into
+ the implementation phase. The Bank could have done more to push for political support by trying to
+ activate the private sector, for example through the proposed consultative technical panel. The ICR does
+ not indicate whether the panel was established, and if so, how effective it was in sharing views and building
+ coalitions supporting the reforms.
+
+
+
+  Quality of Supervision Rating
+  Moderately Unsatisfactory
+
+  Overall Bank Performance Rating
+  Moderately Unsatisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The initial M&E design had the shortcoming that some indicators were qualitative and lacked baselines.
+ Many of the PDO level indicators were influenced by factors outside the scope of the project and their
+
+                                                                                                  Page 11 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     RAMP (P130202)
+
+
+
+ achievement, or lack thereof, cannot be solely attributed to the RAMP. For example, recovery of tax arrears
+ required legislative changes that were not adopted during the project.
+
+
+
+b. M&E Implementation
+  Surveys were carried out of taxpayer satisfaction, but these were discontinued after 2017. The PAD (p.
+  16) stated that surveys would assess NAFA’s taxpayer services and provide gender-disaggregated data
+  where feasible. However, the ICR (p. 20) states that NAFA postponed such surveys in anticipation of the
+  implementation of the RMS.
+
+
+
+c. M&E Utilization
+  In March 2016 changes were made to M&E and indicators updated. However, M&E implementation was
+  limited to reporting on the progress, or lack thereof, towards achieving targets. M&E data were reported
+  regularly to the Project Steering Committee and the Bank, but there is no evidence that there was a
+  feedback loop activated using this data to inform project implementation, policy or stakeholder outreach.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   The Project triggered no environmental or social safeguards policies. The project did not comprise activities
+   that could cause social risk or negatively affect the population and cause any physical or economic
+   displacement. Project activities were gender neutral. If the project achieved its development objective, in
+   the long term, it could contribute to sustainable income growth, but project activities did not have any overt
+   social development ramifications or effects on poverty (Project Appraisal Document, p.25).
+
+
+
+
+b. Fiduciary Compliance
+   Based on the ICR there are no obvious fiduciary issues. There were some issues with overly detailed
+   specifications related to the bidding process. There were also delays in bidding on several contracts,
+   resulting in re-bidding (ICR, p.23). Despite these minor shortcomings the operation was consistent with the
+   Bank’s fiduciary requirements. Procurement and fiduciary arrangements were adequate.
+
+   The Bank team provided support and training as required to strengthen implementation capacity. The Bank
+   procurement were noted as an important factor of successful implementation.
+
+
+
+
+                                                                                                   Page 12 of 14
+        Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+        RAMP (P130202)
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   --
+
+
+
+d. Other
+   --
+
+
+
+11. Ratings
+                                                                                     Reason for
+Ratings                            ICR                   IEG
+                                                                                     Disagreements/Comment
+Outcome                            Unsatisfactory        Unsatisfactory
+                                   Moderately            Moderately
+Bank Performance
+                                   Unsatisfactory        Unsatisfactory
+Quality of M&E                     Modest                Modest
+
+Quality of ICR                     ---                   High
+
+
+12. Lessons
+
+Lessons in the ICR are deemed appropriate. IEG adds these additional, closely related lessons:
+
+        a. A risk-based approach to supervision is needed when there are difficulties in sustaining the
+           dialogue in a changing macroeconomic and political context. In this case, the team should
+           have increased the quality of supervision to maintain more continuous dialogue with
+           government counterparts and keep better abreast of a dynamic situation.
+        b. Complex IT procurement requires sufficient technical staff to ensure technical readiness, full
+           understanding on trade-offs of basic design parameters such as COTS vs bespoke, and
+           agreement on the reasons for selecting one or the other before project effectiveness. In this
+           case, the project was rushed to approval before improved business processes were in place,
+           and before there was full agreement on technical staff requirements. The Bank kept urging
+           government during implementation to add to the IT department’s capacity in order to support
+           this work, but NAFA didn't appoint the needed specialists. In addition, NAFA’s IT department
+           never supported the justification for COTS.
+
+Task teams should fully articulate key political economy issues in the risks section of the PAD and/or
+in a standalone annex. In this case, such an assessment might have flagged the frequent changes
+in government and pointed towards a longer and more cautious approach to design, with less
+ambitious targets. It might also have found that vested interests were worried about the disruption to
+legacy rents caused by IT systems and would take actions to slow down or halt reforms. This could
+only be addressed by decisive action by the country's leadership in favor of reform.
+
+
+
+                                                                                                       Page 13 of 14
+       Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+       RAMP (P130202)
+
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is clearly written and concise. It is candid and critical. It provides sufficient and convincing evidence,
+based on the county visit, which was welcome and necessary for a project of this complexity. The ICR also
+provides a balanced narrative of the positive and negative sides of preparation as well as implementation,
+intervening factors, and context. The ICR uses project specific as well as other evidence as relevant to support
+conclusions. The ICR points out that some of the pitfalls that RAMP encountered were highlighted as risks in
+the PAD, yet when these risks materialized, they were not adequately addressed. ICR also points out progress
+on the doing business insolvency indicators; this is a strength of the ICR, that it goes beyond indicators that
+were formally monitored. The only area where more detail would have been preferable was on fiduciary
+matters, but it is clear from the write up that this was not an area of concern in this project.
+
+
+
+  a. Quality of ICR Rating
+       High
+
+
+
+
+                                                                                                     Page 14 of 14
+

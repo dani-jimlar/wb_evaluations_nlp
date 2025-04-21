@@ -1,0 +1,1598 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     Disease Surveillance & Response in WA (P154807)
+
+
+
+                                                                                Report Number: ICRR0024162
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P154807                                   Disease Surveillance & Response in WA
+
+ Country                                   Practice Area(Lead)
+ Western and Central Africa                Health, Nutrition & Population
+
+
+ L/C/TF Number(s)                          Closing Date (Original)               Total Project Cost (USD)
+ IDA-58820,IDA-58830,IDA-58840,IDA-        31-Jan-2023                                        119,530,824.13
+ 72270,IDA-D1290,IDA-D1300,IDA-
+ D1310,IDA-E1330,TF-A2534,TF-B1239
+
+ Bank Approval Date                        Closing Date (Actual)
+ 28-Jun-2016                               31-Aug-2023
+
+                                          IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                         114,064,168.00                                    13,024,899.00
+
+ Revised Commitment                          121,729,883.59                                    10,271,372.76
+
+ Actual                                      119,563,497.62                                    10,271,372.76
+
+
+
+
+ Prepared by                  Reviewed by                ICR Review Coordinator         Group
+ Salim J. Habayeb             Maria De Las Mercedes      Susan Ann Caceres              IEGHC (Unit 2)
+                              Vellez
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The objectives of the project were: (i) to strengthen national and regional cross-sectoral capacity for
+   collaborative disease surveillance and epidemic preparedness in West Africa, thereby addressing systemic
+   weaknesses within the animal and human health systems that hinder effective disease surveillance and
+
+
+
+                                                                                                 Page 1 of 30
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    Disease Surveillance & Response in WA (P154807)
+
+
+
+  response; and (ii) in the event of an Eligible Emergency, to provide immediate and effective response to said
+  Eligible Emergency (Financing Agreement, October 28, 2016, p. 6).
+
+  Four Financing Agreements were entered into for this regional operation. One was signed between the
+  International Development Association (IDA) and the Economic Community of West African States
+  (ECOWAS), and three other agreements were signed between IDA and three countries (Guinea, Senegal,
+  and Sierra Leone) participating in the first phase of the regional surveillance program (this project constitutes
+  the first phase of the regional program).
+
+  Explanatory note on the scope of the PDO statement and country selection:
+
+  The Regional Disease Surveillance Systems Enhancement Program (REDISSE program) in West and Central
+  Africa was designed to address epidemic preparedness and response and consisted of an interdependent
+  series of projects developed between 2016 and 2019. The overall program included a total of 16 countries
+  and was expected to benefit nearly half a billion people. It was planned to follow a phased approach through a
+  ‘series of projects’ that allowed countries to join each phase of the program at their discretion. According to
+  the PAD (p. 21), the above-listed three countries participating in the first phase of the program (i.e., this
+  project) were ready for investing further in surveillance systems and preparedness. Following the Ebola Virus
+  Disease (EVD) crisis, the influx of technical and financial assistance allowed these countries to assess their
+  needs, identify priorities, and lay plans for further health system strengthening and epidemic preparedness.
+
+  At the regional level, ECOWAS assigned the West African Health Organization (WAHO), an affiliate
+  organization of ECOWAS, to act as the technical regional coordinator of the overall program, including this
+  project. Therefore, WAHO was expected to support the three countries participating in this first phase, as well
+  as all other countries which would join the program in subsequent phases. This strategic arrangement was
+  meant to prevent the fragmentation of the Bank’s implementation support at the regional level by enabling
+  WAHO to engage a single and stable team as a regional counterpart to all country teams rather than creating
+  multiple regional teams across the program phases (ICR, p. 33).
+
+  Justification for not applying a split rating methodology: The project objectives did not change during the
+  project cycle. However, reliable baseline data at entry were not available since the results of the first round of
+  Joint External Evaluation (JEE) led by the World Health Organization (WHO) were not yet available.
+  Therefore, preliminary baselines and targets were estimated through self-assessments carried out between
+  December 2015 and February 2016 as part of project preparation. These were updated and revised
+  downward when the externally validated JEE findings became available. The JEE findings, on which the
+  revised baselines were based, constituted a more reliable and accurate estimation of baseline capacity than
+  the preliminary and subjective self-assessments (Project Paper, Report No: PAD3395, November 20, 2019, p.
+  12). Even though some downgrading of PDO targets may have reflected a lower ambition (for example the
+  indicator of “Progress in establishing indicator and event-based surveillance" updated its baseline from 0 to 1,
+  suggesting a higher capacity than originally anticipated while the target was downgraded from 3 to 2
+  countries, in other instances the end value achievement met both the original and revised targets), a split
+  rating methodology would not result in a different efficacy rating for any of the two objectives. Therefore, this
+  ICR Review does not apply a split rating, as it would be inconsequential to deriving the overall outcome
+  rating.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+
+                                                                                                     Page 2 of 30
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Disease Surveillance & Response in WA (P154807)
+
+
+
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   I. Surveillance and Information Systems (Original Cost: US$27.9 million; Actual Cost: US$39
+   million).
+
+   Component I aimed to enhance national surveillance systems and processes at the different tiers of the
+   health system encompassing regional, national and sub-national surveillance of priority diseases, including
+   emerging, re-emerging, and endemic diseases, and on timely reporting of human public health and animal
+   health emergencies in line with the International Health Regulations (IHR 2005) and the World Organization
+   for Animal Health (OIS) Terrestrial Animal Health Code and Performance of Veterinary Services. The
+   Component would support (i) the establishment of appropriate linkages between animal health and human
+   health surveillance information systems, and between national systems and regional/international disease
+   surveillance and reporting systems; (ii) cross-border collaboration in surveillance; (iii) timely reporting by
+   community-level surveillance agents and district health and veterinary facilities, with minimization of
+   turnaround time from specimen collection to laboratory confirmation and reporting; and (iv) the use of
+   surveillance data for risk analysis. There were three sub-components:
+
+        1. Support to coordinated community-level surveillance systems and processes across the
+           animal and human health sectors. This would consist of improving community-level surveillance
+           capacity for active, passive and rumor surveillance including in cross-border areas, and the
+           development and implementation of a plan to ensure adequate territorial coverage for surveillance
+           from the community to the central level.
+        2. Develop capacity for interoperable surveillance and reporting systems. This would include (i)
+           assessment of existing human and animal health surveillance systems and networks; (ii) review and
+           update of national and regional disease priorities, and review and development of harmonized
+           guidelines, protocols and tools to enhance surveillance and reporting processes; (iii) development of
+           common methodologies and protocols for efficient flow and utilization of surveillance data; (iv)
+           development of information communication and technology (ICT) infrastructure to facilitate cross-
+           sectoral interoperability of surveillance and reporting systems at the national and regional level; and
+           (v) establishing the necessary linkage of surveillance and reporting systems to national incidence
+           management systems.
+        3. Establish an early-warning system for infectious disease trend tracking and reporting. This
+           included the use of Geographic Information Systems (GIS) to study infectious disease patterns and
+           make predictions on the evolution of disease outbreaks, including zoonoses; and the identification of
+           potential high-risk areas for disease outbreaks in the region. Activities would also support the
+           monitoring of antimicrobial resistance and insecticide resistance, and the impact of climate change
+           on infectious disease outbreaks in the region.
+
+   II. Strengthening of Laboratory Capacity (Original Cost: US$17 million; Actual Cost: US$20.4
+   million). The component aimed at addressing laboratory systems weaknesses and at fostering cross-
+   country and cross-sectoral collaboration by establishing networks of efficient and quality public health,
+
+                                                                                                     Page 3 of 30
+  Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+  Disease Surveillance & Response in WA (P154807)
+
+
+
+veterinary, and private laboratories. It aimed at setting up a regional networking platform to improve
+collaboration for laboratory investigation, to align with internationally recognized practices, and to ensure
+prompt results. It had three sub-components:
+
+    1. Develop capacity for interoperable surveillance and reporting systems. This would include (i)
+       the assessment of existing human and animal health laboratory facilities and networks; (ii) support to
+       increasing laboratories services and their biosafety; (iii) support for improving’s supply chain
+       management, including the establishment of efficient inventory tracking and management systems;
+       (iv) technical support for integrated laboratory information systems and the interoperability with
+       disease surveillance and reporting systems; and (v) support to strengthening quality assurance
+       systems for diagnostic services.
+    2. Improve data management and specimen management systems, including streamlining the
+       laboratory specimen referral process and improving the efficiency of specimen transport and
+       disposal systems.
+    3. Enhance regional reference laboratory networking functions. This sub-component would
+       provide support for networking and for improving quality assurance, notably (i) the development of
+       common standards, quality assurance systems, procedures and protocols; (ii) the introduction of
+       peer review mechanisms; (iii) the application of the World Health Organization – Africa Region
+       (WHO/AFRO) five-step accreditation process and technical assistance to support accreditation of
+       laboratories; and (iv) support inter-laboratory external quality assessments among participating
+       countries and recruitment of experts to provide laboratory mentorship. The sub-component was
+       expected to strengthen regional reference laboratories for specific diseases or diagnostic
+       techniques; strengthen regional networking and information sharing between countries; and
+       harmonize laboratory quality assurance policies across countries in the region, based on
+       international standards.
+
+III. Preparedness and Emergency Response (Original Cost: US$26 million; Actual Cost: US$27.8
+million). This component aimed to support national and regional efforts to enhance capacities for infectious
+disease outbreak preparedness and response. It aimed at improving country and regional surge capacity to
+ensure a rapid response during an emergency. It had three sub-components:
+
+    1. Enhance cross-sectoral coordination and collaboration for preparedness and response by
+       supporting: (i) partnership building activities, including the private sector, for outbreak preparedness
+       and disaster risk management; (ii) improvement and harmonization of policies, legislation, and
+       operating procedures with the involvement and representation from other relevant sectors including
+       environment, customs/immigration, education, law enforcement; and (iii) exploring the establishment
+       of national and regional financing mechanisms to support swift mobilization of resources for animal
+       health and public health emergencies.
+    2. Strengthen capacity for emergency response by supporting the strengthening of emergency
+       operations centers and surge capacity at the national and regional levels. Activities include: (i)
+       establishment and management of a database of multidisciplinary rapid response teams that would
+       be available for rapid deployment; (ii) development and management of regional stockpiling
+       mechanisms to ensure availability of supplies to countries during an emergency response; and (iii)
+       swift mobilization and deployment of resources in response to major infectious disease outbreaks.
+    3. Contingency Emergency Response (CERC) in the event an emergency, whose objective was to
+       improve government response capacities in the event of an emergency, following the procedures
+       governed by OP/BP 10.00 paragraph 13 (Rapid Response to Crisis and Emergencies). There was a
+       likelihood that, during the life of the project, one or more countries would experience an epidemic or
+
+                                                                                                   Page 4 of 30
+    Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+    Disease Surveillance & Response in WA (P154807)
+
+
+
+         outbreak of public health importance or other health emergency which could cause major adverse
+         health, economic, and social impacts. The CERC sub-component was included in anticipation of
+         such events to facilitate World Bank support to mitigation, response, and recovery. The CERC would
+         serve as a first line financing option during an emergency response, and an Emergency Response
+         Operational Manual would be prepared by each country as a condition of disbursement.
+         Disbursements would be made against an approved list of goods, works, and services required to
+         support crisis mitigation, response and recovery.
+
+  IV. Human Resource Management for Effective Disease Surveillance and Epidemic Preparedness
+  (Original Cost: US$14.1 million; Actual Cost: US$14.5 million). This component was cross-cutting and
+  aimed to strengthen government capacity and ability to plan, implement, and monitor human resource
+  development in related areas. It had two sub-components:
+
+      1. Healthcare Workforce mapping, planning and recruitment, with due consideration to quantitative
+         aspects, geographical distribution, and private actors.
+      2. Enhance Health Workforce training, motivation, and retention, including training at the
+         community level.
+
+  V. Institutional Capacity Building, Project Management, Coordination, and Advocacy (Original Cost:
+  US$29.1 million; Actual Cost: US$33.4 million). This component focuses on all aspects related to project
+  management and cross-cutting institutional support, and includes two sub-components:
+
+      1. Project coordination, fiduciary management, monitoring and evaluation, data generation and
+         knowledge management.
+      2. Institutional support, capacity building, advocacy and communication, including support to
+         One Health coordination.
+
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Costs and financing: The project was processed as an Investment Project Financing Instrument with a
+  combination of IDA Credits and Grants. The original cost for IDA (from both Country IDA resources and
+  Regional IDA resources) was estimated at US$110 million equivalent with US$30 million allocated to each
+  of the three countries, and US$20 million as a regional grant for ECOWAS/WAHO (PAD, p. 21).
+
+  IDA financing allocations at appraisal (in US$ million)
+
+   Recipients           Country IDA            Regional IDA       Total
+   ECOWAS/WAHO          --                     20.0               20.0
+   Senegal              15.0                   15.0               30.0
+   Sierra Leone         10.0                   20.0               30.0
+   Guinea               10.0                   20.0               30.0
+   Total                35.0                   75.0               110.0
+
+
+
+
+                                                                                              Page 5 of 30
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Disease Surveillance & Response in WA (P154807)
+
+
+
+
+   In addition, a grant amount of US$4.1 million was financed by a Multi-Donor Trust Fund (MDTF) for
+   supplementing activities under Component 1 (Surveillance and Information Systems). Hence, the total
+   estimated project cost at entry aggregated at US$114.1 million.
+
+   During implementation, additional financing (AF) was introduced as follows: US$8.96 million under MDTF in
+   2019; an additional IDA Grant of US$5 million to WAHO; and an additional IDA Credit of US$7 million to
+   Senegal in 2022 (see details below under restructurings), bringing the total estimated cost to US$135.1
+   million. In 2023, the cost was revised to US$121.7 million with cancellations of about US$6 million.
+   Unutilized funds were recommitted to the countries’ national portfolio budget allocation (ICR, p. 16). The
+   actual cost was US$119.6 million.
+
+   Dates: The project was approved on June 28, 2016 (ICR, p. 2), and became effective on December 2,
+   2016. A Mid-Term Review was carried out on October 30, 2020. The project closing date was extended by
+   an aggregate total of seven months. The original closing date was January 31, 2023, and the actual closing
+   date was August 31, 2023.
+
+   Restructurings: The project underwent six restructurings:
+
+   The first restructuring of November 20, 2019 (i) provided AF of US$8.96 million under MDTF from the
+   Canadian Government in support of WAHO activities and for setting up additional Centers for Epidemiologic
+   Surveillance; and (ii) revised the results framework mainly to update baseline data and targets based on the
+   initial round of external JEE assessments
+
+   The second restructuring of December 6, 2022 provided another AF in the amount of US$12 million: and
+   IDA Grant of US$5 million for WAHO, and an IDA Credit of US$7 million to Senegal with the aim to (i)
+   replenish funds used for COVID-19; (ii) complete planned regional and country activities; (iii) ensure that the
+   systems introduced are institutionalized by the end of the project; and (iv) extend the closing date for
+   Senegal and Guinea to August 31, 2013, and for Sierra Leone to June 30, 2023. The extension was
+   necessitated by the delays in project implementation caused by the COVID-19 pandemic (ICR, p. 16) and
+   was meant to allow the completion of pending activities.
+
+   The third, fourth, fifth and sixth restructurings during the last year of the project (January 30, 2023;
+   June 9, 2023, June 29, 2023, and August 31, 2023) were required for extending the closing date of
+   REDISSE I till August 31, 2023, and to reflect reallocation of funds during the post COVID-19 period. The
+   actual closing date of August 31, 2023, was also aligned with the closing date of the second phase of the
+   program (REDISSE II project that involved other countries).
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Emerging and re-emerging diseases at the human-animal interface have been occurring with increased
+frequency. At the time of the REDISSE program planning, and according to WHO, out of 55 disease
+
+                                                                                                     Page 6 of 30
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Disease Surveillance & Response in WA (P154807)
+
+
+
+outbreaks reported in Africa over the last decade, 42 outbreaks took place in West Africa, a region that
+continued to have one-third of the global disease burden affecting the human population. The region
+experienced expansion in human settlements, increased exploitation of natural resources, forest
+fragmentation, and intensification of agricultural and livestock production. The region remained at high risk
+for infectious disease outbreaks, including those of animal origin (zoonotic diseases). Commonly arising
+outbreaks included cholera, dysentery, hemorrhagic fevers (e.g., Ebola virus disease, Rift Valley fever,
+Crimean-Congo hemorrhagic fever, Lassa fever, and yellow fever), and meningococcal meningitis. West
+Africa also bears a disproportionate burden of malaria, tuberculosis, acquired human immunodeficiency
+syndrome (HIV/AIDS) and neglected tropical diseases, many of which have a potential for resurgence,
+including because of increasing drug and insecticide resistance (ICR, p. 6). At the global level, the world
+has witnessed one to three newly emerging infectious diseases annually over the last four decades. Among
+infectious diseases affecting humans, many were of animal origins, with more than 70 percent of emerging
+zoonotic infectious diseases coming from wildlife. Health and socio-economic impacts were often
+significant.
+
+The project was prepared in the aftermath of the 2014-2016 West Africa Ebola crisis, which challenged
+weak surveillance systems and raged unabated for over eighteen months in the absence of rapid diagnostic
+tests, treatment or vaccine availability, and overall readiness. Previous efforts to strengthen health
+surveillance, preparedness and response systems in the West Africa region started in 2010, but they were
+very limited (ICR, p. 6). In 2013, a US$10.75 million trust fund-financed operation known as the West Africa
+Regional Disease Surveillance and Capacity Strengthening Project (WARDS, P125018) was initiated. It
+played an important role in identifying challenges in strengthening surveillance and preparedness capacities
+in the region and in developing the West Africa Health Organization (WAHO) capacity as an important
+regional partner for future development of surveillance systems.
+
+The Ebola Virus Disease epidemic in West Africa highlighted the critical importance of strengthening
+national disease surveillance systems and inter-country collaboration to detect disease outbreaks earlier
+and to respond more swiftly and effectively to minimize the loss of human lives and economic costs. The
+overall economic impact of the Ebola crisis was estimated in billions of USD, and the economic impact
+outlasted the epidemiological impact. The Ebola epidemic demonstrated that there can be rapid spread and
+large spill-over effects, as Ebola emerged in a remote rural area of Guinea, but rapidly spread to populated
+urban centers within the country and to neighboring countries given interconnected communities along the
+borders (Liberia, Sierra Leone), and within the wider sub-region (Mali, Nigeria, Senegal), with further
+subsequent spread to other parts of the world given the prevailing commerce and transport activities.
+
+Development objectives supported the ‘One Health Approach’ which aimed at integrating into human health
+aspects the improvement of animal health and wildlife conditions, as these were often the root cause from
+which zoonotic diseases tended to originate and spread. At both appraisal and completion, the PDOs were
+aligned with and built on International Health Regulations and guidelines, namely, the WHO International
+Health Regulations (IHR 2005, revised in 2007), the One Health Agenda, the Global Health Security
+Agenda, Universal Health Coverage, the World Organization for Animal Health (OIE - Office International
+des Epizooties) Terrestrial Animal Health Code and Manual, the Sustainable Development Goals, the US
+Government Global Health Security Agenda that was established in 2014 in partnership with the United
+States Centers for Disease Control and Prevention, and the United States Agency for International
+Development (USAID). At the regional level, the PDOs were aligned with the goals of ECOWAS Member
+States to design a robust regional and national One Health coordination mechanism.
+
+
+
+
+                                                                                                   Page 7 of 30
+                                      Independent Evaluation Group (IEG)                      Implementation Completion Report (ICR) Review
+                                      Disease Surveillance & Response in WA (P154807)
+
+
+
+               According to the ICR (p. 18), objectives were and remained aligned with the Country Partnership Strategies
+               and Frameworks (CPFs) for all three REDISSE I countries, as they focused on strengthening health
+               systems capacity, including disease surveillance, to improve health outcomes and reduce vulnerability. The
+               COVID-19 pandemic rendered the PDOs even more relevant, as REDISSE’s activities aimed to strengthen
+               regional and national surveillance systems, enabling better preparedness and response capacity to contain
+               outbreaks. For Guinea, the PDOs were aligned with all four pillars of the CPF for the period FY18-23,
+               namely: promoting good governance for sustainable development; sustainable and inclusive economic
+               transformation; inclusive development of human capital; and sustainable management of natural capital.
+               For Senegal, the PDOs were aligned with the main areas of focus of the CPF for the period FY20-24,
+               namely: strengthening governance framework and building resilience, and improving service delivery. In the
+               case of Sierra Leone, the PDOs remained aligned with the second focus area of the CPF for the period
+               FY21-25, namely tackling human capital acceleration for inclusive growth.
+
+               Importantly, health security is bolstered by collective regional or global approaches for building
+               preparedness and response capacities along with mutualization of resources rather than unilateral actions.
+               Strengthening national, regional, and global systems for infectious disease outbreaks preparedness, alert,
+               and response are global public goods that extend beyond the reinforcement of the first line of defense at
+               the country level, but to the region and ultimately to the global level, as infectious disease outbreaks can
+               transcend national borders.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             Strengthen national and regional cross-sectoral capacity for collaborative disease surveillance and epidemic
+                             preparedness in West Africa, thereby addressing systemic weaknesses within the animal and human health
+                             systems that hinder effective disease surveillance and response
+
+                             Rationale
+                             Surveillance and epidemic preparedness are closely interlinked, notably in aspects related to laboratory
+                             capacities, information systems, human resources, and overall purposes. They are also assessed in tandem
+                             by WHO JEE methodology (see below). Therefore, surveillance and preparedness are addressed under one
+                             objective. Concurrently, there are also close linkages with Objective 2, as Objective 1 promotes the overall
+                             capacities and readiness to respond to health emergencies.
+
+                             The theory of change (ICR, p. 11) envisaged the following:
+
+                             that surveillance and information systems strengthening activities to:
+
+
+                                                                                                                             Page 8 of 30
+   Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+   Disease Surveillance & Response in WA (P154807)
+
+
+
+
+      harmonize protocols and guidelines;
+      establish linkages between surveillance information systems (human and animal; sub-national,
+       national and regional);
+      develop/enhance early warning systems for surveillance, inc. analysis and predictions;
+      implement collaborative activities in cross-border surveillance;
+      train human and animal health community/field level staff for detection and reporting;
+      conduct Field Epidemiology Training for staff at different levels and across sectors (human and animal
+       health); and
+      strengthen infrastructure and equipment of health facilities;
+
+would be reasonably expected to result in the following outputs and intermediate results:
+
+      improved collaboration and exchange of information across countries;
+      strengthened community/local-level surveillance and response processes;
+      establishment of event-based surveillance systems;
+      better integration/ interconnection of surveillance and information/reporting systems across animal and
+       human health sectors;
+      improved surveillance processes across the human and animal health sectors (progress towards
+       operationalizing the One Health approach);
+      improved systems for effective reporting to relevant organizations; and
+      improved capacity to analyze/predict epidemic trends;
+
+that laboratory capacity strengthening activities to:
+
+        improve laboratory infrastructure, equipment and supplies, and networks;
+        increase laboratory services;
+        strengthen laboratory information systems;
+        strengthen the integration of laboratory information systems and reporting;
+        improve sub-national, national and regional laboratory specimen referral and transportation; and
+         strengthen quality assurance systems and accreditation processes;
+
+would be reasonably expected to result in the following outputs and intermediate results:
+
+        laboratory facilities upgraded and connected as a network;
+        increased laboratory testing capacity for the detection of priority diseases;
+        improved specimen management systems; and
+        enhanced networking functions of regional reference laboratories;
+
+that preparedness and emergency response activities to:
+
+        develop/update National Emergency Preparedness and Response Plans;
+        strengthen Emergency Operating Centers infrastructure;
+        strengthen risk communication mechanisms;
+        conduct simulation exercises; and
+
+                                                                                                    Page 9 of 30
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   Disease Surveillance & Response in WA (P154807)
+
+
+
+
+      deploy resources for outbreak response;
+
+would be reasonably expected to result in the following outputs and intermediate results:
+
+      multi-hazard emergency preparedness and response plans implemented;
+      mechanisms for responding to known infectious zoonoses and potential zoonoses established and
+       operational; and
+      surge capacity of Emergency Operating Centers and stockpiling mechanisms established at national
+       and regional levels;
+
+that human resource management for surveillance and preparedness to:
+
+      carry out HR mapping and gap analysis;
+      train personnel in surveillance, preparedness, response, and One Health at central and decentralized
+       levels; and
+      recruit surveillance and laboratory staff,
+
+would be reasonably expected to result in the following outputs and intermediate results:
+
+      increased HR availability and capacity to implement IHR core capacities; and
+      increased capacity and competency of public health and veterinary health workforce;
+
+and that Institutional capacity building, coordination, and advocacy activities would be reasonably
+expected to result in the following outputs:
+
+      One Health established and functional as an institutional collaboration mechanism;
+      improved cross-border collaboration and information exchange; and
+      strengthened regional public health institutions.
+
+All of the above outputs and intermediate results would plausibly contribute to the following
+outcomes that would be reflective of the PDOs:
+
+      Increased collaboration and integration for surveillance and preparedness across sectors, countries
+       and the regional level.
+      Increased effectiveness in disease surveillance, early detection, and reporting.
+      Reduced systemic weaknesses in human and animal health sectors.
+      Increased capacity for immediate and effective response to an eligible public health emergency at
+       sub-national, national and regional levels.
+
+The ICR noted that REDISSE I was expected to directly benefit 33.3 million people (12.3 million in Guinea,
+14.7 million in Senegal and 6.3 million in Sierra Leone) whose livelihoods might be affected by
+disease outbreaks. It noted that REDISSE I would also benefit the populations of other countries participating
+in the REDISSE program through WAHO’s regional interventions and technical support to the region at large.
+Secondary beneficiaries would include national and regional institutions involved in human and animal health,
+and public and private service providers.
+
+
+                                                                                                Page 10 of 30
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Disease Surveillance & Response in WA (P154807)
+
+
+
+The ICR suggested that, in the long run, the above outcomes would contribute to two long-term impacts:
+improved health outcomes and reduced vulnerability; and mitigation and reduction of human and economic
+burden of disease outbreaks.
+
+Explanatory note on WHO Joint External Evaluation Tool (JEE) used by the project:
+
+The international community coalesced around the notion that a more objective measure of country
+preparedness capacities had to be developed. In 2016, WHO, together with member states and partners,
+developed and launched a Joint External Evaluation Tool-International Health Regulations (JEE-IHR) to
+assess country capacity to prevent, detect, and respond to public health threats. The tool allows countries to
+identify the most urgent needs within their health security system, and to prioritize opportunities for enhancing
+preparedness and response actions. Through serial evaluations, JEE would help monitor country progress in
+implementing the IHRs (PAD, p. 5). Each core capacity is assessed using five levels of advancement ranging
+from no capacity to sustainable capacity. The countries were responsible for conducting annual self-
+assessments using JEE tools, complemented by OIE Performance of Veterinary Services, and were to be
+followed by JEE assessments carried out by external experts biennially to validate the findings of national
+self-assessments and the quality of their data.
+
+The REDISSE program drew most of its results framework indicators from the JEE tool (ICR, p. 13). By
+adopting the JEE framework, the World Bank, development partners, and Client countries signaled their
+alignment to the JEE tool and their aim to support the achievement of higher JEE scores. The consensus
+among stakeholders was that JEE indicators were adequate to monitor progress and measure PDO
+achievement, and to facilitate the dialogue between partners contributing to the health security agenda.
+
+Concurrently, the ICR (p. 13) stated that it was important to note that, while the project was expected to
+contribute to improved scores, higher scores cannot be attributed solely to the project, as there may be
+progress made by countries in health security regardless of the project. On the other hand, progress in some
+particular areas may not have been included in JEE scores. For instance, the project contributed to
+strengthening IHR core capacities related to military doctors, maritime health, and food safety personnel to
+support the regional and national integration of the One Health approach. Nevertheless, JEE elements reflect
+important core aspects of health security and are used as a suitable proxy to measure the overall level of
+preparedness. The JEE tool evolved over time. The second edition of the JEE tool in 2018 had minor
+adjustments. The third JEE edition of 2021 introduced changes in technical areas and various indicators, and
+it integrated equity considerations across several areas, making benchmarks more stringent to comply with
+(ICR, p. 95).
+
+Main outputs and intermediate results
+
+Note: As discussed above, JEE scores ranged from 1-5 levels of advancement.
+
+Countries that achieve a JEE score of 3 for zoonotic disease surveillance: (developed capacity reflecting
+zoonotic surveillance systems in place for one to four zoonotic diseases/pathogens of greatest public health
+concern) or higher (five or more zoonotic diseases of greatest public health concerns): Starting from a
+baseline score of 1 or 2 (no capacity or limited capacity) in 2016, all three countries achieved a score of 4,
+exceeding the target.
+
+Countries that achieve a JEE score of 4 for reporting to WHO and OIE (demonstrated ability to identify a
+potential threat and file a report to WHO or OIE within 24 hours): Starting from a baseline score of 3
+
+                                                                                                  Page 11 of 30
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   Disease Surveillance & Response in WA (P154807)
+
+
+
+(developed capacity to identify a threat and to report), all three countries achieved a score of 4, attaining the
+target.
+
+Countries that achieve a JEE score of 4 (demonstrated capacity) or higher for an interoperable,
+interconnected, and electronic real-time reporting system: Starting from a baseline score of 2 and 3 (no
+capacity or limited capacity) in 2016, Guinea and Sierra Leone achieved a JEE score of 4 in 2023, and
+Senegal maintained its baseline score of 3 (developed capacity but not demonstrated yet).
+
+Countries that achieve a JEE score of 4 for laboratory systems quality (demonstrated capacity reflecting
+mandatory licensing of all health laboratories in place and conformity to a national quality standard): In all
+three countries, there was no further progress in the JEE score beyond the initial baseline score that ranged
+between 2 and 3 (limited capacity or voluntary conformity to a national quality standard).
+
+Countries that achieve a JEE score of 4 (demonstrated capacity) or higher in specimen referral and transport
+system: Starting from a baseline score of 3 in 2016, both Guinea and Senegal achieved a score of 4 in 2023,
+while Sierra Leone sustained its baseline score of 3 (developed capacity).
+
+Countries that achieve a JEE score of 4 (public health workforce strategy developed and implemented) or
+higher in workforce strategy: Starting from a baseline score of 1 and 2 (no workforce strategy or a limited
+one), all three countries achieved a score number of 3 in 2023 (public health workforce strategy exists but not
+regularly updated or consistently implemented) in 2023.
+
+Countries that achieve a JEE score of 4 (demonstrated capacity) or higher in applied epidemiology training
+program (Field Epidemiology Training Program) in place: all three countries achieved a score of 4.
+
+The percentage of females trained in applied epidemiology was 24 percent, short of the target of 35 percent.
+(Note: The project aptly sought to promote and monitor women’s participation in epidemiology training, but
+gender disaggregated data collection and reporting remained limited (ICR, p. 30). Prior to project closure, a
+two-day workshop was organized by the World Bank and Global Affairs Canada to introduce a Gender Toolkit
+to country representatives of the Ministries of Health of ECOWAS member countries. WAHO presented
+Western Africa epidemiological situation and the gender strategy developed by the ECOWAS Gender
+Development Center on integrating gender in health emergencies. WAHO is expected to continue to engage
+with regional and national stakeholders to mainstream gender issues in the ECOWAS region including
+sharing the gender toolkit).
+
+Countries that achieve a JEE score of 4 (demonstrated capacity) or higher in veterinary human health
+workforce: All three countries achieved a score of 2 and 3 (limited capacity or less than half of sub-national
+levels), short of the target score of 4.
+
+In all three countries, citizens and communities were involved in planning, implementation, and assessment of
+related project interventions.
+
+In terms of the establishment of an active and functional regional One Health platform (measured on a 5-point
+Likert scale), and starting from a baseline level of 1 (no capacity) in 2016, a level 3 was reached (an action
+plan for regional collaboration is developed and endorsed) short of the target of level 4 (action plan is
+budgeted and endorsed).
+
+
+
+
+                                                                                                    Page 12 of 30
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   Disease Surveillance & Response in WA (P154807)
+
+
+
+
+      At the regional level, a regional One Health platform was established in 2017 as ECOWAS’s
+       institutional planning and decision-making body for human, animal, and environmental health sectors.
+       WAHO also provided support to operationalize the Regional Animal Health Center, responsible for
+       animal health. It also defined an action plan for cross-border collaboration and technical assistance
+       endorsed and implemented by the participating countries.
+      At the national level, the project supported the national establishment of One Health Permanent
+       Secretariats, One Health inter-ministerial committees, One Health technical working groups and focal
+       points in each sector with the aim to advance the One Health agenda. The project supported
+       participating countries to transition to the One Health paradigm starting with no capacity at baseline to
+       having a governance structure established. The countries also developed National Strategic Health
+       Plans for 2019-2023 which integrated the One Health approach.
+
+However, there were considerable challenges in the actual operationalization of the One Health approach in
+participating countries that persisted throughout the lifetime of the project. While the foundational elements,
+notably the institutional platforms for coordination, were set up, the project had inadequacies in the
+functionality of the “One Health” platform. Related issues are also discussed in section 5.
+
+Other region-specific outputs generated by WAHO: At the regional level, WAHO’S main support included
+the following (other country-specific outputs were also listed in the ICR’s Annex 1, pp. 64-71):
+
+      WAHO provided continuous technical assistance and guidance to participating countries, including
+         through 28 joint World Bank missions to the three project countries and other countries participating in
+         the REDISSE program. WAHO also made arrangements to access health expertise that might
+         otherwise have been unavailable;
+        established a partnership with WHO and the International Air Transport Association (IATA) to ensure
+         that all countries have at least one IATA-trained and certified person to approve air transportation of
+         medical samples;
+        developed a regional laboratory strategy and a regional emergency response strategy;
+        established a network of biosafety associations and biobanks;
+        established and implemented a laboratory certification process for 14 laboratories within the region,
+         incorporating ISO1589 for human health and ISO7025 for animal health.
+        organized cross-border simulation exercises;
+        provided a master's level training in regional field epidemiology and laboratory training delivered in two
+         centers of excellence, benefiting over 100 participants;
+        supported the establishment of 40 additional Epidemiological Surveillance Centers to integrate
+         laboratory and surveillance units in health districts: and
+        facilitated: (i) the development of the 3rd edition of the Technical Guidelines for Integrated Diseases
+         Surveillance and Response (IDSR3); (ii) training of focal points in surveillance throughout the
+         countries’ health pyramid on IDSR to detect public health threats;(iii) quarterly coordination meetings
+         across sectors; and (iv) the operationalization of community-based surveillance of priority diseases
+         and zoonoses under the One Health approach, including specific surveillance protocols for wildlife,
+         animal health and the construction and equipping of border inspection posts.
+
+Outcomes
+
+
+
+
+                                                                                                    Page 13 of 30
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   Disease Surveillance & Response in WA (P154807)
+
+
+
+Countries that achieve a JEE score of 4 or higher in enhanced laboratory testing capacity for
+detection of priority diseases: Compared with a baseline score of 3 (national laboratory system is capable
+of conducting 3-4 core tests (of ten), all three countries achieved the target of a JEE score of 4 in 2023,
+demonstrating capacity of conducting 5 or more (of 10) core tests.
+
+National laboratories had enhanced capacities with upgraded equipment, trained staff, and improved
+processing time. Diagnostics took only 48 to 72 hours unlike previous patterns when samples had to be
+shipped out of the countries with results requiring several weeks to obtain (ICR, p. 21). Collaboration among
+national laboratories also improved as they organized themselves under a network of both human and animal
+health laboratories, including two Research Institutes (Pasteur Institute in Dakar and Abidjan). National
+laboratories were performing core tests for priority diseases while regional laboratories could detect Ebola,
+Lassa fever, Zika and Monkey pox. The region established a reference laboratory accreditation program
+along with a regional observatory to monitor antimicrobial resistance and a biobank in Pasteur Institute
+Abidjan in collaboration with Africa CDC, FAO, USAID and WHO. In Guinea, with the support of REDISSE
+and other development partners, the laboratory system achieved a high level of capacities for detection and
+surveillance. However, the ICR (p. 21) reported that the national veterinary laboratories in both of Guinea and
+Senegal were not upgraded due to land ownership issues and limited contractors’ delivery capacity.
+
+Countries that achieve a JEE score of 4 or higher in terms of progress toward establishing an
+indicator and event-based surveillance systems: All three countries achieved a JEE score of 4 in 2023,
+demonstrating capacity in place for establishing both an indicator and event-based surveillance systems to
+detect public health threats.
+
+The intended outcome was facilitated by the development and implementation of a regional data warehouse
+and the District Health Information Software 2 led by WAHO in collaboration with WHO and the University of
+Oslo. The surveillance platform was interconnected to the national epidemiology surveillance databases
+within the first three years across participating countries and began to harmonize and to systematically
+consolidate outbreak data since 2020 at a national and sub-national level. Information was shared in user-
+friendly dashboards on a weekly basis regionally and worldwide. The ICR noted that this development proved
+to be valuable, especially for neighboring countries to help in confronting the evolution of the COVID-19
+spread. Further harmonization and automatic data transfer process improvements followed. WAHO expanded
+data collection for epidemic prone diseases to strengthen the surveillance system in the region.
+
+Countries that achieve a JEE score of 3 or more in the availability of HR to implement IHR core
+capacity requirements: Guinea and Senegal sustained their baseline score of 3 (developed capacity
+reflecting the availability of multidisciplinary HR capacity at national and intermediate levels), while Sierra
+Leone remained at its baseline score of 2 (limited capacity), short of the target score of 3.
+
+Although JEE scores did not increase, including for reasons explained in the Rationale, the supply of skilled
+workers was substantially increased through training and hiring of professionals in human and animal health
+as shown under the intermediate results indicators. At project completion, all three countries had capacity in
+terms of HR availability to implement IHR core capacity requirements with field epidemiology training
+programs in place. However, while all countries also progressed in capacity building related to veterinary
+health workforce, there was a shortage of trained veterinary workers driven by an aging workforce and
+retirements following the COVID-19 pandemic and which could not be replaced fast enough (ICR, p. 22).
+
+
+
+
+                                                                                                     Page 14 of 30
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Disease Surveillance & Response in WA (P154807)
+
+
+
+Countries that achieve a score of 4 or higher in cross-border collaboration and exchange of
+information:
+
+      Guinea achieved a score of 4 (demonstrated capacity) in 2023 compared to a baseline score of 1 (no
+       capacity) in 2016.
+      Sierra Leone achieved a score of 2 (limited capacity) compared with a baseline score of 1 (no
+       capacity) in 2016.
+      Senegal remained at its baseline score of 2 (limited capacity).
+
+Progress was facilitated by the exchange of data across countries and by harmonized approaches related to
+point of entry policy, sample collection, laboratory processing capacity, vaccination supply, and
+communications. Coordination with IATA and the presence of at least one IATA-trained and certified
+professional with the authority to approve air transportation of medical samples contributed to the reduction
+processing time for samples to reach regional reference laboratories. As noted earlier in the Rationale, JEE
+did not consider the full extent of progress made on cross-border collaboration, as it focused on a national
+perspective and not on a sub-national perspective where specific regions collaborated regularly along the
+borders. Also, JEE scope is limited to bilateral collaboration rather than multilateral collaboration that took
+place through WAHO (ICR, p. 23).
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+
+In the event of an Eligible Emergency, to provide immediate and effective response to said Eligible
+Emergency
+
+
+Rationale
+The theory of change is the same as that of Objective 1, complemented by actual responses. Also, both
+objectives have close linkages, as Objective 1 contributes to the readiness that facilitates prompt and
+effective responses to health emergencies under Objective 2.
+
+Under this objective, the response to the COVID-19 pandemic was the most salient, and the project also
+supported other disease outbreaks discussed below.
+
+Main outputs and intermediate results
+
+Countries that achieve a JEE score of 4 or higher in established and functional mechanisms for responding to
+infectious zoonoses and potential zoonoses: starting from a baseline score of 1 (no capacity), all three
+countries achieved a score of 4 (demonstrated capacity reflecting timely and systematic information exchange
+between animal/wildlife surveillance units, human health surveillance units and other relevant sectors in
+response to potential zoonotic risks and urgent zoonotic events).
+
+
+                                                                                                  Page 15 of 30
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   Disease Surveillance & Response in WA (P154807)
+
+
+
+Establishment of regional surge capacity and stockpiling mechanisms (capacity based on 5-point Likert
+scale): In all three countries, there was no further progress beyond the initial baseline score level of 1 point
+(no capacity, i.e., no regional surge capacity and stockpiling mechanisms exist).
+
+Regional and country-specific outputs and intermediate results:
+
+WAHO undertook the following:
+
+      pursued a coordinated approach in responding to the COVID-19 pandemic with harmonized
+       approaches across countries ranging from setting minimum standards for testing to travel bans;
+      facilitated the sharing of specialized assets such as regional reference laboratories, training
+       institutions, and emergency stockpiling;
+      supported a regional strategy to provide the three countries of REDISSE I and all 16 participating
+       countries under the overall REDISSE program with capacities and resources to ensure prevention and
+       early detection of COVID-19, including managing infectious cases and risk communication, fostering
+       cross-border collaboration through systematic reporting regionally, nationally and sub-nationally as the
+       One Health approach was being established; and
+      ensured the prompt procurement of laboratory equipment and reagents, provision of protective gear,
+       viral transportation media, training, and provision of technical support, including through joint
+       supervision missions that took place between February 2020 and June 2022. Under REDISSE I,
+       WAHO ensured that each member state had at least one intensive care unit specifically dedicated to
+       the treatment of critical cases of COVID-19 with associated equipment, including ventilators and
+       adequate inventory of testing kits and medicines.
+
+At the country level, the project supported and enabled the following:
+
+In Sierra Leone:
+
+      activities across the six pillars of the National Coronavirus Immediate Preparedness Plan (January
+         2020) including the acquisition of crucial equipment to ensure an early detection of the COVID-19
+         pandemic;
+        training of 960 trained collectors of COVID-19 samples to cover all district laboratories;
+        rehabilitation of emergency centers and improved laboratory capacities to ensure timely clinical and
+         surveillance processes;
+        quarterly cross-border collaboration in seven Points of Entry (PoE) with information sharing and
+         preparedness measures for epidemic-prone diseases;
+        development of six Points of Entry standard operating procedures and Point of Entry policy between
+         Sierra Leone, Guinea and Liberia;
+        four table-top simulation exercises, and one Full Scale Rapid Deployment of Interim Treatment
+         Facilities with the military.
+        a pilot for an Integrated Laboratory Specimen Referral System for a period of 12 months at the sub-
+         national level showing improvement in samples referral;
+        development of a software system for coordinating emergency response for disease outbreaks; and
+        enhancement of mobility through the provision of and 159 motor bicycles and four vehicles for
+         chiefdom surveillance officers and Points of Entry staff.
+
+
+                                                                                                    Page 16 of 30
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Disease Surveillance & Response in WA (P154807)
+
+
+
+In Guinea:
+
+     heightened laboratory capacity for detection that reached a capacity of 1,000 PCR tests per day in 12
+      laboratories, including five laboratories capable of sequencing;
+     strengthened surveillance activities by ramping up Regional, Prefectorial and Communal Alert and
+      Response Teams during the COVID-19 pandemic;
+     secured access to medicines to treat COVID-19 cases and provided logistical means among response
+      teams to expand their geographical reach; and
+     carrying out emergency simulation exercises on Lassa fever and yellow fever to test the level of the
+      Regional and Prefectural/Communal Epidemic Alert and Response Teams.
+
+In Senegal:
+
+     development and validation of an integrated multi-sectoral preparedness and response plan for public
+        health emergencies and disasters;
+     implementation of outbreak action plans that triggered a series of interventions focused on
+        strengthening coordination in disease surveillance and rapid response;
+       risk communication management and community engagement to best control infection during the
+        evolution of rising cases at COVID-19 onset;
+       training of 158 Border Police Officers and 121 border services field agents on strategies for combating
+        health risks at the borders (air, sea and land), and cross-border management of public health threats
+        which was timely just before COVID-19 (ICR, p. 71);
+       field simulation exercise involving 95 health professionals on the deployment of the mobile field
+        hospital to assess the rapid response capacity of the army health services to respond to an epidemic
+        or during disasters requiring mass casualty management;
+       training of 23 maritime sanitary personnel in event-based surveillance to strengthen sanitary
+        surveillance at Senegal's maritime gateways; and
+       training of 34 officers from border inspection posts in epidemic prevention and control.
+
+Outcomes
+
+Countries that achieve a JEE score of 4 or higher in the development and implementation of a plan for
+multi-hazard national public health emergency preparedness and response:
+
+     Senegal: Starting from a baseline JEE score of 2 (limited capacity) in 2016, Senegal achieved a score
+      of 4 in 2023, attaining the target, and demonstrating capacity (procedures, plans or strategy in place to
+      reallocate or mobilize resources from national and intermediate levels to support action at local
+      response level, including capacity to scale up the level of response).
+     Sierra Leone: Starting from a baseline JEE score of 1 in 2016 (no capacity -- national public health
+      emergency preparedness and response plan is not available to meet the IHR core capacity
+      requirements), Sierra Leone achieved a score of 4 in 2023, attaining the target (demonstrated
+      capacity).
+     Guinea: Starting from a baseline JEE score of 1 (no capacity) in 2016, Guinea achieved a score of 3
+      (developed capacity) in 2023.
+
+
+
+                                                                                                 Page 17 of 30
+                               Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                               Disease Surveillance & Response in WA (P154807)
+
+
+
+                            Countries that achieve a score of 4 or higher in cross-border collaboration and exchange of
+                            information: This intended outcome was also used and discussed in the assessment of Objective 1, above.
+
+                            Actual response to eligible emergencies:
+
+                            In addition to the outputs described above, the ICR (p. 25) reported that the project was instrumental in
+                            responding to the COVID-19 pandemic, as it allowed participating countries to operationalize a fast response,
+                            given the availability of resources for health emergency response with systems and processes that were
+                            already in place through the ongoing work to strengthen surveillance and preparedness capacities initiated in
+                            2016 before the spread of the COVID-19 in the early months of 2020. The ICR reported that the response in
+                            the three countries was timely, as funds, capacities, and HR were available and already moving forward on
+                            preparedness. WAHO coordinated with countries during the early period of COVID-19 in 2020 to monitor the
+                            situation and to share information. With REDISSE funds made immediately available to support the response,
+                            national health systems continued to be strengthened in related core capacities. The ICR noted that overall
+                            readiness prior to the emergency facilitated the actual response to the COVID-19 pandemic. In February
+                            2020, there were only two laboratories with the capacity to test for COVID-19 in West Africa, and by
+                            September 2020, all countries established related aptitude, bringing the total capacity to 236 laboratories in
+                            the region.
+
+                            The ICR (p. 26) reported that, in addition to COVID-19, REDISSE I also supported the response to several
+                            other outbreaks that were contained. In Senegal, the project established control action plans for bird flu and
+                            Crimean-Congo Hemorrhagic Fever in infected regions. In Guinea, the project supported the national
+                            response to several outbreaks, including Avian Flu, Lassa fever and rabies. The ICR noted that improvement
+                            of laboratory capacities was an important factor and a pre-requisite to detect and contain outbreaks because
+                            their availability ensured a reduced processing and identification time, and that enhanced data collection and
+                            analysis was another factor for early detection.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            Both objectives (to strengthen national and regional cross-sectoral capacity for collaborative disease
+                            surveillance and epidemic preparedness; and to provide immediate and effective response to an eligible
+                            emergency) were almost fully achieved, indicative of a Substantial rating for overall efficacy.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+                                                                                                                            Page 18 of 30
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      Disease Surveillance & Response in WA (P154807)
+
+
+
+
+ 5. Efficiency
+The PAD’s economic analysis (pp. 29-33) presented strong arguments for investing in disease surveillance,
+response systems, and the benefits of reducing the threats of epidemics that extend beyond health benefits.
+Disease outbreaks affect economic activity by decreasing demand and supply, and they constrain labor, capital,
+and productivity which are major components of growth. The estimated forgone output due to the latest Ebola
+epidemics in Guinea, Liberia and Sierra Leone was over 12 percent of the countries’ combined output. The
+regional loss of output due to slower growth rates was estimated at US$7.35 billion in 2014 (World Bank, 2014).
+Globally, the economic impact of severe pandemics was estimated at 4.8 percent of the global gross domestic
+product (GDP). Compared to the estimated required investments to build a well-functioning global disease
+surveillance system and response, the expected annual returns on investment of avoiding such large losses
+were estimated as high as 123 percent (World Bank, 2012).
+
+The PAD noted that the rationale for public sector financing had several arguments. The first is simply the
+overwhelming economic burden that infectious diseases, individually and collectively, place on the region,
+constraining regional and national economic development. For example, tuberculosis causes approximately
+US$12 billion in annual losses to the global economy. Malaria inhibits economic growth by 1.3 percent per year
+in malaria-endemic countries. Epidemics continue to make costly disruptions to trade and commerce in various
+regions of the world. A pandemic risk has an annual expected value of an order of magnitude of $US30 billion
+(Pandemic risk, Jonas 2013, World Bank). On the animal health side, the OIE estimates that around 10 percent
+of animal production is lost through diseases in countries with poor performing veterinary services, and most of
+these diseases could be prevented and/or controlled in a cost-efficient manner. The second argument rested on
+the status of disease surveillance as a global public good, going beyond national borders with benefits accruing
+to all countries. The third argument was based on the sharing of resources to enhance efficiency, including
+reference laboratories, research institutions, and training facilities thus avoiding duplications.
+
+PAD’s modeling of potential disease outbreak impacts: To overcome the uncertainties around the value of
+key parameters (probability of pandemics and associated economic damage), the PAD’s economic analysis
+used a simulation model. The likely impacts of the project were treated as random variables with hypothesized
+distributions. More specifically, 1,000 simulations for the next 50 years (2016-2065) were developed using an
+annual probability of a pandemic in West Africa within a range 0.01 to 0.03, which covers the possibility of a
+mild, moderate, and severe pandemic (World Bank, 2012; and Jonas, 2013). The analysis assumed the total
+economic impact in a given year would affect the GDP within a range between -0.07 and -4.8 percent, which
+also covers the estimated impact of mild, moderate and severe pandemics. The total annual benefit of
+controlling an outbreak in West Africa was, on average, estimated to be equal to US$7.2 billion. The estimated
+losses resulting from mortality were about US$864 million (12 percent), the estimated productivity losses due to
+morbidity and absenteeism were about US$2 billion (28 percent), and the expected losses resulting from
+behavior change to avoid infection were equal to US$4.32 billion (60 percent).
+
+Assuming a constant rate of disbursement, and applying a three percent annual discount rate, the net present
+value was estimated at US$230 million. A benefit-cost ratio equal to US$108.7 was calculated, i.e. for each
+US$1 invested through the project, there would be an expected return of about US$109. The PAD (p. 33) noted
+that the estimate was high, but that it was also based on parameters subject to high variability. The PAD noted
+that a more precise measure would have been a 5-year time frame, and that such a calculation would yield an
+even higher benefit-cost ratio of US$631. A sensitivity analysis suggested cost-effectiveness under different
+scenarios with a combination of different probabilities and outbreak severity.
+
+
+
+                                                                                                   Page 19 of 30
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      Disease Surveillance & Response in WA (P154807)
+
+
+
+The ICR’s economic analysis also presented arguments about economic losses from infectious disease
+outbreaks and emphasized the potential returns on investment in improving preparedness, noting that investing
+in pandemic preparedness was crucial for the following reasons:
+
+      Positive impact on health outcomes resulting from improved lives and overall livelihoods by decreasing
+       mortality, morbidity, and social and psychological impacts.
+      The costs associated with epidemics and pandemics far exceed those of preventive measures. The
+       Ebola experience was a reminder that responding to outbreaks was far more expensive than investing in
+       preparedness.
+      Investing in preparedness ensures that health systems can respond swiftly and effectively to emerging
+       threats, safeguarding lives and livelihoods. A well-prepared health system can maintain essential
+       services while contributing to mitigate economic disruptions and to reduce long-term societal impacts.
+       Related investments also provide significant co-benefits for the health sector, as the synergistic
+       relationship between preparedness and overall health system investment reinforces the need for
+       dedicated resources to strengthen public health capabilities, which are often overlooked in favor of
+       investments with more immediate and visible returns (From Panic and neglect to Investing in Health
+       Security: Financing Preparedness at a National Level. World Bank, 2017).
+      Global health security: Related investments contribute to enhancing regional and global health security.
+
+In addition to the general economic justifications, the regional approach underscored the importance of
+collective action and cross-border cooperation in countries with limited capacity, such as Guinea and Sierra
+Leone. Regional coordination mechanisms established by the project were effectively activated, facilitating
+information sharing and the use of standardized protocols, which bridged knowledge gaps and improved
+response time. In addition, the coordination of regional procurement efforts through WAHO benefited all
+countries. The collective provision of public goods was more efficient and cost-effective than if individual
+countries attempted to produce them independently.
+
+In terms of operational design, and as noted in section 4, the regional and networking approach contributed to
+project efficiency by facilitating the sharing of specialized assets such as regional reference laboratories, training
+institutions, and emergency stockpiling while reducing duplications. Regional coordination led by WAHO helped
+in setting standards for the region, by developing and sharing regional guidelines, regulations, policy
+frameworks, and by providing rapid technical assistance to participating countries.
+
+Concurrently, there were implementation aspects that moderately reduced project efficiency. While the adoption
+of the One Health paradigm provided opportunities to improve human and animal health, it also created
+challenges, as it necessitated bringing together key ministries (Health, Agriculture and Environment) that had
+not yet collaborated in harnessing mutual resources. The One Health approach required a shift from competition
+for budgets to close cooperation. In the context of competition among sectors, yearly planning became overly
+ambitious and regularly contentious, delaying annual plans and budget approvals. Mutualization of resources
+became a struggle for most institutions. The desired integration was slow and mixed given the complexities
+facing coordination and cooperation efforts across sectors sub-nationally, nationally and regionally. A steep
+learning curve for all stakeholders was needed. The evolution of enabling environments to adapt to the One
+Health paradigm and cross-sectoral collaboration was challenging throughout the whole project lifetime (ICR, p.
+34). The Borrower’s comments also reported challenges in surveillance systems interoperability for monitoring
+human and animal diseases, including at WAHO (ICR, p. 87), and the lack of interoperability between human
+and animal health surveillance systems (DHIS2 & EMPRES-i) in Guinea (ICR, p. 89).
+
+
+
+                                                                                                       Page 20 of 30
+       Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+       Disease Surveillance & Response in WA (P154807)
+
+
+
+The ICR (p. 35) noted that weak governance was observed at the Project Implementation Units (PIUs) and it
+was necessary to reinforce the teams over time as most of PIUs had to manage several operations, including
+REDISSE I and COVID-19. The ICR mission identified common threads contributing to PIU staff turnover,
+including: (i) the constantly increasing workload; (ii) the leadership style of some coordinators that did not foster
+a collegial environment; and (iii) the lack of recognition in the form of incentives, including salaries that were not
+adjusted to inflation throughout the implementation period. Also, the transition to the new STEP system for
+procurement impacted the speed and efficiency of procurement activities during the transition period.
+
+Apart from the recognized advantages of the regional approach, the regional reach of the project was
+associated with some disadvantages to WAHO. Given that each country had its own Project Financing
+Agreement with the World Bank, the responsiveness of country teams to WAHO’ regional leadership was
+variable, notably for the timely sharing of data and progress reports, or for planning country visits. WAHO and
+Bank Teams exerted additional efforts to regularly facilitate information sharing and organized regional
+workshops to foster cooperation.
+
+The onset of the COVID-19 pandemic itself stressed the regional and country systems in 2020 and caused
+disruptions that slowed implementation of activities during that year. Nevertheless, the project teams and the
+Bank Team worked diligently according to the ICR (p. 35) to catch up on key activities between 2021 and 2023.
+The project closing date was extended by seven months, from January 31, 2023, to actual closing on August 31,
+2023.
+
+
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                 Rate Available?              Point value (%)           *Coverage/Scope (%)
+                                                                                        0
+ Appraisal                                                    0
+                                                                                         Not Applicable
+                                                                                        0
+ ICR Estimate                                                 0
+                                                                                         Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Relevance of objectives was rated high, as objectives supported a regional public good by addressing disease
+threats and preventing their negative impact. Objectives remained consistent with the Country Partnership
+Frameworks of participating countries. They were aligned with the World Bank Strategy “Putting Pandemics
+
+                                                                                                        Page 21 of 30
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Disease Surveillance & Response in WA (P154807)
+
+
+
+Behind Us: Investing in One Health to Reduce Risks of Emerging Infectious Disease, 2022”, and with the World
+Bank vision to achieve progress on global public goods that are critical to global stability, poverty reduction,
+public health capacity, and equitable growth, and in reducing the incidence of diseases of poverty. Efficacy was
+rated substantial, as project objectives were almost fully achieved. Efficiency was rated substantial in view of
+high value for money, but with some negative aspects of implementation that moderately reduced overall project
+efficiency. These findings are consistent with a satisfactory overall outcome rating.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+Several factors can positively influence the sustainability of development outcomes, mainly (i) the
+establishment of a regional approach with continued strengthening of WAHO’s technical and financial
+capacity to coordinate, supervise and support countries with methodologies, tools and best practices; (ii)
+capacity and competency building of key country-level institutions in charge of carrying out cross border
+cooperation and cross-sectoral collaboration; (iii) strengthened national surveillance systems and
+preparedness; (iv) motivation and ownership of trained HR; and (v) the World Bank’s support to the
+deployment of the Health Security Program in Western and Central Africa Project (P179078), signaling a
+continued commitment to invest in regional health security.
+
+Concurrently, there are risks that development outcomes may not be maintained, and contributing factors
+include gaps in national budgetary resources to pursue recurrent activities and limited cross-sectoral
+authority of the operation. While it is desirable to pursue an effective financial and technical transition from
+the project toward sustained public services, there is a common complaint about the lack of funding for
+keeping project teams functional and for maintaining the acquired equipment, whether logistical, scientific or
+digital in nature. The above issues may be easier to address at the sub-national level, as the ICR team
+observed that regional governors have more authority across sectors given that they virtually represent a
+whole government within their region. St. Louis in Senegal was considered as an illustrative example
+whereby the governor managed to marshal resources and to ensure collaborative efforts across sectors to
+contain the yearly avian flu outbreak, three years in a row (ICR, p. 43).
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  Project preparation was facilitated by a widespread commitment to disease surveillance and epidemic
+  preparedness in view of the past history of infectious disease outbreaks in the region. The Bank Team
+  led a participatory and inclusive preparation process by ensuring adequate engagement of major
+  stakeholders, including national and global players. The Team worked closely with WAHO and
+  participating country governments to involve sectoral stakeholders and to ensure engagement from the
+  inception stage. Lessons learned from regional and global operations were considered and incorporated
+  in the project design, including from the WARDS project (see section 3), the 2014 EVD outbreak in West
+
+                                                                                                     Page 22 of 30
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Disease Surveillance & Response in WA (P154807)
+
+
+
+Africa, the East Africa Public Health and Laboratory Network Project, and the Regional Sahel Pastoral
+Support Project (PAD, p. 22). A comprehensive literature review of existing regional disease surveillance
+and response, including networking arrangements, was undertaken to examine the experience of various
+regions, including the Pacific Island Region, the Mekong basin, the Middle East Consortium for Infectious
+Disease Surveillance, and the South Africa Center for Infectious Disease Surveillance Network. Best
+practices and lessons learned were derived from international initiatives such as the Global Health
+Security Agenda, USAID operations, Zika virus epidemics, severe acute respiratory syndrome (SARS)
+and MERS, cholera and meningitis. The Global Program for Avian Influenza Control and Human
+Pandemic Preparedness and Response that was developed to address the H5N1 spread and rolled out
+in 62 countries offered particularly pertinent lessons to REDISSE. Main lessons were captured in a 2014
+World Bank IEG evaluation (Responding to Global Public Bads – Learning from evaluation of the World
+Bank experience with Avian Influenza 2006-2013). In addition to technical aspects, lessons also included
+the need to build institutional capacity at both national and regional levels, addressing weaknesses in
+M&E, improving cooperation across sectors, and promoting ownership and sustainability.
+
+The Bank Team emphasized the importance of a regional approach to reinforce access to shared
+resources to support the achievement of a regional public good and emphasized WAHO’s pivotal role as
+a catalyst in the development of the health security agenda and a provider of technical support to ensure
+that none of the ECOWAS countries would be left behind in pursuing that agenda.
+
+Apart from One Health issues discussed below, institutional and implementation arrangements were well
+prepared both at regional and national levels and included capacity building. At the regional level, overall
+governance was provided by a Regional Steering Committee that included representatives of involved
+Ministries from the three countries, and regional implementation was to be led by WAHO which hosted a
+Regional Project Implementation Unit that served as the secretariat for the Regional Steering committee
+(PAD, p. 24).
+
+Country-level implementation arrangements included several institutions, including ministries of health,
+agriculture, and environment, national laboratories, and other centers involved in disease control. In all
+countries, a PIU would coordinate day-to-day implementation across sectors. Additional country-specific
+arrangements were also put in place. For example, Guinea established a One Health and Agriculture
+Steering committee, Senegal had a multi-sector steering committee through the Prime Minister’s Office,
+and Sierra Leone had an inter-ministerial committee on disease surveillance, epidemic preparedness and
+response (PAD, p. 26).
+
+M&E arrangements built on recent existing arrangements for JEE assessments guided by WHO. The
+residual financial management risk was substantial in the three countries and moderate for WAHO.
+Safeguards arrangements were adequately prepared, and they focused on waste management and pest
+management.
+
+There was insufficient preparation and readiness for the operationalization of the One Health approach
+and no effective mitigation measures to address related risks, even though its centrality to the project and
+to improving health security was recognized, with the Task Team leading the cross-sectoral dialogue
+during preparation to reinforce the approach, as collaboration between the players in human health,
+animal health and the environment was not yet commonplace (ICR, p. 40). Challenges to inter-sectoral
+planning and collaboration materialized at the outset, slowed the start of project implementation, and
+continued to create challenges throughout the project’s lifetime (ICR, p. 34). In its lessons and
+recommendations, the ICR (p. 44) noted the need for clarifying the roles of each key institution, for
+
+
+                                                                                                  Page 23 of 30
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Disease Surveillance & Response in WA (P154807)
+
+
+
+  encouraging cooperative learning by doing through pilot activities before scaling up, and opting for a
+  phased approach of change management rather than the project's 'big bang approach' to the modus
+  operandi that each sector was used to.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ According to the ICR (p. 41), the Bank Team was proactive in supervision and implementation support to
+ regional and national stakeholders to maximize the intended development impact. The Bank Team
+ reportedly adapted to the countries’ emerging situations and their requests for reallocations, revisiting
+ priorities in annual plans, proposing technical assistance across functions, and addressing HR challenges.
+ The Bank team supported the Clients in dealing with arising challenges during project implementation, the
+ COVID-19 pandemic, and from external factors and events such as the government change in Sierra
+ Leone in 2019, and the coup d’état in Guinea in 2021 along with OP7.30 process that ensued.
+
+ The World Bank had two Task Team Leaders (TTLs) at Headquarters. It further strengthened its field
+ presence and supervision by assigning co-TTLs in each country (ICR, p. 37). At the onset of the COVID-19
+ pandemic, the Bank shifted most of its supervision activities to online platforms with weekly virtual
+ interactions. Monitoring and supervision, including support to fiduciary, environmental and social
+ safeguards. The Bank Team was in constant liaison with WAHO at the regional level and undertook joint
+ supervision and implementation support missions with WAHO to participating countries. Team members
+ emphasized cross-fertilization of knowledge and experience among participating countries.
+
+ The Bank Team reportedly provided quality reporting. Back-to office reports, Implementation Status &
+ Results Reports, and Aide memoires provided adequate assessments on the progress made toward the
+ achievement of PDO and arising challenges (ICR, p. 41). The World Bank maintained its cooperation with
+ international development partners to work in a complementary manner.
+
+ While most PIUs considered the World Bank ‘no-objection process’ to be tedious and lengthy (ICR, p. 42),
+ the process was necessary to verify related budgets and to mitigate risks associated with the proposed
+ activities. The double-checking process was required to safeguard the Bank’s fiduciary role from any
+ potential threats. Also, the Clients’ terms of reference were often in need of improvement, especially when
+ technical sector experts had to be consulted.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+
+
+                                                                                                   Page 24 of 30
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Disease Surveillance & Response in WA (P154807)
+
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ Objectives were clearly stated. The design of the M&E system of the project and the overall REDISSE
+ program was aligned with WHO’s JEE tool (see section 4) that was meant to assess national capacities to
+ prevent, detect, and respond to public health emergencies, in line with IHRs. The evaluation tool was also
+ relevant as participating countries were entering the REDISSE operation at different levels of capacity and
+ with different baseline levels in terms of IHR capacities and related JEE scores.
+
+ Baselines were based on preliminary self-assessments that were to be updated upon the completion of
+ external JEE assessments. A detailed theory of change was constructed and well-illustrated by the ICR, as
+ it was not required at the time of appraisal, although the PAD clearly defined main activities, results, and
+ outcomes under each component.
+
+ There were ongoing activities undertaken by national governments and development partners that would
+ contribute to improving health security, therefore, it was understood by the preparation team, the ICR team,
+ and the Clients that the project would contribute to achieving JEE scores without consideration of full
+ attribution aspects. In fact, the ICR (p. 36) noted that the overall REDISSE program was meant to
+ contribute to JEE scores by complementing other operations that sought to upgrade health security
+ preparedness and response capacities following the consequences Ebola crisis.
+
+
+
+b. M&E Implementation
+  M&E implementation was essentially carried out as planned. There were transitory disruptions in 2020
+  during the early stages of the COVID-19 pandemic, and there were some challenges in capturing cross-
+  sectoral information, in the multiplicity of layers of subnational coverage, and in tracking the wide range of
+  zoonotic diseases. According to the ICR (p. 35), the regional reach of the project was associated with
+  some disadvantages to WAHO. Given that each country had its own Project Financing Agreement with
+  the World Bank, the responsiveness of country teams to WAHO’ regional leadership was variable,
+  notably for the timely sharing of data and progress reports, or for planning country visits. WAHO and
+  Bank Teams exerted additional efforts to regularly facilitate technical information sharing, and they
+  organized regional workshops to further foster cooperation between countries.
+
+  M&E implementation also benefited from the recently established national process for JEE. Self-
+  assessments of IHR core capacities were conducted by individual countries based on established
+  arrangements guided by WHO. Self-assessments were conducted on a yearly basis (and reported every
+  year to the World Health Assembly). Self-assessments were followed by validation through external JEE
+  assessments. The alignment with the JEE process reduced the need for additional data collection
+  requirements. The existing prior arrangements for the JEE process started prior to the REDISSE I project
+  effectiveness and functioned independently of the project but were aligned to its objectives and informed
+  its M&E, thus reducing the burden on the countries for setting up another M&E system (ICR, p. 37).
+  Therefore, both M&E design and implementation were well embedded institutionally.
+
+  At the country level, PIUs regularly monitored the results framework’s indicators and provided updates to
+  the Bank during supervision missions. PIUs had an M&E specialist. The World Bank and WAHO joint
+  supervision missions were organized to assess the level of implementation of activities, gather data,
+  document difficulties encountered, and make recommendations for improvements. Similarly, joint
+
+                                                                                                     Page 25 of 30
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Disease Surveillance & Response in WA (P154807)
+
+
+
+  supervision missions (human, animal and environmental health) were organized. The World Bank
+  sponsored Geo-Enabling (GEMS tool) for monitoring and supervision, including through smartphones
+  and tablets. This tool allowed all stakeholders to track REDISSE project interventions and to facilitate
+  supervision during mobility restrictions imposed by the COVID-19 pandemic.
+
+  At the regional level, WAHO developed dashboards to capture internal and external M&E processes and
+  data. Internal processes included: (i) weekly, monthly and annual work planning and monitoring; (ii) mid-
+  yearly and yearly reviews; (iii) weekly and monthly PIU achievements reporting, mid-yearly and yearly
+  progress reporting, including for countries and project implementation partners (WHO, OIE, CCISD,
+  Mérieux Foundation, and the Universities of Ouagadougou, Ghana and Oslo). External processes
+  focused on biannual project supervision missions to countries, World Bank supervision missions to
+  WAHO, and evaluation of partners’ interventions.
+
+  As previously noted in section 4, the adoption of JEE indicators was needed for objective assessments.
+  The adoption of JEE indicators was also appropriate in the context of JEE global rollout and alignment
+  between countries and development partners. However, it presented some limitations for M&E, as JEE
+  scores alone did not always reflect the full progress made by countries in strengthening their capacities.
+  Scores were dependent on reaching a specific benchmark used as a proxy to determine the level of
+  progression without considering all achievements that may have taken place. Hence, some of the
+  progress made by countries was not considered for meeting the criteria for a higher score (ICR, p. 37).
+
+
+
+c. M&E Utilization
+  M&E findings were used throughout the implementation period to track progress and were widely shared
+  with stakeholders. Benchmarking between countries motivated those with weaker performance in certain
+  areas. According to the ICR (p. 38), comparisons of M&E findings supported the learning curve needed
+  by stakeholders and contributed to enhance collaborative approaches and to improve mutualization of
+  resources at various levels.
+
+  In addition, the ICR (p. 38) reported that the project and its M&E: (i) benefited and impacted the regional,
+  national and sub-national actors in their preparedness to confront actual real life health emergencies and
+  events, including the COVID-19 pandemic and other outbreaks such as Lassa fever, avian flu, and
+  rabies; (ii) highlighted the importance of health security as a priority for global and regional economic
+  agendas among governments and international development partners; and (iii) contributed to long-term
+  commitment for sustaining investments in institutions, systems and HR to further operationalize the One
+  Health approach.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+
+
+
+                                                                                                    Page 26 of 30
+    Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+    Disease Surveillance & Response in WA (P154807)
+
+
+
+  The project was classified as Environmental Assessment Category B. While positive impacts were expected
+  from strengthened surveillance and containment of diseases, there were potential risks related to the
+  rehabilitation and upgradation of health facilities, pest management, and medical and animal waste
+  management. Hence, the project triggered safeguards policies for Environmental Assessment (OP/BP 4.01)
+  and Pest Management (OP 4.09). Each country developed a National Healthcare Waste Management Plan,
+  an Integrated Pest and Vector Management Plan, and an Environmental and Social Management
+  Framework which were disclosed within the countries, at WAHO’s regional website, and at the World Bank
+  InfoShop (PAD, p. 36).
+
+  There was a discrepancy between the ICR reporting on full compliance by project closure and the
+  Operations Portal that showed an Overall Safeguards Rating of Moderately Satisfactory for the last three
+  ISRs of January 17, 2023; July 31, 2023, and the final ISR dated September 7, 2023.
+
+  The ICR (p. 39) reported that, during implementation, the project introduced a Grievance Redress
+  Mechanism (GRM) that was operational in all three countries. (i) Sierra Leone established a GRM for both
+  REDISSE I and COVID-19 Emergency Preparedness and Response within the PIU where there was a
+  dedicated safeguards unit that included staff for environmental aspects and a gender and social specialist.
+  According to the ICR, GRM implementation initially lagged, but was operational by project closure. (ii)
+  Guinea had a strategy that involved employing the services of the GRM committees of the National Agency
+  for Finance supported by a toll-free number. The PIU trained five regional GRM committees out of eight
+  committees. A cascade training also intended to reach the GRM committees at the prefecture level. (iii) In
+  Senegal, the PIU established a functional GRM mechanism through a digital platform and a toll-free number
+  for three health projects (REDISSE; Investing in Maternal, Child and Adolescent Health; and COVID-19
+  Response Project).
+
+  WAHO adopted and disseminated a regional roadmap for operating a ‘sustainable management of
+  healthcare waste in West Africa’. This roadmap was developed during a regional workshop organized by
+  WAHO with the support of the World Bank in November 2018 in Burkina Faso. Two major activities of the
+  roadmap were initiated at the regional level in 2019: (i) the development of a regional strategic plan to
+  strengthen the management of healthcare waste; and (ii) the development of a directive for the
+  harmonization of regulations on the sustainable management of healthcare waste in West Africa. The latter
+  directive was adopted as a regulation by the 22nd Ordinary Meeting for the Assembly of Health Ministers in
+  ECOWAS in 2021 (ICR, p. 39)
+
+
+
+
+b. Fiduciary Compliance
+  The ICR (p. 40) reported that all countries complied with legal covenants. In terms of financial
+  management, overall audit reports were presented on time, without auditors’ observations, for all three
+  countries and WAHO. A financial management assessment was conducted in December 2022 along with a
+  follow-up mission in May 2023 to track progress on the December 2022 action plan which particularly
+  addressed an issue related to fixed assets inventory allocations. Mission findings noted that financial
+  teams were in place and interim financial reports were deemed acceptable; external audits were
+  completed; but that internal audits of executing agencies had been partially implemented. According to the
+  ICR, the latter contributed to a Moderately Satisfactory rating for financial management.
+
+
+
+                                                                                               Page 27 of 30
+        Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+        Disease Surveillance & Response in WA (P154807)
+
+
+
+   Procurement processes were also compliant with World Bank Guidelines. The ICR reported that
+   procurement planning was timely, but that processes were slow and with issues observed in contract
+   management. These were explained by gaps in capacity, staff turnover, and cross-sectoral consultations.
+   Nevertheless, the ICR (p. 39) reported that procurement shortcomings were overcome with time and with
+   further training.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   None reported.
+
+
+
+d. Other
+   --
+
+
+
+11. Ratings
+                                                                                    Reason for
+Ratings                           ICR                     IEG
+                                                                                    Disagreements/Comment
+Outcome                           Satisfactory            Satisfactory
+                                                                                    Lack of readiness in managing
+                                                                                    the operational changes
+                                                                                    required by the One Health
+                                                                                    approach and lack of risk
+                                                                                    mitigation for its
+Bank Performance                  Satisfactory            Moderately Satisfactory   operationalization, which
+                                                                                    remained challenging throughout
+                                                                                    the whole project lifetime. Also,
+                                                                                    in its lessons learned, the ICR
+                                                                                    recommended opting for a
+                                                                                    phased approach.
+Quality of M&E                    Substantial             Substantial
+
+Quality of ICR                    ---                     Substantial
+
+
+12. Lessons
+
+The ICR (pp. 44-45) offered several important lessons and recommendations, including the following
+lessons restated by IEG Review:
+
+Health security is borderless and can be bolstered by regional and global approaches for
+capacity development in preparedness and response rather than unilateral actions. Under the
+project, collective national actions and regional coordination to confront the COVID-19 pandemic
+
+                                                                                                      Page 28 of 30
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       Disease Surveillance & Response in WA (P154807)
+
+
+
+contributed to the ability of participating countries to cope with the pandemic, supported by the
+project’s regional platform that facilitated joint planning and harmonization, preparedness and
+response measures, and mutualization of limited resources.
+
+The One Health approach encompassing human health, animal health and environmental
+aspects requires time and an enabling environment. Under REDISSE, an operational paradigm
+shift was needed to progressively foster collaborative work among sectors. Clarifying the roles of key
+institutions, encouraging cooperative learning, and opting for a phased approach of change
+management appeared to be better options rather than a big bang approach to the modus operandi
+that each sector was following. In this context, the advancement of One Health was found to be
+easier to implement at the sub-national level where governors had the authority to direct resources
+across sectors and to promote joint work.
+
+Health security requires investment tradeoffs between regional and national levels, between
+sectors, and between sub-national regions. Under the project, the national yearly planning
+exercise often became a contentious period mainly where sectoral budget contests required further
+reviews to prioritize annual activities, delaying the start of implementation cycles.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provided a detailed account of project performance. It articulated a comprehensive theory of change
+with logical links between activities, outputs, and intended outcomes. Its analysis and conclusions were
+supported by adequate evidence. It provided valuable insights on the Joint External Evaluation Tool and on
+attribution aspects. It offered specific lessons derived from project experience.
+
+The ICR had some moderate shortcomings, including lapses in clarity and a lengthy main text. Nevertheless,
+this ICR Review took into account the amount of information required to encompass the project’s wide regional
+scope.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                    Page 29 of 30
+Independent Evaluation Group (IEG)                Implementation Completion Report (ICR) Review
+Disease Surveillance & Response in WA (P154807)
+
+
+
+
+                                                                               Page 30 of 30
+

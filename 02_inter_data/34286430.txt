@@ -1,0 +1,719 @@
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Development Support for Tanzania Stats (P159954)
+
+
+
+                                                                                    Report Number: ICRR0023804
+
+1. Project Data
+
+
+
+ Project ID                                   Project Name
+ P159954                                      Development Support for Tanzania Stats
+
+ Country                                      Practice Area(Lead)
+ Tanzania                                     Poverty and Equity
+
+
+ L/C/TF Number(s)                            Closing Date (Original)                 Total Project Cost (USD)
+ TF-A5710                                    31-Jan-2021                                            8,481,467.10
+
+ Bank Approval Date                          Closing Date (Actual)
+ 14-Aug-2018                                 31-Dec-2022
+
+                                             IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                               8,750,864.62                                     8,750,864.62
+
+ Revised Commitment                                8,095,217.84                                     8,749,837.49
+
+ Actual                                            8,481,467.10                                     8,481,467.10
+
+
+
+
+ Prepared by                  Reviewed by                  ICR Review Coordinator          Group
+ Giuseppe Iarossi             Clay Wescott                 Donna Kaidou Jeffrey            IEGEC (Unit 1)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The project development objective (PDO) was to strengthen the capacity of the National Statistical Bureau to
+   collect, process, and disseminate data and statistics on living standards, labor markets, and agriculture (Grant
+   Agreement, Schedule I). For this Review, the objectives are parsed as follows:
+
+           Strengthen the capacity of the National Statistical Bureau to collect data and statistics on living
+            standards, labor markets, and agriculture.
+
+
+                                                                                                     Page 1 of 14
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Development Support for Tanzania Stats (P159954)
+
+
+
+         Strengthen the capacity of the National Statistical Bureau to process data and statistics on living
+          standards, labor markets, and agriculture.
+         Strengthen the capacity of the National Statistical Bureau to disseminate data and statistics on
+          living standards, labor markets, and agriculture.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component 1: Implementation of the Tanzania National Panel Survey (NPS) (US$3.96 million at
+   appraisal, US$2.6 million equivalent at closure). This component sought to support the implementation
+   of this nationally representative, longitudinal, socio-economic household-level survey by supporting the
+   following aspects of survey implementation: (i) sample design; (ii) questionnaire design; (iii) enumeration
+   and fieldwork; (iv) data management; and (v) data documentation, analysis, dissemination, and visibility.
+
+   Component 2: Implementation of the National Sample Census of Agriculture - Small Holder Survey
+   (NSCA) (US$2.56 million at appraisal, US$3.3 million equivalent at closure). This component sought to
+   support the implementation of this smallholder agriculture survey by supporting the following aspects of
+   survey implementation: (i) sample design; (ii) questionnaire design; (iii) enumeration and fieldwork; (iv) data
+   management; and (v) data documentation, analysis, dissemination, and visibility.
+
+   Component 3: Implementation of the Integrated Labor Force Survey (ILFS) (US$2.04 million at
+   appraisal, US$2.4 million equivalent at completion). This component sought to support the
+   implementation of a labor survey to inform national policies on topics related to economic growth and
+   employment. The project supported the following activities: (i) sample design; (ii) questionnaire design; (iii)
+   enumeration and fieldwork; (iv) data management; and (v) data documentation, analysis, dissemination,
+   and visibility.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost: The Project's original cost at appraisal was US$8.8 million. The grant agreement was signed
+   on October 11, 2019, for Euro 7.3 million. A total of US$ 8.48 million was disbursed at closure. The
+   discrepancy is explained by exchange rate differences US and the Euro. The difference in costs also
+   reflects two reallocations within and between component activities and the updated cost estimates for the
+   integrated labor force survey (ILFS).
+
+   The Government of Tanzania did not contribute financially to the project.
+
+   Dates: The Project was approved on August 14, 2018, and became effective on February 7, 2020. The
+   original closing date was January 31, 2021; however, this was revised twice, and the project closing date
+   was extended by 30 months to December 31, 2022.
+
+
+                                                                                                      Page 2 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Development Support for Tanzania Stats (P159954)
+
+
+
+   The delayed effectiveness of the project (about 17 months) was due mainly to changes in the statistical law
+   of 2015 which were overly restrictive and not aligned with international standards. Legislation changes were
+   made to address the shortcoming in the statistical law before the project became effective on February 7,
+   2020. Further delays were due to the impact of the COVID-19 pandemic.
+
+   The project underwent two level 2 restructuring as follows:
+
+         Restructuring 1: The first restructuring was approved on January 29, 2021, extended the closing
+          date by one month to February 28, 2021, while the administrative agreement between the WB and
+          the European Union was being extended.
+         Restructuring 2: The second restructuring in February 2021 extended the closing date by 23 months
+          to December 31, 2022, and reallocated of funds among components. The reallocation combined the
+          two NPSs into one single survey and used the savings to add two sub-activities (the digitalization of
+          surveyed enumeration areas using geographical information systems and telephone survey for rapid
+          assessment of the welfare of the impact of COVID-19). The second sub-activity was the introduction
+          of improved crop yield measurement techniques in the NSCA to enhance data accuracy. The
+          reallocation is described in the table below:
+
+
+
+                                         Original amount     Revised amount
+   Component
+                                         (EUR)               (EUR)
+   National Panel Survey (NPS)           € 3,392,687         € 2,959,008
+   National Sample Census of
+                                         € 2,189,658         € 2,512,514
+   Agriculture (NSCA)
+   Integrated Labour Force Survey
+                                         € 1,748,223         € 1,859,045
+   (ILFS)
+   Sub Total                             € 7,330,568         € 7,330,567
+
+   Source: ICR p. 9.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Poverty in Tanzania remained high despite strong economic growth and strong resilience to external
+shocks in the decade prior to project appraisal. The poverty rate using the US$2.15 per day measure in
+2017 PPP was 45 percent for 2011 and 2018. Over 80 percent of the poor lived in rural areas, and
+inequality between regions was growing. To achieve more equitable growth and poverty reduction over the
+period 2016/17-2020/21, the government adopted the Second Five Year Development Plan and the new
+Sustainable Development Goals (SDGs), which aimed at fostering industrialization and human
+development. To monitor and evaluate the achievement of such objectives, more and higher-quality
+statistics were needed. Specifically, the availability of timely and accurate household survey and agricultural
+
+                                                                                                     Page 3 of 14
+                       Independent Evaluation Group (IEG)                 Implementation Completion Report (ICR) Review
+                       Development Support for Tanzania Stats (P159954)
+
+
+
+data was critical to designing, monitoring, and evaluating development programs, including the SDG
+indicators. The National Bureau of Statistics (NBS) was responsible for providing statistics and received
+valuable support from Tanzania Statistical Master Plan (TSMP) 1 and its basket fund for donor support.
+However, the closure of TSMP1 in 2018 risked many of the gains achieved. Additional donor support was
+needed to bridge the gap while a post-TSMP1 strategy was being designed.
+
+The PDO was aligned with the Tanzania Country Partnership Framework (CPF) FY18-FY22, which called
+for the production of timely and high-quality survey data relevant to: (i) the Agenda 2030 for the SDGs; (ii)
+the Agenda 2063: The Africa We Want; and (iii) the Busan Action Plan for Statistics agreed at the level of
+PARIS21/OECD (ICR, p. 11). These all call for improving statistical systems and fill data gaps for
+policymaking. Household and agricultural statistics were aligned with these objectives as they made
+available data to design projects and monitor progress toward the achievement of their objectives. The
+Project was also aligned with regional efforts to harmonize poverty measurement in the East African
+Community, an effort supported by the Bank through East African Statistics Development and
+Harmonization (P164243), a parallel regional project.
+
+The PDO was coherent with the government’s strategies, such as the Tanzania Development Vision 2025,
+the Zanzibar Vision 2050, Zanzibar’s Medium Term Development Strategy (ZADES 2021-2026), and the
+TSMP1, which expired in 2018, and the second that was finalized in early 2022 (TSMP - II 2022-2027),
+(ICR, p. 10). These strategies prioritized strengthening capacity building in the NBS, Office of the Chief
+Government Statistician (OCGS), Sector Ministries and Local Government Authorities to produce timely,
+comprehensive, and updated statistics to fill relevant data gaps for policy and making these data available
+on time to the user community to inform policy debates in the country, (ICR, p. 11).
+
+The theory of change was constructed ex-post using information from the PAD and the project Results
+Framework (ICR, p. 7) but was plausible in many respects (ICR p. 7). It described the main challenge as
+the limited availability of socioeconomic data, which can be addressed by three activities represented by
+collecting accurate data using modern technologies and proper capacity building. The outputs of these
+activities are identified as the data itself, and the outcomes were the enhanced capacity and the availability
+of the data to conduct policy-relevant research and the dissemination of new knowledge leading to
+improved policymaking. The key challenge was correctly identified as the availability of socioeconomic
+indicators. Additional challenges included a need for clear career growth opportunities for professional
+statisticians. This has the potential to undermine staff morale and lead to turnover which in turn could
+compromise the capacity built by the project. Second, there is inadequate quality of formal statistical
+training in the country’s universities, which emphasizes theory rather than applied skills. These are
+presented as risks in the future (Implementation Completion and Results Report - ICR, para. 78), but they
+were also challenges to be addressed by the project being assessed. The activities supported by the Bank
+were aligned with the challenges, such as collecting and analyzing survey data by enhancing local capacity
+and applying modern techniques. The output was the availability of high-quality data. The availability of
+analytical products could have been added as well. Finally, the outcomes are properly identified as the
+improved capacity to collect and analyze survey data and, in turn, improve the ability to design development
+projects and monitor their progress.
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+High
+
+
+                                                                                                        Page 4 of 14
+                  Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                  Development Support for Tanzania Stats (P159954)
+
+
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+               OBJECTIVE 1
+               Objective
+               Strengthen the capacity of the National Statistical Bureau to collect data and statistics on living standards,
+               labor markets, and agriculture.
+
+               Rationale
+               All outcome indicators were met. All indicators measuring the achievement of this, and other objectives used
+               baselines for 2017. The project used two PDO indicators to measure the achievement of the first objective:
+
+                     1. the number of household surveys supported by the project, designed in line with international
+                      standards and best practices. The baseline was 0, the target was 4 (2021 revised to 4 in 2022), and
+                      the actual was 4 (2022) (ICR p. 21).
+                     2. the number of household surveys supported by the project, with enumeration activities
+                      completed. The baseline was 0, the target was 4 (2021, revised to 4 in 2022), and the actual was 4
+                      (2022) (ICR p. 22)
+
+               IEG notes that the outcome indicator, “number of household surveys, supported by the project, with improved
+               data collection methods and computerized data checking” was not reported in the ICR (p. 11).
+
+               For both indicators, at restructuring, two NPSs were combined into one survey, and a high-frequency welfare
+               monitoring telephone survey was added, keeping the total at 4. The NSCA 2020, ILFS 2002/21 and the NPS
+               2021 were all designed in accordance with global standards through TA supported by the project. World Bank
+               experts working alongside other international experts (the Food and Agriculture Organization (FAO) - and the
+               International Labor Organization (ILO)) contributed to the project. ILO played a major role in preparation,
+               questionnaire design, and training of the ILFS. The United States Department of Agriculture and FAO
+               supported the implementation of the NSCA during its design, training of enumerators and supervisors, quality
+               control, coordination with other development partners, and communication and dissemination of results. For
+               NPS, however, the Bank led the whole survey. Data were collected using new technologies, such as
+               Computer-Assisted Personal Interviewing (CAPI) methods, that included automated data checking and
+               survey skipping patterns. Because of the adoption of these technologies, data quality improved, as commonly
+               known in the industry.
+
+               The statistical performance indicator, measuring overall improvements in methodology, data sources,
+               periodicity, and timeliness, shows an improvement in the overall score from 2018 to 2022. Similarly, one
+               component of the indicators, which relates to quality, access, and effectiveness of advisory related to
+               statistics, also shows an improvement during the same period.
+
+
+
+               Rating
+               Substantial
+
+
+                                                                                                                   Page 5 of 14
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Development Support for Tanzania Stats (P159954)
+
+
+
+
+OBJECTIVE 2
+Objective
+Strengthen the capacity of the National Statistical Bureau to process data and statistics on living standards,
+labor markets, and agriculture.
+
+Rationale
+The targets of the four PDO indicators used to measure the achievement of this objective were met:
+
+      1. Number of household surveys with improved data collection methods and computerized data
+       checking. The baseline was 0 (2017), the target was 4 (2021) (revised to 4 in 2022), and the actual
+       was 4 (2022) (ICR p. 21). At restructuring, two NPS were combined into one survey, and a high-
+       frequency welfare monitoring telephone survey was added, keeping the total at 4.
+      2. The number of NPS survey datasets finalized within 6 months of fieldwork completion. The baseline
+       was 0 (2017), the target was 1 (2021) (revised to 1 in 2022), and the actual was 1 (ICR p. 22). The
+       target reflects the fact that two NPS were combined into one survey, bringing the target down from 2
+       to 1 (Although the ICR indicates a target of 1).
+      3. The number of non-NPS household survey datasets finalized within 8 months of fieldwork
+       completion. The baseline was 0 (2017), the target was 2 (2021) (revised to 3 in 2022), and the actual
+       was 3 (2022) (ICR p.23). At restructuring, this phone survey included an assessment of the impact of
+       COVID-19.
+      4. Number of final survey statistical reports completed within 6 months of dataset finalization. The
+       baseline was 0 (2017), the target was 3 (2021) (revised to 3 in 2022), and the actual was 3 (2022)
+       (ICR p. 23).
+
+These were appropriate measures of capacity in survey data processing; hence, this objective was achieved.
+NBS and OCGS staff analyzed the survey data with the support of various TAs along with Bank experts and
+specialists from the US Department of Agriculture, the FAO, and the ILO.
+
+One component of the statistical performance indicator, data infrastructure, which relates to skills, methods,
+and governance of statistics, shows an improvement in the indicator during the project period from 2018 to
+2022.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 3
+Objective
+Strengthen the capacity of the National Statistical Bureau to disseminate data and statistics on living
+standards, labor markets, and agriculture.
+
+Rationale
+
+
+
+                                                                                                   Page 6 of 14
+                               Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+                               Development Support for Tanzania Stats (P159954)
+
+
+
+                            All outcome and intermediate indicators were met. The project used one PDO indicator and four intermediate
+                            indicators. The PDO indicator was:
+
+                            Number of micro-datasets available through the Tanzania National Data Archive and the World Bank
+                            Microdata Library. The baseline was 0 (2017). The target was 3 (2021) (revised to 4 in 2022). The actual was
+                            4 (2022) (ICR p. 24). At restructuring, one additional survey and several telephone surveys were conducted to
+                            assess the impact of COVID-19.
+
+                            The Intermediate Results Indicators were:
+
+                                  1. Number of stakeholder / technical working group preparation meetings. The baseline was 0 (2017).
+                                   The target was 4 (2021). Actual was 4 (2021) (ICR p. 24).
+                                  2. Reports and briefing notes on NSCA, ILFS and NPS are prepared. The baseline was No (2020).
+                                   The target was Yes (2021). Actual was Yes (2022) (ICR p. 25).
+                                  3. Number of seminars conducted with policymakers to discuss survey findings and policy
+                                   implications. The Baseline was 0 (2017). The target was 3 (2021 revised to 3 in 2022). Actual was 3
+                                   (2023) (ICR p. 25).
+                                  4. Number of advanced policy research notes using survey NSCA/ ILFS and NPS data sets completed
+                                   and discussed. The baseline was 0 (2020). The target was 5 (2021) (revised to 6 in 2022). Actual was
+                                   6 (2023) (ICR p. 25).
+
+                            In August 2021, the results from the 2020 NSCA were disseminated to more than 150 government
+                            representatives and other stakeholders. In addition, an interactive web generation instrument was published
+                            on the NBS website to disseminate the surveys further. In November 2021, key findings of the 2020/2021
+                            ILFS were disseminated at the workshop of 250+ participants chaired by the prime minister. In June 2022,
+                            findings from the NSCA were also featured during the 8th Annual Agricultural Policy Conference, and several
+                            policy notes on agriculture were produced using these survey data. These debates led to debates and
+                            discussions on increasing budget allocation for agricultural extension services and improving irrigation
+                            facilities. They led to the ongoing revision and update of the 2008 National Employment Policy, Youth
+                            Development Policy 2007, and the 2007 National Employment Creation Program. The 2021 ILFS led to the
+                            production of a publication on the gendered dimensions of the labor market outcomes in Tanzania. In
+                            addition, three policy briefs were produced using the ILFS data (covering agriculture and informal sector
+                            employment), and the main findings of the NPS 2021 survey were released during a workshop attended by
+                            government officials and development partners. Similarly, the NSCA and the ILFS received widespread press
+                            coverage. To better monitor and mitigate the COVID-19 impact on households in Tanzania, the High-
+                            Frequency Welfare Monitoring Phone Survey proved particularly useful, providing timely and valuable
+                            information to the authorities.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+
+                                                                                                                           Page 7 of 14
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      Development Support for Tanzania Stats (P159954)
+
+
+
+
+  Rationale
+  All objectives were achieved.
+
+  The key findings of the 2020/2021 ILFS were disseminated at a workshop in November 2021, four months
+  after survey completion. The findings have contributed to a discussion on the need to improve labor market
+  outcomes in Tanzania and have partly led to a efforts to revise and update the 2008 National Employment
+  Policy, Youth Development Policy 2007 and the 2007 National Employment Creation Program. The main
+  findings of the NPS 2021 survey were released in January 2023. The 2021 NPS also collected data to
+  compare a current 14-day diary with a 7-day recall for daily consumption measurement as part of the effort to
+  harmonize poverty measurement in the East African Community (ICR, p. 12). The High Frequency Welfare
+  Monitoring Phone Survey have been used in various WB analytical products, including Tanzania Economic
+  Updates. In addition, the digitization of Enumeration Areas (EAs) was a success with a total of 3,680 EAs
+  being digitized, and their geo-information updated.
+
+
+
+
+  Overall Efficacy Rating
+  Substantial
+
+
+
+ 5. Efficiency
+A cost-benefit analysis was not undertaken because it is not possible to assess the benefits of improvements in
+data collection and data usage for development decisions (ICR, p. 13). The efficiency of the project is judged
+based on its cost, time, and design/quality of data collection compared (at times) to previous practices. The use
+of modern data collection technologies, such as CAPI and Survey Solutions software, enhanced fieldwork
+logistics, cartography of the country, and monitoring of the data collection process. The earlier data collection
+system (Paper Assisted Personal Interviewing) was more labor intensive, leading to a high turn-over rate for.
+This enumerator turnover had proven costly for surveys (in terms of time lost and the need to retrain
+enumerators); hence, the adoption of CAPI led to cost efficiencies. The cost of data collection was also
+managed more efficiently by paying enumerators monthly salaries rather than (higher) daily compensation. The
+use of CAPI reduced the time to conduct post-survey quality control.
+
+The survey implementation experienced some initial delays (18 months) due to changes in the resident
+statistician (in July 2021), the Bank’s Task Team Leader (July 2019) and COVID restrictions (ICR p. 14). Yet the
+project implementation was smooth thanks to the proper design, strong government ownership and the quality of
+the project’s implementation team. The surveys were completed on time.
+
+
+
+
+Efficiency Rating
+Substantial
+
+
+                                                                                                     Page 8 of 14
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Development Support for Tanzania Stats (P159954)
+
+
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?              Point value (%)           *Coverage/Scope (%)
+                                                                                      0
+Appraisal                                                   0
+                                                                                       Not Applicable
+                                                                                      0
+ICR Estimate                                                0
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project achieved all its objectives, with systems and capacities improved, notwithstanding initial delays and
+the onset of COVID-19. Relevance is rated High because the project was aligned with the Tanzania CPF FY18-
+FY22 and with the government’s strategies. Efficacy is rated Substantial because the project achieved all its
+objectives, although the ICR does not provide numerical evidence, which is instead found in the Implementation
+Status Reports (ISRs). Efficiency is rated substantial because the project was implemented in a timely and cost-
+conscious manner while improving data quality. Combining these indicates an overall outcome rating of
+Satisfactory.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+The ICR identified four potential risks to the development outcomes:
+
+    1. Lack of clear career growth opportunities for professional statisticians could contribute to staff-
+       turnover, thereby compromising the capacity built by the project.
+    2. Inadequate quality of formal statistical training in the country’s universities, which emphasizes theory
+       rather than applied skills.
+    3. Uncertainty regarding government funding for continued funding of the new statistical practices
+       supported by the projects.
+    4. The legal framework restricts independent data collection and interpretation, although some of the
+       restrictions have been amended in the new statistical law of 2019.
+
+Risk mitigation includes the following: (1) during project implementation, the government requested Bank
+support for capacity building also for local government authorities, (2) the new project (Program for Results)
+provides funding for independently collected and high-quality data for the next 5 years, (3) the renewed
+interest of Tanzanian researchers to use and produce analytical work with up-to-date statistics, and (4) the
+continued interest by the government to support statical data [DKJ1]
+
+
+                                                                                                       Page 9 of 14
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Development Support for Tanzania Stats (P159954)
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The project design drew from an assessment of data gaps in NBS following the completion of TSMP 1
+  and recommendations to address technical, financial, economic, institutional, and procurement
+  aspects. The technical design of the project incorporated national priorities and a needs assessment and
+  benefitted from consultations with main users of statistics in the Government and other key stakeholders.
+  The survey design and data collection incorporated best practice guidelines consolidated in the UN
+  Statistical Division document on “Designing Household Survey Samples: Practical Guidelines,” ILO
+  guidelines on collecting LFS data, and FAO Programme for the Census of Agriculture. A European Union
+  Trust Fund provided support for a recipient executed component, the Development Support for Tanzania
+  Statistics Project (P159954) for survey implementation, data processing and dissemination, and a Bank
+  executed component for technical assistance. The ICR focused on the first component but also pointed
+  out how TA from the second reinforced the first.
+
+  The Bank should have addressed the lack of clear career growth opportunities for professional
+  statisticians but mitigated the other constraints. The inadequate quality of formal statistical capacity was
+  mitigated with a series of large statistical training through the Bank Executed component to fill skills gaps.
+  Overall, the identified risks are substantial as they can limit the ability of the country to continue producing
+  reliable and timely data for policy advice. The team applied reasonable mitigation measures.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The Bank team maintained continuous dialogue and communication with NBS and OCGS and conducted
+ weekly virtual meetings during implementation to discuss progress. The Bank team included the Task
+ Team Leader, the resident statistician, and Bank technical specialists, and the supervision budget was
+ adequate. The task team prepared aide-memoirs regularly and ISRs to communicate any necessary
+ corrective measures. The project also included a Steering Committee that held formal discussions of
+ progress and constraints with NBS and OCGS management. Recommendations of ISRs were adequately
+ implemented as in the case of the adaptation of the training schedule due to mobility restrictions caused by
+ COVID-19.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+
+                                                                                                       Page 10 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Development Support for Tanzania Stats (P159954)
+
+
+
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The indicators were appropriate to monitor progress, although they were at a very high level (e.g., number
+ of surveys completed, technical working group preparation meetings completed, number of surveys
+ analyzed). More detailed indicators would have allowed for better monitoring of progress.
+
+
+
+b. M&E Implementation
+  A Government program implementation team produced progress reports every six months. The reports
+  were compiled against a set of indicators of progress in implementation as well as capacity-building
+  activities and dissemination of results. The steering committee used these reports and met with survey
+  technical working groups for constructive discussion on progress and issues raised during
+  implementation. The implementing partners (World Bank, EU, and NBS/ OCGS) regularly reviewed these
+  six-month reports to address risks and challenges faced by the project. The World Bank team, in
+  collaboration with NBS and OCGS project coordinators and survey managers, produced ISRs every six
+  months with information from both the progress reviews and the weekly virtual implementation support
+  meetings.
+
+
+
+c. M&E Utilization
+  The six-month progress report, the ISRs, and the weekly implementation meetings were regularly and
+  effectively used to discuss the implementation status of the project.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   This project triggered no environmental safeguard or social policies since it focused only on data collection
+   activities.
+
+
+
+
+b. Fiduciary Compliance
+
+                                                                                                   Page 11 of 14
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Development Support for Tanzania Stats (P159954)
+
+
+
+   Expenses for which the NBS and the OCGS were responsible underwent normal internal audits within the
+   institutions as well as by the Controller and Auditor General of the United Republic of Tanzania. The two
+   audit reports were issued (December 2020 and December 2021) confirmed the accuracy of the financial
+   statements. A third audit report was published on January 10, 2024.
+
+   Arrangements for financial management were aligned with Bank policy on project financing. The risk was
+   assessed as Moderate, and risks were periodically reviewed and assessed during ISRs. All planned
+   activities were completed, and planned disbursements were made.
+
+   Procurement was conducted in accordance with Bank rules for Investment Project Financing. The project
+   used Systematic Tracking of Exchanges in Procurement, a planning and tracking system that provides
+   data on procurement activities, identifies benchmarks, and measures performance. A project procurement
+   strategy was prepared, which was updated annually. A review of the procurement capacity of the NBS was
+   conducted, which assessed the procurement risk as high. Consequently, an action plan was agreed upon.
+   Still, no information was provided on its implementation in the ICR. However, shared documents (ISRs and
+   progress reports) show that capacity building of local officials was conducted to mitigate this risk. Bank
+   supervision ("support mechanism") ensures close monitoring and respect of rules (ICR p. 16).
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   The project contributed to strengthening collaboration between NBS/OCGS, Sector Ministries, and
+   international non-governmental organizations like the United Nations Children Fund and ILO.
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                  Reason for
+Ratings                          ICR                    IEG
+                                                                                  Disagreements/Comment
+Outcome                          Satisfactory           Satisfactory
+
+Bank Performance                 Satisfactory           Satisfactory
+
+Quality of M&E                   Substantial            Substantial
+
+Quality of ICR                   ---                    Modest
+
+
+12. Lessons
+
+Five lessons can be deduced from this ICR:
+
+      A legal framework for statistics is as important to develop statistical capacity as the technical
+         support to produce statistics. A proper legal framework for statistics must incorporate
+
+                                                                                                     Page 12 of 14
+       Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+       Development Support for Tanzania Stats (P159954)
+
+
+
+           international standards and must support the independent production and use of data and
+           analysis.
+          Capacity building in statistics projects is enhanced when in-class theoretical training and in-
+           the-field practical implementation are conducted sequentially. This also ensures the
+           sustainability of learning outcomes.
+          Close integration of recipient-executed and Bank-executed parts of a project can make
+           important contributions to the achievement of the PDO. In the case of this project, there was
+           a close integration of training and survey activities and a flexible means to respond to
+           emerging needs while ensuring quality control.
+          In survey data collection projects like this, close monitoring and timely reaction are very
+           important to ensure that reliable data is collected. The use of weekly meetings and the use of
+           traditional tools, such as phone calls, along with more modern digital tools - such as
+           WhatsApp, along with field visits ensure the timely resolution of problems and the
+           preservation of trust in the data collected.
+          Initiatives to support the analysis of newly collected data can increase awareness and usage
+           of new data to conduct innovative analysis and can contribute to the development of
+           homegrown policy analysis, thus creating a virtuous cycle to collect additional and more
+           detailed statistics to support more in-depth policy analysis.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provides a general and impartial account of the project design, implementation, and achievement of its
+objectives. Still, there needs to be more evidence to support several claims included in the document.
+Additional evidence had to be collected from ISRs, Aide Memoires, external data, and the interview with the
+TTL. The ICR could have presented such evidence in the report. In addition, there are inconsistencies in the
+ICR on the project cost (approval, actual - in financing section and annex 3) without explanation. The ICR uses
+multiple terminologies to indicate the same thing: intervention logic, theory of change, results chain, and results
+framework. Finally, indicators of outcome are very aggregated.
+
+
+
+  a. Quality of ICR Rating
+       Modest
+
+
+
+
+                                                                                                      Page 13 of 14
+Independent Evaluation Group (IEG)                 Implementation Completion Report (ICR) Review
+Development Support for Tanzania Stats (P159954)
+
+
+
+
+                                                                                Page 14 of 14
+

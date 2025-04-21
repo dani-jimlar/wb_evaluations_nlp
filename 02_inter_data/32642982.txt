@@ -1,0 +1,1131 @@
+     Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+     IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+                                                                               Report Number: ICRR0022166
+
+1. Project Data
+
+
+
+ Project ID                               Project Name
+ P127759                                  IRRIGATION SYSTEM ENHANCEMENT PROJECT
+
+ Country                                  Practice Area(Lead)
+ Armenia                                  Water
+
+
+ L/C/TF Number(s)                         Closing Date (Original)               Total Project Cost (USD)
+ IBRD-82670,IBRD-87860                    30-Jun-2017                                         31,030,974.87
+
+ Bank Approval Date                       Closing Date (Actual)
+ 22-May-2013                              31-Dec-2019
+
+                                          IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                          30,000,000.00                                              0.00
+
+ Revised Commitment                           31,735,008.16                                              0.00
+
+ Actual                                       31,659,236.60                                              0.00
+
+
+
+
+ Prepared by                Reviewed by                 ICR Review Coordinator         Group
+ Joachim                    J. W. van Holst             Ramachandra Jammi              IEGSD (Unit 4)
+ Vandercasteelen            Pellekaan
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objectives (PDOs) for the Irrigation System Enhancement Project (ISEP) were (i) to
+   reduce the amount of energy used and to improve the irrigation conveyance efficiency in targeted irrigation
+   schemes; and (ii) to improve the availability and reliability of important sector data and information for
+   decision-makers and other stakeholders.
+
+   The PDOs are the same in the legal agreement and the Project Appraisal Document (PAD).
+
+
+                                                                                                Page 1 of 21
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+   For the ICR review, the PDOs are parsed out into four objectives:
+
+        1. to reduce the amount of energy used in targeted irrigation schemes,
+        2. to improve the irrigation conveyance efficiency in targeted irrigation schemes,
+        3. to improve the availability of important sector data and information for decision-makers and other
+           stakeholders,
+        4. to improve the reliability of important sector data and information for decision-makers and other
+           stakeholders.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component 1. Irrigation System Enhancement (appraisal cost: US$33.1 million; actual cost: US$33.3
+   million). This component aimed to lower the operation and maintenance (O&M) needs of the conveyance
+   section of selected irrigation schemes by supporting the following three activities. First, four pump-based
+   irrigation schemes (Baghramyan-Norakert, Geghardalich, Kaghtsrashen, and Meghri) were to be converted
+   to gravity-based irrigation schemes. Second, in 13 pump-based irrigation schemes different from the four
+   above, outlet (and other) canals conveying the pumped water to secondary and tertiary canals were to be
+   upgraded (‘rehabilitated’). Third, in the Geghardalich scheme, the height of the reservoir’s dam was to be
+   raised.
+
+   Component 2. Management Information (appraisal cost: US$1.7 million; actual cost: US$0.9 million). This
+   component aimed to improve the information available for decision making by supporting the following three
+   activities. First, technical investigations would analyze the O&M and extraordinary maintenance (EM) needs
+   of the irrigation systems. Second, a technical audit of different irrigation institutions supported by the project
+   (see below) was conducted. Third, the project would install a supervisory control and data acquisition
+   system (SCADA).
+
+   Component 3. Support to Project Management and Water User Associations (WUAs) (appraisal cost:
+   US$2.7 million; actual cost: US$2.9 million). This component aimed to support project management and
+   strengthen the capacity of the Support Group (SG), staff, and executive bodies of WUAs.
+
+   Note that the appraisal costs for each component above were derived from paragraph 32 in the PAD and
+   included contingencies. The actual costs for each component were based on paragraph 15 of the ICR and
+   not Annex 3 in the ICR.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost. The original total project cost estimate in the PAD was US$37.5 million. The estimated total
+   actual cost as shown in the ICR Data Sheet was US$31.7 million.
+
+
+                                                                                                       Page 2 of 21
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+   Financing. The IBRD committed through a Loan Agreement to finance US$30 million of the project cost
+   which was increased by US$2 million through Additional Financing (AF). The ICR (Data Sheet) reports that
+   the actual IBRD disbursement totaled US$31.7 million.
+
+   Borrower Contribution. According to paragraph 33 in the PAD the Government of Armenia (GoA)
+   committed to contribute US$7.5 million to the project, but the ICR (Data Sheet) reports, without explanation,
+   that the GoA did not contribute.
+
+   Dates. The project was approved on May 22, 2013, and became effective on July 15, 2013. The Mid Term
+   Review (MTR) was held on November 16, 2015. The original date of closure was June 30, 2018; but was
+   changed several times as a result of several project restructurings. As a result, the actual closing date was
+   December 31, 2019, i.e., two years after the original closing date.
+
+   Restructuring. During the second project restructuring in November 2017, the project accommodated the
+   request of the GoA for an AF of US$2 million for the project to rehabilitate the tertiary irrigation infrastructure
+   of the Baghramyan-Norakert scheme. It would also allow more time to finalize infrastructure work in the
+   Geghardalich and Kaghtsrashen schemes after local communities raised their concerns about the social
+   and environmental impacts of the infrastructure works (see section 8).
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+The agricultural sector is the main livelihood provider for rural households in Armenia. As such, productivity
+growth in agriculture plays an important role in rural development and poverty reduction. Irrigated
+agriculture is the dominant agricultural production system but its full potential in terms of acreage has not
+been achieved. Moreover, the delivery of irrigated water by irrigation institutions from the intake water
+source to the end-users (farmers) is inefficient. First, the irrigation infrastructure dated from the Soviet
+Union period. The Water Supply Agency (WSA) managing the primary irrigation canals had low cost-
+recovery rates because of the high energy costs of pumping irrigation water into primary outlet canals and
+the high O&M costs of the irrigation canals. Second, the deteriorated state of the irrigation infrastructure
+also reduces the irrigation conveyance efficiency, thus limiting the amount of irrigated water available for
+end-users. Third, while Armenia had already introduced WUAs as legal entities to manage secondary and
+tertiary water canals, these groups require continued capacity-building and empowerment support. Finally,
+the different institutions responsible for water delivery – the Water Committee (WC but earlier referred to as
+State Committee for Water Management (SCWM)) of the Ministry of Territorial Administration and
+Infrastructures and the Ministry of Energy, Infrastructures and Natural Resources (MOEINR) – lacked
+information and accurate data on the financial sustainability needed for efficient and effective decision
+making in the management of irrigation schemes of Armenia.
+
+The PDOs were relevant to the principles outlined by the Government of the Republic of Armenia (GoA) in
+its ‘5-year programme of the GoA for 2019 – 2023’. More specifically, the GoA aims to modernize the
+management of its irrigation systems and make irrigation water more widely available (‘as common as
+electricity’) by replacing mechanical irrigation systems with new gravity-based technologies. Such an
+upgrade of the irrigation infrastructure is complemented with efforts to introduce technologies that reduce
+
+
+                                                                                                        Page 3 of 21
+                                      Independent Evaluation Group (IEG)                       Implementation Completion Report (ICR) Review
+                                      IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+               water losses (for example, drip irrigation), support for legislative and institutional reform in the management
+               of irrigation systems, and collection of important data needed for improved water management.
+
+               The PDOs were also relevant to the engagement of the World Bank in Armenia, as reflected in the most
+               recent Systematic Country Diagnostic (SCD, 2017) and the Country Partnership Framework (CPF, 2019 –
+               2025). The SCD identified the outdated and uneconomical irrigation system as one of the main constraints
+               holding back the transformation of the agricultural sector towards a modern commercial sector and more
+               broadly a structural transformation. As a result, the third focus area of the CPF (Sustainable Management
+               of Environmental & Natural Resources) drew attention to improved management of water resources,
+               enhanced water security and climate resilience, and more sustainable energy consumption in, among
+               others, irrigation systems. The CPF (paras 50 and 83), moreover, noted a shift in the World Bank approach
+               from supporting the supply of irrigation water to bolstering the cost recovery and financial sustainability of
+               irrigation schemes partly driven by the crowding-in of other development partners which focused on water
+               supply issues in the sector. As such, the PDOs of the ISEP were aligned with both the CPF objectives and
+               those of the development partners.
+
+               The PDOs were also relevant to addressing the higher-level development challenge of the low productivity
+               of the (irrigated) agricultural sector in Armenia. In particular, the project aimed to support different
+               institutions responsible for the delivery of irrigation water by reducing their O&M costs and improving their
+               access to information needed for decision making in irrigation management. As the focus was on water
+               delivery, it addressed three of the four challenges in water delivery identified in the first paragraph of this
+               section. However, while the activities under component 3 supported WUAs, institutional strengthening was
+               not included in the PDOs. Hence, the ISEP did not explicitly address one of the main identified challenges
+               to water delivery. According to the ICR (para 77), this decision was deliberate and requested by the GoA.
+               The WUA-support activities were envisioned to improve data availability and reliability for decision-makers
+               in the irrigation sector, but general capacity-building activities do not necessarily result in improved
+               availability or reliability of important information. Nonetheless, the PDOs were clearly defined and had an
+               appropriate level of ambition. Therefore, the Relevance of the ISEP’s objectives is rated High.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             Objective 1: To reduce the amount of energy used in targeted irrigation schemes
+
+                             Rationale
+                             Theory of change. By converting the existing pump-based irrigation schemes into gravity-based irrigation
+                             schemes, the project sought to reduce the high energy usage of the four targeted irrigation schemes. More
+                             precisely, the project aimed at reducing the electricity cost needed to pump the water from the water source
+
+                                                                                                                              Page 4 of 21
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+into the primary outlet canals. The use of gravity-based irrigation schemes that do not consume electricity
+was a logical solution to avoid this pumping cost, under the assumption that the gravity-based irrigation
+schemes have an equal water-supplying capacity compared to the existing pump-based schemes. The
+replacement of pump-based irrigation schemes by gravity irrigation schemes was expected to result in the
+shutdown of pumping stations, that would be removed or decommissioned. Thus, in the medium term, WSAs
+would be able to reduce their O&M cost by relying on gravity rather than electric power.
+
+Outputs. The ICR reports one intermediate results indicator that is an output indicator relevant for the first
+objective of the project:
+
+      One (1) pumping station shut down, far below the original target of four. According to Annex 1 (p43),
+       only the Meghri gravity scheme was fully operational, and its shutting down of pumping stations can
+       be attributed to the project.
+
+Outcome. The outcome indicator reported in Annex 1 of the ICR related to the first objective is the following:
+
+      3.7 GWh of energy saved annually in operating the irrigation system, far below both the original target
+       of 38 GWh and the revised target of 36.8 GWh for the four schemes. The project therefore achieved
+       only 10 percent of the revised target for energy savings.
+
+Discussion. At the time of the ICR, the project was unsuccessful in converting the four targeted pump-based
+irrigation schemes into gravity-based irrigation schemes. Only the conversion of the Meghri scheme was
+successful. However, this achievement was only partial, as the pumps were required to be maintained and
+functional during the drier moment of the production season. The construction works of the Geghardalich
+Scheme were not finalized because the project failed to formally settle the complaints by one of the
+communities in the upstream area of the irrigation scheme. The conversion in the Kaghtsrashen Scheme was
+finalized but not yet operatorial: the infrastructure failed several pressure tests caused by leakages in the
+cheaper but lower-quality construction material. The Baghramyan-Norakert scheme was also not operational.
+Its inclusion into the project was questionable because both the gravity pumps and the tertiary delivery
+system were dysfunctional for several years before the project started.
+
+During the writing of the ICR review, the World Bank team provided an update on the status of the conversion
+of the three remaining pump-based irrigation schemes to gravity-based irrigation schemes. In a follow-up
+communication, the ICR team indicated that “the Kaghtsrashen irrigation scheme was declared operational [in
+May 2020]. It now generates energy savings as envisaged at project stage”. The other two schemes have not
+been finalized, but commitments have been made (see section 7). The saving of energy costs in the
+Kaghtsrashen scheme amounts to 8 GWh. This brings the total amount of energy saved in 2020 to 11.7
+GWh, which is still only one third of the revised target.
+
+The rating for the Efficacy with which objective 1 was achieved is therefore Negligible.
+
+
+
+Rating
+Negligible
+
+
+OBJECTIVE 2
+
+                                                                                                    Page 5 of 21
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+
+Objective
+Objective 2: To improve the irrigation conveyance efficiency in targeted irrigation schemes
+
+Rationale
+Theory of change. The project sought to increase conveyance efficiency and reduce water losses by
+rehabilitating outlet (and other) canals conveying the pumped water from the water intake source to the
+secondary and tertiary irrigation network. The assumption was that if less of the total water pumped into the
+outlet canals was lost due to leakage of seeping, more water would become available for irrigation users. This
+would allow the size of irrigated land to increase, including land previously (but not currently) irrigated or land
+that previously could not access irrigated water. A smooth delivery of water from the main canal to end-users
+assumed that secondary and tertiary distribution canals were functional so that the water from the outlet
+canals would effectively reach the end-users.
+
+Outputs. The ICR reports four intermediate results indicators that are relevant output indicators for the
+second objective of the project:
+
+      57 km of outlet canals receiving water from rehabilitated pumping stations, exceeding the target of 52
+       km. The label of this output indicator is confusing. In the 13 irrigation schemes where the outlets (and
+       other) canals conveying the pumped water to the distribution canals were upgraded, the pumping
+       stations themselves were not rehabilitated. Only the canals were rehabilitated (under component 1).
+       An indicator with the label “km of rehabilitated distribution canals through an outlet” would have been
+       clearer.
+      9,537 hectares provided with improved irrigation and drainage service, substantially below the original
+       target of 12,932 hectares. The rehabilitated outlet canals contributed 8,851 ha and the Meghri gravity
+       scheme contributed 686 ha.
+      8,286 water users provided with improved services, substantially below the original target of 12,336.
+      331 female water users provided with improved services, substantially below the original target of 493
+       km.
+
+Outcome. The outcome indicator reported in Annex 1 of the ICR related to the second objective is:
+
+      21.44 Cubic Meter (m3) water losses reduced in rehabilitated canals, slightly below the revised target
+       of 23.58 m3. Note that the original indicator was ‘lost liters per second per 100 meters in the targeted
+       irrigation schemes’ with the original target of 0.71 liters per second per 100 meters. The indicator was
+       simplified during the MTR and the measurement unit changed to million cubic meters. To measure this
+       indicator, the ICR measured “the difference between the amount of water to be pumped before and
+       after rehabilitation for irrigating the command area without changing the crops patterns or intensity.” It
+       used data that were provided by the borrower, which were from 2018. Hence, the value reported in the
+       ICR on what was actually achieved at completion in December 2019 was outdated by at least 12
+       months.
+
+Discussion. The project nearly achieved the outcome of reducing the amount of water lost in the
+rehabilitated canals. At the same time, the project delivered more rehabilitated outlet canals as output than
+targeted. Hence, while more canals had been rehabilitated (output) than anticipated, less water was saved
+(outcome). In a follow-up communication, the ICR team explained that because the rehabilitated canals could
+
+
+
+
+                                                                                                     Page 6 of 21
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+reach a larger command area (8,851 ha instead of 8,537 ha), more water has been pumped into the canals,
+resulting in higher absolute numbers of conveyance losses and lower savings in water.
+
+It is also unclear why the ICR reports three output indicators related to improved service delivery. There are
+no project activities that support the improvement of irrigation and drainage services in the project. The ICR
+(para 11) explicitly mentions that the project “intently focused on reducing costs of water delivery […] and less
+directly on improving service delivery”. Moreover, improved irrigation and drainage service delivery does not
+lead to improved efficiency, it is the result thereof. It is further unclear what the project considered to be
+improved services and how the improvement was measured. Finally, the project did not achieve improved
+service delivery, but even if it had done so, it cannot be attributed to the project and there was no impact on
+conveyance efficiency. This review concluded that the efficacy assessment of the second objective should not
+consider output indicators related to service delivery.
+
+The rating for the Efficacy with which objective 2 was achieved is therefore Modest.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 3
+Objective
+Objective 3: To improve the availability of important sector data and information for decision-makers and
+other stakeholders
+
+Rationale
+Theory of change. The project sought to improve decision making in irrigation management by improving the
+availability of important sector data and information used by decision-makers and other stakeholders. The
+project was, however, not clear on what type of sector data was important and who the decision-makers were
+who would make use of the data.
+
+Outputs. Annex 1 reports three PDO indicators and several intermediate results indicators related to the
+availability of sector data and information. However, this review did not consider all of these indicators in the
+assessment of the efficacy of the third objective. First, two of the original PDO indicators in the PAD (‘Data
+about O&M and EM used by SCWM, WSAs and WUAs for decision making’ and ‘Technical audit of irrigation
+agencies used by MOEINR and SCWM for decision making’) were later merged into one PDO indicator
+([Data] entered into a data base to be used for budgetary and investment planning purposes). However, this
+indicator refers to an achievement on an output and not does not reflect an objective. The ICR review,
+therefore, considered this composite indicator as one output indicator. Second, not all of the seven
+intermediate results indicators listed in Annex 1 were directly related to the availability of data. Therefore, a
+selected overview of the achievements on this review’s choice of relevant output results indicators is provided
+here:
+
+      [Data] entered into data base to be used for budgetary and investment planning purposes, compared
+       to the target of data used for budgetary and investment planning purposes. Since the results
+       framework of the ISEP only reports on the entering and not effectively using the data, IEG could not
+       verify the achievement concerning the original target. In footnote 27, the ICR acknowledges that
+
+                                                                                                   Page 7 of 21
+   Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+   IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+       “evidence is lacking for [the technical assessments] having informed decision making”. Similarly, the
+       ICR (para 46) states that “because there have not been significant investment decisions by the
+       irrigation sector institutions since the completion of these technical investigations in late 2018, the
+       extent to which these indicator’ targets were achieved remains inconclusive at the time of completing
+       this ICR”.
+      80 observation points have been equipped with installation of limnographs and water measurement
+       devices for the SCADA system, achieving the target of 71 observation points. However, at the time of
+       the ICR, only 50 devices were considered fully operational, and 30 devices were planned to be
+       repaired (ICR footnote 29). Hence, while the project achieved the target of installing equipment, it did
+       not achieve the target of operational equipment.
+      The ICR also lists five output indicators that were related to the institutional strengthening of irrigation
+       management institutions. As mentioned before, there was no separate PDO on institutional capacity-
+       building and it is unclear how institutional capacity-building activities affected the availability of data.
+       Attribution would also be difficult. As a consequence, any achievement of these indicators was not
+       considered as evidence in this review on whether important irrigation information was more readily
+       available to decision-makers and stakeholders.
+
+Outcome. The outcome indicator reported in Annex 1 of the ICR to measure the third objective was:
+
+      93 percent of WUAs having water intakes tracked by SCWM in real-time, slightly below the target of
+       100 percent. The underachievement is related to the fact that one of the 15 WUAs did not install the
+       SCADA system, because that irrigation system receives water from local sources and not the WSA.
+
+The outcome indicator in the results framework and the ToC related to information activities measured
+achievement on the availability of water flow data. The project, thus, lacked outcome indicators to assess
+achievement on improved availability of the two other sources of information, i.e, the O&M and EM costs and
+a technical audit of irrigation institutions. There is, thus, inadequate evidence that the availability of important
+sector data for decision makers improved.
+
+Discussion. The evidence presented in the ICR does not allow IEG to conclude that the project successfully
+achieved the objective to improve the availability of important sector data. The project reports slight
+underachievement on the availability of information on water intakes to decision-makers (i.e., WUAs) but
+more worrisome is that only 50 of the reported 80 observation points were operational devices to measure
+water flows. Moreover, the presented evidence is too weak to conclude that the availability of information on
+budgetary and investment to decision-makers improved. The fact that information is entered in a database is
+a necessary but not a sufficient condition for the information to be available to (and being used by) decision-
+makers and stakeholders. This is acknowledged by the ICR (ICR para 46). Moreover, evidence is only
+available on improved information on water flows, not other important data and information.
+
+Conclusion. Because of inadequate evidence, the achievement of the third objective is rated Modest.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 4
+                                                                                                       Page 8 of 21
+                               Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+                               IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+
+                            Objective
+                            Objective 4: To improve the reliability of important sector data and information for decision-makers and other
+                            stakeholders
+
+                            Rationale
+                            Theory of change. The fourth and last objective to improve the reliability of data feeds upon the third
+                            objective of data availability. Reliability, as defined in the Oxford Dictionary, is “the fact of being likely to be
+                            correct or true”. Hence, not only is it important to have data available, the data needs to be measured
+                            accurately (and frequently). But the same argumentation of why there is an unclear link between the
+                            availability of information and effective use of information applies to the reliability of data.
+
+                            Outputs. The same output indicators listed under objective 3 on the availability of information also contribute
+                            to the reliability of the data.
+
+                            Outcome. The same outcome indicators listed under objective 3 on the availability of information also
+                            contribute to the reliability of the data.
+
+                            Discussion. The near achievement of the project on the share of WUAs having water intakes tracked by
+                            SCWM in real-time is of particular relevance to data reliability. According to the ICR (para 47 to 49), the real-
+                            time tracking of water flow volumes by the SCADA system is much more accurate than the traditional
+                            measurement system. This has contributed to resolving disputes and conflicts between (i) WSA and WUAs,
+                            (ii) WUAs and its members, and (iii) WUAs and up- or downstream water users. More accurate and timely
+                            measurement of water flows is stated to have improved decision making, suggested by the more accurate fee
+                            collection by WUAs and lower operational losses by the WSA. The ICR (para 50) also states that interviews
+                            with SWA staff indicated that the SCADA system “helped to advance their understanding of water balance in
+                            the irrigation system; thus, improving management and future investment decisions”.
+
+                            However, there is a lack of quantitative data to conclude achievement claimed in the qualitative assessment.
+                            First, there is no evidence presented in the ICR that WUAs collected more accurate fees from users to close
+                            their budget gaps. Data on WUA collection fees and budget are the outcome of an effective M&E system in a
+                            project supporting WUAs. Second, the ICR shows a correlation between the aggregated water supply and the
+                            amount of water lost, to illustrate the effect of the introduction of the SCADA system (Figure 2 p20). While this
+                            correlation could be plausible, the ICR used data for the entire WSA network in Armenia, and not the specific
+                            schemes and canals supported in this project. Hence, attribution to the project is difficult. Finally, the above-
+                            mentioned qualitative assessment of ‘improving […] future investment decisions’ contradicts the ICR
+                            statement that “there have not been significant investment decisions by the irrigation sector institutions” (ICR
+                            para 46).
+
+                            Conclusion. Because of insufficient evidence, the achievement of the third objective is rated Modest.
+
+
+
+                            Rating
+                            Modest
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                                                                                                                                     Page 9 of 21
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+
+  OVERALL EFFICACY
+  Rationale
+  The achievement of the project to reduce electricity costs from the conversion to gravity-based pumps was
+  Negligible. Only one of the four schemes was (partly) converted before the project closed but another was
+  converted and declared operational 5 months after the project closed. Nonetheless, the amount of electricity
+  saved remains well below the project target. The project almost achieved the targets on improved
+  conveyance efficiency (measured as reduced water losses) but the evidence is weak. There is also
+  insufficient evidence to assess whether the third and fourth objectives on improved availability and reliability
+  for decision making were achieved. These three objectives were therefore rated Modest. As a result, the
+  overall efficacy is rated Modest, as, from a system perspective, little progress was made to enhance the
+  effectiveness of the irrigation system in Armenia.
+
+
+
+  Overall Efficacy Rating                                    Primary Reason
+  Modest                                                     Insufficient evidence
+
+
+5. Efficiency
+Economic and Financial efficiency
+
+The ICR states that the project intentionally focused on reducing the O&M costs of water delivery and improving
+the information for decision making in irrigation. Thus, the direct project beneficiaries were the institutions
+responsible for water delivery institutions and not the end-users, that is, the farmers. The latter were expected to
+indirectly benefit in the medium term from the increased water availability that the WUA could distribute among
+its members. This is expected to increase agricultural productivity in the longer term (ICR para 11).
+
+The project’s short-term benefits thus accrue to the WUA with lower O&M costs and more water available for
+their users to irrigate the existing land or to incorporate new land into irrigation.
+
+The economic analysis in the PAD is based on a with-and-without project comparison that assumed three types
+of benefits: (1) savings in electricity usage from the conversion from pump-based to gravity-based irrigation
+infrastructure, (2) increased intensity of production and the shift towards higher-value crops, and (3) water
+delivery to parts of the command area that could previously not be served. Combining both the benefits and
+costs of the project, the Internal Rate of Return (IRR) at the project appraisal was 25 percent.
+
+The ICR updated the assumptions and unit costs in the IRR methodology used in the PAD. Most importantly, the
+assessment took into account delays in the finalization of irrigation schemes and applied an optimistic and
+conservative calculation approach. However, these approaches are not well explained in the ICR. The footnote
+on the conservative approach mentions ‘Lessons learned from completed projects (Meghri and outlet canals)
+are reflected in the other water conversion schemes’ while the footnote on the optimistic approach mentions
+‘Whole additional area considered will be irrigated.’ However, using these two approaches, the ICR arrives at an
+optimistic IRR of 17 percent and a conservative IRR of 14 percent.
+
+While it is applaudable that the ICR revised the methodology to account for the operational delays in the
+estimated IRR, there are some flaws in the (updated) methodology presented in the ICR. First, there is friction in
+the economic analysis between the expected achievement of the TOC (to reduced electricity costs and water
+loss of irrigation institutions) and the medium- or longer-run benefits to farmers included. The benefits are
+
+                                                                                                      Page 10 of 21
+       Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+       IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+measured at the level of the end-users, not the project beneficiaries. The medium-term benefits of increased
+productivity and higher-value crop production are also uncertain to accrue. Access to irrigation water is unlikely
+to automatically incentivize beneficiaries to upgrade their irrigation farming system. Because the project did not
+address farm-level constraints to irrigation systems, it would be difficult to attribute the yield benefits wholly to
+the project. Moreover, it unlikely that the project would have achieved these medium-term benefits during the
+course of the project given the implementation delays.
+
+Second, several assumptions on the costs and benefits in the financial analysis require more discussion and
+justification. First, it is unclear how the ‘water savings from rehabilitation of outlet canals’ result in savings of
+electricity usage. Similarly, it is unclear what is meant when the optimistic approach assumes that “Whole
+additional area considered will be irrigated” and how that assumption is different in the conservative approach.
+Second, the estimation of the relative benefits of the increased irrigated area makes a strong assumption that no
+crops were cultivated on the lands without access to irrigation water (because no data were available). However,
+this assumption could have been verified with the project team on the ground, using government statistics, or
+using georeferenced data. Third, the analysis assumes O&M costs to be 2 percent of the investment costs for
+both the converted irrigation schemes and the rehabilitated outlet canals. Without more evidence, it is difficult to
+assess whether this is a realistic assumption.
+
+Operational efficiency
+
+The project exhibited many operational inefficiencies. Most of these examples were related to design issues
+(see Section 8). Most importantly, the design of the project failed to verify the existing field conditions of the
+irrigation infrastructure in the four targeted schemes. It also failed to notice the non-operational pumps and non-
+existent or highly-deteriorated state of the tertiary distribution network in the Baghramyan-Norakert scheme (ICR
+para 28). Insufficient involvement of and consultation with local communities at the design stage resulted in
+conflicts with local communities in two schemes (see section 9). It also overstretched the implementation agency
+(WSPIU) because it had to focus on resolving community issues (ICR para 80). The efficient implementation of
+the project was further constrained by some of the – according to the ICR – well-intended course changes that
+turned out to be less effective than the original design. Most notably, the decision to replace the metallic/steel
+pipes with locally produced glass-reinforced plastic (GRP) pipes was detrimental to the operational efficiency in
+the Kaghtsrashen scheme. While GRP is a cheaper material, it does not perform well in high elevations, slopes,
+and for long-distance pipes; and the local contractor was unaware of the construction requirements when
+installing these types of pipes (ICR para 82). After failure on the first pressure test, the contractor replaced the
+leaking pipeline joints at its own expenses, but the infrastructure failed the second pressure test as well. As
+mentioned in section 3, the Kaghtsrashen scheme became operational 6 months after the project closure (that is
+in May 2020).
+
+Conclusion
+
+The Economic and Financial efficiency analysis is based on the returns on investments to all four irrigation
+schemes. The ICR is optimistic that the GoA will finalize the construction works in the remaining three irrigation
+schemes (ICR para 53). On the contrary, the ICR also argues that it is uncertain that the GoA will complete the
+remaining infrastructure work (ICR para 41). Besides the confirmation from the follow-up communication that the
+Kaghtsrashen scheme is operational, it remains to be seen whether the project’s objectives in the two unfinished
+irrigation schemes will be achieved within 2 years. This is crucial for the project to remain economically viable.
+Moreover, it is also uncertain whether the expected benefits in the Geghardalich and Baghramyan-Norakert
+Gravity Schemes will fully materialize, as the benefits as the actual amount of energy saved might be different
+from the current amount of energy used for water delivery. Most notably, the engagement and interest of local
+
+
+                                                                                                        Page 11 of 21
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+communities in using the irrigation schemes might be uncertain. Therefore, the project’s overall efficiency when
+it closed, or even 5 months thereafter – when the Kaghtsrashen scheme became operational – is rated Modest.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                     100.00
+ Appraisal                                                 25.00
+                                                                                      Not Applicable
+                                                                                     100.00
+ ICR Estimate                                              14.00
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of the project was high to the government’s objective to modernize the irrigation sector in
+Armenia and to the main elements of the World Bank’s engagement with the country. The efficacy of the project
+was, however, rated modest because of conclusive evidence that the project failed to achieve the first objective
+to reduce energy costs and the inconclusive evidence that information was more available and reliable and that
+it was used for decision making. The evidence on improved conveyance efficiency was weak. While the analysis
+of the economic efficiency in the ICR arrived at an overall assessment that its internal rate of return was just
+above a discount rate of 10%, it remains uncertain whether the unfinished irrigation works would be finalized
+and operational in due time. Moreover, significant construction flaws resulted in operational inefficiencies in the
+Kaghtsrashen Gravity scheme that could have been avoided with the use of higher-quality material.
+
+According to IEG’s rating guidelines, a High rating for Relevance, a Modest rating for Efficacy, and a Modest
+rating of Efficiency indicates an overall Outcome rating of Moderately Unsatisfactory.
+
+
+a. Outcome Rating
+   Moderately Unsatisfactory
+
+
+7. Risk to Development Outcome
+
+The risk to the development outcome is expected to be significant. At the time of the ICR, it remained
+uncertain whether the non-operational irrigation schemes would be finalized soon after project closure as
+further implementation delays were expected. The ICR (para 108) warns for the “limited success in the final
+year of the Project to effectively address the technical and community challenges that have hamstrung the
+
+                                                                                                    Page 12 of 21
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+functionality and completion of the Kaghtsrashen and Geghardalitch Schemes”. According to the efficiency
+analysis, if the infrastructure works are not finalized within two years, the project becomes economically not
+viable. The ICR (para 64) states that: “[…] it is noteworthy that further delays in Geghardalitch and
+Kaghtsrashen Schemes […] beyond a two-year delay […] would sufficiently place these schemes into the
+category of being economically not viable”. Moreover, local communities have shown limited interest in the
+new technologies considered in the Baghramyan-Norakert Scheme. According to the ICR (para 65) “A delay
+in its implementation would only further decrease the expected net benefits below the 10 percent threshold”.
+Hence, based on the lack of evidence that there is a strong commitment to finalize the conversion of the
+three schemes within the next two years, and that communities will make use of them, the ICR anticipated
+that the economic viability of the project could fall below a 10 percent discount rate.
+
+In a follow-up communication to IEG, the ICR team expressed optimism regarding the completion of the
+Gegardalich and Baghramyan-Norakert Schemes. “First, the [GoA] agreed to mobilize funds for the
+completion of the Geghardalich gravity scheme [during the 2021 season]. There are 2.9 km of pipeline
+missing upstream to connect the system to the reservoir. Once done and the system has been tested
+satisfactorily, it will be declared operational and pumping will not be needed anymore. Second, the
+Baghramyan-Norakert Scheme has been converted from a previously pumped to a gravity-fed system.
+Additional financing was used to upgrade the entire system to a piped and naturally pressurized system
+which, delivers filtered water to over 85 hydrant stations. The system has been tested and declared
+functional. There are minor improvements needed to improve operability of the system. The problem is on
+the downstream side as [most land is bare and not cultivated]. [This] needs investment into the development
+of high value orchards and vineyards including drip irrigation systems. This component will be supported
+from fund of the European Union (EU) and the Agence Française de Développement (AFD).” While these
+commitments are indeed promising, the realization of these investments, and the full operationalization of
+these schemes two years after the projects closure, remains to be seen. Moreover, if the Geghardalich
+Gravity Scheme is rehabilitated by 2021, this is a considerable time after project closure in December 2019.
+
+The ICR identifies the crucial necessity to solve the fundamental governance issues around water-user rights
+and the continued need for institutional, technical, and financial support for the project to achieve the
+expected outcomes. Regarding institutional support, the outlook is also not so promising. The WC and SG
+have undergone several changes in their structure and leadership, resulting in reduced resources and staff
+to provide technical assistance and support to WUAs. The decision to restructure and centralize the
+governance of the WUA system also reduced the trust between WUA members and management. As a
+result, the level of technical and institutional support has decreased over time and that is likely to put another
+constraint to the effective management of irrigation schemes.
+
+This review assessed the risk to the project’s development outcomes as Substantial.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  While the solutions proposed by the project to reduce energy costs and water losses were simple and
+  sound, the design and implementation of these solutions were not sufficiently prepared and finetuned to
+  the local circumstances. Especially the design of the project component to convert pump-based irrigation
+  schemes to gravity-based irrigation schemes was not adapted to the local socio-economic realities and
+
+                                                                                                      Page 13 of 21
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+complex topography. Moreover, there was a lack of a comprehensive approach that would take into
+account the concerns, water needs, and expectations of the local communities in and around the
+irrigation schemes. The following design flaws significantly hampered the effective and efficient
+implementation of the project but could have been avoided if the project design would have paid sufficient
+attention to the preparation and feasibility of the infrastructure work.
+
+First, the feasibility of the conversion to gravity-based schemes was not properly assessed during the
+design stage and lacked a comprehensive perspective taking into account seasonality and water-user
+rights of outside communities. At the time of project closing, only the Meghri scheme was operational. But
+even the operational Meghri scheme still relies on the use of several electric pumps during drier periods
+of the irrigation season. When the river contains insufficient water, the gravity system will not be able to
+deliver water to the lower-located fields of remote end-users (ICR para 41). When the Geghardalich
+scheme is finalized, it is envisioned that electric pumps need to remain in standby mode to assure that all
+communities (in and around the scheme) have access to sufficient water. In redesigning the
+Kaghtsrashen scheme to accommodate community concerns, the construction of additional electric
+pumps was needed for the scheme to become operational. Even though the need to rely on electric
+pumps is a consequence of departures from the design to accommodate the concerns of local
+communities, the continued dependency on electric pumps defeats the whole purpose of promoting the
+conversion away from pump-based water delivery. If further questions the feasibility of gravity-based
+irrigation schemes if seasonal effects and the needs of all water users in the landscape are considered.
+
+Second and similarly, during project implementation, it was found that the pumps in the Baghramyan-
+Norakert scheme had been out of operation for between 5 to 20 years. It was also found that the tertiary
+distribution network (for the reliable delivery of irrigation water from the outlet canals to water users) in
+this scheme was non-existent or in a state of significant disrepair (ICR para 28). This implies that the
+design of the project did not assess (or verify) but rather assumed the adequate state of the irrigation
+pumps as well as the tertiary distribution network. This was an error that could easily have been verified
+in the field (by, for example, an appraisal team field visit at the time of site selection). The ICR (para 40
+and 78) rightly questions the site selection in the design of the project.
+
+Third, in the Kaghtsrashen scheme, the project design inaccurately assumed that steel pipes could be
+replaced by cheaper GRP pipes. The ICR (para 82) notes that “the decision to use GRP piping was made
+to accommodate higher than expected costs for the steel piping and to experiment with a more modern
+and innovative solution”. However, because GRP pipes are more sensitive to destruction due to topology
+and seismic activity, and local contractors lacked the knowledge and experience to use the materials
+during construction, quality issues (e.g. the in-field lamination of pipes joints and the lack of storm-water
+overflow structure) caused the scheme to fail on pressure tests at the time of completion. The implicit
+assumptions made by the project that construction material can be replaced and that local contractors
+are capable of doing so are another clear example of how the project design did not fully understand the
+impact of local conditions and capacity on the effectiveness of the solution the project introduced.
+
+Fourth, the design of the project handed the control of the water flow upstream to operators who would
+regulate the delivery of irrigated water to irrigation farmers based on the water availability upstream of the
+river. This arrangement, however, could result in substantial water losses when water is supplied to the
+irrigation canals at times of low downstream water demand. The ICR (para 25) states that it is only
+because the completion of the irrigation infrastructure was delayed in two schemes, that the project had
+the opportunity to adjust the regulation of water streams by installing control valves along the irrigation
+canals that allowed downstream users to regulate water inlets into the tertiary canal system. While this
+
+                                                                                                    Page 14 of 21
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+  project adjustment to a demand-based water control is likely to reduce water losses, it illustrates that the
+  aspect of water control was not fully thought through at the design stage.
+
+  Finally, the construction works in the Geghardalich and Kaghtsrashen schemes had to be halted because
+  of conflicts with stakeholders in and around the local communities upstream of the irrigation schemes.
+  These stakeholders raised concerns about the reduced availability of water for upstream use and the
+  impacts on the environment and cultural heritage. This implies that the project lacked a more
+  comprehensive approach to irrigation management that looks at the entire landscape and water users
+  (upstream, downstream, members, and non-members) at each site. The project also did not discuss or
+  formalize the water-user rights of the different stakeholders that rely on the same water source as the one
+  used for irrigation by the schemes. Ex-ante consultation with the different stakeholders in the irrigation
+  scheme could have avoided these complaints and delays easily.
+
+  Hence, most of these technical and social issues could have been anticipated or minimized during a
+  detailed, field-based, comprehensive feasibility study, and a careful appraisal. Surprisingly, the ICR (para
+  76) states that the project “included selecting schemes already analyzed and considered for pump to
+  gravity conversion under the MCC program”. The project, however, suffered throughout its entire lifespan
+  from the lack of a decent feasibility study or on-the-ground verification of the prospects for pump to
+  gravity conversion. Nor did the project sufficiently involve local communities in the design despite
+  safeguard impact assessments conducted (see section 10). Later in the document, the ICR reaches the
+  same conclusion. When explaining the drop in economic efficiency, the ICR states (para 62) that this was
+  due to “insufficient detail of the investigations/feasibility studies performed at the time of the appraisal. If
+  the analysis had been performed in more detail at the earlier stages by corroborating the desk review
+  with field visits, the appraisal design and economic analyses would have identified some of the
+  challenges, most notably the lack of an existing reliable tertiary distribution network in Bagramyan-
+  Norakert Scheme.”
+
+  Overall there were major shortcomings on a range of issues facing the project at entry. The project’s
+  quality at entry is therefore rated Unsatisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Unsatisfactory
+
+
+b. Quality of supervision
+ While the above-mentioned design problems became apparent as of the first year of the project’s
+ implementation, many of them proved to be hard to overcome (e.g. inappropriate selection of sites and
+ construction materials). Regarding supervision, the ICR notes that the World Bank team provided close
+ support including several technical supervision missions, and regularly expressed concerns about
+ safeguards and technical design issues.
+
+ Despite this stated close World Bank support, the supervision team failed to address some of the key
+ issues that emerged during the implementation of the project. First, the weak results framework and its
+ disconnect with the M&E system was not addressed, except for some minor changes during the project
+ restructuring. During the second project restructuring, it was decided that the technical assessments of the
+ O&M and EM data and the audit of irrigation agencies (used for the third and fourth PDO indicators,
+
+                                                                                                       Page 15 of 21
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+ respectively) were to be replaced by one indicator, reducing the scope and cost of the activity. Therefore,
+ these technical assessments were not conducted early during the project implementation (as envisioned)
+ but in 2018. As a consequence, the project failed to collect baseline data on O&M and institutional
+ improvements (ICR para 22). Moreover, the results framework was updated to replace two earlier PDO
+ indicators with a new indicator of “[Data] entered into database to be used for budgetary and investment
+ planning purposes”. As discussed in the efficacy section, this is not a relevant indicator and especially not
+ for measuring achievement towards an objective.
+
+ Second, while the AF was requested to allow more time to finalize the infrastructure work in the
+ Geghardalich and Kaghtsrashen schemes, it was mainly used as a pilot to introduce drip irrigation in the
+ tertiary irrigation network in Baghramyan-Norakert. More specifically, the modernized tertiary irrigation
+ network would provide pressurized and filtered water to individual plots suitable for drip irrigation. The ICR,
+ however, states (para 84) that “[the AF] was a risky approach, in that there was no verifiable evidence that
+ this modernization pilot was designed to meet expressed demand”. This was especially worrisome given
+ that farmers themselves would be responsible to invest in on-farm drip tubing to be connected to the main
+ water supply system. Moreover, at the time most of the infrastructure was already finalized, the Ministry of
+ Agriculture requested adjustments to the initial design that would facilitate a (potential) future process of
+ land consolidations. Hence, the AF suffered from similar complexity issues and did not properly incorporate
+ the needs of the end-users in its design.
+
+ Finally, the concerns of local communities in the Geghardalich and Kaghtsrashen schemes did not only
+ delay the construction of irrigation infrastructure, they were also never formally settled.
+
+ This review found that there were significant shortcomings in the project’s quality of supervision and it is
+ therefore rated as Moderately Unsatisfactory.
+
+
+
+  Quality of Supervision Rating
+  Moderately Unsatisfactory
+
+  Overall Bank Performance Rating
+  Unsatisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The M&E design lacked clear indicators to measure and demonstrate the project’s achievement to its
+ PDOs. There were no indicators to measure the availability and reliability of important sector data and
+ information for decision-makers and other stakeholders. Hence, the M&E design did not provide sufficient
+ evidence to conclude that the third and fourth objectives were achieved. The indicators used for the first
+ and second objectives were better, but as mentioned earlier in this review and by the ICR (para 86), there
+ was no logical results chain from inputs, outputs, to outcomes in the results framework which posed
+ difficulties for designing the M&E system. While five out of 12 output indicators reported on the delivery of
+ institutional capacity-building, there was no PDO related to institutional capacity. Similarly, three output
+ indicators reported on improved irrigation and drainage services, but the ICR explicitly mentions that this
+
+                                                                                                     Page 16 of 21
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+ was not the focus of the project. Moreover, the concept of ‘improved irrigation services’ is not defined. The
+ ICR (para 85) correctly concludes that “the indicators had shortcomings in their ability to accurately capture
+ progress toward achieving the PDO (even after restructuring), in that they were defined in a way that left
+ them open to interpretation.”
+
+
+
+b. M&E Implementation
+  The WSPIU was responsible for the data collection for the M&E – using existing systems and databases
+  – and reporting on the progress of project achievement. The project restructurings had to adjust
+  definitions, measurements, and targets during implementation to address some of the issues in the initial
+  results framework, but many issues remained (see also above). The ICR (para 89) mentions that
+  reporting by the WSPIU focused on procurement and but barely discussed the project’s implementation
+  progress (using the M&E system). Moreover, the WSPIU adjusted indicator targets beyond what was
+  agreed during the formal restructuring, resulting in inconsistent definitions and targets and a mismatch
+  between the information collected in the M&E system of the WSPIU and the information needed to track
+  and illustrate progress on indicators included in the official results framework of the project (ICR
+  paragraph 88 and 90).
+
+
+
+c. M&E Utilization
+  Due to the design issues and inconsistency between WSPIU’s M&E system and the project’s results
+  framework, the information in the M&E was not used effectively to track implementation or inform
+  decisions during project restructurings (ICR para 90). Hence, the M&E system failed to guide decision
+  making in the project’s implementation.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified under the environmental category B and triggered OP/BP 4.01 on Environmental
+   Assessment, OP 4.09 on Pest Management, OP/BP 4.12 on Involuntary Resettlement, OP/BP 4.37 on
+   Safety of Dams, and OP/BP 7.50 on Project on International Waterways. Accordingly, the borrower
+   developed an Environmental Management Framework (EMF) and a Resettlement Policy Framework to
+   guide site-specific environmental and social work for all sub-projects. The ICR (para 93) states that
+   “Environmental and Social Impact Assessment (ESIA) was carried out for works on some irrigation
+   schemes and Environmental Management Plans (EMPs) developed thereafter, or self-standing ESMPs
+   were prepared for others” but it is unclear whether all irrigation sites targeted by the project received a
+   social and environmental assessment.
+
+   The PAD (para 84) states that “because the detailed designs of the civil works have not been finalized and
+   the exact footprints of the works are still not defined, as a precautionary measure, the World Bank's
+
+                                                                                                    Page 17 of 21
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+  Operational Policy on Involuntary Resettlement (OP4.12) was triggered and a Resettlement Policy
+  Framework (RPF) was prepared.” The ICR notes that the project did not cause any resettlement impacts
+  and therefore Resettlement Action Plans were not prepared. However, the ICR also notes the unrecorded
+  use of private land for the placement of water pipes in the Meghri scheme after the redesign, and that this
+  issue was settled by voluntary use agreements between the SWPIU and the land-owners. This, however,
+  downgraded the social safeguard performance to Moderately Satisfactory.
+
+  The ICR (para 93) states that the ISEP complied with all triggered safeguard policies at project closure.
+  Nonetheless, there were significant issues with the design and reporting of safeguard implementation. The
+  implementation of the Geghardalich and Kaghtsrashen schemes had to be halted because local
+  communities in and around the water intake for the irrigation schemes voiced their concerns about the
+  environmental, economic, political, and cultural damage of the construction works (see earlier references in
+  this review). As a consequence, an inspection panel request was submitted to the World Bank in 2016
+  concerning both schemes. However, such social and environmental issues were only discovered during
+  project implementation, which illustrates that these aspects were not properly taken into account when
+  preparing the ESIAs. The borrower’s comments to the ICR (para 10) state that for the Geghardalich scheme
+  “the project had passed through all the procedures set by the Armenian legislation and the WB operation
+  policies and all the required consultations”, so it is unclear why local communities’ protests emerged during
+  project implementation if they were consulted during the project’s preparation. Moreover, the ICR notes the
+  low quality of the ESIA reports, which contributed to the delay of construction works. Finally, the ICR (para
+  96) states that the monitoring and reporting of environmental aspects as well as work-safety aspects
+  “remained a relative weakness of the Project implementing entity throughout the Project implementation”.
+
+
+
+
+b. Fiduciary Compliance
+  Financial Management. The ICR reports an overall adequate and satisfactory quality of the financial
+  management of the project. Unaudited financial reports were received by the World Bank on time and in
+  acceptable quality. External audits of the financial statements issued unmodified (clean) opinions and were
+  publicly disclosed. The ICR does not mention that audits were qualified.
+
+  Procurement. The financial procurement system of the project implemented the World Bank’s STEP
+  system and procurement specialists were properly trained. Despite this, the ICR notes that the complex
+  structure and the later reorganization of the implementing agency caused insufficient proactivity and delays
+  in procurement activities. In response, the World Bank supported the WSPIU by a ‘contract monitoring
+  activity’ to improve their procurement administration and reporting.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+  The ICR does not mention unintended impacts.
+
+
+
+d. Other
+
+
+                                                                                                 Page 18 of 21
+     Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+     IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+   ---
+
+
+
+11. Ratings
+                                                                                   Reason for
+Ratings                         ICR                     IEG
+                                                                                   Disagreements/Comment
+                                Moderately             Moderately
+Outcome
+                                Unsatisfactory         Unsatisfactory
+                                                                                   The project suffered from
+                                                                                   several major design issues
+                                                                                   which were the result of an
+                                                                                   insufficient assessment and
+                                                                                   preparation of the feasibility of
+                                                                                   the irrigation works. The
+                                                                                   environmental, social, and
+                                                                                   water-use implications of
+                                Moderately                                         communities outside the WUAs
+Bank Performance                                       Unsatisfactory
+                                Unsatisfactory                                     were not properly assessed. The
+                                                                                   additional financing during the
+                                                                                   supervision period failed to
+                                                                                   address the weak results
+                                                                                   framework, the M&E system
+                                                                                   continued to be weak, and the
+                                                                                   introduction of a complex drip-
+                                                                                   irrigation network was out of line
+                                                                                   with farmers’ interests.
+Quality of M&E                  Modest                 Modest
+
+Quality of ICR                  ---                    Substantial
+
+
+12. Lessons
+
+The ICR provides 4 detailed lessons, of which the following lessons are retained (with language
+adapted):
+
+Support for the enhancement of irrigation systems needs to integrate water delivery with
+service delivery. In Armenia, where a minimum level of irrigation infrastructure is available, support
+to the irrigation sector has traditionally focused on improving water delivery. However, water delivery
+cannot be addressed without addressing service delivery or water rights governance at the same
+time. The development of the irrigation sector needs an integrated model that combines investments
+in infrastructure to improve water delivery with investments in improved service delivery and water-
+rights governance at different levels of water users. Moreover, irrigation development needs to
+incorporate institutional strengthening when the sector-wide institutional reform in the irrigation
+sector is still in a relatively early stage of development. In this project, however, there is no mention
+of the quality, uptake, and impact of service delivery, and therefore it provides no evidence on
+
+                                                                                                     Page 19 of 21
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+whether the rehabilitation of the irrigation system enhanced the irrigation sector as a whole in
+Armenia.
+
+Projects investing in irrigation infrastructure need a feasibility phase to understand and
+adapt the proposed solutions to the on-the-ground realities of the topology, local capacity,
+and social context of the irrigation infrastructure. The most significant design flaw of this project
+was the lack of on-the-ground feasibility study of the condition of the irrigation infrastructure and
+network as well as a limited understanding of the needs and perceptions of the different
+stakeholders involved.
+
+Site selection for irrigation development need to look beyond the agroeconomic benefits of
+an irrigation scheme and include the perception and concerns of all stakeholders (within and
+around the irrigation scheme) that rely on the same source of water. Local communities in and
+around the water source of two targeted schemes raised concerns about broader-level water
+availability and the impact of the infrastructure works on the environment as well as cultural heritage.
+These complaints by local communities illustrate the obvious need to involve all local stakeholders in
+decisions on where and how to develop irrigation sites.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR was logically written with enough information on the project background, implementation, and
+achievements and it complies with OPCS guidelines. The arguments made in the different sections are to-the-
+point, yet with sufficient detail and some concrete examples. In general, the ICR provides a candid discussion
+of the achievements and design (issues) of the project. Many of the issues identified in this review were
+acknowledged by the ICR, although in a less direct manner and with more subtle language. The ICR also
+critically assessed the data and reporting on project indicators received from the borrower’s M&E system. The
+updated financial and economic analysis, despite some unclear assumptions, critically reviewed and extended
+the efficiency analysis.
+
+This candid discussion is, however, not fully reflected in the conclusions it draws. At some points in the ICR, the
+text is optimistic and not justified based on the narrative in the preceding text. For example, in paragraph 74,
+the ICR states that “it can be concluded that the Project will likely have a lasting positive impact on the
+achievement of the ‘twin goals’ in Armenia”. Given the ICR’s description of implementation delays, the unlikely
+prospect of the finalization of infrastructure works in the future, and the lack of any indicator on household-level
+outcomes, the quote from paragraph 74 is a strong and unfounded statement.
+
+The ICR is very brief in discussing several crucial parts of the report. Most importantly, there is only one
+paragraph in the ‘quality at entry’ discussion as part of the Bank performance section, although the project
+suffered from substantial design flaws at entry. The ICR does discuss the consequences of these issues
+
+
+
+                                                                                                     Page 20 of 21
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      IRRIGATION SYSTEM ENHANCEMENT PROJECT (P127759)
+
+
+
+throughout the other sections, but a critical and detailed assessment of the project’s design flaws at entry is
+missing.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                     Page 21 of 21
+

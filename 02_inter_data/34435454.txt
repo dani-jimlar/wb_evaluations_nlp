@@ -1,0 +1,1206 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     Mozambique PHCSP (P163541)
+
+
+
+                                                                                Report Number : ICRR0024243
+
+1. Project Data
+
+
+
+ Project ID                                Program Name
+ P163541                                   Mozambique PHCSP
+
+ Country                                   Practice Area(Lead)
+ Mozambique                                Health, Nutrition & Population
+
+
+ L/C/TF Number(s)                         Closing Date (Original)              Total Program Cost (USD)
+ IDA-D2650,TF-A6152,TF-A9398,TF-          31-Dec-2022                                         180,339,082.88
+ B3368,TF-B4481
+
+ Bank Approval Date                       Closing Date (Actual)
+ 20-Dec-2017                              31-Dec-2023
+
+                                          IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                          105,000,000.00                                 123,200,000.00
+
+ Revised Commitment                           203,200,000.00                                 123,200,000.00
+
+ Actual                                       173,985,403.45                                 103,281,688.23
+
+
+
+
+ Prepared by                Reviewed by                 ICR Review Coordinator          Group
+ Aliza M. Belman Inbal      Judyth L. Twigg             Susan Ann Caceres               IEGHC (Unit 2)
+
+
+
+
+2. Program Context and Development Objectives
+
+DEVOBJ_TBL
+a. Objectives
+   The PDO, as stated in the Grant Agreement and the Project Appraisal Document (PAD), was “to improve the
+   utilization and quality of reproductive, maternal, child and adolescent health and nutrition (RMNCAH-N)
+   services, particularly in underserved areas.” Underserved areas were identified based on their low relative
+   historical provincial and district per capita expenditure, together with other health outcome and service
+   delivery factors detailed in the Program Operations Manual (PAD p.24).
+
+
+                                                                                                 Page 1 of 22
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Mozambique PHCSP (P163541)
+
+
+
+   An outcome target was revised downward at a March 2023 restructuring, but the split rating methodology will
+   not be used for this Review as it would not affect any of the ratings.
+
+
+
+b. Were the program objectives/key associated outcome targets revised during
+   implementation?
+   Yes
+
+   Did the Board approve the revised objectives/key associated outcome targets?
+   Yes
+
+   Date of Board Approval
+   30-Mar-2023
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Program activities addressed three thematic areas of the government’s five‐year Investment Case (IC) for
+   enhanced delivery of RMNCAH‐N services:
+
+         1. Enhancing coverage, access, and quality of primary health care services, including high-impact
+           supply and demand‐side interventions, with a focus on underserved areas;
+         2. Strengthening the health system for improved stewardship, financial sustainability, expenditure
+            efficiency and equity, and gender responsiveness of service delivery, together with improved Civil
+            Registration and Vital Statistics (CRVS) systems; and
+         3. Enabling the Ministry of Health (MISAU) to effectively manage the implementation of the IC, through
+            technical assistance, capacity development, monitoring and evaluation (M&E), and Health Partner
+            coordination activities.
+
+
+
+e. Comments on Program Cost, Financing, Borrower Contribution, and Dates
+   Cost and Financing: The program was originally financed by a‫ מ‬IDA grant of US$80 million alongside a
+   Global Financing Facility grant of US$25 million, of which US$77 million and US$22 million respectively
+   were disbursed. In addition, Trust Fund financing from the Netherlands (US$35.5 million) and USAID
+   (US$22.5 million) co-financed the disbursement-linked indicators (DLIs). US$935 million in borrower
+   financing was also committed, although the ICR did not report on the final tally of government
+   expenditures. In the first restructuring, additional financing was committed in the form of US$90 million in
+   Trust Fund financing from the Government of Canada and the United Kingdom’s Department for
+   International Development/Foreign, Commonwealth & Development Office (DFID/FCDO). Conversely, the
+   fourth restructuring incorporated withdrawal from prior funding commitments by USAID (US$15.1 million
+   reduction from original commitment) and FCDO (US$11.2 million reduction). In total, US$179 million in
+   World Bank-administered financing, including donor-funded trust funds, was originally committed, later
+
+
+
+
+                                                                                                    Page 2 of 22
+  Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+  Mozambique PHCSP (P163541)
+
+
+
+raised to US$203 million thanks to additional donor commitments, of which US$174 million was disbursed
+(reflecting non-achievement of some DLIs).
+
+Dates: The program was approved on December 20, 2017, and went into effect on April 18, 2018. Its
+original closing date was December 31, 2022, which was postponed in restructuring until December 31,
+2023, in accordance with additional financing committed. The program was restructured four times:
+
+      March 1, 2019 (25 percent of IDA grant disbursed): Additional financing was secured in the form of
+       grants from the Government of Canada and DFID/FCDO, as noted above. This financing was
+       planned before project launch but only finalized after the project was approved. The results
+       framework was revised accordingly, updating select baselines and targets and scaling up DLIs to
+       reflect the additional financing, and a new DLI was added on availability of essential medicines in
+       primary health care facilities. In addition, the closing date was extended by one year to reflect the
+       additional year of financing provided.
+      April 7, 2021 (65 percent of IDA funds disbursed): In accordance with mid-term
+       review recommendations and to accommodate COVID-19-related data collection challenges,
+       several indicators were changed to refine some of the expected outputs/outcomes, improve
+       methodologies used to calculate them, clarify responsibilities for data collection and reporting,
+       and facilitate the monitoring of program activities and interventions. In response to data gathering
+       challenges and pressures on the health and training systems due to the COVID-19 pandemic, some
+       annual targets were modified, and 6th year targets were added. For the most part, endline targets
+       were maintained. In the case of DLI 1, due to “insufficient ownership” by the Ministry of Health and
+       high implementation costs, targets to expand the UpSCALE application among Community Health
+       Workers were removed pending further discussion. Sub-indicators were added to support the
+       institutionalization of the Child Health Workers program (including their official recognition as a
+       public health cadre) (Restructuring Paper, p.8).
+      May 4, 2022: This restructuring was required to (a) retroactively include a clause in the Grant
+       Agreement of the executed trust fund (TF0B4481) financed by the UK to enable disbursement
+       against prior results and (b) extend the IDA grant (D265-MZ) from December 31, 2022, to December
+       31, 2023, to align with the closing date of other funding sources supporting the Program.
+      March 30, 2023 (88.6 percent of IDA grant disbursed): The restructuring involved changes to the
+       results framework, in response to a reduced financing envelope and other challenges. The reduction
+       in financing was due to the UK (FCDO) and USAID withdrawing from prior commitments. These
+       reductions, totaling approximately US$36.5 million, constituted 32 percent of the remaining DLI
+       allocation totals for 2021 to 2023. In response, reductions were made in annual DLI and results
+       framework targets, including:
+             1. Removing 2023 DLIs (totaling US$16.7 million, enabling sufficient time for DLI verification
+                and Program closing by December 2023);
+             2. Eliminating some process indicators; and
+             3. Reducing select targets to ensure they would be “both challenging and feasible."
+
+Two intermediate results indicators and one PDO indicator were modified:
+
+    o IRI “Number of health facilities providing Basic Emergency Obstetric and Newborn Care” was
+      removed, as it had not been reliably measured to date. The indicator on Comprehensive Emergency
+      Obstetric and Newborn Care was retained;
+    o IRI “Percentage of pregnant women who receive four doses of intermittent preventive treatment of
+      malaria during their pregnancy” was removed, according to the Restructuring Paper (p.7) “to
+
+                                                                                               Page 3 of 22
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Mozambique PHCSP (P163541)
+
+
+
+          streamline and enhance focus” on the PDO indicator “Number of lagging districts (as defined in the
+          IC) that provide four doses of intermittent preventive treatment of malaria to at least 70 percent of
+          pregnant women.” The end target of this PDO indicator, which was added in the mid-term
+          restructuring in 2021, was reduced from 70 percent target coverage per district to 60 percent.
+
+   Additional details on target revisions are provided in Section 4.
+
+
+
+
+3. Relevance   TBL
+
+
+
+
+a. Relevance of Objectives    New
+
+
+
+
+  Rationale
+  The program was in line with Mozambique’s commitments to improve its health services, particularly
+  in lagging districts. While Mozambique had demonstrated improvements in access to health facilities and
+  community-based interventions, inequalities persisted, with poor, rural populations, and women and children
+  being the most disadvantaged. 62 percent of deaths in 2015 were due to communicable diseases (especially
+  malaria, and due to inadequate sanitation and potable water) and malnutrition amongst women and
+  neonates (ICR p.6). Mozambique suffered from high rates of stunting (38 percent) and malnutrition as well as
+  one of the highest rates of child marriage and adolescent fertility in the world (CPF 2023, p.60).
+  Mozambique’s Human Capital Index was also amongst the lowest in the world at 0.36. To address these
+  challenges, the Government of Mozambique developed a five-year IC, prioritizing high-impact interventions
+  to support access to and quality of Reproductive, Maternal, Newborn, Child, and Adolescent Health and
+  Nutrition (RMNCAH-N) services. The IC was supported by multiple donor health partners. This PforR
+  financed the part of the IC implemented through the government’s annual Economic and Social Plan (2014-
+  19), supporting three of the IC’s thematic areas, as detailed above in Section 2d.
+
+  The program was relevant to the most recent Country Partnership Framework (CPF, FY2023-
+  FY2027). It was consistent with High-Level Outcome 3: Improved human capital and women’s
+  empowerment, and CPF Objective 7 of Improved Selected Health and Education Outcomes. The CPF, under
+  Objective 7, sets the following goals: “The CPF will continue the current engagements in health and
+  education which, having achieved many foundational reforms, will focus next on outcomes, equitable delivery
+  of frontline services, quality, and adaptability, and resilience to shocks.” The “selected” health outcomes
+  identified in the CPF (p.36) include reducing the prevalence of stunting, reducing child mortality, and
+  increasing childhood immunization coverage (CPF p.61). In addition, in line with the emphasis on institutional
+  capacity-building in the CPF, the PforR supported development of health system M&E capacity, increasing
+  numbers of community health workers and health worker and teacher training, and expanding health and
+  nutrition services related to the reduction of stunting (CPF 2023, p.37). The PDO also contributed to
+  Objective 8: “Improved access to services to prevent adolescent pregnancy and promote women’s economic
+  participation” through support for sexual and reproductive health services in secondary and technical schools
+  (information and contraceptive methods).
+
+
+
+
+                                                                                                     Page 4 of 22
+                              Independent Evaluation Group (IEG)                      Implementation Completion Report (ICR) Review
+                              Mozambique PHCSP (P163541)
+
+
+
+
+       Rating Relevance TBL
+
+
+
+
+                       Rating
+                       High
+
+
+b. Relevance of DLIs                         New
+
+
+
+
+DLI RELEVANCE TBL
+
+
+
+
+                DLI 1
+                DLI
+                Number of districts with at least 85 percent coverage of institutional deliveries in lagging districts.
+
+                Rationale
+                Lagging districts were defined in the IC as districts with with lower population density, fewer resources, and
+                less actual production of services and determined by an algorithm detailed in the IC and program manual.
+                Priority Districts included the lagging districts listed in the IC, as well as a list of 55 districts that had high
+                potential for attaining results. The original DLI statement was “Percentage of Institutional Deliveries in 42
+                priority districts as defined in the IC,” but this was revised in 2021. The revision aimed to better capture equity
+                in coverage, as the average coverage masked significant inequities between districts. This DLI aimed at
+                increasing the number of births taking place in hospitals. The percentage of institutional deliveries was
+                defined as the total number of pregnant women who delivered their babies in a health facility in a priority
+                district out of the total number of expected childbirths in the same district in a year. The purpose of this DLI
+                was to improve inadequate service availability to reduce maternal and neonatal mortality. According to data
+                from routine data sources and the 2015 Survey on Vaccination, Malaria and HIV-AIDS Indicators in
+                Mozambique, while there had been marked increases in the coverage of institutional deliveries, there were
+                still substantial inequalities—despite some reduction—in the accessibility and use of maternal and child
+                health (MCH) services (ICR para.6). DLI1 directly corresponded with PDO1, with both measuring
+                achievement of the PDO of enhancing utilization of RMNCH services.
+
+
+
+
+                Rating
+                Substantial
+
+                DLI 2
+                DLI
+                Percentage of secondary and technical schools offering sexual and reproductive health services (information
+                and contraceptive methods).
+
+                Rationale
+
+                                                                                                                          Page 5 of 22
+      Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+      Mozambique PHCSP (P163541)
+
+
+
+Mozambique, with one of the highest birth rates in the world, is characterized by high and increasing rates of
+adolescent fertility. Adolescent pregnancy is associated with increased risk of maternal death. In addition,
+estimates showed that a reduction of one child in Mozambique’s fertility rate (5.3 in 2016) by 2050 could lead
+to a 31 percent increase in real GDP per capita and a 3.3 percentage point decrease in poverty headcount
+rate (PAD p.10). This DLI was intended to contribute to improved engagement of adolescents with family
+planning services, leading to lower adolescent pregnancy rates. The original wording of the DLI was
+“Percentage of secondary schools offering sexual and reproductive health services (information and
+contraceptive methods), based on visits by health professionals, at least monthly.” At the 2019 restructuring,
+the DLI was revised to: "Percentage of secondary and technical schools offering sexual and reproductive
+health (SRH) services, according to minimum criteria," as monthly visits were determined to be a prohibitively
+high standard; instead, minimum criteria of quarterly visits (required for consistent access to injectable
+contraception) were set, as more realistic from an operational and fiscal perspective (ICR p.48). In the 2021
+restructuring, the DLI was further amended due to COVID-19-related school closures. The minimum criteria
+were removed from the DLI statement, and the 2020 target was reduced from 30 to 19 percent, with a focus
+on technical schools that had remained partially open. Additional process indicators and sub-DLIs were set
+for 2020 and subsequent years. Sub-indicators confirmed that the recipient had (i) completed an identification
+of gaps in training materials (Yes/No) (DLI 2.2); (ii) finalized the harmonization of monitoring and evaluation
+tools (Yes/No) (DLI 2.3); (iii) approved updated training materials (Yes/No); (iv) set adolescent- and youth-
+friendly services guidelines (Yes/No) (DLI2.4); and (v) trained health providers and focal points on improved
+monitoring and evaluation tools (Yes/No). Achievement of the DLI was meant to contribute to PDO Indicator
+2, which measured contraceptive distribution.
+
+
+
+Rating
+Substantial
+
+DLI 3
+DLI
+Couple years of protection (CYPs).
+
+Rationale
+This DLI estimated the protection provided by family planning services during a one‐year period, based upon
+the volume of all modern contraceptive methods sold or distributed free of charge to users during that period.
+As with DLI2, this DLI was intended to improve access to sexual and reproductive health services to support
+a reduction in fertility and improved sexual health. CYP is a standardized indicator developed by USAID. The
+PAD (p.24) explains the choice of CYP as an indicator for access to family planning: (i) the CYP indicator
+presents a way to aggregate all family planning methods into a single output measure that can be tracked
+using the health management information system; (ii) CYP targets can be linked to forecasted coverage
+changes of various family planning methods, and (iii) unlike the modern contraceptive prevalence rate, CYPs
+can be measured without a survey methodology at every level within the health system. The DLI
+corresponded with PDO2.
+
+
+
+Rating
+High
+
+
+                                                                                                  Page 6 of 22
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      Mozambique PHCSP (P163541)
+
+
+
+
+DLI 4
+DLI
+The Recipient has increased the percentage of children between 0-24 months of age receiving the Nutrition
+Intervention Package in the 8 provinces with a prevalence of stunting above 35 percent (percentage).
+
+Rationale
+High levels of stunting had remained unchanged over the last 2‐3 decades, affecting on average 43 percent
+of children under five, with higher concentrations in the northern and central regions. Mozambique’s stunting
+rate was the ninth highest in Africa (PAD p.10). This DLI was revised in 2019 from the original indicator of:
+Percentage of children between 0‐24 months of age receiving the Nutrition Intervention Package in the 6
+provinces with the highest prevalence of chronic malnutrition. According to the program team, there was no
+substantive difference between the terminology used in the first phrasing of the DLI “prevalence of stunting”
+and the change to “prevalence of chronic malnutrition,” as both used the same data source. At the same time,
+(PDO level) end targets were adjusted to reflect reduced availability of nutrition commodities due to supply
+chain disruptions during COVID and the restriction of public gatherings at all levels, including community
+nutrition service sites. Sub-indicators for this DLI included: (i) training at least 6 trainers, 100 percent of district
+nutrition representatives, 30 percent of Community Health Workers, and 30 percent of volunteers in 6 of the 8
+targeted provinces, and (ii) finalizing the Monitoring and Evaluation System. The indicator corresponded with
+PDO 3.
+
+
+
+Rating
+Substantial
+
+DLI 5
+DLI
+Domestic health expenditures as a percentage of total domestic government expenditures.
+
+Rationale
+This DLI was intended to address low government health spending, which was identified as a key constraint
+to improving health systems access and quality. According to the PAD (p.10), “while the share of domestic
+health financing remained relatively constant in 2015‐16, it has been jeopardized by Mozambique’s growing
+debt service. The maintenance of domestic expenditures for health must be incentivized to sustain financing
+for the sector, and to avoid putting undue burden on households. To reach universal health coverage in the
+longer term, this will require strategies such as increasing allocation of general revenue sources, earmarked
+taxes, equitably applied user fees, etc.” This DLI was supported by a series of reforms to strengthen fiduciary
+oversight and fiscal decentralization. Achievement of this DLI supported the full PDO, including both quality
+and utilization objectives.
+
+
+
+Rating
+High
+
+DLI 6
+
+                                                                                                          Page 7 of 22
+      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+      Mozambique PHCSP (P163541)
+
+
+
+
+DLI
+Recipient has increased health expenditures from the Sub-Account Resources in Underserved Provinces
+(Nampula, Zambezia, Tete).
+
+Rationale
+DLI6 was an accompanying measure to DLI5. These underserved areas were selected based on their low
+relative historical provincial and district per capita expenditure, together with other health outcome and
+service delivery factors detailed in the Program Operations Manual (PAD p.24). Sub-indicators for this DLI
+included: (i) increasing health expenditures from the Sub-Account Resources in the 28 Underserved Districts
+in the three Underserved Provinces; (ii) maintaining Domestic Health Expenditures for the three Underserved
+Provinces (Nampula, Zambezia, Tete) as a share of provincial Domestic Health Expenditures; (iii) maintaining
+Domestic Health Expenditures for the 28 Underserved Districts in the three Underserved Provinces as a
+share of district Domestic Health Expenditures; (iv) increasing the number of provinces with Program
+Contracts; and (v) disbursing grants to 90 percent of primary health care facilities with internment in the three
+Underserved Provinces. Achievement of this DLI supported the full PDO, including both quality and utilization
+objectives.
+
+
+
+
+Rating
+High
+
+DLI 7
+DLI
+Number of technical health personnel (Regime Especial) assigned to the primary health care network.
+
+Rationale
+Mozambique’s critical health system challenges included low health worker density (linked to insufficient per
+capita health expenditure) and absenteeism (estimated at 23.4 percent). This was exacerbated by inadequate
+provider capacities, low motivation/effort/accountability for results, and a top‐heavy workforce composition
+inefficiently skewed towards more administrative (non‐medical) staff (PAD p.10). The IC named health human
+resources as a “key bottleneck” in Mozambique’s primary health care system and committed to retain and
+increase the number of health professionals at the primary level to overcome critical shortages. This DLI
+included all career health professionals belonging to the health “special regime," including the following
+occupational areas: Nursing, Curative Medicine, Preventive Medicine, Pharmacy, Laboratory, Surgery,
+Anesthesiology, Instrumentation, Hospital Administration, Nutrition, Radiology, Stomatology, Psychiatry and
+Mental Health, Physical Medicine of Rehabilitation, Ophthalmology, Health Statistics, and
+Otorhinolaryngology. In addition, in the 2019 restructuring, a second sub-DLI (7.2) was added aiming at
+increasing “the number of health care facilities in the primary care network that have at least two active
+maternal child health nurses.” This DLI was intended to contribute to the PDO of increased utilization of
+RMNCH services.
+
+
+
+Rating
+
+
+                                                                                                    Page 8 of 22
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      Mozambique PHCSP (P163541)
+
+
+
+High
+
+DLI 8
+DLI
+Number of district/rural hospitals that received performance‐based allocations (PBA) in accordance with a
+minimum of two scorecard assessments in the previous fiscal year.
+
+Rationale
+DLI 8 addressed the challenge of quality of care. This DLI also has a sub-indicator of “increased number of
+district and rural hospitals that receive allocations based on prioritized action plans that respond to scorecard
+evaluations. Prior to this PforR, there was no national mechanism established to systematically monitor,
+compare, and reward health center performance. The PAD (p.17) referenced several surveys that
+had identified problems in the technical quality of health services. Quality of care was also identified in the IC
+as a key bottleneck, driving both poor results and insufficient demand for health services. Under the IC,
+Service Delivery Indicators (SDIs) were to be used to assess health centers and district hospitals using a
+balanced scorecard (BSC) to hold facilities accountable for results, incentivized through performance‐based
+payments. The DLI target was changed from a percentage figure to a number in restructuring due to
+measurement challenges, with the target ambition remaining the same. The DLI directly contributed to the
+PDO of increased quality of services.
+
+
+
+
+Rating
+High
+
+DLI 9
+DLI
+Number of health centers in priority districts that received performance-based allocations (PBAs) in accordance
+with at least one scorecard assessment with community consultations in the previous fiscal year.
+
+Rationale
+This DLI provided another incentive for improved quality of care, alongside DLI8. In addition, the DLI
+introduced social accountability monitoring through use of community consultations. The original DLI,
+"percentage of rural health centers in priority districts that received PBAs in accordance with a minimum of
+two scorecard assessments with community consultations in the previous fiscal year," was modified
+somewhat in 2021, removing “rural” and switching targets from percentage rates to numbers, while
+maintaining the ambition of the target. According to the ICR (p.93), these revisions aimed to define the
+number of health centers instead of percentage because of challenges in their classification and hence
+variations in the denominator. In addition, removing the classification of rural allowed inclusion of urban and
+peri-urban health centers. The DLI had one sub-indicator: The Recipient has increased the number of health
+centers in priority districts that received allocations to implement prioritized action plans responding to
+scorecards evaluations. The DLI directly contributed to the PDO of increased quality of services.
+
+
+
+
+                                                                                                     Page 9 of 22
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      Mozambique PHCSP (P163541)
+
+
+
+
+Rating
+High
+
+DLI 10
+DLI
+The Recipient has increased the number of active Community Health Workers (CHWs).
+
+Rationale
+This DLI was revised from the original, ”number of community health workers (APEs) that are trained and
+active.” The deletion of the training requirement from the DLI was “to account for both the resource envelope
+and the negative impact of COVID-19 on school health activities and community gatherings for training of
+community health workers” (ICR p.14). The program team explained in an interview with IEG that CHWs were
+for the most part existing CHWs that had been inactive, and thus had already previously received training.
+Consequently, the main purpose of this DLI was to reactivate CHWs who had in many cases ceased
+functioning, and as such the indicator focused on tracking the activities of these reanimated CHWs. The PAD
+explained the challenges that this DLI was supposed to address: “Although efforts have been made to expand
+coverage and continuity through community health workers (Agentes Polivalentes Elementares ‐ APEs),
+effective mechanisms to finance, train, monitor, and functionally integrate them with health facilities are still
+lacking…..Mozambique’s health system’s challenges include low health worker density (linked to insufficient
+per capita health expenditure) and absenteeism (estimated at 23.4 percent).” In the 2021 restructuring, a
+sub-indicator was added to gauge service quality: “The Recipient has increased the percentage of
+Community Health Workers that deliver services according to quality standards." Achievement of the DLI was
+meant to contribute to both the utilization and quality aims of the PDO.
+
+
+
+Rating
+Substantial
+
+DLI 11
+DLI
+The Recipient has increased the percentage of deaths in eligible health facilities certified by a qualified clinician
+with cause of death coded using ICD10/11, and the death record captured in SISMA.
+
+Rationale
+This DLI intended to address the key health system challenge of limited information for decision making and
+accountability and was part of a broader initiative under the IC to improve birth and death data in the health
+information system (DHIS2‐SISMA) and strengthen the interface with the Civil Registration and Vital Statistics
+platform. This was deemed to be critical to generate routine data for decision making and to guarantee rights
+(PAD p.22). The DLI contained several sub-indicators introduced at restructuring, including: (i) increasing the
+percentage of hospitals using the Hospital Data Management Module (MGDH) to generate information on
+causes of deaths; (ii) increasing the percentage of health centers using the Hospital Data Management
+Module (MGDH) to generate information on causes of deaths, and (iii) increasing the percentage of deaths
+
+
+
+
+                                                                                                      Page 10 of 22
+                                  Independent Evaluation Group (IEG)                  Implementation Completion Report (ICR) Review
+                                  Mozambique PHCSP (P163541)
+
+
+
+                  registered, certified, and captured in the civil registration system (SiRCEV) within one year of their
+                  occurrence. Achievement of this DLI was associated with both the utilization and quality aims of the PDO.
+
+
+
+                  Rating
+                  High
+
+                  DLI 12
+                  DLI
+                  The Recipient has introduced reforms to increase the availability of essential maternal and reproductive health
+                  medicines at primary health care facilities.
+
+                  Rationale
+                  This indicator was based on an earlier version added during the first restructuring: Average availability of
+                  essential tracer maternal and reproductive health medicines at primary health care facilities. However, the
+                  indicator’s wording was changed in the 2023 restructuring, as the achievement against targets for 2019 and
+                  2020 had not been measured due to delays and methodological issues with the medicines’ availability study,
+                  and thus were removed. This DLI included a sub-indicator on implementation of outsourcing of last-mile
+                  transportation and distribution of medicines (introduced in the 2023 restructuring). The DLI contributed to the
+                  twin goals of quality and access.
+
+
+
+                  Rating
+                  High
+
+
+      OVERALL RELEVANCE DLI TBL
+
+
+
+
+                  OVERALL RELEVANCE RATING
+                  Rationale
+                  The program was fully relevant for the country context and consistent with both government priorities and the
+                  CPF. The DLIs, for the most part, captured important elements in the program's theory of change for achieving
+                  the PDO. Almost all of the DLIs were modified over the course of the program at least once. In some cases,
+                  these modifications reflected changing circumstances, including rising and falling levels of program funding and
+                  consequences of COVID-19 on the operating context.
+
+                  Rating
+                  High
+
+
+
+   4. Achievement of Objectives (Efficacy)
+EFFICACY_TBL
+
+
+
+
+                       OBJECTIVE 1
+
+                                                                                                                    Page 11 of 22
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Mozambique PHCSP (P163541)
+
+
+
+
+Objective
+To improve the utilization of reproductive, maternal, child and adolescent health and nutrition services,
+particularly in underserved areas.
+
+Rationale
+According to the program's theory of change, the key challenges to greater utilization of RMCNH services
+were inadequate service availability and readiness, shortage of skilled human resources, lack of a platform for
+community-based service delivery, and low quality of care. The first three of these challenges were
+addressed in this objective, through DLIs targeted at increasing the availability of obstetric care, supply of
+medicines, availability of sexual and reproductive health services in secondary schools, and the number of
+health professionals in primary healthcare facilities as well as active community health workers.
+
+The PDO indicators measured progress towards this objective, which was primarily to be achieved through
+boosting funding levels and healthcare staff.
+
+PDO1, Increasing the percentage of institutional deliveries in 42 lagging districts, mirrored DLI1 and was
+supported by several DLIs aimed at increasing health expenditures and staffing levels in primary health care
+facilities. In addition, it was associated with several intermediate indicators, including:
+
+      Percentage of women who had at least four antenatal visits during their pregnancy (Fully achieved:
+       Baseline: 42; Target: 66.3; Actual 67.6)
+      Number of deliveries attended by skilled health personnel (Fully achieved: Target 4,940,000; Actual:
+       5,903,136)
+      Number of health facilities providing Comprehensive Emergency Obstetric and Newborn Care (Fully
+       achieved: Baseline 33; Target: 60; Actual:61)
+      Number of technical staff assigned to type II rural health centers (Fully achieved: Baseline: 11,970;
+       Target: 17,153; Actual: 23,029)
+      Number of primary health care facilities that have at least two maternal child health nurses (Fully
+       achieved: Baseline: 638; Target: 768; Actual: 869)
+      Number of active community health workers (Substantially achieved: Baseline: 3,380; Target 8,800;
+       Actual: 8,318)
+
+The PDO indicator was 33 percent institutional deliveries against a baseline of 27 percent and a target of
+37 percent. The ICR (p.31) further notes at the 2019 AF and Restructuring the baseline was increased to 71
+percent (SISMA 2017) and end-target to 85 percent. 86 percent was achieved at end-2018.   The ICR reports
+"PDO 1 (DLI 1): In 2019, when Additional Financing became available to DLI 1, the end target of percentage
+of institutional deliveries was increased from 74.9 to 85 percent; and this revised target was achieved in the
+second year. However, assessment revealed that this achievement masked inequalities between the 42
+districts, with 14 of the 42 of the districts below target. To ensure that this inequality was addressed, the 2021
+Restructuring revised PDO 1 and DLI 1 statements, setting a target of 37 districts recording at least 85
+percent of institutional deliveries. By 31 December 2022, 33 districts (89 percent) had achieved this target."
+
+PDO2, Number of Couple Years of Protection, surpassed its upwardly revised target (Baseline: 1,722,692;
+Original target: 2,800,000; Revised target: 3,450,000; Actual: 4,336,444.) It was supported by an
+intermediate indicator of number of provinces meeting annual Couple Years of Protection growth targets
+(Baseline: 7; Target: 7; Achieved: 7) and number of technical schools offering sexual and reproductive health
+
+
+                                                                                                   Page 12 of 22
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Mozambique PHCSP (P163541)
+
+
+
+services (information and contraceptive methods), which was fully achieved after being downwardly revised
+due to COVID-19-related school closures (Original target: 60; Revised target: 50; Actual: 51.76).
+
+PDO3, Percentage of children aged 0-24 months receiving a Nutrition Intervention Package in eight priority
+provinces with the prevalence of stunting of above 35 percent, had an original target of 80 percent that was
+downwardly revised in 2023 to 40 percent due to “progress and challenges faced to date.” Achievement of
+this indicator was reported as 23 percent (in other words, not achieved) as of December 2022. However, for
+2023, MISAU reported coverage of 55 percent. As such, IEG concurs with the Task Team's decision to rate
+the indicator as fully achieved as, “…we observed that the activity continued to be supported by the Program
+during December 2023 and beyond. As such we decided to show the result achieved because it was a direct
+contribution of the Program.” This indicator was also associated with several intermediate indicators, including
+both the staffing and funding indicators cited above, as well as the indicator "Number of women and children
+who have received basic nutrition services" (Fully achieved: Target: 9,720,000; Actual: 20,377,452).
+
+According to the Bank team, among the significant accomplishments of this PforR was introduction of the
+Nutrition Intervention Package as a standard offering of the health system, including seven essential
+interventions for malnutrition prevention, including counselling, supplementary feeding, vitamin A,
+micronutrients, deworming, and growth monitoring. This represented an important advance from the
+Mozambique health system’s previous almost exclusive focus on treatment of malnutrition, rather than its
+prevention. Another notable accomplishment was the allocation of more human resources at a primary level,
+including an increase in the numbers of: (i) technical health personnel assigned to the primary health care
+network to 23,029 (surpassing the target of 17,153), (ii) primary health care facilities with at least two
+maternal child health nurses (869, surpassing the target of 768), and (iii) health facilities providing
+comprehensive emergency obstetric and newborn care to targeted levels. In addition, there was an increase
+in the number of active community health workers from a baseline of 3,380 to 8,318 (slightly short of the
+8,800 target). However, the ICR notes that both the meager size of the monthly stipend for APEs and the
+timely transfer of the monthly stipend to the APEs remains a challenge, causing high turnover, with APEs
+leaving for jobs with better remuneration. Despite this, according to the Bank team, payment of the APEs
+through the Ministry of Health was an important achievement, as previously APEs had only unreliable sources
+of income through various donor-funded projects.
+
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+To improve the quality of reproductive, maternal, child and adolescent health and nutrition services,
+particularly in underserved areas.
+
+Rationale
+According to the program's theory of change, improvements in the quality of RMNCAH-N services was to be
+achieved through incentivizing quality care through results-based financing and social accountability
+monitoring, recognition of well-performing districts and facilities, and monitoring quality of care as well as
+
+                                                                                                 Page 13 of 22
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   Mozambique PHCSP (P163541)
+
+
+
+cause of death reporting for decision making (DLI 8, 9 and 11). In addition, other DLIs incentivized increasing
+the share of health in the government’s spending (DLI 5) and improving health spending in underserved
+provinces and districts (DLI 6).
+
+The results framework was supposed to monitor outcomes through two indicators: PDO4 (Adherence to
+clinical diagnostic guidelines for five tracer conditions at health centers and district hospitals) and PDO5
+(Adherence to clinical treatment guidelines for maternal and neonatal complications at health centers and
+district hospitals). Both of these indicators were deleted in the 2021 restructuring. The ICR (p.19) explains
+that the indicators were meant to be monitored through bi-annual Service Delivery Indicators (SDI) surveys.
+However, lack of resource availability and the pandemic contributed to the SDI surveys not taking place.
+There are, however, several intermediate indicators that can be referenced to give some indication of the
+quality of health care, or, at least, the introduction of measures that, according to the theory of change, were
+to contribute to better quality of health care:
+
+The intermediate indicator of “Number of district and rural hospitals that received performance-based
+allocations (PBAs) in accordance with a minimum of one scorecard assessment in the previous fiscal year”
+was substantially achieved, with 43 hospitals receiving this allocation against a target of 44. It should be
+noted that this indicator was downwardly revised somewhat during COVID-19, as the original IRI was to be
+measured with a minimum of two scorecard assessments, rather than only one. In addition, the ICR presents
+data indicating a steady increase in quality as represented by increasing numbers of hospitals receiving PBAs
+on the basis of receiving adequate scorecard assessments. Thus, in 2018, 14 percent of the reviewed
+hospitals received PBAs; in 2019, 34 percent received PBAs; and in 2021, 77 percent received
+PBAs. However, it is unclear the extent to which this is reflective of quality of service received rather than
+technical aspects of proper health care management.
+
+PDO6, Number of lagging districts (as defined in the IC) that provide four doses of intermittent preventive
+treatment of malaria to at least 70 percent of pregnant women, was added in the 2021 restructuring to provide
+some a measure of quality of care. According to the program team, the ICR's rationale for including this
+indicator under quality of care was that provision of preventative treatment of malaria as part of regular ante-
+natal care is an aspect of quality. The indicator was only partially achieved (21 districts as compared to a
+target of 30 and a baseline of 10), despite the fact that the target had been downwardly revised “for
+feasibility." No split rating was applied (consistent with the ICR), as neither the original nor the revised target
+were achieved.
+
+The IRI “Number of health centers in priority districts that received performance-based allocations in
+accordance with at least one scorecard assessment with community consultations in the previous FY” was
+surpassed, with 425 receiving PBAs against a target of 391, with the numbers of health centers receiving
+PBAs increasing steadily throughout the program period. In this case as well, the indicator was revised due to
+COVID-19 restrictions from two scorecards to one. There is no evidence of improved quality of CHW
+services. The baseline study concluded in December 2020 on the quality of services provided by the CHWs
+showed a low percentage meeting quality standards (28 percent, based on a composite calculation of having
+basic medicines/contraceptives and diagnostic capacity). At the 2023 restructuring, the 2022 target on the
+proportion of APEs meeting quality standards was reduced from 80 percent to 50 percent, considering the low
+level achieved in January 2020. The rationale for this was that reaching the original end target (80 percent)
+would require significant reform and investments. Despite this, achievement of quality targets was not
+measured, as MISAU did not conduct the requisite quality study on the performance of the APEs.
+
+
+
+                                                                                                    Page 14 of 22
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Mozambique PHCSP (P163541)
+
+
+
+
+  Rating
+  Modest
+
+
+
+
+ OVERALL EFFICACY
+ Rationale
+ Objective 1 was rated Substantial, and Objective 2 was rated Modest. Overall efficacy is therefore rated
+ Substantial, but with caveats related to shortcomings in achievement of the second objective.
+
+
+
+ Rating                                                   Primary Reason
+ Substantial                                              Insufficient evidence
+
+
+5. Outcome
+
+Outcome is rated Moderately Satisfactory, with Relevance High and Efficacy Substantial (based on Substantial
+achievement of one objective and Modest achievement of the other objective).
+
+
+    Outcome Rating
+    Moderately Satisfactory
+
+
+6. Risk to Development Outcome
+
+The ICR (p.27) assessed the risk to development outcome as low, citing several reasons. First, there is
+continuing commitment of both the Ministry of Health and other donor health partners to supporting
+RMNCAH-N outcomes in Mozambique. According to the ICR, the IC helped prioritize and identify financing
+needs that seem to have been internalized by MISAU. Second, a new Bank operation has been approved to
+help sustain and further improve health outcomes for women and children in the country. The new operation
+is a combination of PforR for incentivizing results, and an IPF component to enable institutional capacity
+building and better access to services for the population in the conflict-affected northern areas, with the
+support of a contracted third party/non-government organization.
+
+
+
+
+7. Assessment of Bank Performance
+
+
+                                                                                                 Page 15 of 22
+     Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+     Mozambique PHCSP (P163541)
+
+
+
+
+a. Quality-at-Entry
+  The choice of PforR instrument was suitable for the context, building on past experience with
+  similar instruments in Mozambique, and directed toward building incentive structures and
+  accountability. Among the reasons cited in the PAD (p.12) for this modality were: (i) to support
+  accountability chains at all levels to develop both provider capacities and executive results
+  management; (ii) flexibility to advance reforms at different levels of the causal chain (from policy, to
+  procedures and implementation); (iii) to promote equity and performance through budget planning and
+  execution, including through performance‐based institutional incentives; (iv) to stimulate executive
+  innovation and motivation to supersede structural and procedural deficiencies and promote
+  institutional and multi‐sectoral collaboration (critical for areas like nutrition and family planning, and for
+  strengthening domestic sector financing and public financial management systems); and (v) to
+  establish a co‐financing platform for multiple partners that creates clearer linkages between financing
+  and results, to improve spending efficiency to achieve health outcomes as well as to restore health
+  partners’ confidence and financing to the sector after Mozambique’s debt crisis in 2016/17. The
+  decision to opt for a PforR was partly based on the success of the ongoing Education Sector Support
+  Fund, known as FASE, through which the World Bank, over a 14-year period, had channeled
+  financing through DLIs while providing fiduciary oversight and coordination support for a wide range of
+  other partners. In addition, MISAU was familiar with the format due to the ongoing Public Financial
+  Management for Results Program (P124615), which contributed to strengthening the medicines
+  supply chain.
+
+  The theory of change was robust, identifying specific key constraints and addressing both
+  structural and process changes needed to overcome these constraints. The theory of change
+  identified five key bottlenecks to improving outcomes and then clearly traced how incentives provided
+  by DLIs, alongside complementary support, could overcome these constraints in order to improve
+  utilization and quality of RMNCAH-N in the country. For each DLI, a technical note assessed what
+  complementary support would be needed, including TA and capacity development,
+  performance‐based allocation schemes, communications interventions, coaching and facilitation, and
+  support to reinforce M&E and verification protocols (PAD p.23).
+
+  Substantial efforts were made during program preparation to ensure the relevance and
+  evaluability of indicators, although in some cases problems with DLIs were not identified in
+  planning phases. According to the ICR (p.16), during program preparation, task groups (including
+  both government and development partners) were formed to detail out each DLI as a technical note,
+  including a clear protocol and methodology for its monitoring, verification, and reporting, which was
+  described in the Program Operations Manual. The detailed technical notes documented the indicator
+  definitions, proposed activities to reach the DLIs, baselines and targets, implementation and data
+  collection responsibilities, validation protocols, underlying performance‐based allocations to select
+  institutions, and other supporting interventions required for results achievement (ICR p.21). As a
+  result, the M&E framework was for the most part well planned and corresponded to the theory of
+  change, although as documented in Section 3, some of the DLIs needed to be revised during
+  implementation.
+
+  The program was prepared in close collaboration with the government and health partners.
+  The Mozambique health sector was supported by several partners through different mechanisms,
+  including PROSAUDE, a common fund with a Sector-Wide Approach. Health partners, under the
+  leadership of MISAU, supported the preparation of a joint DLIs matrix for the IC, with
+
+                                                                                                        Page 16 of 22
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Mozambique PHCSP (P163541)
+
+
+
+  partners committing to aligning their financing and support around IC priorities. However, according to
+  the Bank team, some of the co-financers committed to the program without a full understanding of the
+  PforR mechanism, which allows for phased allocation of funds with the possibility of non-disbursal. In
+  consequence, there were fluctuations in funding throughout the program, with some donors
+  committing to but later withdrawing promised funding. In retrospect, the Bank team acknowledged to
+  IEG that “establishing clearly the rules of the PforR with cofinancers is really important so that they
+  understand the mechanism. We should have spent a lot more time educating them on this
+  instrument.”
+
+  The PAD recognized and worked to mitigate financial management, procurement,
+  environmental and social risk. Financial and procurement risks, as well as environmental and social
+  risks, were rated as substantial, and the PAD included specific mitigation measures to address these
+  risks. (A more in-depth presentation of these risks and mitigation strategies can be found in Section
+  9.)
+
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The Bank closely monitored the program and responded in a timely manner to the many
+ implementation challenges faced. Among the key challenges faced were fluctuations in donor funding
+ contributions, including a US$32 million shortfall in funds due to the withdrawal of commitments by two lead
+ co-financers for reasons not connected with the program. In addition, a significant change in government
+ regulations led to lengthy procurement delays. Finally, the COVID-19 pandemic significantly impacted the
+ program due to: (i) supply chain disruptions leading to great difficulties procuring needed health and
+ nutrition consumables; (ii) suspension of training and planned school- and community based in-person
+ activities; (iii) disruption to planned data-gathering activities for monitoring and evaluation of program
+ performance; and (iv) the overwhelming burden on the health system due to the pandemic. The many
+ program restructurings and changes to the results framework reflect the Bank’s work to constantly adapt
+ the program to changing circumstances and a changing funding envelope. For the most part, these
+ adaptations were found to be both timely and appropriate; however, measures of quality of services were
+ limited, especially after the removal of PDOs 4 and 5.
+
+ The task team engaged in regular monitoring and evaluation, doing so virtually when pandemic
+ restrictions made travel impossible. In addition, the Bank team continued to engage in inter-partner
+ dialogue, and coordination continued through the existing Health Compact, including all health program
+ signatories. Using this mechanism, regular meetings were held to track progress on results indicators and
+ implementation of interventions of the program and the broader IC (PAD p.19).
+
+ Most of the Bank team (except for the GFF focal person and Governance colleague) and co-
+ financiers were based in Maputo, and there was little turnover, which facilitated smooth
+ implementation. Monitoring was conducted on a regular basis, with virtual meetings and missions being
+ held when travel was not possible in 2020-21. All agreements and revisions were clearly documented, and
+
+
+                                                                                                  Page 17 of 22
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Mozambique PHCSP (P163541)
+
+
+
+ Implementation Status and Results Reports were candid. Supervision of fiduciary, environment, and social
+ aspects was part of all missions.
+
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+8. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ Design of both DLIs and the results framework corresponded closely with the program's theory of
+ change and were based on significant preparatory work. However, at times capacities were
+ overestimated. A detailed M&E plan and DLI Verification Protocol was articulated, including different
+ sources and means for data collection. The results framework, DLI matrix, and DLI verification protocol
+ spelled out the sources of data collection and validation of results by an independently contracted agency,
+ the Civil Registry, and the Administrative Tribunal. The M&E and DLI frameworks were discussed and
+ jointly formulated by MISAU, co-financing partners including GFF, and the IDA team (ICR p.23). The ICR,
+ however, points out several shortcomings in M&E planning. First, program design underestimated the
+ extent to which capacity constraints would affect implementation, monitoring, and verification. To quote the
+ ICR (p.23), “An independent agency for verification of specific DLIs was contracted. However... it had
+ grossly underestimated the cost and effort that would be needed for verification of results; and the
+ protracted time and processes needed for certain contracts – verification agency, micronutrients,
+ community-based NGO.” Second, the ICR acknowledges that, “The deletion of the original PDO 4 and 5,
+ and its replacement with a proxy indicator, could have been avoided with better assessment during
+ Program preparation, including data sources and collection” (p.23). Finally, the ICR acknowledges the
+ setting of unrealistic targets due to overestimation of governmental capacity. “In hindsight, design of these
+ DLIs (2, 4, 11 and 12) may have been ambitious, given the existing weak institutional capacity; and the
+ need for multiple actors/sectors to be involved” (p.16).
+
+
+
+b. M&E Implementation
+  There was a well-formulated protocol for M&E. There was a dedicated officer in the PMU responsible
+  for data compilation (relevant for DLIs 1-4 and 8-12) from the routine Health Management Information
+  System of MISAU. Sources of data for the results framework and DLIs were multiple: routine data
+  collection systems of MISAU (SISMA), HRH Information System (SIP), the Ministry of Economy and
+  Finance through e-SISTAFE Budget Execution, CR system, SDI surveys, community surveys, and
+  Supervision Committees. Data validation and verification was designed to be done by different means:
+  surveys done by independent verification agency (DLIs# 1-4, and 8-10), the Administrative Tribunal (DLIs
+
+
+                                                                                                   Page 18 of 22
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Mozambique PHCSP (P163541)
+
+
+
+  5-7 and 12), and data from the Civil Registry under the Legal and Justice Department for DLI#11 (ICR p.
+  24).
+
+  Failure to implement the SDI survey as planned had significant implications for program M&E. At
+  the design stage, regular SDI surveys were meant to provide data to measure quality and service
+  readiness of RMNCAH-N services through PDOs 4 and 5, and Intermediate Results Indicators (IRI) 2.1
+  (BEmONC services), 2.2 (uninterrupted water supply and electricity), and 2.3 (availability of essential
+  reproductive and maternal health medicines in district and rural hospitals). However, during
+  implementation, due to a paucity of resources for SDI surveys because of withdrawn donor commitments,
+  PDOs 4 and 5 were replaced with a “proxy” indicator. In addition, because of non-implementation of an
+  endline SDI, and the IRIs referred to above were deleted.
+
+   The use of an outside verification agency led to unanticipated delays due to capacity
+  constraints. The contracted verification agency had a learning curve, and the time this would take had
+  not been anticipated by the task team. However, once fully on board, and within the constraints of
+  traveling and social distancing during the pandemic, the verification was done satisfactorily (ICR p. 24).
+
+
+
+c. M&E Utilization
+  M&E Utilization performance was mixed. According to the ICR (p.24), the scorecards developed and
+  used for performance evaluation and incentivization with PBA were significantly used by the facility-level
+  personnel (including the community) for identifying gaps and small incremental improvements in quality,
+  particularly of existing infrastructure, and for greater patient and provider satisfaction. Data reports (for
+  the results framework and DLIs) were also discussed with MISAU and HPs during implementation
+  support missions of the Bank. However, discussion of reports at District and Provincial levels was not
+  done routinely, and discussions revealed that the MISAU considers this as a weakness and is keen to
+  focus on institutionalization of data discussion for informed decision-making, with the support of the
+  recently approved Program for the health sector.
+
+
+
+  M&E Quality Rating
+  Modest
+
+9. Other Issues
+
+a. Safeguards
+   The Environmental and Social risk was rated as Substantial, as there was a poor track record of
+   safeguards implementation in existing projects, including proper management of health care waste
+   and health and safety of workers, and management of construction impacts (PAD p.35), but no
+   major issues arose during implementation. These shortcomings were assessed to be associated with
+   the limited technical capacity within MISAU to implement safeguards regulations. The Program Action Plan
+   articulated actions that would need to be implemented and monitored to address environment and social
+   weakness and risks identified. The Plan also included several actions for improving gender and socio-
+
+
+
+
+                                                                                                     Page 19 of 22
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Mozambique PHCSP (P163541)
+
+
+
+   cultural responsiveness (ICR p.22). During the course of the program, no significant safeguard-related
+   issues arose.
+
+
+
+
+b. Fiduciary Compliance
+   Fiduciary risk was rated as substantial throughout the project. A Fiduciary Systems Assessment was
+   carried out as part of program preparation to evaluate related capacities of MISAU. The program’s
+   Financial Management (FM) and Procurement risk was rated as Substantial based on the 2015 Public
+   Expenditure and Financial Accountability Assessment and macroeconomic and political stability as
+   described in country sector reports. Specific risks were identified, including: (i) shortages of human
+   resources and limited capacities for key FM functions; (ii) weak internal controls and auditing, particularly
+   at decentralized levels, and limited follow‐up on audit issues; (iii) low budget execution rates for external
+   funds; (iv) limited planning capacities; (v) delayed availability of funds for spending; and (vi) lack of
+   resources allocated to implement policies for decentralizing sector expenditures. Procurement risks
+   identified included: (i) procurement delays due to coordination challenges; (ii) inadequate quality of
+   technical inputs (terms of reference, specifications, and technical evaluations); (iii) limited availability and
+   experience of the members of evaluation committees; (iv) limited exposure to complex processes; (v)
+   deficiencies of procurement record keeping; and (vi) poor contract management. These risks were
+   addressed in the Program Action Plan, including specific capacity building measures to be carried out and
+   compensatory oversight mechanisms (PAD p.33). According to the ICR (p.26), these mitigation measures
+   were completed, but with delays. For example, capacity building of PFM staff, particularly at the health
+   facility level, was challenging due to frequent transfers of personnel, with the resultant need of training the
+   new recruits. The timely transfer of allocated funds to districts, including the monthly stipend to the
+   community health workers, remained a challenge throughout the PforR.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   None reported.
+
+
+
+d. Other
+   ---
+
+10. Ratings
+                                                                                  Reason for
+Ratings                          ICR                    IEG
+                                                                                  Disagreements/Comment
+                                 Moderately
+Outcome                                                Moderately Satisfactory
+                                 Satisfactory
+                                                                                  Moderate shortcomings in
+Bank Performance                 Satisfactory          Moderately Satisfactory
+                                                                                  design and implementation.
+                                                                                  Shortcomings in M&E design
+Quality of M&E                   Substantial           Modest
+                                                                                  and implementation.
+
+                                                                                                      Page 20 of 22
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    Mozambique PHCSP (P163541)
+
+
+
+Quality of ICR                  ---                   Substantial
+
+
+11. Lessons
+
+Lessons from the ICR (p.27):
+
+    1. When PforRs are co-financed by other donors, failure to adequately communicate to
+       donors the terms of their commitment can lead to problems during
+       implementation. PforRs are a relatively new instrument, which differs from traditional donor
+       financing in that payment is dependent on performance. Thus, while donors make funding
+       commitments earlier in the process, the actual disbursal of funds takes place over years, and
+       full disbursal is not guaranteed. Over the course of program implementation, priorities and
+       resources of partners may change, especially when there are external shocks such as
+       inflation, conflict and war, health emergencies, and natural disasters. This clearly played out
+       during implementation of this program, where key donors withdrew financing as
+       circumstances changed. To mitigate risk, when partners indicate an interest and commitment
+       to join as co-financiers, it may be useful to include the Bank’s and partners’ fiduciary,
+       governance, and legal teams in the deliberation. Such collaborative discussions would
+       enable a better understanding of the donor landscape in the country, enabling/disabling
+       factors within each partner’s internal environment, and the funding and disbursement cycles
+       of each partner (which may not necessarily match with those of the Bank).
+    2. In PforRs, in order to better enable the WB task team to influence the recruitment of
+       technical assistance to support strategic functions or to provide critical support in key
+       areas to the client, at times blended financing may be preferable. In a PforR, all TA is
+       recruited by the government and follows national rules. While this is the right approach in
+       terms of ownership of the Programs by the government/Ministry of Health, it can lead to
+       bottlenecks such as lengthy processes of developing and approving terms of reference,
+       lengthy advertisement and complex evaluation processes, and several and redundant steps
+       required to clear the evaluation reports. One option to overcome this problem could be for
+       the Bank to retain some capacity to directly provide TA (procurement and funding) to the
+       client through a Bank-executed trust fund or to exert priori review of the recruitment process
+       on an exceptional basis. The inclusion of an IPF component could help achieve the latter.
+    3. A narrow geographic focus as well as a results framework that exposes disparities
+       between targeted geographies can drive more cost-effective impact. While health sector
+       outcomes are measured and reported for the whole country, it is often realistic for a project to
+       narrow the geographic focus (different demographic and vulnerability criteria can be used to
+       prioritize) to enable a more cost-effective impact. Often, the geographically underserved
+       areas are those that have poor access to quality health services and have worse health
+       outcomes. When the choice is made to narrow focus to lagging regions, it is important that
+       the results framework be structured in a way to detect disparities between treatment areas,
+       to ensure that more challenging contexts are identified and supported during implementation.
+       This learning underlay the decision in this PforR to revise the phrasing of DLI 1 and its
+       associated PDO indicator from “Percentage of Institutional Deliveries in 42 priority districts as
+       defined in the IC” to “Number of districts with at least 85 percent coverage of institutional
+       deliveries in lagging districts,” in order to better capture disparities between targeted
+       districts.
+
+
+                                                                                                    Page 21 of 22
+       Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+       Mozambique PHCSP (P163541)
+
+
+
+     4. Even when outside parties are contracted to do M&E, it is important to build
+         governmental capacity for this function. While independent verification gives the
+         assurance that results have/have not been achieved, it can be challenging. Under this PforR,
+         independent verification was done by a national private firm with reasonable capacity. The
+         process, however, was slowed down by prolonged contracting time, delays in obtaining
+         consolidated data and reporting from MISAU, and the constraints of movement during the
+         pandemic. Hence capacity building of the M&E system of the relevant government body
+         needs to be an integral part of an operation. Collaboration with partners such as the Global
+         Fund can support data quality efforts in the health sector. The availability of adequate and
+         timely resources for important surveys, such as the SDI, should be facilitated by the Bank
+         and other health partners. The availability of reliable and adequate funding to plan for and
+         implement good M&E is a crucial constraint for a program/project. Task teams need the
+         support and facilitation of Bank management and leadership to enable effective M&E.
+
+
+
+
+12. Assessment Recommended?
+
+  No
+
+13. Comments on Quality of ICR
+
+The ICR was a candid review of a complex program. It clearly identified the program’s shortcomings and
+success, drawing upon available evidence, and provided relevant lessons for future health PforRs. At times,
+however, a more in-depth presentation would have been useful. For example, while the ICR, like the ICR
+Review, parses the objective statement into “utilization” and “quality” components, the ICR's analysis of quality
+did not provide sufficient evidence to judge whether this aspect of the PDO was materially achieved. Similarly,
+more systematic information on the many revisions to the DLIs and results framework over the course of the
+program would have been useful.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                    Page 22 of 22
+

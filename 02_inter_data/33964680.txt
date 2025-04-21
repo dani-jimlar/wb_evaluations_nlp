@@ -1,0 +1,981 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     PEIMRP (P161730)
+
+
+
+                                                                                 Report Number: ICRR0023088
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P161730                                   PEIMRP
+
+ Country                                   Practice Area(Lead)
+ Central African Republic                  Governance
+
+
+ L/C/TF Number(s)                          Closing Date (Original)                Total Project Cost (USD)
+ IDA-D2150                                 30-Jun-2021                                          10,238,059.16
+
+ Bank Approval Date                        Closing Date (Actual)
+ 19-Jun-2017                               31-Dec-2021
+
+                                           IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                           10,000,000.00                                               0.00
+
+ Revised Commitment                            10,000,000.00                                               0.00
+
+ Actual                                        10,239,012.75                                               0.00
+
+
+
+
+ Prepared by                Reviewed by                  ICR Review Coordinator          Group
+ Antonio M. Ollero          Judyth L. Twigg              Jennifer L. Keller              IEGEC (Unit 1)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to the Financing Agreement, the project development objective of the Central African Republic
+   Public Expenditure and Management Reform Project was to improve management and transparency of public
+   expenditures and public investments.
+
+   Following the ICR, this ICR Review parses the objective into:
+
+
+
+                                                                                                  Page 1 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     PEIMRP (P161730)
+
+
+
+   1. To improve the management of public expenditures.
+   2. To improve the transparency of public expenditures.
+   3. To improve the management of public investments.
+   4. To improve the transparency of public investments.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project had three components.
+
+   Management and Transparency of Public Expenditures (SDR 3.65 million estimated at appraisal and
+   actual at closing) was to support the consolidation of core functions: (a) budget preparation, management,
+   and execution - updating of the legal and regulatory framework governing public financial management,
+   audit of the expenditure chain, and associated technical assistance, studies, assessments, evaluations,
+   training, and capacity building; (b) procurement management - reforms in the L'Autorite de Regulation des
+   Marchés Public, the Direction Générale des Marchés Public (DGPP), and in targeted ministries (Ministry of
+   Finance and Budget; Ministry of Economy, Planning and Cooperation; Ministry of Education and
+   Geographical Opening Up; Ministry of Public Health, Population and AIDS Control; Ministry of Agriculture
+   and Rural Development; and Ministry of Public Works), training and capacity building on procurement
+   processes, installation of a procurement monitoring system within the DGPP and in targeted ministries, and
+   conduct of mandatory procurement audits; (c) financial management information systems - acquisition and
+   deployment of a new Financial Management Information System, technical assistance, training, studies,
+   and payment of operating costs; and (d) treasury management, accounting, and external oversight functions
+   - improvement of the accounting and reporting systems, improvement of the Treasury Single Account, the
+   financing of recurrent costs, training and capacity building, rehabilitation of buildings, and payment of
+   operating costs.
+
+   Management and Transparency of Public Investments (SDR 2.92 million estimated at appraisal and
+   actual at closing) aimed to improve the performance of the public administration in managing public
+   investments and development assistance through the: (a) creation and operationalization of the National
+   Recovery and Peace Building Plan (RCPCA) Secretariat, provision of technical assistance, training and
+   capacity building, rehabilitation of offices, and payment of operating costs; (b) the stocktaking of existing
+   investment projects, establishment of a monitoring system for public investments and services delivery, and
+   strengthening of the institutional capacities of the Direction Générale de la Programmation Economique
+   (DGPE) and targeted ministries for public investment management.
+
+   Project Management (SDR 0.73 million estimated at appraisal and actual at closing) was to support: (a)
+   the Project Management Unit, which would be responsible for day-to-day management of the project,
+   including all technical aspects of project activities, the preparation and costing of components, the
+   implementation and coordination of individual project activities, and the maintenance of links with the
+
+
+
+
+                                                                                                   Page 2 of 18
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     PEIMRP (P161730)
+
+
+
+   relevant government bodies; and (b) the use of contingency funds to scale-up existing activities and pilots
+   and to finance technical assistance and cross-cutting analytical studies.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost. The project was estimated to cost SDR 7.3 million (US$10 million equivalent) at appraisal.
+
+   Project Financing. The project was financed by an IDA grant of SDR 7.3 million to the Central African
+   Republic. The grant was fully disbursed (the difference between the US$ equivalents at appraisal - US$10
+   million - and at closing - US$10.239 million - was due to changes in the SDR:US$ rate).
+
+   Dates. The project was approved on June 19, 2017, became effective on November 15, 2017, and closed
+   on December 31, 2021, six months after the original closing date of June 30, 2021. The project was
+   restructured on October 12, 2021, with US$8.41 million disbursed (82 percent of the final project cost),
+   to extend the closing date.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Binding Development Constraints. The project development objectives were relevant to the
+development challenges facing the Central African Republic identified in the Central African Republic
+Systematic Country Diagnostic - Priorities for Ending Poverty and Boosting Shared Prosperity of
+2019. Emerging from sectarian violence and civil war in 2013, the Central African Republic started an
+internationally supervised political transition in 2014 that culminated in the adoption of a new constitution in
+2015 and the conduct of runoff presidential and rerun legislative elections in 2016. The restoration of
+constitutional order earned the country international support from the United Nations, the European Union,
+the World Bank, and other donors for a five-year economic reconstruction and recovery program, the
+RCPCA, valued at US$2.2 billion (the amount pledged by the donors in Brussels in November
+2016). Implementation of the RCPCA, however, faced institutional capacity constraints, which this grant
+operation aimed to help address.
+
+      Budget planning, preparation, and execution remained inefficient: (a) the 2016-17 Public Financial
+       Management Reform Plan introduced a new budget preparation calendar and the use of
+       commitment plans and a cash plan; (b) still, the government had not used a medium-term
+       expenditure framework to structure the budget process; and (c) budget execution was hampered by
+       considerable use of "extraordinary" procedures (27 percent of budget expenses were executed
+       using "exceptional" procedures in 2016), little oversight over petty cash accounts and temporary
+       cash advances, highly centralized processes, an inefficient internal control system, cumbersome
+       procedures, and low execution rates (less than 40 percent of the US$130 million investment budget
+       was executed in 2016); (d) moreover, budget documentation and information were limited. The
+       wage bill was the main expenditure item (5.2 percent of gross domestic product in 2016), but both
+       human resource management and wage-bill control were deficient: (a) the civil service recruitment
+       process was opaque; (b) civil service absenteeism was high; and (c) wage-bill control, including over
+
+
+                                                                                                      Page 3 of 18
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    PEIMRP (P161730)
+
+
+
+         benefits, bonuses, and per diems, was weak. (Note: "Extraordinary," "exceptional," and
+         "unorthodox" procedures are spending practices that "bypass legal provisions governing public
+         expenditure processes and circumvent regular controls or other budgetary rules, including those
+         related to budget time limits, approved ceilings, or approved appropriations," according to the
+         International Monetary Fund [IMF], 2022, Unorthodox Expenditure Procedures in CEMAC and
+         WAEMU Countries).
+        Procurement was weak: (a) core procurement institutions lacked qualified personnel; (b)
+         procurement data were not available or were not transparent when available; and (c) the national
+         procurement institutions - the Agence de Regulation des Marches Publics (Procurement Regulatory
+         Agency), the Direction Générale des Marchés Publics (Directorate General of Procurement), the
+         Ministry of Finance and Budget, and the procurement units in line ministries - had limited capacity.
+        Financial management information systems were degraded: (a) the information systems were
+         technologically outdated; (b) system modules were not inter-connected (e.g., the budget execution
+         system was not linked to the cash management system); and (c) the current Financial Management
+         Information System, Système de gestion de la chaîne de dépense informatisée (GESCO), could not
+         produce reliable information on budget execution.
+        Treasury management, accounting, and external oversight were inadequate: (a) rules and
+         administrative tools were deficient; (b) the government faced a backlog of overdue reports dating
+         back to 2008; (b) significant revenues collected by line ministries were unrecorded and had not been
+         transferred to the Treasury Single Account, established in 2017; (c) some 446 bank accounts
+         maintained at commercial banks had not been consolidated into the Treasury Single Account; (d)
+         despite the operationalization of Central Accounting Agency of the Treasury, progress with internal
+         controls was fragile; and (e) with the limited capacity of the Court of Auditors and of Parliament,
+         external oversight was insufficient.
+        Public investment management was challenging: (a) the Ministry of Economy, Planning and
+         Cooperation and the Ministry of Finance and Budget had limited capacity for planning and budgeting
+         for public investments; (b) the public investment framework did not provide clear project selection
+         criteria that could be used to prioritize investments; (c) public investment documentation (standard
+         project documents) was inadequate; and (d) reporting, monitoring, and execution of projects were
+         deficient.
+
+Bank Group Strategy. The project development objectives were relevant to the Bank Group strategy in
+the Central African Republic as laid out, at appraisal, in the Country Engagement Note for the Central
+African Republic for the FY2016-2017 (CEN), and at closing, in the Country Partnership Framework for the
+Central African Republic for the Period FY21-FY25 (CPF).
+
+      The CEN structured the Bank Group's engagement with the country in two phases: (a)
+       stabilization, to build confidence in the transition process, restore basic functions of the state, and
+       underpin reconciliation by providing early tangible outcomes in support of livelihoods and basic
+       social service provision, and (b) recovery and development, to identify the key sources of growth,
+       areas of public sector reform, and ways to raise domestic revenue and crowd-in
+       additional resources, in anticipation that improved conditions would allow the resumption of Bank
+       operations. The second phase would be initiated with an analytical and advisory work program and
+       then followed by a lending program as the security and political situation improved.
+      The CPF committed Bank Group support for the country's development priorities in two focus areas:
+       (a) the first - human capital and connectivity to boost stabilization, inclusion, and resilience - would
+       invest in people and communities, and their access to basic services and connectivity, with a focus
+
+
+                                                                                                     Page 4 of 18
+                                      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                      PEIMRP (P161730)
+
+
+
+                                        on improving security, rebuilding social cohesion, and reducing social and regional disparities, and
+                                        (b) the second - economic management and improved governance to build state legitimacy and
+                                        foster growth - would support improved governance and institutions, as well as private sector
+                                        development, for domestic resource management and job creation.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To improve the management of public expenditures
+
+
+                             Rationale
+                             Theory of Change. Analytical and advisory work, technical assistance, and institutional capacity building in
+                             four areas of public financial management - budget planning and execution, procurement management,
+                             Financial Management Information Systems, and treasury and accounting - would help build the technical
+                             ability and institutional capacity of key agencies, including the Ministry of Finance and Budget, the Ministry of
+                             Economy, Planning and Cooperation, the Ministry of Education, the Ministry of Health, the Ministry of
+                             Agriculture, the Ministry of Public Works, the Treasury Committee, and the Court of Auditors, to improve the
+                             management of public expenditures. Better management of public expenditures would be crucial to
+                             implementing the donor-funded economic reconstruction and recovery program, RCPCA.
+
+
+
+                             Outputs. The project achieved three and partially met two of five outputs to improve the management of
+                             public expenditures.
+
+                                        New budgetary regulations, procedures, and processes were adopted, meeting the target: (a) the new
+                                         budgetary frameworks were adopted and translated onto the new Financial Management Information
+                                         System, Logiciel intégré de gestion des finances publiques (SIMBA), and were used for the
+                                         preparation of the 2022 Budget; (b) the Organic Law of Finance was adopted and promulgated by the
+                                         National Assembly; and (c) four implementation decrees were signed in 2019 - the new Chart of
+                                         Accounts, the Government Finance Table, the Budget Classification System, and the Accounting
+                                         Regulations and Standards.
+                                        Budget reporting and information to line ministries were partially improved, meeting two-thirds of the
+                                         target: (a) budget execution reports were produced quarterly within eight weeks from the end of the
+                                         quarter; (b) the reports were published on the website of the Ministry of Finance and Budget; however,
+                                         (c) reports using the functional classification system were not available.
+
+
+                                                                                                                                    Page 5 of 18
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   PEIMRP (P161730)
+
+
+
+
+      Human resource management improved, meeting the target of completing human resource and
+       payroll audits.
+      The rollout of the new Integrated Financial Management Information System (IFMIS) was completed,
+       substantially meeting the target: (a) all information system modules - budget preparation, budget
+       execution, treasury, accounting, and revenue management - were delivered; (b) the budget
+       preparation module was in use by September 2021; and (c) all other modules were in use by January
+       2022.
+      In-year financial account reports were prepared but not within the required deadline, meeting half the
+       target: (a) quarterly budget execution reports were prepared; (b) quarterly treasury accounting reports
+       - covering Class IV, V, VI, and VII accounts - were prepared and presented at the quarterly Comite de
+       Tresorerie (Treasury Committee) meetings; but (c) not all reports were consistently produced within
+       the six-week deadline. The target was for the financial account reports to be prepared quarterly within
+       six weeks from the end of the quarter.
+
+
+
+Outcomes. The project achieved one of two outcomes to improve the management of public expenditures.
+
+      The percentage (in value) of exceptional expenditures, excluding salaries and debt, was reduced from
+       27 percent at baseline to 12.5 percent by closing, exceeding the target that the percentage be lowered
+       to 15 percent.
+      The annual financial statements of the Compte de Gestion (Management Account), Compte
+       Administratif (Administrative Account), and Loi de Règlement (Settlement Law) for 2019 were
+       not submitted to the Court of Auditors and to Parliament as scheduled, failing to meet the target: (a)
+       financial statements for 2019 were submitted to the Court of Auditors by September 2021; (b) financial
+       statements for 2018 were submitted to the Court of Auditors in December 2019 (three months behind
+       the deadline), while the financial statement for the Loi de Règlement was not submitted to Parliament;
+       and (c) financial statements for 2017 were submitted to the Court of Auditors in October 2018
+       (meeting the deadline) and to Parliament in 2020 (15 months behind the deadline). The target was set
+       only for the financial statements for 2019, which were to be submitted to the Court of Auditors within
+       nine months from the end of the year and to Parliament within 12 months from the end of the year.
+
+
+
+Given high progress on controlling exceptional expenditures and modest progress on submission of annual
+financial statements, achievement of this objective is rated Substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+To improve the transparency of public expenditures
+
+
+                                                                                                 Page 6 of 18
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   PEIMRP (P161730)
+
+
+
+
+Rationale
+Theory of Change. Analytical and advisory work, technical assistance, and institutional capacity building in
+four areas of public financial management - budget planning and execution, procurement management,
+Financial Management Information Systems, and treasury and accounting - would help build the technical
+ability and the institutional capacity of key agencies, including the Ministry of Finance and Budget, the Ministry
+of Economy, Planning and Cooperation, the Ministry of Education, the Ministry of Health, the Ministry of
+Agriculture, the Ministry of Public Works, the Treasury Committee, and the Court of Auditors, to improve the
+transparency of public expenditures. Improved transparency of public expenditures would be crucial to
+implementing the donor-funded economic reconstruction and recovery program, RCPCA.
+
+
+
+Outputs. The project partially met one and achieved the other of two outputs to improve the transparency of
+public expenditures.
+
+      The transparency of public procurement improved, meeting half the target: (a) all target ministries
+       published their annual procurement plans, and (b) "some" notices of call for bids and "some" notices
+       of attribution were published on the website of the Ministry of Finance in 2018, 2019, 2020, and 2021.
+       The exact percentage (of bids and awards for which notices were published) was not available,
+       making it impossible to determine whether this part of the target was met. The compound target was
+       for all target ministries to publish their annual procurement plans and to publish notices for 30 percent
+       of all bids and awards.
+      Public procurement audit reports for 2017, 2018, and 2019 were finalized and published on the
+       Ministry of Finance and Budget's website, meeting the target.
+
+
+
+Outcomes. The project achieved the sole outcome to improve the transparency of public expenditures.
+
+      The "Transparency Composite Indicator" (defined as the number of budget and financial documents
+       published) improved to 13 by closing, meeting the target. The documents published included: (a) the
+       enacted 2020 and 2021 Finance Laws; (b) the revised 2021 Budget; (c) the Budget Annexes (Stated
+       Funded Entities); (d) the forecast of fiscal deficit; (e) the aggregated budget data for revenue and
+       expenditures using the main heads of classification, including data for the previous and current fiscal
+       year; (f) macroeconomic assumptions (growth, inflation, exchange rate, and interest rates); (g) the
+       2020 fiscal deficit financing including key assumptions; (h) the debt stock, with details at the beginning
+       of the current fiscal year and in accordance with IMF Government Finance Statistics standards; (i) the
+       2019 and 2020 fiscal expenditures; (j) the Quarterly Budget Execution Reports; (k) the Annual
+       Procurement Plans for at least four priority ministries - Education, Health, Agriculture, and Public
+       Works; (l) bid opportunities (though not comprehensive); (m) bid awards (though not
+       comprehensive); (n) key procurement regulatory documents; and (o) the 2017, 2018 and 2019
+       procurement audit reports. Although this target was met, the composite indicator itself was
+       weak, providing no information about the quality of the published documents and potentially
+       incentivizing fragmentation of reporting.
+
+
+
+
+                                                                                                    Page 7 of 18
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   PEIMRP (P161730)
+
+
+
+Data were not available for publication of bids and awards, but all other targets were met. Achievement of
+this objective is therefore rated Substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 3
+Objective
+To improve the management of public investments
+
+Rationale
+Theory of Change. Analytical and advisory work, technical assistance, and institutional capacity building in
+public investment management - investment project planning, selection, execution, and reporting - would help
+build the technical ability and the institutional capacity of key agencies, including the RCPCA Secretariat, the
+DGPE, and key line ministries, to improve the management of public investments. Better management of
+public investments would be crucial to implementing the donor-funded economic reconstruction and recovery
+program, RCPCA.
+
+
+
+Outputs. The project achieved one and failed to meet the other of two outputs to improve the management
+of public investments.
+
+      Annual and bi-annual reviews of the RCPCA were completed, meeting the target.
+      Public investment projects were not prioritized based on the published standard criteria for project
+       selection, failing to meet the target. Criteria for the selection of public investment projects were not
+       developed, and therefore the prioritization of projects could not be done.
+
+
+
+Outcomes. The project achieved the sole outcome to improve the management of public investments.
+
+      The Investment Budget execution rate rose from 39 percent at baseline to 52 percent by closing,
+       meeting the target of 50 percent.
+
+
+
+Although improvement in the investment budget execution rate met the target, investment projects were not
+prioritized as planned. Achievement of this objective is therefore rated Substantial, but with caveats.
+
+
+
+Rating
+Substantial
+
+
+                                                                                                     Page 8 of 18
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   PEIMRP (P161730)
+
+
+
+
+OBJECTIVE 4
+Objective
+To improve the transparency of public investments
+
+Rationale
+Theory of Change. Analytical and advisory work, technical assistance, and institutional capacity building in
+public investment management - investment project planning, selection, execution, and reporting - would help
+build the technical ability and the institutional capacity of key agencies, including the RCPCA Secretariat, the
+DGPE, and key line ministries, to improve the transparency of public investments. Improved transparency of
+public investments would be crucial to implementing the donor-funded economic reconstruction and recovery
+program, RCPCA.
+
+
+
+Outputs. The project achieved three of four outputs to improve the transparency of public investments.
+
+      Annual and bi-annual reviews of the RCPCA were completed, meeting the target.
+      Public investment projects were not prioritized based on the published standard criteria for project
+       selection, failing to meet the target. Criteria for the selection of public investment projects were not
+       developed, and therefore the prioritization of projects could not be done.
+      Bi-annual and annual public investment reports were publicly disclosed, meeting the target.
+      Annual reviews of the RCPCA incorporated feedback from consultations with citizens, meeting the
+       target.
+
+
+
+Outcomes. The project achieved the sole outcome to improve the transparency of public investments.
+
+      The "Transparency Composite Indicator" (defined as the number of budget and financial documents
+       published) improved to 2 by closing, meeting the target. The documents published included: (a)
+       annual reports on public investments execution for 2017, 2018, 2019, and 2020 were published by
+       DGPE on the websites of the Ministry of Finance and Budget and the Ministry of Economy, Planning,
+       and Cooperation; (b) bi-annual and annual reports of the execution of the RCPCA were published by
+       the RCPCA Secretariat on its website.
+
+
+
+Given publication of key documents on public investments and incorporation of consultations with citizens,
+achievement of this objective is rated Substantial.
+
+
+
+Rating
+Substantial
+
+
+
+                                                                                                     Page 9 of 18
+                                Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+                                PEIMRP (P161730)
+
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            There was substantial achievement in improving the management and transparency of both public
+                            expenditures and public investments, with caveats related to submission of annual financial statements
+                            and prioritization of public investments. The overall efficacy of the project is therefore rated Substantial, but
+                            with moderate shortcomings.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+    5. Efficiency
+   Economic Efficiency. Neither the Project Appraisal Document nor the ICR calculated an economic rate of
+   return or financial rate of return for the project. The ICR argued that, at a project cost of US$10.2 million
+   principally for technical assistance, the project delivered or would deliver "substantial" economic benefits, but
+   those benefits were not quantified.
+
+   Operational Efficiency. The project completed all its planned activities by closing. The disbursement rate was
+   99 percent. The project's implementation strategy was deliberately developed with an eye toward simple and
+   straightforward execution for the Project Implementation Unit (PIU) and beneficiaries (single contracting the
+   IFMIS and consolidating all technical assistance under one firm, for example). The hiring of a project
+   management assistant specifically to support IFMIS implementation effectively supported that activity.
+   Performance on both procurement and financial management was rated Satisfactory at project closing. The
+   duration of the project was extended by six months: (a) political unrest erupted in 2020 and triggered insecurity,
+   with violence between government and rebel forces marring the presidential election in December 2020; and (b)
+   the COVID-19 pandemic disrupted activity in 2020 and 2021. The requirement to work remotely complicated
+   implementation of the IFMIS, but the project team and consultants nimbly adapted to virtual meetings and
+   activities (ICR, p. 21). Similarly, in an unexpected situation when the RCPCA's office building collapsed, the
+   team coordinated closely with the government to adapt, realigning project expenditures in a way that prioritized
+   achievement of outcomes. The ICR (p. 25) notes that the PIU is "one of the best performing in the portfolio,"
+   recognized by it having been tasked with increasing responsibility for other projects. The ICR (pp. 25-26) also
+   notes some moderate shortcomings in implementation efficiency: delays caused by inattention from the Steering
+   Committee, and expenditure cuts necessitated by instability in the political and economic environment.
+
+   On balance, given evidence of efficient implementation, project efficiency is rated Substantial.
+
+
+   Efficiency Rating
+          Substantial
+
+
+
+
+                                                                                                                                 Page 10 of 18
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      PEIMRP (P161730)
+
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                     0
+Appraisal                                                   0
+                                                                                      Not Applicable
+                                                                                     0
+ICR Estimate                                                0
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project was highly relevant to country conditions and Bank Group strategy. Efficacy is rated substantial,
+with caveats related to submission of annual financial statements and prioritization of public investments.
+Efficiency is rated substantial due to evidence of efficient project implementation. Overall Outcome is rated
+Satisfactory, reflecting only minor shortcomings in the project's preparation, implementation, and achievement.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+The risks to development outcomes achieved by this project are substantial given the country's fragility,
+conflict, and violence (FCV) status. The Central African Republic has been on the World Bank's FCV list
+since FY2006, when the list was first compiled.
+
+Security Risk. The Central African Republic defeated an attempt by armed groups to seize power in late
+2020/early 2021. Since then, a key rebel leader has surrendered to the International Criminal Court, the
+Douala-Bangui corridor was reopened, and the President (reelected for a second term in December
+2020) launched the Republican Dialogue peace initiative alongside the Luanda Road Map spearheaded by
+neighboring countries. Recurrent security crises like this one pose substantial risks to political normalcy and
+economic activity in the Central African Republic, and to the sustainability of the development outcomes of
+this project.
+
+Macroeconomic Risk. The economy is projected to grow by 3.5 percent annually on average in the
+medium term, 2022-24, from 0.9 percent annually in 2019-20, provided that: (a) security gains are not
+reversed, and (b) the economic impact of the Ukraine-Russia war on global economic recovery is
+contained. The risks to this outlook, however, remain high and tilted to the downside. The extension by the
+IMF of the Staff Monitored Program approved in December 2021 (where performance has been broadly
+satisfactory with most end-March 2022 quantitative and structural benchmarks met) could help mitigate
+macroeconomic risk in the near term, as it will likely pave the way for the resumption of discussions for an
+arrangement under the Extended Credit Facility. The three-year arrangement was approved in December
+2019 for SDR 83.55 million (US$115.1 million) but veered off-track; most performance criteria and structural
+
+                                                                                                     Page 11 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     PEIMRP (P161730)
+
+
+
+benchmarks were missed prior to the intensification of the domestic conflict in late 2020/early 2021, and the
+third review has not been completed.
+
+Fiscal Risk. Government finances are highly reliant on budget support from donors. Donors have delayed
+disbursing budget support pending greater transparency in the government’s security-related
+spending. Security-related spending was not a focus of this operation. Nonetheless, it remains important
+for the government to bridge its differences with donors. Stalled budget support would strain the
+government's finances.
+
+Institutional Capacity Risk. The pace of capacity building activities slowed in 2020-21, dragged down by
+insecurity and the COVID-19 pandemic, which restricted travel and work by consultants. Weak institutional
+capacity poses risks to the sustainability of improvements made in the management and transparency of
+public expenditure and investment. The Public Sector Digital Governance Project, approved in May 2022,
+aims to improve efficiency and transparency in key areas of public resource management and lay the
+foundations for digital government.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  Analytical Foundations. Project design reflected comprehensive analytical work produced by the Bank,
+  other development partners, and consultants.
+
+         The Central African Republic - Medium-Term Action Plan for the Governance of Public Finances
+          (IMF, 2017) noted that budget preparation, management, and execution improved only marginally
+          in 2016. Budget documents could not identify compulsory and priority spending. Consequently,
+          the use of "extraordinary" spending procedures remained prevalent.
+         The Central African Republic Public Expenditure and Financial Accountability (PEFA) Report
+          (2010) rated payroll controls "D" (lowest possible score) and identified numerous inconsistencies
+          in the reconciliation of the human resource database and the public payroll.
+         The Audit of the Système de gestion de la chaîne de la dépense informatisé (GESCO) (Expertise
+          France, 2016) found that the GESCO was technologically outdated and that the Ministry of
+          Finance and Budget relied on continual and sometimes remote support from the application
+          developer (a single person) to maintain and debug the system. The audit strongly recommended
+          the urgent replacement of GESCO with a new Financial Management Information System.
+         A report by a benchmarking team identified the Logiciel intégré de gestion des finances publiques
+          (SIMBA), the software developed by the International Association of Francophone Mayors, as a
+          suitable Financial Management Information System. SIMBA supported the processes for budget
+          implementation, accounting, and financial reporting and covered the current and investment
+          budgets. Other modules, including fixed asset management, debt management, tax and customs
+          administration, and payroll and pension systems, would need to be interfaced with the core
+          system.
+
+  Donor Coordination. Like the RCPCA, jointly prepared by the Bank, the United Nations, the European
+  Union, and multiple bilateral donors, this project was prepared by the Bank in collaboration with donors to
+
+                                                                                                   Page 12 of 18
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     PEIMRP (P161730)
+
+
+
+  ensure alignment of the project objectives and activities with other programs in the Central African
+  Republic. According to the Project Appraisal Document, this project was: (a) aligned with the operations
+  of the European Commission's European Regional Development Fund, which planned to provide
+  US$220 million in assistance in 2016-20; (b) aligned with the country portfolio of the Agence Française
+  de Développement (French Development Agency), valued at US$40 million and focused on economic
+  recovery, social protection, and general budget support; (c) supportive of the assistance package of the
+  African Development Bank, amounting to US$80 million and directed at emergency operations,
+  community reconstruction, governance support, and capacity building; and (e) consistent with the
+  program of the IMF; a year before the Bank approved this project in June 2017, the IMF approved in July
+  2016 a three-year arrangement under the Extended Credit Facility to strengthen revenue
+  collection, improve spending efficiency, scale up social spending and infrastructure
+  investment, implement reforms, and mobilize and coordinate support from other development
+  partners. Additionally, the IMF Africa Regional Technical Assistance Center supported technical
+  assistance activities focused on fiscal administration reforms and capacity building, using trust funds.
+
+  Monitoring and Evaluation Design. There were definition and measurement problems with three of the
+  four outcome indicators, and with one of the eleven output indicators (see Section 9a).
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The Bank produced eight Implementation Status and Results Reports (ISRs), two reports a year. The ISRs
+ reported progress with the results indicators. The Bank filed three aides-memoires for supervision missions
+ in 2016, 2020, and 2021. The Bank extended implementation support in six areas: (a) review of the
+ technical aspects of the project; (b) project management (assistance with the recruitment of project
+ management support staff); (c) environmental and social safeguards (see Section 10a); (d) procurement
+ (see Section 10b); (e) financial management (see Section 10b); and (f) operational matters, especially with
+ the reconstruction of the RCPCA building, which collapsed while this project was being implemented. The
+ support was delivered despite disruptions caused by the COVID-19 pandemic and insecurity in late 2020-
+ early 2021 (see Section 7). However, shortcomings in M&E design and implementation were not fully
+ addressed (see Section 9).
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+
+                                                                                                 Page 13 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     PEIMRP (P161730)
+
+
+
+a. M&E Design
+ The Project Appraisal Document defined eleven output (intermediate results) and four outcome (PDO-level)
+ indicators to measure progress toward the achievement of the project objectives. The Project
+ Implementation Unit was to be responsible for project M&E overall, with the RCPCA Secretariat tasked
+ with the M&E of RCPCA activities, and the Ministry of Economy, Planning and Cooperation for activities
+ related to the investment budget.
+
+ There were several shortcomings with M&E design.
+
+       The outcome indicator "Percentage (in value) of exceptional expenditures, excluding salaries and
+          debt" was not defined in the Project Appraisal Document results framework or in the Project
+          Implementation Manual.
+         The outcome indicator "Investment budget execution rate" was not defined in the Project Appraisal
+          Document results framework or in the Project Implementation Manual.
+         The outcome indicator "Timely submission of annual financial statements of the Compte de
+          Gestion (Management Account), Compte Administratif (Administrative Account), and Loi de
+          Règlement (Settlement Law) for 2019 submitted to the Court of Auditors and to Parliament" had two
+          elements: submission of the financial statements to the Court of Auditors, and submission to
+          Parliament. The Project Appraisal Document did not clarify how to measure the indicator if only one
+          of the two was achieved.
+         The output indicator "Transparency of public procurement - the public procurement plans for all
+          concerned ministries and at least 30 percent of bid opportunities and awards published" had two
+          issues: (a) the indicator had three elements - publication of procurement plans, publication of bid
+          opportunities, and publication of awards - the weighting of which was not specified; and (b) the
+          Regulatory Procurement Agency, the National Procurement Agency, and the Project
+          Implementation Unit could not agree on how to calculate the "30 percent" of bid opportunities and
+          awards published.
+         The outcome indicator "Transparency composite indicator" was defined to measure the
+          achievement of the objective "to improve the transparency of public investments," but it was also
+          applicable to the objective "to improve the transparency of public expenditures." It would have been
+          appropriate to separate elements of the composite indicator into the parts that were applicable to
+          public investment and to public expenditure.
+         The Project Implementation Unit did not employ a dedicated M&E specialist.
+
+
+
+b. M&E Implementation
+  As the project did not provide for the hiring of a dedicated M&E specialist at the PIU, the deputy project
+  manager for the first component and the coordinator for the second component assumed and
+  performed M&E data collection functions.
+
+  To remedy the shortcomings with the results indicators, the PIU: (a) developed a formula to calculate the
+  outcome indicator "Percentage (in value) of exceptional expenditures, excluding salaries and debt"
+  as total expenditures outside the regular expenditure execution process divided by total expenditures;
+  and (b) identified the Ministry of Economy, Planning and Cooperation's quarterly Investment Budget
+  Execution Reports as the data source for the outcome indicator "Investment Budget execution rate." For
+  its part, the Bank (ICR Team) used the outcome indicator "Transparency composite indicator" for the
+
+                                                                                                    Page 14 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     PEIMRP (P161730)
+
+
+
+  objective "to improve the transparency of public investments" as well as for the objective "to improve the
+  transparency of public expenditures."
+
+  However, according to the ICR, M&E implementation was erratic: (a) the PIU found it difficult to
+  calculate some indicators - e.g. the percentage of procurement opportunities and awards that were
+  published; (b) some indicators were not regularly reported - e.g. the timely submission of annual financial
+  statements; and (c) quarterly M&E reports were not produced for the Project Steering Committee (note -
+  the Financing Agreement required bi-annual project reports for the Bank). Three annual project reports
+  were produced.
+
+
+
+c. M&E Utilization
+  With quarterly M&E reports not produced for the Project Steering Committee (the body responsible for
+  overall project strategic direction, review and approval of the annual work plan and budget, and review
+  and approval of the final implementation report, including the audit report), the Committee appears not to
+  have focused on the results indicators. Discussions reflected in the Committee reports indicate that the
+  Committee essentially focused on project activities rather than on project outcomes.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   Environmental Safeguards. The project was classified as an environmental assessment category "B"
+   project (i.e. some type of environmental assessment/review/plan is required, but limited in scope and
+   flexible in structure, reflecting limited environmental impacts of the project and anticipated relatively
+   straightforward mitigation) at appraisal and triggered OP/BP 4.01 - Environmental Assessment and OP/BP
+   4.11 - Physical Cultural Resources. OP/BP 4.01 applied because the project would support the
+   rehabilitation of state buildings (RCPCA, Court of Auditors, and public buildings used by the Ministry of
+   Finance and Budget in five towns outside Bangui) and the digging of trenches in urban areas of Bangui to
+   deploy a fiber-optic cable. OP/BP 4.11 applied because the digging activities under the fiber-optic works
+   would involve the excavation and movement of earth. An Environmental and Social Management Plan
+   (ESMP) was drawn up, validated by the Ministry of the Environment and Sustainable Development,
+   following which a Certificate of Environmental Compliance was issued and approved by the Bank. The PIU
+   hired a part-time consultant to monitor compliance with the protective measures; the consultant was
+   supported by the Bank’s Environmental and Social Safeguards Specialists. The contractors implemented
+   the ESMP measures, and no environmental safeguards deficiencies were reported during project
+   implementation. Compliance with environmental safeguards and overall safeguards was rated satisfactory
+   at closing (last ISR of December 2021).
+
+   Social Safeguards. The project did not trigger any social safeguards policies.
+
+
+
+
+                                                                                                   Page 15 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     PEIMRP (P161730)
+
+
+
+
+b. Fiduciary Compliance
+   Procurement. Early weaknesses with procurement were addressed using direct contracting (for the new
+   IFMIS) and the consolidation of all technical assistance under one firm. The Bank's procurement specialist
+   supported the PIU with procurement activities. By project closing, most contract deadlines were broadly
+   met. Procurement was rated satisfactory at closing (last ISR of December 2021), upgraded from
+   moderately satisfactory previously.
+
+   Financial Management. Financial management adhered to guidelines. Interim financial reports were
+   produced quarterly, financial statements were submitted annually, audits of the project financial statements
+   were conducted annually, and audit opinions were unqualified. The Bank's financial management
+   specialists supported the PIU with financial management activities. Financial management was rated
+   satisfactory at closing (last ISR of December 2021), upgraded from moderately satisfactory early in project
+   implementation.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   None reported.
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                 Reason for
+Ratings                         ICR                    IEG
+                                                                                 Disagreements/Comment
+Outcome                         Satisfactory          Satisfactory
+                                                                                 Moderate shortcomings in M&E
+Bank Performance                Satisfactory          Moderately Satisfactory
+                                                                                 design and implementation.
+Quality of M&E                  Modest                Modest
+
+Quality of ICR                  ---                   Substantial
+
+
+12. Lessons
+
+Three lessons are drawn from the ICR, with some adaptation.
+
+Obtaining support at the highest level of government raises the rate of success of an
+operation in an FCV setting. In this project, the Minister of Finance and Budget had high
+ownership of the project objectives and activities during preparation and implementation. According
+to the ICR, the project could have met stiff resistance from the bureaucracy and political interference
+without the strong leadership by, and firm commitment from, the Minister of Finance and
+
+                                                                                                   Page 16 of 18
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       PEIMRP (P161730)
+
+
+
+Budget. The active engagement by the Minister in the implementation of the new Integrated
+Financial Management Information System (IFMIS) minimized operational risks, ensured the smooth
+execution of activities, and contributed to the achievement of project objectives.
+
+Simplifying project implementation processes in the context of low capacity improves the
+chances of achieving results. In this project, two key procedures were simplified: (a) the
+procurement of the new IFMIS was confined to a single-source procurement, and (b) technical
+assistance was consolidated under a single consulting services provider. The Logiciel intégré de
+gestion des finances publiques (SIMBA), developed by the International Association of Francophone
+Mayors (AIMF), was previously determined to be a suitable replacement for the Système de gestion
+de la chaîne de la dépense informatisé (GESCO) as the new IFMIS. The software had been tested
+and worked in other Central African Economic and Monetary Community (CEMAC) countries, the
+license was free, and the developer was a non-profit organization, allowing single-source
+procurement. The single technical assistance service provider had the requisite expertise in project
+management and in information technology and was able deliver assistance for project
+management to the government, the Project Implementation Unit, and the AIMF for the installation
+and operation of the new IFMIS across the targeted agencies. These simplified procedures
+minimized procurement problems and reduced the burden on the government and the Project
+Implementation Unit (PIU).
+
+Designing simple output and outcome indicators aids the measurement of project results
+and facilitates monitoring during project implementation. In this project, the PIU found it difficult
+to report on the achievement of the results indicator "Improved budget reporting and information to
+line ministries," which was defined to cover multiple elements including the publication of budget
+execution reports, the use of new functional and administrative budget nomenclature, the
+communication of budget commitment ceilings to sector ministries on a quarterly basis, and the
+publication of budget documents within eight weeks from the end of the quarter. Also, the Project
+Implementation Unit had to grade the achievement of the results indicator "Timely submission of
+annual financial statements to the Court of Auditors and to the Parliament" as negligible. The
+financial statements for 2019 were not submitted to Parliament by closing and were submitted to the
+Court of Auditors after some delay However, this results indicator obscures the fact that the financial
+statements - of the Compte de Gestion (Management Account), Compte Administratif
+(Administrative Account), and Loi de Règlement (Settlement Law) - were prepared by the Ministry of
+Finance at all - a singular achievement in the context of weak capacity in the Central African
+Republic. An "unpacking" of the results indicator into three stages would have better captured this
+achievement.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+
+
+
+                                                                                                   Page 17 of 18
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      PEIMRP (P161730)
+
+
+
+Consistency with Guidelines. The ICR was consistent with OPCS guidelines on ICRs for investment financing
+projects.
+
+Conciseness. The account of the project’s performance was well informed and concisely presented.
+
+Results Orientation. The efficacy assessment was outcome-oriented and based on achieving the
+results targets.
+
+Quality of Evidence. The ICR presented ample evidence to support its assessment of the Bank’s performance
+at design and at implementation.
+
+Quality of Analysis. The assessment of the efficacy of the program was candid. The use of compound results
+indicators obscured the degree of achievement of some of the targets. In addition, the parsing of the objectives
+into four PDOs, rather than just two (on management/transparency of public expenditures, and
+management/transparency of public investments), was excessively granular. Management and transparency
+are not entirely distinct. They overlap significantly, and one (transparency) is an essential precondition for the
+other (good management). Transparency is largely a means to an end, rather than an end in and of itself. With
+the theories of change largely identical and many outputs contributing to both, it would have been more
+analytically sound to treat management and transparency together in a single objective.
+
+Lessons. The ICR drew lessons that would be valuable to governments that are trying to acquire technical skills
+and build up institutional capacities in areas critical to public spending and investment but under difficult FCV
+settings.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                    Page 18 of 18
+

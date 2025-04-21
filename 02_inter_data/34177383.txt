@@ -1,0 +1,784 @@
+     Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+     CARCIP-Nicaragua (P155235)
+
+
+
+                                                                               Report Number: ICRR0023553
+
+1. Project Data
+
+
+
+ Project ID                               Project Name
+ P155235                                  CARCIP-Nicaragua
+
+ Country                                  Practice Area(Lead)
+ Nicaragua                                Digital Development
+
+
+ L/C/TF Number(s)                         Closing Date (Original)               Total Project Cost (USD)
+ IDA-58950                                31-Jul-2022                                         20,100,000.00
+
+ Bank Approval Date                       Closing Date (Actual)
+ 02-Aug-2016                              31-Jul-2022
+
+                                          IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                         20,100,000.00                                               0.00
+
+ Revised Commitment                          20,100,000.00                                               0.00
+
+ Actual                                      20,100,000.00                                               0.00
+
+
+
+
+ Prepared by               Reviewed by                  ICR Review Coordinator         Group
+ Ranga Rajan               Avjeet Singh                 Avjeet Singh                   IEGSD (Unit 4)
+ Krishnamani
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objective (PDO) as stated in the Financing Agreement (FA, Schedule 1, page 5)
+   and in the Project Appraisal Document (PAD, page 7) is:
+
+   " To increase access to regional broadband networks and to advance the development of the
+   Information Technology / Information Technology-Enabled Services (IT/ITES) industry in Nicaragua
+   and in the Caribbean region ".
+
+
+                                                                                                Page 1 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     CARCIP-Nicaragua (P155235)
+
+
+
+   For this Implementation Completion Report Review (ICRR) the project objectives are taken to be:
+
+   PDO 1. To increase access to regional broadband networks in Nicaragua.
+
+   PDO 2. To advance the development of the IT/ITES industry in Nicaragua and in the Caribbean region.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   There were three components (FA, pages 5 - 6).
+
+   1. Regional Connectivity Infrastructure. The estimated cost at appraisal was US$8.00 million. The actual
+   cost was US$6.00 million. This component planned to expand the regional broadband network
+   infrastructure including through deploying 225 kilometers (km) of fiber optic links and local wired and
+   wireless networks.
+
+   The activity associated with deploying fiber optic links was reduced to 115 km. At appraisal, the project
+   expected to deploy 225 km of fiber optic link, which included an optic carrier link of 140 km in the northern
+   Caribbean coast of Nicaragua. As the project became effective, the Government notified the Bank that
+   building this fiber optic link was no longer necessary, as the National Electricity Transmission Company
+   (ENATREL) was deploying it with funding from the Inter American Development Bank (IADB). Hence the
+   project team modified the total to 115 km of fiber optic connecting the southeastern towns.
+
+   2. T-Enabled Innovation. The estimated cost at appraisal and the actual cost was 12.10 million. This
+   component had three sub-components.
+
+   a. Enabling Environment. Activities in this subcomponent; Technical assistance (TA) and capacity building
+   for; (i) participation of Nicaraguan Organizations in regional IT/ITES industry promotions; (ii) regional
+   learning and knowledge exchange; (iii) operating an IT/ITES skill and certification program; and (iii) carrying
+   out an analysis of different business models for IT/ITES certification.
+
+   b. IT/ITES Skills Development and Certification Program. This subcomponent planned to support
+   IT/ITES skills development and certification through learning courses.
+
+   c. Information and Communication Technology (ICT) Innovation Ecosystem. This subcomponent
+   planned to promote the nascent ICT innovation ecosystem through; (i) designing and implementing an
+   industry-university collaboration platform; and (ii) promoting communities of entrepreneurs.
+
+   3. Implementation Support. The estimated cost at appraisal was US$2.60 million. The actual cost was
+   US$2.00 million. This component planned to support the Project Coordination Unit (PCU) on; (i)
+   implementation, monitoring and evaluation (M&E) and conducting audits; (ii) designing and implementing
+
+
+
+                                                                                                     Page 2 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     CARCIP-Nicaragua (P155235)
+
+
+
+   strategies and other dissemination tools to inform project stakeholders; (iii) carrying out impact evaluation
+   surveys to evaluate project impacts and capacity building of relevant policy and regulatory institutions.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project cost. The estimated cost at appraisal was US$22.70 million. The actual cost was US$20.10 million.
+
+   Financing. The project was financed by an International Development Association (IDA) Credit of
+   US$21.10 million. The credit was fully disbursed.
+
+   Recipient contribution. Recipient contribution of US$2.60 million was planned at appraisal. There was no
+   recipient contribution during implementation.
+
+   Dates. The project was approved on August 2, 2016, became effective on February 2, 2017, and closed as
+   scheduled on July 31, 2022.
+
+   Other changes. The Bank supported the following main changes through a Level 2 restructuring on May
+   22, 2020.
+
+         Added the National Electricity Transmission Company (ENATREL) as an implementing agency. The
+          procurement process for deploying 115 of fiber optic infrastructure under a Build, Own, and Operate
+          scheme was voided. Two tenders were received for this link. One tender from ENTREL was
+          disqualified as it was a government entity. The second from a private operator was disqualified as
+          the financial bid was nearly 300% higher than the estimated value of the contract. Hence, ENTREL
+          was added as the implementing agency for the fiber optic link. The new arrangement stipulated that
+          ENATREL was not authorized to receive or manage IDA funds. Once the fiber optic link was
+          installed, ENAREL was responsible for the commercialization of services from the new telecom
+          infrastructure.
+         Amended the Financing Agreement to reflect the implementation arrangement changes.
+         As discussed in section 2d, the activity associated with deploying fiber optic links was reduced from
+          225 to 115 km.
+
+   The following change was made in June 2021.
+
+         The project reallocated US$941,895 from component two to component one activity of deploying
+          connectivity infrastructure. With only a year remaining until closure and a lack of Government
+          funding as planned for this activity, the project team decided to focus on deploying infrastructure,
+          which was yielding larger coverage than expected. The reallocation of resources led to dropping the
+          component two activities to link trainees from the training program to potential employment
+          opportunities.
+
+
+
+
+3. Relevance of Objectives
+
+
+
+                                                                                                     Page 3 of 15
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     CARCIP-Nicaragua (P155235)
+
+
+
+Rationale
+Regional context. Small size and susceptibility to natural hazards are common challenges faced by
+Nicaragua and other Caribbean countries. Given these challenges, these countries were seeking to sustain
+growth through greater regional integration. This project in Nicaragua was part of the Caribbean Regional
+Communications Infrastructure Program (CARCIP) series of projects (SOPs) aimed at building regional
+broadband networks and developing regional IT/ITES industries in the participating countries.
+
+Country sector context. Before appraisal since 2002, Nicaragua had taken steps towards liberalizing the
+Information and Communication Technology (ICT) sector. The Government privatized the Nicaraguan
+Telecommunications Company (ENTEL- the state-owned provider of telecom services), established the
+Nicaraguan Institute for Telecommunications (TELECOR) as the sector regulator, and awarded licenses to
+two new private operators. Despite these reforms, Nicaragua's telecom market had limited competition,
+resulting in low coverage and high prices. Nicaragua had one of the lowest broadband penetration rates in
+the Latin America and the Caribbean (LAC) region, with only 2.5% of fixed broadband penetration and 1.4%
+of mobile broadband penetration. Nicaragua lacked adequate coverage of backbone and last-mile
+networks, with most of them concentrated in the country's western regions, connecting the main cities and
+leaving the rural areas underserved. Some of the challenges faced by the ICT sector included (i) lack of
+access to regional broadband networks(ii) limited skills of ICT specialists; and (iii) underdeveloped business
+environment. Increasing access to regional broadband networks, reducing prices of fixed broadband
+services in low-income areas and developing the IT/ITES industry was important to the Government's
+strategy for the ICT sector.
+
+Government strategy. The PDOs were relevant to Nicaragua's National Human Development Plans
+(NHDPs) for 2012 - 2016 and 2017 - 2022. The plans specifically highlighted the need to integrate the
+Caribbean coast better with the rest of the country, including through the expansion of basic
+telecommunications infrastructure. The plans also included a pledge to expand broadband penetration in
+rural areas.
+
+Bank strategy. The PDO is well-aligned with the Bank strategy for Nicaragua. At appraisal, the second
+pillar of the Country Partnership Strategy (CPF) for 2013 -2017 underscored the need for " Increasing
+competitiveness and Productivity. " This project also operationalized the Bank's 2016 World Development
+Report "Digital Dividends." This report focused on the critical role of the internet in promoting economic
+development.
+
+The PDOs are well-aligned with the Bank's current Country Partnership Framework (CPF) for 2018 - 2022.
+The PDO 1 of this project, which aimed to improve telecommunications infrastructure, is aligned with the
+CPF's objective three of improving rural connectivity. The PDO 2 of this project aimed at advancing the
+development of an IT/ITES industry is aligned with CPF's Objective 1 of improving learning conditions and
+employability. The PDOs are well-aligned with the following Bank reports: (1). The COVID-19
+Response paper. This report called for leveraging the use of ICTs to recover from the pandemic; (2). The
+framework for supporting Green, Resilience, and Inclusive Development (GRID) called for supporting
+investments that expanded coverage of digital connectivity; and (3). Pillar number four of the Global Crisis
+Response Framework (GCRF) that articulated the need for strengthening digital infrastructure.
+
+Bank experience. The Bank had implemented the first phase of the CARCIP program in Saint Vincent and
+the Grenadines, Saint Lucia, and Grenada. The design of this project was tailored to Nicaragua's specific
+needs while prioritizing regional actions. The project activities had ICT infrastructure investments and
+
+
+                                                                                                    Page 4 of 15
+                                      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+                                      CARCIP-Nicaragua (P155235)
+
+
+
+               institutional strengthening activities for addressing these challenges that were important in the country
+               context: (i) increasing broadband connectivity in underserved areas and promoting competition in the sector
+               for affordability considerations; (ii) implementing policies and programs to improve the country's ICT sector
+               skills; and (iii) promoting regional cooperation. The theory of change showing the causal links between the
+               project activities, outputs, and the intended outcomes was logical (discussed in section 3).
+
+               Overall, given the strong alignment of the PDO with the Regional, Government, and Bank strategy for
+               Nicaragua, as well as the appropriate level of ambition, the relevance of the PDO is rated as High.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+
+                             PDO 1. To increase access to regional broadband networks in Nicaragua.
+
+                             Rationale
+                             Theory of change. The theory of change underlying the PDO was that outputs such as expanding the
+                             regional broadband network infrastructure (including fiber optic lines and local wired and wireless networks)
+                             and TA activities aimed at facilitating Nicaraguan Organizations to participate in regional IT/ITES industry
+                             promotions and regional learning and knowledge, were likely to aid in realizing of increasing access to
+                             regional broadband and the long-term outcome of improving Nicaragua's competitiveness. The causal links
+                             between project activities, outputs, and outcomes were logical, and the intended outcomes were monitorable.
+                             The results framework assumes the following: Private sector participation in deploying broadband
+                             infrastructure and the Government financially contributes to deploying the fiber optic networks.
+
+                             Outputs (ICR pages 8 - 9 and 29 - 30).
+
+                                        85 new locations were connected to the telecom infrastructure, exceeding the target of 44 locations.
+                                         157,337 people benefitted from the deployment of telecom infrastructure (target 100,000). 60% of the
+                                         beneficiaries were women (target 40%).
+                                        115 kilometers (km) of deployed fiber optic infrastructure were built per the revised target (original
+                                         target 225 km). The deployed optic infrastructure connected to the Central American
+                                         Telecommunications Network (REDCA) and the regional submarine cable on the southeast coast of
+                                         Nicaragua.
+                                        Although the project planned to install 32 Base Transceiver Stations (BTS), by project closure, the
+                                         private operator deployed 25 BTS with Fourth Generation Mobile Technology (4G) that were installed
+                                         in sites that enabled coverage in rural communities that were geographically isolated.
+
+                                                                                                                                  Page 5 of 15
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   CARCIP-Nicaragua (P155235)
+
+
+
+
+      According to the national data, between 2019 and 2020, more than 3.2 million of mobile internet
+       connections were added. The market penetration of internet mobile subscribers increased from
+       35.63% of the population in 2018 to 46.46% in the second quarter of 2022.
+      The project aided in launching a pilot program that connected 14 health centers and five elementary
+       schools with dedicated broadband connection and training staff on digital literacy.
+      The project subsidized two PPPs under a scheme of Build, Own, and Operate that required the private
+       operator to provide mobile broadband service in selected locations in consultation with the
+       communities while allowing the operator to choose the technology that met the specifications of each
+       location.
+      The first deployment of broadband connectivity by July 2019 helped support poor communities during
+       the first months of the COVID-19 pandemic. Approximately 46,926 people in the connected
+       communities benefitted from broadband access during 2020.
+
+Outcomes.
+
+The outputs described above were expected to increase the percentage of the population with access to
+regional broadband networks.
+
+      19.3% of the population had access to regional broadband networks when the project closed,
+       exceeding the target of 14%. The selected areas in the Caribbean coast of Nicaragua where the
+       project deployed infrastructure had zero broadband penetration before this project, with connectivity
+       previously provided via older generation technologies that delivered basic telephone and short
+       message services, and in some areas with no connectivity.
+
+Efficacy of this PDO is rated as substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+
+PDO 2. To advance the development of the IT/ITES industry in Nicaragua and in the Caribbean region.
+
+Rationale
+Theory of change. The theory of change underlying the PDO was that TA activities aimed at developing
+IT/ITES skill and certification program and implementing an industry-university collaboration platform would
+likely help in advancing the development of IT/ITES industries in Nicaragua and the Caribbean region. These
+outcomes were likely to contribute to the long-term development outcome of promoting regional integration.
+The causal links between project activities, outputs, and outcomes were logical. The intended outcomes were
+monitorable. The results framework assumes enough collaboration between the public and private sectors to
+implement the IT/ITES training and certification program.
+
+
+
+
+                                                                                                 Page 6 of 15
+   Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+   CARCIP-Nicaragua (P155235)
+
+
+
+Outputs (pages 9 - 10 and pages 30 - 33).
+
+      The strategy to foster the IT/ITES in Nicaragua and in the Caribbean Region was launched as
+         targeted. Per the ICR, this strategy served as a roadmap for all investment attraction actions carried
+         out within the program's network.
+        The project aided in designing a training scheme using multiple educational vendors, including
+         international suppliers that offered internationally recognized certifications in English and technical and
+         soft skills related to IT/ITES.
+        Under the project, the broadband operator conducted ICT literacy to seven communities, including two
+         indigenous communities.
+        Using a replicable Open Innovation Methodology, the project established a network of nine Open
+         Innovation centers to generate activities from conception through implementation and developing
+         user-friendly Open Innovation Toolkits.
+        25 events were organized to promote the IT/ITES industry and attract foreign direct investment in
+         Nicaragua and the Caribbean (target 22).
+        Three CARSIP countries had access to IT/ITES training as targeted. 7,887 people were trained (target
+         5,500): 97 of the people trained were from other CARCIP countries, slightly short of the target of 120:
+         45.30% of women were trained (target 40%).
+        88 collaboration agreements were signed between the university and the firms under the innovation
+         Ecosystem (target 50). 32 solutions were created under the innovation Ecosystem (target 30). 320
+         open innovation events were held (target 25).
+
+The activity linking trainees from the training program to potential employment opportunities was dropped.
+
+Outcomes.
+
+The outputs described above were to lead to the following outcomes: (i) the percentage of trainees certified
+under the skills and training program; (ii) the number of services or applications created by the ICT innovation
+Ecosystem activities; and (iii) the percentage of companies that reported satisfaction with the IT/ITES skills
+training and certification program.
+
+      84% of the trainees were certified under the skills and training program (target 70%). Certifications in
+       English accounted for 37% of all certifications; 35% of certifications were on soft skills and 27% on
+       technical skills. A trainee survey conducted at the end of the project documented that the certified
+       trainees had a labor insertion of 53.58% and a 19% salary increase due to the certification program.
+      63 services were created as a result of the ICT innovation ecosystem activities (target eight). These
+       services included robotic solutions, the design of prototypes and simulations, virtual reality platforms,
+       web design and mobile applications, and software design, among others. The ICR provides no
+       reasons as to why the target was significantly exceeded.
+      Based on a satisfaction survey of three IT companies, only 40% of the companies reported
+       satisfaction with the IT/ITES training and certification program, short of the target of 65%. The ICR
+       notes that the satisfaction survey had the participation of three IT companies out of the fifty firms that
+       were initially expected to participate, which led to a potentially unreliable result. The small number of
+       participants in the survey was due to the private sector’s decision to reduce their participation in
+       activities due to the 2018 political crisis.
+
+
+
+                                                                                                      Page 7 of 15
+                               Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+                               CARCIP-Nicaragua (P155235)
+
+
+
+
+                                  The ICR notes that the project could have likely contributed towards the long-term outcomes of the
+                                   increase in IT related jobs and ICR services exports during the project period, though without specific
+                                   data pointing to these changes at the national level it is difficult to presume this is a likely result of the
+                                   project.
+
+                            The outcome indicators to measure this objective were relatively intermediate results oriented, and there were
+                            no indicators to measure the regional dimension of the objective. While the outcome indicator of services
+                            created as a result of the ICT innovation ecosystem activities was exceeded, the indicator on the satisfaction
+                            survey was partially achieved and unreliable due to the small sample size of three IT companies. Given the
+                            lack of adequate evidence to measure the regional aspect of the PDO as well as the satisfaction survey
+                            outcome indicator, the efficacy of this PDO is rated as Modest.
+
+
+
+                            Rating
+                            Modest
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            While the objective of increasing access to the regional broadband Network in Nicaragua was substantially
+                            achieved, there were shortcomings in achieving and monitoring the second aspect of the PDO, especially the
+                            regional dimension. Overall, the efficacy is rated as substantial with moderate shortcomings.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+    5. Efficiency
+   Financial analysis. A financial analysis was carried out using the same conceptual model for component one
+   and two activities. These activities accounted for 90% of the project cost. The project benefits were assumed to
+   come from (i) revenue to the Government from the corporate tax and Universal Service Fund Tax, both paid by
+   private operators in charge of operating the broadband and (ii) income tax paid by individuals who participated in
+   the ICT training and certification. The project costs were related to debt service costs to cover the Bank loan.
+
+   The Net Present Value (NPV) at an eight percent discount rate at project closure was US$7.1 million compared
+   to the ex-ante NPV of US$3.75 million. The ex-post NPV was greater due to (i) larger revenues from component
+   one activity due to the project's higher penetration rate from deploying wireless broadband infrastructure. This
+   would enable the private operators to generate larger profits and lead to higher corporate tax revenues to the
+   Government, and (ii) a higher number of participants in the ICT training and certification program would result in
+   a higher number of employed individuals and thus higher tax revenues. The ex-post Internal Rate of Return
+   (IRR) of the connectivity infrastructure was 81%, far exceeding the ex-ante IRR of 19%. The actual and
+
+                                                                                                                                    Page 8 of 15
+       Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+       CARCIP-Nicaragua (P155235)
+
+
+
+expected returns differed due to the lower capital expenditure (CAPEX) and larger revenues from a greater
+broadband penetration than expected at appraisal.
+
+A qualitative analysis suggested that the project would yield higher economic returns than the financial benefits.
+This was because the project would generate positive externalities including an overall improvement in the
+economic prosperity of the population that received broadband services for the first time in remote communities
+with high levels of poverty and social and economic exclusion, including two indigenous communities. The
+project's improvements in the supply of skilled labor were also expected to bring positive externalities, as
+estimates showed that for every person employed in the ICT sector, at least three new indirect jobs would be
+created in the economy. Finally, the universities acquired new methodologies (such as open innovation) that
+could be used after the project.
+
+Operational and administrative issues during implementation. Borrower contribution that was planned at
+appraisal did not materialize. This led to reallocating some portion of the Bank financing for infrastructure
+investments. As a result, some TA activities were dropped from the project scope. There were some setbacks to
+the collaboration between the public and ICT private sector in the wake of Nicaragua's socio-political crisis of
+2018. Despite these factors which were beyond the project's control, most planned activities were completed,
+with no extension of the project closing date.
+
+Overall efficiency is rated as substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                 Rate Available?            Point value (%)          *Coverage/Scope (%)
+                                                                                     90.00
+ Appraisal                                                 19.00
+                                                                                      Not Applicable
+                                                                                     90.00
+ ICR Estimate                                              81.00
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of the PDO to the Government strategy, the regional strategy, and the Bank strategy for
+Nicaragua is rated as High. Overall efficacy is rated as substantial with moderate shortcomings since there were
+shortcomings in achieving the second aspect of the PDO, including the lack of adequate monitoring of the
+regional aspect of the PDO. Efficiency is rated as substantial.
+
+Given the shortcomings in the achievement of the PDO, the overall outcome is rated as Moderately Satisfactory.
+
+
+                                                                                                     Page 9 of 15
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      CARCIP-Nicaragua (P155235)
+
+
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+Government commitment. There is a low risk to the sustainability of development outcomes. The ICR (para
+57) observed that reliable broadband connectivity and improved skilled labor remain critical to Nicaragua and
+the Caribbean region and align with their aspirations of a vibrant digital economy. The ICR notes that after
+the deployment of infrastructure, private operators have the incentives to continue operating broadband
+access. The actions taken to improve skilled labor through innovation centers will likely continue for at least
+three years after project closure as per the agreements signed by TELCOR and the
+universities. Furthermore, the innovation kits and the methodologies in the participating countries are likely to
+be used by the universities.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The Bank prepared this project based on the experiences from the previous Bank-financed regional and
+  national ICT projects (CARSIP First Phase. Central African Backbone Project, Bangladesh Leveraging
+  ICT Growth, Employment and Governance Project, and the Pacific Regional Connectivity Program). Key
+  lessons incorporated in the design included (i) improving the policy and regulatory environment for
+  facilitating PPP and (ii) tailoring the project design to the country context. The project design also ensured
+  flexibility to adapt to changes during implementation, which proved to be crucial for the successful
+  implementation of this project.
+
+  The implementation arrangements made at the appraisal were appropriate. A Project Coordination Unit
+  (PCU) created within the telecommunications and postal services regulator (TELECOR) was in charge of
+  the day-to-day management of the project. TELECOR was a well-established entity with a solid,
+  experienced Finance and Administrative team with experience implementing previous Bank-financed
+  projects (PAD, page 43). The arrangements made at appraisal for safeguards and fiduciary compliance
+  were appropriate (discussed in Section 10).
+
+  The design addressed potential risks, given that the ICT sector was new in Nicaragua before the
+  interventions. The mitigation measures were appropriate, as the risks identified at appraisal did not
+  undermine the project's performance. The arrangements made at appraisal for safeguards and fiduciary
+  compliance were appropriate (discussed in Section 10).
+
+  There were minor shortcomings. Despite coordinating with the Inter American Development Bank (IDB),
+  the Bank was unaware of the Government's decision to use IDB financing for deploying the link in the
+  northern Caribbean coast of Nicaragua. This led to a reduction in project scope (discussed in section 2).
+
+
+                                                                                                     Page 10 of 15
+     Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+     CARCIP-Nicaragua (P155235)
+
+
+
+  Also, the results framework could have been strengthened to monitor the regional aspect of the PDO
+  adequately.
+
+  Overall, the Bank performance at Quality at Entry is rated as satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ Eleven Implementation Status and Results Reports were filed over the project lifetime, implying twice a
+ year Bank supervision. The ICR (para 55) notes that the implementation support missions included an
+ adequate mix of specialists, including ICT, social development and environmental, M&E, and procurement
+ specialists. The project team restructured the project to adjust activities to changing circumstances. For
+ instance, recognizing the difficulty of mobilizing the private sector for the fiber optic rollout, the supervision
+ team restructured the project to accommodate an additional implementing agency. Likewise, the team
+ reduced the project scope once it was aware that the Government was financing an activity with IDB
+ financing. The Bank conducted a Mid-Term Review (MTR) in August 2020 to identify gaps and take
+ corrective measures. The ICR provides little information on the continuity of leadership during
+ implementation.
+
+ Overall, the quality of supervision is rated as satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The key outcome indicators were appropriate for monitoring project performance (discussed in section
+ four). TELCOR was responsible for monitoring project performance through data to be provided by telecom
+ operators on an annual basis. A survey financed under the project was to be conducted to measure the
+ satisfaction of ICT companies with the project activity of skills development and certification.
+
+ There was one shortcoming with the M&E framework. The indicators devised in the results framework
+ focused only on benefits generated in Nicaragua. The M&E was limited to the country level, as there were
+ no indicators reflecting the regional nature of the project.
+
+
+
+                                                                                                        Page 11 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     CARCIP-Nicaragua (P155235)
+
+
+
+
+b. M&E Implementation
+  The ICR (para 47) observed that most data relating to the results framework indicators was collected and
+  analyzed adequately. After the change in scope for the deployment of fiber optic infrastructure, the team
+  adjusted the number of km of fiber optic from 255 km to 115 km to reflect the new output-level scope of
+  component one activity. There was one shortcoming. The project received less data than expected
+  relating to the PDO 2 indicator that aimed to measure the ICT companies' satisfaction rate with regard to
+  the training and certification program. This was partly due to the socio-political crisis in Nicaragua.
+
+
+
+c. M&E Utilization
+  The M&E data was utilized to periodically assess the project process. Quarterly reports were held and a
+  satisfaction survey was conducted as planned. The data was used during the Mid-Term Review (MTR)
+  to identify gaps and taking corrective actions.
+
+  Overall M&E is rated as substantial with some shortcomings.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as a Category B (Partial Assessment) project under the World Bank safeguard
+   policies: Five safeguard policies were triggered at appraisal: (i) Environmental Assessment (OP/BP 4.01);
+   (ii) Natural Habitats (OP/BP 4.04); (iii) Physical Cultural Resources (OP/BP 4.11); (iv) Indigenous Peoples
+   (OP/BP 4.11) and (v) Involuntary Resettlement (OP/BP 4.12). (PAD, pages vii and viii).
+
+   Environmental Assessment, Natural Habitats and Physical Cultural Resources. These safeguards
+   were triggered given the potential environmental impact of activities relating to building infrastructure
+   (construction of fiber optic and transmission towers). For example, the construction of fiber optic could affect
+   the environment, and during excavation affect physical, cultural, or archeological sites, or cut across
+   national parks and protected areas. The adverse impacts were, however expected to be minor and
+   reversible. Since the specific locations of sub-projects were not known at appraisal, an Environmental and
+   Social Management Framework (ESMF) was prepared and publicly disclosed at appraisal to address the
+   potential impacts (PAD, page 61). The ICR (para 50) noted that the ESMF was implemented at a high
+   standard and followed the World Bank policies.
+
+   Indigenous Peoples and Involuntary Resettlement. The PAD (page 61) observed that the indigenous
+   people safeguard people was triggered due to the presence of indigenous peoples in project areas. The
+   construction of communication towers and optical fibers could potentially affect the right of way, requiring
+   people to move physically. Since specific locations were not known at appraisal, an Indigenous Peoples
+
+                                                                                                    Page 12 of 15
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     CARCIP-Nicaragua (P155235)
+
+
+
+   Planning Framework (IPPF) and Resettlement Policy Framework (RPP) were prepared and publicly
+   disclosed at appraisal (PAD, page 31). The ICR (page 50) noted that the project complied with these
+   safeguards. The Grievance Redress Mechanism (GRM) was implemented in accordance with the ESMF.
+   No complaints were received during implementation.
+
+
+
+
+b. Fiduciary Compliance
+   Financial Management. The Bank conducted a financial management assessment of TELCOR at
+   appraisal. TELCOR had a Finance and Administrative team with experience in implementing Bank-
+   financed projects. The assessment concluded that TELCOR's financial management arrangements were
+   adequate, and the financial risk was rated moderate (PAD, page 44). The ICR (para 51) noted no financial
+   management issues during implementation. The project hired an External Auditor to conduct audits. All
+   audits were unqualified.
+
+   Procurement. The Bank conducted a procurement assessment of TELCOR at appraisal. This assessment
+   concluded that the procurement risk was moderate. The ICR (para 51) noted no procurement issues during
+   implementation.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   Although unintended at appraisal, the IT/ITES certification program identified that since some indigenous
+   communities did not have access to IT/ITES knowledge due to the language barrier, the program was
+   tailored to their respective languages. This benefitted people from five ethnic groups.
+
+
+
+d. Other
+   Not applicable.
+
+
+
+11. Ratings
+                                                                               Reason for
+Ratings                        ICR                    IEG
+                                                                               Disagreements/Comment
+                                                                               There were moderate
+                                                                               shortcomings in the
+Outcome                        Satisfactory          Moderately Satisfactory
+                                                                               achievement of the second
+                                                                               objective.
+Bank Performance               Satisfactory          Satisfactory
+
+Quality of M&E                 Substantial           Substantial
+
+Quality of ICR                 ---                   Substantial
+
+                                                                                                 Page 13 of 15
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       CARCIP-Nicaragua (P155235)
+
+
+
+
+12. Lessons
+
+The ICR draws the following three main lessons from the experience of implementing this project,
+with some adaptation of language.
+
+1. A long-term engagement may be required for projects with a regional dimension. While this
+project showed progress on the ground after six years of implementation, the IT/ITES sector
+continued to face challenges in Nicaragua. While a regional approach can benefit small states, these
+engagements may require ongoing technical assistance, technical and implementation capacity
+building, and funding to continue operations for an extended length of time, particularly in countries
+with limited implementation capacities.
+
+2. A flexible approach to training courses, vendors, and schemes may increase the potential
+for success. The approach followed in this project for implementing the Training and Certification
+Program increased the coverage and impact. This was partly due to the mix of providers, local and
+international.
+
+3. Further research by the Bank can help in measuring the progress of the IT/ITES sector in
+the digital economy. This project faced challenges when measuring the progress of the IT/ITES
+sector due to the absence of IT/ITES data at the country level. The opted alternative, to measure the
+satisfaction rate expressed by the ICT companies, left out the opinion of online freelancers and
+program graduates. Further Bank research could help develop different indicators for these types of
+activities.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is clear, candid, and well-written. The theory of change articulated in the text clearly articulates the
+causal links between the project activities, outputs, and the intended outcomes. The evidence and analysis
+provided in the text are adequate for assessing project performance. The ICR draws reasonably good lessons
+from the experience of implementing this project. One minor shortcoming of the ICR is that the ICR Annex 3 on
+project cost by components is incomplete. Overall, the quality of the ICR is rated as Substantial.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                   Page 14 of 15
+Independent Evaluation Group (IEG)   Implementation Completion Report (ICR) Review
+CARCIP-Nicaragua (P155235)
+
+
+
+
+                                                                  Page 15 of 15
+

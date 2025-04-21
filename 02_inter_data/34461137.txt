@@ -1,0 +1,897 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Eastern Electricity Highway Project (P126579)
+
+
+
+                                                                                    Report Number: ICRR0024298
+
+1. Project Data
+
+
+
+ Project ID                                   Project Name
+ P126579                                      Eastern Electricity Highway Project
+
+ Country                                      Practice Area(Lead)
+ Eastern and Southern Africa                  Energy & Extractives
+
+
+ L/C/TF Number(s)                            Closing Date (Original)                Total Project Cost (USD)
+ IDA-51480,IDA-51490                         30-Jun-2019                                        500,959,006.53
+
+ Bank Approval Date                          Closing Date (Actual)
+ 12-Jul-2012                                 31-Jan-2024
+
+                                             IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                            684,000,000.00                                              0.00
+
+ Revised Commitment                             586,384,213.47                                              0.00
+
+ Actual                                         500,959,006.53                                              0.00
+
+
+
+
+ Prepared by                  Reviewed by                  ICR Review Coordinator         Group
+ Dileep M. Wagle              Peter Nigel Freeman          Avjeet Singh                   IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The original project development objective (PDO), as in the Project Information Document (2012), the ICR
+   (p.2) as well as the PAD (p.v), was “(a) to increase the volume and reduce the cost of electricity supply in
+   Kenya, and (b) to provide revenues to Ethiopia through the export of electricity from Ethiopia to Kenya”. (The
+   EEP Project Agreement, 2015, did not however provide any details of the PDO).
+
+   It should be mentioned that the project constituted the first phase of the regional integration program for
+   power systems in East Africa (APL1). The broader objectives of the Program, supporting the mission of the
+
+                                                                                                   Page 1 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Eastern Electricity Highway Project (P126579)
+
+
+
+   East Africa Power Pool (EAPP), were to help integrate the power systems of EAPP member countries
+   including Ethiopia, Kenya, Tanzania, Rwanda and Uganda.
+
+   Although the project’s indicators were modified during the final restructuring that took place in September
+   2023, the project was 92 percent disbursed by then; hence, no split evaluation will be applied in estimating
+   overall outcome since it will not have implications on the overall rating.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  28-Sep-2023
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component A1: Transmission Line (Estimated cost at appraisal: US$308.1 million; Actual cost at
+   closing: US$261.9 million). The component included design, construction and commissioning of 1,043 km
+   of bipolar 500 kV HVDC overhead transmission line to connect the power network in Ethiopia, at
+   Wolayta/Sodo substation, with the Kenya network, at the Suswa substation. A total length of 440 km of the
+   line was in Ethiopia and 612 km in Kenya. The lines were funded by AfDB and the French Development
+   Agency, AFD (Agence Française de Développement).
+
+   Component A2: Converter Substations (Estimated cost at appraisal: US$628.8 million; Actual cost at
+   closing: US$ 443.4 million). This component, financed by IDA, comprised the design, construction and
+   commissioning of one converter substation at Sodo in Ethiopia and one at Suswa in Kenya. The
+   substations were intended to convert alternating current (AC) power into direct current (DC) in Ethiopia and
+   DC power into AC in Kenya (and vice-versa, as needed).
+
+   Component A3: Environmental and Social Management (Estimated cost at appraisal: US$30 million;
+   Actual cost at closing: US$34 million). This component, financed by Ethiopian Electric Power (EEP) and
+   Kenya Electricity Transmission Company (KETRACO), provided for implementation of Environmental and
+   Social Management Plans (ESMPs), the Resettlement Policy Framework in Ethiopia and Resettlement
+   Action Plans (RAPs) in both countries.
+
+   Component A4: System Reinforcement in Kenya (Estimated cost at appraisal: US$87 million; Actual
+   cost at closing: US$39.1 million). This component, IDA and KETRACO-financed, comprised
+   reinforcement of substations and other parts of the network. This included upgrading of the Isinya
+   substation to operate at 400/220 kV, the addition of a 220/66 kV, 90 MVA transformer at Nairobi North
+   substation, and 220 kV, 200 megavolts amps reactive (MVAr) capacitors at the Athi River substation.
+
+
+
+                                                                                                   Page 2 of 17
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    Eastern Electricity Highway Project (P126579)
+
+
+
+  Component B1: Project Management and Supervision (Estimated cost at appraisal: US$45 million;
+  Actual cost at closing: US$23.6 million). The component included a supervision and management
+  consultant firm (AfDB-financed) to supervise Components A1 and A2 in both countries, a consultant firm
+  (IDA and KETRACO-financed) to supervise Component A4, short-term consultants, and operating costs for
+  KETRACO’s Project Management Unit.
+
+  Component B2: Capacity Building and Technical Assistance (Estimated cost at appraisal: US$10 million;
+  Actual cost at closing: US$20.5 million): The component – which was AfDB-financed in Ethiopia, and
+  AfDB, AFD and IDA-financed in Kenya – included planning and engineering studies, capacity building on
+  HVDC operation and maintenance (O&M), power trading, power management, procurement and financial
+  management (FM), and environmental and social management. In Ethiopia, it included an EEP cost-
+  minimization and revenue maximization study, fixed asset inventory and valuation for EEP, preparation of
+  interim financial reports (IFRs) for EEP and EEU, design and implementation of EEP’s quality management
+  system, and advisory support for tariff-setting and financial sustainability assessment.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost and Financing
+
+  The cost of the project was initially estimated at US$1,262 million, based on IDA loans of US$684 million,
+  AFD and Govt. of France (MOFA) loans of US$578.5 million, and US$106.2 million equivalent of Borrower
+  contribution. This was revised downwards to US$1,164 million on account of project cost savings. Actual
+  disbursements by project closing amounted to a further reduced total of US$826.89 million.
+
+  The project experienced significant cost savings on account of competitive procurement under Component
+  A. These savings were deployed in Ethiopia to help strengthen its transmission networks and EEP
+  corporate management. These investments included the Butajira-Worabe 132 kV transmission line and
+  substations to expand the network, purchase of 15 kV and 33 kV switchgears, optical ground wire cables,
+  protection refurbishment for 68 substations to strengthen the network and restore war-damaged sections of
+  the networks, and three-phase smart meters. In Kenya, the savings of US$96.3 million were cancelled
+  under the project and re-committed under the Kenya Green and Resilient Expansion of Energy Program
+  (GREEN 2), approved December 2023, for financing Static Synchronous Compensators (STATCOMS),
+  aimed at strengthening the Kenya network to enable transfer of higher volumes. (This equipment could
+  have been included in the project, but their design was not finalized to allow for their installation before the
+  project closed).
+
+  Borrower contribution
+
+  Borrowers' contributions (from Ethiopia and Kenya) of US$106.2 million equivalent was envisaged at
+  appraisal, as part of the project’s financing. Actual amounts disbursed by closing were much lower - at
+  US$34.9 million equivalent.
+
+  Dates
+
+
+
+
+                                                                                                     Page 3 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Eastern Electricity Highway Project (P126579)
+
+
+
+   The project was approved on July 12, 2012, becoming effective on December 5, 2013. A Mid-Term Review
+   was held on May 29, 2015. The original closing date of June 30, 2019 was extended several times for a
+   total of four-and-a half years, through seven restructurings, aimed at extending the closing date.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Regional and Sector Context
+
+Regional integration has been critical to East Africa’s transformation for greater economic
+opportunities. The region, with 270 million people, had an economic growth averaging 6 percent per annum
+between 2003-2008, and 5 percent between 2009-2010. However, since all countries in the region were
+low-income at the time, with per capita incomes of less than US$1,000, indicating that a still higher rate of
+growth was essential to achieve a substantial reduction of poverty. Since the high cost of infrastructure,
+especially in smaller countries, had been a barrier to development, the World Bank’s strategy for Africa
+(2011) had emphasized a regional approach to infrastructure development, thereby lowering capital and
+operational costs for smaller countries, and providing greater access to more efficient technologies and
+scale economies.
+
+East Africa had huge energy resources but these were concentrated in a relatively small number of
+countries, with Ethiopia and the Democratic Republic of Congo (DRC) together accounting for over 60
+percent of Sub-Saharan Africa’s hydropower potential. Despite energy abundance at the regional level,
+East African countries had the lowest rates of household electricity access and per capita electricity
+consumption. Against this background, regional integration provided the best way forward to enable large-
+scale development of the region’s cost-effective and clean energy sources.
+
+In principle, the economic benefits of integration in East Africa outweighed political concerns about reliance
+on power imports from neighboring countries. Importing low-cost electricity from neighbors made
+considerable economic sense for countries facing shortages in supply and load shedding, such as Burundi,
+Kenya, Rwanda, Tanzania and Uganda, and especially for those depending heavily upon imported
+petroleum for power generation (e.g. Djibouti and Sudan). Exports would, at the same time, provide
+energy-rich countries with the opportunity to monetize their surplus capacity; the hard-currency revenues
+resulting helping them achieve a better macro-economic balance.
+
+Power trade favored the introduction of more efficient institutional models in the electricity sectors of
+participating countries. Countries entering into trade would have to advance institutional and regulatory
+capacity development of their respective electricity sectors to achieve financial sustainability. The necessity
+of adopting commercial practices would complement on-going reforms in these sectors. Regional
+integration would also require strong interaction between energy sector institutions across borders, leading
+to valuable transfer of knowledge and practices.
+
+For Kenya, by the time of appraisal in 2012, it was apparent that an interconnector to transfer power
+between Ethiopia and Kenya and other neighboring countries would, by making available low-cost power
+supply from Ethiopia, have a transformative effect on the Eastern Africa region. This was consistent with the
+approach advocated by the New Partnership for Africa’s Development (NEPAD), adopted by Heads of
+
+                                                                                                     Page 4 of 17
+                       Independent Evaluation Group (IEG)              Implementation Completion Report (ICR) Review
+                       Eastern Electricity Highway Project (P126579)
+
+
+
+State in Lusaka in 2001 to enhance East Africa’s growth and participation in the global economy. NEPAD
+anchored the Eastern Africa Power Pool (EAPP) that was created in 2005 and adopted by the Common
+Market for Eastern and Southern Africa (COMESA) as the institution for coordinating regional power system
+integration. The Kenya-Ethiopia interconnector had a strategic importance, as it was considered to be the
+lynchpin on which all other projects identified in the EAPP Master Plan would depend, and – if implemented
+successfully – could unlock a fully integrated power market in east Africa. Its commercial viability was
+confirmed with a 25-year power purchase agreement (PPA), and simulations determined – based on
+electricity revenue projections for Ethiopia and power supply cost savings for Kenya - that it would be viable
+on its own, even if other countries were not connected to it. The interconnector was also a critical first part
+of the backbone of the Eastern Africa Electricity Highway, running from Egypt to South Africa.
+
+Against this background, the APL Program as a whole (of which the project was the first phase) supported
+the integration of power system of five countries (Kenya, Tanzania, Ethiopia, Uganda and Rwanda) with a
+combined population of 212 million and GDP of US$107 billion. The EAPP Master Plan designated the
+transmission interconnections among these countries as priorities for the development of the East African
+power market. These interconnections would create the transmission backbone for the region, with Kenya
+as the central node, and Ethiopia initially supplying much of the electricity traded in this network. Over the
+longer term, once the planned Tanzania-Zambia interconnection was built, the EAPP power systems would
+be linked to the South African Power Pool.
+
+Alignment with Country Strategies
+
+The Project’s development objectives were consistent with those of the World Bank Group (WBG)’s Africa
+Regional Strategy (2011), which included improving critical infrastructure services, especially cross-border,
+so as to increase household electrification rates by supporting construction/rehabilitation of additional
+transmission lines, interconnection of national grids and creating additional power generation capacity. The
+project was similarly consistent with the Africa Regional Integration and Cooperation Assistance Strategy
+(2018), Pillar 1 of which focused on Regional Connectivity, including Energy Access and Markets, placing
+priority on expansion of regional energy transmission networks, increasing power trade between
+neighboring countries and via regional power pools. The Kenya Country Partnership Framework (2023-
+2028) included a significant increase in the number of electricity grid and off-grid connections in its priority
+objectives, to be achieved through the then-ongoing Eastern Electricity Highway project and two other
+operations. Similarly, under Objective 1.2 of the Ethiopia Country Partnership Framework (CPF) for 2018-
+2022, the Government of Ethiopia was focused on leveraging the electricity sector for economic
+growth. Under this Objective, increasing access to reliable energy supply was prioritized, with support to
+the export of geothermal energy to neighboring regional markets and increasing power sector revenues as
+one of the World Bank’s priorities in this regard.
+
+Based on the above, Relevance is rated High.
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+High
+
+
+4. Achievement of Objectives (Efficacy)
+
+
+                                                                                                      Page 5 of 17
+                  Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                  Eastern Electricity Highway Project (P126579)
+
+
+
+EFFICACY_TBL
+
+
+
+
+               OBJECTIVE 1
+               Objective
+               “To increase the volume and reduce the cost of electricity supply in Kenya”
+
+               Rationale
+               Theory of Change (TOC)
+
+               The design of the operation was fairly straightforward. Key activities included the construction of a 1,043 km-
+               long transmission line between Ethiopia and Kenya, coupled with converter substations in both countries,
+               system reinforcement in Kenya and capacity building/technical assistance to project management units in
+               both countries. Causal linkages between the project’s activities and planned outcomes were fairly
+               straightforward. The activities were expected to lead directly to the expected outcomes of increased volumes
+               of electricity exported from Ethiopia to Kenya, while enabling regional trade with third-party countries, cost
+               savings to Kenya on electricity imported from Ethiopia, and correspondingly, to increased revenues to
+               Ethiopia from these exports. Finally, to improved flexibility and stability of Kenya’s electricity network.
+
+               Indicators used to measure the achievement of objectives were similarly straightforward. Achievement of
+               project outcomes for PDO1 was measured by indicators measuring the amount of electricity exported from
+               Ethiopia to Kenya each year (GWh) and savings to Kenya on electricity supply costs (US$/kWh). For PDO2,
+               it was measured in terms of revenues to Ethiopia from these electricity exports (US$/year). The project also
+               had a core outcome indicator: namely, the number of indirect project beneficiaries in Kenya, measured by the
+               number of people in Kenya with an electricity connection provided by the Kenya Power & Lighting Company
+               (KPLC).
+
+               Key assumptions underlying the TOC (provided subsequently by the team) included the following: (a) that a
+               legally binding power purchase agreement (PPA) would be negotiated between EEP and KPLC, that would
+               be endorsed by the governments of Ethiopia and Kenya, (b) the negotiated price in the PPA would be
+               appreciably less than the average cost of generation in Kenya, (c) that neighboring countries subsequently
+               would sign PPAs with Ethiopia that would utilize the interconnector for the purchase of power, and (d)
+               complementary network investments (including cross-border lines) would be completed, removing any
+               physical constraints to wheeling power.
+
+               The financial benefits of imports to Kenya in displacing more expensive generation lay in a reduction in the
+               tariff burden on electricity customers, while revenues to Ethiopia from electricity exports underpinned the
+               development of the country’s hydropower assets. The project was the first phase of the Adjustable Program
+               Loan (APL), mentioned in Section 3 earlier, which identified a number of priority investments to realize the
+               EAPP, including the Kenya-Tanzania double-circuit 400 kV line in Phase 2 of the Program and the Tanzania-
+               Rwanda and Tanzania-Uganda 200 kV lines in Phase 3. As the lynchpin project of the EAPP, the Kenya-
+               Ethiopia interconnector would make available lower-cost electricity to countries in the Pool, thereby
+               supporting their electricity access goals. Although countries in the Pool may have had abundant renewable
+               energy resources, they faced high capital costs in developing their power systems. Electricity trade allowed
+               importing countries to offset large lumpy investments in domestic generation, reducing capital costs and
+               easing the fiscal burden of power sector development.
+
+
+
+
+                                                                                                                 Page 6 of 17
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   Eastern Electricity Highway Project (P126579)
+
+
+
+Outputs
+
+- Construction of the Sodo converter station was completed in April, 2020, and the Suswa converter station in
+January, 2021 – fully achieving the target.
+
+- Interconnector availability of 99.89 percent was achieved by closing (target was 99 percent).
+
+- 1043 km of transmission lines were constructed under the project by closing (target was 1000 km). The
+High Voltage Direct Current (HVDC) transmission interconnection between Ethiopia and Kenya was
+completed in monopolar mode in December 2022, and partial operational acceptance issued, allowing
+electricity exports to commence. Full operational acceptance was expected in August 2024 (after the ICR
+was prepared).
+
+- Commissioning and operational acceptance of the system reinforcement under Component A4 (Isinya,
+Kimuka and Nairobi North substations) were achieved on different dates in 2021. Three substations were
+successfully reinforced, against a target of 2. These reinforcements were intended to enable operation of the
+Nairobi Ring and the Nairobi-Mombasa line at 400 kV, thereby ensuring greater stability of the network in
+Kenya.
+
+- Under Project Management and Capacity Building, the appointment of a supervision consultant took place
+on schedule, by project closing. In addition, 121 KETRACO staff underwent training during this period (target:
+150) and 210 staff benefited from knowledge transfer (target: 200) by January 2024.
+
+Outcomes
+
+Achievement of the objective of increasing the volume and reducing cost of electricity supply in Kenya was
+measured by two indicators; (a) the amount of electricity exported from Ethiopia to Kenya each year, and (b)
+the savings to Kenya on electricity supply costs. In addition, a third indicator measuring the number of project
+beneficiaries – namely all KPLC residential consumers (comprising all household members) - was included.
+
+(a) Based on the PPA signed in 2012, the target value of the amount of electricity exported from Ethiopia to
+Kenya per year was 2,978 GWh, three years after commissioning (in FY20, per the original schedule). Actual
+achievement was 1,008 GWh in FY24 (the first complete year of exports after commissioning), with transfers
+on the line being restricted to 200 MW (equivalent to 1,445 GWh) until after installation of STATCOMS at
+Raba and Suswa substations in mid-2026. Thereafter, 400 MW of transfer would become possible (consistent
+with revised PPA terms). On the basis, exports were projected to reach 2,467 GWh/year in FY27, five years
+after commissioning, and 2,889 GWh/year by FY30.
+
+(b) The savings to Kenya on electricity supply costs were estimated on the basis of the difference in cost of
+electricity supply in the country, with and without imports (i.e. had the interconnector not been built), times the
+amount of electricity imported from Ethiopia. The value of the indicator is calculated by applying a ratio of
+US$0.013 (see ICR, para 29) to the volume of exports – which indicates estimated savings to Kenya of
+US$15.6 million by January 2024, increasing to US$32 million by FY27 (or 5 years after commissioning of the
+interconnector).
+
+(c) Kenya carried out an ambitious campaign to add a million new connections per year between 2015 and
+2019. This resulted in a more-than-doubling of KPLC’s residential customers by project closing. As such,
+beneficiaries of lower-cost imports from Ethiopia reached over 8.6 million residential customers by June 2023,
+
+                                                                                                     Page 7 of 17
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Eastern Electricity Highway Project (P126579)
+
+
+
+equivalent (on an average household size of 5 persons per household) to an aggregate number of some 43
+million beneficiaries. This was well in excess of the target of 15.7 million beneficiaries (from a baseline of
+13.9 million).
+
+In terms of overall efficacy of PDO1, the objective was mostly achieved. The successful construction of the
+transmission line was a significant achievement with a potential transformative impact on the
+region. However, the timetable for exports to ramp up became stretched on account of delays arising for a
+variety of reasons – such as challenges (including court injunctions) to land acquisition for the transmission
+line, along with compensation to project-affected persons (PAPs) in Kenya, and the impact of Covid-19
+restrictions, which affected contractors and the pace of construction. Taking this into account, efficacy of this
+objective is rated Substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+“To provide revenues to Ethiopia through the export of electricity from Ethiopia to Kenya”
+
+Rationale
+The Theory of Change for PDO1 was the same as for PDO1. The objective of increasing revenues to
+Ethiopia via the sale of electricity to Kenya was directly correlated to the objective of increasing the volume of
+electricity supplied to Kenya from these exports. The relevant outcome indicators assigned to this objective
+were (a) the volume of electricity exported from Ethiopia (in GWh), and (b) the quantum of revenues accruing
+to Ethiopia on account of its exports to Kenya.
+
+Outputs
+
+Outputs for PDO1 were equally applicable to PDO2.
+
+Outcomes
+
+Achievement of outcomes was as follows: (a) The volume of electricity exported from Ethiopia reached 1,203
+GWh by FY25 (projected), against a target of 732 GWh. As mentioned earlier – under PDO1, these exports
+were projected to reach 2,467 Gwh by FY27. (b) Revenues to Ethiopia (estimated by applying the price
+defined in the PPA) to the volume of exports) reached US$78 million by January 2024, against a target of
+US$$47.5 million, and were projected to reach US$161 million by FY27 (i.e. five years after commissioning
+the interconnector).
+
+Based on the above, efficacy for this objective is rated Substantial.
+
+
+
+Rating
+Substantial
+
+                                                                                                    Page 8 of 17
+                                Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+                                Eastern Electricity Highway Project (P126579)
+
+
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project contributed substantially to the achievement of the development objectives by helping to increase
+                            the volume of electric power availability, at lower cost, in Kenya, whilst providing enhanced revenues to
+                            Ethiopia, which was exporting this power. Though the ramp-up in power delivery and export was slower than
+                            planned for (five years versus three), it should be borne in mind that the project is expected to contribute to
+                            Kenya’s power needs for the next 30 years or so. From that perspective, it is likely to have a transformative
+                            impact through improved energy security utilizing renewable electricity generation. From a longer-term
+                            perspective, both Kenya and Ethiopia have been able to strengthen their transmission networks, improving
+                            service reliability, and their transmission system operations.
+
+                            Based on this, the project’s overall efficacy is rated Substantial.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+   5. Efficiency
+   Economic Efficiency
+
+   Economic evaluation was conducted at both appraisal and at project closing (by the ICR). Since the benefits
+   (revenue to Ethiopia and cost-savings to Kenya) moved in lockstep with the volume of exports to Kenya, the
+   economic internal rates of return (EIRR) and net present value (NPV) estimates were directly proportional to
+   exports.
+
+   On this basis, the ex-ante EIRR was estimated at an average of 24.1percent (21.8 percent for Ethiopia and 25.5
+   percent for Kenya), with an NPV of US$1,059 million (the sum of US$320 million for Ethiopia and US$739
+   million for Kenya). Competitive bids for the construction of the converter station and transmission line lots
+   resulted in a cost savings of about 20 percent relative to appraisal estimates, resulting in a lower investment
+   cost, which should have boosted its economic return. Notwithstanding this, the EIRR at project closing was
+   estimated at a much lower 13.3 percent (average of 11.1 percent for Ethiopia and 14.1 percent for Kenya), and
+   the NPV at a similarly lower US$68 million ( -US$16 million for Ethiopia and US$84 million for Kenya), mostly on
+   account of significant delays impacting the construction and acceptance of the facilities, offsetting the reduction
+   in costs.
+
+   Operational/Administrative Efficiency
+
+   The construction and acceptance of the facilities took approximately an additional five years compared to the
+   original implementation schedule, necessitating multiple restructurings to extend the project’s closing date by a
+   cumulative 4.5 years. According to the ICR (Annex 7, p.38, para 3), the original project schedule was over-
+   optimistic on two key counts: the length of time it would take to identify and compensate PAPs in Kenya, and the
+
+                                                                                                                                Page 9 of 17
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      Eastern Electricity Highway Project (P126579)
+
+
+
+amount of time needed to finalize the bidding documents and procure contractors for the main contract. There
+were additional constraints that arose, unanticipated. These included constraints in the high voltage
+transmission network which affected the design configuration of the converter station in Suswa and its ability
+and capacity to safely manage the quantity of imports (ICR, p.39, para 5), challenges to land acquisition for the
+transmission line, KETRACO’s delay in settling invoices, and vandalism of ground electrode and theft of copper,
+including insulator and conductors, all of which had to be replaced and changes made to the configuration of the
+towers to better protect them against repeat attempts. All of this had a negative impact on the project’s
+administrative and operational efficiency.
+
+Taking account of the sub-par performance of both economic and operational & administrative efficiency, the
+project’s overall efficiency is rated Modest.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?            Point value (%)           *Coverage/Scope (%)
+                                                                                     0
+ Appraisal                                                 24.10
+                                                                                      Not Applicable
+                                                                                     0
+ ICR Estimate                                              13.30
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project’s development objectives were highly relevant not only to the electricity sectors of Ethiopia and
+Kenya, but also to the development of the EAPP. The project successfully laid the foundation for development
+of the other transmission infrastructure projects that will enable power trade in the EAPP, and in the long run to
+the potential integration of the EAPP and SAPP (Southern African Power Pool). The project’s efficacy was
+rated Substantial because the ramp-up in power delivery and export fell significantly behind schedule, delaying
+the benefits of the investments. Project efficiency was rated Modest for economic, as well as administrative &
+operational, efficiency. As such, project’s Overall Outcome is rated Moderately Satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+
+                                                                                                    Page 10 of 17
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      Eastern Electricity Highway Project (P126579)
+
+
+
+The overall risk of the project was underpinned by the sustainability of the PPA – the 25-year tripartite
+agreement signed in July 2022, between EEP, KETRACO and KPLC, and later approved by regulators in
+both countries. The PPA stipulated the maximum daily power transfer for the first seven years (to be
+renegotiated by the concerned parties for the subsequent phase). It was complemented by a legal
+agreement on system operations, a technical agreement on operational guidelines, and an administrative
+agreement on coordination and management. KPLC, in Kenya, has had an excellent record for honoring
+PPAs, and the Government has always supported it. From this perspective, the sustainability risk is
+low. However, it will be essential for high-level leadership in both countries to continue to be committed to
+meeting whatever challenges may arise in the future regarding the challenges that may arise over the long-
+term operation of the line.
+
+Other, technical, risks, which – on the face of it appear to be manageable – include (a) the need to establish
+O&M protocols (ancillary to the PPA); (b) the need to sustain the training of engineers manning the facility on
+O&M, given the specialized nature of the plant. This would include the need to continue exchange visits by
+staff of EEP and KETRACO, and cooperation program between KETRACO and PowerGrid of India; (c) the
+need for both utilities to allocate adequate resources for inspection and maintenance of the line – especially
+in remote areas where theft and vandalism had been issues; (d) installation of STATCOMS at Rabai and
+Suswa will be critical for operation of the line after 2025. Kenya will be exposed to payment of compensation
+to Ethiopia if the Kenyan system is unable to offtake 400 MW in November 2025.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  According to the ICR (p.17), the World Bank’s approach to the design of the operation recognized that
+  the construction of an interconnector entailed both high risks and high rewards in terms of transformative
+  impact on the region. The project’s PDOs reflected the priorities of the EAPP development as well as the
+  key strategies for development of the sector in the two countries. Social and environmental risks were
+  analyzed in the PAD, along with technical, financial and economic aspects. Required safeguards
+  documents were prepared and disclosed prior to commencement of the project. The project’s
+  procurement strategy for the engineering, procurement and construction (EPC) contracts took into
+  account the need to ensure competition, while setting clear technical and financial eligibility requirements
+  for potential bidders. As indicated earlier, this did result in significant savings of IDA proceeds, which
+  could be deployed for acquisition of additional transmission equipment in Ethiopia.
+
+  One shortcoming arising was that the project timeline prepared at appraisal underestimated the time
+  required for construction. This included the time involved in providing compensation to PAPs and for
+  ramping up exports, post-construction. This underestimation led to in the multiple restructurings that
+  followed and the need to extend the project’s closing date by several years. The project’s implementation
+  arrangements relied on the PIUs housed within the two utilities. However, the PIUs were dependent on
+  allocation of funds in annual government budget cycles – which were often less than adequate. To
+  provide a degree of independence, the project design could usefully have explored better alternatives; for
+  instance, the use of a two-country Special Purpose Vehicle (given that the Interconnector was revenue
+  generating), which utilized a portion of the revenues generated.
+
+
+
+                                                                                                    Page 11 of 17
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     Eastern Electricity Highway Project (P126579)
+
+
+
+  Overall, the project’s quality at entry is rated Satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The project was adequately supervised, the Bank team undertaking 20 supervision missions over the
+ nearly 11-year implementation period. According to the ICR (pg.18), the Bank team was proactive in
+ addressing challenges to achievement of the project’s development objectives. The team was prompt in
+ identifying and effectively dealing with issues as they emerged (e.g. land acquisition issues, challenges to
+ KETRACO in dealing with grievances and delays in budget made available by the Kenya National
+ Treasury). The Bank team also carried out intensive supervision of RAP and ESMP implementation, and
+ developed excellent working arrangements with the other co-financiers. Since the Bank was the lead
+ agency in implementing this large project, it undertook to ensure consensus with AfDB and AFD, who were
+ financing discrete components of the operation, conducting joint implementation support missions and
+ agreed-on findings, reported back via joint aide memoires (information provided subsequently by the team).
+
+ Based on this, quality of supervision is rated Satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The Monitoring and Evaluation (M&E) plan for tracking the achievement of outcome and intermediate
+ indicators was largely in keeping with standard World Bank practice. PDO outcome indicators were to a
+ large extent dependent upon the successful and timely construction of the facilities, as well as an active
+ PPA, but also by external factors such as electricity demand in Kenya (which had actually decelerated and
+ had an impact on the quantum of imports it could offtake). That said, outcome indicators remained valid as
+ they reflected the stated objectives and the causal links were direct between project outputs (construction
+ of facilities) and achievement of outcomes.
+
+
+
+b. M&E Implementation
+  The ICR indicates (para 60) that M&E reporting was negatively affected by the withdrawal of the
+  Supervising Consultant during the Covid-19 pandemic period, but that KETRACO was able to take over
+
+                                                                                                 Page 12 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Eastern Electricity Highway Project (P126579)
+
+
+
+  that role adequately. However, the ICR is silent on such issues as the extent to which indicators in the
+  results framework were actually measured and reported, whether the data were of reliable and of good
+  quality, and whether M&E functions and processes were likely to be sustained after project closing.
+
+
+
+c. M&E Utilization
+  According to the ICR (para 61), project-generated data, tracking the progress of works across various
+  contracts, was more than sufficient to keep stakeholders, including financiers, up-to-date on the
+  challenges encountered. However, financiers themselves did note that there was little coordination and
+  information exchange between the EEP and KETRACO project implementation units (PIUs), who were
+  hence not always abreast of each other’s challenges.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The ICR did not clarify the project’s environmental & safeguards rating. However, as per the PAD, it is
+   noted that the project was classified as Category A – Full Assessment, due to “potentially significant
+   environmental and social impacts”. The following safeguards were triggered under the Bank’s Safeguards
+   Policy: OP/BP 4.01 (Environmental Assessment), OP/BP 4.04 (Natural Habitats), OP/BP 4.10 (Indigenous
+   Peoples), OP/BP 4.11 (Physical Cultural Resources), OP/BP 4.12 (Involuntary Resettlement). Their
+   application and impact varied for the two countries.
+
+   As such, in Ethiopia, an Environmental and Social Management Assessment (ESIA) and a Resettlement
+   Action Plan (RAP) were prepared in 2012, at inception. These were updated and prepared to include the
+   convertor station and Ground Electrode + High Voltage Transmission Line (TML) in 2016. These also
+   identified E&S risks and impacts of the project. All E&S instruments were disclosed at EEP’s website and
+   the World Bank’s Info Shop/External Website. Supervision by the co-financiers identified shortcomings in
+   good industry practices and safeguards requirements at some of the workers’ camps, which needed to be
+   addressed by the contractor in 2017. Additionally, theft of materials posed a safety concern. Remedial
+   actions included heightened surveillance and a change in design of the towers to include a barrier to deter
+   thieves from climbing the towers.
+
+   As regards compliance with RAP implementation in Ethiopia, the project paid compensation for loss of
+   assets and property at full replacement cost and effectuated prior to commencement of the construction
+   activities. Project-affected persons (PAPs) were adequately consulted and informed about the potential
+   adverse impacts of the project, available options, mitigation measures and their rights to receive
+   compensation. The construction and commissioning of the Livestock Feed Processing Plant (LFPP), though
+   delayed, was eventually completed and PAPs were organizing themselves into cooperatives to manage the
+   scheme, which would benefit about 200 families who lost their communal grazing land to the project.
+
+
+
+
+                                                                                                  Page 13 of 17
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    Eastern Electricity Highway Project (P126579)
+
+
+
+  Regarding Kenya, compliance in Kenya, a total of 2,638 PAPs were affected there, 983 of which had their
+  structures identified for compensation. Some 2,313 had their crops or trees damaged. The compensation
+  process did not go smoothly, encountering many challenges, including slow and inadequate provision of
+  budget by the National Treasury to KETRACO for compensation. The process was complicated by difficulty
+  in locating and contacting PAPs and confirming ownership through searches in the lands department. In
+  2017, due to encroachment on some sections, about 85 km of the line had to be rerouted. Other problems
+  included unclear modality for compensation for community-owned land (held in trust for the respective
+  communities by county governments). Indigenous Peoples (OP 4.10) were encountered in one of the lots
+  and provided with in-kind compensation through which community sub-projects of their choice were
+  constructed. Although the project triggered Natural Habitats (OP 4.04) and Physical Cultural Resources
+  (OP 4.11), they were not encountered during implementation.
+
+
+
+
+b. Fiduciary Compliance
+  The ICR reports (para 69) that – as regards financial management (FM) in Kenya – project audit reports
+  were submitted on timely basis. Audit opinions on financial statements were unqualified over the project’s
+  life and the Management Letter did not identify internal control weaknesses. The quality and timeliness of
+  quarterly IFRs however did fluctuate on account of changes in staffing and system updates. Further,
+  oversight by EEP’s internal audit team was less than adequate and delays were experienced in utilizing
+  funds advanced to the project’s designated account (DA), as a result of which the DA remained inactive
+  over the last two years of project implementation – leaving an undocumented DA balance which would be
+  refunded to IDA.
+
+  The Bank team did follow up on entity FM issues during implementation, supporting EEP in improving its in
+  improving its FM arrangements in terms of adoption of IFRs, asset valuations, installation of smart meters,
+  etc. EEP was able to take steps to clear its entity audit backlog, address audit findings and internal control
+  weaknesses identified, and obtain clean audit opinion on its entity financial statements for the past five
+  years. Overall FM performance has been rated Moderately Satisfactory since FY20.
+
+  The ICR also reports (para 70) that – as regards Ethiopia – the project’s annual reports were submitted on
+  timely basis, with unqualified audit opinions on its financial statements over the project life. The
+  Management Letter did not contain any internal control weaknesses. As in Kenya, the quality and
+  timeliness of quarterly IFRs did suffer fluctuations due to changes in staffing and system updates. Also,
+  oversight by the internal audit team of EEP was similarly less than adequate, with delays occurring in
+  utilization of funds advanced to the project DA, resulting in an undocumented DA balance at project
+  closing, which would be refunded back to IDA. The Bank team’s response was similar to that in Kenya,
+  assisting EEP to clear its entity audit backlog and other steps. Overall FM performance was similarly rated
+  Moderately Satisfactory since FY20.
+
+  The project’s procurement performance was assessed by the ICR (para 68) as Moderately Satisfactory,
+  reflecting overall compliance with procurement procedures and arrangements. However, it is noted that
+  over the project cycle staff capacity limitations, institutional weaknesses and contract management
+  challenges results in contract time overruns, delayed payments to contractors and service providers,
+  leading to significant implementation delays. The Bank team provided continuous advice and guidance to
+  the implementing agencies on procurement issues, reviewing procurement plans and recommending
+
+
+                                                                                                   Page 14 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Eastern Electricity Highway Project (P126579)
+
+
+
+   actions to improve procurement processes, governance, decision-making and institutional strengthening of
+   the PIUs.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   The OPGW (Optical Ground Wire), which combined grounding (including protection from lightning strikes)
+   and communications features, has generated additional revenues for EEP and KETRACO from telecom
+   companies that had contracted capacity (ICR, para 50).
+
+
+
+d. Other
+   Though the project did not have any specific gender-focused interventions, the ICR notes (para 46) that
+   KETRACO is implementing gender equality work plans, and EEP is also addressing gender disparity issues
+   through complementary energy projects.
+
+
+
+11. Ratings
+                                                                               Reason for
+Ratings                          ICR                  IEG
+                                                                               Disagreements/Comment
+Outcome                          Satisfactory        Moderately Satisfactory   Efficiency is rated Modest
+
+Bank Performance                 Satisfactory        Satisfactory
+
+Quality of M&E                   Substantial         Substantial
+
+Quality of ICR                   ---                 Modest
+
+
+12. Lessons
+
+IEG derives the following lessons from the ICR:
+
+1. In a complex cross-border project, sequencing of construction contracts calls for close
+oversight: As demonstrated by the project, sequencing the completion of construction contracts in
+parallel and co-dependent on each other proved to be hugely challenging, making the role of an
+oversight body critical. Despite the project having elaborate arrangements for project oversight,
+including a Joint Project Coordination Unit, a Joint Steering Committee and a Joint Ministerial
+Commission, the arrangements were never fully realized. In practice, pressing issues that surfaced
+during the co-financiers’ implementation support missions requiring higher-level interventions were
+brought piecemeal to the utility CEOs and relevant ministers by them, and not fully resolved. Going
+forward, it will be important to ensure that participant countries trading power on the interconnector
+establish problem-solving arrangements at the appropriate levels when the co-financiers have ended
+their implementation support.
+
+
+                                                                                                  Page 15 of 17
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       Eastern Electricity Highway Project (P126579)
+
+
+
+2. In infrastructure projects involving land acquisition with large numbers of PAPs, it is
+prudent to delay the launch of bidding on construction contracts until PAPs have assented to
+the wayleave and/or payment of compensation for PAPs has commenced: The project
+experienced several years of delay in identifying and seeking the assent of PAPs in Kenya, which
+led to multiple collateral impacts. Works projects already completed were vandalized, and
+contractors had to be remobilized to remedy the damage. An inadequate budget provided by the
+Government to KETRACO led to delayed compensation payments to PAPs and late payments to
+contractors, prompting more contractor claims, and the cycle continued. Contractors making bids on
+such projects typically factor in the likelihood of delays based on the experience of past projects, so
+bids might not be as competitive as they might otherwise have been.
+
+3. For a complex project involving two or more countries, use of a special purpose vehicle
+(SPV) can offer advantages over reliance on PIUs: The project showed that PIUs in both
+countries were dependent upon allocation of funds (which were sometimes inadequate) in the
+annual government budget cycles. The Kenya-Ethiopia interconnector was however revenue-
+generating, and an SPV structure would have enabled a portion of the revenue to be retained and
+utilized for managing consultants, paying compensation to PAPs and financing training courses and
+other activities. This would have allowed the supervision of construction and mobilization of
+technical consultancy resources to have been handled more effectively than arrangements that
+relied upon PIUs housed within the two utilities.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is generally well written, concise and internally consistent. Useful information is provided and
+discussed on the activities and implementation of the project, as well as the efficacy of its objectives and
+environmental and fiduciary compliance. However, there are also some shortcomings: For instance, the theory
+of change, which is presented diagrammatically, could usefully have provided some detail on the causal
+linkages and the critical assumptions underpinning the success of the interventions. The discussion on
+relevance of project objectives would similarly have benefited from more specificity on the consistency of
+project objectives with the country and regional strategies of the World Bank Group. The analysis of project
+efficiency would have benefited from inclusion of a discussion on operational & administrative efficiency, as the
+overall analysis significantly underplayed the impact of the project’s delays. Finally, the analysis of the M&E
+framework provided little information on M&E implementation, including on the extent to which indicators in the
+results framework were actually measured and reported.
+
+
+
+  a. Quality of ICR Rating
+       Modest
+
+
+
+                                                                                                   Page 16 of 17
+Independent Evaluation Group (IEG)              Implementation Completion Report (ICR) Review
+Eastern Electricity Highway Project (P126579)
+
+
+
+
+                                                                             Page 17 of 17
+

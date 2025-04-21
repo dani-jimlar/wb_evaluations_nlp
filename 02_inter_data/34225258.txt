@@ -1,0 +1,1465 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Economic Management Strengthening (P152171)
+
+
+
+                                                                                 Report Number: ICRR0023457
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P152171                                   Economic Management Strengthening
+
+ Country                                   Practice Area(Lead)
+ Ghana                                     Governance
+
+
+ L/C/TF Number(s)                          Closing Date (Original)                Total Project Cost (USD)
+ IDA-58960                                 31-Mar-2020                                          15,027,283.71
+
+ Bank Approval Date                        Closing Date (Actual)
+ 30-Aug-2016                               30-Jun-2022
+
+                                           IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                           15,000,000.00                                               0.00
+
+ Revised Commitment                            15,000,000.00                                               0.00
+
+ Actual                                        15,027,283.71                                               0.00
+
+
+
+
+ Prepared by                 Reviewed by                 ICR Review Coordinator          Group
+ Marwane Zouaidi             Vandana Chandra             Donna Kaidou Jeffrey            IEGEC (Unit 1)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objective (PDO) for the Ghana Economic management Strengthening project (the
+   operation) was stated in the Project Appraisal Document (PAD) (p.5) and the Financing Agreements "to
+   strengthen the Government of Ghana’s institutional capacity for revenue and expenditure management."
+
+   For this ICR Review the PDO will be parsed into four objectives as follows:
+
+           Objective 1: Strengthening the Ghana Revenue Authority (GRA);
+
+                                                                                                  Page 1 of 27
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Economic Management Strengthening (P152171)
+
+
+
+         Objective 2: Strengthening Debt Management;
+         Objective 3: Strengthening Capacity in Public Investment Management; and
+         Objective 4: Improving the Governance of State-Owned Enterprises (SOEs).
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project contained five components which sought to improve the taxpayer database and enhance
+   capacity for the management of public debt, public investments, and SOEs. The project was extended by a
+   total of 27 months. The first no-cost restructuring in March 2020 was due to severe delays emanating from
+   a Presidential election and a change in administration in 2017, which affected the start of the project to late
+   2017. The second restructuring in March 2022 extended the project for another 3 months due in part to the
+   impacts of the COVID-19 pandemic on implementation and to allow the GRA to fully implement the data
+   warehouse (DW). The restructurings did not impact the original theory of change or the components, but
+   project objective (PDO) number one indicator was adjusted during the first restructuring and target dates for
+   all PDO indicators extended in the second restructuring.
+
+   Component 1: Strengthening Ghana Revenue Authority’s (GRA) Business Intelligence (BI) System
+   (Appraisal: US$4.0 million). This component sought to improve compliance, integrate income assessment
+   regardless of source and location, simplify tax administration processes and align with international tax rules
+   (pg. 7, PAD).
+
+   An enhanced BI system equipped with the data warehouse (DW) was expected to facilitate the integration
+   of data and analytical reporting that would allow for the extraction and pooling of data from multiple
+   underlying source systems to integrate the taxpayer information for both individuals and firms. The
+   implementation of Common Reporting Standards (CRS) and Foreign Account Tax Compliance Act (FATCA)
+   Software would further strengthen the ability of the GRA to receive, collate, store, and transmit domestic tax
+   information of foreign citizens holding assets in Ghana, through automatic data exchange mechanisms.
+   Together, these systems would enhance tax revenue mobilization and voluntary tax compliance while
+   promoting GRAs alignment with international tax regimes.
+
+   Subcomponent 1.1: Financing improvements in the BI System (US$3.2 million). This sub-component
+   financed consulting services to develop the functional and technical requirements for the BI tool. It also
+   included project management support to assist with the hiring of the DW/BI implementation partner. Other
+   support, through non-consulting services was for the supply and installation of hardware and software,
+   training, and technical support for a commercial off-the-shelf (COTS) BI and DW tool. Services were also
+   provided for the development and implementation of a business continuity plan (BCP), as well as training to
+   improve DW data quality and the oversight function within the GRA (pg. 7, PAD).
+
+   Once implemented the DW, toolset would facilitate the extraction and pooling of data from multiple
+   underlying source systems and integrate the taxpayer information, both individuals and firms, into analytical
+   reports. This component covered only the first phase of integrating tax revenue—Total Revenue Integrated
+
+                                                                                                     Page 2 of 27
+  Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+  Economic Management Strengthening (P152171)
+
+
+
+Processing System (TRIPS) with customs information (Ghana Customs Management System (GCMS)) —
+through the DW. It was expected that having built this platform, there would be potential for further
+integration with third-party systems to further strengthen information-sharing.
+
+Subcomponent 1.2: Financing the CRS/FATCA infrastructure (US0.8 million). This sub-component
+financed the procurement and implementation of the CRS/FATCA infrastructure, software and licenses, and
+integration with the new GRA DW. It also included sensitization of stakeholders, designing, and setting up
+an electronic platform, procurement of wide area network (WAN) links and training (pg. 8, PAD). The
+software under this component would enable the GRA to comply with Common Reporting Standards (CRS)
+and Foreign Account Tax Compliance Act (FATCA) requirements. The software would also facilitate the
+receipt, collation, storage, and transmission of domestic tax information of European Union (EU) and US
+citizens, respectively, holding assets in Ghana, through automatic data exchange mechanisms. These
+enhanced systems were expected to improve tax revenue mobilization and strengthen voluntary tax
+compliance by taxpayers and while also supporting GRA’s alignment with international tax regimes.
+
+Component 2: Strengthening Debt Management, (Appraisal: US$1.2 million). This component contained
+four sub-components, all geared towards strengthen the capacity of the Ministry of Finance (MOF) to
+manage public debt, enhance transparency and improve treasury management and forecasting thereby
+improving efficiency and management of expenditures.
+
+Subcomponent 2.1: Capacity building and the preparation of the annual borrowing plan (ABP) and
+Medium-Term Debt Strategy (US$0.6 million). To meet this objective, this sub-component financed a
+range of training modalities, including training of staff over a two-year period in the World Bank Group and
+IMF advanced MTDS and ABP training, TA missions, on-site training and capacity building on the DSA
+framework, e-learning and on-site training to support the MoF in updating and developing procedures for all
+borrowings, including for quantifying contingent liabilities and developing national borrowing guidelines and
+the development of templates to monitor all the SOE debt including the publicly guaranteed debt. This sub-
+component also included financing for information and communications technology (ICT) capacity building
+of the DMD and the provision of computers, video facilities, and a Bloomberg terminal (pg. 8, PAD).
+
+Subcomponent 2.2: On-site training, capacity building and advisory services in debt, cash, and
+treasury management (US$0.3 million). This sub-component financed different modalities of training and
+capacity building, as well as advisory services in debt, cash, and treasury management. This component
+would also aid in streamlining procedures for electronic payment orders once the computers were procured
+and the Commonwealth Secretariat-Debt Recording and Management System (CS-DRMS) was installed.
+
+Subcomponent 2.3: Improved debt reporting and transparency (US$0.2million). This sub-component
+included technical assistance to develop templates, develop and maintaining a dedicated website for
+publication of debt data, publication aids, report writing workshops, and communications. The financing
+supported the development of templates for debt publications and established the systems required to
+populate these templates from the debt recording system and a dedicated website, the provision of other
+aids needed to prepare in-house, state-of-the-art publications as well as support to maintain an up-to-date
+website; (c) report writing workshop on debt management as well as publication programs such as
+Publisher, Binder; and (d) improved communications with investors and media practitioners (pg. 10, PAD).
+
+Subcomponent 2.4: Improved Operational Risk Management (US$0.1 million). This
+subcomponent sought to strengthen the operational risks management framework. It supported three
+distinct but related activities. The first activity sought to address the security issues and other weaknesses
+
+
+                                                                                                   Page 3 of 27
+  Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+  Economic Management Strengthening (P152171)
+
+
+
+of the ICT data center by implementing the National Information Technology Agency (NITA) alternate
+site and transferring the CS-DRMS (debt data) to an ICT server. The second activity included the provision
+of TA to develop operational risk management guidelines and a code of conduct for relevant stakeholders,
+and guidance to develop a risk monitoring and compliance function within the middle office. The third
+activity assisted the DMD in scanning all old loan agreements and storing the same in a cloud DW. IT
+capacity building was also provided to support the activities related to scanning and storing of all new loan
+agreements in a back-up server (pg. 10, PAD).
+
+Component 3: Strengthening Capacity in Public Investment Management (PIM), (Appraisal US$4.0
+million). This component had 4 sub-components which sought to support the establishment and
+implementation of a functional PIM system, and the National Development Planning Commission (NDPC).
+This component complemented PA 9 under the Development Policy Operation, which required Cabinet
+approval of an official PIM policy.
+
+Subcomponent 3.1: Development of a PIM Reform Strategy and Action Plan (US$0.25 million). This
+sub-component financed technical assistance for a comprehensive organizational review and capacity
+assessment, including identification of capacity gaps and needs and the development of a time-bound PIM
+strategy and action plan. The activities under this subcomponent supported specifically PIM capacity
+assessment including (a) a comprehensive review of existing institutional arrangements and PIM functions
+within the GoG; (b) a PIM-specific organizational review of the MoF; (c) capacity assessment of existing
+PIM resources; and (d) preparation of a comprehensive strategy and detailed action plan for PIM reform,
+including recommendations on the optimal staffing, skills, and competencies required to make the Public
+Investment Division (PID) and the PIM system function effectively in Ghana.
+
+Subcomponent 3.2: Regulatory and Institutional Setting for PIM (US$1.25 million). This sub-component
+financed technical assistance to support the development of PIM regulations, the drafting of the Operations
+Manual and associated guidelines and templates, development and publication of the PIP guidelines, and
+training and induction of technical staff who would be involved in the preparation, appraisal, and review of
+projects following the new PIM processes, procedures, and guidelines.
+
+Subcomponent 3.3: Implementation of the Capacity-building Strategy for PIM in the PID, MDAs, and
+SOEs (US$1.50 million). This sub-component financed capacity building for relevant GoG officials in the
+PID, MoF, key MDAs (particularly the six departments that accounted for the bulk of capital spending), and
+SOEs involved in the preparation of large investment projects, South-South study tours to other countries
+with successful PIM reform success, e-learning and online courses, design and implementation of
+continuous training programs at national tertiary-level training institutions including building capacity
+amongst faculty, and the procurement of ICT hardware and software for PIM.
+
+Subcomponent 3.4: Strengthening of the NDPC (US$1.0 million). This sub-component financed
+consultancy services to provide TA support to complete the preparation of the NIP, the development of a
+national M&E system, training, capacity building, and engagement of consultancy services for policy
+analysis, forecasting, and project preparation. This sub-component also financed the procurement of ICT
+hardware and software for planning and M&E, including capacity building for geo-spatial monitoring and
+analysis.
+
+Component 4: Governance framework of State-Owned Enterprises (Appraisal US$5.25 million). This
+component supported reforms to improve SOE governance. This component had three sub-components:
+(a) develop an equity study and the preparatory work for setting up a single entity; (b) establishment of the
+
+
+                                                                                                 Page 4 of 27
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    Economic Management Strengthening (P152171)
+
+
+
+  SOE single entity; and (c) piloting corporate governance improvements in five SOEs. This
+  component complemented PAs 6 and 7 under the DPO: PA6 established a single agency responsible for
+  governance and financial oversight of SOEs, and PA7 supported terms of reference for SOE regulators.
+
+  Subcomponent 4.1: Equity study (US$1.5 million). This sub-component financed the cost of hiring
+  technical experts and a long-term technical advisor. The technical experts were expected to undertake the
+  equity study, identify recommendations related to the treatment of the portfolio, and carry out specialized
+  analyses on a need basis, such as developing a template for the preparation of SOE annual reports. The
+  long-term technical advisor supported the task force in carrying out the preparatory work needed for the
+  creation of the single entity, including determining the structure, functions, and staffing of the single entity,
+  building upon the existing SEC; supporting the drafting or amendment of legislation for the single entity; and
+  supporting stakeholder consultations to build support for the single entity.
+
+  Subcomponent 4.2: Technical experts and consultancy services to design and support the
+  establishment of the Single Entity (US$1.25 million). This sub-component financed the cost of hiring
+  technical experts and consultancy services to help build and strengthen the capacity of the single entity.
+  The financing went towards short and long-term consultancy services that supported activities ranging from
+  the development of the organizational chart to compliance M&E tools as well as capacity building through
+  training and peer-to-peer learning.
+
+  Subcomponent 4.3: Corporate governance action plans in selected SOEs (US$2.5 million). This sub-
+  component financed the costs of technical experts to support the implementation of the corporate
+  governance action plans for five companies. This component also financed an annual stakeholder
+  workshop on SOE governance.
+
+  Component 5: Project Management (Appraisal: US$0.55 million) This component supported
+  administrative functions, procurement, training, workshops, and consultancies to support the
+  implementation and monitoring and evaluation. This component supported project planning and
+  management through recurrent institutional and operational costs and periodic consultancy services to
+  ensure that project implementation progressed smoothly. The component aimed to provide resources,
+  equivalent to approximately 3 percent of the overall project amount to support and defray the costs to the
+  MoF for coordinating project implementation effectively and efficiently, including support to build the
+  capacity of the MoF M&E Unit.
+
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  The project was financed by a US$15 million IDA credit, US$15.03 million was disbursed. The Borrower did
+  not contribute any funds.
+
+  The project was approved on August 30, 2016, and became effective on November 1, 2016. Its mid-term
+  review (MTR) took place on August 23, 2019. The original closing date was extended by 24 months from its
+  original date of March 31, 2020, to March 31, 2022. A second restructuring with an additional no-cost
+  extension of 3 months in March 2022 extended the closing date to June 30, 2022.
+
+
+
+
+                                                                                                      Page 5 of 27
+                                      Independent Evaluation Group (IEG)            Implementation Completion Report (ICR) Review
+                                      Economic Management Strengthening (P152171)
+
+
+
+
+   3. Relevance of Objectives
+
+               Rationale
+               The Project was aligned to the Ghana Shared Growth and Development Agenda II (GSGDA II) 2014-2017,
+               which sought to support growth and restore macroeconomic stability. The PDOs were in line with four of the
+               seven medium-term priority policy areas of the GSGDA II including: a) ensuring and maintaining
+               macroeconomic stability; b) enhancing competitiveness of Ghana’s private sector; c) enabling infrastructure
+               and human settlements development; and d) enabling transparent, responsive, and accountable
+               governance. Increasing revenue and improving debt management was expected to enhance
+               macroeconomic stability, while improvements in all four areas would help to enable more responsible and
+               accountable governance.
+
+               The project was also closely aligned to the Country Partnership Strategy (CPS) for Ghana (FY13-16),
+               supported under two of the three strategic pillars: 1) improving economic institutions; 2) improving
+               competitiveness and job creation. The vital role of strengthening budget institutions and PFM, and
+               reforming SOEs was embedded in Pillar 1 of CPS FY13-16. The Country Partnership Framework (CPF
+               FY22-26) also sought to provide support to the following key priorities, which were part of the stated
+               objectives of the operation: consistent fiscal policy, equitable domestic resource mobilization, and improving
+               energy SOE governance.
+
+               The Project complemented WBG and other development partners (DPs) support to Ghana during the IMF
+               Extended Credit Facility (ECF) program (2015-2018). The World Bank provided Macroeconomic Stability for
+               Competitiveness Development Policy Operation (DPO) Series including measures to improve efficiency of
+               public spending, governance reform of state-owned enterprises (SOEs), and debt management strategy
+               among others. The IMF, under its three-year ECF of US$918 million, supported the GoG with
+               macroeconomic management reforms specifically on the primary fiscal balance, wage bills, net international
+               reserves, stock of arrears and others.
+
+               The operation also supported the main themes of the World Bank’s Strategy for Africa: “Governance and
+               public sector capacity” and “Competitiveness and employment.” It sought to support improvements in the
+               governance of its SOEs and public sector capacity of public investment and debt management (pg. 5,
+               PAD).
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+
+                                                                                                                   Page 6 of 27
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Economic Management Strengthening (P152171)
+
+
+
+
+Objective
+Strengthening Ghana Revenue Authority's (GRA) Business Intelligence (BI) System.
+
+Rationale
+At the inception of the project, Ghana’s economy was in turmoil because of high fiscal deficits and
+external and domestic debt crises, Ghana had limited fiscal space to increase badly needed public investment
+to close its large infrastructure deficit, crowd in private investment and boost growth (PAD, para 13). It faced
+tight financing conditions for capital projects with high costs and fewer non-concessional sources. As Ghana’s
+tax revenue performance was significantly below some of its regional comparators such as Senegal,
+Mozambique and South Africa countries, revenue mobilization was considered a key driver for creating the
+fiscal space needed to finance critical infrastructure without exacerbating public debt. Yet the existing revenue
+management systems were not integrated and amenable to efficient management that was necessary for
+revenue enhancement. The TOC held that improvements in the taxpayer database and strengthening of
+institutional capacity for revenue and expenditure management would contribute to improvements in tax
+compliance, integrate income assessments irrespective of source and location, simplify the tax processes and
+align Ghana’s tax systems with international tax rules. The implementation of the data warehouse (DW),
+complemented by an information technology (IT) toolset was expected to facilitate the integration of data and
+contribute to enhanced analytical reporting by extracting and pooling data from multiple underlying source
+systems. The project envisaged that the first phase would integrate the two main tax systems - Total Revenue
+Integrated Processing System (TRIPS) with Ghana Customs Management System (GCMS). After this
+platform was completed, there would be scope for further integration with third party systems to strengthen
+information sharing overtime. The TOC also held that the implementation of software would contribute to
+enhanced compliance with international requirements related to the Common Reporting Standards (CRS) and
+Foreign Account Tax Compliance Act (FATCA).
+
+By integrating data on business tax revenue with customs information, authorities would be able to identify,
+for example, payers of customs duties that deliberately avoid other taxes. In addition, the project would
+implement Common Reporting Standards (CRS) and Foreign Account Tax Compliance Act (FATCA)
+Software linked to DW and collect domestic tax information of US and EU citizens holding assets in Ghana.
+These actions would strengthen Ghana Revenue Authority’s BI Systems through improved risk management
+mechanisms, better design of tax policy, improved voluntary tax compliance, better-integrated income
+assessments, simplified tax administration processes, alignment of tax policy with international rules and best
+practices, less tax avoidance from the informal sector, and improved tax revenue mobilization (ICR, Annex 4).
+
+This ToC sets out a logical chain of project inputs contributing to outputs that would contribute to the objective
+(PDO 1) of strengthening the GRA.
+
+The key activities (inputs) were:
+
+  1. Improving the BI system
+
+        Assessment report of the BI process
+        Operationalization of GRA DW
+        Integration of tax revenue information (TRIPs) with customs information (GCMS)
+        Improved risk management mechanisms
+
+
+
+
+                                                                                                    Page 7 of 27
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Economic Management Strengthening (P152171)
+
+
+
+  2. Implementation of the Common Reporting Standards (CRS) and Foreign Account Tax Compliance Act
+(FATCA) Software
+
+      Roll-out of CRS and FATCA software linked to DW
+      Collection of domestic tax information of U.S. and EU citizens holding assets in Ghana
+
+The project’s development objective indicator (DOI) for monitoring implementation of PDO1 is as follows:
+
+DOI 1: To increase the ratio of four major taxes to GDP (baseline: 9% in 2016; target: 10% in 2022) [changed
+from: Tax Audit Yield Ratio for audits conducted by the GRA during first restructuring]
+
+Rationale: The project supported the procurement and installation of the DW system to improve
+data/intelligence to support tax administration processes and collections, audit, and enforcement processes,
+and contribute to an increase in the tax to GDP ratio. However, DOI1 is not an appropriate indicator as it is
+not reasonable to attribute changes in total revenues collected from four different types of taxes collection
+systems as an outcome of this project. Besides, even if the tax revenue collected is due to the project,
+changes in the GDP would affect the tax revenue to GDP ratio. While DOI1 is measurable, at 9%, its base
+seems to be set too low when compared to data in the PD that places Ghana’s tax to GDP ratio at 16 – 18%
+in 2016 (PD, para 11) or data in the WDI or WEO. Therefore, neither the baseline nor the target are
+credible.
+
+The original PDO1 indicator was “Tax Audit Yield ratio for audits conducted by the GRA (percentage),’ but
+due to difficulties in data collection by the GRA, it was replaced with DOI1 during restructuring.
+
+PDO1 had two intermediate results indicators (IRIs):
+
+IRI 1: Launch of DW with the BI System fully integrated (Baseline: No DW; Target: launch of CRS linked to
+DW).
+
+Rationale: The DW would improve the functioning of the GRA by capturing a greater number of small,
+medium, and large taxpayers, and would contribute to more accurate and reliable taxpayer information, as
+well as improving knowledge of potential taxpayers. With the new system, the GRA would be able to reduce
+tax noncompliance and revenue leakages, improve the efficiency of tax administration, and improve risk
+management and fiscal planning.
+
+IRI 2: The usage of the new DW in their auditing and reporting practices (Baseline: None; Target: The
+management reporting process and the enforcement process - debt collection, non-filer follow-up, and
+nonpayer follow up).
+
+Rationale: The DW would enable the GRA to monitor tax compliance in every sector of the economy and
+trace the flow of funds between - domestic and foreign financial institutions. Automating the process of data
+mining with the DW would improve query results and mitigate the risk of high compliance costs.
+
+Outputs
+
+The project was successful in achieving PDO1 but with a shortcoming.
+
+
+
+                                                                                                  Page 8 of 27
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Economic Management Strengthening (P152171)
+
+
+
+The GRA successfully implemented the installation (design and build) and testing of the DW/BI integrated
+system although with a significant delay that led to the second extension of the project to allow sufficient time
+for the installation of the DW. However, the final output fell one step short of what was envisioned in the PAD.
+The external data exchange portal was completed, and dashboards containing 35 of the 37 reports were
+completed. Management and user trainings were completed. The DW fulfilled 99 percent of the user
+acceptance tests. These steps equipped the GRA with an IT tool that it could use to extract and pool data
+from multiple source systems connected to the DW and apply it in processing several tax administrations
+functions including the audit process, enforcement process, and tax policy process. At the close of the
+project however, due to the decision to not deploy the DW into the live production systems, the full dataset
+could not be obtained or cleaned as required. Resistance to directly linking the DW to live revenue
+administration systems led to a workable solution in the form of securing data dumps from the customs
+systems and Domestic Revenue System (GITMIS). GRA continues to use a Memorandum of Understanding
+(MOUs) to obtain live data from other systems. However, the resistance to directly linking the DW to live
+revenue administration systems delayed subsequent activities which were dependent on the full functionality
+of the DW/BI. Full achievement of IRI1 was also prevented by insufficient interdepartmental collaboration
+within GRA (ICR, p. 18). Although IRI1 was only partially achieved, the full implementation and testing of the
+DW/BI system complete with staff training to operate it merit a Substantial rating. Even without links to the live
+revenue administration systems, the workaround solution made possible by the DW/BI system had the
+potential to increase tax revenues. (Achievement of IRI1: Substantial).
+
+A mini-DW environment was set up which provided GRA with revenue reports and was connected to the audit
+management software to auto validate taxpayer profile and receive data matching information used by tax
+auditors during audit execution in 2022. The CRS and FATCA infrastructure allowed the GRA to comply with
+requirements concerning receiving, storing, and transmitting tax information for EU and US citizens with
+assets in Ghana. This improved tax revenue mobilization, higher voluntary tax compliance by taxpayers, and
+compliance with international tax agreements for foreigners living in Ghana. (Achievement of IRI2:
+Substantial).
+
+Outcomes
+
+The achievement of PDO1 is rated Substantial as the project strengthened the GRA’s revenue management
+and control functions with the installation of the new DW/BI system. Both IRIs are rated Substantial but DOI1
+is rated Modest. As per the ICR, improvements in revenue management and control also contributed to the
+increase in the ratio of four major taxes (personal income tax, company tax, value-added tax, and import
+duties) to non-oil GDP (percentage) measured by DOI1. The tax to GDP ratio was 13.4 percent in 2022 and
+exceeded the target of 10 percent by 34 percent. IEG disagrees with the ICR’s “Achieved” rating of DOI1 for
+the following reasons: DOI1 was an inappropriate indicator as plausible attribution of the 34 percent increase
+in the tax revenue to GDP ratio to the project alone does not exist. The data used for the baseline and target
+are also not credible (the WDI and WEO data for Ghana differs markedly from the data in the ICR). However,
+IEG assigns credit to the project for successfully completing the installation and training necessary for the
+DW/BI system to be ready for full functionality and contribute to strengthening revenue management and
+control. Although there is no way to measure how much of the change in revenues is because of the project,
+it is true that by capturing a significantly larger number of taxpayers, the integrated DW provided the GRA
+more accurate and reliable taxpayer information that helped to reduce tax non-compliance and revenue
+leakages, improve tax administration, and raise revenues. For these reasons, IEG rates PDO1 as Substantial.
+
+
+
+
+                                                                                                    Page 9 of 27
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   Economic Management Strengthening (P152171)
+
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+Strengthening Debt Management
+
+Rationale
+The TOC is motivated by three problems related to debt management, treasury management and forecasting,
+and debt reporting and transparency that need to be addressed in Ghana. At the time of the operation’s
+design, Ghana was in high debt distress, as per the latest DSA (pg. 39, PD) despite having benefitted from
+debt relief under the Highly Indebted Poor Countries (HIPIC) initiative. Having also recently graduated from
+LMIC status, prudent debt management was important as the change in income status was expected to lead
+to lower grants, reduced access to concessional financing, and limited access to non-concessional financing
+at high interest rates. More efficient debt management practices and a re-orientation of the debt portfolio was
+critical to avoid jeopardizing its debt sustainability (PD, p.3) as well as for broader macroeconomic
+stabilization (pg. 39, PD). The TOC for this project held that strengthening the capacity of the Ministry of
+Finance (MOF) would help to better manage debt and contribute to improved transparency in debt reporting,
+as well as enhanced treasury management and forecasting. Also, GoG needed to operationalize the recent
+debt management strategy by developing an annual borrowing plan (ABP). The ABP was important to ensure
+adherence to the BoG’s zero limit on gross credit to the GoG and the non-accumulation of arrears under the
+existing IMF EFF program.
+
+Expenditure management, related to treasury management and forecasting had been problematic in
+Ghana. Cash flow forecasts had been unreliable, and budget execution low. At the time of project design
+treasury management fell short of international good practices given that the Treasury Single Account, cash
+flow forecasting, and cash investment practices were all underdeveloped and lacked robust analytical tools.
+The project sought to improve the treasury management and cash flow forecasting functions and linking them
+to the debt auction calendar so that overall debt management would improve. At the time of the project
+design, the latest Public Expenditure and Financial Accountability (PEFA) Assessment (2012) and the finding
+of the IMF Fiscal Affairs Department (2014) had highlighted weaknesses in aggregate fiscal discipline and
+strategic allocation of resources which impacted the efficiency and effectiveness of public expenditures.
+
+The key activities (inputs) were:
+
+    1. Improved Debt Management with Credible Annual Borrowing Plan
+
+        Operationalization of MTDS
+        Development of ABP
+        Development of DSA
+        Updated Credit Risk assessment guidelines and framework together with the national borrowing
+         guidelines
+
+    2. Strengthened Treasury Management and Forecasting
+
+
+
+
+                                                                                                Page 10 of 27
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   Economic Management Strengthening (P152171)
+
+
+
+
+      Building a reliable and accurate 30-day rolling cash forecast
+
+    3. Improved Debt Reporting and Transparency
+
+        Publication of debt statistical bulletin
+        Submission of annual report to parliament
+        Publication of auction calendar and results
+        Development of templates for debt publications
+        Development of website for debt reporting
+        Acquisition of publication programs
+
+   4. Improved Operational Risk Management
+
+      Development of operational risk management guidelines including Borrowing Continuity Plan (BCP)
+         and Disaster Recovery Plan (DRP)
+      Implementation of National Information Technology Agency (NITA) alternate website and ICT server
+      Develop a code of conduct for DMD and other stakeholders.
+
+PDO2 is as follows:
+
+DOI 2: Deviation of the share of short-term refixing in total debt at the end of the year from the level set out in
+the MTDS. (Baselne in 2016: 2.00; MTDS End Target: 30%).
+
+Rationale: DOI2 assumed that better debt management builds on better forecast of cash flows, contributes to
+a credible Annual Borrowing Plan (ABP), and avoids arrears and surprises. It requires operationalizing the
+MTDS through a detailed ABP that considers the likely timing of Government cash flows through the year to
+determine the monthly net financing needs and forecast redemptions. These key inputs translated the annual
+financing needs into an auction calendar and transformed the MTDS into implementable annual operational
+plans.
+
+The project had three IRIs under PDO2:
+
+IRI 3: Contracting of new external borrowing does not exceed the borrowing limits for non-concessional
+borrowing and borrowing from the International Capital Market, as set in the MTDS. (Baseline:1.5% in 2016;
+End Target: 0%).
+
+Rationale: Training and capacity building would empower staff to conduct the following: prepare the DSA,
+stress test it, do an analysis of fiscal accounts and prepare the ABP. It was expected that these would be
+institutionalized as part of the MTDS process and would contribute to enhanced monitoring and more
+informed decisions on new debt. In addition, updating and preparation of the credit risk guidelines and
+framework along with the national borrowing guidelines would help mitigate the fiscal risks associated with
+SOE debt.
+
+IRI4: Public debt data available on MOFs official website. (Baseline: 6.0 months in 2016; Target: 3.0 months).
+
+
+
+
+                                                                                                    Page 11 of 27
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Economic Management Strengthening (P152171)
+
+
+
+Rationale: Technical assistance would enable the MoF to produce templates and prepare debt reports. The
+website would also be built to support the publication of debt reports. This would enhance transparency and
+accountability with the publication of complete, accurate and timely public debt information.
+
+IRI 5: An operational risk guideline with a business continuity plan (BCP) and a disaster recovery plan (DRP)
+approved and reviewed bi-annually (Yes/No, Custom). (Baseline: No on May 1, 2016; End Target: Yes).
+
+Rationale: The implementation and testing of the operational risk management guidelines would help mitigate
+operational risk and strengthen the business processes related to debt.
+
+Outputs
+
+The key outputs for PDO2 were as follows:
+
+The debt limit for contracting non-concessional borrowing (including from International Capital Markets) in
+2021 was US$6,000 million, against a performance of US$5,574 million. The IRI3 target was overachieved
+(deviation of -7 percent). (IRI3 is rated Substantial).
+
+The reduction in publication time of public debt data on the MoF official website dropped from 6-months to 3
+months for all target years between 2017- 2020. The reports for 2021 and 2022 were delayed by one month
+(4 months instead of a target of 3 months). They were prepared and submitted to Parliament in March 2022
+and published in the subsequent month after project closing. Total public debt including contingent liabilities
+are reported (for latest report presented to Ghana’s Parliament on March 31, 2023, visit 2022-Annual-Public-
+Debt-Report.pdf (mofep.gov.gh)). Debt reporting and transparency were also enhanced through the periodic
+publication of annual debt reports, statistical bulletins, newsletters, and MoF updates. (IRI4 is rated
+Substantial).
+
+The BCP and Code of Conduct of the operational risk management guidelines were prepared at the end of
+2021. The DRP was delayed but completed before the project closed in 2022 (IRI5 was rated
+Substantial). An e-library containing scans of all loan agreements and other relevant documentation was also
+developed.
+
+Outcomes
+
+The achievement of PDO2 is rated Substantial. DOI2 and all three IRIs were achieved. The project
+contributed to an improvement in debt management in several ways. The share of short-term refixing in the
+total debt portfolio as at the end of 2021 was 19.4%, compared to the 2021 MTDS target of not more than
+30%, indicating that DOI2 was substantially achieved. All three IR Indicators were fully achieved and
+contributed to improved debt management and transparency through improved cash flow forecasting,
+strengthened debt reporting and transparency mechanisms, and improved operational risk management. The
+Credit Risk Assessment Framework (CRAF) was developed specifically for the utilities sector to evaluate the
+creditworthiness of SOEs and to ascertain that the fiscal risk before guarantees and no-objection to borrow
+could be granted. The National Borrowing and Government Lending Guidelines (NBG) were published to
+provide guidance for public entities on the procurement of loans and other forms of borrowing. Capacity
+building, and staff training in advanced MTDS and ABP, cash flow forecasting and cash management, debt
+portfolio risk approach, debt statistics, securities laws and treasury operations were also provided. A
+dedicated trading room, equipped with video and audio-conferencing systems, allowed for a more structured
+approach to market research and analysis to inform decision-making on the auction of Government securities.
+
+                                                                                                 Page 12 of 27
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Economic Management Strengthening (P152171)
+
+
+
+During project implementation a new web-based debt software, Meridian, which allowed for better
+streamlined procedures with electronic payments was introduced.
+
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 3
+Objective
+Strengthening Capacity in Public Investment Management (PIM)
+
+Rationale
+The TOC held that addressing the challenges in PIM would support improved public financial management
+and contribute to enhanced infrastructure development. At the time of project design, Ghana’s public
+investment spending averaged 6 percent of GDP annually (2009 to 2014). While marginally higher than
+comparator countries, investments in electricity and health services remained low. The PIM cycle was weak,
+with improvements needed in all stages of project cycle management including planning, budgeting,
+appraisal, selection, financing, procurement, execution, and monitoring and evaluation (pg. 45, PD). There
+were too many projects relative to available resources; few projects had been appraised for costs
+and benefits; insufficient evaluation and screening was done prior to selection; gate-keeping mechanisms
+were ineffective; multi-year allocations of investment budget were absent; large cost overruns and
+implementation delays were common; contracts accumulated significant arrears; and large numbers of over-
+aged and ongoing (‘forever’) or stalled projects were in the portfolio. These deficiencies were associated with
+a lack of a comprehensive PIM strategy, with clear institutional arrangements and functions within the
+government. There was also a lack of technical expertise to perform the necessary analysis and appraisal of
+proposed investment projects, including for preliminary reviews using modern assessment tools and
+techniques, analyzing projects, and assessing and managing risks. The TOC held that by supporting the
+development of a comprehensive PIM strategy and the implementation of a functional PIM system within the
+MoF in accordance with the cabinet-approved policy, the process of upstream decision-making in the MoF
+would improve. Improving PIM capacity to enable government entities to better assess economic, financial,
+social, and environmental aspects of public investment projects would be an important part of the project.
+Support would also be provided to the NDPC to enhance its capacity for long-term planning of infrastructure
+and other investment projects (PD, p.6, 10).
+
+The key activities (inputs) were:
+
+    1. Developing a Comprehensive PIM Reform Strategy and Action Plan
+
+      Review of existing institutional arrangements and PIM functions
+      Capacity assessment of PIM resources
+      PIM-Specific organizational review of the MOF
+
+                                                                                                 Page 13 of 27
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Economic Management Strengthening (P152171)
+
+
+
+
+      Development of comprehensive PIM reform strategy
+      Development of detailed PIM action plan
+
+    2. Improvement of the Regulatory and Institutional Setting for PIM and Creation of required PIM
+Instructions
+
+        Operationalization of PIM policy and action plan
+        Development of PIM regulations and processes
+        Training of technical staff in the PID team of the MOF
+        Development of PIM Operations Manual
+        Development of PIP guidelines and Working Committee
+
+   3. Implementing the capacity-building strategy for PIM in PID, MDA and SOEs
+
+      Development of a comprehensive PIM training program
+      South-South learning on PIM reforms
+      Development of e-learning and training programs at local institutions
+
+   4. Strengthening the NDPC
+
+      Development of NIP
+      Development of PIP
+      Development of national M&E system
+
+The DOI for PDO3 was as follows:
+
+DOI 3: Percentage of public investment projects that are prioritized on the basis of published standard criteria
+for project selection (prior to the inclusion in the budget). (Baseline: 0% in 2016; End Target: 30%).
+
+Rationale:
+
+The project would contribute to improved PIM capacity by enabling government entities to better
+assess economic, financial, social and environmental aspects of public investment projects. Hence projects
+included in the budget would align with national priorities and be more effectively managed.
+
+The IRIs for PDO3 are as follows:
+
+IRI 6: Roll out and operationalization of PIM strategy and action plan (Baseline: No PIM strategy/Action Plan
+in 2016; End Target: PIP established).
+
+Rationale: The utilization of published standard criteria for project selection would improve PIM capacity by
+enabling government entities to better assess the economic, social, financial, and environmental aspects of
+public investment projects. PFM regulations were developed and enacted by Parliament and thus improved
+the regulatory and institutional setting for PIM by creating PIM instruments.
+
+
+
+
+                                                                                                  Page 14 of 27
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   Economic Management Strengthening (P152171)
+
+
+
+IRI 7: New projects reviewed by PID team for quality assurance in line with PIM guidelines Operations Manual
+(Baseline: 0 in 2016; End Target: 30).
+
+Rationale: The approval of new projects by the PID team in accordance with the PIM guidelines Operations
+Manual would ensure project quality as well as ensure that they were financially sound, thus helping to
+improve the overall quality of public investment. An operational manual and procedures were developed to
+support investment project preparation and integrated appraisal, ultimately strengthening the
+institutionalization of PIM.
+
+IRI 8: Civil servants who receive PIM-related trainings (Baseline: 0 in 2016; End Target: 500; of which
+Female civil servants Baseline: 0; End target: 150).
+
+IRI 9: Female civil servants who receive PIM-related trainings (Baseline: 0 in 2016; End Target:150)
+
+Rationale: IRI8 measured the number of civil servants (SOEs, MDA, and MOF) who received PIM-related
+training, and the share of female civil servants who were trained. This indicator was not an adequate measure
+of capacity development as it did not account for the actual transfer of knowledge and skills, and staff
+departures. To complement the regulatory and institutional setting for PIM, capacity-building activities were
+conducted to sensitize staff to public financial management (PFM) - PIM regulations, PIM guidelines and
+manuals, and various trainings on project finance, PPP, cost-benefit analysis, and environmental
+assessments. To ensure the quality of capacity building, the University of Ghana Business School was
+selected to deliver PIM training courses (pg. 47, ICR).
+
+IRI#10: National ICT-based M&E System developed with capability to monitor Public Investment Projects.
+(Baseline: No National ICT-based M&E System; End Target: National ICT-based M&E System developed and
+in use).
+
+Rationale: IRI10 tracked the creation of a National ICT-based M&E system developed with the capability to
+monitor Public Investment Projects. The indicator would measure the M&E capacity of the agency. Like other
+IT systems supported by the project, this system also faced delays due to a lack of proper planning and
+consultation with stakeholders. A modular approach with step-by-step design, testing, and improvement
+based on user feedback could have delivered better results (ICR p. 47).
+
+Outputs
+
+      The regulatory and institutional setting for PIM and creation of the required PIM instruments was
+       completed. (pg. 12, ICR). The PFM Regulations, 2020 (L.I.2411) was developed and enacted by
+       Parliament in November 2020. To support the implementation of PIM, the Operational Manual and
+       associated Guideline as well as templates were developed to support investment project preparation
+       and integrated appraisal. The public investment program/plan (PIP) was established. (Achievement of
+       IRI6 was Substantial).
+      53 projects were reviewed using the newly published PIM Guidelines Operations Manual at the end of
+       the project, exceeding the target of 30. It is unclear how this achievement compares with the total
+       number of new projects approved. (Achievement of IRI7 is rated Modest).
+      A total of 1,697 civil servants received PIM related trainings by the close of the project, overshooting
+       the target of 500 by 239 percent. The target for female civil servants trained was exceeded by 237
+       percent. The capacity building included sensitization on PFM (PIM) Regulations, assistance with
+       developing PIM template/guidelines and manuals; and training on project finance, public private
+
+                                                                                                 Page 15 of 27
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   Economic Management Strengthening (P152171)
+
+
+
+       partnership, cost-benefit analysis, and environmental assessment. Most of the PIM-related trainings
+       were customized to key public officers in various public investment units (PIUs) across MDAs/MMDAs.
+       While the number of civil servants trained was large, IRI8 does not account for the quality of training
+       imparted or the staff turnover post training. IRI8 also does not account for improvements in overall
+       public investment management. Training is only one input along the results chain. (Achievement of
+       IRI8 is rated Modest; For the same reasons, Achievement of IRI9 is rated Modest).
+      The ICT-based M&E system was developed but was not in use at the time of project closing at the
+       end of 2022. The system was designed as a web-based enterprise system but was still at the piloting
+       stage with limited information onboard, lack of sustainability (largely financial) and inefficiencies due to
+       overlaps with other systems (pg. 13, ICR). (Achievement of IRI10 is rated Modest).
+
+Outcomes:
+
+The achievement of PDO3 is rated Modest. The PIP helped to establish the initial building blocks necessary
+for efficient PIM in Ghana, but it is unclear to what extent government’s capacity in PIM was strengthened. As
+per DOI3, 82% of the public investment projects were prioritized according to the criteria listed in the newly
+designed PIM Guidance contained in the Operational Manual prior to their inclusion in the budget, exceeding
+by 173% the target of 30%. DOI3 is rated Modest as it is unclear how 18% of the projects that did not pass
+the PIM screening were handled for budgetary financing. How many large projects did the 18%-category that
+was not screened include? Did they get funded anyway? An important motivation for PDO3 was to leverage
+the new PIM Guidance manual to improve public investment management presumably by reducing public
+spending on inefficient projects and ensuring that those funded through the budget passed the screening test.
+While DOI 3 ensured the latter, it is not clear how existing projects that did not get prioritized were treated for
+budgetary purposes. (Achievement of DOI 3 is Modest).
+
+The number of male or female staff trained regardless of the quality of learning imparted is not indicative of
+whether Ghana’s capacity in PIM was indeed strengthened (IRI8 and IRI9 are rated Modest).
+
+A critical IRI that pulled down the achievement of PDO3 is IRI10 that scored a Modest rating because of
+incomplete implementation over the 6-year project term. An ICT-based M&E system should have been at the
+core of the new PIM strategy and its implementation, but it was not implemented by the time of project losing.
+
+The overall outcome of PDO3’s PIM-related outputs is Modest. GoG continues to grapple with the
+challenge of strengthening its capacity in PIM. At the time of the IMF’s 2023 ECF, the GoG further committed
+to improving PIM using a centralized approach to the appraisal and prioritization of public projects, developing
+a database of all ongoing projects (including age, time and cost overruns for legacy projects, and their status
+of completion), and ensuring that financing is secured for ongoing projects before, and that all new projects
+are included under the PIP (pg. 65, IMF Country Report No. 23/168) [1].
+
+[1] IMF Country Report No. 23/168-Request for an Arrangement Under the Extended Credit Facility-Press
+Release: Staff Report; and Statement by the Executive Director for Ghana
+
+
+
+Rating
+Modest
+
+
+
+                                                                                                    Page 16 of 27
+   Independent Evaluation Group (IEG)                                   Implementation Completion Report (ICR) Review
+   Economic Management Strengthening (P152171)
+
+
+
+
+OBJECTIVE 4
+Objective
+Improving the Governance of SOEs
+
+Rationale
+Underperformance in SOEs in Ghana had high economic and financial costs resulting in inefficient service
+delivery, wasted resources, financial losses, and an accumulation of public debt (pg. 72, PD). At the time of
+project design, fiscal risks from SOEs were substantial, often arising from government intervention through
+bailouts in the event of a crisis or financing of quasi-fiscal activities (like providing services below costs). One
+of the most significant SOE risks emanated from the underperformance of the energy sector SOEs which had
+led to the accumulation of an estimated US$1.5 billion debt (4% of GDP) by 2015 mostly due to domestic
+banks (pg. 72, PD). The underperformance of SOEs stemmed from a lack of systematic financial oversight
+and weak governance.
+
+SOEs faced several governance challenges including multiple and often conflicting objectives; lack of a
+proper regulatory and institutional framework for effective state oversight; weak boards and management and
+political interference in day-to-day decision making; and low levels of transparency and disclosure (pg. 72,
+PD). These challenges compounded the poor performance of SOEs, with an overall lack of autonomy of
+SOEs in operational matters as well as the lack of accountability and transparency in the use of scarce public
+assets. Specific SOEs engaged in the energy sector were particularly problematic. The decline in economic
+growth in Ghana was associated with significant electricity shortages and energy rationing over several years
+leading up to the design of this project. The project draws from a study on state ownership in 2019 which
+covered 100 entities and an additional report on the verification and valuation of assets of 40 inactive entities.
+
+The TOC for PDO4 held that the project would support SOE reforms aimed at (a) consolidating the state’s
+ownership role through an equity study and preparatory work for setting up a single entity responsible for
+overseeing SOEs; (b) establishing the SOE single entity; and (c) piloting corporate governance improvements
+in five SOEs. The main objective for the single entity was to shift from the prevailing highly decentralized state
+asset management model to a centralized state capital management model, where SOEs would be better
+governed and financially independent and sustainable. A single SOE entity would strengthen financial
+oversight and governance and improve the overall financial management and performance of SOEs. The
+expectation was that better SOE management and corporate governance would result in better SOE portfolio
+performance and less fiscal risk. As reforming governance alone would not solve all SOE problems and
+past. lessons suggested that corporate governance reforms should be accompanied by other reforms such as
+SOE restructuring and privatization. The proposed equity study would also enable the GoG to make decisions
+about which SOEs to divest or privatize.
+
+The key activities (inputs) were:
+
+        Consolidating the State’s Ownership Role
+        Publication of SOE equity study, including SOE portfolio
+        Drafting legislation related to the SOE single entity
+        Stakeholder consultations to build support for single entity
+        Establishing the Single Entity
+        Establishment of single entity including a board
+        Development of an organizational chart of the single entity
+        Development of compliance M&E tools and capacity
+
+                                                                                                     Page 17 of 27
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   Economic Management Strengthening (P152171)
+
+
+
+
+        Piloting Corporate Governance Improvements in Selected SOEs
+        Adoption of corporate governance policies in five SOEs
+        Development of CSO monitoring mechanisms of SOEs
+        Development of training packages for SOE board members
+
+The DOI for PDO4 is as follows:
+
+DOI 4: The number of SOEs covered by the aggregate annual reports on SOE financial and governance
+performance issued to the public no later than 6 months after the end of the year. (Baseline: 0; End target:
+20).
+
+Rationale: The TOC held that strengthening GoG’s capacity to oversee SOEs and improve corporate
+governance practices at the entity and SOE levels would improve governance and financial management.
+
+The project’s IRIs under PDO 4 are as follows:
+
+IRI 11: Number of SOEs with audited annual financial reports publicly disclosed by the time of SOE General
+Meetings. (Baseline: 0 in 2016; End Target: 15).
+
+Rationale: This IRI would measure the changes in financial reporting practices of SOEs. Audited financial
+reports were expected to be due by the time of the Annual General Meetings, mandated by law. Public
+disclosure would entail publication of the reports on the respective SOE company website, single entity
+website, or both, within six months of the end of the fiscal year.
+
+IRI 12: Implementation of the annual action plans for the five SOEs. (Baseline: 0% in 2016; End Target: 80%).
+
+Rationale: This indicator would measure the development and implementation of SOE action plans in five
+SOEs which were considered significant.
+
+IRI 13: Civil Society organizations (CSOs) participating in the annual stakeholder workshop on SOE
+governance. (Baseline: 0 in 2016; End Target: 15).
+
+Rationale: This indicator would measure attendance at the Annual Stakeholder Workshop on SOE
+governance as a proxy for measuring citizen engagement.
+
+Outputs:
+
+The number of SOEs publishing audited financial statements at the time of the SOE Annual General Meetings
+was 16, exceeding the target of 15 (Achievement of IRI11 is Substantial).
+
+      Corporate governance improvements were piloted in five SOEs that successfully implemented their
+         annual action plans based on their respective corporate governance actions plans with an
+         implementation level of 90.5% that exceeded the target of 80% (IRI12). They were the Ghana Water
+         Company Limited (97%), Tema Development Company (92.6%), Ghana National Petroleum
+         Corporation (89%), Volta River Authority (87%) and Electricity Company of Ghana (86.4%). Capacity
+         development activities, including training for board members of 33 was conducted to streamline SOEs
+         corporate governance practices. The Code of Corporate Governance, the Performance Management
+         Framework and the State Ownership Policy were prepared and finalized for Cabinet approval. In
+
+                                                                                                Page 18 of 27
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Economic Management Strengthening (P152171)
+
+
+
+         addition, a Corporate Governance Curriculum to train and build capacity of board and management of
+         SOEs was prepared and four local training institutions including the Ghana Institute of Management
+         and Public Administration, and the University of Ghana Business School were selected to deliver
+         training based on the Curriculum. (Achievement of IRI12 is Substantial).
+        The project supported civil society (CSO) participation in the annual stakeholder Forum on SOE
+         governance. At the end of the project, 17 CSOs relative to the target of 15, participated in the 2022
+         Policy and Governance Forum after a suspension of activities during the COVID-19 pandemic.
+         (Achievement of IRI13 was Substantial).
+        An equity study on state ownership was conducted and set the foundation for the establishment of a
+         SOE single entity. The findings and recommendations of the 2019 study covering 100 entities (52
+         wholly owned and 48 JVCs) and a Cabinet Memorandum were submitted. A report on the verification
+         and valuation of assets of 40 inactive entities to complement the findings of the equity study was also
+         prepared. While there was no DOI for the completion of the study on SOE equity, it contributed
+         significantly to the achievement of PDO 4.
+        Motivated by the SOE study, the SOE single entity, State Interests and Governance Authority (SIGA)
+         was established with the SIGA Act (Act 990) that was enacted in 2019. SIGA became fully operational
+         after the appointment of Board of Directors and Director Generals, and staff recruitment. According to
+         the ICR (p. 13), it has since played a central role in introducing and mainstreaming good corporate
+         governance, best practices in accounting, inclusion of SOEs in the national accounts, and enhanced
+         transparency of SOEs. SIGA took over the role of preparing State Ownership Reports (SORs) from
+         the MoF and has since prepared SORs with extended coverage and enhanced contents; most of the
+         SOEs reported in the SORs have published the accounts in line with the International Financial
+         Reporting Standards (IFRS).
+        The 2020 SOR was published 9 months late, compared to the target of within 6 months for 20 SOEs.
+         However, its coverage was expanded to a total of 132 entities covering 47 SOEs, 54 Other State
+         Entities (OSEs), 17 Joint Venture Companies (JVCs) and 14 Minority Interests. (Achievement of DOI4
+         is Modest).
+
+Outcome
+
+The achievement of PDO4 is rated Substantial. Notwithstanding the Modest rating of DOI4,
+substantial progress was made in improving the governance of the SOEs as reflected in the conduct of the
+SOE study, the application of its findings in the establishment of SIGA, its current role in the production of the
+SORs and the ratings of IRIs 11-13. These contributed to better transparency through regulatory compliance
+including accounting and audits, corporate governance and posting of financial information. IEG notes that
+one of the SOEs, Ghana Airport Company Ltd., was recently given a ‘no objection’ to borrow on its balance
+sheet up to US$188.6 million, the second largest amount authorized to the 11 SOEs subject to credit risk
+analysis (MOF, 2022 Annual Public Debt Report, p. 40) and an indicator of transparent reporting by the SOE.
+
+
+
+
+Rating
+Substantial
+
+
+
+
+                                                                                                   Page 19 of 27
+                                Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                                Economic Management Strengthening (P152171)
+
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project’s efficacy is rated Substantial as three of the four PDOs were rated Substantial and one PDO is
+                            rated Modest. In the three PDOs that were fully achieved, all targets except two DOIs were rated
+                            Substantial. Although two PDO-level indicators (DOI1 and DOI4) are rated Modest, the evidence regarding
+                            the project’s progress towards the achievement of PDO1 and PDO4 is sufficient to merit an outcome rating of
+                            Substantial. DOI1 was not an appropriate indicator. DOI4 related with the publication of the State Ownership
+                            Reports of SOEs was published with a 9-month delay but included a much larger coverage of SOEs.
+
+                            Substantial improvements were made by the project in the areas of strengthening the GRA’s Business
+                            Intelligence Systems, debt management and improving the governance of SOEs. GRA’s revenue
+                            management and control systems were strengthened with the installation of the DW- Business Intelligence
+                            system that contributed to reducing revenue leakages and raising revenues. The project made good progress
+                            in strengthening debt management through improved cash flow forecasting, better debt reporting,
+                            transparency, and operational risk management. The Credit Risk Assessment Framework (CRAF) was
+                            developed specifically for the utilities sector to evaluate the creditworthiness of SOEs. A key reform to set up
+                            a single entity SIGA to manage Ghana’s SOEs, and the latter’s role in the bringing better transparency
+                            through regulatory compliance and corporate governance led to improved governance of SOEs.
+
+                            The project’s achievements regarding strengthening capacity in public investment management (PDO3) were
+                            Modest for the following reasons. While the design and implementation of a PIM Guidance Operational
+                            Manual (OM) to prioritize public investment projects for budgetary purposes was an important achievement,
+                            there was insufficient progress towards PDO3. (i) While 82% of the public investment projects were prioritized
+                            according to the OM prior to inclusion in the budget, it is not clear how 18% of the projects that failed the PIM
+                            screening were handled for budgetary financing. Were they included anyway? It is also not clear how many
+                            large projects were included in the 82% category. (ii) Indicators focused on the number of staff trained missed
+                            attention to the quality of learning. (iii) An ICT-based M&E system that would have significantly improved PIM
+                            and should have been at the core of the new PIM strategy was not implemented even after a 6-year project
+                            term.
+
+                            The information on the project’s achievements is captured in the narrative of the ICR, and although a Results
+                            Framework is presented, there is a general lack of information to fully cover all the components under
+                            the project, and to determine the extent of actual achievements. The project was extended twice, running for
+                            just over 7 years and still, the main component (Component 1) although recorded as achieved, was not fully
+                            implemented. A mini-DW environment had been set up, with no specific information or timeline on when this
+                            would be fully achieved. The absence of a fully functional DW would undermine the core tenets of PDO1.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+          5. Efficiency
+
+
+                                                                                                                               Page 20 of 27
+       Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+       Economic Management Strengthening (P152171)
+
+
+
+This efficiency analysis is based on a financial analysis of two components of the project: enhanced mobilization
+of domestic revenues and improved governance of SOEs (pg. 42, Annex 5, ICR).
+
+Enhancement of domestic revenues is associated with increased financial returns related with the project’s
+efficiency. In 2021, tax revenue was 13.4% of GDP compared to the baseline of 9% of GDP in 2016. According
+to the ICR, the difference between the actual and the baseline is USD 3,139.93 million, or more than 200% of
+the project cost. While the increase in the tax revenue to GDP is generally attributed to several other factors, the
+ICR assumes that all the increase is attributable to this project as it led to improvements in GRA’s tax
+administration, although the latter is not fully operational. This attribution is implausible. While it is true that prior
+to the pandemic, Ghana’s tax to GDP ratio was 13%, and significantly below some of its regional peers, there is
+no evidence from official sources (WEO or WDI) to support the baseline and actual statistics noted in the ICR,
+much less evidence to attribute any significant increase in tax revenues to only the project.
+
+The ICR posits that improvements in SOE governance contributed to financial returns through reduced net
+losses. Between 2019 and 2022, losses by wholly owned SOEs declined saving USD 442 million (pg. 42, ICR).
+Savings from improving the performance of JVCs, SOEs and minority interest were estimated at USD 2,364
+million. In both areas of enhanced revenues and improved SOE financial returns, the ICR could have provided
+more granular evidence on how project activities contributed to these results given that as of 2023, GoG had
+announced a debt default, and subsequently entered an IMF 3-year ECF program to restore macroeconomic
+stability.
+
+Project management by MoF staff proved to be efficient while building the capacity of the MoF and the M&E
+Unit, despite minor weaknesses in M&E implementation that may have resulted from understaffing and
+insufficient incentives (See Section 9). The more than two-year extension of the planned completion date was
+due to disruptions from the change in government following project approval and the COVID-19 pandemic,
+neither of which could have been predicted. There was efficiency in mainstreaming the project within the MOF
+and avoiding the need for costly consultants in the project implementation unit. There were also cost savings
+from the shift in using internal expertise for certain activities instead of external consultants (ICR, p. 46).
+
+The project closure was delayed by over two years with two extensions. Overall, the project performed well on
+timeliness. The extension was requested by the government to complete remaining activities, especially the
+installation of the DW. Some project activities were significantly affected by the COVID-19 pandemic due in part
+to travel restrictions, lockdowns, and social distancing measures. While some activities had to be
+conducted virtually, proving to be less effective than face-to-face activities, IR Indicator 4.3 “CSOs participating
+in the annual stakeholder workshop on SOE governance” was not feasible in a virtual format. However, it was
+achieved 2022 after the government’s policy to restrict workshops was relaxed. Despite these challenges, the
+Project had achieved 99 percent disbursement prior to the second extension in March 2022.
+
+DW was a complex system and its procurement required significant inter-departmental collaboration which was
+a challenge. As this was not envisioned during project design, there were insufficient risk mitigation measures
+that led to delays. The responsibility for the management of the DW/BI within GRA was transferred to different
+departments multiple times, impacting overall implementation, and significantly affecting the timeline. Insufficient
+communication and collaboration between the parties responsible for detailing the specifications and the final
+beneficiaries of the system also impacted the project’s progress. Some of these issues should have been
+highlighted in the scoping report, considering there were already significant capacity gaps in Ghana even before
+the project.
+
+
+
+
+                                                                                                           Page 21 of 27
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      Economic Management Strengthening (P152171)
+
+
+
+Despite the challenges, the project made some progress. Hence, project efficiency is rated modest.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?             Point value (%)          *Coverage/Scope (%)
+                                                                                    0
+ Appraisal                                                 0
+                                                                                     Not Applicable
+                                                                                    0
+ ICR Estimate                                              0
+                                                                                     Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of objectives is rated high, as the project directly addressed and contributed to enhancing the
+GoG’s institutional capacity for revenue and expenditure management by improving the taxpayer database and
+enhancing GoG’s ability to manage public debt, investments, and SOEs. The objective continues to remain
+relevant even after project closure especially because there has been a sharp deterioration in the macro-
+economic situation in Ghana. Revenue and expenditure management, and debt sustainability have become
+even more critical. These reforms continue under the IMF’s ECF with revenue enhancements being frontloaded
+in the fiscal adjustment effort. Accordingly, GoG has set out to enact measures that will permanently raise the
+non-oil revenue-to-GDP ratio by at least 0.9 percent of GDP in 2024, 0.6 in 2025 and 0.4 percent of GDP in
+2026, (pg.58, IMF ECF).
+
+Efficacy is rated as Substantial. The project achieved three of its four objectives and made Modest progress in
+the fourth. The project made progress in strengthening revenue, public investment, debt, and SOE
+management.
+
+Efficiency is rated Modest although the ICR is weak in providing sufficient information to show that Efficiency
+improved.
+
+These ratings indicate some shortcomings in the project's preparation and implementation, leading to an
+Outcome rating of Moderately Satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+
+
+                                                                                                    Page 22 of 27
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Economic Management Strengthening (P152171)
+
+
+
+7. Risk to Development Outcome
+
+The risk to development outcome is rated high. The results achieved have not sufficiently supported the
+depth of reforms which were needed in Ghana during project implementation. During the project
+preparation, Ghana was also in discussions for IMF’s ECF (2015-18) and the WB DPF. This project’s
+achievements were not sufficient and sustainable to support the depth of reforms, emerging risks, and
+subsequent interventions in Ghana. At restructuring, the project may have missed opportunities for
+restructuring the components to adequately meet the changing circumstances, particularly the rapidly
+deteriorating macro-economic conditions. Capacity risks remained high, despite efforts to undertake
+extensive training across components. The GoG has recommitted to reforms under the IMF’s ECF program
+so some of its development outcomes are relevant for this project. It is expected that the four government
+institutions engaged in the project’s implementation (MoF, GRA, CAGD, and SIGA) will continue to
+implement reform activities under GoG’s new PFM strategy (2022-2026) that was approved in May 2022.
+The strategy overlaps with this project, especially in domestic revenue mobilization, public investment
+management, SOEs, and audit.
+
+The PFM Strategy which was approved in May 2022 augers well for a long-term reform strategy and
+priorities in PFM, particularly under the IMF’s current ECF. The reform priorities in the PFM which overlap
+with the Project – domestic revenue mobilization, public investment management, SOEs and audit remain
+important areas of long-term reform. The WBG has since approved a new operation, “PFM for Service
+Delivery PforR” which will further support the implementation of the PFM Strategy.
+
+The Bank will continue to work closely with the IMF under the new ECF arrangement and is expected to
+provide support in the form of a DPO which may cover some of the key subcomponents of the Project
+including debt statistics and extrabudgetary funds among others.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The Project was strategically relevant for Ghana’s design and preparation with realistic and clearly
+  defined objectives. The Project also paid attention to technical, financial, and economic aspects while
+  providing appropriate support for procurement, financial management, and social safeguards.
+
+  The operation was built in parallel with an ongoing DPO series. For example, the Cabinet approved the
+  policy on PIM in 2015 to satisfy a DPO prior action (See Section 2a). The series was underpinned by
+  considerable analytical work that also benefited this project.
+
+  However, neither the DPO series nor the analytical work on Ghana supported GRA. Instead, its design
+  draws on analytical work from similar settings, e.g. IMF. 2011. Revenue Mobilization in Developing
+  Countries and Cos (Pablo Hernandez de, and Enrique Moral-Benito. 2013); “What drives a successful
+  fiscal consolidation?” (Applied Economics Letters 20 (8), both cited in the PD, (p. 3.)). The Bank’s lack of
+  experience with GRA helps explain design weaknesses that needed to be addressed during GEMS
+  implementation such as issues of interdepartmental coordination in GRA (see Sections 4 and 9b).
+
+
+                                                                                                    Page 23 of 27
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Economic Management Strengthening (P152171)
+
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The issues identified in the Project were appropriately reported and presented in aide memoires and ISRs.
+ The Bank also provided enough support to ensure fiduciary compliance, especially in financial
+ management and procurement. Co-leadership between the Governance Global Practice and the
+ Macroeconomics, Trade and Investment Global Practice was a benefit, allowing some team members at
+ appraisal to support project implementation until project closure, particularly for DW/BI, allowing continuous
+ and seamless collaboration with government counterparts.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The M&E function under the Project was assumed by the M&E Unit under the Policy Coordination
+ Monitoring and Evaluation Division (PCMED) of MoF. The Project did not use a dedicated and stand-alone
+ M&E system because, during appraisal, it was concluded that the M&E systems in place were adequate. A
+ dedicated M&E officer was in place throughout project implementation.
+
+
+
+b. M&E Implementation
+  The Project Monitoring Unit (PMU) undertook various implementation reviews, and the results were used
+  to understand bottlenecks and problems better, but this happened with insufficient frequency and
+  proactiveness, according to the ICR (p. 15). The data collection for the PDO and intermediate indicators
+  was done primarily in response to requests from the Bank team during support missions or if ad-hoc
+  needs emerged. While the M&E Unit was well positioned and mandated for its functions, it needed more
+  staffing and funding to carry out its work.
+
+  Three of the indicators were measurable and relevant to their respective objectives. The first indicator
+  had to be revised because the GRA had difficulties in collecting data and measuring the target. The
+  revised indicator (DOI1) was: an increase in the ratio of four major taxes (personal income tax, company
+  tax, value-added tax, and import duties) to non-oil GDP (percentage). As defined, the project
+
+
+
+                                                                                                   Page 24 of 27
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Economic Management Strengthening (P152171)
+
+
+
+  outcome (higher revenues) could only be partly attributed to the project, as explained above in Sections 4
+  and 5.
+
+
+
+c. M&E Utilization
+  Except for the attribution problem above and the revision of one out of four indicators, the M&E
+  framework was effective in providing information and data on implementation progress. The PDO level
+  and intermediate level indicators were well designed and allowed both the Bank team and the PMU to
+  follow implementation progress closely and to address implementation weaknesses with the
+  implementing agencies and partners, despite the minor M&E weaknesses discussed above.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The environmental and social risks category was classified as C, and no social safeguard policies were
+   triggered. The project continues to be classified as C.
+
+
+
+
+b. Fiduciary Compliance
+   According to the ICR (Page 19), financial management remained Moderately Satisfactory throughout
+   project implementation. Various internal control arrangements, such as different levels of approval and
+   authorizations, were in place throughout project implementation to ensure the safeguarding of project
+   funds and assets. Some shortcomings in financial management did exist, such as delays in submitting
+   audited financial statements, but this did not prevent the timely and reliable provision of information
+   required to manage and monitor the implementation of the Project. Furthermore, interim financial reports
+   and annual audited financial statements were submitted following WBG guidelines, albeit with occasional
+   delays beyond the six months requirements specific in the Financial Agreements.
+
+    Challenges existed with the timely submission of documents and response requests from the Bank, mainly
+   due to the multiple layers of bureaucracy and ineffective and inefficient contract management. However,
+   the performance improved throughout project implementation.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   None reported.
+
+
+
+                                                                                                  Page 25 of 27
+       Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+       Economic Management Strengthening (P152171)
+
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                               Reason for
+Ratings                         ICR                   IEG
+                                                                               Disagreements/Comment
+                                                                               Shortcomings in the project's
+                                                                               preparation and implementation,
+Outcome                         Satisfactory         Moderately Satisfactory   some which could have been
+                                                                               addressed during the
+                                                                               restructurings.
+Bank Performance                Satisfactory         Moderately Satisfactory
+
+Quality of M&E                  Substantial          Substantial
+
+Quality of ICR                  ---                  Modest
+
+
+12. Lessons
+
+The ICR (pp. 21-22) offers several lessons and this ICRR would like to emphasize several of them:
+
+Inter-departmental collaboration in project design enhances the delivery of outcomes. Any
+project requiring collection of data or connecting systems, as in this case, requires extensive
+communication and stakeholder engagement. Projects of this nature need to undertake an in-depth
+scoping before designs are presented. The procurement of the DWI/BI required more time than
+initially planned due to the changes to the departments within GRA with the responsibility for the
+management of DW/BWI, which in turn required additional inter-departmental collaboration. Task
+teams may also consider internalizing this during project design and ensure the procuring entity and
+the beneficiary entities are on the same page.
+
+During restructurings, the level of ambition needs to be carefully calibrated. The government
+and Bank team were understandably cautious about the pandemic’s uncertainties and focused on
+achieving the original PDO. They may have missed opportunities to respond to changing
+dynamics/circumstances and new information. At the first restructuring, due in part to delays (2020),
+there was evidence that the challenges faced by Ghana were increasing. Fiscal challenges had
+increased, with an increasing fiscal burden from SOEs, high rollover and solvency risks, the reforms
+around debt management could have been re-designed to address the unfolding situation.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+
+
+                                                                                                  Page 26 of 27
+     Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+     Economic Management Strengthening (P152171)
+
+
+
+14. Comments on Quality of ICR
+
+The ICR provided a general assessment of the project. It mainly covered the relevant sections in some detail
+but did not provide sufficient evidence-based information and analysis to allow the ICR Review to be
+completed. It drew some lessons from evidence provided in the text. The efficiency section is not well
+developed and does not adequately discuss the DOIs and indicators. The discussion on the TOC is weak. The
+ICR could have provided more granular evidence on how project activities contributed to increased revenue
+and improved SOE financial returns (see Section 5). For example, an estimate of the number of businesses
+previously paying only import duties and now brought into the full tax regime would have helped to attribute
+revenue increases more precisely to project activities. Also, the ICR should have given a measure of the
+relative importance of SOEs to the economy that the project supported to produce timely, audited annual
+financial reports, to judge the significance of this achievement.
+
+
+
+  a. Quality of ICR Rating
+      Modest
+
+
+
+
+                                                                                                Page 27 of 27
+

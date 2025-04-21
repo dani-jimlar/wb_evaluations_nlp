@@ -1,0 +1,1398 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     BR RJ Mass Transit II (P111996)
+
+
+
+                                                                                 Report Number: ICRR0023561
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P111996                                   BR RJ Mass Transit II
+
+ Country                                   Practice Area(Lead)
+ Brazil                                    Transport
+
+
+ L/C/TF Number(s)                          Closing Date (Original)                Total Project Cost (USD)
+ IBRD-77190,IBRD-81170                     30-Jun-2014                                         658,762,082.57
+
+ Bank Approval Date                        Closing Date (Actual)
+ 09-Jul-2009                               30-Dec-2022
+
+                                           IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                          211,700,000.00                                               0.00
+
+ Revised Commitment                           730,925,577.82                                               0.00
+
+ Actual                                       658,762,082.57                                               0.00
+
+
+
+
+ Prepared by                Reviewed by                  ICR Review Coordinator          Group
+ Ihsan Kaler Hurcan         J. W. van Holst              Avjeet Singh                    IEGSD (Unit 4)
+                            Pellekaan
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to both the International Bank for Reconstruction and Development (IBRD) Loan Agreement (p.6)
+   dated September 24, 2009, and the Project Appraisal Document (p.7) dated June 2, 2009, the project
+   objectives were “(a) to improve the level-of-service provided to the suburban rail transport users in the RJMR
+   in a safe and cost-efficient manner; and (b) to improve the transport management and policy framework in the
+   RJMR,” in which RJMR stands for Rio de Janeiro Metropolitan Region.
+
+
+
+                                                                                                  Page 1 of 26
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     BR RJ Mass Transit II (P111996)
+
+
+
+   According to the IBRD Loan Agreement (for additional financing) dated September 5, 2012 (p.5), the project
+   objectives were revised to read as follows: “(a) to improve the level of service provided to suburban rail
+   transport users in the RJMR in a safe and cost-efficient manner; (b) to place the suburban rail transport
+   system on a lower carbon growth path; and (c) to improve the transport management and policy framework in
+   the Borrower's territory and in the RJMR.” The borrower was defined as the State of Rio de Janeiro.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  26-Jan-2012
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project consisted of two components:
+
+   A. Infrastructure Equipment. (Appraisal cost: US$187.30 million excluding contingencies and fees;
+   revised cost at additional financing: US$684.00 million excluding contingencies and fees; actual cost:
+   US$638.90 million)
+
+   This component was to finance the acquisition of 30 electrical multiple unit (EMU) trains of four cars each
+   and accessories for a total of 120 cars to be operated on the lines of the State Company of Transport
+   Engineering and Logistics (CENTRAL - Companhia Estadual de Engenharia de Transportes e Logística,
+   S.A.) of the State of Rio de Janeiro by the concessionaire (a consortium named SuperVia) under the terms
+   of the concessionaire contract.
+
+   B. Institutional and Policy Development. (Appraisal cost: US$4.80 million excluding contingencies and
+   fees; revised cost at additional financing: US$34.00 million excluding contingencies and fees; actual cost:
+   US$18.56 million)
+
+   This component consisted of two subcomponents:
+
+   B.1. Technical assistance to the Secretariat of Transport of the State of Rio de Janeiro (SETRANS -
+   Secretaria de Estado de Transportes do Rio de Janeiro). This subcomponent was to finance the
+   following policy development activities: (a) consolidating the urban transport agency of the Rio de Janeiro
+   Metropolitan Area (AMTU-RJ - Agência Metropolitana de Transporte Urbano do Estado do Rio de Janeiro);
+   (b) updating the current integrated transport policy, land use and air quality management master plan for the
+   Rio de Janeiro Metropolitan Region (RJMR) to meet both transport and air quality targets and to introduce
+   sound cost-recovery, tariff, regulatory and subsidy policies; and (c) supporting the adoption of Integrated
+
+
+
+                                                                                                    Page 2 of 26
+  Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+  BR RJ Mass Transit II (P111996)
+
+
+
+Modal Tariffs, which allow users to be charged a single fare for completing a trip using more than one
+service or mode within a certain period of time.
+
+B.2. Technical Assistance to CENTRAL. This subcomponent was to provide support to CENTRAL in the
+project implementation and supervision including the acquisition and reception of the trains.
+
+Revised Components
+
+At the first restructuring in January 2011, the project scope was expanded to procure four additional trains,
+introduce technical upgrades to the trains, rehabilitate and modernize existing metric gauge rolling stock,
+and to modernize the head office facilities of the Secretary of Transport (SETRANS) under the first
+component.
+
+At the time of additional financing in January 2012, the scope of the first component was expanded to
+include the purchase of an additional 60 trains and the design and implementation of a non-motorized
+transport and greening demonstration pilot program in selected stations of the suburban rail system. The
+scope of the second component was revised to provide technical assistance to SETRANS to conduct
+additional studies on policy development as follows (LA for Additional Financing, p.5):
+
+    1. The design of a sustainable transport policy including measures to reduce the carbon growth path of
+         transport and improve environmental and social sustainability.
+    2. The design and implementation of a strategy for the territory of Rio de Janeiro and the RJMR
+         passenger and freight transport system to adapt to the impacts of climate change, environmental
+         and social risks and liabilities, and natural disasters.
+    3.   The design and implementation of a center to monitor the impact of natural disasters on the
+         metropolitan public transport system.
+    4.   The design of a strategy to improve the efficiency and to reduce the carbon footprint of the freight
+         system and its environmental and social risks and liabilities.
+    5.   The feasibility and detailed engineering studies for potential bus rapid transit corridors in the RJMR
+         area.
+    6.   The design of a transport-related, accident-reduction policy to make the transport system safer.
+    7.   The design of an updated strategy for SETRANS to carry out consultations with stakeholders to
+         improve its transport reform planning process.
+    8.   An evaluation study to assess the social, economic, and environmental impact of the project,
+         particularly on carbon emissions.
+    9.   Studies to support the implementation of demonstration pilot program under the first component.
+
+At the fifth project restructuring in June 2015, the project scope was expanded to use the loan savings
+under the additional financing (following the procurement of 60 trains) for the purchase of 22 additional
+trains and 7 new fuel-efficient light rail trains to replace the existing old trains with higher emissions serving
+the poorest areas on the SuperVia rail network. Because of capacity limitations or coordination requirement
+with other government agencies in implementing the project activities under the second component, it was
+decided to prioritize the implementation of the following studies: (a) Evaluation of a pilot for a Transit
+Oriented Development (TOD) project; (b) a climate change adaptation strategy for transport systems in the
+metropolitan region; (c) a study to design a business model to foster the integration between non-motorized
+modes (bicycles) and the railway system; and (d) the first phase of an Intelligent Transportation System
+
+
+
+                                                                                                     Page 3 of 26
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    BR RJ Mass Transit II (P111996)
+
+
+
+  project (“CIMU – Centro Integrado de Mobilidade Urbana”) that focuses on generating real time data on
+  public transport.
+
+  At the sixth project restructuring in March 2018, the following project activities were cancelled because the
+  terms of references were not ready, or the procurement processes had not started: (a) Acquisition of seven
+  light rail trains; (b) studies for the renovation of the SETRANS building; (c) contingency for project
+  management contract; and (d) other technical consulting services related to rolling stock. The following
+  activities were added to the project scope to increase railway safety works: the construction of a 30-km of
+  walls, 6 pedestrian overpasses, and 3 automated gates at grade crossings on the Saracuruna Branch.
+
+  At the eighth and last project restructuring in May 2022, fare and intermunicipal bus studies were added to
+  the project scope.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost: The project cost was originally estimated at US$221.0 million including physical and price
+  contingencies and a front-end fee. At the time of additional financing in September 2012, the estimated
+  project cost was revised up to US$821.0 million. The project closed on December 30, 2022 with an actual
+  cost of US$658.9 million. Because of the loan savings, the actual project cost was lower than the cost
+  estimated at appraisal.
+
+  Financing: At appraisal, the IBRD loan amount was estimated at US$211.7 million, which increased by
+  US$600 million at the additional financing. By the project closing in December 2022, the project had fully
+  disbursed the original loan, but only US$447.8 million of the additional financing. The difference between
+  the total commitment of $811.7m and the total disbursement of $659.5m equals to $152.2m, of which
+  $80.65 million was cancelled at the sixth restructuring in 2018, and the remainder was cancelled at project
+  closing. All project funds were accounted for at the time the ICR was prepared.
+
+  Borrower’s contribution: At appraisal, the borrower’s (the State of Rio de Janeiro) contribution was
+  estimated at US$9.30 million. The borrower’s estimated contribution did not change at the additional
+  financing but was cancelled at the fifth restructuring upon the request of the government with the World
+  Bank’s agreement. At project closing, the borrower’s actual contribution was US$1.7 million.
+
+  Project Restructurings: The project was restructured eight times including one additional financing.
+
+        First Restructuring (January 19, 2011 – Report No: 57826-BR): To utilize the loan savings of
+         around US$47.1 million that occurred after the procurement of the 30 trains, the scope of the first
+         component was expanded (see Revised Components above). Two intermediate results indicators
+         were introduced to measure the implementation of these new activities: (a) cumulative percent of
+         completion of rehabilitation/modernization of metric gauge rolling stock; and (b) cumulative
+         completion of SETRANS building rehabilitation.
+        Second Restructuring (July 11, 2011 – Report No:63677-BR): The project was restructured to
+         reallocate funds between disbursement categories because of loan savings and increases in the
+         estimated costs of consultancy services and the rehabilitation of SETRANS building.
+        Third Restructuring and Additional Financing (January 26, 2012 – Report No:64281-BR): An
+         additional financing of US$600.0 million was approved to finance the new activities added to the
+         project scope (see Revised Components above). The additional financing could be accepted by the
+
+                                                                                                   Page 4 of 26
+Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+BR RJ Mass Transit II (P111996)
+
+
+
+       beneficiary because the federal government increased the debt ceiling for the State of Rio de
+       Janeiro. The project name was changed from Rio Mass Transit II Project to Upgrading and Greening
+       the Rio de Janeiro Urban Rail System Project. A third objective was added to the project objectives
+       (see section 2a. Objectives above). To allow time for the completion of the project activities added to
+       the project scope, the project closing date was extended by three years from June 30, 2014 to June
+       30, 2017. The target values of the indicators were revised up to reflect the increased project scope,
+       and a new indicator was added to measure the reduction in greenhouse gas emissions, i.e.,
+       reductions of transport-related greenhouse gas emissions in the SuperVia area of influence.
+      Fourth Restructuring (December 27, 2013 – Report No:10611): The project was restructured to
+       reallocate funds between disbursement categories because of the adjustment of the price of goods
+       and change of scope of consultancy services.
+      Fifth Restructuring (June 23, 2015 – Report No:14858): To use the loan savings, the project
+       scope was expanded to purchase additional trains (see Revised Components above), and project
+       funds were allocated accordingly among disbursement categories. The counterpart funding was
+       cancelled (see Borrower’s Contribution above).
+      Sixth Restructuring (March 23, 2018 – Report No:25635): Prior to this restructuring, the project
+       closed on June 30, 2017 because of the delay at the federal government level in approving the
+       amendment to the loan agreement to extend the closing date, but the project was reinstated on
+       January 31, 2018 through the memo to Latin America Regional Vice President. The project closing
+       date of the original loan agreement was extended by 24 months to June 30, 2019, and the closing
+       date of the additional financing loan agreement was extended by 30 months to December 31, 2019
+       to allow time for the completion of studies under the second component and cover the warranty
+       period of the train contracts. Some project activities were cancelled, and railway safety works were
+       added to the project scope (see Revised Components above). The undisbursed funds of US$80.65
+       million were cancelled. Funds were reallocated about disbursement categories because of the
+       changes in the project activities.
+      Seventh Restructuring (December 27, 2019 – Report No:39095): The original loan closed on
+       June 30, 2019 as fully disbursed. The project was restructured to extend the closing date of the
+       additional financing loan agreement by three years from December 31, 2019 to December 31, 2022
+       to allow time for the completion of the railway safety works (including the construction of walls,
+       pedestrian bridges, and automatic gates at railway crossings) and three studies under the second
+       component (i.e., socioeconomic impact evaluation, study on climate change, and the CIMU) the
+       procurement process of which had not started. This extension would also allow the outstanding
+       payment of the five percent retainer toward the train acquisition following the government’s issuance
+       of a final acceptance certificate expected by September 2022. A reallocation of unused contingency
+       funds and loan savings to other disbursement categories were agreed in principal but could not be
+       processed because the Rio state was under a bailout program, and the bailout program council
+       needed to assess the impact of the fund reallocation on the finances of the State of Rio de Janeiro.
+       The parties agreed to restructure the project for reallocation of funds following the completion of the
+       bailout program council’s review.
+      Eighth Restructuring (May 31, 2022 – Report No:41459): The project was restructured to
+       reallocate unused contingency funds and loan savings to finance the cost of the rail safety activities,
+       which were at an advanced stage of procurement. This restructuring added fare and intermunicipal
+       bus studies to the project scope. The project development objective level indicator of “travel time
+       plus waiting time between selected pairs of stations before and after the trains are delivered” was
+       dropped as it was argued that the project did not result in a reduction in travel time because of the
+       introduction of operational speed limits to ensure safety. Three new indicators were introduced to
+
+
+                                                                                                 Page 5 of 26
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     BR RJ Mass Transit II (P111996)
+
+
+
+          better capture the project outcomes such as reliability, seat capacity, and increased energy
+          efficiency: (a) mean kilometer between failures; (b) available seat kilometers; and (c) energy
+          consumption per train-km. The target of the project development outcome level indicator of “number
+          of SuperVia stations with parking facilities” was revised down from 20 to 15 because of the
+          suspension of the bicycle storage facilities at some stations during the COVID-19 pandemic. The
+          targets of three intermediate results indicators were revised down because of decreased ridership
+          during the COVID-19 pandemic: (i) trains in peak-hour and off peak hour; (ii) additional demand
+          generated from project on SuperVia – passengers per day; and (iii) working ration SuperVia. Two
+          intermediate indicators were added to measure the user satisfaction and record the completion of
+          studies added to the project at this restructuring.
+
+   Dates: The project was approved on July 9,2009. The IBRD Loan Agreement was signed on September 24,
+   2009, and the project became effective on December 3, 2009. The Additional Financing Loan Agreement
+   was signed on September 15, 2012. The Mid-Term Review was conducted in June 2015. The original
+   project closing date was June 30, 2014 but was extended by eight years and six months. The project closed
+   on December 30, 2022. The reasons for project closing date extensions are given in the project
+   restructuring entries above.
+
+   Reasons not to undertake a split assessment of the project’s performance: The project objectives
+   were revised at the time of the additional financing in January 2012 and the changes were made to the key
+   outcome indicators at the eighth project restructuring in May 2022 (seven months before project closing).
+   However, this review will not undertake a split assessment of the project performance as the changes
+   resulted in an increase in the ambition of the project in line with the increased funding. Furthermore, except
+   the reduced target for one indicator (i.e., number of SuperVia stations with bicycle parking facilities) that did
+   not affect the assessment of the achievement of the project outcomes and objectives, the targets of other
+   indicators were revised up in accordance with the expansion of the project scope. Hence, this review will
+   assess the achievement of the revised objectives (consisting of three objectives) based on the achievement
+   of the indicators defined at the time of additional financing and those added at the eighth project
+   restructuring.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+The project objectives were highly aligned with the World Bank’s Country Partnership Framework Fiscal
+Year 2018-2023 (CPF) for Brazil. The project originally sought to address the obstacles to an efficient and
+reliable urban mass transportation in a mega metropolitan area (i.e., Rio de Janeiro) serving mainly lower
+income families and subsequently decarbonization of transportation through encouraging the use of more
+easily accessible and cleaner modes of public transportation (trains rather than buses) and decrease the
+use of private vehicles in the medium and long-terms (i.e., modal shift from privately-owned vehicles to
+public transportation). In Brazil, transport accounts for about 45 percent of the energy-related greenhouse
+gas emissions. The project was to achieve its objectives through the acquisition of electrical multiple unit
+trains that would replace old and inefficient trains running on the metropolitan rail system in Rio de Janeiro
+and improve the policy framework and institution capacity in sustainably operating and maintaining the rail
+system. The project objectives corresponded to “Focus Area 3: Inclusive and Sustainable Development” of
+
+
+                                                                                                       Page 6 of 26
+                                      Independent Evaluation Group (IEG)                        Implementation Completion Report (ICR) Review
+                                      BR RJ Mass Transit II (P111996)
+
+
+
+               the CPF and supported the achievement of “Objective 3.2: Provide more inclusive and sustainable urban
+               services.”
+
+               The project objectives were highly relevant to the regional context in the Rio de Janeiro metropolitan region
+               (RJMR). The population of the RJMR is estimated at 14 million people. The sustainable and efficient
+               operation of the metro system in the RJMR is critical for the transportation of the people in a city where
+               traffic congestions are frequent. This would also contribute to the Brazilian government’s efforts to reduce
+               greenhouse gas emissions from transport. Therefore, the project objectives were outcome-oriented and
+               appropriately pitched for the development status and capacity in the RJMR, where SETRANS and
+               CENTRAL had the capacity to implement complex mass transportation projects. Given the development
+               level of the country and the RJMR, the project objectives were achievable.
+
+               At the time of appraisal, the World Bank had already been a long-term development partner of the State of
+               Rio de Janeiro in urban transport since mid-1990s starting with the preparation of the Urban Transport
+               Development Plan and involvement in the urban rail system’s privatization process under the Rio de
+               Janeiro Metropolitan Transport Decentralization Project (P006547). The World Bank continued to support
+               the development of urban railroads in the RJMR through other projects, such as the Rio de Janeiro First
+               Mass Transit Project (P043421), which introduced an integrated modal tariff to improve the affordability of
+               rail commute while renewing the train fleet. The main driver for the World Bank’s continued engagement in
+               the urban rail transport development in the RJMR was the benefits lower income communities received
+               from access to urban rail lines in the region (ICR, p.7). Therefore, given the World Bank’s long-term
+               engagement in urban transport development in the RJMR, the outcomes expected from the project were
+               consistent with the progress over time (i.e., increased efficiency and affordability and lower-carbon growth
+               path in urban transport) and the project objectives were sufficiently challenging.
+
+               Overall, the relevance of objectives is rated High.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To improve the level-of-service provided to the suburban rail transport users in the RJMR in a safe and cost-
+                             efficient manner.
+
+                             Rationale
+                             Theory of Change for Objective 1
+
+                             In the original project design, the project inputs—IBRD loan and technical assistance—were to be used to
+                             finance the acquisition of trains and accessories, the update of the and the preparation of integrated transport
+
+                                                                                                                               Page 7 of 26
+   Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+   BR RJ Mass Transit II (P111996)
+
+
+
+policy, land use and air quality management master plan (PDTU) for the RJMR, and the expansion of the
+Integrated Modal Tariffs (IMT) on the SuperVia substations. The project’s outputs would be the delivery of 30
+trains to replace and expand the train fleet running on the SuperVia’s rail network, the PDTU updated, and
+the IMT expanded. The outcomes expected from the delivery of the 30 trains would have been increased
+frequency of rail service (both at peak and off-peak times), decreased travel time, less crowded trains, fewer
+train failures, and increased availability of seating resulting in an improved level-of-service and increased
+ridership (shifting from bus service to rail service). The expansion of the IMT would have been expected to
+encourage more passengers to use the rail service as this would allow easier transfer from bus service to rail
+service and vice versa. As more passengers would have been expected to shift from bus services to rail
+service, this would have resulted in a decrease in the bus service and fewer road accidents. Hence, the
+suburban transport would have become safer. Increased ridership and the better management of the rail
+service as a result of the updated PDTU would have been expected to generate more revenues for a cost-
+effective operation of the rail service. The operation of more efficient trains would also have been expected to
+increase the cost-effectiveness of the rail service. However, the original project design did not include
+activities to improve the level-crossings and pedestrian crossings on the SuperVia lines and the construction
+of safety walls along the certain section of the rail lines that would have contributed to the safer delivery of rail
+service. These shortcomings in the theory of change were addressed in various project restructuring through
+the addition of relevant project activities to the project scope, such as the improvement of level-crossings and
+pedestrian crossings, construction of security walls, and introduction of automated train protection systems.
+The improvement in the accessibility, quality, reliability, affordability, and sustainability of urban rail services
+would have been expected to contribute to a sustainable urban development in the RJMR in the long run.
+Overall, the causal links from project activities and outputs to expected outcomes were direct and valid, and
+the achievement of the project objectives could be attributed to the project’s interventions; however, it should
+be noted that other factors outside of the control of the project could affect the achievement of the project
+outcomes and objectives, such as the financial sustainability of the urban rail system, the ease of commuting
+by buses and informal modes of transport (such as subsidized bus fares and easy access), fuel prices,
+availability of parking, and security.
+
+Outputs
+
+      Delivery and operation of trains: The project financed the procurement of 30 trains under the
+       original loan and 60 trains under the additional financing, as targeted, and an additional 16 trains
+       utilizing the loan savings. The total number of trains purchased under the project was 106.
+      Rehabilitation of rolling stock: The project financed the rehabilitation of the existing trains that
+       continue to be operated, as targeted.
+      Number of SuperVia stations with bicycle parking facilities. The project financed the construction
+       of bicycle parking facilities at 17 SuperVia stations as targeted increasing the number of stations with
+       bicycle facilities to 20. However, SuperVia suspended the services of bicycle storage facilities at five
+       stations because of issues with the service operator and low demand during COVID-19 pandemic.
+       Currently, 15 stations have bicycle parking facilities, but the evidence is insufficient to assess their
+       current level of operation and impact on facilitating passengers’ easier access to the rail stations.
+      The project was to finance the construction of road and pedestrian safety works that would improve
+       safety at level crossings, but the procurement of these project activities could not be initiated by
+       project closing. It was also intended that the project would finance an automated train protection
+       system, which would allow higher operational speeds under safe conditions, but this activity was
+       dropped from the project scope as it was identified as the contractual responsibility of SuperVia, the
+
+
+                                                                                                       Page 8 of 26
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   BR RJ Mass Transit II (P111996)
+
+
+
+       system operator. As there was no enforcement mechanism under the concession contract, SuperVia
+       did not install the automated train protection systems (ICR, p.21).
+      The project updated the PDTU and completed the studies for the expansion of the IMT on the
+       SuperVia substations as targeted.
+
+Outcomes
+
+The followings indicators are used to assess the achievement of the improvement in the level-of-service:
+
+      Mean kilometers between failures. This indicator was added to the results framework at the last
+       project restructuring to better capture the improvement in the reliability of the urban rail service
+       because of the new trains acquired under the project. The baseline was 24 km indicating that train
+       failures were frequent. The target was to increase this to 500 km, but the achievement at project
+       closing was around 150 km, which was significantly lower than the target because of increased
+       incidents of copper cable theft after the onset of the COVID-19 pandemic and worsening economic
+       situation. The data is insufficient to assess what percent of the service disruptions was because of
+       train failures and what percent was because of other reasons, such as cable thefts, accidents, or
+       human errors.
+      Available seat-kilometers. This indicator was added to the results framework at the last project
+       restructuring in May 2022 to better capture the improvement in the urban rail travel comfort because of
+       the purchase of new trains. The baseline was around 13 million seats, and the target was to increase
+       this number to 16.9 million seats. The achievement at around 12.2 million was lower than the
+       baseline. The underachievement was mostly because of the COVID-19 pandemic, which led to lower
+       demand and decreased number of train services. The gradual resumption of normal train services,
+       which was scheduled in March 2022, is postponed because of adverse impact of increased incidents
+       of copper cable theft on train services.
+      Travel time between selected stations. The operation of new trains on SuperVia lines was expected
+       to lower the travel time from certain stations. However, of the five stations selected, travel time
+       decreased from only one station (i.e., Belford Roxo) from 73 minutes to 65.5 minutes against the
+       original and revised targets of 62 and 68 minutes, respectively. The travel times from the other four
+       selected stations increased above the baselines. For example, the travel time from the Campo Grande
+       Station increased from 62 minutes to 86.5 minutes. The ICR (p.45) reports that this indicator “ceased
+       to be relevant for measuring the project outcome given that operational speeds have been reduced to
+       ensure safe operations of the newly acquired trains.” The trains operate at lower speeds because of
+       level-crossings without barriers that create a safety risk to car traffic and pedestrians. Additionally, the
+       travel time also depends on integrated systems such as signaling and power supply, which were
+       outside the project’s intervention. The absence of automated train protection systems also requires a
+       safe distance between trains and lower speeds. Overall, the project’s intervention was ineffective in
+       reducing the rail travel time.
+      Trains in peak-hour (off peak) hour. The increased number of trains was to lead to more frequent
+       peak and off-peak hours train service from five stations (same stations selected for the previous
+       indicator). Because of the adverse impact and the increased incidents of cable thefts, SuperVia
+       reduced the number of train services. Therefore, the project did not achieve its targets for train service
+       frequency increase. The frequency of peak hour train service decreased below the baselines in four
+       stations, except the Ramal Japeri Station, where it increased from 8 trains to 10. Off-peak hour train
+       service frequencies in all five stations either did not change or decreased at project closing compared
+       to their baselines.
+
+                                                                                                     Page 9 of 26
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   BR RJ Mass Transit II (P111996)
+
+
+
+
+      Average number passengers per square meter on SuperVia lines at peak hour. This indicator
+       captures the project’s impact on improving the level-of-service through increased passenger capacity.
+       Before the project, the average number was eight passengers per square meter. The project already
+       achieved the target of six passengers per-square-meter in 2019 when the train ridership was not
+       affected by the onset of the COVID-19 pandemic, and the achievement was attributable to the
+       project’s intervention. At project closing, average number of passengers per square meter was three,
+       better than the target of six passengers. However, the ICR (p.40) indicates that the reduction in the
+       average number of passengers per square meter at project closing could not be attributed to the
+       project’s interventions mostly because of the adverse impact of the COVID-19 pandemic on ridership,
+       i.e., decrease in ridership because of COVID-19 restrictions, and the train ridership did not bounce
+       back as expected in 2021 and 2022 because of the adverse impact of continued economic crisis,
+       interruptions in rail service caused by copper cable thefts, and the continuation of the bus fare
+       subsidies introduced by the municipalities during the pandemic.
+      Additional demand generated from project on SuperVia - passengers per day. This indicator was
+       to measure the increased number of passengers following the improvement in the urban rail service
+       shifting to rail service from public buses or informal modes of transport (such as unregulated
+       minibuses). The project was expected to create an additional demand of around 70,000 passengers
+       per day. In 2016, the achievement was recorded at 118,536 additional passengers. However, as the
+       ICR (p.47) reports, the achievement at project closing was zero because of exogenous factors such
+       as the economic slowdown in the State of Rio de Janeiro since 2016 and the onset of the COVID-19
+       pandemic in March 2020. Furthermore, although the subsidized bus tariffs resulted in a faster
+       recovery in bus ridership after the slowing down of the pandemic, the recovery in train ridership was
+       negligible as there was no subsidized rail tariff and service interruptions because of copper cable
+       thefts. The ICR (p.47) reports that the demand for rail service is expected to bounce back in 2025.
+
+The followings indicators are used to assess the achievement of the safety and cost-effectiveness aspects of
+the rail service:
+
+      Energy consumption per train-kilometer (kWh). This indicator was added to the results framework
+       at the last project restructuring in May 2022 to capture the improvement in the efficiency of the train
+       operation and reduction in the greenhouse gas emissions. The baseline was 3.70 kWh per train
+       kilometer. The achievement was 3.20 kWh per train kilometer against the target of 3.30 kWh. With the
+       introduction of new trains, the electricity consumption per train kilometer has decreased. As the trains
+       operate more efficiently consuming less energy, this would contribute to cost-effectiveness of the rail
+       service.
+      Working ratio SuperVia. This indicator was defined as the ratio of SuperVia’s operational costs to
+       operational revenues, which entirely comes from user tariffs. At appraisal, SuperVia was already able
+       to cover its operational costs with its operational revenues as the ratio was 0.75. The target was to
+       improve the ratio to 0.70, which was later revised to 1.0 following the decline of ridership (hence, the
+       decline in operational revenues) because of the onset of the COVID-19 pandemic. The achievement
+       at project closing was 0.97. SuperVia is still able to cover its operational costs by its operational
+       revenues despite adverse impacts of exogenous factors on its rail service.
+      User satisfaction. User satisfaction was first measured following the operation of the first trains
+       acquired under the project in 2014, which was 5.7 out of 10. The target was to increase it to 6.7, and
+       the achievement was 6.8 in 2020. However, the user satisfaction rate sharply dropped to 5.0 in 2022
+       reflecting the adverse impact of exogenous factors on train services (The user satisfaction was
+
+
+                                                                                                 Page 10 of 26
+   Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+   BR RJ Mass Transit II (P111996)
+
+
+
+       measured by a single survey in 2022 following the interruption of survey during the COVID-19
+       pandemic).
+
+
+
+      Percent of passengers per day from households earning less than four minimum salaries.
+       There was no baseline for this indicator. The original and revised targets before and after the
+       additional financing were to achieve 65 percent and 80 percent, respectively, of passengers per day
+       from lower income households (i.e., households earning less than four minimum salaries per month).
+       The actual average achievement was 89 percent. However, it is not clear how this indicator captures
+       the improvement in rail service as it only provides the share of the passengers from low-income
+       households in train ridership. Therefore, this indicator is not considered in assessing the project’s
+       efficacy in achieving Objective 1.
+
+The project successfully completed the acquisition of 106 trains by project closing replacing some of the old
+trains and increasing the total number of trains operational on SuperVia lines from 161 to 201 (ICR, p.21).
+The project achieved most of its targets related to improved service reliability between 2016 and 2020 but fell
+short of sustaining these achievements in service accessibility, quality, and reliability because of exogenous
+factors such as the economic crisis in 2016, the onset of the COVID-19 pandemic, increased incidents of
+cable thefts, and competition from other public transportation modes, such as public buses with subsidized
+fares. The project contributed to the improvement in the efficiency of the rail service operation through a
+decrease in the consumption of electricity in kWh per train kilometer, which should be expected to contribute
+to the increased cost-effectiveness of the rail service. The project fell short of improving the safe operation of
+the rail service as the related outputs could not be delivered, such as the construction of safety walls,
+installation of barriers on level-crossings and pedestrian crossings, and installation of an automated train
+protection system. However, according to the ICR rail ridership is expected to bounce back to pre-COVID-19
+levels in the next two years, this should result in fewer buses operating in the city indirectly improving safety
+on roads.
+
+The project successfully increased the rail service capacity in the RJMR. The purchase of modern trains
+improved the travel comfort, and the project achieved some of its outcomes during project implementation.
+Although the exogenous factors adversely affected the sustainability of the project outcomes, such as the
+economic crisis in 2016 and the COVID-19 in 2020, the rail service frequency and ridership are expected to
+bounce back to pre-COVID-19 levels within the next couple of years as the adverse impacts of these
+exogenous factors disappear. The increased rail ridership (i.e., increased revenues) and the more energy-
+efficient trains should be expected to contribute to cost-effective delivery of rail service. But the project’s
+failure to implement the project activities that would have contributed to the delivery of rail service in a safe
+manner was a significant shortcoming.
+
+Overall, given that the project’s intervention resulted in a substantial increase in the rail service capacity in the
+RJMR and the ridership is expected to bounce back within the next couple of years, the project’s efficacy in
+achieving the project objective “to improve the level-of-service provided to the suburban rail transport users in
+the RJMR in a safe and cost-effective manner” is rated Substantial, but marginally so because of significant
+shortcomings in improving the safe delivery of the rail service.
+
+
+
+Rating
+
+                                                                                                     Page 11 of 26
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   BR RJ Mass Transit II (P111996)
+
+
+
+Substantial
+
+
+OBJECTIVE 2
+Objective
+To place the suburban rail transport system on a lower carbon growth path.
+
+Rationale
+Theory of Change for Objective 2
+
+The project inputs—IBRD loan and technical assistance—were to be used to finance the acquisition of
+electrical trains and accessories, the preparation of institutional and policy studies (such as Urban Transport
+Master Plan, Logistics Master Plan, Transit Oriented Development Project, Climate Change Mitigation and
+Adaptation Study, Rail System Sustainability Plan, and Fare Policy Reform Assessment), and the
+implementation of the Urban Mobility Center. The project’s outputs would be the delivery of electrical trains to
+replace and expand the train fleet running on the SuperVia’s rail network, institutional and policy studies
+delivered, and the Urban Mobility Center implemented. The expected outcomes from the acquisition of the
+new electrical trains were increased ridership as a result of a shift from busses and other informal modes of
+transportation to rail transport and lower electricity consumption because of advanced technology used in the
+new trains, such as regenerative braking systems. The development of policies and studies would have been
+expected to a better urban planning in accordance with the transport-oriented development principles (TOD)
+that would encourage train transport and discourage bus transport. These outcomes should result in a
+reduction in greenhouse gas emissions because of less electricity consumption of the trains and fewer
+busses running on roads in the short-term and because of the better management of the public transport
+modes and urban development in accordance with the TOD principles in the medium and long-term placing
+the suburban rail system and the metropolitan transport modes on a lower carbon growth path. However, the
+sustainability of low carbon growth path would depend on the continuity in urban development based on
+green-growth and TOD principles. Overall, the causal links from project activities and outputs to expected
+outcomes were direct and valid, and the achievement of the project objective “to place the rail systems on a
+low carbon growth path” could be attributed to the project’s interventions.
+
+Outputs
+
+In addition to the acquisition of the 106 train sets (see Outputs under Objective 1 above), the project delivered
+the following outputs aimed at reducing the railway’s carbon footprint:
+
+      SuperVia stations with bus-rail fare integration. Before the project, 30 stations on SuperVia lines
+       had integrated bus-rail fare systems. The project installed bus-rail integration systems at an additional
+       52 stations against the original and revised targets of 10 and 45, respectively.
+      Business plan to increase non-motorized accessibility of the poor to train stations. The project
+       delivered a business plan for non-motorized access (bicycle) to the train stations. The project also
+       financed the installation of bicycle storage facilities at 17 stations, but five of them were not
+       operational when the project closed (see Outputs under Objective 1 above).
+      Completion of studies in support of the Integrated Modal Tariff (IMT). The project financed the
+       preparation of a study on IMT, which allows users to be charged a single fare for using more than one
+       service or mode during a trip within a certain period of time.
+
+
+
+                                                                                                  Page 12 of 26
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   BR RJ Mass Transit II (P111996)
+
+
+
+Outcomes
+
+      Energy consumption per train-kilometer (kWh). This indicator was added at the time of the
+       additional financing when the projective objective was revised to include this second objective. As
+       discussed in the Outcomes section of Objective 1 above, the new trains (although equipped with air
+       conditioning) resulted in a decrease in energy consumption per train-kilometer from 3.70 kWh to 3.20
+       kWh against the target of 3.30 kWh.
+      Reductions of transport-related greenhouse gas emission in the SuperVia area of influence
+       (Ton CO2). The ICR (p.42) reports that the data provided by CENTRAL could not be extrapolated to
+       the closing date as it did not capture the effect of the COVID-19 pandemic on rail service. Based on a
+       World Bank emissions tool for rail projects, the ICR conducted an independent calculation of the
+       reduction in greenhouse gas emissions because of the operation of the new trains purchased under
+       the project. The calculation resulted in a 17,703 tons of CO2 reduction at project closing against the
+       target of 34,000 tons of CO2. The same simulation shows that the target will be met in 2031 in line
+       with the expected increase in train ridership.
+      Evidence is insufficient to assess the precise impact of the technical assistance outputs listed above
+       (i.e., non-motorized accessibility and IMT) on placing the suburban rail transport system on a lower
+       carbon growth path. However, according to the literature, such outputs could contribute to the
+       decarbonization of transport in the medium and long-term as people shift from using privately-owned
+       vehicles to public transport.
+
+As outlined in the theory of change, the project was expected to achieve a reduction in greenhouse gas
+emissions through two channels. The first was through increased energy efficiency because of the purchase
+of energy efficient electric trains equipped with regenerative braking systems. The second channel of
+greenhouse gas emissions reduction was through the modal shift from fossil-fueled modes of transportation
+(buses, unregulated minibuses, and, to a lesser extent, private vehicles) to public transportation (urban rail
+system). The integration of bus-rail fare system should be expected to encourage more people to use public
+transportation as it would be easier to change from bus to rail and vice versa resulting in a reduction in people
+using fossil-fueled modes of transportation. Both of these channels should be expected to contribute to the
+decarbonization of transport in the medium and long-terms. Although the project fell significantly short of
+achieving the target for reduction in greenhouse gas emissions (despite the achievement of the target for
+reduction in energy consumption per train kilometer), it can be argued that the greenhouse gas emissions
+would have been higher if the project had not been implemented (counterfactual). The implementation of
+transport oriented development principles in urban development should be expected to contribute to a lower
+carbon growth path, but shifting political support is a risk for a continuous implementation of these principles
+in urban development.
+
+Overall, this review concludes that the project was partially successful in reducing the greenhouse gas
+emissions at the project’s close, but it is expected the targets should be achieved in future as the adverse
+impacts of exogenous factors on ridership disappear and the train ridership increases to its pre-COVID-19
+levels. Therefore, the project’s efficacy in achieving the second objective is rated Substantial.
+
+
+
+Rating
+Substantial
+
+
+
+                                                                                                  Page 13 of 26
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   BR RJ Mass Transit II (P111996)
+
+
+
+
+OBJECTIVE 3
+Objective
+To improve the transport management and policy framework in the borrower’s territory and in the RJMR.
+
+Rationale
+Theory of Change for Objective 3
+
+The project inputs—IBRD loan and technical assistance—were to be used to finance the preparation of
+institutional and policy studies (such as Urban Transport Master Plan, Logistics Master Plan, Transit Oriented
+Development Project, Climate Change Mitigation and Adaptation Study, Rail System Sustainability Plan, and
+Fare Policy Reform Assessment), implementation of the Urban Mobility Center, and delivery of bicycle-rail
+integration program. The project’s outputs would be the institutional and policy studies delivered, the Urban
+Mobility Center implemented, and bicycle-rail integration completed. The outcomes expected from these
+studies and plans were improved integration of rail service with bus service and non-motorized modes of
+transport (i.e., bicycles), implementation of the updated master mobility plan, introduction of an intermunicipal
+single fare program, urban development based on TOD principles, implementation of the integrated center for
+urban mobility, improved sustainability of urban rail system, and implementation of security measure on level
+crossings. These outcomes would have led to an improvement in the transport management and policy
+framework in the project area. Overall, the causal links from project’s technical activities and outputs to
+expected outcomes were direct and valid, and the achievement of Objective 3 could be attributed to the
+project’s interventions; however, the changing political support posed a major risk to the achievement of the
+project outcomes.
+
+Outputs
+
+The project delivered the following outputs under the technical assistance component as planned:
+
+      Update of the RJMR Mobility Master Plan (PDTU)
+      State Logistics and Freight Master Plan (PELC)
+      Development and management of the Integrator Bicycles Program (NMT)
+      Design studies for the Urban Restructuring around the Queimados Station (TOD Pilot)
+      Development and implementation of the Integrated Center for Urban Mobility (CIMU), but the
+       equipment delivery is pending.
+      Socioeconomic Impact Evaluation of the project
+
+The development of the “Strategic Plan for Climate and Disaster Adaptation for RJMR Mass Transit Systems”
+is currently ongoing.
+
+The project could not deliver the following technical assistance outputs during project implementation (ICR,
+p.25):
+
+      Suburban Rail System Sustainability Plan. The procurement could not be initiated during project
+       implementation. The plan is currently being developed in-house.
+      Level crossing diagnostic study. The successful bidder for the contract declined the contract, and
+       the procurement was not reinitiated.
+      Studies for the reform of the Intermunicipal Single Fare Program. The contract was signed but
+       the work did not start.
+
+                                                                                                  Page 14 of 26
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   BR RJ Mass Transit II (P111996)
+
+
+
+
+      Review of the tender documents related to the bidding of Intermunicipal Bus Lines
+       Concessions. The selection of an individual consultant was not initiated.
+
+Outcomes
+
+The project identified two indicators for the achievement of the third objective, but these indicators were
+insufficient to capture the improvement in the transport management and policy framework in the State of Rio
+de Janeiro’s territory and the RJMR.
+
+      Number of SuperVia stations with bicycle parking facilities. The project increased the number of
+       SuperVia stations with bicycle parking facilities from 3 to 20, as targeted, but SuperVia suspended the
+       operations in five stations because of issues with the service operator and the low demand during the
+       COVID-19 pandemic. The installation of bicycle parking facilities was a result of the Integrator Bicycles
+       Program developed under the project, but the evidence is insufficient to assess the impact of this
+       program on the improvement of transport management in the RJMR as only a small percentage of the
+       stations have bicycle parking facilities, and the operation of some the bicycle parking facilities installed
+       under the project was already suspended.
+      Number of SuperVia stations with bus-rail fare integration. The project financed the installation of
+       bus-rail fare integration systems at an additional 52 stations from a baseline of 30 stations against the
+       original and revised targets of 10 and 45, respectively. However, the evidence is insufficient to assess
+       the impact of the bus-rail fare integration on the improvement of transport management in the RJMR.
+
+The ICR provides the following information as additional evidence for the achievement of the third objective
+(ICR, p.24):
+
+      The Urban Transport Master Plan (PDTU) and the Logistics Master Plan (PELC) developed under the
+       project increased “the State’s capacity to plan future investments and operations to optimize urban
+       transport and statewide logistics efficiency” and that these plans were submitted to the Legislative
+       Assembly of the State of Rio de Janeiro and adopted as “critical background studies for the periodic
+       enactment of the Pluriannual Plans.
+      The Integrated Center for Urban Mobility (CIMU) developed under the project should be expected to
+       enable the conduct of advanced transport analytics by SETRANS, but as noted under the outputs
+       section, the equipment for the CIMU has not been delivered yet.
+      Under the Enhancing Public Management for Service Delivery in Rio de Janeiro Development Policy
+       Loan, a permanent committee was created to implement the PDTU. After the development of the
+       PDTU, the committee did not implement any transport project outside of the plan.
+
+The project delivered some key plans for the development and management of logistics and urban transport
+in the State of Rio de Janeiro and the RJMR, but failed to deliver some critical studies that would have
+improved the transport management capacity for a sustainable and safe operation of the suburban rail system
+and further integration of rail and bus systems, such as the financial and operational sustainability plan for the
+rail system, the level crossings diagnostic study, the intermunicipal single fare scheme, and a preparatory
+study for tendering municipal bus lines. Additionally, although the project was implemented for about 13
+years, the evidence is insufficient to assess the project’s outcomes in improving the transport management
+and policy framework in the territory of the State of Rio de Janeiro and the RJMR.
+
+
+
+
+                                                                                                    Page 15 of 26
+                                Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                                BR RJ Mass Transit II (P111996)
+
+
+
+                            Overall, the efficacy with which the project achieved the third objective is rated Modest.
+
+
+
+                            Rating
+                            Modest
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project successfully completed the acquisition of 106 trains to replace and expand the rolling stock for
+                            suburban rail services in the Rio de Janeiro Metropolitan Region (RJMR). The acquisition of new trains
+                            initially improved the service quality in the RJMR but because of the economic crisis in 2016, onset of the
+                            COVID-19 pandemic in March 2020, and the frequent incidents of cable thefts adversely affected the service
+                            quality undermining improvements in the level of services, safety, and system cost-effectiveness. For the
+                            similar reasons, the project fell short of achieving the estimated reduction in greenhouse gas emissions, and
+                            evidence is insufficient to determine how successful the project was in placing the suburban rail transport
+                            system on a lower carbon growth path. However, as the project increased the rail transport capacity and
+                            some technical assistance activities resulted in positive outcomes, such as the integration of the bus-rail fare
+                            systems and piloting of urban development on TOD principles, according to the ICR it is expected that the
+                            project outcomes will be achieved as the train ridership bounces to its pre-COVID-19 levels within the next
+                            couple of years. Therefore, the project’s efficacy in achieving the first two objectives is rated marginally
+                            Substantial. On the other hand, there were significant shortcomings in the delivery of some important studies
+                            and management plans under the technical assistance component. Although there is some evidence that the
+                            limited number of plans and studies completed during project implementation had a partial positive impact on
+                            the improvement of the transport management and policy framework in the State of Rio de Janeiro and the
+                            RJMR, the project fell short of achieving the outcomes expected from the project’s intervention during the 13-
+                            year project implementation period. Overall, the efficacy of the project in achieving the project objectives (a)
+                            to improve the level of service provided to suburban rail transport users in the RJMR in a safe and cost-
+                            efficient manner; (b) to place the suburban rail transport system on a lower carbon growth path; and (c) to
+                            improve the transport management and policy framework in the State of Rio de Janeiro’s territory and in the
+                            RJMR is rated marginally Substantial.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+   5. Efficiency
+   Economic Analysis
+
+   At appraisal, a “with the project” and “without the project” cost-benefit analysis was conducted at appraisal to
+   assess the economic viability of the project. The economic benefits of the project were identified as follows: (a)
+
+                                                                                                                              Page 16 of 26
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      BR RJ Mass Transit II (P111996)
+
+
+
+Savings resulting from the lower costs of operating all modes through estimates of passenger-km; b) travel time
+savings estimated by determining the effect of travel time reduction on the consumer surplus; c) reduction in
+road maintenance costs due to the reduction of bus-kilometer; d) reduction in the bus system managing costs
+due to avoided costs of expanding the existing public management structure; e) reduction of air pollution costs
+due to the reduction of bus-km; and f) reduction of accidents costs estimated. The economic benefits were
+mostly identified based on the assumption that there would be a shift in the passengers’ preference from using
+public buses to rail network. The economic benefits did not include a modal shift from using privately-owned
+vehicle to public transportation since private car ownership in the lower income neighborhoods is low. The costs
+were taken as the investment costs for the acquisition of trains and the operating costs including operation and
+maintenance personnel for the additional rolling-stocks. Other assumptions were appropriately identified, such
+as increase in ridership, train frequency, improvement in signaling systems, and change in average fare. The
+project’s economic benefits and costs were appropriate for an economic analysis for a suburban rail project, but
+the economic benefits were more conservative as it excluded some economic benefits that could have occurred
+because of a modal shift and the avoided costs of investments that would be required if project were not
+implemented. The calculations resulted in a robust Economic Internal Rate of Return (EIRR) of 20.8 percent and
+a Net Present Value of US$225.3 million using a discount rate of 10 percent for a 30-year period.
+
+At the time of additional financing, the economic analysis, using the same assumptions, resulted in an EIRR of
+24.1 percent and an NPV of US$578 million with a 10 percent discount rate for a 30-year period.
+
+At project closing, the economic analysis was repeated using the actual figures for the economic benefits and
+costs whenever available. The EIRR was calculated at 16.31 percent and the NPV at US$243.65 million using a
+discount rate of 10 percent for a 30-year period. The decline in the EIRR was due to no reduction in travel time
+and significant drop in the demand (because of economic crisis and the COVID-19 pandemic), which was
+partially compensated by the avoided operating costs and significantly lower investment cost.
+
+Overall, the project’s economic viability was confirmed by the ex-post economic analysis reported in the ICR, but
+the actual achievement was undoubtedly lower than estimated for the base case (for example there was no
+reduction in passenger travel time), and the shortcomings of the improved rail system cast doubt on the actual
+economic benefits estimated between 2011 when the first new trains became operational and when the project
+closed. The assumed benefits in the long-term may be achieved, but their discounted value would decline.
+
+Operational and Administrative Efficiency
+
+The project was approved in 2009 and an additional financing was approved in 2012. The original loan closed in
+2019, but the closing date for the additional financing was extended to December 2022. Overall, the project
+implementation was around 13 years, but despite this lengthy period the project failed to deliver some important
+studies and plans under the technical assistance component in contrast to successful and efficient delivery of
+106 trains under both loans. The main reasons for delays in project implementation were the capacity issues in
+the project implementation unit in procurement and contract management and "re-works" on a number of trains
+under the manufacturer’s warranty (which delayed the issuance of final acceptance by CENTRAL). In addition,
+attempts to purchase light rail trains with loan savings failed because of delays in the procurement process. Civil
+works added to the project scope to increase safety in the rail network could not be completed because of
+delays in obtaining internal approval for the procurement process and the lack of capacity to meet the World
+Bank’s safeguards requirements (ICR, p.30). Consequently, the project could not use all the funds, and an
+amount of US$80.65 million had to be cancelled. According to the ICR (p.31), the lack of continuity in the
+leadership in the State of Rio de Janeiro and frequent changes in the political context and policy direction also
+
+
+
+                                                                                                     Page 17 of 26
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      BR RJ Mass Transit II (P111996)
+
+
+
+adversely affected project implementation as such changes also led to frequent turn-over of the officials in the
+Secretariat of Transport, the project counterpart.
+
+Overall, the project’s efficiency in achieving the project objectives is rated Modest because of arguably lower
+economic benefits than the base case for the estimated economic rate of return, and significant shortcomings in
+the project's operational and administrative efficiency.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                      97.50
+ Appraisal                                                  24.10
+                                                                                       Not Applicable
+                                                                                      97.18
+ ICR Estimate                                               16.31
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project objectives were highly aligned with the World Bank’s strategy for Brazil and relevant to the country
+context as the project sought to address the development problem of efficient and safe suburban rail transport in
+a mega metropolitan area while supporting the improvement in management capacity and policy framework and
+decreasing the carbon footprint of transport in the Rio de Janeiro Metropolitan Region. The project achieved
+most of its outcomes in improving the rail service and reducing the greenhouse gas emissions prior to the onset
+of external shocks but failed to sustain them because of the economic crisis in 2016, the onset of the COVID-19
+pandemic in 2020, and increased incidents of copper cable theft. However, this review concurs with the ICR’s
+conclusion that it can be expected that train ridership will increase to its pre-COVID-19 levels as the impact of
+external shocks disappear, and the project outcomes will be achieved within the next two years. On the other
+hand, the evidence is insufficient to assess the achievement of the project in improving the transport
+management and policy framework in the territory of the State of Rio de Janeiro and the RJMR. Overall, the
+project’s efficacy in achieving the project objectives is rated marginally Substantial. The analysis of the project's
+economic efficiency indicates that economic benefits did not materialize as expected, and there were also
+significant shortcomings in the operational and administrative efficiency of the project during its 13-year
+implementation period. The efficiency of the project in achieving the project objectives is therefore rated
+Modest. While the project objectives were highly relevant, there were moderate shortcomings in the project’s
+achievements and efficiency; its overall outcome is therefore rated Moderately Satisfactory.
+
+
+a. Outcome Rating
+
+
+                                                                                                      Page 18 of 26
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      BR RJ Mass Transit II (P111996)
+
+
+
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+Security. The continued incidents of cable theft pose a substantial risk to the operational performance of the
+rail network in the RJMR. The public security interventions are insufficient. Cable theft incidents adversely
+affect the level of service as they cause unplanned interruptions. The rail network is crucial for suburban
+mobility in the RJMR, but the system could be paralyzed if cable thefts continue. If the level of service does
+not improve, this is likely to result in a further decrease in ridership and a shift of passengers from rail service
+to buses and informal modes of transport in the lower income neighborhoods.
+
+Financial. The user tariffs do not generate sufficient revenue for the concessionaire to sustainably operate
+and maintain the rail network. This manifested itself in the concessionaire’s decision to decrease the
+frequency of train service and suspension of some bicycle storage facilities. The financial model is extremely
+sensitive to shocks to ridership and fare revenue. Without a reform in the financial model, the risk that the rail
+service will not bounce back to the pre-COVID-19 pandemic is high. Furthermore, lack of sufficient funds
+could result in inadequate maintenance of the trains adversely affecting their energy efficiency. On the other
+hand, the authorities and stakeholders have already started the discussion of how to create alternative
+revenue sources to fund public transport, such as parking fares, earmarked fuel levies and urban tolls,
+revenue from ancillary commercial activities (for example retail space in stations), land-value capture
+schemes, and direct recurrent budget outlays (ICR, footnote 26, p.37).
+
+Implementation of transport plans. The project was partially successful in enacting major plans for the
+urban transport and logistics development in the State of Rio de Janeiro and the RJMR. The project also
+demonstrated the implementation of a transit-oriented development in Queimados station, where rail transit
+was prioritized as the main commuting solution from the nearby suburban area. Such suburban
+developments could help the RJMR’s transport system follow a low-carbon path. This would be further
+supported by the development of transport in line with the RJMR Mobility Master Plan developed under the
+project.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  At appraisal, the improvement of the suburban rail service in the RMJR was of high strategic relevance to
+  the State of Rio de Janeiro to improve the suburban mobility for the lower-income population and trigger
+  a shift from buses to rail service to reduce pollution. The acquisition of new trains under the first
+  component should be expected to contribute to the improvement of the level of service provided to the
+  suburban rail transport users in the RJMR, but the project design did not include activities to address the
+  other bottlenecks to the service improvement, such as the elimination of unsafe level crossings that
+  restricted the speed of trains. Therefore, the project’s design was insufficient to achieve an improvement
+  in rail service in a safe and cost-effective way. The only exception was the incremental improvement
+  expected in energy efficiency because of the use of new trains. In addition, numerous studies and plans
+
+
+                                                                                                        Page 19 of 26
+     Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+     BR RJ Mass Transit II (P111996)
+
+
+
+  were to be prepared under the technical assistance component, but their outcomes were not sufficiently
+  clear on how they would support the achievement of the third objective.
+
+  According to the PAD (pp.8-9), lessons learned during the implementation of the World Bank-assisted
+  first Rio de Janeiro Mass Transit Project were incorporated into the project design, such as the
+  acquisition of new trains rather than the rehabilitation of the existing rolling stock, the minimization of
+  counterpart funds, strengthening of policy framework (to minimize distortions resulting from inefficient
+  physical and financial coordination between transport modes), and introduction of integrated modal tariffs.
+  SETRANS and SuperVia had sufficient capacity to implement the procurement of new trains, but the
+  procurement capacity of the project’s implementation entity was not adequately staffed to undertake the
+  technical assistance activities. The project had a high implementation readiness because of advanced
+  preparation for the procurement of the trains. The monitoring and evaluation (M&E) arrangements were in
+  place but there were shortcomings in the results framework in capturing the outcomes of the studies and
+  plans to be prepared under the project. The project’s safeguards aspects and implementation
+  arrangements were adequate. The project adequately identified the major risks and mitigation measures
+  were in place, but the fiscal risk was underestimated.
+
+  Overall, the quality at entry was Moderately Satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ A brief survey of the Implementation Status and Results Reports (ISRs) and Aide Memoirs (AMs) showed
+ that performance reporting in those project documents was candid and detailed, and the supervision
+ missions were held at least twice a year. The project team’s supervision of safeguards implementation and
+ financial management was adequate. When project funds were confiscated because of an injunction of the
+ state supreme court, the project team promptly took action to remedy the situation first through requesting
+ the immediate refund of the amount, and later by compensating the payments through SETRANS’ account.
+ However, there were shortcomings in the supervision of the implementation of the technical assistance
+ activities. Despite a 13-year project implementation period, the project failed to deliver four important
+ studies and plans that were added to the project scope at the time of additional financing in 2012 (they
+ were related to the financial sustainability of the rail service and improvement of safety measures at level
+ crossings), and US$80.65 million of loan savings and unused funds were cancelled at the sixth
+ restructuring. The shortcomings in the results framework in capturing the project outputs and outcomes
+ were not addressed adequately (such as the impact of the plans and studies on the improvement of
+ transport management and policy framework). New indicators were only introduced at the last project
+ restructuring eight months before project closing to improve the quality of M&E.
+
+ Overall, the quality of supervision is rated Moderately Satisfactory.
+
+
+
+  Quality of Supervision Rating
+
+
+                                                                                                      Page 20 of 26
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     BR RJ Mass Transit II (P111996)
+
+
+
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The project’s theory of change was based on the premises that acquisition of trains would result in an
+ improvement in the level of service, but other interventions were not addressed by the project, such as the
+ elimination of level-crossings and improvement of pedestrian crossings. It was also assumed that the
+ preparation of numerous studies and plans would lead to an improvement in the transport management
+ and policy framework, the outcomes of which were not adequately identified. The indicators (including the
+ majority of the intermediate outcome indicators) were sufficient to capture the improvement in the reliability,
+ availability, and comfort of the rail service, but the delivery of rail service in a safe and cost-efficient way
+ was not captured by the results framework, except the proxy indicator of working ratio of SuperVia. The
+ results framework was also insufficient to capture the outcomes expected from the technical assistance
+ activities; the related indicators were at the output level. Despite the shortcomings in the M&E design, the
+ indicators in the results framework related to the improvement in the rail service were specific, measurable,
+ achievable (except the delivery of some plans and studies), mostly relevant, and time bound. The M&E
+ arrangements were adequate; SuperVia was responsible for data gathering through its existing monitoring
+ system.
+
+
+
+b. M&E Implementation
+  The data for the baselines of the indicators identified at appraisal were adequately collected. SuperVia
+  regularly measured and reported the indicators included in the results framework. However, the initial
+  reporting period of two years was not adequate to monitor the progress towards the achievement of
+  project outputs and outcomes; the reporting period was later changed to once a year. The Rio de Janeiro
+  Transport Regulatory Agency provided additional data. At the time of additional financing, new indicators
+  were introduced in accordance with the revision of the project objective to capture the achievement in
+  reducing greenhouse gas emissions. The results framework was revised multiple times during project
+  implementation (six project restructurings out of eight included revisions to the results framework), but
+  these changes did not significantly improve the quality of M&E system. Some revisions were
+  unnecessary such as reducing the target value of the indicator measuring the number of stations with
+  bicycle storage facilities or changing the category of the indicator measuring the reduction in travel time
+  from a project development level indicator to an intermediate outcome indicator, and other revisions were
+  very late in project implementation (in May 2022, only eight months before project closing) such as the
+  indicator measuring the energy efficiency of trains.
+
+
+
+c. M&E Utilization
+  The M&E data were communicated to the project stakeholders regularly. Although the project was
+  restructured eight times, including an additional financing, the changes in the implementation direction
+
+                                                                                                     Page 21 of 26
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     BR RJ Mass Transit II (P111996)
+
+
+
+  cannot be directly attributed to M&E findings; the restructurings were mostly motivated to use loan
+  savings. Most of the changes introduced to the project’s scope had not materialized at project closing,
+  such as the procurement of seven light-rail trains, rehabilitation of CENTRAL’s building, and the civil
+  works to improve safety around the rail lines. The M&E data were used to provide evidence for the
+  project’s achievements, but because of the shortcomings in the indicators in adequately capturing the
+  project outcomes, the evidence base was insufficient to assess the project’s performance.
+
+  Overall, there were significant shortcomings in the M&E system’s design and implementation making it
+  difficult to assess the achievement of the project objectives and test the links in the results chain; the
+  M&E quality is rated Modest.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   At appraisal, the project was classified as Category B under Environmental Assessment (OP/BP 4.01) and
+   triggered the Pest Management (OP/BP 4.09) safeguard policy. At the time of additional financing, the
+   project triggered Physical Cultural Resources (OP/BP 4.11) and Involuntary Resettlement (OP/BP 4.12)
+   safeguard policies.
+
+   Environmental Assessment (OP/BP 4.01): At appraisal, the project was classified as Category B because
+   of minimal site-specific, temporary, and reversible environmental impacts such as the disposal of oil,
+   grease, and sewage. Although the project did not finance any civil works, a detailed assessment of
+   SuperVia’s environmental managements policies and procedures for construction, rehabilitation, and
+   maintenance of the rail tracks as the trains purchased under the project would use those tracks. After the
+   assessment, SuperVia updated its Environmental Management Plan (EMP), which was acceptable to the
+   World Bank. During the initial implementation phases of the project, there were coordination challenges in
+   the implementation of the environmental safeguard policy because of inadequate communication among
+   the state and municipal agencies, and the submission of semiannual environmental reports were often late
+   and incomplete. Following the strengthening of the environmental and social management unit within
+   SuperVia with more authority and resources, the implementation of the environmental safeguard policy
+   improved. The project’s implementation was in compliance with the Bank’s environmental safeguard policy.
+
+   Pest Management (OP/BP 4.09). The project triggered this safeguard policy because SuperVia periodically
+   sprays its premises and the rail right-of-way for vegetation and pest control, and against the spread of
+   dengue mosquito. No specific plan was required to mitigate the potential impacts (PAD, p.53). The EMP
+   included a pest management plan. The procedures included in the plan for procurement and use of
+   pesticides were in accordance with the World Bank guidelines and the Brazilian legislation.
+
+   Physical Cultural Resources (OP/BP 4.11): At the time of additional financing, the project triggered this
+   safeguard policy because the CENTRAL’s main building, which was to be rehabilitated under the project,
+   was registered as an historical building. Because of delays in procurement, the project could not sign a
+
+
+
+                                                                                                    Page 22 of 26
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    BR RJ Mass Transit II (P111996)
+
+
+
+  contract for the rehabilitation of the CENTRAL’s main building. Therefore, the safeguard policy was not
+  relevant during project implementation.
+
+  Involuntary Resettlement (OP/BP 4.12): Although the project did not require the acquisition of any new
+  land, an estimated 80 families had been illegally occupying the right-of-way of an auxiliary rail line under
+  SuperVia’s concession. The project triggered this safeguard policy for the relocation of these families. The
+  State of Rio de Janeiro and SuperVia prepared a Resettlement Action Plan (RAP) in consultation with the
+  project-affected people living on the right-of-way. The RAP was disclosed on the SETRANS and SuperVia
+  websites in June, 2011 and on the World Bank’s Info Shop in July 2011. The project resettled 83 families
+  (three more than estimated at the time of additional financing) on the Deodoro and Belford Roso lines. Of
+  these families, 70 were rehoused, and 13 were paid compensations in cash.
+
+
+
+
+b. Fiduciary Compliance
+  Financial Management
+
+  The project financial reports that were acceptable to the World Bank were submitted regularly but with
+  occasional delays. The opinions of the external auditors were unqualified. There were no issues reported
+  related to the counterpart funding. There were no known issues of corruption or misuse of funds
+  associated with the project. However, the procurement and contract management of technical assistance
+  activities related to the preparation of studies and plans experienced some challenges starting from 2016
+  because of the confiscation of project’s operational balance in the project’s designated account following
+  an injunction of the State Judicial Court. The injunction was processed because of a petition from a group
+  of civil servants of the State of Rio de Janeiro who were not paid their salaries on time because of the tight
+  fiscal situation of the state. As this constituted non-compliance with the loan agreements, the World Bank
+  requested the immediate refund of the confiscated amounts, but non-compliance continued through to
+  project closing. To avoid the confiscation of additional project funds, the parties agreed that the State of
+  Rio de Janeiro would pay for eligible expenditures directly and offset the confiscated balances (ICR, p.35).
+  The acquisition of the trains was not affected because of this injunction as the payments were directly
+  made to the train manufacturer in China. According to the ICR “Audits were carried out effectively, and
+  opinions issued were always impartial (ICR, p.36) At project closing, all project funds were accounted for.
+
+  Procurement
+
+  The project was incompliance with the World Bank’s procurement guidelines. Because of high project
+  readiness, the procurement of first 30 trains was efficient and fast, and completed in a relatively short
+  period of time. However, the procurement of the contracts for the preparation of plans and studies under
+  the technical assistance component faced obstacles such as delayed reviews and approvals of the terms
+  of references, insufficient technical capacity in preparing bidding documents, and frequent changes in the
+  political context. The confiscation of project funds because of an injunction of the State Judicial Court
+  created uncertainty about the payments, which led to bidder hesitancy in pending procurement processes.
+  Some contracts for studies could not be procured during the 13-year project implementation time.
+
+
+
+
+                                                                                                   Page 23 of 26
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     BR RJ Mass Transit II (P111996)
+
+
+
+c. Unintended impacts (Positive or Negative)
+   None.
+
+
+
+d. Other
+   None.
+
+
+
+11. Ratings
+                                                                                   Reason for
+Ratings                          ICR                    IEG
+                                                                                   Disagreements/Comment
+                                 Moderately
+Outcome                                                Moderately Satisfactory
+                                 Satisfactory
+                                 Moderately
+Bank Performance                                       Moderately Satisfactory
+                                 Satisfactory
+                                                                                   There were significant
+                                                                                   shortcomings in the M&E design
+                                                                                   and implementation making it
+Quality of M&E                   Substantial           Modest                      difficult to assess the
+                                                                                   achievement of the project
+                                                                                   objectives and test the links in
+                                                                                   the results chain.
+Quality of ICR                   ---                   Substantial
+
+
+12. Lessons
+
+This review has drawn three lessons based on the information in the ICR.
+
+If the replacement of an aging train fleet with newer trains is not supported by other
+interventions to improve the safety, affordability, and accessibility of the service, the
+improvement in the level of service and shift to public transport can be limited. The project
+successfully financed the acquisition of 106 trains to replace the aging rolling stock of SuperVia and
+expanded the fleet to above 200 trains. However, the project did not intervene in other aspects of
+the rail service that would holistically improve the service quality, such as safety measures, fare
+integration, and non-motorized access to the stations. This resulted in a lower improvement in the
+service quality. For example, because safety measures were not implemented, such as barriers
+installed at the level-crossings, the operational speed of the trains had to be restricted to avoid
+accidents. The project could not complete a plan for fare reform that would make rail transit more
+attractive; therefore, when suburban mobility started to bounce back in 2021, passengers preferred
+bus transport as the bus fare is subsidized. In conclusion, the replacement of the aging rolling stock
+with new trains is necessary, but for a significant improvement in the service quality and a shift to rail
+transport, a holistic approach should be adopted encompassing other aspects of rail transport.
+
+
+
+                                                                                                      Page 24 of 26
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       BR RJ Mass Transit II (P111996)
+
+
+
+Inadequate capacity and interest of the counterpart in technical assistance activities can
+critically impact the achievement of project outcomes. The project financed various studies and
+plans related to suburban rail transit and logistics in the State of Rio de Janeiro and the RMJR, but
+some important studies could not be completed. The main reason was the insufficient in-house
+technical capacity of the project implementation entities in preparing the necessary technical and
+bidding documents. The second reason was insufficient interest from the decision-making authorities
+in implementing these plans and studies and frequent turnover in the political context. Therefore, the
+project fell short of achieving its objective to improve the transport management and policy
+framework in the State of Rio de Janeiro and the RMJR. The high number of projects to be prepared
+under the project was also a hurdle; however, given the 13-year project implementation period, most
+of the technical assistance activities could have been completed by project closing.
+
+Numerous project restructurings may not be instrumental in improving the project’s
+performance. The project was restructured eight times including an additional financing earlier in
+project implementation. These restructurings were mostly processed to use significant loan savings
+and unused funds to finance additional project activities, but most of those activities could not be
+completed and, therefore, cancelled, such as the purchase of seven light-rail trains, rehabilitation of
+CENTRAL’s buildings, and the construction of security walls and level-crossings fences to improve
+safety. The restructurings were not effective in improving the project’s performance, and, eventually,
+US$80.65 million of funds were cancelled.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provides a candid and detailed overview of a complex project that was implemented over a 13-year
+period. The overall narrative is highly evaluative except in a few sections such as the Quality at Entry and the
+Quality of Supervision. The narratives in these sections are insufficient to provide a complete critique of the
+Bank’s performance in a project that was implemented for 13 years. The report is concise and consistent with
+the Bank guidance but did not include a discussion or a figure depicting the theory of change of the project;
+instead, the ICR included the results framework from the PAD which is completely inadequate for showing the
+project’s results chains. The report is internally consistent as there is a logical linking and integration of the
+various parts of the report. It attempts to support the achievements of the project outcomes and objectives
+using the evidence available, but some assessments are not sufficiently supported by evidence, such as the
+achievement of the third objective to improve transport management and policy framework although the efficacy
+of the project in achieving this objective is rated by the ICR as Substantial. The entries in the Lessons and
+Recommendations section respond to the experiences of the project, but they are in the form of findings rather
+than lessons. The safeguards and fiduciary sections could have benefited from a more detailed discussion.
+
+Overall, despite some shortcomings, the quality of the ICR is rated Substantial.
+
+
+
+
+                                                                                                    Page 25 of 26
+  Independent Evaluation Group (IEG)   Implementation Completion Report (ICR) Review
+  BR RJ Mass Transit II (P111996)
+
+
+
+a. Quality of ICR Rating
+   Substantial
+
+
+
+
+                                                                    Page 26 of 26
+

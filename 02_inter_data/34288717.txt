@@ -1,0 +1,779 @@
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Nepal: Grid Solar & Energy Efficiency (P146344)
+
+
+
+                                                                                    Report Number: ICRR0023780
+
+1. Project Data
+
+
+
+ Project ID                                  Project Name
+ P146344                                     Nepal: Grid Solar & Energy Efficiency
+
+ Country                                     Practice Area(Lead)
+ Nepal                                       Energy & Extractives
+
+
+ L/C/TF Number(s)                            Closing Date (Original)                 Total Project Cost (USD)
+ IDA-55660                                   31-Dec-2020                                            98,207,279.29
+
+ Bank Approval Date                          Closing Date (Actual)
+ 22-Dec-2014                                 15-Dec-2022
+
+                                             IBRD/IDA (USD)                                       Grants (USD)
+
+ Original Commitment                            130,000,000.00                                                 0.00
+
+ Revised Commitment                             107,386,528.00                                                 0.00
+
+ Actual                                          98,207,279.29                                                 0.00
+
+
+
+
+ Prepared by                 Reviewed by                   ICR Review Coordinator           Group
+ Ridwan Bolaji Bello         Joel J. Maweni                Ramachandra Jammi                IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to the financing agreement dated 20 February 2015 (p. 5), the project development objectives
+   (PDO) are to: (i) increase the solar photovoltaic generated electricity to supply to the Nepal Electricity
+   Authority (NEA) grid; and (ii) reduce NEA’s distribution losses in selected distribution centers. The articulation
+   of the project’s objective is the same in the financing agreement and the Project Appraisal Document (PAD).
+
+
+
+
+                                                                                                      Page 1 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Nepal: Grid Solar & Energy Efficiency (P146344)
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component #1: Grid-connected Solar PV Farms Development (Estimated cost: IDA USD54.0 million; actual
+   cost: IDA USD30.28 million).
+
+   This component was to finance four parts: (a) Design, supply, construction, commissioning, operation and
+   maintenance of grid-connected solar farms to supply electricity directly to NEA’s distribution network, (b)
+   Provision of technical advisory services to assist NEA with the procurement and supervision of the
+   engineering, procurement, and construction contract for the solar farms, and (c) Provision of capacity
+   building activities to assist NEA with, inter alia, independent bid evaluation, project management, contract
+   execution, and operation and maintenance of the solar farms.
+
+   Component #2: Distribution System Planning Loss Reduction (estimated cost: IDA USD 84.0 million; actual
+   cost: IDA USD75.26 million).
+
+   This component was to support three parts: (a) preparation of a distribution master plan, (b) preparation of a
+   system loss reduction master plan, (c) carrying out a set of activities in system loss reduction in selected
+   NEA’s distribution centers, including: (i) replacing conductors of distribution feeders or building distributions
+   lines to reduce line losses; (ii) adding or replacing distribution transformers to maintain voltage levels and
+   reduce transformer losses; and (iii) adding capacitor banks to compensate reactive power to manage
+   voltage levels, and (d) building the capacity of NEA in distribution system planning and management,
+   including: (i) provision of equipment, software, and training for distribution system loss identification and
+   reduction planning; and (ii) development of a geographic information system database.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project cost and financing: According to the ICR, the project cost was originally estimated to be USD138
+   million, comprising a USD130 million IDA Credit and USD8 million from the Government of Nepal (GON).
+   Additional information provided by the project team showed that at the time of signing of the financing
+   agremeent the IDA Credit was equivalent to USD116.7 million due to appreciation of the USD out of which
+   USD94.2 million was disbursed and USD22.4 million was undisbursed and eventually cancelled.
+
+   Due to exchange rate differences the disbursed amount of USD94.2 million reported by the project
+   team was lower than the USD98.2 million shown in the ICR and data sheet by USD4 million. The reason for
+   this discrepancy is that disbursements took place at different SDR/USD exchange rates throughout the
+   course of project implementation resulting in an overall gain of US$4 million due to the appreciation of the
+   USD.
+
+   Dates: The project was approved on 22 December 2014, the financing agreement was signed on 20
+   February 2015, and the project became effective on 14 June 2016. The mid-term review was conducted
+
+
+
+                                                                                                      Page 2 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Nepal: Grid Solar & Energy Efficiency (P146344)
+
+
+
+   on 7 May 2018. The original closing date was 31 December 2020 but, after three restructurings, the project
+   closed on 15 December 2022, about 24 months behind schedule.
+
+         The first restructuring (Level 2 – 30 November 2020) extended the project closing date by 12 months
+          from 31 December 2020 to 31 December 2021.
+         The second restructuring (Level 2 – 2 December 2021) further extended the project closing date by
+          11.5 months to 15 December 2022, and extended the submission timeline for the external audit
+          report by three months.
+         Third restructuring (Level 2 – 13 December 2022) was for the cancellation of USD15 million of
+          unused funds from the Project. In addition to this unused funds, the ICR noted that an undisbursed
+          balance of SDR5,674,194.90 (equivalent to USD7 million) was cancelled on 24 April 2023.
+
+   According to ICR (p.5), the first and second restructuring were needed to allow for additional time to
+   complete the ongoing project activities that had been hindered due to delays in contract implementation
+   caused by the COVID-19 pandemic during 2020-2022. The third restructuring was to cancel the USD15
+   million that was unused by the project. All three restructurings were requested by Nepal’s Ministry of
+   Finance (MOF). All three restructuring had no impact on the project’s Theory of Change (TOC) and
+   expected outcomes.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+The project objectives are aligned with the World Bank’s strategy in Nepal, as highlighted in the Country
+Partnership Framework for FY2019-23 (CPF) for Nepal. The World Bank strategy for Nepal focuses on
+private sector-led jobs and growth (Focus Area 1), and the CPF notes that gaps in energy infrastructure and
+access remain a “significant constraint against increased private sector investment, productivity and
+livelihoods in Nepal” (CPF, p.14). Furthermore, objective 2.1 of the CPF aims to support improved power
+generation capacity and access to electricity. Both objectives of the Grid Solar & Energy Efficiency Project
+(GSEEP) resonate with the Bank’s strategy in Nepal. The first objective sought to directly increase power
+generation through the construction and operation of solar farms that add up to 25 MW to the national grid.
+The second objective sought to increase electricity supply by reducing distribution losses.
+
+The project's objectives were consistent with the Nepal government’s vision and strategy for the power
+sector, as detailed in the 2013 National Energy Strategy of Nepal and referenced in the PAD. According to
+the PAD, the government’s vision for the power sector is to address the country’s energy crises and
+eventually achieve reliable, affordable, and sustainable electricity supply in Nepal. To reach this vision, the
+government’s strategy is to: (a) reduce load shedding by adding generation capacity that can be quickly
+installed in the short term and by reducing system losses; (b) reach supply demand balance in the medium
+term through the commissioning of hydropower and importing power from India; and (c) develop more of its
+hydropower resources and integrate into the regional power market to earn export revenues and sustain
+domestic growth in the long term (PAD, p.3). The objectives of the GSEEP align with item (a) of the
+government’s strategy.
+
+
+
+
+                                                                                                     Page 3 of 15
+                                      Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+                                      Nepal: Grid Solar & Energy Efficiency (P146344)
+
+
+
+               The project objectives were appropriately pitched to the development status and capacity of the country.
+               The project involved installation of the first large-scale grid-connected solar plants in Nepal and, as such,
+               the borrower had limited capacity to prepare, operate, and manage the project. Thus, the project sought to
+               mitigate capacity and implementation risks by adopting a build-operate-manage-and-transfer approach. The
+               solar plants were constructed by competitively selected contractors whose responsibility included managing
+               the plants for their first five years while training NEA staff on project operation and management to prepare
+               NEA for the eventual take-over of the plants. Project implementation was also cognizant of potential land
+               access issues that commonly arise in fragile countries like Nepal. Hence, to avoid land access risks that
+               can potentially put achievement of project objectives at risk, the project sought to avoid installation of
+               project components on private land and instead limited construction to land already owned by NEA.
+
+               Overall, the project’s objectives align strongly with World Bank strategy, government strategy and country
+               context. Hence, the relevance of objectives is rated High.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To increase the solar photovoltaic generated electricity to supply to the NEA grid.
+
+                             Rationale
+                             Although objectives #1 and #2 of the GSEEP are both aimed at contributing to the long-term outcomes of
+                             providing efficient, reliable, affordable, and sustainable electricity supply, each objective has distinct result
+                             chains (as shown in Figure 1 of the ICR). Hence, this section discusses the efficacy of each objective
+                             separately.
+
+                             At appraisal, the GSEEP planned to support the design, supply, construction, operation, and maintenance of
+                             grid-connected solar farms. Project activities include the provision of finance and technical support to assist
+                             NEA in the procurement and supervision of the construction of the solar farms as well as capacity building
+                             activities to assist NEA with operation and maintenance of the solar farms.
+
+                             According to the TOC, the expected output from these activities was the commissioning of 25 MWp of total
+                             solar power generation capacity. The intermediate outcome was the generation of 33GWh of electricity
+                             annually from the newly constructed solar power plants, which was expected to lead to the PDO outcome of
+                             increasing solar PV-generated electricity to the NEA network. Overall, the linkages between the project
+                             activities, outputs and outcomes were clear and convincing.
+
+                             As of project closing date, solar PV power plants were successfully installed across seven sites, all of which
+                             had a collective capacity of 25MWp. The first site commenced operations in January 2021 and the final site
+
+                                                                                                                                    Page 4 of 15
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   Nepal: Grid Solar & Energy Efficiency (P146344)
+
+
+
+became operational in August 2022. The ICR (p.6) reported that data from NEA shows that the new
+solar plants generated an output of 33.02GWh in the year between September 2022 and August 2023,
+slightly exceeding the annual target of 33GWh.
+
+Overall, given that these solar plants were the first large-scale grid-connected solar PVs in Nepal (ICR p.9)
+and electricity generation from power plants is easily measurable through metering, the electricity output
+reported in the ICR met its targets and is attributable to the installation and operation of the new solar plants.
+Therefore, it is rated Substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+Reduce NEA’s distribution losses in selected distribution centers.
+
+Rationale
+At appraisal, project activities planned under objective #2 included the preparation of a distribution master
+plan (DMP) and a distribution loss reduction master plan (DLRMP); installation of infrastructure necessary for
+system loss reductions in several distribution centers based on the recommendations of the DLRMP; and
+capacity building of NEA for distribution loss management through the provision of instruments, software, and
+training for distribution system loss identification and reduction planning.
+
+As presented in Figure 1 of the ICR, the TOC for this objective was that the project activities would lead to the
+development of a DMP and a DLRMP, as well as the construction of 3,000 kilometers of distribution lines —
+these are the project outputs. The intermediate outcome anticipated from these outputs was a 15% reduction
+in distribution loss in selected areas, which was then expected to lead the PDO indicator of reducing
+distribution loss in selected areas. This TOC is however misleading. The TOC suggests that the development
+of the master plans and construction of the distribution lines are unconnected activities to be implemented in
+parallel. However, additional details presented in other sections of the ICR and provided by the project team
+revealed that the completion of the master plans was intended to precede and inform the construction of the
+distribution lines. Furthermore, Figure 1 of the ICR presents 15% reduction in losses in selected distribution
+areas as an intermediate outcome. However, the four intermediate indicators presented in the text of the PAD
+and ICR do not include 15% reduction in distribution losses. Thus, the loss reductions are shown as both
+intermediate and PDO outcomes in the TOC.
+
+At completion, the project completed the proposed project activities, but not in the right order. The ICR (p.6)
+notes that preparation of the master plans was significantly delayed due to “challenges in collecting
+distributions system data” and “COVID-19 related restrictions”. Hence, the World Bank and NEA agreed to
+proceed with implementing the planned investments for system loss reductions based on NEA’s previous
+internal assessment of the distribution centers in need of immediate improvement, rather than based on
+recommendations from the DMP and DLRMP. The preparation of the distribution master plans was
+conducted in parallel with, rather than in advance of, these investments. Nevertheless, upon completion, the
+DLRMP validated the choice of the distribution centers chosen for loss reduction improvements.
+
+
+                                                                                                     Page 5 of 15
+                                Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                                Nepal: Grid Solar & Energy Efficiency (P146344)
+
+
+
+                            The ICR presented evidence that all three intermediate indicators for this objective were met, but it did not
+                            present sufficient evidence that the PDO indicator for this objective was achieved. The DMP was completed
+                            in 2019 and the DLRMP in 2022 – this confirms that the latter could not have informed the selection of
+                            distribution investments since it was available less than a year before project closing date. The ICR reports
+                            that by project closure, both the DMP and DLRMP had been adopted by the NEA as the core strategy and
+                            roadmap for the expansion and rehabilitation of its distribution network. The third intermediate indicator,
+                            length of distribution network rehabilitated was also achieved because the total length of 3,608 km of
+                            distribution lines constructed/rehabilitated exceeded the target of 3,000km set at appraisal.
+
+                            The extent to which the distribution network improvements led to distribution loss reduction in the selected
+                            centers is unclear. The ICR notes that because NEA lacked the capability to measure losses for individual
+                            lines and transformers, the team had to rely on NEA’s measurement of country-wide distribution losses.
+                            Additional information requested from the project team revealed that NEA’s country-wide distribution losses
+                            reduced from 25.78 % in FY2015/16 to 15.38 % in FY2021/22. The ICR claimed that project activities under
+                            this objective played a part in achieving this reduction, but that estimating the precise loss reduction
+                            attributable to this project was impossible given the limitation in measuring distribution loss data for individual
+                            distribution centers.
+
+                            Furthermore, the construction of the distribution network involved nine contracts, seven of which were
+                            procured through International Competitive Bidding (ICB) and two through National Competitive Bidding
+                            (NCB). By the project closing date, four ICB contracts and two NCB contracts had been completed. Three
+                            ICB contracts (ICB-2, ICB-8, and ICB-9) were affected due to COVID-19 restrictions and delays in land
+                            clearance process, and were still under implementation, with completion expected by December 2023. The
+                            outstanding activities under these uncompleted contracts relate to the installation of 33kV transformers.
+
+                            Overall, project activities under objective #2 would have contributed to system loss reduction in the selected
+                            areas because of the nature of the investments, although the level of contribution could not be quantitatively
+                            determined. In addition, the project would have strengthened the network for additional loss reductions in
+                            future because of the completion of the following: 1) rehabilitation and construction of the targeted length of
+                            distribution lines; 2) adoption of the completed DMP and DLRMP by NEA; and 3) training activities to build
+                            NEA’s capacity to identify and manage distribution loss reductions. However, because there is insufficient
+                            evidence to demonstrate that these network improvements did deliver the targeted reduction in distribution
+                            losses as at project closing date, the efficacy rating for this objective is Modest.
+
+
+
+                            Rating
+                            Modest
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project achieved all intermediate outcomes set at appraisal. The project also achieved its first PDO
+                            outcome. However, there is insufficient evidence that the second PDO outcome was achieved as at the
+
+
+
+                                                                                                                                  Page 6 of 15
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      Nepal: Grid Solar & Energy Efficiency (P146344)
+
+
+
+  project closing date. Hence, based on the evidence available, the project only partly achieved its objectives.
+  Therefore, the overall efficacy rating for the project is Modest.
+
+
+
+  Overall Efficacy Rating                                    Primary Reason
+  Modest                                                     Insufficient evidence
+
+
+5. Efficiency
+Economic Analysis
+
+While the GSEEP comprises two project components, at appraisal, an economic analysis was conducted for
+component #1 only. The economic benefit of the activities under this component was defined as the avoided
+cost of generating the same targeted amount of electricity from alternative energy sources, which was assumed
+to be a diesel power plant. The cost of electricity generation from diesel was estimated to be USD31.6/kWh,
+compared to an estimated USD14.9 cents/kWh from solar PV. It was also assumed that the economic life of a
+diesel plant is 20 years, so an additional diesel generator would need to be installed after the first diesel
+generator is retired in 20 years. Assuming the solar farms have a lifespan of 25 years, the net present value
+(NPV) of solar farms over the diesel plant computed at the discount rate of 10% was estimated to be USD44.0
+million and the Economic Internal Rate of Return (EIRR) was 50.7 %. Hence electricity generation from the
+GSEEP was adjudged to be more cost-efficient than from an equivalent diesel plant. Additional environmental
+benefits of the GSEEP were not captured in this economic analysis.
+
+Estimates of the economic benefit of the project were lower at completion than at appraisal. At the time of
+project evaluation, an economic analysis was conducted for Components #1 and #2. This economic analysis
+computed the EIRR and net present value (NPV) based on the energy generated from Component #1,
+estimated loss reduction from Component #2, actual project costs adjusted for changes in macroeconomic
+conditions, and international fossil fuel market prices. At project evaluation, the NPV for the project overall was
+USD380.4 million at project evaluation and the EIRR was 26%. Including climate benefits, the aggregate EIRR
+and NPV of the project at completion were estimated to be 28% and USD410 million, respectively. For
+Component #1 alone, the NPV was USD30.5 million at project evaluation compared to USD44.0 million at
+project appraisal.
+
+At project completion, the capital costs of the project were also lower than had been expected at appraisal.
+Including contingencies, the total capital costs at appraisal were estimated to be USD126 million (at constant
+2013 prices). At project closing, the actual economic construction costs of the project (still at constant 2013
+prices) stood at USD105.54 million, 16% lower than appraisal estimates. The ICR attributes these savings to
+lower solar PV investment costs, thanks to the maturity of the technology (p.8). Notwithstanding these cost
+savings, economic returns at completion declined due to the decrease in forecasted international energy prices
+at project completion in 2023 compared to the prices forecasted during the appraisal in 2013 (ICR p.8).
+
+Despite downward revisions of the economic benefits of the project at project completion, the economic analysis
+adjudged the project to be economically viable and financially efficient. The EIRR of 28% exceeds the 10%
+discount rate, indicating that the project is economically viable. The NPV of USD410 million also exceeds the
+project cost of USD105 million, indicating that the net cashflow from the project over its lifetime is expected to
+exceed the project’s costs.
+
+
+                                                                                                       Page 7 of 15
+       Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+       Nepal: Grid Solar & Energy Efficiency (P146344)
+
+
+
+Administrative and Operational Efficiency
+
+Project completion was delayed by 24 months due predominantly to insufficient staffing levels with the Project
+Management Unit that required substantial support from the World Bank to ensure compliance with fiduciary
+requirements (ICR, p.8). The ICR claims that despite this delay, the total project cost was lower than expected,
+and the extension in the closing date did not affect the project’s efficiency. This argument, however, does not
+account for the opportunity cost of the staff time. The time that the World Bank staff spent to fulfill the additional
+administrative and reporting obligations created by the extension is time that could have been expended on
+other projects in Nepal. This opportunity cost undermines the project’s operational efficiency.
+
+Overall, despite downward revisions in the estimated economic benefits of the project and delays in project
+completion, the project cost less at completion than was expected at appraisal. The estimated net benefits from
+the project also exceeds the net benefits from a second-best electricity generation alternative—i.e., a diesel
+plant. Hence, the project’s efficiency is rated Substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                 Rate Available?              Point value (%)            *Coverage/Scope (%)
+                                                                                         35.38
+ Appraisal                                                    50.70
+                                                                                          Not Applicable
+                                                                                         100.00
+ ICR Estimate                                                 26.00
+                                                                                          Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project’s objectives aligned strongly with World Bank strategy, government strategy and country context,
+and the relevance of the PDOs is rated High. The project’s efficacy is rated Modest because, while the
+outcome indicator for PDO#1 (energy generation from solar development farms) met its targets, there is
+insufficient evidence that the 15% loss reduction target for PDO#2 was achieved in the selected distribution
+areas. The project’s efficiency was rated Substantial because its net benefits remained significantly above the
+hurdle cost of capital of 10% and, apart from the opportunity cost of staff time due to delayed implementation,
+there were no other significant administrative inefficiencies. The net benefits were lower at completion than at
+appraisal because, despite the lower capital costs resulting from decreases in international prices of solar
+components, forecasted international energy prices were also lower at project completion.
+
+Overall, the project’s outcome is rated Moderately Unsatisfactory in accordance with Bank guidance (p. 38).
+
+
+
+                                                                                                         Page 8 of 15
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      Nepal: Grid Solar & Energy Efficiency (P146344)
+
+
+
+a. Outcome Rating
+   Moderately Unsatisfactory
+
+
+7. Risk to Development Outcome
+
+The construction of the seven solar PV plants was procured under a single Engineering, Procurement, and
+Construction (EPC) contract. After construction, the contractor is responsible for operating and maintaining
+the plants for five years while training NEA staff to take over afterwards. Given the novel nature of large-
+scale grid-connected solar PV in Nepal, this O&M model should enable NEA to acquire the technical
+expertise required to operate and maintain the plants. However, it also presents risks for the long-term
+sustainability of the development objectives already achieved by the project. Possible sources of risks
+include, but are not limited to, incomplete knowledge transfer from the contractor to NEA by the end of the
+five-year period, labor market churning that can result in NEA’s inability to retain already trained staff, as well
+as uncertainties about NEA’s financial viability.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  Adding electricity generation capacity and reducing system losses are of high strategic relevance to the
+  Nepal government’s objective of increasing electricity access. The project’s activities and design were
+  sufficiently appropriate to support the achievement of this objective. The construction of the solar farms
+  (Component #1) was relevant for adding generation capacity and the preparation of distribution plan and
+  reinforcement of distribution lines in selected areas and (Component #2) was relevant for reducing
+  system losses. The technical preparation for project activities under Component #1 was adequate for the
+  successful construction of the solar farms. However, significant limitations in collecting data on
+  distribution losses hindered the project’s ability to implement and track impact of activities under
+  Component #2 as planned and the project failed to anticipate or plan for these limitations at appraisal.
+
+  The project design benefited from the experience gained and lessons learned in implementing earlier
+  power projects in Nepal. The project made efforts to avoid land acquisition issues that had delayed the
+  implementation of earlier donor-funded transmission line projects in Nepal. Additionally, project design
+  recognized the pioneering nature of the project for large-scale solar farms in Nepal, and the associated
+  limitation in implementation capacity for solar projects in the country. To address this capacity limitation,
+  the project was designed to engage external expertise to assist NEA in procurement, construction,
+  supervision, testing, operation, and management of the solar farms, and to build the capacity of NEA to
+  undertake these activities.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+
+                                                                                                        Page 9 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Nepal: Grid Solar & Energy Efficiency (P146344)
+
+
+
+
+b. Quality of supervision
+ The task team provided support to the client on a range of issues such as procurement and contract
+ management; social and environmental safeguard compliance; legal covenant compliance; as well as
+ technical guidance. The Project was regularly monitored through implementation support missions,
+ documented in Aide Memoires and Management Letters. Reporting was done through regular
+ Implementation Status and Results Reports (ISRs). During each mission, the task team conducted a
+ detailed assessment of the Project status and identified challenges. The task teams also conducted site
+ visits, with a particular focus on the most challenging subprojects that needed the World Bank’s support.
+ Ratings from ISRs were actively shared with the client, serving as performance signals for NEA. When the
+ client requested project closing date extensions, the World Bank team required the Borrower to provide
+ implementation action plans as evidence of realistic expectations for completion of activities within the
+ proposed new closing dates.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The TOC was valid in objective #1 but had shortcomings for objective #2. For objective #1, the linkages
+ between the construction of the power plant, the supply of solar PV electricity to the NEA grid and,
+ ultimately, to the long-term outcomes were clear and plausible. For the objective #2, the TOC failed to
+ show that the completion of the master plans was supposed to precede and inform the construction of the
+ distribution lines, thereby obfuscating the causal links between project activities and outcomes.
+
+ Similarly, the PDO indicator for objective #1 was measurable, achievable, relevant, time-bound, and
+ specific, but the PDO indicator for objective #2 was not. At appraisal, the PDO indicator for objective #2 –
+ namely distribution loss reduced in selected distribution centers (%) – was not measurable as NEA lacked
+ the capacity to measure distribution loss reduction for individual distribution centers. This indicator was also
+ not specific as it was unclear whether the target was to reduce distribution losses by 15% or to 15%.
+
+
+
+b. M&E Implementation
+  The quality of the project’s M&E implementation was insufficient to provide reliable evidence of result
+  achievement for objective #2 of the project. The failure of the M&E design to anticipate the difficulty in
+  measuring also hindered the assessment of the second PDO indicator. Because NEA did not have
+  systems and procedures to directly measure the losses for each distribution center, the reduction in
+  distribution losses could not be measured at a center-specific level. Furthermore, there is a misalignment
+  between the M&E design and implementation, as the evidence presented in the M&E implementation
+
+                                                                                                     Page 10 of 15
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Nepal: Grid Solar & Energy Efficiency (P146344)
+
+
+
+  does not match the target set in the M&E design. On p.2, the ICR notes that the anticipated outcome for
+  the component 2 was “reduction of distribution losses by 15 % in the targeted distribution network under
+  the Project”. However, on p.7, the evidence of result achievement presented is that “by the time of project
+  closing, country-wide system losses were reduced to 15%.”.
+
+
+
+c. M&E Utilization
+  The ICR (p.12) notes that the data on progress were collected regularly and were utilized effectively to
+  inform the management on key decision to be taken. However, the document did not specify the key
+  decisions that were made based on the progress.
+
+  Overall, there were significant shortcomings in the M&E design and implementation, and the utility of the
+  M&E outputs was unspecified in the ICR. Therefore, the M&E quality is rated Modest.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   Environmental safeguards
+
+   At appraisal, the Project was classified as category ‘B’ and three environmental safeguard policies, OP/BP
+   4.01 - Environmental Assessment, OP/BP 4.36 - Forests, and OP/BP 4.11 - Physical Cultural Resources,
+   were triggered. The project was expected to have limited adverse environmental and social impacts, which
+   were site specific, reversible and could be readily addressed through good engineering practices and
+   mitigation measures. The potential adverse issues/impacts were associated with site clearing (shrub
+   vegetation removal) & excavation, waste management, and management of labor camps. Most of the
+   impacts were temporary in nature and limited to the construction phase. Except for the visual quality, the
+   footprint of operational phase impacts of the Project was expected to be negligible. Potential environmental
+   concerns of the solar farms during the operational stage included wastes that may contain glasses, chips,
+   and photo-voltaic cells. Specific issues related to Component 2 are PCB (Poly Chlorinated Biphenyl) in the
+   transformer and dismantling of the existing conductors. For this reason, the project noted that PCB based
+   transformer and capacitor banks will not be used under the Project. The ESMF prepared for the Project also
+   acknowledged these issues and included measures for addressing them in the project implementation
+   process, such as provision for safe management of the existing conductors and transformers that will be
+   removed/dismantled.
+
+   The ICR (p.13) reported that during implementation, the project hired an Environmental and Social Study
+   Division (ESSD) and NEA Engineering Company to ensure that work on the solar plants and the distribution
+   substations complied with relevant Environmental and Social (E&S) requirements. E&S requirement was
+   fulfilled by the NEA project site engineers and project components managers in consultation with the World
+   Bank team. The Project avoided tree cutting where possible along the distribution line route. Wherever tree
+   cutting was required, the community forest user group’s consent was taken during the Project
+
+                                                                                                   Page 11 of 15
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    Nepal: Grid Solar & Energy Efficiency (P146344)
+
+
+
+  implementation, complying with OP/BP 4.36 - Forests. The Project’s environmental safeguard planning and
+  implementation were ensured through the preparation of E&S screening and Environmental and Social
+  Management Plan (ESMPs) in line with the Project-specific Environmental and Social Management
+  Framework (ESMF) in compliance with OP/BP 4.01 - Environmental Assessment. The Project activities
+  avoided the impact on physical cultural resources and followed the principle of avoidance, minimization, and
+  mitigation hierarchy for environmental risk management through the application of techniques, which
+  included alignment of distribution line routes to avoid impact on government and community forest areas,
+  mitigation of vulnerable slope instability/erosion, spoil disposal, and water logging issues of the substations.
+
+
+
+
+b. Fiduciary Compliance
+  The project experienced financial management issues during implementation. In the initial years of
+  implementation, the project maintained an acceptable level of financial management (FM) and was rated
+  ‘Moderately Satisfactory’. However, after August 2020, this rating was downgraded to ‘Moderately
+  Unsatisfactory’ because of unresolved audit qualification and other identified internal control issues. The
+  major reasons for the ‘Moderately Unsatisfactory’ rating are (a) lack of timely and quality of financial
+  reports, (b) unreconciled internal balances, (c) delays and irregular internal audit of the Project, (d)
+  compliance gaps in ensuring timeline of insurance and bank guarantee contracts clauses, and (e) absence
+  of physical verification for capital work in progress. Despite regular follow-ups from the World Bank team
+  on the action plan for the Project to improve overall FM, the progress was not satisfactory, as reflected in
+  the Aide Memoires issued by the World Bank since August 2020. The high turnover of finance staff in the
+  Project also affected the FM performance of the Project, which required constant handholding from the
+  World Bank FM team to maintain quality of FM reports and capacity of the incumbent finance staff to
+  ensure adequate FM arrangements are in place. Overall, FM performance of the Project remained
+  Moderately Unsatisfactory at closing.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+  None
+
+
+
+d. Other
+  Gender
+
+  The GSEEP was not a gender-tagged project. However, during preparation and implementation of the
+  Project, NEA conducted several consultations with Project beneficiaries, both male and female. The Project
+  also supported community activities including drinking water supply systems for communities around the
+  solar power plants and provision of computer lab for schools. These efforts benefited the communities, but
+  the project did not particularly measure the benefits to women and girls
+
+  Institutional Strengthening
+
+
+
+                                                                                                   Page 12 of 15
+     Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+     Nepal: Grid Solar & Energy Efficiency (P146344)
+
+
+
+   The Project trained 50 participants in various stages of preparation of the DLRMP. The training program
+   mainly covered the relevant definitions and classifications of the distribution system losses and methods of
+   system loss reduction and planning. The master plan is also considered as a useful guide, which identified
+   distribution losses and system weak points and recommended necessary modifications required in the
+   system. In addition, seven participants received international training in Vietnam on appropriate tools and
+   methodology on system loss reduction techniques. During their visit to a factory, they also gained an
+   understanding of the manufacturing process and maintenance procedures for smart energy meters and
+   acquired knowledge about quality control.
+
+   Mobilizing Private Sector Financing
+
+   The GSEEP did not directly mobilize private financing, but investments made under Component 1 of the
+   Project encouraged the IPP investors to enter the solar power PV generation systems in Nepal. The
+   implementation of the GSEEP can potentially has positive demonstration effects in Nepal’s energy sector.
+   This is because the project was Nepal’s first large-scale grid-connected solar PV system and demonstrated
+   the feasibility of implementing such large-scale solar plant in the country.
+
+   Poverty Reduction and Shared Prosperity
+
+   The ICR noted that lack of electricity is one of the major obstacles for doing business in Nepal. The GSEEP
+   enhanced both the generation capacity and the distribution networks, which contributed to improving the
+   power supply quality and reliability. However, no specific analysis was conducted to demonstrate Project’s
+   direct impact on poverty reduction.
+
+
+
+11. Ratings
+                                                                                   Reason for
+Ratings                          ICR                   IEG
+                                                                                   Disagreements/Comment
+                                 Moderately            Moderately
+Outcome
+                                 Unsatisfactory        Unsatisfactory
+Bank Performance                 Satisfactory          Satisfactory
+
+Quality of M&E                   Modest                Modest
+
+Quality of ICR                   ---                   Modest
+
+
+12. Lessons
+
+This review draws two lessons based on the information in the ICR.
+
+Future projects on loss reduction should focus on developing capacity for measuring loss
+reduction. Ensuring that the implementing agency has the technical ability to accurately measure
+distribution losses is critical for tracking the impact of investments targeted at reducing system
+losses. Although the investments and distribution centers prioritized by the DMP and DLRMP turned
+out to be valid for loss reduction, the absence of appropriate tools and systems for data collection on
+losses in those areas resulted in an inability to assess the impact of the project on loss reduction in
+
+                                                                                                     Page 13 of 15
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       Nepal: Grid Solar & Energy Efficiency (P146344)
+
+
+
+the selected areas. Hence, future project teams should establish that the capacity to assess loss
+reduction is put in place prior to undertaking further investments.
+
+Like the GSEEP, projects in fragile country settings should pay attention to land access
+issues. In fragile countries like Nepal, property rights are often poorly defined or weakly enforced.
+For this reason, project implementation involving land acquisition from private landowners are at risk
+of delay or derailment if ownership rights for such lands are disputed or if implementing agencies
+face difficult negotiations with private landowners. To avoid these issues, project teams should
+consider limiting project activities to publicly owned lands. However, the process of securing
+approval from public authorities for the use of public land can be lengthy. Hence, the process to
+obtain government approval should begin well in advance to avoid delays in land acquisition and
+project implementation.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The report mostly follows and responds to the Bank’s ICR guidance, and the narrative is concise. Including its
+annexes, the ICR presents a substantial level of detail about project activities that have or have not occurred as
+planned at appraisal. Although some of the claims made in the ICR are substantiated by weak evidence, the
+report is candid about those limitations. The economic analysis is detailed but the scope of the cost-benefit
+analysis differed at completion versus at appraisal, making a pre-project and post-project comparison of EIRR
+difficult. The presentation of the TOC for objective #2 in the ICR was misleading and inconsistent with the PAD.
+The disbursement and cancellation amounts reported in the ICR was inconsistent with those reported directly
+by the project team and the ICR did not explain the reasons for the discrepancy. Overall, the quality of the ICR
+is rated Modest.
+
+
+
+  a. Quality of ICR Rating
+       Modest
+
+
+
+
+                                                                                                    Page 14 of 15
+Independent Evaluation Group (IEG)                Implementation Completion Report (ICR) Review
+Nepal: Grid Solar & Energy Efficiency (P146344)
+
+
+
+
+                                                                               Page 15 of 15
+

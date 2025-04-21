@@ -1,0 +1,1125 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MN - E-Health Project (P131290)
+
+
+
+                                                                                  Report Number: ICRR0023753
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P131290                                    MN - E-Health Project
+
+ Country                                    Practice Area(Lead)
+ Mongolia                                   Health, Nutrition & Population
+
+
+ L/C/TF Number(s)                           Closing Date (Original)                Total Project Cost (USD)
+ IDA-54890                                  30-Sep-2019                                            7,971,808.56
+
+ Bank Approval Date                         Closing Date (Actual)
+ 06-Jun-2014                                30-Sep-2022
+
+                                            IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                            19,500,000.00                                                0.00
+
+ Revised Commitment                             19,500,000.00                                                0.00
+
+ Actual                                          7,971,808.56                                                0.00
+
+
+
+
+ Prepared by                 Reviewed by                  ICR Review Coordinator          Group
+ Sawsan Salameh              Salim J. Habayeb             Eduardo Fernandez               IEGHC (Unit 2)
+                                                          Maldonado
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to the Financing Agreement dated June 18, 2015, page 4, the Project Development
+   Objective (PDO) was "to improve integration and utilization of health information and e-health solutions for
+   better health service delivery in selected pilot sites."
+
+   During implementation, project objectives were not revised, but the project expanded its scope. Therefore,
+   this ICR Review assesses the project based on the project’s expanded scope.
+
+
+                                                                                                    Page 1 of 21
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     MN - E-Health Project (P131290)
+
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+
+
+   Originally, the project had five components according to the Project Appraisal Document Draft (page 14).
+
+   Original Component 1: E-Health Foundational Activities (Total US$2.85 million; IDA USS$2.63
+   million): This component aimed to lay the foundations for the successful deployment of e-Health solutions
+   and developing the prerequisites needed for greater integration of health information between health
+   facilities, the health insurance agency, public health agencies, private sector, and so on. Component 1
+   comprised two subcomponents.
+
+         Subcomponent 1.1: Enterprise Architecture Development (Total US$1.93 million; IDA US$1.82
+          million) would support the development of an Enterprise Architecture (EA) for health, based on the
+          National Enterprise Architecture (NEA) framework but adapted to the specifics of the health sector.
+
+         Subcomponent 1.2: Health data standards (Total US$0.92 million; IDA US$0.81 million): would
+          establish a suite of Health Data Standards (HDS), which would form the ‘common language’ needed
+          for diverse computer systems to interoperate.
+
+   Original Component 2: Clinical Data Collection, Access, and Sharing (Total US$16.06 million; IDA
+   US$12.37 million): Component 2 aimed to establish a solid basis for standardized data and medical image
+   exchange between healthcare providers and users, develop the mechanism for such data exchange to take
+   place, and pilot test this mechanism in selected sites. The development of the data and medical image
+   exchange systems would be based on the detailed assessment of business processes carried out under
+   Component 1. Component 2 comprised four subcomponents.
+
+         Subcomponent 2.1: The e-Health portal and viewer (Total US$2.12 million; IDA US$1.12 million)
+          aimed to establish a basis for standardized data exchange between healthcare providers and
+          access for users to the Health Information Exchange Platform (HIEP) initially and links between the
+          Hospital Information System (HIS) and other individual systems that could come online in the
+          future.
+
+         Subcomponent 2.2: HIEP including enterprise service bus and secure gateway (Total US$7.23
+          million; IDA US$6.38 million) would enable different HISs from a range of providers to exchange
+          data and, as the e-Health system became fully functional, between health insurance and health
+          services utilization reporting and epidemiology (H-Info).
+
+         Subcomponent 2.3: Analysis and implementation of Picture Archiving and Communication Systems
+          (PACS) (Total US$4.85 million; IDA US$4.00 million) would comprise the development of a central
+
+                                                                                                  Page 2 of 21
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    MN - E-Health Project (P131290)
+
+
+
+         archiving and communication environment for digital medical images, the upgrading of selected
+         facilities to be able to use digitally acquired imagery (mini PACS) and upgrading of local networks to
+         be able to share digital imagery.
+
+        Subcomponent 2.4: IT infrastructure, maintenance, and support and pilot tests (Total US$1.86
+         million; IDA US$0.87 million) would finance the servers required for the HIEP (to be housed and
+         supported at the National Data Center-NDC) and the pilot testing of the clinical and imaging data
+         exchange mechanisms developed under Subcomponents 2.1, 2.2, and 2.3.
+
+Original Component 3: National Health Information Center (NHIC) (Total US$2.44 million; IDA
+US$2.23 million) would establish a center that oversees all aspects of e-Health in Mongolia, thus ensuring
+the long-term sustainability of e-health investments. The Project would finance the establishment costs of
+the NHIC, while the government of Mongolia (GOM) would finance operating costs and office space. The
+NHIC would play a leading role in designing and implementing a change management strategy for e-Health
+with guidance and advice provided by the Change Management Advisor recruited under the Project
+Implementation Unit (PIU). Component 3 would finance two subcomponents.
+
+        Subcomponent 3.1: NHIC standards and applications (Total US$0.77 million; IDA US$0.56 million)
+         would finance (a) standards enforcement comprising the ongoing work of maintaining,
+         disseminating, and enforcing the HDS access for all interested parties and stakeholders throughout
+         implementation and (b) specialized e-Health application support in the areas of clinical practice,
+         clinical care, and other processes relating to the health venues themselves.
+
+        Subcomponent 3.2: Health Data Statistics (Total US$1.67 million; IDA US$1.67 million) The Health
+         Information Dashboard system supports complex data analysis for policy development and health
+         statistics. This subcomponent would finance two contracts: one contract encompassing hardware
+         and database management software and a second contract financing analysis tools.
+
+        Original Component 4: Institutional Strengthening and Capacity Building (Total US$1.20 million; IDA
+         US$1.20 million) would invest in the human capacity for the successful implementation and
+         institutionalization of e-Health in Mongolia. It would finance (a) user training to improve the computer
+         literacy of health service providers and (b) IT technical training to improve the IT skills and
+         competence of NHIC staff.
+
+        Original Component 5: Project Management (Total US$1.20 million; IDA US$1.10 million) would
+         finance the PIU, domain expert consultation, and annual monitoring and evaluation (M&E) of the
+         Project. The PIU would comprise a Project Coordinator, an implementation and procurement
+         specialist, a financial management (FM) specialist, EA specialist(s), a clinician to offer clinical
+         support and a change management specialist.
+
+
+
+To simplify implementation, the second restructuring approved in September of 2018, adjusted and
+consolidated the Project’s five components into three components, as follows:
+
+ 
+
+
+
+                                                                                                    Page 3 of 21
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    MN - E-Health Project (P131290)
+
+
+
+  Component 1: Build the E-Health Integration System (Appraisal Cost US$15.98 million, Actual Cost
+  US$6.9 million) (Restructured original components 1 & 2)
+
+  The revised component 1 was focused on the practical implementation of the HIEP and the completion of
+  foundational activities under the original components 1 and 2. It included the development of the electronic
+  health record (EHR), electronic medical record (EMR) for primary health care providers, e-referral services,
+  network services for primary health care providers' connection, statistical reporting, and security and privacy
+  protocols. It also included financing additional hardware for pilot sites.
+
+  Component 2: Institutional Strengthening and Capacity Building (Appraisal Cost US$2.3 million,
+  Actual Cost US$0.31 million) (Restructured original components 3 & 4)
+
+  The revised component 2 was focused on institutional strengthening and capacity building. It included
+  activities such as strengthening health professionals' basic computer skills, training IT specialists on
+  network administration and information security management, establishing a training center, ensuring facility
+  connectivity, and developing the legal literacy and health information management capacity among health
+  professionals.
+
+  Component 3: Project Management (Appraisal Cost US$1.22 million, Actual Cost US$0.76 million)
+  (Original component 5)
+
+  The revised component 3 involved the establishment of a PIU responsible for the implementation of the
+  project. The PIU included a project coordinator, implementation and procurement specialists, a financial
+  management specialist, EA specialists, a clinician for clinical support, and a change management specialist.
+  The project management component also included domain expert consultation and annual monitoring and
+  evaluation of the project.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Cost:
+
+  The project cost was estimated at US$19.5 million at approval. The actual cost at project closing was
+  US$7.97 million because of underachievement in implementation and representing only 40.9% of the
+  approved amount despite the project having three additional years of implementation.
+
+  The ICR reported the opportunity cost of capital and the administrative costs to the GOM. The government
+  only utilized US$8.88 million out of the US$19.5 million IDA credit, and the remaining US$8.5 million funds
+  were canceled.
+
+  The government also committed US$4.25 million in government financing which could have been used for
+  other investments.
+
+
+
+  Dates and Restructuring:
+
+  The key dates of the project were as follows:
+
+
+                                                                                                    Page 4 of 21
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     MN - E-Health Project (P131290)
+
+
+
+       1.   Approval: 06 - Jun - 2014
+       2.   Effectiveness: 17 - Aug - 2015
+       3.   MTR Review: 18 - May - 2018
+       4.   Original Closing: 30 - Sep - 2019
+       5.   Actual Closing: 30 - Sep - 2022
+       6.   Restructuring Dates:
+                 a. June 11, 2015
+                b. September 11, 2018
+                 c. June 18, 2020
+
+
+
+   The restructuring dates for the Mongolia E-health project are:
+
+       1. First restructuring (June 11, 2015) extended the Closing Date by 12 months to September 30, 2020.
+          The reasoning of this was to reflect the delay in the signing of the financing agreement and project
+          being approved by Parliament and made effective in addition to the change in the name of the
+          implementing agency from Ministry of Health and Sports to the Ministry of Health (MOH).
+       2. Second restructuring (September 11, 2018): PDO indicators were expanded to capture the impact
+          and benefits flowing across all parts of the health system, beyond ‘pilot sites. To simplify
+          implementation, the second restructuring adjusted and consolidated the Project’s five components
+          into three components as shown in section 2e.
+       3. Third restructuring (June 18, 2020) extended the Closing Date by 24 additional months, to
+          September 30, 2022.
+
+   As mentioned earlier, the PDO was not revised in the restructurings.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Mongolia, a unique country with extreme features, such as being the most sparsely populated country in the
+world and experiencing rapid urbanization, made significant investments in information and communication
+technology to help improve public service delivery including continued commitment to the health sector
+through the E-Health Strategy (2010-2014) developed in 2009. However, the implementation of this
+strategy faced multiple health system challenges. These challenges included large technical and allocative
+inefficiencies in health service delivery, the inability to meet the growing burden of non-communicable
+diseases (NCDs), the limited IT literacy and capacity of the health sector and the need to transition to a
+high-value more-integrated delivery system supported by efficient use of public expenditures. To address
+these challenges, the government of Mongolia requested financing to improve integration and utilization of
+health information and e-health solutions. This was the first World Bank supported project in the health
+sector for Mongolia.
+
+
+                                                                                                   Page 5 of 21
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MN - E-Health Project (P131290)
+
+
+
+
+Relevance to the national priorities at approval:
+
+At the time of appraisal, the PDO was relevant to the country conditions and well-aligned with national
+priorities, specifically with the commitment to use information and communication technology (ICT) to
+deliver inclusive and efficient public services and a high value delivery system. The project was strongly
+relevant to address many shortcomings that arose from the implementation of Mongolia's E-Health Strategy
+(2010-2014) that was developed in 2009. The strategy recognized the critical role that e-Health solutions
+could play in addressing health care challenges and a more integrated system of financing and delivery, in
+line with the broader e-Government strategy. However, this strategy had many shortcomings that included:
+(a) the lack of a robust Enterprise Architecture (EA) or roadmap for the development of e-Health activities;
+(b) inconsistent data formats, coding schemes, and timing of information delivery due to lack of HDS; (c)
+lack of data interchange between different HISs to match information about patients and no link to the wider
+administrative and financing systems; (d) incomplete data in the existing health information system that
+limited the ability to create useful, consistent ‘maps’ for tracking diseases, especially non-communicable
+diseases (NCD); and (e) limited IT literacy and capacity and fragmented IT resources to manage a modern
+health information system. This project was relevant to the GOM in addressing these shortcomings at
+appraisal.
+
+
+
+Relevance to the WBG’s assistance Strategies at approval:
+
+The project was aligned with the World Bank Group’s Country Partnership Strategies (CPS) for Mongolia at
+the proposal time for the period FY13–FY17 (PAD, page 5), which aimed to “Address Vulnerabilities
+through Improved Access to Services and Better Service Delivery”. Mongolia's health sector faced
+challenges in delivering quality service and the health system was not equipped to meet the growing burden
+of NCDs, the leading cause of mortality and morbidity in Mongolia. The project aimed to address these
+challenges by focusing on effective management and control of NCDs through the exchange of patient
+information and providing accurate and regularly updated data and transition to a high-value delivery
+system supported by the efficient use of public expenditures.
+
+
+
+Relevance to WB and national priorities at closure:
+
+The objectives continued to be highly relevant at project closing, both to the World Bank Group's Country
+Partnership Framework (CPF) for Mongolia for the period FY21-FY25 and to the country's health sector
+needs and current financing reforms. The CPF’s Focus Area 3 (Improving quality of life), Objective 3.1
+(Enhancing quality of health services) for Mongolia for the period FY21-FY25, mentions that Mongolia’s
+health sector faced challenges in delivering quality service, as health service delivery is characterized by
+large technical and allocative inefficiencies. Further, it highlighted that the system is not equipped to meet
+the growing burden of NCDs, the leading cause of mortality and morbidity in Mongolia, and that Mongolia
+needs to transition to a high-value delivery system supported by the efficient use of public expenditures. By
+focusing on effective management and control of NCDs by facilitating the real-time exchange of patient
+information and providing accurate and regularly updated data to monitor NCDs, the PDO and design were
+fully relevant to these priorities during and after project closure. The project became even more relevant
+following the COVID-19 pandemic, as it exposed weaknesses in Mongolia's public health systems and
+
+                                                                                                    Page 6 of 21
+                                      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+                                      MN - E-Health Project (P131290)
+
+
+
+               highlighted the need to build and strengthen preparedness. The GOM also emphasized the urgent need for
+               an integrated e-health system, even after project closure, particularly considering recent financing reforms
+               that require consistent and accurate data from service providers as critical step for achieving efficiency and
+               equity as Mongolia moved away from input-based to performance-based financing.
+
+               The project's objectives were strongly relevant to both the World Bank's country partnership framework and
+               strategies for Mongolia and to the country's health sector needs and current reforms at appraisal and
+               continued to be strongly relevant at project closing.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+
+                             To improve integration and utilization of health information and e-Health solutions for better health service
+                             delivery in selected pilot sites.
+
+                             Rationale
+
+
+                             Interpretation of the PDO: Both this ICR Review and the ICR (p. 17) considered that the wording of “for better
+                             health service delivery” indicated an ultimate long-term outcome and that the objective of the project was to
+                             improve integration and utilization of health information and e-Health solutions, as reflected by the theory of
+                             change (ToC) and results framework (RF).
+
+                             Further, as integration and utilization in terms of e-Health are very closely related and intertwined, they were
+                             evaluated together rather than separately.
+
+                             Integration is the bringing together of different inputs and only part of the process of making information
+                             usable by health providers, managers, and patients.
+
+                             The objective was evaluated based on 2 outcomes/result chains:
+
+                                       1. Building E-Health integration system (PDO outcome 1).
+                                       2. Institutional strengthening and capacity building (PDO outcome 2).
+
+                             Theory of Change:
+
+
+
+                                                                                                                                  Page 7 of 21
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   MN - E-Health Project (P131290)
+
+
+
+The theory of change developed for the ICR, showed a direct, logical causal chain from inputs to outputs and
+further to the intermediate and then PDO outcomes.
+
+The first part of the results chain showed how building the e-health system foundations would result in the
+following Intermediate results:
+
+    1. develop health data standards.
+    2. design, develop and implement successful e-health portals and piloting of HIEP.
+    3. develop and implement PACS that will allow the exchange of digital images among central PACS and
+       health care facilities.
+    4. Supply working computers for primary health care facilities.
+    5. Improve storage capacities and servers required for health data information for the HIEP.
+
+These intermediate outcomes of building the e-health system would plausibly lead to integration of the system
+and making it usable (PDO outcome 1).
+
+The second part of the results chain showed how setting up and establishing training centers and connecting
+some pilot sites to high speed internet and gathering beneficiary feedback would lead to the intermediate
+outcomes of providing computer and IT skills training for health service providers, ensuring health facility
+connectivity to high speed internet and information and communication technology advances, utilizing
+beneficiary feedback as well as developing the legal framework for e-health systems and utilize e-signatures
+as valid endorsement for health insurance claims. These intermediate results would plausibly result in
+institutional strengthening and improvements in IT and health information management capacity among
+health professionals (PDO outcome 2).
+
+Progress at the PDO level was to be assessed with the following 4 PDO indicators:
+
+    1. Percentage of statistical reports out of total report produced by pilot facilities that are transmitted
+       electronically through the HIEP to the National Center for Health Development (NCHD).
+    2. Percentage of electronic referrals out of total referrals at pilot facilities.
+    3. Number of project area soums and family health centers transmitting monthly e-Health statistical
+       reports.
+    4. Improvements in IT and health information management capacity among health professionals.
+
+The ToC captured the logical cause-effect relationships from the lower-level results to the higher-level ones.
+
+However, the ToC did not discuss any of the assumptions or risks that hinder the achievements of the
+outcomes. The ICR fully discussed these assumptions that led to underachievement in outcomes.
+
+Achievement of the Project’s objectives was highly dependent upon the successful implementation of the
+contract for the design and implementation of the HIEP platform and, to a lesser extent, to that of the PACS.
+
+The successful design and implementation of the HIEP is crucial for improving integration and utilization of
+health information and e-Health solutions. However, there were several issues with the procurement and
+implementation of the HIEP, including duplication concerns. These issues put the achievement of the project's
+objectives at risk. This was mostly because implementation of the contract for the HIEP came too late, was
+
+
+
+                                                                                                      Page 8 of 21
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   MN - E-Health Project (P131290)
+
+
+
+unsuccessful, and was duplicated and overlapped with a system to extract health information to support
+health financing developed by the Ministry of Finance (MOF).
+
+However, as mentioned earlier, the complexity of the project, lack of familiarity with WB policies as well as
+frequent transitions and capacity constraints led to problematic underachievement of outputs and activities
+for most of the project timeline and after project closing per Task Team Leaders (TTLs) clarifications on
+November 2, 2023.
+
+Outputs and intermediate results indicators achieved:
+
+      On May 31st, 2022, only 24 Health Data Standards were developed and submitted for review by the
+         Ministry of Health E-health Committee. This target was partially met as indicated by the ICR. The ICR
+         did not mention the target number for this indicator.
+        On May 31st, 2022, 100% of digital images were transmitted at central PACS compared to an 80%
+         target. This indicator was achieved and exceeded the target.
+        Only 192 out of the expected 500 primary health care facilities had at least 1 upgraded and working
+         computer (Baseline: 100) - This target was partially met. The ICR indicated that the actual value of this
+         indicator was not available at project closure to include in the last Implementation Status and Results
+         Report. The MOH provided evidence on August 15, 2023 (ICR page 40) during consultation on the
+         draft Implementation Completion and Results Report that 82 primary health care facilities were
+         provided with working computers in 2019 as part of the Project.
+        On May 31st, 2022, the storage capacities for health data information were improved and enhanced to
+         reach 20 Tb.
+        On May 31st, 2022, ‘Training Center’ was designed, implemented and was ready to use. The target
+         was achieved.
+        On June 29, 2022, 443 soums were connected to high-speed internet. The target was achieved and
+         exceeded the target of 300.
+        On May 31st, 2022, legislation was passed and became effective from May 1 to use e-signatures as a
+         valid endorsement for health insurance claims, but the regulation was not yet issued. This target was
+         thus partially met.
+        On May 31st, 2022, beneficiary feedback was incorporated into implementation. This target was
+         achieved.
+
+Only some of the PDO indicators and outcomes were partially achieved as follows:
+
+Outcomes
+
+      On May 31st, 2022, the number of project area soums and family health centers transmitting monthly
+         e-Health statistical reports was 453 exceeding the target of 450. The target was achieved and
+         exceeded.
+
+      On May 31st, 2022, 1,180 health professionals had improved their IT and health information
+         management capacity and exceeded the target of 1000. The target was achieved and exceeded.
+
+
+
+
+                                                                                                    Page 9 of 21
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   MN - E-Health Project (P131290)
+
+
+
+As discussed earlier, the implementation of the contract of the HIEP was unsuccessful. As a result, the first
+two PDO indicators and one of the Intermediate Results Indicators IRIs were not met and progress towards
+these targets was not seen as it depended on the successful completion of the HIEP.
+
+      The percentage of statistical reports out of total report produced by pilot facilities that are transmitted
+       electronically through the HIEP to the NCHD was 0% and the indicator was not met. (Baseline: 0
+       percent; Target: 75 percent; Actual: 0).
+      The percentage of electronic referrals out of total referrals at pilot facilities was 0% and not
+       met (Baseline: 0 percent; Target 50 percent; Actual: 0).
+      The percentage of pilot facilities which design, develop and implement successful piloting of HIEP was
+       0% and the IRI was not met (Baseline: 0; Target: 80; Actual: 0).
+
+Thus, adequate integration and utilization of e-health systems by health service providers were dependent on
+the collective contributions of the above noted outputs and results. If each of the above outcomes,
+intermediate results and outputs were met, then collectively and plausibly that would contribute to integration
+and utilization of health information and e-Health solutions for better health service delivery in selected pilot
+sites.
+
+The unsuccessful implementation of the HIEP, the complex nature of the project that did not properly evaluate
+the risk and assumptions of the project had resulted in the underachievement of the envisaged project
+objective.
+
+Despite this, the project was able to produce some tangible achievements that can provide the foundation for
+the design and implementation of a strong e-Health system. The PACS is reported to have achieved good
+results in five central, pilot hospitals. However, the ICR reported that an independent assessment found that
+there are still some crucial functionalities outstanding, including a licensed clinical viewer, integration of
+existing local PACS with the central PACS, and data exchange between existing electronic medical records
+and PACS and lack of integration with new systems. In addition, several project-supported activities had
+helped build the capacity of clinicians, IT specialists, and health units to help them successfully develop and
+utilize an integrated eHealth system.
+
+Although these outputs and intended outcomes seemed fragmented, they represented progress towards the
+creation of an integrated e-Health system in a challenging environment and thus overall efficacy would be
+rated as modest. The MOF was developing an Information and Communication Technology system that was
+temporarily halted in 2020/21 due to concerns about duplication as reported in the ICR (page 20). This
+system closely followed the design of the HIEP and facilitated the exchange of financial information across
+various sectors, including health insurance claims.
+
+Overall, the project did not achieve the intended objective of integration and utilization of e-health systems
+but made tangible achievements that can provide the foundation for the design and implementation of a
+strong e-Health system. For this reason, efficacy is rated modest.
+
+
+
+Rating
+Modest
+
+
+
+                                                                                                     Page 10 of 21
+                                Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                                MN - E-Health Project (P131290)
+
+
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project objective of integrating and utilizing solutions and e-health services was partly achieved,
+                            indicating a modest overall efficacy rating.
+
+
+
+                            Overall Efficacy Rating                                   Primary Reason
+                            Modest                                                    Low achievement
+
+
+    5. Efficiency
+   At appraisal, the economic analysis for the Project was not performed. No Economic Rate of Return (ERR) or
+   Financial Rate of Return (FRR) was estimated. This was because it was challenging to estimate the impact of
+   the project's investments on health outcomes and better health service delivery through integration and
+   utilization of e-health systems. The Project Appraisal Document (PAD) (page, 55) pointed out these challenges
+   in conducting the economic analysis. The ICR (page, 21) pointed out that these difficulties persisted at closure,
+   and as a result, the value of conducting a full cost-benefit analysis was further diminished by the lack of tangible
+   benefits from the project activities and achievement of objectives and some outcomes. Although at completion
+   the project had financed some separate outputs, these were very few, especially when viewed in the context of
+   its eight-year implementation period. The successive implementation issues that continued even after
+   streamlining its design and implementation arrangements constantly put the achievement of its objectives and
+   efficiency at risk.
+
+   The decision to continue developing the HIEP under the Project did not take into account the MOF's system,
+   resulting in the creation of a parallel system and the possibility for duplication. However, the outputs of the
+   Project would ultimately contribute to the integration and utilization of e-Health systems within the MOF's
+   system.
+
+   The efficiency analysis in the ICR compared the actual component costs to the estimated costs at appraisal,
+   highlighting the underachievement of activities. This analysis only focused on the utilization of funds, opportunity
+   costs and administrative costs of the World Bank-supported e-health project in Mongolia.
+
+   The government only utilized US$8.88 million out of the US$19.5 million IDA credit, and the remaining US$8.5
+   million funds were canceled. The ICR pointed out that if the project had canceled funds or closed earlier as its
+   main components were at risk due to HIEP delays, it may have been possible for the GOM to reallocate this
+   capital to other World Bank-financed projects in Mongolia. The opportunity cost of retaining this funding for the
+   project was the loss of potential impact in other World Bank-financed projects in Mongolia. The analysis also
+   noted the government's commitment of US$4.25 million in government financing, which could have been used
+   for other investments.
+
+
+   Efficiency Rating
+          Negligible
+
+                                                                                                                               Page 11 of 21
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      MN - E-Health Project (P131290)
+
+
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)            *Coverage/Scope (%)
+                                                                                       0
+Appraisal                                                    0
+                                                                                        Not Applicable
+                                                                                       0
+ICR Estimate                                                 0
+                                                                                        Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Relevance of objectives was rated high in view of full alignment with the World Bank CPF strategies, and the
+country's health sector needs and current reforms and even more relevant following COVID-19 pandemic.
+Efficacy is rated modest, as the project partly achieved its objectives. Efficiency is rated as Neglegible in view of
+major shortcomings.
+
+The aggregation of these findings is indicative of a Unsatisfactory outcome rating.
+
+
+a. Outcome Rating
+   Unsatisfactory
+
+
+7. Risk to Development Outcome
+
+The risk to the development outcome, which is the risk, at the time of completion, that development
+outcomes that have been achieved or are expected to be achieved will not be maintained, can be assessed
+from two perspectives. First, there is a risk that the outputs and outcomes that were achieved will not be
+sustained. Second, there is a risk that what was achieved will not contribute to further development. For
+example, there is a risk that the staff trained and the PACS systems financed and developed will not be
+utilized in future developments or other duplicate systems will be developed as part of the new future project
+design. However, the government of Mongolia has demonstrated a strong commitment to continue to
+prioritize its e-Government strategy, which is a positive sign for maintaining the investments supported by the
+project and pursuing an integrated e-Health platform. Although there may be a risk related to financing
+further development, the government remains committed and has consistently allocated counterpart funding
+for key activities under the project and should not have difficulties in securing funding if it decides to proceed
+with the platform's development. The SMART Project referenced in the ICR (pages 23, 25, 33), which faced
+similar implementation issues as the e-Health project, was able to achieve its objectives, albeit with less
+efficiency than expected. The World Bank has approved a follow-on SMART Government II project
+(P176631) to support Mongolia's e-Government strategy, but it does not include specific support for the
+health sector.
+
+
+                                                                                                      Page 12 of 21
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MN - E-Health Project (P131290)
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The overall design and objectives were well suited to support the clearly defined goal of the Government
+  of Mongolia in improving efficiency of health service delivery. The appraisal and design were informed by
+  the results of the e-health Feasibility Assessment carried out by the Ministry of Health in 2011 (PAD,
+  page, 13). The assessment showed that although a range of electronic Health Information Systems
+  already existed in Mongolia, these systems were largely independent and did not coordinate together to
+  improve service delivery. It identified the need for health information systems and services that are
+  interconnected and communicate together to share data. As a result, the HIEP formed the core of the
+  project design.
+
+  The design of the e-health project was suited to support improving the integration of health information
+  and e-health solutions and utilizing them at selected pilot sites. The project aimed to establish and build
+  the e-health system through developing health data standards and designing, developing and
+  implementing data exchange through HIEP including digital imaging generated and transmitted
+  electronically through PACS, e-referrals, electronic health and medical records and electronic health
+  reports. The project design also focused on improving relevant Information Technology (IT) (working
+  computers, high speed internet and data storage capacities). The design also included training of
+  healthcare professionals, utilizing beneficiary feedback, and utilizing e-signatures for health insurance
+  claims. These activities could help increase interoperability and strengthen the human and government
+  institutional capacity for successful implementation and institutionalization of e-health services in
+  Mongolia.
+
+  Looking at the implementation arrangements (PAD page 10), MOH was in charge of implementing the
+  Project, which included overall coordination, monitoring of results, and communication with the World
+  Bank regarding financial aspects. To oversee and provide strategic policy advice and guidance to the
+  Project and the MOH, a Project Steering Committee was established, with the Minister of Health as the
+  chairperson. The Project Steering Committee also ensured that there was coordination between the E-
+  Health Project and the proposed SMART Government Projects done through the Steering Committee.
+
+  The Vice Minister of Health served as the Project Director and had direct responsibility for the Project.
+  The Department of Monitoring and Evaluation and Internal Audit (DMEIA) was the Implementing Agency
+  for the Project with an E-health PIU established within. The PIU reported to the Project Director was
+  responsible for the overall management of the Project, including financial management, monitoring and
+  evaluation, and reporting. The General Procurement Agency (GPA) managed the procurement for the
+  Project, but the PIU was responsible for working with the beneficiary units to develop technical inputs
+  such as terms of reference and technical specifications.
+
+  To assist the Project Implementation Unit (PIU) in effectively managing the Project, a Project
+  Implementation Manual (PIM) was created by September 30, 2014. The PIM provided detailed
+  information on the division of responsibilities within the PIU, operational systems and procedures, and the
+  organizational structure of the PIU. It also outlined office operations and procedures, finance and
+
+
+
+                                                                                                    Page 13 of 21
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   MN - E-Health Project (P131290)
+
+
+
+accounting procedures (including how funds would flow and be disbursed), and procurement procedures.
+The initial work on the PIM was initiated during the grant for project preparation.
+
+During preparation, the World Bank team worked in consultation with a working group from the GOM and
+different local specialists and government stakeholders to prepare the design of the project and plan the
+different activities. The World Bank team and the GOM also built the project based on the best practices
+of similar projects and studies in different countries, mainly Estonia. The Bank team undertook good
+preparatory work at appraisal and engaged in a comprehensive dialogue with the GOM to ensure the
+PDO was in line with the GOM’s priorities and health needs and the World Bank's CPS for Mongolia.
+During appraisal, the Bank team and the GOM also worked on different Project implementation
+arrangements to mitigate the identified risks. The risks included: stakeholder risks (reduced commitment
+from government for e-health, duplicative efforts by donors, and lack of capacity among beneficiaries);
+implementation agency risks (weak technical capacity, fiduciary weaknesses, inadequate oversight, lack
+of familiarity with World Bank projects); and project risks (compliance with standards, interface layer, as
+well as technical complexity of the project and unproven internet environment) (PAD, page,12).
+
+The project design at entry took into account these risks and had some mitigating measures to manage
+them. However, there were major shortcomings in addressing the acknowledged risks. This was the first
+World Bank project in Mongolia's health sector, which meant that the MOH staff had to familiarize
+themselves with the World Bank's policies and procedures. Despite these challenges, the project was
+overly ambitious and had complex institutional arrangements, with many institutions lacking experience
+working with the World Bank. This complexity was underestimated during preparation. The project
+involved multiple components and sub-components, and there were various institutional arrangements
+and agencies involved in its implementation.
+
+In addition, the World Bank had expectations that international partners with experience in e-Health
+would collaborate with the Mongolian government, but this did not happen. Moreover, the project design
+aimed to follow the model of an e-health project in Estonia and the design was relevant at appraisal.
+However, the capacity and level of development of information technology in Estonia and Mongolia were
+very different and, thus, led to underachievement of outcomes.
+
+Even though the World Bank also supported, in parallel, the SMART Government Project, which showed
+the government's commitment to e-Government, including health, and while the project was designed to
+adapt to the already existing Health Information Systems, identified in the Feasibility assessment and
+discussed during preparations, it was unclear if the Bank had a full understanding of the existing
+information systems and plans in the health sector and might have prepared the project without a
+complete understanding of the health sector's information systems. The Appraisal discussed that the
+preparation and planning involved many consultations and working group meetings that could have
+discussed the opportunity to simplify the project at an earlier stage. The project focused on a broader
+approach rather than a simplified specific area, such as the PACS system.
+
+The project's risk assessment did not adequately address these issues and underestimated the
+implementation risks. Although the risks were acknowledged during the World Bank's review process, the
+evaluation considered the project to be high-risk but potentially high-reward and transformational. The
+recommended mitigation measures, such as including a change management specialist, did not align
+with the context and other mitigation measures such as a simpler project design could have been
+introduced earlier.
+
+
+
+                                                                                                 Page 14 of 21
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     MN - E-Health Project (P131290)
+
+
+
+
+  Quality-at-Entry Rating
+  Moderately Unsatisfactory
+
+
+b. Quality of supervision
+ The complexity of the original design was addressed in the second restructuring that simplified the project
+ design, activities, increased scope and revised implementation strategies to improve efficiency and
+ likelihood of achieving the objectives and allowing proactive monitoring of progress. In addition, the design
+ did not adequately address the unique challenges and assumptions that would risk the achievement of
+ certain objectives based on completion of others. The project's design proposed the establishment of a
+ new institution, adding further complexity. A simpler project with fewer activities and institutions involved
+ would have been more suitable for developing information systems. The successful implementation of the
+ project relied on the implementation of a single, large contract (HIEP), which faced repeated delays and
+ was not implemented. The project's risk framework was flawed and did not effectively measure progress or
+ identify major issues during implementation. There were warning signs during the preparation phase,
+ particularly regarding the HIEP, that should have prompted caution.
+
+ The World Bank's implementation support team faced challenges in implementing the project due to delays
+ and issues with project design. Despite efforts to improve implementation, the team faced difficulties due to
+ changes in management and staffing, fluctuating commitment to the project, and repeated requests by new
+ staff that were overly optimistic about improving implementation to deliver results. The team also had to
+ deal with difficulties of PIU attracting and working with contractors, the need to coordinate project activities
+ with other initiatives (SMART project and other donor projects) and deal with the challenges of virtually
+ supporting and supervising after the onset of COVID-19 in 2020.
+
+ Fiduciary compliance was regularly reviewed, and the team provided timely and detailed documentation
+ with candid ratings of implementation performance and prospects for achievements of objective. However,
+ the team faced difficulties in focusing on development impact due to the dependence on a single contract
+ (HIEP). The team constantly continued recommending and prioritizing activities that will lead to the best
+ use of project funds to deliver the project objective of integrating and utilizing e-Health systems. However,
+ they did not recommend a major restructuring that should have occurred earlier, and the project's objective
+ was not adjusted with the second restructuring to eliminate reference to pilot sites. In addition, the team did
+ not further clarify the MOF’s proposal to develop its own health information system and determine if it
+ would duplicate the efforts of the Project.
+
+ The World Bank team on the other hand was always optimistic and attended to the new staff’s requests
+ that implementation would improve with the new team and constantly gave them extra time. The World
+ Bank team did not do a full review of implementation. The ICR (page 33) reported that if a full review of
+ implementation was performed, the Bank team would have reached the conclusion to justify the
+ suspension of support or even cancellation of the project.
+
+ Even as the Bank Team took steps to address design issues, streamline the project and simplify
+ institutional arrangements to enhance and achieve outcomes and output, there were significant
+ shortcomings in the team’s supervision as they had inherited a complex project. Thus, the quality of
+ supervision is rated as moderately unsatisfactory.
+
+
+                                                                                                     Page 15 of 21
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     MN - E-Health Project (P131290)
+
+
+
+
+  Quality of Supervision Rating
+  Moderately Unsatisfactory
+
+  Overall Bank Performance Rating
+  Moderately Unsatisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ Overall, the development objective was clearly stated and reflected by the selected PDO indicators. The
+ Project's RF was systemic, adequately reflected the Project interventions and was sufficiently linked to the
+ PDO.
+
+ The RF was linked to the ToC and was measuring the PDO outcomes, as well as the intermediate
+ outcomes and outputs. The RF was streamlined and contained the three PDO outcomes, 9 Intermediate
+ results indicators (IRIs) and several outputs. The ICR reported that the RF contained 7 IRI’s instead of 9.
+ However, the RF could have been strengthened by further explaining how qualitative measures could be
+ measured by indicators and by using more SMART quantitative and qualitative indicators that are time-
+ bound and measurable. Most of the indicators were quantitative, and most had baselines and targets.
+ However, some of the indicators were not time-bound and thus made the assessment of these outputs and
+ outcomes hard.
+
+ The M&E design of the project as noted in the PAD (page 11) included four types of monitoring and
+ evaluation: regular/routine monitoring, MTR (Mid-Term Review), completion review, and impact
+ assessments for the pilots under component 2. The ICR pointed out that the project's M&E activities were
+ going to be integrated to the extent possible into the existing data collection mechanisms at the Ministry of
+ Health, National Center for Health Development and health facilities i.e., the current Health Management
+ Information System (HMIS). The ICR also highlighted that the pilot’s impact assessments were built into the
+ design and include baseline and similar surveys to be carried out at regular intervals during project
+ implementation.
+
+
+
+b. M&E Implementation
+  M&E Implementation proceeded with some challenges. Throughout the implementation of the project,
+  regular update reports were submitted by the PIU to monitor and evaluate progress.
+
+  However, the ICR reported that there were some difficulties in the M&E data collection and monitoring
+  progress according to the indicators in the RF during the earlier implementation phases and throughout
+  the project due to delays in implementation and the slow start of activities. These delays in
+  implementation and the fact that only a few indicators could be used to measure actual implementation
+  progress limited the use of the RF. This was partly because the PDO indicators were defined as end-of-
+
+
+
+
+                                                                                                   Page 16 of 21
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     MN - E-Health Project (P131290)
+
+
+
+  project outcomes, and the activities relating to most of the IRIs were off to a slow start, making any
+  attempt to measure progress difficult.
+
+  The ICR (page 28) also stated that the project's M&E activities were integrated into existing data
+  collection mechanisms of the MOH, NCHD, and health facilities under the existing Health Management
+  Information System based on the original proposed design.
+
+  Initially, all PDO indicators were designed to measure impact at the pilot sites, but the MOH expressed a
+  desire to measure the project's impact over the entirety of the health sector, not just the pilot areas
+  because the project’s reach would be much larger. This part of the M&E design was then reflected in the
+  second restructuring and the MTR resulted in a detailed proposal to adjust the project scope,
+  components, implementation arrangements and revise the RF to address these issues and allow
+  proactive monitoring of the project’s progress. The impact assessments of the pilots were not carried out.
+
+
+
+c. M&E Utilization
+  The ICR reported that the utilization of M&E activities was challenging in early stages. The project faced
+  delays in implementation, which made it difficult to track progress according to the indicators in the
+  project's RF. Only three indicators were reported in the project's Implementation Status and Results
+  Reports (ISRs) before the project was restructured. Additionally, the project's indicators were defined to
+  measure outcomes at pilot facilities only, while the Ministry of Health expressed a desire to measure the
+  project's impact across the entire health sector. The delays in implementation and limited use of
+  indicators that hindered the ability to measure actual progress led to the second restructuring in
+  September 2018 that expanded the scope of the project. Following the MTR and the second
+  restructuring, the expanded PDO indicators were utilized to capture the impact and benefits flowing
+  across all parts of the health system, beyond ‘pilot sites’ and thus monitor project achievements.
+
+  Overall, the issues with the M&E design and the shortfalls in implementation reflected a modest M&E
+  quality.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   The overall safeguards rating was satisfactory.
+
+   The project was classified as category C, as only minor works were to be financed, such as the installation
+   of new equipment in existing offices and buildings, and no adverse environmental impacts were expected.
+
+   The ICR noted that the Indigenous peoples (IP) safeguard policy was triggered (page, 29) since IPs in
+   Mongolia were among project beneficiaries. The project design incorporated elements to ensure the
+   provision of culturally appropriate e-health benefits for indigenous peoples, such as conducting
+
+
+                                                                                                    Page 17 of 21
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    MN - E-Health Project (P131290)
+
+
+
+  consultations with IPs, using IP languages in service provision, and addressing any concerns. It stated that
+  compliance with the IP safeguard policy was considered satisfactory throughout implementation.
+
+  The ICR reported that throughout implementation, no issues were reported in regard to compliance with the
+  IP safeguard policy. As of June 2022, the Project’s grievance redress mechanism had received five
+  complaints related to HIEP and PACS contract payments. As of July 2022, the PIU had organized meetings
+  with the respective contractors and with end users (IT specialist, director, and doctors of several hospitals)
+  to obtain feedback, but the complaints had not been fully resolved.
+
+
+
+
+b. Fiduciary Compliance
+  The ICR (page 29) noted that the project's financial management assessment considered its risk rating as
+  substantial, but with mitigating measures defined in a plan of action. It reported that fiduciary compliance
+  was reviewed and supervised regularly. The World Bank carried out periodic financial management
+  reviews that concluded that the Project maintained acceptable FM arrangements and practices and
+  complied with the World Bank’s financial reporting requirements. FM actions were agreed during each
+  such review and were closely followed up by the PIU. One issue that was addressed in the ICR (page 30)
+  and further clarified by the TTLs on November 2, 2023, was that the government’s statutory audit of the
+  Project’s FY21 financial statements contained a qualified opinion due to material misstatements found in
+  the financial statements. The PIU was subsequently able to address those misstatements and revise the
+  financial statements accordingly and was advised by the Bank to prepare the financial statements
+  submitted to the government well in advance to allow for time to consider and address the auditors’
+  findings before the specified statutory deadline. All 6 audit reports submitted to the Bank were received in a
+  timely manner and were of fair and transparent and all 25 submissions of the Quarterly Interim Financial
+  Reports were done in a timely manner.
+
+  The ICR highlighted another significant financial management issue that was connected to the findings of
+  an independent technical audit of the HIEP contract. This audit was recommended by the World Bank to
+  the PIU due to the lack of technical capacity of the government and the increased concerns about the
+  limited time available to achieve a functioning HIEP. This technical audit revealed several problems with
+  the HIEP contract: firstly, the contractor did not achieve any of the objectives or outcomes specified in the
+  contract; secondly, payments made against the invoices and deliverables were not in accordance with the
+  contract conditions; and thirdly, certain components within the contract's scope were not fully implemented.
+  As a result, the World Bank was unable to consider any of the expenses incurred under the contract as
+  eligible for the Project. Consequently, the payments made totaling US$1,718,360 were deemed ineligible
+  expenditures and were refunded.
+
+  In terms of procurement, the ICR's procurement capacity and risk assessment assigned a high-risk rating
+  to procurement due to various factors such as low staff capacity, unfamiliarity with World Bank procedures,
+  lack of experience with implementing World Bank-financed projects, inadequate planning, lack of oversight
+  mechanism, and possible elite capture and political interference. Risk mitigation measures included
+  developing a procurement manual, providing training, involving technical staff and users in the preparation
+  of specifications, ensuring realism in procurement planning, and providing implementation support.
+
+  Throughout Project implementation, delays in contracting procurement staff initially and subsequent staff
+  rotation, coupled with the time-consuming processes of the evaluation committee established at the MOH
+
+                                                                                                  Page 18 of 21
+     Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+     MN - E-Health Project (P131290)
+
+
+
+   and issues with the lack of suitable bidders, led to long delays in contracting consultants and procuring
+   goods and services. To allow the possibility of using more modern methods of procurement and specific
+   procedures that would be more suited to the development of the HIEP, the second project restructuring
+   adjusted the Project’s procurement requirements to adopt the Procurement Framework (results-oriented
+   procurement packages) rather than the World Bank’s Procurement Guidelines.
+
+   The ICR (page 31) reported on an ongoing case/ investigation by the World Bank’s Integrity
+   Department concerning allegations of sanctionable practices, including collusion, fraud and corruption
+   related to contracts financed under the Project.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   As an unintended positive impact of the World Bank-supported e-health project, the ICR (page, 23)
+   reported that a positive outcome was the procurement of diagnostic equipment for the onset of the COVID-
+   19 pandemic. The project delivered US$2.2 million worth of digital equipment, including fixed x-rays,
+   portable x-rays, and portable ultrasound, to health facilities as part of the emergency COVID-19 response.
+   This was not originally planned as part of the project, but it was a result of the pandemic and the need for
+   additional equipment to address the crisis.
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                   Reason for
+Ratings                          ICR                    IEG
+                                                                                   Disagreements/Comment
+Outcome                          Unsatisfactory        Unsatisfactory
+                                 Moderately            Moderately
+Bank Performance
+                                 Unsatisfactory        Unsatisfactory
+Quality of M&E                   Modest                Modest
+
+Quality of ICR                   ---                   Substantial
+
+
+12. Lessons
+
+The ICR (page 33 - 35) provided several lessons and recommendations that are were restated by
+the IEG review:
+
+    1. When the World Bank is financing a first project in a client's sector, especially if the operation
+         is complex, a realistic understanding of the client's capacity, experience with World Bank
+         policies and procedures, and ability to handle the technical requirements of the project can
+         limit the challenges and shortcomings during implementation and can lead to better
+         performing and achieving projects.
+
+                                                                                                     Page 19 of 21
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       MN - E-Health Project (P131290)
+
+
+
+     2. Digital health projects can benefit from an enhanced review process to adequately assess
+        technical risk. Digital health is a growing area of need in modern health systems. Yet it is
+        also a highly technical area with multiple risks, and numerous projects have failed to achieve
+        intended objectives from low- to high-income countries. An enhanced and early technical
+        review and risk assessment of digital health projects, similar to reviews conducted for
+        environmental or social risks, can adequately evaluate the technical risk of an overly
+        designed project in a low-capacity context. This review can lead to a reconsideration of the
+        project's scope and complexity, especially when risks cannot be mitigated.
+     3. Considering the unique capacities and levels of development in each country when designing
+        and implementing projects can lead to more effective implementation and better outcomes.
+        Projects and investments that have been successful in one country cannot easily replicated
+        in another country, especially when it comes to complex sectors like healthcare. In the case
+        of the project in Mongolia's health sector, the aim was to follow the model of an e-Health
+        project in Estonia. However, the capacity and level of development of information technology
+        in Estonia and Mongolia were significantly different. The ICR suggested that instead of trying
+        to directly replicate Estonia's system, it can be more effective to help the MOH prioritize and
+        divide the design and implementation into smaller parts for phased implementation. Instead
+        of immediately implementing a complex HIEP, it can be more feasible to start with a less
+        technically complex PACS.
+     4. The project design cannot rely on the implementation of its critical activities in a different
+        project, even if both projects are financed by the World Bank. If activities are dependent on
+        other sectoral initiatives as with the SMART project, a higher-level implementing agency or a
+        smaller e-Health project integrated as a component of the SMART Project can be more
+        effective. It emphasizes the need for greater complementarity in project design. For example,
+        the design of the HIEP under the e-Health project, required the definition of the system's
+        Enterprise Architecture (EA) that was being financed under the SMART Project. Delays in
+        developing the EA under the SMART Project led to delays in the design and implementation
+        of the HIEP which led to unaccomplishment of project outcome and objective.
+     5. When client commitment fluctuates, achieving results is not feasible and other factors
+        compromise the project's objectives and relevance, the World Bank can carefully reconsider
+        whether continued engagement is justified and can make a decision whether to continue
+        supporting a project or not even with prior investments in time, effort and sunk costs.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provided an adequate assessment of the project's performance. It had a strong focus on results and
+outcomes. The report clearly and systematically explained the theory of change, illustrating the intended
+outcomes and the justifications behind failing to achieve the project objective. The narrative in the report was
+candid, detailed and aligned with the development objective. The analysis in the ICR was comprehensive,
+mostly well-structured, and supported by sufficient evidence. Both the narrative and the evidence presented in
+
+
+                                                                                                   Page 20 of 21
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     MN - E-Health Project (P131290)
+
+
+
+the report supported the overall ratings and conclusions made by the ICR. Additionally, the ICR highlighted
+additional gains in strengthening the health system beyond the intended outcomes by supporting the Mongolia
+health system to procure diagnostic equipment upon the onset of the COVID-19 pandemic.
+
+The ICR followed guidelines and derived valuable lessons from the project's experience that would be valuable
+for future World Bank supported projects in other similar countries. The ICR was not concise, with some
+repetitive elements and inconsistencies in the narrative, mainly in fiduciary management.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                Page 21 of 21
+

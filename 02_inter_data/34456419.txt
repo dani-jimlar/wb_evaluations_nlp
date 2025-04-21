@@ -1,0 +1,630 @@
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Greater Beirut Public Transport Project (P160224)
+
+
+
+                                                                                   Report Number: ICRR0024152
+
+1. Project Data
+
+
+
+ Project ID                                   Project Name
+ P160224                                      Greater Beirut Public Transport Project
+
+ Country                                      Practice Area(Lead)
+ Lebanon                                      Transport
+
+
+ L/C/TF Number(s)                             Closing Date (Original)               Total Project Cost (USD)
+ IBRD-88380,TF-A7880                          31-Dec-2023                                         11,327,653.40
+
+ Bank Approval Date                           Closing Date (Actual)
+ 15-Mar-2018                                  31-Dec-2023
+
+                                             IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                            295,000,000.00                                    69,800,000.00
+
+ Revised Commitment                               11,327,653.40                                    2,583,516.81
+
+ Actual                                           11,327,653.40                                    2,583,516.81
+
+
+
+
+ Prepared by                  Reviewed by                   ICR Review Coordinator         Group
+ Ranga Rajan                  Avjeet Singh                  Avjeet Singh                   IEGSD (Unit 4)
+ Krishnamani
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objective (PDO) as stated in the Loan Agreement (Schedule 1, page 5) and in the
+   Project Appraisal Document (PAD, page 8) is:
+
+   " To improve the speed, quality and accessibility of public transport services in Greater Beirut and at
+   the city of Beirut's northern entrance ".
+
+
+
+                                                                                                    Page 1 of 12
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Greater Beirut Public Transport Project (P160224)
+
+
+
+   For the purpose of this Implementation Completion Results Review, the PDOs are:
+
+   " To improve: (1) the speed; (2) the quality; and (3) the accessibility of public transport services in Greater
+   Beirut and at the city of Beirut's northern entrance".
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   There were three components. (PAD, pages 10 -12).
+
+   1. Bus Rapid Transport (BRT) infrastructure, fleet and systems. The estimated cost at appraisal was
+   US$230.00 million. US$173.40 million of the financing for this component was cancelled on July 2022. The
+   actual cost was US$6.58 million. Activities in this component: (i) financing for goods, works and consulting
+   services for design, construction and management of BRT infrastructure on the Northern Highway and outer
+   ring road Beirut (including stations, terminals, depots, park-and-ride facilities, intersections, pedestrian
+   crossings and bridges and a corridor management system); (ii) Widening key sections of the highway,
+   establishing park-and ride facilities and constructing a terminal in Tabarja and acquiring land for such
+   purposes; (iii) operationalizing the BRT bus fleet and maintaining the infrastructure through Public-Private-
+   Partnership (PPP); and (iv) installing Intelligent Transport (ITS) and fare collection systems with Smart-card
+   and Global Positioning Systems (GPS).
+
+   2. Feeder and regular bus services and integration in urban environment. The estimated cost at
+   appraisal was US$104.40 million. US$100.59 million of financing for this component was cancelled in July
+   2022. The actual cost was US$3.81 million. Activities in this component: (i) financing for goods, works and
+   consulting services for design, construction and management of bus stops and shelter, a control center, bus
+   depots, and street facilities (drainage and signage); (ii) operationalizing a feeder and regular road bus fleet
+   incorporating Smart-card and GPS technologies and appropriate telematic systems through PPP and/or
+   other arrangements. (Telematic systems refer to an intelligent transportation system that enables real time
+   communication between vehicle control center and stops/stations); and (iii) integrating BRT into the urban
+   environment (developing non-motorized and road safety plans, and carrying out fare integration, park
+   management, public transport network restructuring, professionalization of local operators and simplifying
+   license-issuance procedures).
+
+   3. Capacity building and project management. The estimated cost at appraisal was US$10.00 million.
+   US$9.63 million of financing for this component was cancelled in July 2022. The actual cost was
+   US$0.37 million. Activities in this component: (i) strengthening the capacity of the Project Implementation
+   Unit (PIU); (ii) strengthening the capacity of the Railways and Public Transport Authority (RPTA) for
+   supervising BRT and feeder operations; (iii) implementing information, education and communication
+   campaigns for promoting public transport and integrating existing operators into the new system and
+   improving regulation and permit and licensing management, alternative enforcement measures and better
+
+
+
+
+                                                                                                       Page 2 of 12
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Greater Beirut Public Transport Project (P160224)
+
+
+
+   user information systems; and (iv) improving planning and determining the feasibility of private-sector
+   investment in the sector.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project cost. The estimated cost at appraisal was US$345.00 million (inclusive of price contingencies). The
+   actual cost was US$11.32 million.
+
+   Financing. The total financing for the project was US$295.00 million (US$225.20 million from the
+   International Bank for Reconstruction and Development (IBRD) loan and US$69.80 from the Global
+   Concessional Financing Facility (GCCF) Trust Fund). With this, the total financing was US$295.00 million.
+   US$283.68 million of the IBRD and GCCF financing was cancelled in July 2022, in view of the limited
+   progress achieved thus far. US$11.32 million was disbursed (US$8.74 million of the IBRD loan and
+   US$2.58 million from the GCCF facility).
+
+   Borrower contribution. Private sector contribution of US$50.00 was expected at appraisal. There was no
+   private sector contribution during implementation.
+
+   Dates. The project was approved on March 15, 2018, became effective on July 31, 2019 and closed as
+   scheduled on December 31, 2023.
+
+   Changes. With the exception of the significant cancelling of financing for the project in July 2022, there
+   were no changes during implementation.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country context at appraisal. The Syrian refugee crisis before appraisal resulted in social and economic
+challenges for Lebanon. With a population of 4.5 million in 2015, Lebanon was hosting about 1.5 million
+Syrian and 450,000 Palestinian refugees. This influx of refugees added further strain on Lebanon's
+transport infrastructure.
+
+Sector context. The lack of a proper public transport system limited the ability of Lebanon's transport
+network to meet the increased demand for transport services. Traffic increased in the Greater Beirut Area
+for factors such as, an influx of refugees and growing motorization. The concomitant traffic congestion and
+high transport costs exacerbated connectivity between Beirut and hinterland regions. This hindered access
+to jobs and services outside Beirut to the vulnerable segments of the population. Investments in public
+transport were hence needed for reducing traffic congestion in Beirut to accommodate the demand for
+transport services (traffic congestions was a serious development challenge and the economic cost of traffic
+congestion was estimated to be in the range of 15% to 20% of Gross Domestic Product (GDP)).
+
+Public transport services in the Greater Beirut Area were either unreliable or unsafe and inaccessible due to
+factors such as: (i) lack of a framework due to the weak institutional setup, poor planning and inadequate
+
+
+                                                                                                     Page 3 of 12
+                       Independent Evaluation Group (IEG)                  Implementation Completion Report (ICR) Review
+                       Greater Beirut Public Transport Project (P160224)
+
+
+
+enforcement of regulations; (ii) fragmented and largely informal public transport system; and (iii) major
+traffic congestions due to inadequate facilities.
+
+Government strategy. The Capital Investment Plan (CIP) approved in March 2018, aimed at stimulating
+the economy through creating jobs in the short term, while meeting Lebanon's longer-term development
+needs in the transport sector. The CIP aimed to unlock the potential for private finance in transport
+projects. The plan highlighted the need for investments in strategic assets such as public transport
+networks and BRT lines in the Greater Beirut Area. The Government also enacted the PPP law in 2017.
+
+World Bank (WB) strategy. The WB's Systematic Country Diagnostic (SCD) of 2016 identified Lebanon's
+inadequacies in transport infrastructure as a main constraint to sustainable development. The PDO was
+well-aligned with the WB's current Country Partnership Framework (CPF) for 2017-2022. The CPF
+underscored the need for building resilience and fostering opportunities for all through a holistic approach
+aimed at addressing the impact of the Syrian refugee crisis while meeting long-term development needs.
+The PDOs were relevant to two focus areas of the CPF: (i) expanding access to quality public services in
+the transport sector; and (ii) expanding opportunities to the vulnerable segments of the population. The
+Country Climate and Development Report published in May 2024 identified the importance to enhance
+public transport to provide more affordable and greener transport.
+
+WB regional strategy. The PDO was relevant to the WB Group's Middle East and North Africa strategy.
+The project activities contributed directly to the pillar on resilience to the Syrian refugee crisis and creating
+short-term jobs for the Lebanese host communities and the Syrian refugees. The project also contributed to
+the pillar on renewing the social contract through improving services to vulnerable groups and development
+of Lebanon's lagging regions.
+
+Previous Bank WB experience. The Bank had previously financed the Urban Transport Project in
+Lebanon. An output of this project "Transport Plan for Greater Beirut" identified introducing a BRT network
+to complement the feeder/regular bus lines to achieve the desired service quality. This was the second
+Bank-financed project in the urban transport sector in Lebanon and the first mass transit transport system in
+Lebanon in over 50 years. The Bank's CPF of 2017 - 2022 did not specifically mention BRT but rather
+public transport, which could be met through other options. A study of alternatives, conducted by the Bank
+in 2017, Reducing traffic congestion in Beirut: An empirical analysis of selected policy options" indicated
+BRT with feeder buses to be the most cost-effective option for reducing traffic congestions.
+
+This project was conceived as the first phase of a mass transit and regular transport system in Lebanon.
+The project activities aimed to tackle traffic congestion in Greater Beirut Area (GBA) and ensure
+connectivity between Lebanese regions. The intended outcomes of this project were expected to lead to the
+intended outcomes of creating short term jobs (the construction sector has historically been a major
+employer for the low-skilled Lebanese and Syrian refugees and Lebanese regulations allowed Syrian
+refugees to work in the construction sector), address traffic congestion and enable modal shift from private
+cars to public transport in the long run. Overall relevance of objective is High.
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+High
+
+
+
+
+                                                                                                         Page 4 of 12
+                  Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+                  Greater Beirut Public Transport Project (P160224)
+
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+               OBJECTIVE 1
+               Objective
+               " To improve: (1) the speed: (2) the quality; and (3) the accessibility of public transport services in Greater
+               Beirut and at the city of Beirut's northern entrance".
+
+               Rationale
+               Theory of change. The causal links between inputs, outputs and outcomes were logical. The outcomes were
+               monitorable. The outputs such as providing BRT and related facilities, feeder lines, buses, private sector
+               participation for operating and maintaining the BRT system and buses, professionalizing local operators, were
+               likely to help in setting public transport for passengers in Greater Beirut and at the city of Beirut's northern
+               entrance. This together with the restructuring of Railways and Public Transport Authority (RPTA) were likely
+               to help in improving the speed, quality and accessibility of public transport in the short term and the long-term
+               development objective of modal shift towards public transport.
+
+               The outcomes were predicated on the following assumptions: (i) concession agreement is signed with a
+               private BRT operator; (ii) feeder lines are operational; and (iii) RPTA is restructured and empowered to
+               supervise private operators.
+
+               Outputs.
+
+               The financing was substantially cancelled in July 2022 and at that stage there was no progress.
+
+                     There were no operational BRT infrastructure and buses when the project closed: No contract
+                      agreement was signed with a private company to operate BRT operations and there were no
+                      operational bus lines. The mirror system to monitor the fare collection system at RPTA was not
+                      operational.
+                     No short-term jobs were created when the project closed.
+
+               Outcomes.
+
+                     None of the outcomes (increase in the number of passengers using public buses, increase in the
+                      percentage of population residing in the Greater Beirut Area (GBA) using public transport and the
+                      share of population satisfied with the quality of the public transport system), were realized.
+
+               Efficacy is rated as negligible.
+
+
+
+               Rating
+               Negligible
+
+
+
+
+                                                                                                                    Page 5 of 12
+                                Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+                                Greater Beirut Public Transport Project (P160224)
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            Overall efficacy is negligible due to the low achievement.
+
+
+
+                            Overall Efficacy Rating                                  Primary Reason
+                            Negligible                                               Low achievement
+
+
+    5. Efficiency
+   Economic analysis. A cost-benefit analysis for public transport services was conducted at appraisal. The
+   activities accounted for 97% of the appraisal estimate. The benefits were assumed to come from travel time
+   savings and vehicle operating cost reductions. Economic benefits coming from improved air quality, safety, real
+   estate value and increased productivity were not factored in the economic analysis. The Net Present Value
+   (NPV) at a 8% discount rate was US$919.00. The ex ante Economic Internal Rate of Return (EIRR) was
+   39%. Economic analysis was not conducted when the project closed.
+
+   Administrative and Operational issues during implementation. The project only became effective on July
+   31, 2019, 16 months after approval, as it had yet to be ratified by the Parliament. From 2019 to 2020, Lebanon
+   was impacted by a series of crises including an economic and financial crisis (sudden stop in capital inflows,
+   which precipitated systematic failures across the country), physical restrictions in the wake of the COVID-19
+   pandemic) and a massive explosion in the Port of Beirut destroying much of the port. From October, the
+   possibility to attract private sector investors became unrealistic. The adverse developments led to changes in
+   the development priorities of the Government and these factors led to the significant cancellation of the Bank
+   loan.
+
+   Only about 3.8% of the loan was disbursed (including the advanced payment of US$10.00 million). At closure,
+   the undisbursed amount was yet to be refunded to the Bank.
+
+   Efficiency is rated as negligible.
+
+
+   Efficiency Rating
+          Negligible
+
+
+          a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+            and the re-estimated value at evaluation:
+                                                          Rate Available?           Point value (%)        *Coverage/Scope (%)
+                                                                                                           97.00
+                   Appraisal                                                        39.00
+                                                                                                            Not Applicable
+
+
+
+                                                                                                                           Page 6 of 12
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Greater Beirut Public Transport Project (P160224)
+
+
+
+                                                                                    0
+ICR Estimate                                               0
+                                                                                     Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Relevance of the PDO to the Government strategy and the Bank strategy is High. Both efficacy and efficiency
+are Negligible. Taking these ratings into account, overall outcome is Highly Unsatisfactory, reflecting major
+shortcomings in efficacy and efficiency.
+
+
+a. Outcome Rating
+   Highly Unsatisfactory
+
+
+7. Risk to Development Outcome
+
+Since the project was for the most part not implemented, risk to development outcome cannot be assessed.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  This project was the first mass transit and regular transport systems in Lebanon in over fifty years. The
+  analytical underpinnings of the project were sound (discussed in section 3). The project design
+  responded to a real need to improve urban mobility in Greater Beirut and connect the northern area. The
+  project design, which aimed to develop a comprehensive public transport system with the BRT as its
+  backbone and complemented by a large regular and feeder network, reflected best international practices
+  from the most successful BRT projects implemented by the Bank in the world.
+
+  The implementation arrangements at appraisal were appropriate. The Council of Development and
+  Reconstruction (CDR) was overall in charge of project implementation. The CDR had executed several
+  large donor-funded projects, particularly in the infrastructure sector (including the Bank-financed Urban
+  Transport Development Project).
+
+  The Bank identified several risks at appraisal, including High political and governance risks and
+  substantial risks with the macroeconomic fundamentals, technical design, institutional capacity, fiduciary
+  and environmental and social risk. The Bank incorporated several mitigation measures. With mitigation
+  measures, overall project risk was rated as substantial at appraisal (PAD, page 18). The arrangements
+  made at appraisal for monitoring and evaluation, safeguards and fiduciary compliance were appropriate
+  (discussed in sections 9 and 10).
+
+
+
+                                                                                                    Page 7 of 12
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Greater Beirut Public Transport Project (P160224)
+
+
+
+  There were significant shortcomings at Quality-at-Entry: (i) The project became effective 16 months (on
+  August 2019) after approval, only few months before the crisis started in Lebanon (discussed in section
+  five). Few project activities had started by the time the Bank loan significantly cancelled; (ii) The project
+  was complex in the country context. The designed activities (one of the first PPP, alignment of the BRT,
+  informal operators and institutional changes) were overly ambitious, given the political economy. Since
+  the PPP legislation was only enacted in 2017, neither the government nor the Railways and Transport
+  Authority (RPTA) had experience in managing such contracts; (iii) There was not enough engagement
+  with the stakeholders' and with municipalities to better understand their interests and feedback on project
+  design; (iv) Although the risk associated with weakness of RPTA to managing contracts with the private
+  sector was identified at appraisal, the mitigation measures were not adequate; and (v) A livelihood
+  assessment that was to have been conducted at an early stage of implementation was never
+  conducted.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Unsatisfactory
+
+
+b. Quality of supervision
+ Of the four Task Team Leaders (TTLs) during the project, three were involved in the project from the
+ preparation stage. The Bank recruited a qualified local transport specialist to specifically work on the
+ project and follow up with the counterparts. The team conducted eight supervision missions from project
+ approval to February 2022, in addition to regular and virtual meetings by the team based in Lebanon. The
+ missions were conducted virtually in the wake of the COVID-19 mission. In the face of adverse
+ developments on the ground, the Bank effectively communicated the decision to cancel the significant part
+ of the loan to the Government, the Non-Governmental Organizations (NGOs) and the civil society.
+ Following the significant canceling of the loan, the Bank continued the dialogue in the transport sector.
+
+ The ICR (para 44) acknowledges that while Council of Development and Reconstruction (CDR) was
+ working to procure activities and recruit staff for the Project Implementation Unit (PIU) in the initial
+ years, the Bank was not providing the necessary no objections in a timely manner to allow CDR to move
+ forward on some activities.
+
+ In sum, overall Bank performance is rated as moderately unsatisfactory due to the shortcomings at Quality-
+ at-Entry.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Unsatisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+                                                                                                      Page 8 of 12
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Greater Beirut Public Transport Project (P160224)
+
+
+
+
+a. M&E Design
+ The Council of Development and Reconstruction (CDR), was responsible for data collection, including
+ compiling data from other entities (bus operators, the RPTA and other contractors. The results framework
+ was logical and the original outcome indicators (the number of passengers per weekday using the formal
+ public bus (BRT and the regular buses), the percentage of population residing in the Greater Beirut Area
+ with access to Beirut city by public transport, average public transport time from Tabarja station to Charles
+ Helou terminal at morning peak hours and the share of passengers (including female passengers) satisfied
+ with the quality of the public bus system), were appropriate for monitoring project performance. The
+ intended outcomes were measurable.
+
+ One shortcoming with the indicator was the limited ability to distinguish whether RPTA was successfully
+ playing its new role. The project design aimed at changing RPTA's mandate from its traditional role in
+ operating railways and buses to the new role of managing private operators' contracts. The indicator for
+ monitoring this aspect of the project was "a mirror system to monitor the fare collection system is in use at
+ the RPTA". Given the importance of RPTA in successfully achieving results for the project, the M&E design
+ could have benefitted from a more relevant indicator for this activity.
+
+
+
+b. M&E Implementation
+  The ICR (para 48) noted that M&E was conducted well for the limited scope that had been implemented.
+  However, considering the limited scope implemented, no results nor intermediate indicators were
+  measurable at implementation, before the cancellation of part financing for the project.
+
+
+
+c. M&E Utilization
+  The project did not advance to the point where performance could be measured by the indicators.
+
+   Although the M&E framework, was for most part, well designed. However, the M&E system was not
+  truly put to the test from implementation to completion as intended, as the financing was partly cancelled
+  before any of the indicators could be measured. Thus, M&E is rated as Negligible.
+
+
+
+  M&E Quality Rating
+  Negligible
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as a Category A (full assessment) project under the WB safeguard policies.
+   Three safeguard policies were triggered at appraisal: Environmental Assessment (OP/BP 4.01); Physical
+   Cultural Resources (OP/BP 4.11); and Involuntary Resettlement (OP/BP 4.12) (PAD, Data Sheet).
+
+
+
+                                                                                                    Page 9 of 12
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     Greater Beirut Public Transport Project (P160224)
+
+
+
+   Environmental Assessment and Physical Cultural Resources. The negative environmental impacts
+   were anticipated to be minor and of a temporary nature during construction (noise and dust during
+   construction and construction waste and debris) and in case earth works might encounter any significant
+   archeological finds (PAD, para 64). An Environmental and Social Impact (ESIA) was prepared and publicly-
+   disclosed at appraisal to address these issues. The ICR (para 50) noted that during implementation stage,
+   updates to the ESIA were pending based on the finalization of design, with was stopped in May 2022.There
+   were no environmental issues during implementation.
+
+   Involuntary Resettlement. A Resettlement Action Plan (RAP) was prepared and publicly-disclosed at
+   appraisal. A Grievance Redressal Mechanism (GRM) which was developed, became operational in March
+   2020. The expropriation process had not begun when a significant portion of Bank financing was cancelled.
+   There were no issues with Involuntary Resettlement issues during implementation.
+
+
+
+
+b. Fiduciary Compliance
+   Financial management (FM). The Bank conducted a financial management assessment of the Council of
+   Development and Reconstruction (CDR) at appraisal. CDR had executed Bank-financed transport projects.
+   The FM risk was rated as moderate at appraisal (PAD, para 63).
+
+   The ICR (para 51) noted that from 2018 to the end of 2019, when the crisis hit, FM was satisfactory. Loan
+   disbursements at project closure was 3.8%, including the advanced payment of US$10.00 million. In
+   October 2022, the CDR requested the Central Bank to reimburse the undisbursed amount of US$9.38
+   million to the Bank. The undisbursed amount was not yet returned to the Bank when the project closed.
+
+   Procurement management. The Bank conducted a procurement assessment of the CDR and the
+   Railways and Public Transport Authority (RPTA) at appraisal. RPTA's ability to manage PPP contracts was
+   unproven. The mitigation measures included intensive technical support during implementation. The ICR
+   does not report of any mis-procurement.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   There were no unintended impacts.
+
+
+
+d. Other
+   Not applicable.
+
+
+
+11. Ratings
+                                                                              Reason for
+Ratings                          ICR                     IEG
+                                                                              Disagreements/Comment
+
+                                                                                                Page 10 of 12
+       Independent Evaluation Group (IEG)                                   Implementation Completion Report (ICR) Review
+       Greater Beirut Public Transport Project (P160224)
+
+
+
+                                   Highly
+Outcome                                                    Highly Unsatisfactory
+                                   Unsatisfactory
+                                   Moderately              Moderately
+Bank Performance
+                                   Unsatisfactory          Unsatisfactory
+                                                                                       No M&E implementation and
+Quality of M&E                     Modest                  Negligible                  utilization since the activities
+                                                                                       were cancelled
+Quality of ICR                     ---                     Substantial
+
+
+12. Lessons
+
+The ICR draws the following main lessons from the experience of implementing this project, with
+some adaptation of language.
+
+1. Project design needs to be adapted to the Government capacity and local environment,
+especially in low-capacity and fragile environments. The lesson from this project is that, it is
+necessary to adapt the project to the capacity on the ground at appraisal and that implementation, it
+is important on the part of the Government and the Bank to shift and change the project design in
+the face of external shocks and changes of the local context.
+
+2. Stakeholder commitment at preparation can help in reducing delays during
+implementation. In this project, there was not enough engagement with stakeholders or
+municipalities at preparation. This contributed to the delays during implementation.
+
+3. Timely restructuring and cancelling of the loan might be warranted in the face of realities
+on the ground. The lesson from this project is that even when the government and the Bank ensure
+project quality at appraisal, circumstances could change during implementation due to unanticipated
+factors. Under these circumstances, restructuring and cancelling the loan would facilitate the work of
+all involved parties.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is well-written, clear, and, for the most part, adheres to the recommended page length. The theory of
+change articulated in the text clearly shows the causal links between inputs (project activities), outputs, and
+desired outcomes. The analysis provided in the text clearly shows the context in which the Bank restructured
+and cancelled part of the loan. The Bank draws reasonably good lessons from the experience of implementing
+this project.
+
+
+
+
+                                                                                                           Page 11 of 12
+  Independent Evaluation Group (IEG)                  Implementation Completion Report (ICR) Review
+  Greater Beirut Public Transport Project (P160224)
+
+
+
+a. Quality of ICR Rating
+   Substantial
+
+
+
+
+                                                                                   Page 12 of 12
+

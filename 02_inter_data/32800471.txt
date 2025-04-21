@@ -1,0 +1,803 @@
+     Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+     MZ-Hydro-Met PPCR (P131049)
+
+
+
+                                                                              Report Number: ICRR0022203
+
+1. Project Data
+
+
+
+ Project ID                               Project Name
+ P131049                                  MZ-Hydro-Met PPCR
+
+ Country                                  Practice Area(Lead)
+ Mozambique                               Water
+
+
+ L/C/TF Number(s)                         Closing Date (Original)              Total Project Cost (USD)
+ TF-14031                                 31-Dec-2018                                        14,704,595.49
+
+ Bank Approval Date                       Closing Date (Actual)
+ 25-Apr-2013                              31-Dec-2019
+
+                                          IBRD/IDA (USD)                                    Grants (USD)
+
+ Original Commitment                          15,000,000.00                                  15,000,000.00
+
+ Revised Commitment                           15,000,000.00                                  14,704,595.49
+
+ Actual                                       14,704,595.49                                  14,704,595.49
+
+
+
+
+ Prepared by                Reviewed by                 ICR Review Coordinator        Group
+ Ranga Rajan                Dileep M. Wagle             Ramachandra Jammi             IEGSD (Unit 4)
+ Krishnamani
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objective (PDO) as stated in the Strategic Climate Fund Pilot Program for Climate
+   Resilience Grant Agreement (Schedule 1, page 5) and in the Project Appraisal Document (page 6) was:
+
+   "To strengthen hydrological and meteorological information services to deliver reliable and timely
+   climate information to local communities, and to support economic development".
+
+
+
+                                                                                               Page 1 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MZ-Hydro-Met PPCR (P131049)
+
+
+
+   This assessment is based on the two sub-objectives: (i) To strengthen hydrological and meteorological
+   information services to deliver reliable and timely climate information to local communities: and (ii) To support
+   economic development.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   There were three components (PAD, pages 8 - 9).
+
+   1. Strengthening Hydrological Information Management. The estimated cost at appraisal was US$10.3
+   million (of which, US$8.8 was financed by the Pilot Program for Climate Resilience (PPCR) Fund). The
+   actual cost was US$9.4 million.
+
+   This component planned to finance investments for managing hydrological information. Activities in this
+   component included: (i) institutional strengthening and training the staff of the respective agencies: (ii)
+   enforcing quality control and standards through protocols, operating guidelines, and information
+   management frameworks for collecting, processing, and monitoring data: (iii) optimizing the physical
+   hydrological monitoring networks through civil works activities (rehabilitating/upgrading and
+   standardizing stations): (iv) implementing an integrated hydrological and meteorological information
+   management platform for transmitting and managing data: (v) improving the hydrological modelling,
+   forecasting, and early warning systems of the National Directorate of Water Resources Management
+   (DNGRH) and the Regional Water Authorities (ARAs) and (vi) developing hydrological information products.
+
+   2. Strengthening Weather and Climate Information Management. The estimated cost at appraisal was
+   US$11.1 million (of which, US$4.2 million was from the PPCR Fund).
+
+   This component planned to finance activities for supporting meteorological information services. Activities in
+   this component included: (i) Institutional strengthening of the National Institute for Meteorology (INAM)
+   and training their staff: (iii) upgrading their Quality Management System (QMS): (iv) optimizing the physical
+   meteorological monitoring network, through rehabilitation of existing stations and installation of new ones:
+   (v) upgrading INAM's existing data management systems for transmitting and managing data: (vi)
+   strengthening meteorological modelling for forecasting, predicting weather and early warning systems: and
+   (vii) developing access to meteorological information.
+
+   3. Piloting resilience through delivery of improved weather and water. The estimated cost at appraisal
+   was US$2.0 million (fully financed by the PPCR Fund).
+
+   This component planned to finance piloting activities aimed at delivery of hydro-meteorological information
+   to key users. Activities in this component included: (i) delivery of early warnings along the Zambezi,
+
+                                                                                                     Page 2 of 15
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    MZ-Hydro-Met PPCR (P131049)
+
+
+
+  Limpopo and Incomati River Basins through dissemination of weather forecasts: (ii) dissemination
+  of weather and water forecasts to farmers in Gaza and Inhambane provinces: (iii) enhancing access to
+  weather information for ports, commercial, maritime and artisanal fishery communities in the coastal areas
+  of Inhambane: and (iv) evaluation of innovative ideas for enhancing delivery of hydrological and
+  meteorological services.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project cost. The estimated cost at appraisal was US$22.5 million. The actual cost was US$14.7 million.
+
+  Project financing. The project was financed by a grant of US$15.0 million from the Pilot Program for
+  Climate Resilience (PPCR) Fund. The amount disbursed was US$14.7 million.
+
+  The Nordic Development Bank (NDB) was to provide US$6.0 million for financing complementary Technical
+  Assistance (TA) activities to the National Institute of Meteorology (INAM). Procurement delays on the TA
+  activities contributed to project implementation delays. Following the project restructuring on May 12, 2017,
+  INAM assumed responsibility for implementing the NDB related activities, and NDB funds were delinked
+  from this project.
+
+  Borrower contribution. Borrower contribution was estimated at US$1.5 million at appraisal. There was no
+  borrower contribution during implementation.
+
+  Dates. The project approved on April 25, 2013, became effective on September 2, 2013, and was
+  scheduled to close on December 31, 2018. The project closed an year behind schedule on December 31,
+  2019.
+
+  Other changes. There were two Level 2 restructurings during the project's lifetime.
+
+  The following changes were made through the first restructuring on May 12, 2017, after the Mid-Term
+  Review (MTR) of the project on September 2016.
+
+        The project scope was reduced, with some activities dropped. Activities aimed at developing and
+           piloting technological solutions and other innovations to improve delivery of hydrological and
+           meteorological services to beneficiaries in the targeted vulnerable districts (parts of Zambeze,
+           Limpopo and Incomati floodplains) were dropped, as no progress had been made until then by the
+           implementing agencies in identifying possible pilots.
+          The results framework was modified. Two PDO indicators, that were not aligned with the project
+           activities were cancelled. These indicators were: (1) monitoring satisfaction of hydro met services
+           through user surveys. This indicator was cancelled as there was no baseline, and realization that
+           effectiveness and satisfaction related to project activities could only be measured after substantive
+           use, which was beyond the project timeframe: and (2) changes in budget allocations at the national
+           level for issues relating to climate variability and climate change.
+          One new indicator - approval of standards for hydrological data by the National Directorate of Water
+           Resources Management (DNGRH) and Regional Water Authorities (RWAs) - was added.
+           Targets for some indicators were revised (discussed in section 4).
+          Funds from the Nordic Development Bank (NDB) were delinked from this project.
+
+
+                                                                                                    Page 3 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MZ-Hydro-Met PPCR (P131049)
+
+
+
+   The closing date was extended by a year from December 31, 2018, to December 31, 2019, through the
+   second restructuring on December 14, 2018, for completing component two and three activities, that had
+   been subject to procurement delays.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country context. Mozambique is one of the countries most at risk from water and weather-related
+hazards in Sub-Saharan Africa (SSA). The risks from floods, storms, and cyclones are further
+aggravated by the fact that, more than 60% of its population and 37% of its Gross Domestic Product (GDP)
+are concentrated in flat areas along flood-prone rivers and coastal zones. Average annual losses from
+floods were estimated at US$17.5 million in housing and shelters, US$0.7 million in road damages, and
+US$4.25 million in maize production. Further, climate scenarios indicated significant changes in
+temperature and hydrological regimes, further exacerbating water and weather risks in the coming years.
+
+Sector context. The hydrological and meteorological (hereafter referred to as hydro-met)
+sectors were facing several challenges in the years before appraisal. The challenges, included poor quality
+and calibration of monitoring standards due to fragmentation of institutional mandates and weak inter-
+agency coordination, poor data for forecasting and early warnings, and insufficient technical and staff
+capacities to operate and maintain the hydro-met activities. Few monitoring stations were operational to
+meet user needs, and the sectors were financially unviable. Given the potential of hydro-met services to
+enhance productivity in sectors such as, agriculture, fisheries and maritime activities, hydropower,
+transportation, infrastructure planning and health, strengthening the hydro-met sectors capacities
+to provide reliable and timely climate information to local communities and thereby support economic
+development, was important to the government strategy.
+
+Government strategy. The PDOs were well-aligned with the Government's strategy articulated in the
+Mozambique National Development Strategy for 2015 - 2035. The pillar on innovation and technological
+development in the strategy, highlighted the need for supporting management of natural resources (water,
+agriculture and fisheries). At appraisal, the PDOs were relevant to the Government's strategy for growth
+and development as articulated in the Poverty Reduction Action Plan (PARP). The plan underscored the
+need for preventing and adapting to climate change. The PDOs were also relevant to: (i) the Government's
+2013 -2025 National Strategy for Adaptation and Mitigation to climate change, which identified priority
+actions to reduce climate risk, strengthen early warning systems and increasing capacity to respond to
+climate risks: (ii) the draft strategic plan for Meteorological Services (2020 - 2025): and the National Water
+Resources Management Plan.
+
+Bank strategy. The PDOs are well-aligned with the Bank strategy. The second pillar of the Country
+Partnership Strategy (CPS) for 2012 - 2015 highlighted the need for building resilience, adapting to the
+negative effects of climate change, and reducing risks of natural disasters. The Bank's current Country
+Partnership Framework (CPF) for 2017 -2021, reiterated the need for addressing key ongoing challenges
+associated with reducing vulnerability to weather-related shocks and climate change, by strengthening
+hydro-met services. A focus area of the CPF explicitly underscored the need for "enhancing sustainability
+and resilience" through improving disaster risk management and reinforcing social and economic resilience.
+
+
+                                                                                                    Page 4 of 15
+                                      Independent Evaluation Group (IEG)                       Implementation Completion Report (ICR) Review
+                                      MZ-Hydro-Met PPCR (P131049)
+
+
+
+               Bank prior experience. The Bank has executed several projects that are complementary to this project.
+               For instance, the Mozambique Climate Change Development Policy Operation approved on January 2013,
+               aimed at supporting implementation of institutional and policy reforms, and contained two hydro-met policy
+               actions. This project was also closely aligned with the objectives of the ongoing National Water Resources
+               Project (NWRP), which aimed at enhancing the planning, management and development of national water
+               resources. This project's activities aimed at strengthening hydro-met information was expected to aid the
+               NWRP project.
+
+               Although the PDOs were well-aligned with the Government and the Bank strategies, the project scope was
+               overly ambitious, given the existing implementation capacity and relatively tight time frame for
+               implementation. As indicated in section 2, following the Mid Term Review, some project activities were
+               cancelled, and targets of some indicators were revised during implementation in the face of realities on the
+               ground (discussed in section four). The relevance is hence rated Substantial.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+
+                             To strengthen hydrological and meteorological information services to deliver reliable and timely climate
+                             information to local communities.
+
+                             Rationale
+                             Theory of change. The links between project activities (which included actions to improve the monitoring of
+                             weather, climate, water resources, and improving delivery of hydro-met services), their outputs, and
+                             outcomes were logical. Physical improvements aimed at rehabilitating/upgrading stations combined
+                             with technological improvements aimed at improving hydro-met modelling and
+                             prediction capacities, expanding access to hydro-met information and developing hydro met products, were
+                             intended to strengthen the evidence-base for climate resilience in policymaking. Activities aimed
+                             at institutional strengthening of respective agencies in water, climate and hydro-met sectors, were aimed
+                             at improving the agencies' capacities to deliver reliable and timely information to local communities on
+                             impending climate-related natural disasters and issuing early warnings to local communities. These activities
+                             were likely to provide a critical mass sufficient to achieve the desired results of strengthening delivery of
+                             hydrological and meteorological information services. The intended outcomes which were attributable to
+                             project activities, were monitorable.
+
+                             Outputs. (ICR, pages 27 - 37).
+
+
+
+                                                                                                                              Page 5 of 15
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   MZ-Hydro-Met PPCR (P131049)
+
+
+
+These activities were completed as targeted.
+
+      The National Directorate of Water Resources Management (DNGRH) and the Regional Water
+         Authorities (ARAs) adopted standards for hydrological data.
+         250 DNGRH staff were trained, exceeding both the original and revised targets of 50 and 150
+         respectively.
+        80 hydrological monitoring stations were reporting real time information at closure (as compared to
+         eight at the baseline). This exceeded the target of 40.
+        70% of the river gauge stations were reporting hourly information at closure (as compared to 37% at
+         the baseline). This exceeded the revised target of 60%, but was short of the original target of 80%.
+        60 synoptic weather stations were reporting information at closure, as per the revised target, but short
+         of the original target of 90.
+        65 real time meteorological monitoring stations were reporting continuously at closure. This exceeded
+         the revised target of 25, but was short of the original target of 80.
+        28 daily weather forecasts were provided at downscaled areas at closure. This exceeded the revised
+         target of six, but short of the original target of 50.
+        70% of the climatology data was entered in the World Meteorological Organization's (WNO) Global
+         Observation System (GOS), exceeding the target of 50%. (WMO's GSO refers to a coordinated
+         system of methods and facilities, operated by the WMO country members, to make meteorological
+         observations at a global scale in support of WMO programs).
+        131 staff pf the National Institute of Meteorology (INAM) were trained, exceeding both the revised and
+         original targets of 50 and 130 respectively.
+        The INAM's Decree on Data Standards, Modelling and Forecasting were approved and implemented.
+        At project closing, the National Integrated Water Resources Management Information System
+         (NIWRIMS) database hosted information from 717 water stations, 17 reservoirs, 1389 rainfall stations,
+         7,686 borewells, 3,598 National Directorate for Water Supply and Sanitation (DNAAS) sites and 428
+         water use licenses.
+        Hydrological models and frameworks were developed for generating flood forecasts for the Zambezi
+         and Limpopo Basins. The Hydraulic Engineering Center's River Analysis System (HEC-RAS) for
+         Limpopo and Zambezi was installed and operational, when the project closed.
+        26 Automated Weather Stations (AWS) and one maritime AWS were upgraded as targeted. Three
+         automated weather observing systems were installed at the airports of Beira, Nampula and
+         Lichinga. Fiberoptic connections and internet broadband connections were installed in the National
+         Meteorological Institute and decentralized centers throughout the country as targeted.
+        The Inter-Ministerial Protocol on data sharing was approved and implemented.
+        The project facilitated the staff of the implementing agencies to learn from other novel and best
+         practices through enabling them to participate in international events and regional platforms (such as,
+         the African Ministerial Conference on Meteorology (AMCOMET) in 2018, the Southern African
+         Development Community (SADC) Conference on Disaster Risk Protection in 2018, and the
+         International Conference on Climate Services in 2013 and 2020).
+
+As discussed in section 2, the activities associated with developing and piloting technological solutions and
+other innovations to improve delivery of hydrological and meteorological services to beneficiaries in
+the targeted vulnerable districts were dropped at restructuring, as no progress had been made by the
+implementing agencies in identifying possible pilots.
+
+
+                                                                                                   Page 6 of 15
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   MZ-Hydro-Met PPCR (P131049)
+
+
+
+Outcomes.
+
+The project activities were expected to provide timely and reliable hydrological and meteorological information
+to local communities.
+
+      There was an 80% increase in the accuracy of flood forecasts in Zambezi and Limpopo basins as per
+       the revised target, when the project closed, exceeding the original target of 50%. The forecast lead
+       time for appropriate decision-making and taking action increased from 24 hours (one day) to 72 hours
+       (three days). The accuracy of rainfall information forecasts improved from one day to two days.
+      The accuracy of meteorological forecasts for temperature increased by 85% relative to the baseline,
+       when the project closed. This exceeded both the original and revised targets of 50% and 70%
+       respectively.
+
+Efficacy is rated as substantial, given that the revised targets were either realized or exceeded.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+
+To support economic development.
+
+Rationale
+Theory of change. Activities under the project aimed at strengthening the capacity for climate resilient
+planning at the national, sectoral and local levels, and were likely to contribute to providing reliable and timely
+hydrological and meteorological information, increase the lead time for appropriate decision-making and
+action, and issuing early warnings of flood forecasts and other weather-related natural disasters to farmers
+and fishermen. Given the importance of these sectors to the economy, the activities were likely to provide a
+critical mass to achieve the intended result of supporting economic development, by helping in minimizing the
+negative impacts of extreme weather-related events in these sectors. The links between the project activities,
+outputs and outcomes were logical and the intended outcomes were monitorable.
+
+Outputs.
+
+In addition to the outputs discussed above, the following outputs were relevant to this objective.
+
+      312,941 people (farmers and fisherman targeted by the pilots receiving hydro-met information in
+       Mabalone, Inharime and Massinga headquarters), benefitted from project activities at project
+       closure. This exceeded both the original and the revised targets of 6,000 and 167,488 respectively.
+      The ICR (page 35) notes that the Bank team also sought to gather information through anecdotal and
+       qualitative evidence through interviewing local government representatives of different sectors, site
+       visits, exchanges with local officials, air control staff, and representatives of commercial airlines in
+       Lichinga, Nampula and Beira Airports. Interviews with representatives of commercial airlines
+
+
+                                                                                                     Page 7 of 15
+                                Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                                MZ-Hydro-Met PPCR (P131049)
+
+
+
+                                    confirmed that real-time meteorological information was used for all flight plans. Interviews with
+                                    government authorities highlighted the safety of maritime navigation, due to the installation
+                                    of Automatic Weather Stations (AWS). Government officials also confirmed that the real-time hydro-
+                                    met information was also being used by the academic and the public sector.
+
+                            Outcomes.
+
+                                  65% of the farmers were receiving flood forecasts in the targeted areas of Gaza province. This
+                                   exceeded the revised target of 60%, but fell short of the original target of 80%.
+                                  93% of fishermen were receiving daily weather forecasts and early warnings in the target areas of
+                                   Inhambane, as compared to none at the baseline. This exceeded both the revised and original targets
+                                   of 70% and 80%.
+
+                            Efficacy is rated as Substantial, given that the revised targets were realized and project t activities provided
+                            substantive support to farmers to help mitigate the adverse impacts of weather-related disasters, thereby
+                            providing support to economic development.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The overall efficacy of the two objectives - to strengthen hydrological and meteorological information services
+                            to deliver reliable and timely climate information to local communities and to support economic development,
+                            is rated as Substantial.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+          5. Efficiency
+
+
+   Economic analysis. A Benefit- Cost Benefit Analysis (BCA) was conducted both at appraisal and at closure for
+   activities associated with strengthening delivery of hydrological and meteorological services. These activities
+   accounted for 92% of the project cost. The potential economic benefits were estimated to come from positing
+   economic values to: (i) households based on Willingness to Pay (WTP) method for improved forecasts and
+   warning systems: (ii) the economic value of lives saved due to the reduction of hazards and natural disasters:
+   and (iii) the enhanced productivity on major sectors. The BCA estimates indicated a total Net Present Value
+
+                                                                                                                                 Page 8 of 15
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      MZ-Hydro-Met PPCR (P131049)
+
+
+
+(NPV) of 46.4 million over a 50 year period, at a 3% percent Social Discount Rate at project closure. As such,
+the NPV estimated at closure was way below the NPV of US$391. 2 million estimated at appraisal, as reported
+in the PAD (paragraph 50). The ICR does not provide any reasons why a discount rate as low as 3% was used.
+
+Administrative and operational shortcomings. Events on the ground (which included emergency response to
+the flooding in the Limpopo Basin) caused significant delays, with project execution mostly dormant during the
+first two years of implementation. This was exacerbated by procurement delays. Activities under component two
+(meteorological services) and component three (pilot projects for hydro met services) were significantly behind
+schedule, and some of these had not yet commenced, when the Mid-Term Review held in September 2016.
+These delays were due to a combination of factors including limited fiduciary capacity and changes in key
+management positions in the relevant implementing agencies, and Bank leadership changing four times over a
+six year implementation period. These factors necessitated reduction in project scope, with some activities
+cancelled and targets for some indicators being revised downwards after the Mid-Term Review. However, the
+reduced scope of project activities was met when the project closed, with a year's extension of the project
+closing date.
+
+In sum, efficiency is rated as modest, given the weak economic justification for the project and administrative
+and operational shortcomings during implementation.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)          *Coverage/Scope (%)
+                                                                                     0
+ Appraisal                                                  0
+                                                                                      Not Applicable
+                                                                                     0
+ ICR Estimate                                               0
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Relevance of the PDO to the Government and Bank strategy is Substantial. Efficacy of the two objectives was
+rated as Substantial, as the revised targets were either realized or exceeded. Efficiency is modes, in view of the
+weak economic justification of the project and administrative and operational shortcomings during
+implementation. Taking these ratings into account, overall outcome is rated as moderately satisfactory,
+reflecting moderate shortcomings in the project's efficiency and relevance.
+
+
+a. Outcome Rating
+
+
+                                                                                                     Page 9 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MZ-Hydro-Met PPCR (P131049)
+
+
+
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+Government commitment and political risk. The ICR (paragraph 72) notes that the policy environment in
+Mozambique 68) remains conducive for strengthening hydro-met services and climate information for
+supporting resilience to hydro-met risks. The government commitment is also demonstrated by consistent
+funding to the respective agencies at the central level. The protocols and decrees developed under the aegis
+of this project for inter-agency data sharing were further expected to improve policy coordination, and
+thereby reduce the risk associated with the unclear and fragmented mandates of the relevant government
+agencies.
+
+Technical risk. The technical risk is rated as low. The ICR (paragraph 70) notes that the it is unlikely that
+functioning of the hydro met stations constructed under this project, could be undermined by vandalism and
+external environmental risks, given the way the physical structures were designed.
+
+Institutional risk. The ICR (paragraph 71) notes that although there is consistent source of funding from the
+government to the central hydro-met agencies, it is unclear if there is adequate and earmarked source of
+funding for maintaining the hydrological and meteorological infrastructure investments made at the
+subnational levels. Given this, maintenance of infrastructure at the subnational level could be
+compromised, without adequate subsidies or funding from the central government.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  This project was prepared based on the lessons from similar projects under the Pilot Program for Climate
+  Resilience (PPCR), and from prior Bank-financed projects in Mozambique. Lessons incorporated at
+  design included, adopting an approach that combined investments in institutions and infrastructure
+  investments for sustainability of outcomes, focusing on adapting to both climate variability and longer-
+  term issues pertaining to climate change at the national level and seeking senior level government
+  endorsement to ensure collaboration between the hydro-met agencies. (PAD, pages 10 -11). The
+  implementation arrangements were appropriate, with the Project Administration and Monitoring Team
+  (PAMT) established in the National Institute of Meteorology (INAM) - the agency responsible for
+  coordinating the national meteorological services in Mozambique's ten provinces and 128 districts (PAD,
+  paragraph 38). Several risks were identified at appraisal including high risk associated with sustainability
+  of outcomes. Mitigation measures at design included, seeking greater political endorsement during
+  implementation. With mitigation measures, overall project cost was rated as moderate at appraisal (PAD,
+  page 14). The arrangements made at appraisal for safeguards and fiduciary compliance were appropriate
+  (discussed in section 10).
+
+  There were moderate shortcomings affecting Quality-at-Entry. For one thing, the design was ambitious,
+  given weaknesses in implementation capacity and the tight time frame. This necessitated reduction in
+
+
+                                                                                                   Page 10 of 15
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     MZ-Hydro-Met PPCR (P131049)
+
+
+
+  scope of project activities during implementation. (ii) For another, there were shortcomings in M&E design
+  (discussed in Section 9).
+
+  Based on the above, Quality-at-Entry is rated Moderately Satisfactory.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ Fourteen Implementation Status Results Reports (ICRRs) were filed during the project implementation
+ period of six years, implying on average twice a year supervision missions. The ICR (paragraph 64) notes
+ that supervision missions included frequented visits to project areas to ensure that effective mechanisms of
+ quality control were in place. The supervision team included multi-disciplinary specialists. Following the
+ recommendations of the Mid-Term Review at the end of 2016 which identified the weaknesses in the
+ capacities of the implementation agencies, the project was restructured with a reduced scope. This aided in
+ completion of the revised scope of project activities. Following the Mid-Term Review, which identified the
+ weakness in M&E design, the indicators were modified and targets were revised. This aided in effective
+ monitoring of the revised scope of project activities. The support provided by the team aided in safeguards
+ and fiduciary compliance (discussed in section 10).
+
+ There were minor shortcomings in supervision. The continuity of leadership was not maintained, with four
+ Task Team Leaders (TTLs) over the project time frame of roughly six years. This added to the
+ implementation challenges during implementation. The ICR (paragraph 64) notes that some proactive
+ measures could have been taken earlier in the project, to solve implementation bottlenecks.
+
+ Based on the above, supervision is rated as Moderately Satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+
+
+ The M&E framework included indicators from the global Pilot Program for Climate Resilience (PAD,
+ paragraph 43). The M&E framework envisioned building on the existing reporting procedures set up by the
+ Project Administration and Monitoring Team (PAMT), as part of the prior Bank-financed National Water
+
+                                                                                                 Page 11 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     MZ-Hydro-Met PPCR (P131049)
+
+
+
+ Resources Development Project, to avoid duplication of efforts and to provide for a more consistent system
+ for evaluating project performance (PAD, paragraph 43).
+
+ The original results framework was somewhat optimistic, given weaknesses in implementation capacity. An
+ original indicator - Measurement of Satisfaction through user surveys was found to be inappropriate, as
+ effectiveness and satisfaction related to the project activities could only be measured after substantive use,
+ which was beyond the project timeframe.
+
+
+
+b. M&E Implementation
+
+
+  The ICR (paragraph 55) notes that Mid Term Review held on May 12, 2017, identified the shortcomings
+  in M&E design. Indicators which were clearly beyond the project time frame were dropped (such as
+  measuring satisfaction through user surveys) and targets were revised downwards in line with the
+  realities on the ground through the first level 2 restructuring. This enabled better monitoring of the revised
+  scope of project activities. Better mentoring of focal points and training the staff of technical units could
+  have aided in ensuring a consistent framework across implementing agencies.
+
+
+
+c. M&E Utilization
+  The ICR (paragraph 56) notes that the project-generated data was utilized to support implementation
+  and Bank supervision and reporting, and disseminating progress. The results were evaluated against
+  indicators.
+
+  In sum, M&E is rated as Substantial, Although there were shortcomings in the M&E framework, these
+  were identified at the Mid-Term Review and corrective actions taken through the first Level 2
+  restructuring. This allowed for better monitoring performance of the revised indicators.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as a Category B (partial assessment) project under World Bank safeguards
+   policies. Three safeguard policies were triggered at appraisal: Environmental Assessment (OP/BP 4.01):
+   Natural Habitats (OP/BP 4.04): and Involuntary Resettlement (OP/BP 4.12).
+
+   Environmental Assessment and Natural Habitats. The ICR (paragraph 66) noted that the adverse
+   environmental impacts of the civil works activities financed by the project (rehabilitation and installation of
+   equipment for monitoring hydrology and meteorology), were expected to be minor and confined to the sites
+   of the monitoring equipment and their vicinity. The safeguards on natural habitats was triggered, as the
+
+                                                                                                     Page 12 of 15
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     MZ-Hydro-Met PPCR (P131049)
+
+
+
+   planned works could affect natural habitats. An Environment and Social Management Framework
+   (ESMF) was prepared and publicly-disclosed to address issues pertaining to environmental and natural
+   habitats safeguard. The ICR (paragraph 58) noted that Environmental and Social Management Plans
+   (ESMPs) and standard Environmental and Social Rules for contractors to civil works were prepared during
+   implementation.
+
+   The project was in compliance with environmental and natural habitats safeguards (ICR, paragraph 58).
+   The ICR also notes that the Government appointed an Environmental and Social focal point to
+   systematically monitor and report safeguards performance during implementation.
+
+   Involuntary Resettlement. The PAD (paragraph 70) notes that land acquisition may be required for
+   installing new stations and for accessing stations. A Resettlement Policy Framework (RPF) was prepared to
+   address issues pertaining to involuntary resettlement. The ICR (paragraph 58) notes that the project did not
+   entail any land acquisition or physical displacement of people.
+
+
+
+
+b. Fiduciary Compliance
+   Financial management. A financial management assessment of the Project Administration and
+   Monitoring Team (PAMT) in the National Directorate of Water (DNA) was conducted at appraisal. The
+   assessment concluded that the financial arrangements of the DNA were satisfactory and met the Bank's
+   requirements (PAD, paragraph 61). The ICR (paragraph 60) notes that there was financial management
+   compliance throughout the project. Financial management supervision was carried out by the Bank on a
+   timely basis. The ICR provides no information on whether the audits were unqualified
+
+   Procurement. An assessment of the PAMT to address procurement issues was conducted at appraisal.
+   The assessment concluded that the procurement arrangements of PAMT were satisfactory. The
+   procurement risk was rated as moderate at appraisal (PAD, paragraph 63). The ICR (paragraph 51) noted
+   that the lack of consistency in the approach to procurement (such as, due to the poor quality of
+   procurement packages and delayed procurement for large packages), due to the lack of fiduciary capacity,
+   contributed to procurement delays during implementation. The ICR also noted that at the onset of the
+   project, procurement challenges ultimately resulted in the cancellation of the weather radar in Xai-Xai. The
+   ICR reports no case of misprocurement.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                Reason for
+Ratings                         ICR                   IEG
+                                                                                Disagreements/Comment
+
+                                                                                                  Page 13 of 15
+       Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+       MZ-Hydro-Met PPCR (P131049)
+
+
+
+                               Moderately
+Outcome                                              Moderately Satisfactory
+                               Satisfactory
+                               Moderately
+Bank Performance                                     Moderately Satisfactory
+                               Satisfactory
+                                                                               Shortcomings in M&E design
+                                                                               were identified at the Mid- Term
+                                                                               Review and corrective measures
+Quality of M&E                 Modest                Substantial               were taken through the first
+                                                                               Level 2 restructuring. This
+                                                                               enabled better monitoring of the
+                                                                               revised indicators.
+Quality of ICR                 ---                   Substantial
+
+
+12. Lessons
+
+The ICR draws the following main lessons from the experience of implementing this project, with
+some adaptation of language.
+
+1. A comprehensive and programmatic sector engagement can have a transformational
+impact on the hydro-met agenda. This project had strong links to the broader sector
+agenda (including through a prior Bank-financed Development Policy Operation, a pilot program for
+climate resilience) and other investments in water resources. This engagement proved effective in
+providing the setting for sustainability and sector impact.
+
+2. Hydro-met investments targeting local level beneficiaries must ensure their early and
+continuous engagement, through tailoring hydro-met information to end user needs. In this
+project's pilots, early and proactive engagement resulted in an effective coordination between
+government entities at various levels and the beneficiary communities. At the same time, the early
+engagement with local level beneficiaries enabled setting effective systems were adapted to the
+local reality.
+
+3. Developing pilots can demonstrate how to effectively advance innovative concepts to real
+life solutions and provide the basis to locking in strong financial sustainability. The impact-
+based approach followed in this project provided an effective example of impact-based forecasts
+daily to end users. The implemented pilots further demonstrated implementing agencies can adopt
+new technologies with better information.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+
+
+                                                                                                  Page 14 of 15
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      MZ-Hydro-Met PPCR (P131049)
+
+
+
+The ICR is well-written and provides a clear exposition of the activities and their links to the intended outcomes.
+The theory of change outlined in the ICR is clear and the ICR candidly acknowledges the faults in the results
+framework. The ICR also candidly acknowledges the shortcomings in the design of the monitoring and
+evaluation framework and how they were addressed following the Mid-Term Review.
+
+However, there were some shortcomings. The ICR provides no explanations for why a low social discount rate
+was used for the economic analysis The ICR does not use the appropriate methodology for the split rating. The
+ICR provides no information on the quality of audits and on whether the Task Team Leaders were based in the
+field or at headquarters.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                     Page 15 of 15
+

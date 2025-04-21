@@ -1,0 +1,1129 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     PFM Modernization Project (P146997)
+
+
+
+                                                                                 Report Number: ICRR0022881
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P146997                                   PFM Modernization Project
+
+ Country                                   Practice Area(Lead)
+ Belarus                                   Governance
+
+
+ L/C/TF Number(s)                          Closing Date (Original)                Total Project Cost (USD)
+ IBRD-86060                                30-Sep-2019                                            8,954,733.47
+
+ Bank Approval Date                        Closing Date (Actual)
+ 28-Mar-2016                               30-Jul-2021
+
+                                           IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                          10,000,000.00                                                0.00
+
+ Revised Commitment                           10,000,000.00                                                0.00
+
+ Actual                                        8,954,733.47                                                0.00
+
+
+
+
+ Prepared by                Reviewed by                  ICR Review Coordinator          Group
+ Vandana Chandra            Judyth L. Twigg              Jennifer L. Keller              IEGEC (Unit 1)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to the Loan Agreement (Schedule 1, p. 6), and the Project Appraisal Document (PAD, p. 9), the
+   Project Development Objective (PDO) was “to improve policy alignment of the budget, consolidate cash
+   balances, improve budget transparency and lay the foundations for an integrated financial management
+   information system.”
+
+   This PDO can be unpacked as follows:
+
+
+                                                                                                  Page 1 of 21
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     PFM Modernization Project (P146997)
+
+
+
+   Objective 1: To improve policy alignment of the budget;
+
+   Objective 2: To consolidate cash balances;
+
+   Objective 3: To improve budget transparency; and
+
+   Objective 4: To lay the foundations for an integrated financial management information system (IFMIS).
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project had three interconnected components. Following a restructuring in 2019, changes were made to
+   some subcomponents and their corresponding costs and timelines. The original project was comprised
+   of four pillars/policy areas: policy-based budgeting (pillar 1); cash management (pillar 2); budget
+   transparency (pillar 3) and preconditions for development of an IFMIS (pillar 4). Each pillar had a dedicated
+   objective and a key outcome indicator (KOI). Pillars 1 and 4 also had a set of intermediate results indicators
+   (IRIs). Pillar 1 rested on three IRIs: improved capacity for macroeconomic forecasting for medium-term
+   budgeting (IRI1); tax expenditures assessment (IRI2); and a program budgeting methodology (IRI3). Pillar 2
+   and Pillar 3 did not have any IRIs and were related with TA consultancies and the purchase of ICT
+   equipment. Pillar 4 was linked to four IRIs: budget and financial reporting (IRI4); debt management (IRI5);
+   PSA reform (IRI6); and revised business processes (IRI7). Following the level 2 restructuring of the project
+   after the mid-term review, IRI1, IRI2 and IRI5 were dropped as they were being implemented by another
+   Bank department and the IMF (footnote 1). Two new IRIs were added to the restructured project: IRI8
+   related with the Automated System for Financial Settlements (ASFS) and IRI9 related with the storage
+   capacity of the ASFS. While the PDO and total financing allocated to the project did not change after
+   restructuring, the funding between pillars was reallocated.
+
+   The overall project cost was unchanged. The four pillars described above map into the following three
+   project components:
+
+   Component 1 – Budget management regulations and procedures (original cost: US$4.92 million; cost
+   after restructuring: US$3.06 million; actual at project closing: US$2.96 million).
+
+   The original design of this component had three sub-components, but some were changed during
+   restructuring:
+
+        1. Budget preparation. The government’s Public Financial Management (PFM) Reform Strategy
+          planned to introduce a medium-term budget framework and link state programs and budgeting
+          processes through the introduction of program budgeting. This sub-component would support this
+          process and include technical assistance (TA) for (i) macroeconomic forecasting, (ii) revenue
+          forecasting, (iii) tax expenditure analysis, and (iv) medium-term budgeting and program budgeting
+          including monitoring and evaluation (M&E) of program implementation. During restructuring, the
+
+                                                                                                    Page 2 of 21
+  Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+  PFM Modernization Project (P146997)
+
+
+
+       macroeconomic forecasting and tax expenditure analysis tasks were cancelled as they were being
+       implemented under other Bank and IMF activities (footnote 1).
+    2. Debt management system. The government’s Public Debt Management Strategy for 2015-2020
+       emphasized maintaining sustainable levels of public debt and sound debt management practices.
+       This subcomponent would support implementation of the medium-term debt management strategy in
+       line with the medium-term macro and budget framework, and include strengthening the analytical
+       capacity of the Ministry of Finance (MoF) for effective borrowing policies; improvement in debt
+       management practices including risk analysis, cash flow forecasting, and debt reporting; and
+       introduction to the management of contingent liabilities for the central government’s external and
+       domestic loan guarantees and local borrowing. During restructuring, the debt management system-
+       related activities were dropped as they were being implemented under Bank activity (footnote 1).
+    3. Budget execution and reporting. This sub-component would enhance the government’s ability to
+       efficiently use resources for service delivery through: (a) strengthening of treasury controls over
+       budget spending and improvements in cash management by expansion of the coverage of the
+       Treasury Single Account (TSA), strengthening management of commitments, integrating
+       procurement procedures into the budget execution process, and developing cash
+       forecasting capacity; (b) supporting the initial stage of implementation of public sector accounting
+       reform through definition of institutional responsibilities; development of a conceptual framework;
+       development of an initial set of priority accounting standards in line with an approved action plan;
+       and redesign of the public sector chart of accounts and its integration with the budget classification;
+       (c) development of a conceptual framework for modernizing the public sector internal financial
+       control system and creation of the basis for an internal audit function within the public sector to
+       refocus financial control activities on prevention of irregularities and improvements in the efficiency
+       and effectiveness of public spending; and (d) enhancement of budget transparency by improving the
+       format and content of budget information, and development of user-friendly versions of budget
+       documents and explanatory material on the budget process, including an annual citizens’ budget.
+       The procurement of data extraction and business analysis software would be used for preparing
+       budget execution data in a reader-friendly format affecting the achievement of the PDO (footnote
+       2)[1]
+
+Component 2 – PFM Information Technology (IT) solutions (original cost: US$3.45 million; cost after
+restructuring: US$5.73 million; actual at project closing: US$5.0 million).
+
+This component would provide a basis for future IFMIS implementation by: (a) developing new or revising
+existing business processes based on reform initiatives in the areas of PFM reform; (b) preparing tender
+documentation; (c) supporting preparation for IFMIS procurement including market analysis of existing off-
+the-shelf solutions, comparative analysis of available hardware, and preparation of draft specifications; and
+(d) supporting the design and improvements to debt management IT solutions, business process
+management software, and upgrading of the existing Automated System for Financial Settlements (ASFS)
+infrastructure, including user support software, to ensure functionality of the existing system before the new
+IFMIS was procured and implemented. During restructuring, two new activities related to IT purchases and
+data migration were added and led to an increase in the overall cost of this component. However, during
+project implementation, one of the activities related with the design of the IFMIS was dropped, resulting in
+an undisbursed balance for Component 2.
+
+Component 3 – Change management (original cost: US$1.60 million; cost after restructuring: US$1.18
+million; actual at project closing: US$0.96 million).
+
+
+                                                                                                 Page 3 of 21
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    PFM Modernization Project (P146997)
+
+
+
+  The change management component would support the implementation of regulatory and procedural
+  reforms through capacity building and project management activities. It would support the operation of the
+  project implementation office, which would implement project procurement, financial management activities,
+  and audits; help the MoF to coordinate project activities; and interact with local and international entities
+  involved in the project. The component would also support additional training needs not covered under
+  Component 1 activities, publication of training materials, training of trainers, capacity building, and
+  procurement of equipment for the MoF Training Center.
+
+
+
+  [1] The three key IRIs (1, 2, and 5) covering macroeconomic forecasting, revenue forecasting, tax
+  expenditure assessment and debt management were originally intended to play an integral role in improving
+  the policy alignment of the budget and its execution. They were dropped during restructuring as they were
+  being implemented by the IMF and Bank under other projects. They were neither replaced with other sub-
+  components that could support/ensure that PFM efficiency was not compromised without them, nor was the
+  PDO modified to reflect a more modest objective that was consistent without them.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project cost: The original project cost was US$10 million (Loan Agreement, p. 1; PAD p. 2). At project
+  closing on July 30, 2021, the amount disbursed was US$8.95 million. Approximately 10 percent of the loan
+  proceeds remained undisbursed, partly due to savings from tasks done in-house and cancellation of the
+  IFMIS design consultancy.
+
+  Financing: This investment project was originally intended as the first of a two-part $100 million operation
+  (ICR, p. 2), but the government did not proceed with the second part. The first part was 100% funded by a
+  World Bank loan of US$10 million to the Government of Belarus.
+
+  Borrower Contribution: None planned or made.
+
+  Dates: The project was approved on March 28, 2016 and became effective on July 27, 2016. The original
+  closing date was September 30, 2019. The actual closing date was July 30, 2021.
+
+  The project underwent one Level 2 restructuring on July 19, 2019, following the Mid-Term Review (MTR) in
+  July 2018. There were no changes to the PDO, Key Outcome Indicators (KOIs), or the KOI target values.
+  The main changes were related with (i) the dropping of three IRIs related with component 1 as they were
+  being implemented under another Bank or IMF activity (footnote 1), and (ii) addition of two IRIs as they were
+  deemed essential for the achievement of the IFMIS system covered by component 2.
+
+  Revised components:
+
+        The following Component 1 activities were dropped as they were financed directly by other
+         sources:[1]: macro and fiscal forecasting, tax expenditure assessment, debt management, and
+         budget execution. This resulted in a reduction in the original cost of Component 1 from US$4.92
+         million to US$3.06 million, and a reduction in the original cost of Component 3 from US$1.60 million
+         to US$1.18 million.
+
+
+
+                                                                                                   Page 4 of 21
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     PFM Modernization Project (P146997)
+
+
+
+   Under Component 2, two new activities were added: hardware and software purchases to help ensure the
+   reliability and sustainability of the ASFS and to support data migration and thereby enhance ASFS
+   capabilities. These changes increased the cost of Component 2 from US$3.45 million (original) to US$5.73
+   million.
+
+         The original overall project cost was not affected by the restructuring.
+
+   Following the restructuring, the project’s results framework (PRF) changed as follows: (i) three intermediate
+   results indicators (IRIs) linked to the dropped activities were eliminated (i.e., IRIs 1, 2 and 5); and (ii) two
+   new IRIs were added to reflect the addition of new activities and procurement of additional IT equipment
+   under Component 2 (i.e. IRIs 8 and 9). The end-date for the targets was accordingly adjusted for all
+   indicators in line with the revised closing date.
+
+   Closing date: The project’s closing date was extended by 22 months to account for delays under
+   Component 2 due to the cancellation of two large tenders totaling over US$3 million, as well as the
+   additional time required to complete the public sector accounting reform.
+
+
+
+   [1] Macro and fiscal forecasting (IRI1) was supported with TA from the International Monetary Fund; tax
+   expenditure assessment (IRI2) was done in-house by the MoF after a failed procurement process; budget
+   execution improvements were implemented in-house by the MoF; debt management (IRI5) was supported
+   by World Bank TA under a European Union Trust Fund (Structural Reform Technical Assistance Support
+   Program in Belarus, P164043).
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+The PDO was fully aligned with the Bank-supported strategy for Belarus at appraisal and closure. By
+contributing to the achievement of more transparent management of public resources, the project would
+directly support Pillar 1 of the 2014 - 2017 Country Partnership Strategy (CPS) for Belarus that aimed at
+improving the competitiveness of Belarus’ economy. The PDO remains relevant for the current Country
+Partnership Framework (CPF) FY18-22, which aims to create opportunities for private sector growth
+through more transparent PFM: “….as a necessary step toward monitoring and increasing the productivity
+of public spending, including public investments, social programs, and financial transfers to state-own
+enterprises” (CPF FY18-22, Objective 1C).
+
+The project’s PDO remains a priority for the government in several ways. The 2035 National Strategy for
+the Sustainable Development of Belarus envisions a PFM system with fully automated monitoring of state
+programs in all sectors and an open and transparent budget process. PFM reform is a priority for the 2021-
+2025 Program of Socio-Economic Development of the government, and the State Program “Public
+Financial Management and Regulation of Financial Market for 2020-2025” continues to focus on the
+project’s PDO. At least three of the project’s target indicators are included in the State Program.[1]
+
+
+
+                                                                                                      Page 5 of 21
+                                      Independent Evaluation Group (IEG)                         Implementation Completion Report (ICR) Review
+                                      PFM Modernization Project (P146997)
+
+
+
+
+               [1] The following three target indicators are included in the State Program: (i) the share of expenditures of
+               state bodies of the republican level outside the single treasury account to represent 5 percent or less; (ii)
+               the share of programs in budget expenditures to represent 65 percent or more; and (iii) specific targets for
+               the number of districts publishing Citizens’ Budgets.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             Improve policy alignment of the budget
+
+                             Rationale
+                             Prior to the project, the budget process was delinked from the policy priorities and capital costs of the
+                             medium-term investment programs.
+
+                             The causal chain for this objective was that the MoF’s application/adoption of the medium-term program
+                             budgeting methodology in the PFM system would lead to the inclusion of the annual capital and recurrent
+                             costs of priority multi-year investment programs in annual budgets, thus improving the policy alignment of the
+                             budget. Through support for internal controls and audits, revenue forecasting, and medium-term planning and
+                             program budgeting (outputs), the project would directly enable the MoF to apply the medium-term program
+                             budgeting methodology in the PFM system (outcome). However, most of the outputs related with revenue
+                             forecasting, tax expenditure assessment and macro-fiscal forecasting that were an integral part of the original
+                             project were either dropped or paired down following the MTR. It would have been difficult to achieve KOI1 if
+                             it were not so narrowly defined after the restructuring.
+
+                             Inputs and Outputs
+
+                             Through consultancies and training (inputs), the project supported the modernization of Belarus’s Internal
+                             Financial Control and Audit functions (output) which were piloted in the Minsk region in 2020. The results of
+                             this pilot informed the draft law on “state companies and companies with state ownership.”
+
+                             Similar support facilitated the revenue forecasting component (output) of the PFM system, although the
+                             support was only partial as the selected consultant firm was terminated (due to bankruptcy). The MoF and the
+                             IT Center used its partial outputs to improve MoF’s revenue forecasting process, including factor analysis of
+                             the main budget revenues. The first stage of automating the revenue forecasting process was completed by
+                             project closing in 2021. Automation of revenue forecasting was fully completed by December 2021.
+
+
+                                                                                                                                 Page 6 of 21
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   PFM Modernization Project (P146997)
+
+
+
+Its completion is expected to improve the accuracy of forecasting and streamline and facilitate the recording
+and reporting of non-tax revenues.
+
+Project support led the MoF in 2016 to revise the requirements for the state’s preparation for the multi-year,
+program-based fiscal planning and budgeting PFM reforms. Specifically, this included i) the development of a
+fixed list of programs for implementation in the next five-year planning cycle; ii) strengthening the cost
+information requirements for state programs; iii) limiting total budget expenditures at their estimated cost; iv)
+using the second- and third-year estimates as a baseline in the next budget planning cycle; and v) requiring
+public disclosure of the program performance reports. These changes represented a significant step towards
+the multi-year, policy focus in fiscal planning and budgeting.
+
+Ministries and government agencies now abide by the newly introduced fiscal constraints, public
+accountability, and transparency requirements.
+
+The program-level, multi-annual budgeting methodology (President’s Edict No. 289, July 25, 2016) was
+revised to: i) ensure the full coverage of the state programs’ expenditures at the central and local levels of
+government; ii) provide flexibility for program administrators to reallocate funds between program activities; iii)
+make explicit the social and economic development impacts including reference to the Sustainable
+Development Goals; and iv) require program performance evaluation to be conducted on an annual and
+cumulative basis. As final government approval is still pending, this intermediate results indicator (IRI) is
+considered as only partially achieved.
+
+The revised methodology is already being implemented in 36 programs under the CY2021-25 budget cycle.
+As discussed under Relevance, the Public Finance Management and Financial Market Regulation
+established that the share of program expenditures in the total volume of consolidated budget expenditures in
+2021-2025 had to be at least 65 percent.
+
+Outcomes
+
+Key outcome indicator (KO1): Increasing the percentage of the consolidated budget expenditures covered by
+state programs.
+
+Baseline 2014: 16 percent. Target 2020: 50 percent. Actual: 69 percent - Achieved.
+
+The rise in the share of budgetary expenditures being covered by the state programs contributed to an
+improvement in the policy alignment of the budget. While in principle, KOI1 was achieved, it is notable that
+the achievement of objective 1 is considered “substantial” when most of the original sub-components that
+were considered integral in the original project were dropped at MTR. In particular, the revenue forecasting
+sub-component was only partially implemented following a failed procurement contract. The tax expenditure
+assessment and macro-forecasting sub-components were dropped, and IRI3 was only partially achieved as
+per the ICR.
+
+
+
+Rating
+Substantial
+
+
+
+                                                                                                     Page 7 of 21
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   PFM Modernization Project (P146997)
+
+
+
+
+OBJECTIVE 2
+Objective
+Consolidate cash balances
+
+Rationale
+While most central government accounts were managed under the TSA, roughly 11 percent of the central
+budget in 2014 comprised of own-source revenues, utility cross-subsidies, and other small extra-budgetary
+funds remained outside the formal budget process, undermining transparency, control, and efficiency in the
+use of public resources. In the Ministry of Labor, almost 35 percent of the total resources were outside the
+formal budget process.
+
+The causal chain for this objective was that by consolidating extra-budgetary cash accounts under a TSA, the
+MoF would increase their transparency and efficiency, and subject them to the same degree of ex-ante
+control as the on-budget resources of the PFM system. The project would support the acquisition and
+modernization of IT infrastructure needed for the consolidation of the extra-budgetary cash accounts in the
+existing treasury system.
+
+Inputs and outputs
+
+Through consultancies, training, and IT equipment (inputs), the project supported budget execution and
+modernization of the IT infrastructure for the existing treasury system (outputs). About 977 extra-budgetary
+cash accounts were consolidated under the TSA, resulting in gains in transparency and efficiency in line with
+that of on-budget resources.
+
+Outcomes
+
+KOI 2: Decrease the share of extra-budgetary spending managed outside the TSA by consolidating cash
+balances under the TSA. Achieved.
+
+
+
+Baseline 2014: 11 percent. Target: 7 percent; Actual in 2020: 5.92 percent.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 3
+Objective
+Improve budget transparency
+
+Rationale
+Belarus' Constitution guarantees citizens the right to receive, store, and distribute timely information about the
+central budget. In 2010, Presidential Edict 60 was instituted requiring public entities to disclose information
+about their operations on their official websites. While the MoF's website provided public access to the budget
+and its implementation, for most readers, it was difficult to understand and provided few details. The causal
+
+                                                                                                    Page 8 of 21
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   PFM Modernization Project (P146997)
+
+
+
+chain for this objective envisioned that the MoF’s online publication of the approved central budget
+disaggregated appropriately and enhanced with indicators for the state’s programs would respond to the need
+for a Citizens' Budget and improve budget transparency. Although the fiscal data portal was not necessary for
+making available the Citizen's Budget, the MoF setup a dedicated portal (IT resource) to make available all
+information related to the Citizen's Budget in one place. The project would support the online posting of the
+Citizens' Budget.
+
+Inputs and outputs
+
+The project supported the IT equipment (inputs) needed for the modernization of the IT infrastructure and the
+implementation of the Fiscal Transparency Portal to provide public access to data on budget execution
+(outputs). In January 2018, the portal began providing online access to interactive fiscal data on budget
+execution in English and Russian. Access was also available on smartphones/tablets. The budgetary data
+available online was disaggregated at the level of the approved budget and included information on financial
+and results indicators of state programs. While the issue of data quality is as integral as the issue of making
+the data available online to the public, and is not addressed explicitly in the ICR, subsequent information from
+the Region notes that the quality of the available data was already satisfactory and making it easily accessible
+online was the key issue that the project helped to address.
+
+Outcomes
+
+KOI 3: Increase transparency in budget execution by publishing the Citizens' Budget on the MoF's website.
+Achieved.
+
+Baseline: At appraisal in 2016, a Citizens' Budget was not available. Target: Detailed Citizens’ Budget on
+central government operations is published online annually. Actual: From 2018 onward, a detailed Citizens'
+Budget and interactive fiscal data was made available on the MoF's website. Achieved.
+
+In addition to the Citizens’ Budget, the MoF also started publishing quarterly bulletins on the execution of the
+consolidated, central, and local budgets. The upgrading of the Fiscal Transparency Portal
+(https://minfin.gov.by/en/budgetary_policy/) enabled users to download historical data on program-level
+expenditures. Tools for citizens’ questions and feedback were also introduced. This has increased budget
+transparency at the program level. Subsequent information provided by the Region based on government
+data states that the portal had nearly 10,000 total views, including their Russian and English versions, in 2020
+and almost 6,000 views from January 1 to July 30, 2021 (project closing date). According to Ministry of
+Finance, the most accessed documents have been “Budget Execution Bulletins” and “Budget for Citizens.”
+
+In accordance with the requirements introduced by the MoF, regional ("oblast") subnational governments also
+began publishing their own Citizens' Budgets in 2018. Several districts ("rayons") are also publishing their
+Citizens' Budgets, with full coverage anticipated by CY23.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 4
+
+                                                                                                  Page 9 of 21
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   PFM Modernization Project (P146997)
+
+
+
+
+Objective
+Lay the foundations for an integrated financial management information system (IFMIS).
+
+Rationale
+While the highest levels of the MoF were interested in the adoption of the IFMIS system, Belarus’s PFM
+system required many changes (new IT solutions and technical skills training to adapt the existing public
+sector accounting (PSA) standards and methodology) before it could be transitioned to the IFMIS. - To
+allow adequate time for the transition, the IFMIS was envisaged to be implemented in two stages. Given that
+PFM reforms are complex and lengthy, the first operation focused on reforms that are prerequisites for
+successful FMIS design and implementation. These included regulatory reforms and business process
+reengineering that would help stabilize system requirements prior to procurement and implementation. The
+project also allowed the authorities to undertake market consultations prior to procurement and provided
+support for the preparation of tender documentation. This was to be achieved through TA consultancies and
+purchase of ICT equipment.
+
+Inputs and outputs
+
+The project’s support for TA consultancies and IT equipment (inputs) focused on PSA and supported: (i) the
+development of new NPSASs that were compliant with the IPSAS; (ii) the development of a high-level
+strategy and design for the implementation of the new IFMIS (e.g., business processes revised; clear
+roadmap for IFMIS modernization); and (iii) the modernization of the MoF's IT infrastructure (e.g., enhanced
+resilience and storage capacity of the ASFS). These three outputs were intended to facilitate several
+intermediate outcomes, but not all of them were achieved. The following two IRIs were achieved:
+
+IRI 4 – Integration of budget and financial reporting based on international standards: Achieved. IRI 4
+involved the development of the new NPSAS, including a Unified Chart of Accounts, and its pilot
+implementation was approved in 2019.
+
+IRI 6 – PSA reform under implementation: Achieved. A conceptual framework for PSA reform was
+implemented when 5 PSA standards were developed in compliance with IPSAS, compared to a target of 3 - 4
+standards.
+
+The following three IRIs related to the IFMIS were not fully achieved at project closing. In addition to the late
+addition of IRI 8 and IRI 9, delays were caused by: (i) cancellation of two large tenders totaling over US$3
+million; and (ii) additional time required to complete the PSA reform. The design of the IFMIS mainly included
+development of bidding documents based on functional requirements of approved revised business
+processes and a Unified Chart of Accounts. Other activities, including procurement of hardware, software,
+and licenses as well as consultancies for the various dimensions of PFM reform were supposed to ensure
+functionality of the existing system before the new FMIS was procured and implemented.
+
+Although with some delays, the bidding for the design of the IFMIS, including the selection of the consultant
+firm, was satisfactorily completed in September 2020. However, for reasons beyond the government’s control,
+the firm subsequently declined to sign the contract.[1] The government decided not to proceed with the next-
+ranked consultant since the time required for new contract negotiations would reduce the implementation
+period to only six months. Instead, it decided to proceed by adopting a gradual, modular approach and
+continuing to build upon the PFM activities supported under the project with mainly in-house resources and
+individual consultants.
+
+
+                                                                                                   Page 10 of 21
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   PFM Modernization Project (P146997)
+
+
+
+IRI 7 – Revised business processes approved. IRI 7 was only Partially Achieved as the review of the PFM
+business processes was still ongoing when the project closed. While the review of two sub-systems (i.e.,
+annual budget execution and revenue management) was complete/nearing completion, the review of the
+remaining processes (i.e., budgeting, annual budget preparation and management) was anticipated in 2022.
+
+IRI 8 - Reliability and fault tolerance of the ASFS. Although the ICR considers IRI 8 to be achieved, tasks
+related to IRI 8 (completion of the installation and configuration of the new equipment) were ongoing at the
+time of project closing in July 2021. Given that the expected date of completion was CY21, this ICRR
+considers IRI 8 Partially Achieved.
+
+IRI 9 - ASFS centralized storage capacity expansion. IRI 9 was only Partially Achieved as the ASFS
+centralized storage capacity was being expanded with the implementation of a high-speed and reliable data
+storage system when the project closed. The capability to operate the ASFS in emergency mode using
+automatic backups was anticipated by November 2021 at the central level and by June 2022 at the
+subnational level.
+
+
+
+[1] The formal explanation offered by the consultant was that some of its key international technical experts
+were no longer available.
+
+Outcomes
+
+KOI 4: Bidding documents for an IFMIS are prepared based on approved revised business processes and
+Unified Chart of Accounts.
+
+Baseline: None. Target: Bidding documents for an IFMIS are prepared. Actual: Partially Achieved.
+
+The preparation of bidding documents for the new IFMIS was not relevant given the government’s decision to
+proceed with its development in-house. Since the GoB decided to proceed without a commercial grade -off-
+the-shelf IFMIS whose ICT requirements are well-known and opt for an in-house system whose ICT
+requirements may be different, there is no evidence to support that the ICT infrastructure investments or any
+training or other activities implemented during the project will be necessarily relevant for the in-house system.
+The latter may have a different set of ICT requirements.
+
+While KOI 4 was technically not achieved, progress was made towards the definition/design of the new
+system, with most specifications that were to be included in the bidding documents being either fully complete
+or nearing completion, including:
+
+        The Unified Chart of Accounts was developed and approved.
+        Enhanced MoF’s systems and IT infrastructure could adequately support a new IFMIS.
+        IFMIS Modernization Roadmap was prepared and regularly updated.
+        The review of business processes was still ongoing; thus, the partial achievement of KOI 4.
+
+
+
+Rating
+
+
+                                                                                                  Page 11 of 21
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                PFM Modernization Project (P146997)
+
+
+
+                            Modest
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project’s overall efficacy is Substantial and reflects its Substantial achievements under PDOs 1, 2 and 3,
+                            and Modest achievement under PDO 4. The project’s support facilitated modernization of Belarus’s PFM
+                            system related with objectives 1 - 3. The improvement in the alignment of the budget with policy through the
+                            adoption of the multi-year, program-based fiscal planning and budgeting PFM reforms strengthened the
+                            quality of PFM. Consolidating the extra-budgetary cash balances under the TSA contributed to the efficiency
+                            and accountability of the PFM system. The publication of the Citizen’s Budget helped to bring long overdue
+                            transparency to Belarus’s public financial system. The government’s decision to proceed with the activities
+                            related to the adoption of the IFMIS without project support raises the question whether the ICT infrastructure
+                            investments that are well-known and designed for a commercial off-the-shelf IFMIS will be relevant for the
+                            government’s in-house model whose ICT requirements are unknown. The crux of the ICT investments
+                            already made was not whether new ICT infrastructure was needed but whether the specific ICT infrastructure
+                            investments already undertaken would be compatible with any in-house system that the government would
+                            adopt in the future.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+    5. Efficiency
+   The project’s benefits are mostly intangible and cannot be quantified and compared with the project’s costs
+   in the conventional sense because the core of the project focused on modernization of the PFM system and
+   substantial upgrading and installation of new IT infrastructure to improve the efficiency of the existing PFM
+   system. The economic benefits in the form of fiscal savings were expected to be substantial and accrue in the
+   medium to longer term but have already declined significantly due to Belarus’s support for the Russian invasion
+   of Ukraine and the attendant sanctions on its economy.
+
+   Although difficult to quantify, the implementation of medium-term budgeting and its increased focus on results at
+   the program level have potential to enhance the efficiency of the state programs included under the multi-year,
+   program-based budgeting system related with PDO1. However, without the benefit of the efficiency gains that
+   accrue with the dropped sub-components (related with revenue and macro-fiscal forecasting, and tax
+   expenditure assessments) of PDO1, it is unclear whether the multi-year, program-based budgeting system will
+   add significant value to Belarus’s PFM system. Improved data quality following the Unified Chart of
+   Accounts and PSA reform may bring some efficiency gains to the government.
+
+   The recurrent implementation delays which led to a 22-month extension to the original closing date of the project
+   are likely to have affected the efficiency of the project significantly. A large part of the delay is attributable to the
+   IFMIS component which twice faced contractual difficulties with consulting firms. Finally, the GoB decided to
+
+                                                                                                                             Page 12 of 21
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      PFM Modernization Project (P146997)
+
+
+
+develop a new in-house system with its own resources instead of spending millions of US dollars to procure a
+commercial system fitted to its needs.
+
+In addition to the opportunity costs associated with those years of wasted time, a substantial amount of the
+project costs were spent on IT upgrades and equipment to prepare for a new IFMIS. It is unclear whether those
+investments in ICT infrastructure will be compatible with whatever in-house system the GoB will ultimately
+adopt.
+
+By publishing the Citizens' Budget on the MoF's website, the MoF increased the transparency of budget
+execution, but the project did not include an indicator/sub-component that also focused on the quality of the data
+being posted.
+
+The ICR could have provided a comparison of how this project’s management costs as a share of the total
+project cost compare with similar projects in other countries in the ECA region.
+
+One tangible outcome of the project was quantified for the project’s ICR. The consolidation of 977 extra-
+budgetary cash accounts under the TSA resulted in significant savings in banking fees and borrowing costs. The
+economic analysis in the ICR found that when these benefits are compared with the overall project costs, they
+yield a Net Present Value (NPV) of US$25.1 million, larger than the NPV anticipated at appraisal ($21.8
+million) as the actual consolidation of cash accounts was higher than originally anticipated. According to these
+estimates, the economic efficiency of the project was well above average.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)            *Coverage/Scope (%)
+                                                                                       0
+ Appraisal                                                   0
+                                                                                        Not Applicable
+                                                                                       0
+ ICR Estimate                                                0
+                                                                                        Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The overall relevance of the project’s PDO is High, its efficacy is Substantial, but its efficiency is Modest. The
+outcome rating is Moderately Satisfactory. There was a significant delay in project completion due to the
+inclusion of the IFMIS component on which a significant amount of money was spent but ultimately the GoB
+backtracked and decided to implement its own in-house system. It is unclear whether the investments in the
+IFMIS infrastructure are compatible and will be used for the government in-house system when it is
+implemented. While there was some value addition from the multi-year program budgeting component, the
+
+                                                                                                      Page 13 of 21
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      PFM Modernization Project (P146997)
+
+
+
+dropping of several key components that are known to be integral to the efficiency of similar reforms cast doubt
+on its value addition to Belarus’s PFM system. The reform to publish the Citizen’s budget to enhance budget
+transparency was a welcome step. The overall PDO remains relevant for both the CPS and the government’s
+development agenda.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+As the MoF’s organizational and management structures were actively involved, and the project was fully
+implemented, the transition after the project’s closing was expected to be smooth. The PFM reforms that led
+to the achievement of PDO 1- 3 have the support of the government and the public, especially because of
+the availability of the Citizens’ Budget. Several aspects of the PFM reforms (revenue forecasting) and some
+of the IFMIS-related preparations were implemented in-house and enjoy government support. The
+state program on PFM and government intention to proceed with the reforms in-house and with domestic
+financing is firm. The plans for the modernization of the new IFMIS supported by a commercial system
+collapsed following two failed procurement contracts and GoB’s decision to implement an in-house system.
+
+There is a risk that the ICT-related infrastructure for the IFMIS system may not be compatible with the
+specific ICT infrastructure requirements of the government’s in-house system.
+
+There is a high risk that due to the ongoing 2020 political turmoil and the current global sanctions against
+Belarus, the decline in budgetary revenues will delay/derail the government's ongoing work on all
+components of the project, especially IFMIS implementation in the long term. By supporting the war
+in Ukraine, GoB has exacerbated this challenge by alienating its former development partners who could
+have extended financial support to tide over a fiscal crunch. As an example, the World Bank temporarily
+closed its office in Belarus. By alienating its development partners, Belarus has also closed its doors to
+technical assistance that it could use to offset the limited availability of technical skills needed to sustain the
+ongoing and planned PFM reforms. The resource and technical skills shortages together can affect the
+development outcome of the project. The sanctions are also likely to deter foreign technical skills in Belarus
+in the near term and jeopardize the development of the IFMIS in the future.
+
+There are also other risks. As political tensions remain unresolved since the August 2020 presidential
+elections, the government has a cautious position towards any policy reforms and requests for
+new financing. If this condition endures in the medium to longer term, it can disrupt the fiscal transparency-
+related PFM reforms that were implemented as a part of the project.
+
+There are some positive announcements that signal the government's ongoing commitment to this project's
+PDO. The 2021-2025 Program of Socio-Economic Development continues to identify PFM reform as a
+priority and mimics the project’s PDO, KOIs and even some targets. They include: (i) expanding the use of
+program budgeting in various sectors of the economy while maintaining the coverage of budget expenditures
+by state programs at the level of at least 65 percent; (ii) developing a mechanism for automating the
+formulation and monitoring of the budget execution of state programs; and (iii) continuing to consolidate off-
+budget funds into the TSA to expand the resources available to the government in real-time.
+
+
+                                                                                                        Page 14 of 21
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      PFM Modernization Project (P146997)
+
+
+
+The State Program “PFM and the Regulation of the Financial Market for 2020-2025” focuses on the project’s
+PDO, including the development of the IFMIS. It includes at least three of the project’s target indicators: (i)
+the share of expenditures of central level state bodies outside the TSA to represent five percent or less; (ii)
+the share of state programs in budget expenditures to represent 65 percent or more; and (iii) specific targets
+for the number of districts publishing Citizens’ Budgets. The Program’s objectives strongly resonate
+with all four of the project’s PDOs.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  PDO1 and PDO4 suggest that the project’s quality at entry could have been better. It was conceived
+  when the government of Belarus was grappling with a difficult fiscal situation and sought the Bank’s
+  assistance in improving the efficiency of its PFM systems. The Bank team responded with multipronged
+  support through diagnostic analysis, technical assistance, and a PFM lending operation. Diagnostic
+  support included (i) two specific assessments and learning from (ii) lessons learned from similar projects
+  in the ECA region, and (iii) lessons learned from 25 years of Bank experience with IFMIS implementation.
+
+  During project preparation, the Bank team leveraged the 2014 Public Expenditure and Financial
+  Accountability (PEFA) Assessment which provided a sound diagnosis of the main weaknesses in
+  Belarus’s PFM system. The PEFA noted that the government’s focus on annual budgeting without a
+  medium term macro-fiscal perspective constrained strategic planning, fiscal adjustment, and spending
+  agencies’ ability to align their medium-term policy objectives with their resource envelope. Despite these
+  inputs, key sub-components covering macro and fiscal forecasting, tax expenditure assessment, and
+  debt management aspects of the PDO1 were dropped after project restructuring. Further, there was (i) no
+  addition of new components to either replace the functions performed by these sub-components; (ii)
+  regular tracking and reporting of their implementation under parallel activities to ensure that the efficiency
+  of the PFM system was being enhanced by them; or (iii) an appropriate modification of PDO1 to reflect a
+  more modest objective that could be achieved with the remaining sub-component. The Bank team
+  explicitly assumed that the policy-alignment of the budget objective (PDO1) could be achieved without
+  the achievement of IRI1, IRI2 and IRI5. The ICR does not provide any rationale for why these sub-
+  components were included in the original project design or why their exclusion would not compromise the
+  achievement of the original objective. The ICR only explains why the implementation of two of these three
+  sub-components by the Bank and IMF led to their being dropped.
+
+  In designing PDO4, the project team built on the experience of PFM operations supported by the Bank in
+  ECA countries (e.g., Albania, Russia, Georgia, Ukraine, Moldova, Kyrgyzstan, and Tajikistan), and well-
+  documented lessons from different IFMISs across the globe during 25 years of Bank experience. Despite
+  the rich knowledge-base to inform the project team, PDO4 – “to lay the foundation for an integrated
+  financial management information system (IFMIS)” is loosely defined and lacks clarity. Laying the
+  foundation for the IFMIS has a wide scope ranging from simply purchasing ICT equipment, to a
+  combination of equipment purchase and TA to more substantive activities related with the ASFS or
+  preparing bidding documents for the purchase of the IFMIS (KOI4).
+
+  The following lessons learned were reflected in the project’s design:
+
+
+                                                                                                     Page 15 of 21
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     PFM Modernization Project (P146997)
+
+
+
+        PFM reforms are complex, lengthy, and high-risk undertakings that require adequate preparation
+         and sequencing for success. As the first of a two-project plan, it focused on reforms that were
+         feasible within the project’s timeframe and are prerequisites for the design of a successful IFMIS
+         system and its implementation.
+        Political commitment and system-user ownership are critical for the success of PFM reforms and
+         IFMIS implementation. During project preparation, the Bank team devoted considerable effort
+         in ensuring broad stakeholder consultation encompassing central agencies, line agencies, and
+         oversight institutions before developing a shared national vision for PFM reform.
+        IFMIS implementation is often hampered by lack of clarity regarding system requirements, and
+         shortcomings in procurement and contract arrangements. To avoid these risks, the project should
+         allow regulatory reforms and business process reengineering to be completed before completing
+         the design of the IFMIS. This also helps to stabilize system requirements prior to procurement and
+         implementation. The project should also allow the government to undertake market
+         consultations prior to procurement and provide support for the preparation of tender
+         documentation. This project’s design included the recommended preparations for the preparation
+         of the bid documents for the IFMIS.
+
+        As legacy systems must operate until the replacement systems are fully functional, they need to
+         be upgraded to meet business needs, and the project should provide ongoing support to them.
+         Where legacy systems have been developed in-house or in close collaboration with local
+         suppliers, there may be resistance to the acquisition of replacement systems.[1] The project will
+         ensure that the pros and cons of alternative solutions are reviewed and debated before
+         proceeding with the acquisition of any replacement system.
+
+  Fragmentation of cash balances in multiple bank accounts outside of treasury hindered monitoring of the
+  government’s cash position in real time. The existing PFM system was not conducive to efficient resource
+  allocation, and the financial information available was inadequate for high-level decision making. These
+  findings became the core of this project.
+
+  The Bank provided ongoing technical assistance financed from the ECA PFM Trust Fund (PFM TA grant)
+  to support the government in developing the PFM reform program and preparing for the implementation
+  of this project.
+
+
+
+  1] “Financial Management Information Systems: 25 Years of World Bank Experience on What Works
+  and What Doesn’t," World Bank, 2011.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The Bank Task Team conducted 11 implementation support visits and provided strong support during
+ implementation as evident from well-documented ISRs, Aide Memoires, and field notes. These were
+
+
+                                                                                                  Page 16 of 21
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     PFM Modernization Project (P146997)
+
+
+
+ supplemented by videoconferences to provide just-in-time advice, including by facilitating discussions
+ between the client and the consultants on draft deliverables. The MTR took place as scheduled and
+ prompted the project’s restructuring to adjust its scope. A few activities were dropped as they had other
+ sources of funding, a few were added, and there was a corresponding reallocation of funds to ensure that
+ all were adequately funded.
+
+ The composition of the Bank team and its proficiency in Russian were conducive to establishing direct
+ liaison with technical staff implementing the project. This fostered communication and feedback in
+ response to the multiple formal and informal requests from the counterparts. Such technical interactions
+ also improved the understanding of implementation challenges, discussions of potential solutions, and
+ agreements on courses of action. The Borrower noted how much the harmonious working relationship
+ between the Bank and government teams and the strong technical support contributed to the success of
+ the project.
+
+ Project supervision also benefited from the experience of seasoned PFM reform experts with an extensive
+ background in both PFM policy and operations, and the development of IFMISs in several countries. The
+ local presence of a task team member with strong technical expertise in Belarus’ PFM system and the
+ organizational structure of the MoF was valuable in facilitating interactions between the Bank and the
+ government and contributing to first-hand knowledge of project implementation.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ Although the project’s design did not explicitly include a Theory of Change (ToC),[1] M&E design provided
+ a clear pathway from inputs (consultancies and IT infrastructure and equipment, and training) to the
+ planned interventions/outputs. PDO3 and PDO4 had a dedicated KOI. PDO1 had four clearly defined and
+ appropriate IRIs in the original design of the project. After restructuring, only one of the original IRIs and
+ original KOI1 were considered sufficient to measure the achievement of the original PDO. This raises
+ questions about the design of the IRIs and KOI1. Were the three original IRIs superfluous or was the sole
+ KOI so narrowly designed that it could be achieved independently of the other project components that
+ were originally considered critical for the success of PDO1.
+
+ Linking KOI4 solely to the target of preparing the bidding documents for the IFMIS sidestepped measuring
+ and monitoring progress toward the related outcome and PDO4. Unpacking KOI4 could have better tracked
+ the government’s technical and institutional capacity to proceed with an in-house design of the IFMIS. For
+ example, the integration of the budget and financial reporting with the Unified Chart of Accounts made the
+ NPSAS compliant with the IPSAS. This was a significant achievement and was approved in 2019 when the
+ pilot was implemented. The modernization of the MoF's IT infrastructure was also largely achieved, but the
+
+                                                                                                     Page 17 of 21
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     PFM Modernization Project (P146997)
+
+
+
+ review of business processes was incomplete when the project closed. Reflecting these non-
+ trivial achievements/challenges would have offered valuable insights, and signaled Belarus’ stage of
+ readiness for a future IFMIS.
+
+
+
+ [1] The Theory of Change framework was not an institutional requirement at the time of project preparation
+ in 2016 when the project was prepared. It became mandatory for PADs in May 2018.
+
+
+
+b. M&E Implementation
+  The project’s implementation was based on the model for the PFM TA Grant that was used for the
+  project’s preparation and facilitated an efficient M&E system. There was regular monitoring and bi-annual
+  reporting of progress toward the achievement of outputs and target outcomes. The clarity and design
+  of the indicators facilitated their monitoring.
+
+  The MoF and IT Center were responsible for monitoring the target outputs and outcomes and preparing
+  the mid-year and annual performance reports focusing on results-based accountability and
+  accomplishments against performance expectations. The IT Center was responsible for collecting inputs
+  from different department of the MoF and their consolidation.
+
+
+
+c. M&E Utilization
+  The M&E findings of this project shaped the restructuring of Component 2 after the MTR. Two
+  new intermediate results indicators (IRI 8 and IRI 9) related to the modernization of the government’s
+  PFM reforms and IFMIS design were added, and one IRI (5) was dropped.
+
+  The launch of the Fiscal Transparency Portal showcasing the detailed Citizens' Budget (KOI 3, a target
+  indicator) was widely disseminated and motivated similar transparency-enhancing initiatives at the state
+  level. The fiscal data portal went live in January 2018, providing the public with access to interactive
+  fiscal data on budget execution. The MoF also publishes quarterly bulletins on the execution of the
+  consolidated budget, and central and state budgets. Following the central government's example, that
+  oblast-level subnational governments publish their versions of citizens' budgets starting in 2018.
+  Citizens' budgets are also published by several rayon-level governments, with the goal of full
+  coverage by CY23.
+
+  The widespread publicizing of the M&E framework of the project, especially related with budget
+  transparency, had positive spillover effects for other programs. For example, the State Program “PFM
+  and the Regulation of the Financial Market for 2020-2025” adopted at least three of the project’s
+  transparency-related target indicators. The Program has borrowed the following elements from the
+  project's M&E framework: monitoring indicators of state programs and their outcomes; and harmonizing
+  accounting and reporting rules of public sector organizations in line with international standards.
+
+
+
+
+                                                                                                  Page 18 of 21
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      PFM Modernization Project (P146997)
+
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   No environmental or social safeguards policies were triggered by the project.
+
+
+
+
+b. Fiduciary Compliance
+   Throughout the entire five-year implementation process, the project’s Financial Management rating was
+   Satisfactory as it complied with all fiduciary requirements without any issues. The IT Center’s automated
+   accounting system was customized to meet the project’s needs. Interim financial reports and annual
+   project audit reports were submitted on a timely basis and were found to be of acceptable standards. The
+   staffing arrangement, internal controls, accounting, reporting, audit, and disbursement arrangements were
+   acceptable.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   Positive: The upgrading of the IT infrastructure of the MoF and its Training and IT Centers enabled critical
+   staff to work remotely during the COVID-19 pandemic, contributing to business continuity during the
+   ongoing health emergency.
+
+
+
+d. Other
+   .......
+
+
+
+11. Ratings
+                                                                                Reason for
+Ratings                         ICR                    IEG
+                                                                                Disagreements/Comment
+                                                                                Low achievement on a critical
+Outcome                         Satisfactory          Moderately Satisfactory
+                                                                                PDO and Modest Efficiency
+                                                                                Low achievement on Quality at
+Bank Performance                Satisfactory          Moderately Satisfactory
+                                                                                Entry
+Quality of M&E                  Substantial           Substantial
+
+Quality of ICR                  ---                   Substantial
+
+
+                                                                                                   Page 19 of 21
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       PFM Modernization Project (P146997)
+
+
+
+
+12. Lessons
+
+The ICR (p. 19-21) presents a series of lessons and recommendations emerging from the project’s
+experience. IEG summarizes the most persuasive lessons below:
+
+Documenting actual behavioral changes originated by an operation in areas such as budget
+transparency and accountability can enhance learning, especially in highly centralized countries. In
+the case of the Belarus Public Financial Management Modernization Project (P146997), regular
+documentation and reporting of progress in improving budget transparency through online reporting
+of the citizens' budget resonated strongly within a highly centralized government as well as with the
+public. The project’s achievement in launching a Fiscal Transparency Portal and publishing online
+monthly the citizens' budget generated momentum at all tiers of government. The central
+government continued enhancing budget transparency with the innovation of an interactive fiscal
+database for the public as well as enabling users to download historical data on program-level
+expenditures. The regional ("oblast") subnational governments and several districts ("rayon")
+followed the example by publishing their own citizens' budgets. Full coverage is expected by 2023.
+There were similar learning spillovers from the project’s achievements related to TSA consolidation
+and state program budgeting.
+
+IFMIS implementation is often hampered by lack of clarity regarding system requirements, frequent
+change orders, and shortcomings in procurement and contract arrangements. To ameliorate these
+risks and following the lesson from IFMIS implementation on how successful operations require
+adequate preparation before the approval of the project (realistic functional and technical
+requirements, cost/time estimates, and procurement/disbursement plans), the Belarus Public
+Financial Management Modernization Project (P146997) focused only on the inputs (i.e., regulatory
+reforms and business process reengineering) that were required for the design of the IFMIS during
+the project time-frame, relegating the implementation of the IFMIS to a follow-on project.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provides a detailed overview of the project, and is well written, and generally aligned with the project
+development objective. The report follows the guidelines and is focused on results with one exception: it is
+sparse on the evidence (data) that was required to substantiate/adjust the ICRR ratings as well as the
+discussion of M&E utilization. The quality of evidence and analysis is generally aligned to the messages
+outlined in the ICR. While the ICR pays adequate attention to the discussion of the project’s results framework
+so that the reader can deduce the theory of change underlying it, it also presents the ToC framework
+constructed from the PAD for the original and restructured projects. Both ToCs are skillfully crafted and
+
+
+
+
+                                                                                                   Page 20 of 21
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     PFM Modernization Project (P146997)
+
+
+
+presented with clarity. The ICR offers creative suggestions/insights from the project on how to improve
+outcomes, especially with respect to the development of the IFMIS.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                  Page 21 of 21
+

@@ -1,0 +1,1560 @@
+     Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+     Human Capital DPO (P168697)
+
+
+
+                                                                              Report Number: ICRR0023655
+
+1. Operation Information
+
+
+
+ Operation ID                            Operation Name
+ P168697                                 Human Capital DPO
+
+ Country                                 Practice Area (Lead)
+ Madagascar                              Health, Nutrition & Population
+
+
+
+ Non-Programmatic DPF
+
+ L/C/TF Number(s)                       Closing Date (Original)                   Total Financing (USD)
+ IDA-65670,IDA-D5770                    26-Mar-2021                                           99,378,718.97
+
+ Bank Approval Date                     Closing Date (Actual)
+ 26-Mar-2020                            26-Mar-2021
+
+                                        IBRD/IDA (USD)                               Co-financing (USD)
+
+ Original Commitment                         100,000,000.00                                             0.00
+
+ Revised Commitment                          100,000,000.00                                             0.00
+
+ Actual                                       99,378,718.97                                             0.00
+
+
+
+
+ Prepared by               Reviewed by                ICR Review Coordinator          Group
+ Denise A. Vaillancourt    Judyth L. Twigg            Eduardo Fernandez               IEGHC
+                                                      Maldonado
+
+
+
+2. Program Objectives and Pillars/Policy Areas
+DEVOBJ_TBL
+a. Objectives
+
+The program development objective (PDO) was “…to support the Government of Madagascar’s investment in
+human capital, through improving (i) human resources in health and education, (ii) availability and
+
+
+
+
+                                                                                               Page 1 of 28
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      Human Capital DPO (P168697)
+
+
+
+predictability of financial resources in the social sectors, and (iii) legal protections for women and children”
+(Program Document of February 28, 2020, pp. 3 and 21; and ICR, pp. 1 and 11).
+
+
+b. Pillars/Policy Areas
+The three mutually reinforcing pillars corresponded to the PDOs (ICR, paras. 18-21):
+
+Pillar 1: Better qualified, distributed, and performing human resources in education and health sectors
+sought to address bottlenecks related to human resources in health and education.
+
+      It aimed to improve the quality of teachers by (a) introducing standards for the teaching profession to
+       raise the overall qualification level of educators in the country and (b) supporting the insertion of
+       quality control measures in the recruitment of community teachers.
+      In the health sector, it sought to support the strengthening of regulation and quality control
+       mechanisms of the pre-service training of health workers.
+      This pillar also aimed to support better management of human resources in health, education, and
+       throughout the public service.
+
+Pillar 2: More transparent and impactful investments in human capital sought to make new and existing
+resources in the social sectors more predictable and transparent.
+
+      It aimed to increase domestic resources to expand the priority national social safety nets (SSN)
+       programs under the National Strategy for Social Protection, which were targeted to the poorest and
+       most vulnerable households, where human capital deficits are concentrated. By providing income
+       support, the cash transfers were meant to enable investments to strengthen human capital by
+       increasing utilization of education and health services and by delivering behaviorally focused
+       accompanying measures, including parental education, family planning, and early stimulation for
+       children.
+      By reforming the flow of funds to frontline health providers, the operation intended to improve the
+       quality of health services delivery.
+      Given that these actions imply even greater investments by the government, this pillar also supported
+       efforts to increase fiscal revenues and improve transparency.
+
+Pillar 3: Stronger legal frameworks for the protection of women and children aimed to strengthen legal
+frameworks to better protect children and to advance gender equality.
+
+      This pillar introduced legislation to better protect women against gender-based violence, sending
+       strong signals throughout society about changing social norms.
+      For child protection, actions supported the implementation of the National Strategy on Child Marriage
+       (2018-2024) to abolish child marriage in order to protect children and adolescents from early marriage,
+       pregnancy, and sexual tourism.
+      This pillar recognized that there is a substantial human capital cost from gender-based violence and
+       child marriage. For instance, child marriage is linked with: (i) high fertility and rapid population growth;
+       (ii) poor health and nutrition, and violence; (iii) low educational attainment and learning; (iv) low labor
+       force participation and earnings; and (v) low household and social participation, decision-making, and
+       investments. Therefore, improving learning and service delivery outcomes as well as social sector
+
+
+                                                                                                        Page 2 of 28
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Human Capital DPO (P168697)
+
+
+
+       domestic financing (Pillars 1 and 2) would not likely transform human capital in the absence of
+       initiatives to empower women and girls.
+
+
+c. Comments on Program Cost, Financing and Dates
+
+The total program cost of SDR 72.7 million (US$100 million equivalent) was financed by an International
+Development Association (IDA) grant in the amount of SDR 63.2 million (US$87 million equivalent) and an IDA
+credit in the amount of SDR 9.5 million (US$13 million equivalent). The operation was approved by the Board of
+Executive Directors on March 26, 2020, became effective on May 21, 2020, and closed, as originally scheduled,
+on March 26, 2021. The IDA financing of SDR 72.7 million was fully disbursed on May 27, 2020. Because of
+slight changes in exchange rate, the equivalent amount in dollars changed to US$99.38 million.
+
+This Development Policy Operation (DPO) was designed as the first in a series of two human capital DPOs. The
+second DPO (for which an additional amount of US$100 million in IDA funding was allocated) aimed to support
+two pillars: (i) more and better social services for underserved households and improved protection for women
+and children; and (ii) more transparent and predictable investments in human capital. However, the second DPO
+was ultimately dropped. The ICR notes (para. 1) that, because of COVID-19, the initial preparation of DPO2
+(which started in August 2020) was entirely virtual. This proved to be too challenging for maintaining policy
+dialogue with the government. Preparation took longer than expected with major blockages on some reforms,
+and as a result DPO2 was eventually dropped in March 2022.
+
+
+3. Relevance of Design
+
+a. Relevance of Objectives
+
+ The three PDOs/pillars of this DPO operation directly addressed three of the four longstanding and
+ interlinked constraints to broad-based development in Madagascar, identified in the World Bank’s
+ Systematic Country Diagnostic (SCD) Update for Madagascar (April 2022), which have become all the
+ more relevant with the ongoing COVID-induced crisis and famine in the South: (i) weak governance and state
+ capture; (ii) low investment in physical, human, and natural capital; (iii) low and declining productivity coupled
+ with stalled structural transformation; and (iv) high and rising vulnerability to shocks. PDO 1/Pillar 1 (improving
+ human resources in health and education/better qualified, distributed, and performing human resources in
+ education and health sectors) addressed critical elements of the (first) weak governance constraint, focusing
+ particularly on strengthening governance and accountability of health and education human resources and
+ their more equitable distribution. PDO2/Pillar 2 (improving the availability and predictability of financial
+ resources in the social sectors/more transparent and predictable investments in human capital) addressed the
+ (second) constraint of low investment in human capital. PDO2/Pillar 2 also, along with PDO3/Pillar 3
+ (improving legal protections for women and children/stronger legal frameworks for the protection of women
+ and children), addressed the (fourth) constraint, identified in the SCD Update, of high and rising vulnerability to
+ shocks, especially through PDO/Pillar 2’s focus on expanding social safety nets funding and PDO/Pillar 3’s
+ focus on protecting women and children, who are particularly vulnerable to shocks and whose empowerment
+ and protection are critical to the uptake and effective use of social services.
+
+ All three PDOs/pillars were highly supportive of one of three priority interventions, advocated in the Bank’s
+ SCD Update to address the above-cited constraints to development: the boosting of human capital and
+ resilience of the poor in order to (a) improve health and education; (b) empower women; and (c) strengthen
+
+                                                                                                      Page 3 of 28
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    Human Capital DPO (P168697)
+
+
+
+safety nets. The SCD Update noted that improvements to health and learning outcomes would require the
+mobilization of additional domestic resources and reforms. Health and education sector efficiency gains are
+possible in the short term through reforms in human resources and public financial management, among
+others. Greater access to prenatal care, assisted deliveries, and effective nutrition programs are key to
+reducing maternal and child mortality and stunting rates, and improved girls’ access to secondary education in
+underserved areas will contribute to reductions in high fertility. The SCD Update also asserted that
+strengthened social protection systems will ensure greater resilience to shocks and can help stimulate better
+nutrition outcomes and the demand for health, education, and water services, all contributing to improved
+human development outcomes.
+
+The PDOs were relevant to the Government of Madagascar's (GoM's) General State Policy, which has
+been prepared but not yet finalized (due to COVID-related delays and the upcoming presidential elections,
+scheduled for end-2023). The General State Policy is built around three complementary pillars: (a) the social
+pillar (human capital), which is the strong focus of the PDOs of this DPF, (b) the economic base (accelerated,
+inclusive, sustainable growth), and (c) the environmental base (Madagascar green island). The PDOs also are
+supportive of the crosscutting priority of governance, emphasized in GoM’s General State Policy, including
+improvements to the autonomy and accountability of local authorities.
+
+The PDOs were also relevant to the World Bank’s Country Partnership Framework for the Republic of
+Madagascar for the Period FY2023-FY2027 (March 28, 2023), which supports two of its three higher-level
+outcomes (HLOs). HLO-2 (improved human capital outcomes) focuses on making growth more inclusive by
+addressing weaknesses and inequities in public service delivery, especially health and education services;
+reducing spatial and gender inequalities; and addressing challenges specific to women. Objectives 2.1
+(increase access to quality education and health services) and 2.2 (promote women’s and girls'
+empowerment) are supported by DPF objectives. HLO-3 (enhanced resilience against shocks) focuses on
+strengthening resilience to shocks, especially of the poor and vulnerable, that can undermine improvements in
+growth or worsen socioeconomic inequalities. Objective 3.3 (improve social protection and livelihoods) is also
+supported by DPF objectives. The PDOs are also relevant to and supportive of the CPF’s crosscutting themes
+of governance.
+
+The DPO objectives provide strategically complementary support to policy areas directly supported by
+investment project financing (IPF) operations in the health, education, and social protection
+sectors. An ongoing health operation, Improving Nutrition Outcomes (P160848), designed as a multi-phase
+approach instrument, supports continuous training of health professionals and reforms in pre-service
+education. The Basic Education Project (P160442) financed technical assistance accompanying the policy
+reforms supported through this DPO (actions around teacher standards, developing the National Teaching
+Career, and new recruitment policies for community teachers). Social protection policy areas featured in the
+National Social Protection Strategy received support under the Social Safety Net Project (P149323), which
+helps strengthen institutional capacity to manage social protection programs through technical
+assistance. Additionally, the DPO’s support to governance complemented activities financed by other projects:
+the Integrated Growth Poles Project (P083351) (strengthening decentralized actors’ capacity to better spend
+local development grants); the Public Sector Performance Project (P150116) (improving the flow of resources
+to improve local service delivery and budget transparency); and the proposed Digital Governance and
+Identification Management System Project (P169413) (aiming to support the rationalization of digital systems
+in government, for which the DPO laid the groundwork).
+
+
+
+
+                                                                                                 Page 4 of 28
+    Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+    Human Capital DPO (P168697)
+
+
+
+Table 1: Objectives and Prior Actions (PA) for Madagascar Investing in Human Capital Development
+Policy Financing (P168697)
+Objective 1: Support the Government of Madagascar’s investment in human capital, through improving
+human resources in health and education/Pillar 1: Better qualified, distributed and performing human
+resources in the education and health sectors
+Establishment of teacher standards
+PA1: To improve the quality of the Malagasy teaching workforce, the Ministry of National Education and
+Technical and Vocational Education (MENETP), Ministry of Labor, Employment, Civil Service and Social
+Laws, and Ministry of Economy and Finance (MEF) have established the national teaching career and
+teaching skills requirements (PD, p. 24).
+Transparent and professional teacher recruitment and promotion
+PA2: To expand the application of quality control measures for the recruitment of community teachers,
+MENETP has expanded the piloting of new procedures and qualifications for the hiring of non-civil service
+teachers in primary schools by Parents’ Associations (FRAM) to eight additional Ministry of Education School
+Districts (CISCOs) (Ambalavao; Manakara; Toliara II; Brickaville, Antsiranana II; Befandriana nord;
+Ambohidratrimo; and Antanifotsy) starting from the 2019-2020 school year (PD, p. 25).
+Independent regulation/quality control mechanisms for pre-service training in the health sector
+PA3: To improve quality control of institutions providing training for workers in the health sector, the Ministry
+of Public Health has created a health training institute inspection and quality control commission and
+established its organizations and functions (PD, p. 26).
+Modernized human resource management and systems
+PA4: To allow for systematic counting of all public education and health professionals and rationalization of
+the distribution of human resources throughout the civil service, the Prime Minister, Head of Government,
+has obligated all institutions and ministries, decentralized territorial collectivities, and public institutions and
+bodies to use AUGURE (l’Application Unique pour la gestion Uniforme des Ressources humaines de
+l’Etat), a single system for harmonized management of civil servants, and the nomenclature of positions
+validated by the Ministry in charge of civil service for the management of their personnel (PD, p. 27).
+Objective 2: Support the Government of Madagascar’s investment in human capital, through improving
+availability and predictability of financial resources in the social sectors/Pillar 2: More transparent
+and predictable investments in human capital
+Greater, more consolidated financing for safety nets
+PA5: Support the expansion of the three priority social safety net programs in Madagascar: Human
+Development Cash Transfers (TMDH), Productive Cash for Work (ACTP), and Emergency Drought
+Response Program (FIAVOTA) (PD, p. 29).
+Transferring funds to frontline service providers in the health sector
+PA6: To facilitate channeling financing to public primary healthcare centers (CSBs) for community health
+programs and improve related decentralized public financial management and budget execution at the
+commune level, the Prime Minister, Head of Government, has established rules relating to the management
+of budget allocations by the Ministry of Public Health to CSBs for community health programs, including, inter
+alia, provisions for the direct transfer of such CSB allocations to dedicated sub-accounts within the relevant
+communes’ existing treasury accounts, and for expenses to be executed in accordance with a CSB
+allocation procedures manual to be elaborated by the Ministry in charge of health and integrated within
+commune budget procedures (PD, p. 30).
+Improved transparency in budget execution
+PA7: To enhance transparency, oversight, and accountability of budget processes and improve the efficiency
+of budgetary allocation and spending, the Prime Minister, Head of Government, has established rules and
+
+                                                                                                       Page 5 of 28
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Human Capital DPO (P168697)
+
+
+
+ principles of access to and use of data related to the budgeting of public entities, based on payments and
+ cash, in revenues and in expenditures, in a format compliant with open data principles, applicable to users of
+ (a) the Public Treasury Information System (SIT), the interface that permits collection or receipt of data from
+ data providers, and (b) the Public Treasury’s Open Data Portal, a web-based platform through which the
+ public may access the Treasury’s open data relating to budget execution (PD, p. 31).
+ Greater fiscal revenues for social spending
+ PA8: To reinforce the capacity to transparently evaluate the efficiency of tax expenditures with a view to
+ optimizing tax revenues, MEF has established the framework for periodic evaluation of the efficacy of tax and
+ customs exemptions and other preferential tax regimes, including the division of responsibilities, the sharing
+ of information, and methodologies, with the view of achieving the socioeconomic objectives of fiscal
+ spending (PD, p. 32).
+ Objective 3: Support the Government of Madagascar’s investment in human capital, through improving
+ legal protections for women and children/Pillar 3: Stronger legal frameworks for the protection of
+ women and children
+ Strengthened legal frameworks for women and children
+ PA9: To strengthen the legal regime for the prevention and prosecution of acts of gender-based violence
+ (GBV) and the protection of victims of GBV, Parliament has enacted a law relating to combatting GBV (PD,
+ p. 33).
+
+
+
+
+b. Relevance of Prior Actions
+
+Rationale
+
+The DPF was structured around three pillars, supported by nine PAs, focused on the social sectors (health,
+education, and social protection) and gender. They supported reforms that were well aligned with the country’s
+constraints and priorities and with the Bank’s current CPF, and they were chosen in close consultation with the
+key stakeholders of those sectors. The design and implementation of reforms captured in the nine PAs have
+placed human capital development at the center of the policy dialogue in the country and succeeded in rallying
+the attention and support of the government and stakeholders around policy challenges of the social
+sectors. The synergies across these reforms have created a policy foundation supportive of better health and
+education services, expanded social protection, and improved protection for women and children. All of these
+are expected to enable Madagascar’s population to reach their potential as contributors to more sustainable
+and inclusive growth in the country.
+
+Objective 1: Improving human resources in health and education
+
+Pillar 1: Better qualified, distributed and performing human resources in education and health sectors
+
+Overall, all four PAs under this Pillar address critical constraints to the achievement of PDO/Pillar 1 and make a
+substantive and credible contribution to achieving that objective.
+
+The main driver of poor learning outcomes in Madagascar is the poor quality of the teachers (ICR, para.
+28). PA1 and PA2 directly supported the objectives of improving the qualifications of teachers and their
+performance by addressing key constraints. PA1 addressed the lack of clear quality standards and skills
+
+                                                                                                    Page 6 of 28
+    Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+    Human Capital DPO (P168697)
+
+
+
+requirements for teachers, which undermined GoM’s ability to monitor and ensure quality. It established a
+National Teacher Career Policy and Skills Requirements, creating minimum standards for entry into the
+teaching profession. This provided MENETP with a framework for: ensuring that all teachers meet these
+requirements; guiding a two-year training for teacher certification, required for all teachers under this new
+policy; strengthening career management; enhancing regulation of the recruitment of community teachers; and
+implementing performance-based contracts, as envisioned by MENETP. Rating: Highly Satisfactory.
+
+PA2 addressed the issue of the very low quality of unsubsidized community teachers, recruited by communities
+without any guidelines or quality control. The ICR (para 4) estimates that there were 47,000 unsubsidized
+community teachers without formal training or qualifications in 2019. PA2 established quality control measures
+for the recruitment of community teachers, directly supporting teacher quality improvements. Measures included
+a content-knowledge test for community teachers’ recruitment, setting a minimum competency requirement to
+enter civil service. This reform ensured that selection of recruits would be based on objective and transparent
+criteria (pedagogic competencies and subject-matter knowledge), which ultimately would strengthen the quality
+of the teacher workforce and improve learning. Rating: Highly Satisfactory.
+
+A main cause of the very low quality of clinical staff in health facilities is the poor quality of pre-service
+training provided by training institutions. While these institutions are supposed to receive accreditation
+certificates from the Ministries of Health and Higher Education, there was no effective regulatory body to ensure
+accreditation quality (ICR, para. 3). PA3 established an Inspection and Quality Control Commission for Health
+Training Institutes, enabling better regulation of institutions providing training for health providers. Comprised of
+Ministry of Health and professional boards, the Commission conducts regular inspections of para-professional
+training institutions to assess and improve their performance. When a training institute falls short of standards
+or performance expectations, the Commission recommends sanctions to the National Habilitation Committee,
+led by the Ministry of Higher Education. While this new quality control process should contribute to the quality of
+pre-service training, the Commission has no authority to enforce sanctions of non-performing private
+institutions. Rating: Satisfactory.
+
+PA4 required the mandatory use of the human resource management system, AUGURE, and the nomenclature
+of positions validated by the Ministry in charge of civil service for the management of all civil servants. This
+action was seen as critical for enabling the more efficient management and distribution of human
+resources. AUGURE was introduced by GoM in 2017 as a unique HRM system. However, system
+weaknesses caused ministries still to maintain parallel HR systems or databases. PA4's reform is especially
+critical for the health and education sectors, which employ almost 70 percent of the public workforce, and
+whose poor HR planning and systems have resulted in the understaffing of health facilities and schools and
+inequitable distribution of personnel. Moreover, increases in the number of contract workers, volunteers,
+community teachers, and community health workers, in response to growing demand, have not been
+incorporated in systems, further complicating HR management. However, in retrospect, the mandatory use of a
+single HRM system may have been overly ambitious, given that AUGURE was not functional at the outset of
+the DPO and required considerable system strengthening and associated capacity building before it could be
+relied upon by all intended users (all institutions and ministries, decentralized territorial collectivities, and public
+institutions and bodies [Program Document, p. 27]) as an effective tool for improved HRM and distribution, and
+before its mandatory use would unequivocally lead to achievement of Objective/Pillar 1. Rating: Moderately
+Unsatisfactory.
+
+Objective 2: Improving availability and predictability of financial resources in the social sectors
+
+
+
+
+                                                                                                        Page 7 of 28
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    Human Capital DPO (P168697)
+
+
+
+Pillar 2: More transparent and predictable investments in human capital
+
+The PAs had direct causal links with the objectives and were relevant to the country’s context and priorities and
+to the CPF (FY2023-2027), especially the objective of increasing access to social services and addressing
+weak governance, which undermines the adequate financing and provision of services.
+
+While assessed to be highly cost-effective, GoM’s SSN programs only reached about 5 percent of the extreme
+poor in the country, far below the 15 percent target set for 2023 in the National Strategy for Social Protection
+and even further below the average of 28 percent for the region. At 0.16 percent of gross domestic product
+(GDP) in 2019, GoM expenditures on social protection were extremely low. GoM health expenditures in 2017
+made up only 4.4 percent of all GoM spending. PA5, the allocation of domestic resources for social safety net
+programs, was highly relevant to the achievement of the PDO, as it promoted budget allocations for SSN
+programs, with a commitment over a period of three years, and represented a significant increase in domestic
+funding for the social protection sector – a sector that had relied almost exclusively on donor funding. The
+mobilization and commitment of domestic funding for social protection became all the more critical in the wake
+of COVID. Rating: Highly Satisfactory.
+
+In addition to underfunding of the sector, a key constraint in the health sector was the very centralized
+orientation of expenditures. Only 4.7 percent of the health budget was executed at the district level in 2017, of
+which 55 percent was intended for primary health facilities/CSBs, or less than US$1000 per CSB per year. PA6,
+the establishment of rules for managing budget allocations for CSBs, including the direct transfer of CSB
+allocations and their effective use, aimed to ensure quicker and easier access to CSBs’ allocations, addressing
+the chronic lack of funding of essential inputs for primary health care (water, electricity, and medical
+supplies). The intended transfer of CSB budgets from the district to commune level, specifically through a
+dedicated bank sub-account executed by the commune, was plausibly expected to facilitate transparency of
+CSB budgets and CSBs’ direct access to these funds. Moreover, CSB-dedicated sub-accounts could be used
+to channel other funds (subsidies, local funds) from the communes destined for health activities. This reform
+supported GoM’s decentralization agenda and, if proven to be successful, had the potential for duplication in
+other sectors. Rating: Highly Satisfactory.
+
+An important constraint to public and legislative oversight to improve the responsiveness and accountability of
+expenditure was the ministries’ lack of timely information and data on budget allocations and expenditures and
+a lack of public access to quality data on budget execution. This had led to low budget execution rates, which,
+in turn, negatively impacted planned programs and investments in human capital. PA7 established rules and
+principles of access to and use of data in a form compliant with open data principles, with a view to improving
+transparency in budget execution. Improved access to timely budget execution reports with quality, exploitable
+data was expected to improve significantly ministries’ capacities to plan and monitor budget performance and
+improve overall decision-making, and, in the long run, to increase accountability and effective public
+participation in the budget process. Rating: Highly Satisfactory.
+
+Madagascar’s social sector spending as a share of GDP was considerably lower than the average for Sub-
+Saharan Africa, severely compromising the coverage and quality of social services delivery. PA8’s
+establishment of a framework for periodic evaluation of the efficacy of tax and custom exemptions and other
+preferential tax regimes was an attempt to increase fiscal revenues and rationalize tax exemptions. It aimed to
+address the need to strengthen domestic revenue mobilization in order to generate greater domestic resources
+for social spending. To this end, a baseline review of the pertinence and efficacy of long-standing tax
+abatements and preferential tax regimes, along with periodic updates, were deemed necessary. A shortcoming
+in the results chain is the assumption that increased fiscal revenues would mean incremental investments in
+
+
+                                                                                                   Page 8 of 28
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Human Capital DPO (P168697)
+
+
+
+ social sectors. The results chain did not reflect the real risk that GoM might have other priorities for the
+ utilization of additional resources generated. Moreover, it is not clear that just setting up an evaluation
+ framework would result in meaningful movement towards achievement of PDO2. There is no requirement
+ embedded in the PA for use of the framework or logic for how its use would lead to increased revenues for
+ social spending. Rating: Moderately Unsatisfactory.
+
+ Objective 3: Improving legal protections for women and children
+
+ Pillar 3: Stronger legal frameworks for the protection of women and children
+
+ GBV is common in Madagascar, with 30 percent of Malagasy women reporting that they have suffered from
+ some kind of violence. Most cases, however, were not prosecuted, or even reported. Child marriage (girls
+ married before the age of 18), a form of GBV, was still rampant at 40 percent in 2019. The impacts of child
+ marriage on education, health, poverty, and violence have been well documented. PA9, the enactment of the
+ GBV law, was highly relevant to the achievement of PDO/Pillar 3. The 2020 Gender-Based Violence Law
+ provides stronger protection for women and girls by: specifying new offenses (domestic violence, including
+ marital rape, and sexual harassment); introducing mandatory reporting; and providing new penal procedures,
+ which put an end to impunity of offenders. The 2020 Law is a fundamental reform, raising awareness, changing
+ social norms, and ending a culture of silence and acceptance of violence, critical for supporting the human
+ capital development agenda given the negative consequences of GBV for individuals, households, and society
+ at large. Over and above the attention to child exploitation in the GBV Law, activities supporting Objective 3
+ also aimed to support implementation of Madagascar’s National Strategy on Child Marriage and pave the way
+ for adoption of a National Child Protection Policy, particularly through sensitization campaigns to promote
+ communities’ signatures of a pledge to combat child marriage. These pledges were envisaged to facilitate an
+ indicative trigger for DPO2, before that follow-on operation was dropped: the adoption of a National Policy on
+ Gender Equality and Child Protection. Rating: Highly Satisfactory.
+
+
+
+Rating
+
+Satisfactory
+
+
+4. Relevance of Results Indicators
+
+Rationale
+
+The operation used nine results indicators (RIs) to measure the achievement of results of the nine PAs
+supporting the three objectives/pillars. The team modified five of the nine original indicators to better
+capture results in light of data limitations at closing, updated baselines, the need for further specification of
+the indicator, and/or efforts to better capture the intent of PA. With a few exceptions, itemized below, the
+indicator definitions, baselines, and availability of data were generally clear and credible, mostly
+measurable, and grounded in coherent results chains laid out under each objective.
+
+
+
+
+                                                                                                        Page 9 of 28
+    Independent Evaluation Group (IEG)                        Implementation Completion Report (ICR) Review
+    Human Capital DPO (P168697)
+
+
+
+Table 2: Results Indicators (RIs) by Objective and Prior Actions (PAs) – baseline and
+target values; status and achievement
+                                           Base-
+                                    RI              Target            Actual as RI
+                                                             Actual
+                      Associated                                                   Achieve-
+                                           line
+Results Indicator                   Rele-           (Mar              % of         ment
+                                                             (Dec
+                      PAs
+                                           (2018-            2021)
+                                    vance           2021)             Target       Rating
+                                           2019)
+Objective 1: Support the Government of Madagascar’s investment in human capital, through
+improving human resources in health and education
+
+Pillar 1: Better qualified, distributed, performing human resources in education health
+sectors
+RI1: % teachers                                         At least
+registered in AUGURE                                    35%
+classified as per                             Not
+positions laid out in                         available          No data
+Teacher Performance PA1:                                         available -
+Standards                Establishment
+                         of National
+Alternative indicator Teacher          MS                                            N
+proposed for the         Career Policy
+ICR: % teachers          & Skills                                          21%
+registered in MEN MIS Requirements
+                                              21%
+that are qualified as                                   At least
+                                                                 24%       Not
+per Teacher                                             35%
+                                              (2019)                       achieved
+Performance
+Standards
+                         PA2:
+                         Establishment                                     0%
+RI2: # teachers
+                         of quality
+recruited and contracts                                                    Not
+                         control
+awarded according to                          800                          achieved
+                         measures for                   Over
+new recruitment                        S                         800                 N
+                         community                      10,000
+procedures/                                   (2018)
+                         teacher
+                         recruitment                                       Not
+Issuance of contracts
+                         (pilot new                                        conducted
+                         procedures)
+                         PA3:
+                         Establishment                                     0%
+RI3: % paramedical       of Inspection
+graduates from private and Quality            64%                          Not
+                                                        At least
+institutions passing the Control       MS                        64%       achieved N
+                                                        80%
+public service           Commission           (2018)
+entrance exam            for health                                        Not
+                         training                                          conducted
+                         institutes
+
+
+                                                                                           Page 10 of 28
+    Independent Evaluation Group (IEG)                        Implementation Completion Report (ICR) Review
+    Human Capital DPO (P168697)
+
+
+
+                                           0                            0
+RI4: % schools and
+CSBs meeting sectoral                      (2019)                       Not
+HR standards,                                                           achieved
+                                                    50%     No data
+according to AUGURE                                         available
+                      PA 4:
+RI4 changed to:                                             (Mar
+                      Mandatory
+                      use of HRM                            2021)
+RI4.1: % CSBs that
+                      system
+meet health sector HR            MS
+                      AUGURE for           18%
+standards (2
+                      health &                                          19%
+providers/CSB1; 3 for                               50%     24%                    N
+                      education            (2019)
+CSB2)                                                                   Not
+                      personnel
+                                                                        achieved
+RI4.2: % schools that
+meet ed sectoral HR                                 80%     73%                    M
+                                           60%                          65%
+standard (1 teacher/40
+pupils)                                      (2018-                      Partially
+                                             2019)                       achieved
+Overall achievement rating for PDO 1: Unsatisfactory
+Objective 2: Support the Government of Madagascar’s investment in human capital, through
+improving availability and predictability of financial resources in the social sectors
+
+Pillar 2: More transparent and predictable investments in human capital
+RI5.1: Total minimum PA5:               S  0       Over     $5 million 100%     H
+amount disbursed         Allocation of                      disbursed
+annually to FID budget domestic            (2019) $5        (2021) for Achieved
+line for                 resources for             million 3 priority
+                         (i) SSNs                           SSNs
+       priority SSNs & (MEF agreed
+       MPSPPF           to allocate 6
+         budget line for billion Ariary
+         social          to FID in 2020                                         H
+         protection      RPI budget
+                         line and 18       $2.56
+         policy
+                                           million At least
+         management billion ($5m)
+                         for each 2021,            $2.56    $2.56
+         M&E from
+                         2022,             (2019)  million million for
+         domestic public
+         financing.      2023 for                           MPSPPF
+                         additional                         maint’d,
+                         30,000 hh;                         disbursed 100%
+                         and (ii)                           in 2021
+                                                                       Achieved
+                         MPSPPW
+                         validation of
+                         SSN manual
+                         for
+                         coordination,
+
+                                                                                           Page 11 of 28
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    Human Capital DPO (P168697)
+
+
+
+                          use of all SSN
+                          funds)
+RI5.2: # households                                     Over                 160 %
+                                               0               48,073
+covered by the priority   PA5: (see                     30,000
+                                           S                                              H
+SSNs from domestic        above)                                             Target
+                                               (2019)
+public financing                                                             surpassed
+RI6: % budget law
+                      PA6: Direct
+allocations to CSB                             0
+                      transfer of                                            71%
+disbursed by                                            At least 60%                      S
+                      funds (CSB
+communes for health                            (2019)   85%
+                      allocations) to                                        Achieved
+facilities
+                      health
+                      facilities (PM
+Alternative indicator                 MS
+                      rules for
+proposed for the
+                      management                                             117%
+ICR: % of budget law
+                      of budget                0        At least
+allocations to CSBs                                                          Target
+                      allocations by                    85%      99.5%                 H
+mandated by MoH and                                                          surpassed
+                      Min H to                 (2019)
+transferred to
+                      CSBs)
+communes
+
+RI7: % budget
+expenditures made in
+the social sectors                             34.7%
+according to their      PA7:
+programmatic            Improved               (2018)
+                        transparency                    At least No data
+classification
+                        in budget                       35%      available
+Alternative indicator execution (PM
+proposed for the        rules on       MU                                                 N
+ICR: % of budget        access, use of
+executed in the social budget data,
+sectors according to compliant w/
+                                                        35%      19%
+programmatic            open data              24%
+                                                                             Regression
+classification (budget principles)                                           from
+executed by SS                                 (2019)
+                                                                             baseline
+ministries/total budget
+executed)                                                                    Not
+                                                                             achieved
+RI8: Reduction of thePA8: MEF        MU        23%      At most No data      -            N
+amount of tax        establishment                      15%     available
+exemptions as a      of framework              (2018)
+proportion of overallfor evaluation
+fiscal revenues      of efficacy of
+                     tax and                            15%      27.5%
+Reformulated         customs                   23%
+indicator: Amount of exemptions to
+tax exemptions as    increase fiscal           (2018)
+
+                                                                                                Page 12 of 28
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    Human Capital DPO (P168697)
+
+
+
+proportion of overall   revenues and                                       Regression
+fiscal revenues         rationalize tax                                    from
+                        exemptions                                         baseline
+
+                                                                           Not
+                                                                           achieved
+Overall achievement rating for PDO 2: Moderately Satisfactory
+Objective 3: support the Government of Madagascar’s investment in human capital, through
+improving legal protections for women and children
+
+Pillar 3: Stronger legal frameworks for the protection of women and children
+                        PA9:
+                        Prevention
+                        and
+RI9: # communities prosecution of                                    159%
+                                            0
+(fokontany) that signed acts of GBV                  Over
+                                      MS                    1,592              H
+the pledge to combat and protection                  1,000           Target
+                                            (2019)
+child marriage          of victims of                                surpassed
+                        GBV
+                        (Parliament
+                        enacted law)
+Overall achievement rating for PDO 3: Highly Satisfactory
+
+
+
+
+Objective 1: Improving human resources in health and education
+
+Pillar 1: Better qualified, distributed, performing human resources in education health sectors
+
+RI 1 (percent of teachers registered in AUGURE classified as per positions laid out in Teacher
+Performance Standards) was relevant for measuring the impact of PA1 (establishment of National
+Teacher Career Policy and Skills Requirements) on progress toward achievement of PDO1. Because the
+version of AUGURE available at the time of project closing was not set to classify teachers as per
+positions laid out in Teacher Performance Standards, the indicator was adjusted to measure the percent
+of teachers registered in MEN MIS who are qualified, as per Teacher Performance Standards. While a
+baseline was not established for the original indicator, a new baseline was established in 2019 for the
+adjusted indicator. Rating: Moderately Satisfactory
+
+RI 2 (number of teachers recruited and contracts awarded according to new recruitment
+procedures/issuance of contracts) was relevant for measuring the impact of PA2 (establishment of quality
+control measures for community teacher recruitment) on progress toward achievement of PDO 1, and it
+was measurable. A baseline for this unchanged indicator was established in 2018. Rating: Satisfactory
+
+RI 3 (percent of paramedical graduates from private institutions passing the public service entrance exam)
+was somewhat relevant for measuring the impact of PA 3 (establishment of Inspection and Quality Control
+Commission for health training institutes) on progress toward achievement of PDO1, and
+
+                                                                                                Page 13 of 28
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    Human Capital DPO (P168697)
+
+
+
+measurable. However, given that many other factors could also contribute to the share of graduates
+passing the entrance exam, it may not have been sufficiently linked to PA3. A baseline for this unchanged
+indicator was established in 2018. Rating: Moderately Satisfactory
+
+The original articulation of RI 4 (percent of schools and CSBs meeting sectoral human resources
+standards, according to AUGURE), while relevant for assessing the impact of PA4 (mandatory use of
+AUGURE for health and education personnel), was not sufficiently specific to distinguish and measure the
+different standards for the staffing of schools and CSBs. Moreover, it was based on the assumption that
+AUGURE provided detailed data on personnel by facility, whereas AUGURE only provided aggregate
+data at the district level. The indicator was consequently split to reflect the staffing standards of each
+sector to measure RI 4.1 (percent of CSBs that meet health sector human resource standards: 2
+providers for CSB1; 3 providers for CSB2) and RI 4.2 (percent of schools that meet education sector
+human resource standards: 1 teacher/40 pupils). The original composite indicator had a baseline of 0 and
+a target of 50 percent. After the split, the baselines were updated to 18 percent (for RI 4.1) and 60 percent
+(for RI 4.2), the latter triggering an increase in the target for RI 4.2 from 50 percent to 80
+percent. Rating: Moderately Satisfactory
+
+Objective 2: Improving availability and predictability of financial resources in the social sectors
+
+Pillar 2: More transparent and predictable investments in human capital
+
+RI 5.1, as originally stated (total minimum amount disbursed annually to the Social Investment Fund for
+Development (FID) budget line for priority SSNs and MPSPPF budget line for social protection policy
+management, monitoring and evaluation from domestic public financing), was relevant for measuring the
+impact of PA5 (allocation of domestic resources for social safety nets program) toward achievement of
+PDO2. For proper measurement it was split into two sub-indicators: RI 5.1a (total minimum amount
+disbursed to the Social Investment Fund for Development (FID) budget line for priority social safety nets
+from domestic public financing) and RI 5.1b (total minimum amount disbursed to the Ministry of
+Population, Social Protection and Promotion of Women [MPSPPF] budget line for social protection policy
+management M&E from domestic public financing). Baselines and targets were set for each sub-
+indicator. RI 5.2 (number of households covered by the priority SSNs from domestic public financing) was
+relevant for measuring the impact of PA5, specific, and measurable. Rating: Satisfactory
+
+While an adequate measure of the impact of PA6 on PDO2/Pillar 2, RI 6 (percent of budget law
+allocations to CSB disbursed by communes for health facilities) could not be measured because there
+was no monitoring system in place to track disbursements from communes to CSBs. An alternative
+indicator was identified and used for the ICR (percent of budget law allocations to CSBs mandated by the
+MoH and transferred to the communes). This did serve as a somewhat adequate measure of PA6’s
+contribution to the achievement of PDO2, providing information on availability of these resources at the
+commune level, but it fell short of confirming their availability to frontline services. Baseline and targets
+did not change. Rating: Moderately Satisfactory
+
+As noted in the ICR (para. 39), RI 7 (percent of budget expenditures made in the social sectors according
+to their programmatic classification) did not adequately capture the aim of PA7. While reforms under PA7
+aimed to ensure better access to budget and expenditure data, RI 7 instead monitored expenditures in the
+social sectors, with a view to having the share of expenditures in these sectors increase. Moreover, there
+was no published data on budget expenditures to assess achievement of the targets for RI 7. As data on
+budget commitment was available, an alternative indicator was selected to reflect commitment versus
+
+
+                                                                                                    Page 14 of 28
+                   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                   Human Capital DPO (P168697)
+
+
+
+               payment and also include more specificity (percent of budget executed in the social sectors [health, social
+               protection, and education] according to programmatic classification [Budget executed for MinSAN, MEN,
+               MPPSPF, MESUPRES, METP/Total budget executed]). The baseline was updated, but the 35 percent
+               target remained the same. Even the revised RI 7 was not an adequate measure of PA7, since it, too,
+               monitored social sector expenditure rather than improved access to budget and expenditure data
+               (improved transparency). Rating: Moderately Unsatisfactory
+
+               RI 8, as originally articulated (reduction of the amount of tax exemptions as a proportion of overall fiscal
+               revenues), was not clearly defined and did not have a data source. Its reformulation, to track an increase
+               in the amount of tax exemptions as a proportion of overall fiscal revenues, provided an adequate and
+               specific measure of progress toward the achievement of PDO2. However, as noted in Section 3.b of this
+               ICRR (Relevance of Prior Actions) and in the ICR (para. 36), PA8 (establishment by MEF of a framework
+               for evaluation of efficacy of tax and customs exemptions) may not necessarily contribute to
+               PDO2 achievement, if any increases in revenues achieved are not used to increase the availability of
+               financial resources for the social sectors. RI 8 is therefore not an adequate measure of PA8's contribution
+               toward achievement of PDO2. Rating: Moderately Unsatisfactory
+
+               Objective 3: Improving legal protections for women and children
+
+               Pillar 3: Stronger legal frameworks for the protection of women and children
+
+               RI 9 (number of communities [fokontany] that signed the pledge to combat child marriage) did not provide
+               a full measure of the aim of reforms under PA9 (to strengthen the legal framework to better protect
+               children and advance gender equality through enactment of the Gender-Based Violence Law). It did not
+               track the passage of the GBV Law. However, it did reflect GoM actions to strengthen the legal framework
+               for child protection: the carrying out of sensitization campaigns and advocacy to encourage communities
+               to sign a pledge to combat child marriage. These activities were expected to facilitate the implementation
+               of a related trigger for DPO2: adoption of the National Policy and Gender Equality and Child
+               Protection. While RI 9 provided a good measure of GoM activities to combat child marriage, which were
+               expected to contribute to PDO3, it was insufficient for tracking the contribution of the PA (adoption of the
+               GBV Law) to PDO3 (frameworks and actions to facilitate the implementation of the Law and how it
+               strengthens protection of women and girls). An additional indicator would have enhanced relevance of
+               measures assessing the contribution of PA9 to PDO3. Rating: Moderately Satisfactory
+
+
+
+   Rating
+
+   Moderately Satisfactory
+
+   5. Achievement of Objectives (Efficacy)
+EFFICACY_TBL
+
+
+
+
+                OBJECTIVE 1
+                Objective
+                Support the Government of Madagascar's investment in human capital through improving human resources
+                in health and education
+                Pillar 1: Better qualified, distributed, performing human resources in education and health sectors
+
+                                                                                                                  Page 15 of 28
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Human Capital DPO (P168697)
+
+
+
+
+Rationale
+Three of the four RI targets had Negligible achievement (achieving less than 25 percent of the target), while
+the fourth split indicator had Negligible achievement of the first sub-target and Modest achievement of the
+second sub-target.
+
+Since data was not available for the original RI 1 (proportion of teachers registered in AUGURE classified as
+per positions laid out in Teacher Performance Standards), an alternative RI 1 was used. From a baseline of
+21 percent, by the end of 2021, 24 percent of the teachers registered in the MEN information system were
+qualified as per approved Teacher Performance Standards, falling short of the target of 35 percent (21
+percent achieved). New teacher standards require a two-year training sanctioned by a certificate for the
+qualification of teachers. MEN was unable to roll out the mass training of community teachers due to the
+impacts of COVID (restrictions on activities and its effects on the economy) and also to the insufficient
+number of mentors/coaches available. Mass training was thus replaced with small-batch training of teachers
+provided by 28 regional training centers, prioritizing teachers with a Certificate of Aptitude for Teaching or a
+Certificate of Professional Aptitude. This two-year training program is also available to in-service teachers
+through an online platform, Distance Training for Primary Teachers, financed under the Bank-financed
+Education Support Project (P160442).
+
+RI 2, the recruitment of 10,000 new civil servants (teachers) from among community-contracted teachers
+according to new recruitment procedures, established under PA 2/issuance of contracts, was not
+achieved. The expansion of the minimum quality control filter, which included a content-knowledge test for
+the recruitment of new community teachers, was not implemented. In the context of the economic impact of
+COVID-19 and a cabinet reshuffle, the focus shifted to enhancing the management of existing teachers
+(equitable deployment, capacity building, and motivating existing teachers through a test to enter civil
+service). Merit-based recruitment of primary school teachers remains a priority for GoM. A law was
+promulgated in December 2022 to establish recruitment of teachers through a national examination. In 2021,
+MEN initiated recruitment of 1,075 qualified teachers through direct competition. However, by end-2021, GoM
+had not recruited any new teachers according to the new recruitment procedures.
+
+PA 3 established an Inspection and Quality Control Commission on Health Training, with a mandate to
+accredit and audit private health training institutes to ensure better-quality pre-service training for all health
+professionals. However, RI 3 (at least 80 percent of paramedical graduates from private institutions passing
+the public service entrance exam) was not achieved, as no public service entrance exams for paramedical
+graduates had been conducted. COVID-19 restrictions and financial constraints delayed audits by an
+independent firm. While inspection visits have been conducted since 2021, private institutes were asked to
+contribute to operational costs due to budget constraints, which may have compromised the independence of
+inspections. MoH has not organized any public service entrance examination since 2018, as the number of
+budgeted positions was deemed to be insufficient to justify holding a national examination. Nevertheless,
+MoH has been conducting competitive recruitment of the health workforce based on application file selection
+from the pool of graduates from qualified private training institutions. Moreover, the task team noted, in its
+December 5, 2023 email to IEG, that there was also a backlog of contractual staff hired by projects, who were
+promised to be recruited into the public service after two years of contractual service.
+
+PA 4 mandated the exclusive use of AUGURE by all government ministries to allow systematic counting and
+rational distribution of human resources, particularly in the education and health sectors. All government
+ministries adopted AUGURE to register their workforce, but data inconsistencies on the number of state
+employees remained across the various databases of line ministries and ministries responsible for finance
+and public service. The original version of AUGURE was limited to district-level aggregation and needs to be
+
+                                                                                                   Page 16 of 28
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   Human Capital DPO (P168697)
+
+
+
+disaggregated to the service delivery level, including schools and primary health care centers. AUGURE was
+not fully functional at the closing of the program, and MoH and MEN data systems therefore provided the data
+source for the ICR. The task team, in its December 5, 2023 email to IEG, noted that the reform and
+upgrading of AUGURE as a unique platform for HR management for all ministries was to start with the
+education and health sectors as they represent a large share of the public workforce. A unique HRM platform
+was considered critical for increasing transparency and improving management. A census of education and
+health sector personnel was thus planned for 2020 to collect and certify individual data, but was ultimately
+delayed due to COVID-19. It is currently ongoing. RI 4.1 was negligibly achieved: from a 2019 baseline of 18
+percent, 24 percent of CSBs met health sector staffing standards, falling short of the target of 50 percent
+(19 percent achieved). RI 4.2 was modestly achieved: from a 2018-2019 baseline of 60 percent, 73 percent
+of schools met education staffing standards, falling short of the target of 80 percent (65 percent
+achieved).
+
+
+
+Rating
+
+Unsatisfactory
+
+OBJECTIVE 2
+Objective
+Support Government of Madagascar's investment in human capital through improving availability and
+predictability of financial resources in the social sectors
+Pillar 2: More transparent and predictable investments in human capital
+
+Rationale
+The reforms under PA5 supported the expansion of coverage of the three priority SSN programs in
+Madagascar through the mobilization of domestic resources. Specifically, GoM committed to: allocate MGA 6
+billion to FID in its 2020 budget line and MGA 18 billion (US$5 million equivalent) for each 2021, 2022, and
+2023 to cover an additional 30,000 households with support from three priority SSN programs; and allocate
+MGA 12 billion (US$2.56 million equivalent) for MPSPPF in 2021, maintaining the 2019 baseline of US$2.56
+million, for social protection policy management, monitoring and evaluation. RI 5.1a was fully
+achieved. From a 2019 baseline of 0, MGA 6 billion was disbursed to FID in 2020 for the three priority SSN
+programs, and MGA 18 billion (US$5 million) was disbursed in 2021 (100 percent achieved). RI 5.1b was
+also fully achieved: MPSPPF’s allocated budget of US$2.56 million was fully disbursed in 2021, maintaining
+the 2019 baseline amount of US$2.56 million (100 percent achieved). RI 5.2 was highly achieved, with
+SSN coverage of an additional 48,073 households, surpassing the target of 30,000 additional households
+(160 percent achieved). This financing was all the more critical and beneficial for the population in the wake
+of the COVID-19 pandemic and its economic impact on poor and vulnerable households. Overall,
+achievement, as measured by RI 5, is high (with all sub-targets being fully met or exceeded). Note: exchange
+rates and US$ equivalents reflect those reported in the ICR.
+
+PA 6 adopted regulations enabling the creation of sub-accounts at the commune level to provide direct and
+regular financing to CSBs for frontline health services, which would be executed by co-decision by the
+communes and heads of CSBs. This reform aimed to ensure more regular availability of financing for basic
+operating costs of CSBs and autonomy of decision for their use. RI 6, as originally formulated (percent of
+budget law allocations to CSBs disbursed by communes for health facilities), was revised (percent of budget
+law allocations to CSBs mandated by MoH and transferred to communes) because the original RI could not
+
+                                                                                               Page 17 of 28
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Human Capital DPO (P168697)
+
+
+
+be measured in the absence of a monitoring system tracking disbursements from communes to CSBs. Both
+the original and revised formulations set a target of 85 percent. A procedures manual for the management of
+these funds set two conditions to be met prior to transfer of funds to CSBs: (i) integration of CSB work plans
+into the communes' program budgets, validated by local authorities; and (ii) opening of CSB subaccounts. In
+March 2021, during the Bank’s preparation mission for the Human Capital DPO Phase 2 (P171460), it was
+estimated that 60 percent of these funds were disbursed to the CSBs, substantially achieving the original RI
+6 target of 85 percent (71 percent achieved). Moreover, the budget allocation to CSBs increased threefold
+between 2020 and 2022 (from MGA 6.4 billion to MGA 19.4 billion), boosting the levels of actual
+disbursements to CSBs. A MoH report showed that in 2021 99.5 percent of the budget law allocations were
+mandated by MoH and transferred from MoH to the communes, exceeding the revised RI 6 target 85
+percent (117 percent achieved). The ICR (para 53) notes that strong financial flow to CSBs is one of the
+legacies of this DPO, particularly critical during the COVID-19 pandemic to ensure continuity of services. In a
+follow-up email to IEG, dated February 5, 2024, the Region noted that “Most recently, the Ministry of Finance
+recommended that the CSB subaccounts (established through the DPO) be used as the mechanism to
+channel allowances to doctors, as it is their most efficient financing vehicle in health.” Overall, achievement
+as measured by RI 6 is high, given the high achievement of the revised RI 6 target, the tripling of the budget
+allocation to CSBs between 2020 and 2022, and the recognition by MoF of the utility of CSB subaccounts as
+an efficient financing vehicle for the sector.
+
+PA 7 established rules and principles to allow the public to access and use data related to government
+budgets and expenditures through the Treasury’s Open Data Portal. Reform elements included (i) the
+adoption of a standardized format for monthly disclosure of budget execution dashboards to administrative
+and financial directors in line ministries; and (ii) the publication of budget execution reports, accompanied by
+access to the budget execution dashboard for just-in-time analysis by the line ministries. After significant
+delays, MEF released on its portal the first public dashboards with public spending data for 2019 and 2020 at
+ministry and program levels. The ICR (para. 55) states that, “While this was a significant step forward in terms
+of transparency, important gaps remained in terms of data coverage and accessibility…” (Treasury payment-
+based data inaccessible to the public or to sector ministries, and persistent delays in the production and
+publication of quarterly budget execution reports). Revised RI 7 (percent of budget executed in the social
+sectors according to programmatic classification – budget executed by social sector ministries as a share of
+total budget executed) was negligibly achieved. The 19 percent share at the end of the program fell far
+short of the 35 percent target, and even reveals a decline from the 2019 baseline level of 24
+percent. Overall, achievement, as assessed by the release of the first public dashboards with public spending
+data for 2019 and 2020 but with significant gaps remaining, is modest. The negligible achievement of revised
+RI 7 is discounted since it is not an adequate measure of PA 7.
+
+The key reform under PA 8 was the establishment of the framework for periodic evaluation of the efficacy of
+tax and customs exemptions and other preferential tax regimes with a view to reducing them. RI 8 (reduction
+in tax exemptions as a proportion of overall fiscal revenues) was negligibly achieved. From a 2018 baseline
+of 23 percent, tax exemptions as a share of overall fiscal revenues actually increased to 27.5 percent, far
+from achieving the target of 15 percent. MEF’s tax expenditure assessment report was published in the annex
+of the budget law for 2021. Measures were taken to reduce fiscal advantages, including for free zones and for
+insurance. However, the poor economic environment induced by the COVID-19 pandemic did not allow MEF
+to reduce the tax exemptions because most of them were social measures. Tax revenues fell, while spending
+increased significantly in the face of the COVID crisis. As a result, the budget deficit deteriorated from 1.4
+percent in 2019 to 6.3 percent in 2020.
+
+
+
+                                                                                                 Page 18 of 28
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   Human Capital DPO (P168697)
+
+
+
+Overall, the achievement of Objective 2 is assessed as Moderately Satisfactory, based on the high
+achievements of RI 5 and RI 6, and the negligible achievement of RI 7. The negligible achievement of RI 7
+and the negligible achievement of RI 8 are given less weight than the other two RI ratings because RI 7 and
+RI 8 were not adequate measures of Objective 2 achievement. Moreover, beyond providing significant and
+much needed increases in the allocations of GoM budgets to frontline health services, the transfer of CSB
+allocations to communes under RI 6, based on a procedures manual for the management of these funds at
+the commune level and supporting local-level decision-making, represented a notable improvement in
+transparency.
+
+
+
+Rating
+
+Moderately Satisfactory
+
+OBJECTIVE 3
+Objective
+Support the Government of Madagascar's investment in human capital through improving legal protections for
+women and children
+Pillar 3: Stronger legal frameworks for the protection of women and children
+
+Rationale
+The main reforms under PA9 were the enactment of a national law on GBV and the development of an
+operational manual for the implementation of coordinated community outreach campaigns, including a model
+pledge to be signed by communities to combat child marriage. The GBV Law was enacted in 2020, followed
+by steps to ensure its implementation: an application decree that defines measures for the prevention and
+management of GBV cases; text and institutions established with Ministry of Justice for the penal chain; a
+Standards Operating Procedures manual; creation of six integrated GBV centers; and a national GBV
+platform to coordinate actors. Human resources strengthening is still needed on these fronts. Given the high
+rate of child marriage (40 percent of girls marrying before the reaching the age of 18 years), the GBV Law
+does provide some protection to girls who are married and also includes some language protecting children
+against exploitation and harmful traditional practices. The DPO also envisaged additional activities to end
+child marriages. Community outreach campaigns conducted across the country, especially in the Southern
+region, sought to obtain community pledges to end child marriages (including a pledge to keep girls in
+school). These efforts culminated in the high achievement of RI 9: a total of 1,592 communities signed the
+pledge to combat child marriage, surpassing the target of over 1,000. These activities were intended to
+build national consensus that would facilitate the adoption of the National Policy on Gender and Equality and
+Child Protection, which was an indicative trigger for DPO2 before it was dropped. In its December 5, 2023
+email to IEG, the task team noted that MPPSP developed a National Policy on Gender and Equality in 2021,
+even though DPO2 was dropped.
+
+
+
+Rating
+
+Highly Satisfactory
+
+
+
+                                                                                               Page 19 of 28
+                      Independent Evaluation Group (IEG)                   Implementation Completion Report (ICR) Review
+                      Human Capital DPO (P168697)
+
+
+
+OVERALL EFF TBL OLD
+
+
+
+
+Overall Achievement of Objectives (Efficacy)
+Rationale
+
+Achievement of Objective 1 is rated as Unsatisfactory. Of the four RIs tracked under this objective, three were
+negligibly achieved. The fourth RI was modestly achieved. Achievement of Objective 2 is rated
+as Moderately Satisfactory. Of the four RIs tracked under this objective, two (RI 5 and RI 6) were highly
+achieved, one (RI 7) was negligibly achieved, and one (RI 8) was negligibly achieved. RI 5 and RI 6 were
+weighted more heavily as they not only provided significantly increased and much needed resources to frontline
+social services, they also improved the transparency of social services budgets and their management. And they
+were appropriate measures of Objective 2 efficacy. Achievement of Objective 3 is rated as Highly
+Satisfactory, with the single RI rated as highly achieved. While this RI did not capture all of PA9’s contribution to
+Objective 3, the ICR provides additional strong documentation of the high achievement of this objective.
+
+
+
+Overall Efficacy Rating
+Moderately Satisfactory
+
+
+      6. Outcome
+
+      Rationale
+
+      Relevance of PAs was Satisfactory, and Efficacy was Moderately Satisfactory. The Outcome rating for the
+      operation is, therefore, Moderately Satisfactory.
+
+
+      a. Rating
+
+      Moderately Satisfactory
+
+      7. Risk to Development Outcome
+
+      GoM commitment is critical for sustaining the DPO outcomes. Under PA5, a budget line was
+      established under MEF and funds were disbursed to FID in 2020 and 2021 for the three priority SSN
+      programs, resulting in the expansion of coverage of these programs by over 40,000 households. The impact
+      of COVID-19 would have been worse, especially on vulnerable families, in the absence of this
+      financing. Given that this financing is domestic, GoM will need to continue financing FID and MPSPPF to
+      sustain these gains.
+
+      Likewise, adequate GoM funding is also critical to sustain the gains achieved under PAs1-4 to
+      improve qualifications, distribution, and performance of human resources in education and
+      health. The national teaching career and teacher skills requirements are being used for recruitment and to
+      classify positions of teachers in AUGURE. The costs of this ongoing work and of the work of the Inspection
+      and Control Commission for Health Training Institutes, responsible for accreditation and auditing of private
+
+
+                                                                                                         Page 20 of 28
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      Human Capital DPO (P168697)
+
+
+
+health training institutes to ensure better quality pre-service training for all health professionals, need to be
+covered to continue and sustain these reforms.
+
+While the mandatory use of AUGURE by all government ministries is one of the
+reported achievements of the reforms under the DPO, the success and sustainability of this reform
+depends on continued upgrading of this system to ensure that it meets the needs of users and fulfills
+its function to rationalize human resources distribution. Significant improvements in the system’s
+functions and capabilities are urgently needed if it is to become a comprehensive system for HRM. Current
+limitations have already forced ministries to run parallel systems. An ongoing census of health personnel,
+supported by other Bank-financed projects, should contribute to such improvements. To strengthen and
+sustain outcomes, GoM needs to: (i) accelerate the rollout of the updated version of AUGURE to address
+new functional and technical specifications, defined in consultation with sectoral ministries, and (ii) allocate
+resources for its continuous upgrading to ensure that it meets the needs of users and eliminates the need for
+alternative platforms for HRM.
+
+
+8. Assessment of Bank Performance
+
+a. Bank Performance – Design
+
+Rationale
+
+
+This operation was informed by numerous lessons from past DPOs in Madagascar, which have
+supported improvements in fiscal management, allocative efficiency, fiscal space, and
+decentralization. Lessons learned and incorporated into this DPO include the following.
+
+      The political economy environment presents risks. This operation thus worked with high-level
+       stakeholders across the government to help build cohesion to implement reforms. This reform
+       program was built around a multi-agent leadership approach, working closely with policy influencers
+       in and outside of the government across education, health, decentralization, social protection, child
+       protection, and women’s empowerment.
+      Criticality and selectivity should drive policy reforms supported. Given the limited institutional
+       capacity for carrying out reforms, priorities needed to be focused. This program’s relatively narrow
+       scope enabled greater depth on a few instrumental areas surrounding improving teachers, health
+       professionals, spending, transparency, and protection of women and children.
+      The policy agenda should be integrated with the investment program, as well as
+       with analytical/advisory work. This operation was highly complementary to ongoing investment
+       operations supporting decentralization, improved nutrition services, enhanced education, and
+       strengthened SSNs (itemized in Table 5 of the Program Document). This has enhanced the
+       understanding of development constraints and built up the relationships with government
+       counterparts. Specifically, the program built on a robust analytical program that precisely estimated
+       the impact of, for example, SSNs and nutrition services on human capital accumulation.
+      There is strong client demand for partners to work together to support a common set of
+       reforms. This approach increased the overall impact of the reform. This operation dovetailed with
+       European Union (EU) support to Madagascar, harmonizing areas of support and ensuring
+       coherence at each stage. This includes the EU’s establishment of a complementary budget support
+
+                                                                                                        Page 21 of 28
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Human Capital DPO (P168697)
+
+
+
+       project for 2020 and 2021 for EUR 20 million (EUR 10 million each year), which was designed to
+       disburse against an aligned results framework.
+
+The design of the DPO was underpinned by strong analytical work behind the PAs, much of which
+stemmed from analytics and activities around existing WBG investment operations in the health, education,
+and social protection sectors, as well as technical work undertaken by other partners. The Basic Education
+Project financed technical assistance that accompanied the policy reforms supported through this
+operation. The SSN priority programs featured in the National Strategy on Social Protection have been
+financially supported by the World Bank and benefited from extensive technical assistance. The health
+financing and human resources actions were informed by investment experiences financed by the EU, the
+French Agency for Development (AFD), and others. Table 4 of the Program Document (p.
+35) systematically itemizes the analytical underpinnings for each of the nine policy areas supported by a
+prior action. Each one is substantiated with findings from multiple sources, which are cited.
+
+Overall, the DPO had a reasonably clear results chain, but the choice of some PAs and the
+monitoring and evaluation framework could have been stronger. Two PAs (PA4 and PA8) were
+somewhat weak elements in the results framework, as these actions did not provide unequivocally strong
+links to the intended outcomes (see Section 3). The definitions and sources of some RIs were not clear in
+their original formulations (e.g., RIs on tax exemption and budget transparency). The monitoring of RIs
+relied heavily on administrative data from line ministries (HRM platform, AUGURE, to monitor HR staffing
+allocation and distribution; data from the FM information system; data from the health and education
+information systems). It was hard to obtain data on some of the RIs due to the lack of monitoring
+systems. Other challenges included low institutional capacity and inaccuracy of data. Some RIs could have
+been better framed to link them more closely to the PAs, although most of them did, especially as
+amended, measure progress towards the PDOs.
+
+The Bank accurately assessed the overall risk of the operation to be substantial. The main areas of
+concern that could have jeopardized the achievement of the PDO were political and governance risks,
+technical design and stakeholder risks, fiduciary and safeguards weaknesses, and GoM’s institutional
+capacity to implement the reforms fully. For these main risks identified at appraisal, sufficient mitigation
+measures were proposed including: (i) a close policy dialogue with GoM and the identification of
+government champions to maintain political consensus around the reform agenda, including through
+sector-specific communication strategies; (ii) extensive consultations with experts, policy influencers, and
+key stakeholders across sectors, including civil society, to ensure reform coalitions are strengthened and
+maintained; (iii) implementation support through provision of technical assistance, embracing an approach
+of gradual scale-up, and the availability of straightforward operational manuals; (iv) drawing on a poverty
+and social analysis, ensuring that equity considerations were given due consideration behind transparent
+procedures for recruiting health and education human resources; and (v) continued dialogue on
+implementation of the GBV Law, including community outreach and involvement of relevant stakeholders
+and partners working on justice system reforms. The Program Document (paras. 118 – 127) provides more
+detail on the thorough assessment of a broad range of risks and the identification of appropriate risk
+mitigation measures for each identified risk.
+
+The DPO operation was developed around a solid dialogue that brought together key internal and
+external stakeholders across sectors. Task forces coordinated by GoM were put in place, and
+consultations with Malagasy associations, non-governmental organizations, teachers’ unions, and other
+civil society representatives helped inform the policy directions. The Bank project team also coordinated
+well with development partners involved in the task force and with the EU. The two institutions (Bank and
+
+                                                                                                   Page 22 of 28
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      Human Capital DPO (P168697)
+
+
+
+EU) worked closely to harmonize areas of support and ensure coherence at each stage, particularly on
+PAs related to human resources, public financial management, and budget execution reforms. This
+collaborative effort led to the development of a unified policy matrix for the two institutions’ respective
+budget support operations. The agreement was that IDA would support the PAs under this DPO, and the
+EU’s budget support operation would support the associated RIs.
+
+
+
+Rating
+
+Moderately Satisfactory
+
+b. Bank Performance – Implementation
+
+Rationale
+
+Progress on PAs for DPO1 was monitored during the preparation of the planned DPO2 and through
+supervision of other projects by sector specialists. No implementation status and results (ISR) report was
+required since the approval of the second phase of the planned programmatic series was scheduled within 12
+months after the approval of DPO1. Indeed, the first mission for the preparation of DPO2 was in October 2020,
+during which progress on DPO1 was discussed, as evidenced by the post-mission aide-memoires written by the
+task team. Since the operation was approved almost at the same time the country went into a COVID-19
+lockdown, all missions and supervision were conducted virtually, which added significant challenges for the
+Bank team. Still, whenever possible, supervision was conducted by sector specialists through their existing
+projects. Indeed, since the DPO was complemented by IPFs, supervision for those IPFs provided opportunities
+to monitor the progress of policy reforms. Overall, the Bank team was effective in supervising this DPO.
+
+The Bank was proactive in working around the constraints and impacts of COVID-19. Right after the
+DPO was approved in March 2020, the pandemic lockdowns (in March and July 2020) curtailed business as
+usual, and its impacts on the economy and household poverty caused GoM to shift its attention to these
+urgencies. Nevertheless, the Bank continued its support and dialogue through virtual supervisions and
+meetings. Indeed, as noted in the following Section 9 (“Other Impacts”), the DPO proved to be an effective
+contribution to GoM’s COVID response.
+
+The risk mitigation measures identified during preparation were carried out and were effective in: further
+building ownership and understanding of reforms; supplementing and strengthening capacities; and mobilizing
+and coordinating collaboration across sectors, stakeholders, and development partners.
+
+
+
+Rating
+
+Satisfactory
+
+c. Overall Bank Performance
+
+Rationale
+
+                                                                                                    Page 23 of 28
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Human Capital DPO (P168697)
+
+
+
+
+The Bank's performance during project preparation was satisfactory, except for one shortcoming. While, for
+the most part, the results framework was supportive of the three PDOs and the RIs (as amended) provided
+reasonable measures of PDO achievement, two PAs (PA4 and PA8) were not optimal in establishing strong
+links with the PDOs they supported. M&E design included some indicators that, initially and in some cases at
+closure, were not well defined, not sufficiently specific, not measurable because of lack of available quality
+data, and/or not the best measures of the corresponding PAs' contributions to the PDO. The Bank team did
+manage to correct some of these shortcomings (using different data sources, clarifying/modifying the
+indicators) to provide sufficient evidence of efficacy.
+
+
+Overall Bank Performance Rating
+
+Moderately Satisfactory
+
+9. Other Impacts
+
+a. Social and Poverty
+
+The DPO contributed considerably to mitigating the economic impact of COVID-19 on the poor. COVID
+triggered a recession that was about three times more severe than in the rest of Sub-Saharan Africa. As a
+result, 1.5 million people fell below the international poverty line of US$2.15/day (using 2017 PPP) between
+2020 and 2021, bringing the poverty rate to an all-time high of 81 percent in 2021. Without the support of this
+DPO and other interventions, the situation could have been much worse. PA5 supported the mobilization of
+US$5 million in domestic resources to complement donor funding for SSN programs and the development of a
+manual that defined vulnerable populations to be targeted and targeting mechanisms. With this support, over
+40,000 additional poor and vulnerable households were covered by the SSNs from domestic public financing.
+
+The DPO helped strengthen GBV prevention and response. GBV increased with the COVID-19 lockdown
+measures, as women could not escape abusive partners. Moreover, the rise in poverty among women and girls
+made them more economically dependent on abusive partners. In July 2020, about half of female respondents
+to a survey on COVID-19 and GBV reported that they had experienced GBV during the lockdown, up from a pre-
+pandemic level of 30 percent. The enactment of the 2020 GBV Law introduced mandatory reporting, ended
+impunity, and provided minimum services for GBV victims at the community level. Increased awareness of GBV
+has resulted in an increased number of cases reported and brought to justice. In 2021, the first year after the law
+was introduced, 289 GBV cases were reported through these new structures. In 2022, 37,289 cases were
+reported.
+
+
+
+b. Environmental
+
+The climate and disaster risk of the operation was considered moderate at appraisal due to strong risk
+management capacity demonstrated in previous operations. DPO-supported policy actions and reforms were
+associated with positive environmental impacts. First, PAs1-4 contributed to strengthening the role of health and
+education service providers in adaptation to such risks. For example, MENETP has advanced several climate
+change initiatives, including the piloting of disaster risk management clubs in schools. Second, PA5 contributed to
+
+
+                                                                                                    Page 24 of 28
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      Human Capital DPO (P168697)
+
+
+
+increasing the efficiency and flow of resources to SSNs for victims of climate-related disasters. For instance, two of
+the SSNs (TMDH and ACTP) use geographic targeting to select the most vulnerable communities, also often the
+most at risk for climate-related events. Third, by strengthening the policy and legal foundation, PA9 has ensured
+that women and children can participate in and benefit from adaptation efforts. For instance, the well-documented
+substantial economic costs of GBV contribute to the acute disadvantages that women face in adapting to climate
+change impacts.
+
+
+
+c. Gender
+
+The reforms supported by this DPO created a positive institutional impact. The 2020 GBV Law, the National
+Strategy on Child Marriage, and the policies on Gender Equality and Child Protection (PA9) led to the creation of
+structures for GBV prevention and response, including a new police division in charge of GBV crimes and six
+centers for integrated GBV case management. A GBV platform is responsible for: coordinating efforts and
+investments by different ministries and partners, establishing clear lines of responsibility and minimizing
+duplication. A strengthened information system has facilitated MPPSPF access to timely data on GBV. PA5
+supported the mobilization of domestic financing for priority SSN programs, through establishment of a budget line
+for FID and disbursement of domestic funds to finance priority SSN programs, as well as the preparation of a
+manual for the coordination and use of all funds allocated to SSN activities. This has increased the amount of
+financing streamlined through budget lines for priority SSNs and efficiency in reaching coverage, reducing
+administrative costs, and benefiting from economies of scale, as households were incorporated into a single
+registry of beneficiaries.
+
+
+
+d. Other
+
+(none)
+
+
+
+
+10. Quality of ICR
+
+Rationale
+
+Quality of evidence. The ICR drew on the evidence available on the various indicators, provided through the
+data sources reporting on these indicators. It was candid in assessing the quality of the data provided and it
+also used adjusted indicators and sources to compensate for the lack of measurability, lack of clarity, and/or
+lack of data on some of the original indicators. These caveats and adjustments provided sufficient evidence to
+assess efficacy.
+
+Quality of analysis. The ICR was systematic in reviewing/interpreting evidence to assess efficacy. It reviewed
+findings and data, assessing them in light of the results frameworks for each of the three objectives, highlighting
+RIs that were not good measures of the PAs’ contributions to achievement of objectives, and drawing on other
+evidence and information to link evidence to interventions and outcomes. In its December 5, 2023 email to
+IEG, the task team noted that DPO2 was dropped because of: (i) delays in the reforms; (ii) the challenges of a
+
+                                                                                                     Page 25 of 28
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Human Capital DPO (P168697)
+
+
+
+virtual preparation of the DPO (with missions still virtual in December 2021); and (iii) the failure to meet the
+deadline for finalizing the second phase (end-March 2022 Board Presentation). It would have added to the
+richness of the analysis had the ICR addressed the repercussions of the decision to drop DPO2.
+
+Quality of lessons. The ICR provided salient, practical lessons drawn directly from the experience of this DPO
+that would be extremely useful to Bank teams and countries attempting to design and implement a human
+capital development DPO in an FCV context. The detail underlying these lessons was concrete and specific,
+providing important insight into these lessons.
+
+Outcome orientation. The ICR was clear in analyzing reasons underlying the poor outcomes under Objective
+1 and provided insights and lessons to improve impact in future operations.
+
+Consistency with guidelines and conciseness. The ICR was consistent with guidelines and concisely
+written.
+
+
+
+a. Rating
+
+Substantial
+
+11. Ratings
+                                                                                   Reason for
+ Ratings                          ICR                    IEG
+                                                                                   Disagreement/Comments
+                                  Moderately
+ Outcome                                                Moderately Satisfactory
+                                  Satisfactory
+                                                                                   Bank performance during
+                                                                                   preparation was satisfactory,
+                                                                                   except for shortcomings in
+                                                                                   design of the results framework
+                                                                                   and M&E, specifically in the
+ Bank Performance                 Satisfactory          Moderately Satisfactory
+                                                                                   choice of some PAs (PA4 and
+                                                                                   PA8) and in the choice of RIs,
+                                                                                   some of which were not
+                                                                                   sufficiently specific or
+                                                                                   measurable.
+ Relevance of Results
+                                  ---                   Moderately Satisfactory
+ Indicators
+ Quality of ICR                   ---                   Substantial
+
+
+12. Lessons
+
+The following lessons, drawn from the ICR, are slightly reworded by IEG:
+
+A DPO focused on human capital development can be effective in raising the importance of this element
+of development through in-depth policy dialogue and policy analysis, and in addressing key constraints
+
+                                                                                                       Page 26 of 28
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      Human Capital DPO (P168697)
+
+
+
+to human capital development that social sectors cannot effectively address on their own. The reforms
+under this operation placed the importance of human capital at the center of policy dialogue with the new
+government, especially with the MEF. While previous budget support operations worked to improve fiscal space
+management, budget efficiency, and fiscal space expansion, this was the first programmatic and multi-sectoral
+DPO aiming to address systemic bottlenecks related to human capital development. The DPO succeeded in
+bringing together the government and stakeholders around policy challenges of health and learning outcomes to
+mobilize resources for social sectors, complementing IPFs.
+
+Transparent and well-coordinated partnerships between the Bank and other donors, using a unique
+policy matrix, can create synergies and ensure the complementarity of budget support. Under this
+operation, the Bank’s partnership with the EU ensured their effective collaboration, based on a shared vision,
+aligned interests, and a stronger focus on social sector reforms. The two institutions held several joint missions
+and crafted a unified matrix for their respective budget support operations. The DPO also benefited from EU
+technical support on civil service reform, specifically on strengthening AUGURE. The EU also provided
+implementation support for the reform including technical assistance for two regions. This experience has led to
+a continued collaboration between the two institutions, expanded to health financing, public financial
+management, and human resources policy areas.
+
+Strong and effective cross-sectoral collaboration supporting a coherent human capital development
+reform program for sustainable impact depends on the leadership of an experienced and skilled multi-
+sectoral task team. This operation supported nine reforms in health, education, and social protection, as well
+as cross-cutting reforms in governance, public financial management, and gender, which were mutually
+reinforcing and complementary. Finding the balance between sector-specific reforms and cross-sectoral reforms
+was made possible by a multisectoral World Bank Human Development task team with a shared vision to
+improve human capital and the capacity to lead the policy dialogue across sectors. The leadership of a TTL with
+a human development vision is critical for engaging different teams to work towards one human capital
+development program.
+
+The complementarity of a human capital DPO to other Bank operations is crucial for supporting
+advances in human capital development. A strong portfolio of project support to health, nutrition, and social
+protection has supported and accompanied the sectoral reforms under the DPO. Ongoing operations supporting
+decentralization, governance, and service delivery have also created synergies with the DPO reforms of
+revenue mobilization and transparency (in mobilization and management of human and financial
+resources). However, challenges in other areas can negatively affect a DPO. In this case, delays with the
+workforce census under a health project impacted the roll-out of the new version of AUGURE, and delays in
+preparing the Pandemic Preparedness and Basic Services Resilience Project affected the implementation of the
+monitoring system and accompanying measures for the reform on local transfers of CSB allocations.
+
+When choosing indicators and targets for a DPO, careful consideration of their relevance and
+measurability can avoid challenges to the rigorous assessment of efficacy. Difficulties encountered in
+tracking some of the RIs for this DPO were rooted in their inadequate definition and unreliable data sources,
+including the sole reliance on data from ministries that lack capacity to collect and monitor the required data. In
+such a context, a stronger M&E framework could be put in place when preparing and implementing a DPO and,
+as is required for IPF preparation, it would be useful to include an annex with definitions and data sources for
+each indicator.
+
+
+13. Project Performance Assessment Report (PPAR) Recommended?
+
+                                                                                                     Page 27 of 28
+      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+      Human Capital DPO (P168697)
+
+
+
+
+Yes
+ASSESSMENT_TABLE
+Please explain
+This is one of the Bank's first DPOs focused on human capital development, implemented in a very
+challenging context. It was innovative and strategically focused on cross-cutting bottlenecks to human capital
+development that sector-specific IPF operations would not be in a position to address on their own. This
+unique experience should offer insights and lessons as the Bank increasingly focuses on human development
+as a critical and overarching goal. Moreover, it would be interesting to learn lessons behind the decision to
+drop the follow-on DPO2 and to track the quality of the dialogue and further progress on these cross-cutting
+reforms post-DPO1.
+
+
+
+
+                                                                                                  Page 28 of 28
+

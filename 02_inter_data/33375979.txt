@@ -1,0 +1,623 @@
+     Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+     Integrated Fin. Mg't. Infor. System (P117275)
+
+
+
+                                                                                     Report Number: ICRR0022633
+
+1. Project Data
+
+
+
+ Project ID                                    Project Name
+ P117275                                       Integrated Fin. Mg't. Infor. System
+
+ Country                                       Practice Area(Lead)
+ Gambia, The                                   Governance
+
+
+ L/C/TF Number(s)                             Closing Date (Original)                 Total Project Cost (USD)
+ IDA-59040,IDA-H5800,TF-17976,IDA-            31-Dec-2012                                           15,374,202.15
+ H8800
+
+ Bank Approval Date                           Closing Date (Actual)
+ 01-Jun-2010                                  30-Nov-2020
+
+                                              IBRD/IDA (USD)                                       Grants (USD)
+
+ Original Commitment                                  5,250,000.00                                             0.00
+
+ Revised Commitment                                   5,250,000.00                                             0.00
+
+ Actual                                              15,374,202.15                                             0.00
+
+
+
+
+ Prepared by                  Reviewed by                    ICR Review Coordinator          Group
+ Hjalte S. A. Sederlof        Clay Wescott                   Jennifer L. Keller              IEGEC (Unit 1)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objective (PDO) for the Gambia Integrated Financial Management Information
+   System (IFMIS) project as set out on page 4 of the Credit Agreement and page 13 of the PAD was to increase
+   the Government of The Gambia’s capacity in public resource management. The PAD (page 13) elaborates
+   two expected outcomes: increased capacity for budget execution and reporting, and increased capacity for
+   operating and maintaining the IFMIS.
+
+
+                                                                                                      Page 1 of 12
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Integrated Fin. Mg't. Infor. System (P117275)
+
+
+
+   The PDO was subsequently restated as follows: (i) improve public resource management through the
+   expansion of the IFMIS system, and (ii) strengthen capacity of the government to effectively use the system in
+   a sustainable manner (Restructuring Paper, 2019).
+
+   The ICRR will use this formulation to assess project achievement.
+
+   The ICRR will not undertake a split evaluation, as the restated PDO spells out the intentions that underlay the
+   original objective.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project originally had five components:
+
+   Component 1: IFMIS Rollout, Interfaces and System Training (estimated cost at appraisal US$4.0
+   million; actual cost US$9.5 million). The component aimed at increasing government capacity to operate
+   and maintain the IFMIS. It comprised five sub-components: (i) IFMIS hardware; (ii) IFMIS systems and
+   applications software; (iii) consultancy services for IFMIS installation, configuration, and implementation; (iv)
+   IFMIS systems training and certification; and (v) IFMIS skills transfer.
+
+   Component 2: New IFMIS activities (estimated cost at appraisal US$1.0 million; actual cost US$0.02
+   million). The component was to lay the groundwork for the introduction of new IFMIS applications. It
+   consisted of three sub-components: (i) business process review workshops and sensitization materials; (ii)
+   IFMIS concurrent licenses for EPICOR financials and Active Planner (a software application); and (iii)
+   Consultancy services for the validation of human resources and payroll records.
+
+   Component 3: Communications and Change Management (estimated cost at appraisal US$0.1 million;
+   actual cost US$0.04 million). The component was to create greater awareness among government officials
+   and the public at large about the IFMIS. The communications and change management strategy included
+   the production of sensitization materials and their use on targeted audiences in workshops and seminars,
+   as well as the distribution of circulars, posters, newsletters etc.
+
+    Component 4: Accounting and IT Capacity Building for Sustainability (estimated cost at appraisal
+   US$0.3 million; actual cost US$0.42 million). The component was to increase local capacity in IT and
+   accounting services. It had three sub-components: (i) overseas training for government officials in
+   professional accounting and IT courses; (ii) local training in the same subjects; and (iii) professional
+   accounting and IT books and related equipment.
+
+
+
+
+                                                                                                      Page 2 of 12
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    Integrated Fin. Mg't. Infor. System (P117275)
+
+
+
+  Component 5: Project Implementation Support (estimated cost at appraisal US$0.40 million; actual cost
+  US$0.85 million). The component provided financing for expenditures related to the IFMIS project
+  coordination unit (PCU)
+
+  SIGNIFICANT CHANGES DURING IMPLEMENTATION
+
+  The project went through five restructurings including two Additional Financings. While the ICR’s Data
+  Sheet includes a chronological listing of restructurings, the ICR details restructurings by theme, an
+  approach that is also applied here.
+
+  Revised PDO. The PDO was revised as a Level 2 change (it was not submitted to the Executive Directors
+  for approval), introduced to counteract the vagueness of the original formulation.
+
+  Revised outcome indicators. Outcome indicators were revised in four of the restructurings. Revisions were
+  undertaken to make original indicators more measurable; clarify targets or units of measure; or revise
+  targets to better reflects project progress. New indicators were introduced with the two Additional
+  Financings reflecting expanded IFMIS coverage and new project activities. Annex 7 of the ICR provides a
+  list of changes in indicators (which are also discussed in Section 9).
+
+  Revised components. While the five original components were maintained, their scope was adjusted with
+  the introduction of the Additional Financings: Component 1 was expanded from US$4.0 million to US$9.5
+  million; and new modules were added to the original IFMIS (budget, project and contract management,
+  human resources, and payroll), and an overall system/platform upgrading was done.
+
+  New components. Three new components were introduced, one, Component 6, supported statistical
+  capacity building and was introduced under Additional Financing 1; and two - Components 7 and 8,
+  preparation of a national energy emergency study and SOE reform, respectively, were introduced under
+  Additional Financing 2.
+
+  Project implementation period. With the five restructurings, project implementation was extended from two
+  and a half years to ten and a half years, from June 2010 to November 2020.
+
+  Summary. The restructurings not only expanded the IFMIS but also introduced activities that were
+  independent of the IFMIS (Components 7 and 8) and were undertaken in response to emerging government
+  priorities.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project cost. At appraisal, total project cost was estimated at US$5.69 million. Actual project cost at closing
+  was US$15.37 million, including two Additional Financings at US$5.0 million each, and reflecting
+  adjustments to the exchange rate.
+
+  Financing. The project was financed with an initial IDA Credit of US$5.25 million and two Additional IDA
+  Credits of US$5.0 million each, and a Trust Fund grant of US$0.4 million. US$15.4 million were disbursed.
+
+  Dates. The project was approved on June 1, 2010, with an original closing date of December 31,
+  2012. The closing date was extended three times, and the project closed on November 30, 2020.
+
+
+                                                                                                   Page 3 of 12
+                                      Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+                                      Integrated Fin. Mg't. Infor. System (P117275)
+
+
+
+
+   3. Relevance of Objectives
+
+               Rationale
+               The original and revised PDO was aligned with country priorities, the Bank’s Country Engagement Note
+               (CEN) for FY18 to FY21, and a Systematic Country Diagnostic (SCD), published in May 2021. The PDO is
+               included as one of the enabling elements of the government’s own development strategy, and it is
+               consistent with the priorities in the Second Joint IDA-African Development Bank Joint Strategy for The
+               Gambia for FY13 to FY16. The SCD highlights the importance of IFMIS to sound PFM through improved
+               budget preparation and execution, accounting, payroll, reporting, financial controls, and auditing. While the
+               introduction of actions on SOEs and energy, included as new government priorities, aligned with “improving
+               public resource management”, they fall outside the PDO focus on expanding the IFMIS and strengthening
+               government capacity to use the system.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             Improving public resource management by expanding the IFMIS system
+
+                             Rationale
+                             The objective was to be achieved by adding new modules to the IFMIS; and by expanding the IFMIS across
+                             all ministries, departments, and public agencies. Success was to be determined by (i) IFMIS coverage of
+                             central government expenditures; (ii) timely publication of budget execution reports; and (iii) timely availability
+                             of GDP data.
+
+                             (The project also financed elements of public resource management that went beyond the IFMIS: better HR
+                             management, laying the foundations for a stronger energy sector by financing a sectoral roadmap, and
+                             achieving better control of SOEs through special audits as a means of reducing fiscal risk. As these fall
+                             outside the PDO, they are not taken into consideration when assessing project efficacy.)
+
+                             Outcomes
+
+                             As a result of the project, IFMIS now includes all central government expenditures against a target of 90
+                             percent; all budget execution reports are included on the website of the Ministry of Finance in line with the
+
+
+                                                                                                                                  Page 4 of 12
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Integrated Fin. Mg't. Infor. System (P117275)
+
+
+
+target; and the budget execution rate (excluding donor funding) is 91 percent, against a target of 90
+percent. GDP data is made publicly available annually, against a target of quarterly availability.
+
+The ICR (p.7) indicates that because of these measures, the IFMIS has improved efficiency in processing
+payments, in accounting, and in reporting: payment backlogs have been cleared, 2020 accounts are being
+prepared, and 2019 accounts are being audited. Interface with the Central Bank has enabled Electronic
+Funds Transfer, increasing the predictability of cash flows and transactions efficiency as the country moves
+from physical approval of transactions to electronic transfers.
+
+The ICR flags several weaknesses in IFMIS operations: system interface and data migration are still
+incomplete; reporting on public spending remains unreliable as some commitments remain outside the IFMIS,
+for instance subsidized agencies and project coordinating units. System use is also constrained by data
+gaps, insufficient granularity, and occasional misalignment with other government reporting.
+
+ Summary. The roll-out of the IFMIS was achieved, and new modules were introduced that increased its
+efficiency as a means of processing payments, accounting, and reporting. At the same time, the IFMIS
+displays operational deficiencies that are likely to reduce its usefulness if not tackled. The HR improvements
+led to significant savings. Outside the PDO framework, energy and SOE initiatives may reduce fiscal risk and
+improve performance over time, but there are few indications of whether these reforms are achieving, or
+moving towards, intended changes, absent indicative milestones.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 2
+Objective
+Strengthening the capacity of the government to effectively use the IFMIS in a sustainable manner
+
+Rationale
+The objective was to be achieved by building capacity in key organizations that would allow them to apply the
+IFMIS system for better policy making and fiscal management. Success was to be measured by timely
+availability of fiscal data for policy making.
+
+The project built capacity in the Budget Directorate in budget data analysis. This included training to enhance
+the Directorate's capabilities in IFMIS network, database, and support functions; and at establishing a core
+team to oversee the integrated human resources management information system and payroll
+modules. Sensitization and behavior change activities have been undertaken to raise awareness about the
+IFMIS among a broader segment of public officials as well as the public at large.
+
+Staff from The Gambia Bureau of Statistics was trained in the use of IFMIS for collecting, processing, and
+analyzing key data inputs, including the development of a strategic plan to develop a new civil registration and
+vital statistical system. This was accompanied by key statistical inputs, including an economic census and
+business establishment survey, an integrated household survey, and GDP and CPI rebasing.
+
+
+
+                                                                                                  Page 5 of 12
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                Integrated Fin. Mg't. Infor. System (P117275)
+
+
+
+                            Despite the capacity building initiatives, the ICR cautions that the effective use of the IFMIS cannot be
+                            established based on project results. Gaps in recording of expenditures remain, as do concerns about
+                            economic classification, both which may be indications of deficiencies in staff training. Consequently, regular
+                            issuance of GDP data (which was intended as a proxy measure of improved statistical capacity and systems)
+                            had not been achieved by project closing. Other measures also remain uncertain, such as changes in arrears
+                            to government suppliers, and government contracts managed through the IFMIS, and hence they had been
+                            dropped as indicators. On the positive side, the IMF in its Extended Credit Facility report indicates that
+                            expenditure control and treasury cash management have recently improved, and major expenditure overruns
+                            and accumulation of arrears have been avoided. But it also signals an urgent need to improve the quality of
+                            fiscal data. Using the IFMIS to report on state budget funding by civil society, albeit of uncertain quality, has
+                            increased transparency and accountability of government (ICR, p. 10).
+
+                            The ICR does note, correctly, that it is difficult to substantiate sustainability of system use. There remain
+                            gaps in its use; system modules, interfaces and data migration are incomplete; and data lacks
+                            robustness. All these concerns will take time to address and are a function of how IFMIS quality improves.
+
+
+
+                            Rating
+                            Negligible
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            Of the two objectives, the first one was partly achieved and the second one barely so, based on available
+                            information. The first objective – improving public resource management by expanding the IFMIS system
+                            strengthened processing and reporting of information in the system, but several weaknesses remained that
+                            influenced the quality of information flows. They remain to be resolved. The second objective –
+                            strengthening capacity to sustainably use the system – did undertake capacity building initiatives, but
+                            information on effectiveness is lacking and sustainability as defined in Section 2a cannot be
+                            confirmed. Considering the uncertainty regarding sustainability of the IFMIS, the overall efficacy rating is
+                            negligible.
+
+
+
+                            Overall Efficacy Rating                                  Primary Reason
+                            Negligible                                               Insufficient evidence
+
+
+    5. Efficiency
+   Neither the PAD nor the ICR undertook an economic analysis of the project, noting difficulty in quantification of
+   benefits and pointing to qualitative efficiency gains in improved governance. The ICR did point to savings on
+   ghost worker wages estimated at US$11 million over the life of the project by strengthening the personnel
+   database and payroll; higher efficiency in public spending as measured by fiscal savings of some 4.9 percent of
+   GDP; unquantified savings from energy sector reforms; SOE reform, notably a progressive clearance of arrears,
+
+                                                                                                                               Page 6 of 12
+      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+      Integrated Fin. Mg't. Infor. System (P117275)
+
+
+
+estimated by the IMF at 0.3 percent of GDP in terms of arrears to domestic suppliers. While these were
+favorable outcomes, their attribution to the project is questionable. Efficiency was also undermined by an
+implementation period of ten years instead of two and one half, increasing the cost from US$5.25 million to
+US$15.39 million. The project team told IEG that the original timing estimate reflected the fact that there was
+already an existing IFMIS system developed with the support of a previous Bank project that would be expanded
+to additional government sites. The project team at design was counting on being able to rely on the PCU of the
+previous project for implementation. During project preparation, the team did not foresee the future need to
+expand the system to include web-based functionality which was the main purpose of the first additional
+financing.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                 Rate Available?          Point value (%)          *Coverage/Scope (%)
+                                                                                   0
+ Appraisal                                                 0
+                                                                                    Not Applicable
+                                                                                   0
+ ICR Estimate                                              0
+                                                                                    Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Relevance of objectives was rated substantial: the focus on building the IFMIS to improve public resource
+management corresponded to government and Bank priorities. Efficacy was rated negligible: one objective
+was partly achieved, with significant weaknesses remaining that influenced the quality of information flows; and
+the other raised questions of sustainability of project outcomes. Efficiency was rated modest: despite
+greater efficiencies in public spending, they were achieved over a ten-year period compared to an expected two
+years.
+
+
+a. Outcome Rating
+   Moderately Unsatisfactory
+
+
+7. Risk to Development Outcome
+
+The ICR points to several challenges in rating the risk to development outcome as Substantial, reflecting the
+large number of activities or reforms that remain incomplete and will require additional resources: These
+include the need to finalize incomplete modules and interfaces for IFMIS, and address remaining
+
+                                                                                                   Page 7 of 12
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Integrated Fin. Mg't. Infor. System (P117275)
+
+
+
+uncertainties about data quality and integrity, requiring buy-in by relevant government officials. Despite an
+emphasis on capacity building under the project, the ICR team still points to risk in this area, as trained staff
+becomes attractive on the private market.
+
+On the other hand, despite the end of support from this operation, the IFMIS has been expanded in 2021 to
+all local government councils and is being rolled out to all self-accounting projects, to embassies, and to two
+agencies, the Office of the Ombudsman and the Human Rights Commission (IMF 2021. Gambia Second
+Review under the Extended Credit Facility. This expansion is expected to continue with support from follow-
+up projects such as a governance project under preparation that builds on the IFMIS project, and a Fiscal
+Management Development Project (P166695) that aims at better management of fiscal resources and SOEs
+Despite these positive indications, the risk to the development outcome remains substantial
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The project was strategically relevant, building an information system for sound public expenditure
+  management that could provide greater stability to a small open economy. It was consistent with the
+  Bank’s country strategy as articulated in several documents although country capacity was clearly
+  overestimated, and it drew on the experience of a preceding Bank project in the same area - a Capacity
+  Building and Economic Management project, including maintaining the PCU from that project. and key
+  lessons were incorporated into the design of this project to bolster existing weaknesses that threatened
+  the sustainability of the system: it was critically dependent on a relatively weak IFMIS operator (the
+  Directorate of Treasury); on weak budget execution; and the need for stronger inter-ministerial
+  coordination as a key to ownership of the IFMIS.
+
+  While the project drew on the experience of a previous one (Capacity Building for Economic
+  Management, P057995) quality of entry had many weaknesses. The project was designed as a two-year
+  project in a very low-capacity environment when similar projects in higher capacity countries have a
+  lifespan of five to six years. While external factors contributed (regime change and unforeseen necessity
+  to upgrade to web-based platform), the original design seriously underestimated cost and complexity of
+  reforms and the difficult operating environment. The project logic was originally straightforward but then
+  confused through the introduction of a number of at best peripherally related objectives (SOEs, energy,
+  human resources). The original PDO formulation was vague and did not well reflect the sought-after
+  outcomes on IFMIS.
+
+
+
+  Quality-at-Entry Rating
+  Unsatisfactory
+
+
+b. Quality of supervision
+ Formal supervision missions were undertaken twice yearly, supported by technical assistance throughout
+ the time of project implementation. The missions assessed project progress and interacted with national
+
+                                                                                                        Page 8 of 12
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Integrated Fin. Mg't. Infor. System (P117275)
+
+
+
+ stakeholders and development partners. The five restructurings, including two AFs, indicate a challenging
+ implementation environment and might have called for a redesign or cancellation of the project, particularly
+ as new tasks were added to it. Instead, supervision ratings were mostly satisfactory, especially during the
+ first five years, which is surprising given its overall performance.
+
+
+
+  Quality of Supervision Rating
+  Unsatisfactory
+
+  Overall Bank Performance Rating
+  Unsatisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ M&E design was weak. It was based on a PDO broadly aimed at improving public resource management,
+ later redefined as expanding IFMIS and increasing government capacity to use the system. In a third
+ iteration of the PDO, new government priorities were introduced. None of these changes were
+ formalized. Original key indicators were all revised during implementation, some twice. No outcome
+ indicators were introduced to measure the impact of actions on the government’s new priorities.
+
+
+
+b. M&E Implementation
+  The project maintained accessible records on the IFMIS roll-out and implementation of the other PFM
+  reforms. Quarterly and annual performance reports were produced. The annual report was circulated to
+  major stakeholders and included on the Ministry of Finance’s homepage.
+
+  The PCU collected data and prepared reports on progress of key indicators. These guided supervision
+  missions and in-the-field technical assistance and adjustments to the project. M&E was mostly rated
+  satisfactory despite repeated slippages in implementation, which were countered by continued
+  strengthening of the PCU.
+
+  Original key indicators were all revised during implementation.
+
+  The team added new indicators to measure wider IFMIS coverage and support to SOEs, but there was
+  no new indicator measuring support to the energy sector.
+
+
+
+c. M&E Utilization
+  M&E was used to inform project management and decisionmakers of project progress and aspects of
+  the project that needed strengthening during implementation. One shortcoming is that intermediate
+
+
+
+
+                                                                                                   Page 9 of 12
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     Integrated Fin. Mg't. Infor. System (P117275)
+
+
+
+  indicators that had been achieved were dropped during the third restructuring; they should have been
+  retained to get a full picture of project achievement.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   The environmental assessment category was rated as “C” and no safeguard policies were triggered. During
+   implementation, no environmental or social issues were identified despite de facto significant broadening of
+   project scope.
+
+
+
+
+b. Fiduciary Compliance
+   Procurement and Financial Management were rated “Satisfactory” from ISR 1 to ISR 16 (June 2018) when
+   both ratings were downgraded to “Moderately Satisfactory”. The Financial Management rating was
+   downgraded due to the weak internal control environment, the poor quality of the record keeping
+   mechanism and the lack of oversight of the postings and supporting documents in respect of all
+   expenditures. The procurement rating was downgraded due to non-conformity around strengthening the
+   procurement section of the Project Operations Manual. Fiduciary risk was rated as “Low” from inception to
+   ISR 6 (October 2012), when it was upgraded to “Substantial” due to high levels of corruption in The
+   Gambia. However, the risk rating was reverted to “Low” in ISR 9 (December 2014) based on applied
+   mitigation measures. The project mitigated the risks of fraud and corruption by ensuring that procurement
+   under the project was carried out according to World Bank guidelines, as well as by making sure that the
+   project would only use the IFMIS accounting system. The fiduciary risk was again upgraded to “Moderate”
+   in ISR 12 (March 2016) based on procurement delays.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   None noted
+
+
+
+d. Other
+   None noted
+
+
+
+11. Ratings
+
+
+                                                                                                 Page 10 of 12
+       Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+       Integrated Fin. Mg't. Infor. System (P117275)
+
+
+
+                                                                                   Reason for
+Ratings                             ICR                IEG
+                                                                                   Disagreements/Comment
+                                    Moderately         Moderately
+Outcome
+                                    Unsatisfactory     Unsatisfactory
+                                                                                   Weak assessment of
+                                                                                   implementation challenges at
+                                    Moderately
+Bank Performance                                       Unsatisfactory              start-up, resulting in a ten-year
+                                    Unsatisfactory
+                                                                                   project with at best modest
+                                                                                   outcomes.
+Quality of M&E                      Modest             Modest
+
+Quality of ICR                      ---                Substantial
+
+
+12. Lessons
+
+The following lessons were drawn from the ICR:
+
+A well-defined PDO can facilitate tracking project progress towards its objectives. In this
+project, the PDO was initially too broad. the PDO should have been formally amended to reflect the
+significant expansion in scope.
+
+Political commitment and ownership of the borrower matter. An explicit target IFMIS completion
+date could be announced early in project implementation and monitored closely at the highest level.
+
+The context for implementing reforms in a challenging environment need to be well
+understood. PFM reforms cannot be achieved focusing only on technical solutions but need to be
+accompanied by behavioral and policy change.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The quality of evidence and the analysis presented in the ICR was satisfactory, albeit that a more systematic
+focus on outputs and outcomes could have facilitated the arguments in the text. While the PDO formulations
+were challenging, the ICR did provide necessary clarity to allow assessment.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+                                                                                                      Page 11 of 12
+Independent Evaluation Group (IEG)              Implementation Completion Report (ICR) Review
+Integrated Fin. Mg't. Infor. System (P117275)
+
+
+
+
+                                                                             Page 12 of 12
+

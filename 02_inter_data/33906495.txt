@@ -1,0 +1,938 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Nai Manzil Project (P156363)
+
+
+
+                                                                                  Report Number: ICRR0023016
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P156363                                    Nai Manzil Project
+
+ Country                                    Practice Area(Lead)
+ India                                      Education
+
+
+ L/C/TF Number(s)                           Closing Date (Original)                Total Project Cost (USD)
+ IDA-57380                                  30-Jun-2021                                          49,569,315.57
+
+ Bank Approval Date                         Closing Date (Actual)
+ 29-Oct-2015                                30-Jun-2021
+
+                                            IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                            50,000,000.00                                               0.00
+
+ Revised Commitment                             49,569,315.57                                               0.00
+
+ Actual                                         49,569,315.57                                               0.00
+
+
+
+
+ Prepared by                 Reviewed by                  ICR Review Coordinator          Group
+ Shiva Chakravarti           Salim J. Habayeb             Eduardo Fernandez               IEGHC (Unit 2)
+ Sharma                                                   Maldonado
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The PDO is to improve completion of secondary education and market-driven skills training for targeted youth
+   from Minority communities (Financing Agreement, p.4).
+
+   Explanatory note on Minority communities: According to the PAD (p.1), the Government of India classifies six
+   religious communities, viz. Muslims, Christians, Sikhs, Buddhists, Jains, and Zoroastrians (Parsis) as
+   Minorities. Together, Minorities comprise almost 18 percent of India’s population, or about 225 million people.
+
+
+                                                                                                   Page 1 of 17
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     Nai Manzil Project (P156363)
+
+
+
+   This ICR Review applied a split rating because associated outcome targets were revised downward during
+   implementation.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  29-Oct-2019
+
+c. Will a split evaluation be undertaken?
+   Yes
+
+d. Components
+   Component 1: Results Based Financing for Increased Education Attainment and Market-Driven
+   Training (Approval: US$45 million; Actual: US$48.33 million): The component aimed to provide support
+   to members of minority communities who had discontinued their education and did not have a formal
+   education certification for Grade 8 or 10. The main aspect of the project was to support hiring of Project
+   Implementing Agencies (PIAs). The key implementing instrument was “Results-oriented Performance
+   Agreements” between the Ministry of Minority Affairs (MoMA) and the PIAs and the funds disbursed to PIAs
+   were based on agreed standards on education and labor market outcomes. The PIAs provided
+   nonresidential integrated education and skill training for 9 to 12 months of which a minimum of 3 months
+   were devoted to skill training compliant with the National Skills Qualifications Framework (NSQF). PIAs also
+   provided support to beneficiaries to acquire employment after the completion of the integrated program.
+   Beneficiaries received a monthly stipend for the duration of the program: INR 1,000 for six months of
+   education, INR, 1,500 for the three months of skills training, and INR 2,000 for two months of work
+   placement activities.
+
+   Component 2: Technical Assistance for Implementation of the Nai Manzil Scheme (Approval: US$5
+   million; Actual: US$1.67 million): This component aimed to strengthen the capacity of the Ministry of
+   Minority Affairs for project implementation, planning and policy development. The specific areas of support
+   included the creation of Program Management Unit (PMU) for day-to-day activities, hiring of an Independent
+   Verification Agency (IVA) to validate the performance agreements, hiring of M&E agency, and hiring of a
+   communication firm to document and disseminate best practices.
+
+   Explanatory Note: “Nai Manzil” Scheme or “New Horizons” Scheme was launched in 2015 and aims at
+   improving labor market outcomes of Minority youth by offering an integrated program for education and
+   market relevant skill training (PAD, p.4).
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+
+
+
+                                                                                                  Page 2 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Nai Manzil Project (P156363)
+
+
+
+   At appraisal, the project was estimated at US$100 million, out of which US$50 million were financed by the
+   World Bank through an IDA credit and US$50 million were borrower contributions. All the amount was
+   disbursed by the end of the project.
+
+   The project became effective on October 29, 2015, and closed on June 3, 2021. The project underwent four
+   restructurings.
+
+   1. The first restructuring of June 8, 2019, made changes to financial management.
+
+   2. The second restructuring of October 29, 2019, revised the results framework. The PDO indicator, “Share
+   of enrolled targeted beneficiaries who receive a secondary education (Grade 10) certificate through open
+   schooling,” from a target of 66 percent to 35 percent (ICR, p.49).
+
+   3. The third restructuring occurred on August 26, 2020, and changed two PDO indicators. The indicator,
+   “Share of targeted beneficiaries who obtain employment within 6 months after completing the integrated
+   program,” was modified such that the requirement of 6 months to get employment was removed and the
+   employment rate was calculated for the whole project period. The target was also changed from 52 percent
+   to 38. The other indicator, “Share of targeted beneficiaries who are enrolled in further professional
+   qualification in education or skills training within 6 months after completing the integrated program,” was
+   also modified such that 6 months to enroll in the professional program was removed as a project
+   requirement and the education rate was calculated for the whole project period. The target was changed
+   from 23 percent to 13 percent.
+
+   4. The final restructuring took place on March 15, 2021. The restructuring reallocated US$3.3 million from
+   Component 2 to Component 1.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Nai Manzil or New Horizon scheme sought to improve skill development and educational outcomes of
+minority communities that have lower labor market outcomes compared to national averages in
+India. The project also set some targets for women, indigenous communities, and minorities with
+disabilities. The project was aligned with the Government of India's policy efforts and reforms to support
+educational and skilling outcomes for minority communities (ICR, p.6). The project was also aligned with
+the CPF (FY 2013-2017) during preparation. Specifically, the project was aligned with Outcome 1.3,
+Improved demand-driven skills for productive employment; Outcome 3.4, Improved access and quality of
+education along with a specific focus on gender. The project was in line with the diagnosis of the 2018
+Systematic Country diagnostic that emphasized the importance of “inclusive growth creation” through
+“better and faster job creation (SCD, p.79)”. The project continued to be aligned with the country strategy
+at closing (CPF FY 2018-2022). Specifically, the project was aligned with Objective 2.4, Increase access
+to quality, market-relevant skills development; Objective 2.5, Enabling access to more quality jobs for
+women; and Objective 3.2, Improve the quality of education in schools and colleges.
+
+
+
+
+                                                                                                    Page 3 of 17
+                                      Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+                                      Nai Manzil Project (P156363)
+
+
+
+               The second component of the project focused on institutional strengthening activities for the Ministry of
+               Minority Affairs and introduced the results-based-financing instrument. Both components,
+               integrated education and skills component and the capacity building component were aligned with the
+               World Bank Group’s global experience (ICR, p.6). The project specifically targeted minority communities
+               through both demand and supply-side interventions. On the supply side, the results-based financing
+               provided an integrated educational and skills program. On the demand side, mobilization activities
+               tailored to the specific context and financial incentives addressed unique constraints faced by minority
+               communities (Impact Evaluation, p.48).
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To improve completion of secondary education for targeted youth from minority communities
+
+                             Rationale
+                             The ICR constructed a theory of change ex-post using the project’s results framework. The Theory of change
+                             of the project was clear and convincing. To improve the completion of secondary education and market-driven
+                             skills, the project supported MoMA to hire Project Implementing Agencies (PIAs) that provided an integrated
+                             education and skills program to beneficiaries in areas with a high minority population. The PIAs also
+                             supported the beneficiaries in enrolling with institutions to acquire their formal certifications at Grade 8 or
+                             Grade 10 level and provided employment placement support. The funds disbursed to PIAs were based on
+                             beneficiary outcomes through Results-based financing.
+
+                             The expected outcomes included (i) improved secondary education completion rates among beneficiaries that
+                             complete their certification through open schools (ii) improved skills certification rates among beneficiaries (iii)
+                             improved employment rates among beneficiaries (iv) improved enrollment rates in further professional
+                             qualification in education or skills training. This process change was underlined by institutional strengthening
+                             activities to facilitate implementation and monitoring activities along with increasing the Ministry’s capacity to
+                             support minority communities through future initiatives. The final expected impact was the “Empowerment of
+                             youths from minority communities.”
+
+                             The main assumption underpinning the theory of change was that youth in minority communities lack access
+                             to secondary education opportunities, and therefore, educational training along with support for achieving a
+                             formal certification would lead to better educational outcomes. This gave the beneficiaries a second chance to
+                             complete their secondary education through the National Institute for Open Schooling (NIOS) or State
+                             Institute for Open Schooling (SIOS). The hired PIAs conducted extensive and culturally sensitive outreach
+                             following the guidelines provided by MoMA and validated by WB safeguard specialists to ensure that the
+                             intended beneficiaries were included in the project. Community engagement such as that with religious
+                             leaders, NGOs, CSOs, and local activities benefitted the recruitment effort. The project also accounted for the
+
+
+                                                                                                                                  Page 4 of 17
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Nai Manzil Project (P156363)
+
+
+
+beneficiaries’ financial constraints by providing them with a monthly stipend during the program to pay for
+expenses such as transportation.
+
+Another key assumption underlying the theory of change is that the performance agreements with PIAs would
+lead to expected outcomes. The PIAs were selected competitively and based on their history of executing
+similar programs along with the quality of other parameters such as instructor quality and existing
+arrangements with employers (ICR, p.22). The PIAs also conducted a comprehensive skill gap assessment at
+the start of the program (Impact Evaluation, p.8). Yet, there was variability in implementation capacity across
+PIAs where some PIAs performed better than others. The project implementation illustrated that the targeted
+beneficiaries were a unique subset of the population and required additional support (ICR, p.9). Some of
+these issues were addressed through a capacity-building workshop and the engagement of the Ministry with
+two additional agencies to improve some outcomes (ICR, p.40).
+
+The instrument of ‘Results-based financing’ was operationalized using performance agreements between
+MoMA and PIAs. These agreements included five disbursement-linked indicators (DLI): (i) Number of student
+enrolments (ii) Number of students successfully completing the education component, (iii) Number of students
+successfully completing the skills component, (iv) Diversity of content offered by the PIAs and their reach in
+the most under-served geographic pockets, and (v) Verification of the effective implementation of Nai Manzil
+by an independent verification agency. The independent verification agency was a crucial actor in project
+implementation because it reported on the compliance of performance agreements.
+
+Thirty-eight competitively selected project implementation agencies (PIAs) implemented the scheme in
+development blocks (administrative units) that had a minority population above 25 percent. Once the
+geographical areas were selected, the PIAs conducted needs assessments to understand the skill and
+education gaps of the beneficiaries, in addition to the local market dynamics to finalize the list of courses for
+the training program. Second, PIAs followed uniform guidance prepared by MoMA and validated by WB
+safeguard specialists on outreach for recruitment of beneficiaries (Communication Strategy for Project
+Implementing Agencies, p.5). Outreach activities included door-to-door visits, newspaper advertisements, and
+community engagement activities with key influencing leaders such as religious leaders, activists, and self-
+help groups. Religious leaders played a particularly key role in the recruitment of Muslim youth and
+women (TTL interview, August 24, 2022). Finally, counseling sessions and aptitude tests were used for the
+selection and enrollment of beneficiaries (Impact evaluation, p.56).
+
+The targeted beneficiaries received education training at grade 8 or grade 10 level along with skills training
+based on nationally recognized standards. The PIAs supported the students in enrolling with the National
+Institute for Open Schooling (NIOS) or State Institute for Open Schooling (SIOS) to obtain their formal
+educational certifications. The PIAs also provided employment placement support and tracked the students
+for one year after graduation from the Nai-Manzil program to ensure sustainable outcomes. These activities
+were expected to improve either employment or enrollment in further formal education. The beneficiaries
+received a stipend of INR 1,000 per month for the educational training, INR 1,500 per month for the skills
+development training, and INR 2,000 per month for work placement activities to address constraints such as
+transportation costs (Impact evaluation, p.83).
+
+Outputs
+
+      21,684 beneficiaries received a Grade 10 certificate
+      49,082 beneficiaries received an education certificate (Grade 8 or 10)
+
+
+                                                                                                   Page 5 of 17
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Nai Manzil Project (P156363)
+
+
+
+
+      25,556 women received an education certificate (9,930 received Grade 10 certification and 15,626
+       received Grade 8 certification)
+      98,697 beneficiaries were enrolled in Nai Manzil.
+      49,813 of the total beneficiaries were female.
+      40,515 enrolled beneficiaries were from Minority Concentrated Blocks
+
+
+
+Intermediate results
+
+63.18 percent of enrolled beneficiaries received a Grade 8 certification for a baseline of 0 in 2016, short of the
+target of 66 percent.
+
+41.05 percent of enrolled beneficiaries were from minority concentrated blocks for a baseline of 0 in 2016,
+exceeding the target of 30 percent.
+
+An annual report with information including placement, enrolment, and certification was prepared and shared
+online in 2021
+
+A Web-based Management Information System was in place at the end of the project in 2021
+
+98,697 beneficiaries benefitted from direct learning interventions a baseline of 0 in 2016, exceeding the target
+of 70,000.
+
+98,697 beneficiaries benefitted from direct interventions to enhance learning for a baseline of 0 in 2016,
+exceeding the target of 70,000.
+
+49, 813 beneficiaries benefiting from direct interventions to enhance learning were women for a baseline of 0
+in 2016, exceeding the target of 30,000.
+
+Outcomes
+
+The PIAs were able to reach out and recruit intended beneficiaries as indicated by the impact evaluation and
+intermediate indicator 2. Forty-one percent of the enrolled beneficiaries were from minority concentrated
+blocks, exceeding the target of 30 percent. The PIAs were able to deliver on disbursement-linked indicators
+as indicated by the outputs and intermediate indicators. The Ministry of Minority Affairs benefitted from a web-
+based monitoring system that upgraded the ministry’s existing portal to manage data from several projects
+including Nai Manzil. There are limited indicators to assess the ministry’s enhanced capacity, but anecdotal
+evidence suggests that the ministry was able to capitalize on the MIS and the project facilitated relationships
+between the ministry and other relevant stakeholders (TTL interview, August 24, 2022).
+
+The evidence for achievement of expected outcomes comes from three sources: the Project Management
+Information System, independent baseline and end line surveys carried out by an M&E agency, and an
+independent evaluation carried out by a separate firm (ICR, p.11). According to the project MIS, the project
+achieved modest efficacy: 39.19 percent of the beneficiaries received their secondary certificate, falling short
+of the target of 66 percent. According to the baseline and end-line survey results, 54% of the beneficiaries
+
+
+
+                                                                                                    Page 6 of 17
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Nai Manzil Project (P156363)
+
+
+
+reported receiving secondary education. The ICR points out that these surveys and the independent
+evaluation seem to “suffer from response bias” and showed more positive results than the project MIS.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 1 REVISION 1
+Revised Objective
+To improve completion of secondary education for targeted youth from minority communities
+
+Revised Rationale
+There were no changes to the PDO. The target for the indicator attached to this objective was revised from 66
+percent to 35 percent. The original target was set according to the average national pass rates for the
+National Institute for Open Schooling (NIOS) which were 40-50 percent because data for disaggregated
+minorities were not available at the start of the project. The targets were revised according to the data
+collected by the project MIS (ICR, p.9). The Theory of change can be seen under Objective 1.
+
+In addition to the results discussed under the original objective above, 39.19 percent of beneficiaries received
+a secondary education certificate through open schooling for a baseline of 0 in 2016, exceeding the
+revised target of 35 percent. The surveys with a control group also showed a wide difference between the
+achievement of Grade 8 or 10 certificates among the treatment group (73 percent from a baseline of 14
+percent) and the control group (24 percent from a baseline of 19 percent), though the ICR points out that
+these results suffer from response bias.
+
+Under the revised outcome target, the objective was fully achieved.
+
+
+
+Revised Rating
+High
+
+
+OBJECTIVE 2
+Objective
+To improve completion of market-driven skills training for targeted youth from minority communities
+
+Rationale
+The Theory of change can be seen under Objective 1.
+
+The Theory of Change was closely aligned with the same underlying key assumptions, with the main
+assumption that youth in minority communities lack market-driven skills and provision of an integrated
+program would improve outcomes for skill development among minority communities.
+
+
+
+
+                                                                                                  Page 7 of 17
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Nai Manzil Project (P156363)
+
+
+
+Overall, the project expected that the positive results from higher completion rates of secondary education
+(Objective 1) and higher completion results for market-driven results (Objective 2) would lead to higher
+employability and/or continued enrollment in formal education.
+
+Outputs
+
+      93,485 beneficiaries, of whom 47,497 were female, received a skills certificate
+      42,257 received certification for a Category 1 trade/sector and 93,444 received NSQF Level 3 or
+       above certification
+      Female beneficiaries were more likely to receive a skills certification for a Category 1 trade/sector
+       (23,118 versus 19,139) and/or a Level 3 or above certification (47,496 versus 45,948).
+      98,697 beneficiaries were enrolled. 49,813 were female.
+      40,515 enrolled beneficiaries were from Minority Concentrated Blocks
+
+
+
+Intermediate results
+
+45.4 percent of beneficiaries were awarded skill certifications in Category 1, exceeding the target of 30
+percent.
+
+99.96 percent of the skills certificate beneficiaries were awarded skill certifications for NSQF Level 3 or
+above, exceeding the target of 50 percent.
+
+
+Outcomes
+
+The evidence for the completion of results was compiled using three evidence sources (see objective 1 above
+for details). 94.72 percent of beneficiaries completed their skills certification from a baseline of 0, exceeding
+the original target of 83 percent. The outcomes for the other two indicators were not achieved. 47 percent of
+beneficiaries obtained employment post-graduation from the program from a baseline of 10 percent in 2016.
+This was moderately below the target of 52 percent. Finally, 9.14 percent of beneficiaries were enrolled in
+further professional qualification in education or skills training after completing the program from a baseline of
+0 in 2016. This was well below the original target of 23 percent.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 2 REVISION 1
+Revised Objective
+To improve completion of market-driven skills training for targeted youth from minority communities
+
+Revised Rationale
+
+
+                                                                                                    Page 8 of 17
+                                 Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+                                 Nai Manzil Project (P156363)
+
+
+
+                              The overall rationale was the same as under the original objective above. There were no changes to the
+                              PDO. The targets for the indicators attached to this objective were revised.
+
+                              Outcomes
+
+                              94.72 percent of beneficiaries received a nationally recognized skills certificate for a baseline of 0 in 2016,
+                              exceeding the original target of 83 percent (no revision).
+
+                              52 percent of beneficiaries were employed after completing the integrated program for a baseline of 10 in
+                              2016, exceeding the revised target of 38 percent.
+
+                              9.14 percent of beneficiaries were enrolled in further professional qualification in education or skills training
+                              after completing the integrated program for a baseline of 0 in 2016, falling short of the revised target of 13
+                              percent.
+
+                              The impact evaluation supported these results and found a positive impact in several aspects. According to
+                              the evaluation, 68 percent had found their first job. In addition, 94% of respondents noted broader positive
+                              impacts of the scheme, including an increase in self-confidence and self-worth (62% of beneficiaries); an
+                              increase in income (37%); and an improvement in family lifestyle (37%) (ICR, p.12).
+
+                              The objective was almost fully achieved based on the revised targets.
+
+
+
+                              Revised Rating
+                              Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The two objectives to improve completion of secondary education and market-driven skills training for
+                            targeted youth from Minority communities were partly achieved. The achievements are consistent with a
+                            modest efficacy rating.
+
+
+
+                            Overall Efficacy Rating                                      Primary Reason
+                            Modest                                                       Low achievement
+                  OBJR1_TBL
+
+
+
+
+                            OVERALL EFFICACY REVISION 1
+                            Overall Efficacy Revision 1 Rationale
+                            The objective to improve completion of secondary education for targeted youth from Minority communities
+                            was fully achieved, and the objective to improve market-driven skills training for targeted youth from Minority
+                            communities was partly achieved. The achievements are consistent with a substantial efficacy rating.
+
+
+                                                                                                                                    Page 9 of 17
+             Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+             Nai Manzil Project (P156363)
+
+
+
+
+         Overall Efficacy Revision 1 Rating
+         Substantial
+
+ OBJR2_TBL
+
+
+
+
+         OVERALL EFFICACY REVISION 2
+         Overall Efficacy Revision 2 Rationale
+         The objective to improve completion of secondary education for targeted youth from Minority communities
+         was fully achieved, and the objective to improve market-driven skills training for targeted youth from Minority
+         communities was almost fully achieved. The achievements are consistent with a substantial efficacy rating.
+
+
+
+         Overall Efficacy Revision 2 Rating
+         Substantial
+
+
+
+ 5. Efficiency
+The PAD projected that, with an employment rate of 65 percent -70 percent, the Net Present Value would be
+$US22 million - $US27 million with an internal rate of return of 3 percent – 4 percent. The ICR, on the other
+hand, calculated the Net Present Value of the entire project to be US$205 million with an internal rate of return
+of 25% and external rate of return at 15% based on employment rate of 47%. The ICR states that this
+discrepancy can be attributed to the “larger than expected beneficiaries of the project,” which were almost twice
+than initially intended. The ICR uses the mean wage increments based on the independent evaluation’s sample
+survey to calculate the estimates. The estimates in PAD and ICR are based on a discount rate of 12 percent.
+
+The implementation efficiency was affected by lower-than-expected placement rates. The ICR notes that the
+CoVid pandemic may be a factor behind the lower placement rates due to lockdowns and other economic
+disruptions. Nonetheless, the lower-than-expected placement rates were compensated by larger-than-expected
+beneficiaries (ICR, p.36). There were no significant delays that impacted project implementation, besides a
+delay in developing a web-based MIS. Though the web-based MIS was delayed, the project maintained an
+excel-based MIS throughout the project implementation (TTL interview, August 24, 2022).
+
+The ICR notes some moderate efficiency issues related to institutional capacity that resulted in delays in hiring
+of PMU staff and M&E agency (ICR, p.16). Other efficiency issues noted by ICR include lack of coordination
+between PIAs and the NIOS. While some of these issues were addressed by establishing a contact person for
+NIOS, several of these issues continued till the end of the project. Though the PIAs were competitively hired,
+there was a variation in capacities across PIAs. Some PIAs were better at data management, tailoring project
+activities to students’ needs, and engaging with the NIOS.
+
+
+Efficiency Rating
+Substantial
+
+
+                                                                                                           Page 10 of 17
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      Nai Manzil Project (P156363)
+
+
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?             Point value (%)            *Coverage/Scope (%)
+                                                                                      100.00
+Appraisal                                                 4.00
+                                                                                       Not Applicable
+                                                                                      100.00
+ICR Estimate                                              15.00
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Relevance of the project objectives is rated High throughout the project duration, as the objectives were aligned
+at project closing with the Bank's Country Partnership Framework for India (FY 2018-2022) and the
+government's policy efforts and reforms to support equitable development of minority communities. Efficiency is
+rated Substantial throughout the project duration based on the cost-benefit analysis and moderate
+implementation efficiency issues.
+
+Project under original targets – Moderately Unsatisfactory
+
+Efficacy is rated Modest, as the project partly achieved its development objectives of improving the completion
+of secondary education and market-driven skills training of targeted youths from minority communities.
+
+Project after first Revision – Satisfactory
+
+Efficacy is rated Substantial, as the project fully achieved its development objectives of improving the
+completion of secondary education and partly achieved its objective of market-driven skills training of targeted
+youths from minority communities.
+
+Project after second Revision – Satisfactory
+
+Efficacy is rated Substantial, as the project fully achieved its development objectives of improving the
+completion of secondary education and almost fully market-driven skills training of targeted youths from minority
+communities.
+
+                                                             Objectives after first      Objectives after
+Rating Dimension                       Original Objectives
+                                                             revision                    second revision
+Relevance objectives              High
+Efficacy
+Objective 1. To improve
+completion of secondary
+                                  Modest                     High
+education for Targeted Youth from
+Minority communities
+
+
+                                                                                                    Page 11 of 17
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      Nai Manzil Project (P156363)
+
+
+
+Objective 2. To improve
+completion of market-driven skills
+                                   Modest                                                 Substantial
+training for targeted youth from
+minority communities
+Overall Efficacy                   Modest                    Substantial                  Substantial
+Efficiency                         Substantial
+                                   Moderately
+Outcome Rating                                               Satisfactory                 Satisfactory
+                                   Unsatisfactory
+Outcome Rating Value               3                         5                              5
+Amount Disbursed (US$ million)     12.42                     18.66                        18.92
+Disbursement (%)                   25%                       37%                          38%
+Weight Value                       0.75                      1.85                          1.9
+Total weights                      4.5 (rounds up to 5)
+Overall Outcome Rating             Satisfactory
+
+
+
+The project's overall outcome rating is Satisfactory, indicating essentially minor shortcomings in the project's
+preparation, implementation, and achievement.
+
+
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+The ICR rated the risk to development as Moderate because of a) Government ownership: There is
+government ownership of the project as evidenced by the continuation of the project through government
+funding from April 2022. b) Capacity building activities: The project strengthened the Ministry of Minority
+Affairs’ capacity, which will help in implementing new projects. Though there are limited indicators to assess
+the ministry’s enhanced capacity, anecdotal evidence suggests that the ministry was able to capitalize on the
+web-based MIS that was developed under the project and upgraded the ministry’s current system of data
+processing. The project facilitated relationships between the ministry and other relevant stakeholders through
+project platforms such as the steering and advisory committee. The project helped transfer the know-how of
+the results-based financing approach that replaced the input-based approach of the ministry (TTL interview,
+August 24, 2022). The ICR points out that the main risk to development outcome is the disruption caused by
+lockdowns because of CoVid that resulted in economic contractions and loss of livelihood.
+
+Overall, there is sufficient evidence to suggest that the project beneficiaries acquired formal educational and
+labor market skills including soft skills that will sustain outside of the project (Impact evaluation, 2021).
+
+
+
+
+                                                                                                     Page 12 of 17
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Nai Manzil Project (P156363)
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The project was aligned with the country partnership framework (FY2013-2017) at entry. The project had
+  a particular focus on targeting youths from minority communities, who have lower educational and labor
+  market outcomes than the national average. A focus on minority communities thus has particular
+  significance for inclusive and sustainable development. There were specific targets earmarked for
+  women, low caste, and indigenous peoples. The recruitment efforts paid particular attention to
+  engagement with community leaders such as religious leaders and activists to induct Muslim and women
+  beneficiaries (TTL interview, August 24, 2022; Impact evaluation, 2021). The outreach efforts by PIAs
+  followed a uniform guideline set up by MoMA and validated by the WBG safeguard specialists. An
+  indigenous people’s development plan was put it in place that included activities such as robust
+  consultations and grievance redressal mechanisms. The aim of the consultations was to better prepare
+  the project to include beneficiaries from these communities.
+
+  The ICR states that the Bank team “identified, facilitated the preparation of, and appraised the operation
+  so that it was most likely to achieve the planned development outcomes and was consistent with the
+  Bank’s fiduciary role (ICR, p.20).” The Bank used appropriate lessons learned from past projects such as
+  the need to combine educational activities with skills activities to have better labor market outcomes,
+  high-quality training providers, and simplicity of project design in a first-generation project (PAD, p.8). The
+  PIAs were competitively selected based on fixed criteria such as experience and quality of trainers (ICR,
+  p.22). The project identified key risks such as the low capacity of the implementation agency and added
+  activities to strengthen the capacity of the Ministry of Minority affairs.
+
+  There was a minor shortcoming related to the lack of data to gauge appropriate targets. There was no
+  data available at the national level that could be disaggregated for minority communities, which led to the
+  lowering of three of the four PDO indicators. The project addressed this shortcoming by embedding a
+  needs assessment in the project design and the project MIS was used to revise targets.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The ICR states that the “Bank proactively identified and resolved threats to the achievement of Project
+ development outcomes.” Some of these factors are outlined in the Implementation section: (i) There was a
+ coordination issue between the NIOS (agency responsible for examinations) and the PIAs because the
+ PIAs lacked an understanding of NIOS process and procedures. These were resolved by creating a point
+ of contact between the project and NIOS, though some of these issues continued till project closing (ICR,
+ p.17) (ii) There was a variation in the quality of PIAs. Some PIAs were able to better tailor their activities
+ such as providing additional support for writing skills and using better monitoring systems than other PIAs.
+ This was dealt with by organizing a regional workshop to orient the PIAs to design and monitor the project.
+ (iii) The CoVid pandemic caused several implementation challenges for the project (ICR, p.17). The WBG
+ team provided technical support using a situational analysis conducted between July 2020 and October
+
+                                                                                                      Page 13 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Nai Manzil Project (P156363)
+
+
+
+ 2020. “Post the situational analysis, the task team identified several market leaders and innovators in
+ connecting blue and grey collar workers to employment and facilitated a knowledge exchange between
+ these agencies and the client. As a result, the client was able to sign MOUs with two of the agencies and
+ connect them with PIAs and beneficiaries on the ground (TTL interview, August 24, 2022).”
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The objectives of the project were clearly specified and reflected by appropriate indicators. The objective of
+ improvement in completion of secondary education was to be measured by the percentage of beneficiaries
+ completing formal secondary education certificates and the objective of improvement in market-driven skills
+ was to be measured by the percentage of beneficiaries completing the skills certificate along with an
+ indicator to indicate the percentage of beneficiaries that obtained employment. These PDO indicators were
+ specific, time-bound, relevant, and measurable using the MIS data that collected information on the
+ completion of secondary examinations and employment outcomes of the beneficiaries. The theory of
+ change was clear and convincing. The baseline and end-line surveys and the independent
+ evaluation included a counterfactual and were appropriate to measure attribution and quality of the training
+ program through beneficiary surveys. There were no indicators to measure the efficacy of capacity-building
+ activities.
+
+ The project’s M&E comprised three sources: the Project Management Information System, independent
+ baseline and end-line surveys carried out by an M&E agency, and an independent evaluation. For the
+ Project MIS, the MIS was to track four PDO indicators, seven intermediate indicators, and five
+ Disbursement Linked Indicators (DLIs). The information in the MIS consisted of all PIAs and beneficiaries
+ (ICR, p.11). The DLIs were linked to results-based financing of the project and were to be validated by an
+ independent Verification Agency (IVA). The baseline and end-line surveys followed a sampling procedure
+ that followed 1,068 beneficiaries and 42 PIA centers over three years. These surveys included a control
+ group consisting of 200 non-beneficiaries. Finally, the independent evaluation also followed a sampling
+ procedure and collected data for 40 PIAs and 1,214 beneficiaries. The results from the surveys were
+ beneficial in strengthening the results showed by the MIS.
+
+
+
+b. M&E Implementation
+  The ICR notes that the results from M&E activities were provided through periodic progress review on
+  issues such as beneficiary satisfaction, targets, DLI reporting according to performance standards,
+  additional surveys, and studies. The surveys carried out by the M&E agency and the independent
+  evaluation suffered from “response bias that skewed their results (ICR, p.11).” This resulted in higher
+
+                                                                                                   Page 14 of 17
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     Nai Manzil Project (P156363)
+
+
+
+  positive trends as compared to Project MIS. There were delays in the hiring of a firm to assist with
+  Project’s MIS and the task was carried out by PMU. Though there were delays in establishing a web-
+  based MIS, the project maintained an excel-based MIS throughout the life of the project (TTL interview,
+  August 24, 2022). During implementation, the task team also decided to not create a separate MIS for the
+  project and institutionally embedded the MIS within the Ministry of Minority Affairs portal. This enhanced
+  the sustainability of the system and helped enhance longer-term capacity of MoMA.
+
+  The DLIs were verified by an independent agency before disbursement to the PIAs. A capacity building
+  workshop was conducted for the PIAs, and a focal point was recruited for coordination between PIAs and
+  NIOS. Finally, an independent evaluation report was successfully carried out using a mixed methods
+  assessment of the program through a stratified sampling of PIAs geographically. The implementation of
+  the evaluation was constrained by Covid-19 and the interviews had to be carried out remotely (Impact
+  Evaluation, 2021).
+
+
+
+c. M&E Utilization
+  The M&E was utilized in a consistent and regular manner to look at progress towards targets and update
+  implementation such as the change in targets based on the needs assessment data. The M&E also
+  highlighted the variability of capacity in PIAs and the coordination issues between PIAs and NIOS. The
+  data from different sources, including the PIAs, independent M&E agencies and the verifying agencies
+  were consistently utilized by the PMU and the Bank Team through mission documents, Aide Memoires,
+  and progress reports. The M&E data from various sources “enabled MoMA leadership, the PMU, and
+  the World Bank to closely track Project execution, review performance, identify challenges, and
+  recommend next steps (ICR, p.14)”.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   Environment and Social safeguards: The project was classified as a Category C project because of the lack
+   of risks related to infrastructure work. Therefore, no environmental assessment was undertaken under the
+   project. A training module was prepared to provide guidance on safety norms in the workplace including first
+   aid and hygiene. This module supplemented the skills training curriculum of the PIAs. The project also
+   included indicators associated with environmental safeguards that were reported by the PIAs to the PMU.
+   The project triggered Policy OP 4.10 pertaining to Indigenous People. The project prepared a Social
+   Management Framework followed by an Indigenous Peoples’ Policy Framework to ensure the participation
+   of indigenous peoples.
+
+
+
+
+b. Fiduciary Compliance
+
+                                                                                                 Page 15 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Nai Manzil Project (P156363)
+
+
+
+   The entity responsible for the implementation and fiduciary compliance was MoMA that complied with
+   Bank’s financial guidelines and procedures according to the ICR (p.20). The disbursement of project funds
+   commenced without any significant delays. The initial audit report for the project was delayed because of
+   the disconnect between the World Bank requirements and timeline with the official format and timeline of
+   the Comptroller and Auditor General of India (CAG). The timeline was extended for the audit report and the
+   ministry was able to submit audits within the agreed upon timeline. The ICR (p.20) reported that no
+   accountability issues were reported.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   None reported.
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                 Reason for
+Ratings                         ICR                    IEG
+                                                                                 Disagreements/Comment
+Outcome                         Satisfactory          Satisfactory
+
+Bank Performance                Satisfactory          Satisfactory
+
+Quality of M&E                  Substantial           Substantial
+
+Quality of ICR                  ---                   Substantial
+
+
+12. Lessons
+
+A strong outreach recruitment effort is crucial in ensuring appropriate youth participation:
+The project undertook an extensive outreach effort that was crucial for the recruitment of intended
+beneficiaries. The PIAs included a variety of activities, including mobilization camps, door-to-door
+visits, and newspapers. The door-to-door campaigns were used to connect with families and
+convince them of the safety of the program, especially for girls.
+
+Community engagement with key local influencers promotes minority youth participation:
+Engagement with local influencers such as religious leaders and social activists can have a
+profound impact on the recruitment of religious minorities and women. Religious leaders played a
+crucial role in enabling the participation of Muslim youth and women in the project.
+
+Addressing Financial constraints is key to alleviating demand-side constraints for
+disadvantaged beneficiaries: Under the project, financial support was crucial for ensuring
+enrollment continuation of beneficiary participation. The targeted beneficiaries of the project were
+
+
+                                                                                                       Page 16 of 17
+       Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+       Nai Manzil Project (P156363)
+
+
+
+severely disadvantaged, and the stipends provided by the project helped address demand-side
+constraints to participation such as transportation costs.
+
+Thorough Needs assessment is key to ensuring quality design and implementation: For a
+first-generation project, needs assessments are crucial to informing the design of the project and
+M&E systems. The project embedded needs assessments in the design of the project that helped
+tailor project activities to the needs of the minority communities. The implementation illustrated that
+PIAs that were able to deliver higher positive results were the ones who could adopt stronger
+strategies to address the needs of the beneficiaries such as poor writing skills.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR was clear, concise, and consistent with the OPCS guidelines overall. It was candid and provided
+several key evidence points and lessons related to the project that were derived from implementation
+experience. The theory of change was clear and logical and incorporated the results framework of the project.
+The evidence provided was based on the results framework, but the ICR also adequately presented important
+evidence from M&E outside of the Project MIS. The ICR’s split rating table was expected to illustrate efficacy
+ratings based on two parsed objectives and not on a list of outcomes. The ICR lacked coherence in some
+sections, and evidence was sometimes scattered across the document.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                     Page 17 of 17
+

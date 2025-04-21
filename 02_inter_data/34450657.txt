@@ -1,0 +1,860 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     ILAS Project (P122219)
+
+
+
+                                                                                Report Number: ICRR0024307
+
+1. Project Data
+
+
+
+ Project ID                               Project Name
+ P122219                                  ILAS Project
+
+ Country                                  Practice Area(Lead)
+ Croatia                                  Urban, Resilience and Land
+
+
+ L/C/TF Number(s)                         Closing Date (Original)                Total Project Cost (USD)
+ IBRD-80860,IBRD-89000                    31-Oct-2015                                          41,848,508.60
+
+ Bank Approval Date                       Closing Date (Actual)
+ 04-Aug-2011                              16-Jan-2024
+
+                                          IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                         23,800,000.00                                                0.00
+
+ Revised Commitment                          47,870,000.00                                                0.00
+
+ Actual                                      41,848,508.60                                                0.00
+
+
+
+
+ Prepared by                  Reviewed by                ICR Review Coordinator         Group
+ Ranga Rajan                  Fernando Manibog           Avjeet Singh                   IEGSD (Unit 4)
+ Krishnamani
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objective (PDO) as stated in the Loan Agreement (Schedule 1, page 5) and in the
+   Project Appraisal Document (PAD, page 4) is:
+
+   " To modernize the land administration and management system to improve the efficiency,
+   transparency and cost effectiveness of government services ".
+
+
+
+                                                                                                 Page 1 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     ILAS Project (P122219)
+
+
+
+   The PDO did not change with the Additional Financing (AF) for the project.
+
+   For the purpose of this Implementation Completion Report Review (ICRR), the PDO is unpacked as follows:
+
+   PDO 1. To modernize the land administration and management system to improve the efficiency of
+   government services.
+
+   PDO 2. To modernize the land administration and management system to improve the transparency of
+   government services.
+
+   PDO 3. To modernize the land administration and management system to improve the cost effectiveness of
+   government services.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  24-Apr-2017
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   There were four components (PAD, pages 6-7).
+
+   A. Land Registration System Development. The estimated cost at appraisal was US$2.18 million. With
+   AF, the cost was US$10.98 million. The actual cost was US$9.69 million. Activities in this component
+   planned to improve and automate the land registration system in the municipal courts under the Ministry of
+   Justice and Public Administration (MoJPA ) and the Land Registry Office (LRO). Activities included
+   developing a land registration strategy, scanning and digitizing land registry documents and improving the
+   legal framework and land registry data for migration to the Joint Information System (JIS).
+
+   B. Spatial Information and Cadaster System Modernization. The estimated cost at appraisal was
+   US$2.84 million. With AF, the cost was US$6.14 million. The actual cost was US$7.78 million. Activities in
+   this component aimed to improve the quality of spatial and cadaster data maintained by the State Geodetic
+   Administration (SGA) and implement national spatial data Infrastructure (NSDI). Activities included
+   supporting the SGA with its restructuring (including improving the physical premises of regional offices and
+   preparing a strategy for SGA)), improving the Geoportal and supporting the SGA digital archive and
+   scanning of cadaster documents.
+
+   C. Improving Digital Services. The estimated cost at appraisal was US$7.75 million. With AF, the cost
+   was US$12.55 million. The actual cost was US$13.36 million. Activities in this component aimed to support
+   developing the Joint Information System (JIS) and rolling out the JIS to all cadaster land registry
+
+                                                                                                   Page 2 of 16
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    ILAS Project (P122219)
+
+
+
+  offices, training and financing hardware, establishing a structure to manage the JIS operation over the long
+  term and strengthen institutional capacities for transforming digital cadaster map sheets to a unified, geo-
+  referenced cadaster map.
+
+  D. Project Management, Training, Public Awareness. The estimated cost at appraisal was US$2.70
+  million. With AF, the cost was US$5.30 million. The actual cost was US$4.40 million. Activities in this
+  component aimed to support a Project Implementation Unit (PIU) for fiduciary and monitoring and
+  evaluation, training programs for SGA and land registry staff, educational programs for geodetic and legal
+  faculties and public awareness campaigns.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project cost. The estimated cost at appraisal (including from non World Bank sources) was US$50.61
+  million. With AF of US$ 23.80 million, the total revised estimate was US$64.15 million. The actual cost was
+  US$58.13 million.
+
+  Financing. The project was financed by an International Bank for Reconstruction and Development (IBRD)
+  loan of US$24.07 million. AF of US$23.80 million was approved on August 1, 2018. With this, the total Bank
+  financing for the project was US$47.87 million. The amount disbursed was US$41.84 million. There was
+  parallel financing for complementary activities via the European Union's (EU) Instrument for Pre-Accession
+  (IPA).
+
+  Borrower contribution. Borrower contribution of US$2.74 million was planned at appraisal. Their actual
+  contribution was US$16.28 million.
+
+  Dates. The project was approved on August 4, 2011, became effective on November 15, 2011 and was to
+  close on October 31, 2015. AF was approved on August 1, 2018. The Mid-Term Review (MTR) was held
+  on November 6, 2013. The project closed on January 16, 2024.
+
+  Changes. There were four level 2 restructurings for the parent project. There were two level 2
+  restructurings following the AF. The changes made during the project lifetime are listed sequentially.
+
+        Funds were reallocated between disbursement categories through the first restructuring on
+         January 16, 2014.
+
+  The main change through the second restructuring on August 7, 2015.
+
+        The closing date was extended by eighteen months from October 31, 2015 to April 30, 2017, to
+         compensate for the delays in rolling out the JIS.
+
+  The following changes were made through the third project restructuring of April 24, 2017:
+
+        The target for reducing transaction time for land registry and cadaster was reduced .
+        The closing date was extended by a year from April 30, 2017, to April 30, 2018, to provide time for
+         cadaster and land registry offices to reduce transaction processing times using the new services
+         provided by the JIS.
+
+
+                                                                                                   Page 3 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     ILAS Project (P122219)
+
+
+
+   The closing date was extended by eight months from April 30. 2018 to December 31, 2018 through the
+   fourth project restructuring on April 24, 2018, for fully disbursing the original loan.
+
+   These changes were made with the AF for the project on August 1, 2018.
+
+         The scope was scaled up for components A, B and C activities. The activities included: (i) scaling up
+          the percentage of requests for land sector services lodged online: (ii) expanding investments in the
+          digital services of SGA, MoJPA and the LROs: (iii) support to the LROs that were underperforming in
+          processing transaction times and relocation of the Zagreb LRO: (iv) implementing a joint cadaster
+          and land registration strategy: and (v) scaling up efforts to increase the number of harmonized
+          cadastral parcels in the JIS.
+         The AF project was to close on January 16, 2022.
+
+   The following change was made through the fourth project restructuring on April 23, 2021.
+
+   The closing date of the AF loan was extended by a year to January 16, 2023, for completing the ongoing
+   activities that were delayed due to a combination of factors caused by the COVID-19 pandemic and the
+   2020 earthquakes.
+
+   The following change was made through the fifth project restructuring on December 29, 2022.
+
+   The closing date was extended by an year from January 16, 2023 to January 16, 2024 for completing the
+   ongoing AF activities.
+
+   Split rating. The PDO remained unchanged throughout the project. Although the target for one indicator
+   was reduced, the target was revised at a relatively early stage in the project, when 17% of the Bank
+   financing was disbursed. Given that revisions were made at an early stage in the project when the amount
+   disbursed was relatively low, this review is not based on a split rating to derive overall project outcome.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+County context. When this project was under preparation, Croatia had met the political criteria for
+European Union (EU) entry and made substantial progress on introducing the rule of law. As Croatia
+entered the final stage on EU accession, further reforms were necessary for Croatia to complete its
+transition to a market economy. Specifically, reforms were required for improving land tenure security and
+strengthening Croatia's land administration and management system. (Croatia became an EU member on
+July 1, 2013).
+
+Sector context. At appraisal, Croatia's land administration had been moving towards digital transformation,
+with progress made towards functional integration between the Ministry of Justice and Public Administration
+(MoJPA) responsible for overseeing Land Registry Offices (LROs), and the State Geodetic Administration
+(SGA) responsible for Cadaster offices (COs). The MoJPA and SGA had developed a Joint Information
+System (JIS) - a central database of cadaster and land registry information - for harmonizing data. JIS was
+piloted in 2010 and had to be rolled out to COs and LROs. Further, institutional restructuring of the SGA
+
+                                                                                                   Page 4 of 16
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     ILAS Project (P122219)
+
+
+
+and the land registry function at MoJPA and improving the quality of land registry and cadastral for
+ensuring interoperability of JIS with other key registers (such as the e-government platform) were required
+in the sector context.
+
+ The Government also needed to develop the national spatial infrastructure (NSDI) and geospatial
+information in line with the EU's Infrastructure for Spatial Transformation (INSPIRE) Directive. As Croatia
+prepared to enter the EU, geospatial information - recognized globally as necessary for environmental
+monitoring, agricultural subsidies, regional and municipal planning and transportation planning and other
+government services - was deemed necessary for improving government service delivery.
+
+Government strategy at appraisal. At appraisal, the PDO was fully aligned with the Government's
+Strategic Development Framework (SDF) for 2006 - 2013. The SDF identified developing a fully digital land
+registry as a priority for enhancing transparency in public administration.
+
+Current Government strategy. The PDO is relevant to the current government strategy outlined in
+National Recovery and Resilience Plan (NRRP) for 2021 - 2026, the National Development Strategy (NDS)
+2030 and EU-level Inspire Directive. Under NRRP, the project's activities directly contributed to the
+"Economy Pillar", through its investments in providing e-services. The project supported the NDS goals,
+particularly those related to effective and efficient judiciary, public administration and digital transformation
+of society. Finally, the project's investments in establishing the National Spatial Data Infrastructure (NSDI)
+would help in aligning Croatia's with the EU's Inspire Directive for making geospatial information
+interoperable among EU member states.
+
+World Bank (WB) strategy at appraisal. At appraisal, the PDO was aligned with two pillars of the Country
+Partnership Strategy (CPS) for 2009 - 2012: Pillar two: Strengthening private-sector led growth and
+accelerating EU convergence. and Pillar four: Increasing the sustainability of long-term development.
+
+WB current strategy. The PDO continues to be relevant to WB strategy for Croatia. The PDO is well-
+aligned with the Country Partnership Framework (CPF) for Croatia for 2019 - 2024. The PDO was relevant
+to the Focus Area 1. Enhancing Public Sector Performance and Institutions and the CPF objective of
+"improving efficiency of public administration to implement strategy and deliver services': and Focus Area 3.
+Strengthening market institutions to enable a dynamic enterprise sector and the CPF objective of
+"improving business climate and increasing the private sector's role in the economy". The CPF highlighted
+the need for "reducing land transaction processing times", "increasing the percentage of applicants per
+annum lodging land registration requests online" and "increasing the use of spatial data by government
+agencies/ministries.
+
+Relevance of the PDO. When this project was prepared, the Bank had completed the first phase of
+the Real Property Registration and Cadaster Project in 2010. The outcomes of this project represented the
+initial steps of land registry and cadaster reform in Croatia towards simplifying procedures, improving
+efficiency of government services, increasing transparency, developing joint procedures and integrating
+land database under the JIS.
+
+This project aimed at continuing the land administration and management reforms by rolling out the JIS to
+all cadaster and land registry offices and by developing the national spatial development infrastructure
+(NSDI) and geospatial information in line with the EU's Directive. The development objective, was aligned
+with the current Bank strategy and directly responded to the country's requirements. The PDO objectives
+
+
+
+                                                                                                       Page 5 of 16
+                                      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                      ILAS Project (P122219)
+
+
+
+               were appropriately pitched at the outcome level of the results chain to address the identified problems. The
+               relevance of the PDO is rated as High.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             PDO 1. To modernize the land administration and management system to improve the efficiency of
+                             government services.
+
+                             Rationale
+                             Theory of change. The project activities aimed at addressing the challenges associated with the limited
+                             integration of land registry offices (LROs) and cadaster offices (COs) to support digital transformation in the
+                             land sector. The outputs of activities such as scanning paper archives of the LROs, formulating a land
+                             registration strategy, preparing the legal framework, and developing software applications and data entry
+                             processes in cadastral municipalities, were likely to aid in reducing transaction processing times for Croatia's
+                             land registry offices and cadaster offices. The causal links between the inputs (project activities), outputs and
+                             outcomes were logical. The intended outcomes were monitorable.
+
+                             Outputs.
+
+                                        The JIS was operational in 113 COs as targeted, and 109 LROs, exceeding the target of 107.
+                                         Customers could access land registry and cadaster information at either a LRO or a CO and access
+                                         information about a property in any part of Croatia regardless of the official jurisdiction of the LRO or
+                                         CO.
+                                        67.5 million pages of land records were scanned, with digitized information made available to LRO
+                                         and CO staff via the JIS. This indicator was monitored without a specified end-target, as this activity
+                                         was no longer under the project, but financed by the EU.
+                                        The scanning center was constructed in Vinkovci as targeted for digitizing analogue and cadastral
+                                         maps and spatial information for uploading into the JIS and harmonization with the land registry
+                                         data. Two central archives - one for the MoJPA in Gospic and one for the SGA in Gina were
+                                         constructed in line with EU standards. These facilities are now the main caches for paper and land
+                                         registry and cadastral records in Croatia. The Zagreb LRO and three regional COs were constructed
+                                         for streamlining businesses practices in accordance with Croatia's broader judicial reform and digital
+                                         transformation initiatives.
+                                        435 women from the MoJPA and 461 from the SGA were trained under the project. Targets were not
+                                         specified for this indicator.
+
+
+                                                                                                                                     Page 6 of 16
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   ILAS Project (P122219)
+
+
+
+Outcomes.
+
+The outputs described above were expected to lead to two outcomes: (i) reduce transaction processing times
+for land registration and cadaster services; and (ii) increase customer satisfaction with the land administration
+services.
+
+      Following the MoJPA and SGA's efforts to roll out the JIS to all LROs and COS, develop a template
+       for the consolidation of technical and human capacities at LROs and COs, the processing times for
+       LRS reduced from 46 days at the baseline to 8.08 days (primarily for sales and mortgages), exceeding
+       the revised target of ten days and close to the original target of seven days.
+      The processing time for cadaster services dropped from 30 days at the baseline to six days,
+       exceeding both the revised and original targets of ten and seven days respectively.
+      Customer satisfaction surveys carried out in 2016, 2018 and 2021 revealed high satisfaction rating,
+       with the 2021 survey having overall scores of 4.8 for COs and 4.7 for LROs on a scale of one to five.
+       The surveys collected information about the users' understanding of services, service accessibility and
+       performance of the LRO and CO staff.
+
+Although the intended outcomes were either exceeded, achieved or almost achieved, the extent to which the
+outcomes were attributable to the project cannot be ascertained, given the interdependencies between this
+project and the complementary project financed by the EU. Efficacy of the PDO is hence rated as substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+PDO 2. To modernize the land administration and management system to improve the transparency of
+government services.
+
+Rationale
+Theory of change. The project activities aimed at improving the transparency of the land registration
+process. The outputs such as constructing a scan center, scanning and indexing paper records in selected
+places, constructing and renovating office premises for serving the public, institutional strengthening of the
+State Geodetic Office (SGO's) and public awareness campaigns, were likely to aid in the outcome of
+increasing the transparency of the land registration processes. The causal links between inputs, outputs and
+outcomes were logical. The intended outcomes were monitorable.
+
+Outputs.
+
+      Besides the outputs described above, which were also relevant to this PDO, the project aided in
+       introducing the JIS's One-Stop Shop (OSS) for land services. This output provided citizens and
+       businesses with an online platform for accessing information and submitting queries concerning land
+
+
+
+
+                                                                                                   Page 7 of 16
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   ILAS Project (P122219)
+
+
+
+       and property in Croatia. Overall, the nine-web services provided by the JIS gave the users information
+       ranging from land registry extracts, cadastral map copies and public notary services.
+
+Outcomes.
+
+The outputs described above, were expected to contribute to transparent land service transactions monitored
+through the percentage of customers lodging land services on line.
+
+      68.23% of customers lodged land requests online, far exceeding the target of 20%. The ICR noted
+       that achievement of this figure was incentivized by the Government's Land Registration Act of 2019
+       that mandated online submission of land transactions.
+      There were 6,769,000 requests for information processed online via the Geoportals (as compared to
+       850,000 requests at the baseline). End-target for this indicator was not specified. The ICR (para 38)
+       noted that cadastral surveyors now actively use the JIS's e-services concerning geodetic elaborates,
+       which are updated sketches of any new constructions that occur on a cadastral parcel and that 100%
+       of all new geodetic elaborates are now submitted in a standardized digital form through the JIS.
+
+Efficacy of this PDO is rated as substantial, given that the outcomes were exceeded or achieved.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 3
+Objective
+PDO 3. To modernize the land administration and management system to improve the cost effectiveness of
+government services.
+
+Rationale
+Theory of change. The project aimed at digital transformation at the MoJPD and the SGO. The outputs of
+activities such as purchasing hardware for Geoportal development, harmonizing and georeferencing digital
+cadastral maps for municipalities, harmonizing LRO data for making them interoperable with Croatia's
+personal identification number register and the tax administration system and rolling out the JIS to LROs and
+COs were likely to aid in improving the cost-effectiveness of service transactions. The causal links between
+inputs, outputs and outcomes were logical and the intended outcomes were monitorable.
+
+The theory of change for the PDOs were predicated on the these assumptions: One, the government
+continues to prioritize land sector reforms: Two. there is adequate capacities of the implementing agencies:
+and three, there is sustained stakeholder engagement on the benefits of e-services. These explicitly stated
+assumptions proved to be realistic for achieving the intended outcomes.
+
+Outputs.
+
+In addition to the outputs described above, the following outputs were relevant for this objective.
+
+
+
+                                                                                                      Page 8 of 16
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                ILAS Project (P122219)
+
+
+
+
+                                  The cadastral maps of 2,498 municipalities were homogenized for ensuring their consistency to a
+                                   uniform standard, far exceeding the target of 400. The field surveys conducted as targeted in ten
+                                   additional cadastral municipalities, increased coverage of updated information in Croatia's
+                                   cadaster. The project contributed to the harmonization and transfer of 1,640,381 parcels to the land
+                                   database maintained in the JIS as targeted.
+                                  The project aided in providing capacity building for 1,598 and 4,736 technical staff of the MoJPA and
+                                   SGA respectively.
+                                  On December 18, 2013, the Government enacted the JIS Management and Coordination Decision to
+                                   appoint a JIS Coordinator, a JIS Management Working Group and a JIS Manager as targeted to
+                                   ensure sustainability of the JIS (This was a Legal Covenant).
+
+                            Envisioned activities regarding the transfer of harmonized cadaster parcels from 50 cadastral municipalities
+                            where surveys were completed could not be completed due to the onset of the COVID-19 pandemic.
+
+                            Outcomes.
+
+                            The outputs described above were expected to lead to the outcome of increasing the cost-effectiveness of
+                            government services monitored by the increased use of spatial data by government
+                            agencies/ministries. Even though there was no explicit indicator to measure the cost-effectiveness, when the
+                            project closed, 152 government agencies/ministries were using shared spatial data, exceeding the target of
+                            30 agencies which seemed to indicator cost efficiency.
+
+                            Efficacy of this PDO is rated as substantial, as the targeted outcome was achieved.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The three project targeted outcomes were substantially achieved, and the target values were exceeded or
+                            largely realized. The extent to which the project outcomes can be attributed to this project cannot be precisely
+                            ascertained, given the interdependencies of this project with the parallel project financed by the EU. However,
+                            it is reasonable to assume that the project contributed to robust technical dialogue and knowledge transfer
+                            with the World Bank on best practices for JIS development. The project also laid the groundwork for a follow
+                            on project. This project's links with the follow on project would likely help in ensuring the sustainability of
+                            development outcomes. The overall efficacy is therefore rated as substantial.
+
+
+
+                            Overall Efficacy Rating
+
+
+
+                                                                                                                               Page 9 of 16
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      ILAS Project (P122219)
+
+
+
+  Substantial
+
+
+
+ 5. Efficiency
+Economic analysis. A cost-benefit analysis was conducted for the efficiency gains from project activities
+accounting for 76% of the appraisal estimate (original project) and 83% of actual cost (original + the AF project).
+The efficiency gains were measured through indicators such as the number of information inquiries to the land
+registry per year (a proxy for improved accessibility to the spatial data), reduction in transaction processing time
+for COs and LROs and economic data on historical wages. The indirect project benefits that were not factored in
+the economic analysis included the benefits arising from the transparency of the real estate markets and their
+impact on the mortgage and catastrophe insurance markets.
+
+The ex ante analysis assumed time savings of 15% at most for both COs and LROs resulting from the average
+reduction in time needed to process land requests. While the ex ante analysis assumed efficiency gains only for
+the first four years and at a constant level after, the data for ex post analysis appropriately linearly interpolates
+the data for 2013-2023.
+
+The net present value at appraisal using a 10% discount rate was EURO 16.3 million. The NPV at project
+closure was EURO 57.0 million. The ex post Economic Internal Rate of Return (EIRR) was 136% as compared
+to the ex ante EIRR of 31%. The reason for the significant divergence in efficiency gains between the ex post
+EIRR and the ex ante EIRR was due to the underlying assumptions and the rigorous and sound methodology
+followed in calculating the efficiency gains at project closure.
+
+Operational issues during implementation. The project was implemented over twelve and half years. The
+original project closed three years beyond the original closing date of October 31, 2015. This was mainly due to
+the delays in the roll out of the JIS system in the initial years. The project scope was expanded with the AF for
+the project. Although the closing date for the AF project was extended by two years, the delay was partly due to
+factors beyond the control of the project in the latter years such as the physical restrictions in the wake of the
+COVID-19 pandemic and the 2020 earthquake in Croatia.
+
+Overall efficiency is rated as substantial, as the project demonstrated positive net benefits that significantly
+exceeded the estimated benefits at the appraisal stage.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                 Rate Available?             Point value (%)            *Coverage/Scope (%)
+                                                                                        76.00
+ Appraisal                                                   31.00
+                                                                                         Not Applicable
+
+
+                                                                                                       Page 10 of 16
+      Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+      ILAS Project (P122219)
+
+
+
+                                                                                         83.00
+ICR Estimate                                                  136.00
+                                                                                          Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of the PDO to the Government strategy and the Bank strategy is rated as High. Although the
+outcomes were not fully attributable to the project, overall efficacy is rated as substantial, given that the targeted
+project outcomes were exceeded or achieved. Efficiency are rated as Substantial, given the high economic
+returns for the project. Taking these ratings into account, outcome is rated as satisfactory.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+The ICR rates the risk to development outcome as Low (ICR, para 82).
+
+Government commitment/ownership. The Government commitment to digital transformation of the land
+management system was demonstrated by the enactment of the Land Registration Act of 2019 that
+mandated online submission of land transactions. The ICR noted that with the enactment of multiple new
+laws in Croatia concerning topics such as physical planning and construction and environmental protection,
+there is increasing pressure on Croatia's land registry and cadaster in the form of new incoming cases. With
+the need to develop new land registry and cadaster services in support of these sectors, the Government
+continues to utilize EU financing and has requested further support from the Bank through the ongoing
+Justice for Business project.
+
+Technical risk. There is low risk to the technical sustainability of the JIS. The ICR noted that government
+fully recognizes that full functionality of the JIS is crucial for sustainability of Croatia's land administration
+system. This was demonstrated by the government's enactment of the JIS Management and Coordination
+Decision to appoint a JIS Coordinator, a JIS Management Working Group and a JIS Manager.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The Bank prepared this project based on the experiences and lessons from Bank-financed land
+  administration and management projects in Bosnia and Herzegovina and Georgia and from the previous
+  Bank-financed project in Croatia, as many project activities represented continuation of activities financed
+  under the previous project. The components and activities were well-aligned with the objectives and this
+  allowed the project to absorb the AF without changing the objectives. The design appropriately included a
+
+                                                                                                         Page 11 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     ILAS Project (P122219)
+
+
+
+  legal covenant that the Government would establish a management organization for the JIS to
+  ensure sustainability. The Bank prepared this project in collaboration with the EU, which was financing
+  complementary land sector activities under the EU's Instrument for Pre-Accession (IPA) 2008 and 2010
+  annual programs.
+
+  The Bank retained the implementation arrangements of the previous Bank-financed project which had
+  been proven to be effective: (i) The MoJPA was overall in charge of land registration and SGA in charge
+  for cadaster activities; and (ii) A Project Implementation Unit (PIU) was responsible for fiduciary and
+  monitoring and evaluation functions. (PAD, para 20) .The arrangement proved to be effective for this
+  project.
+
+  The Bank identified several risks at appraisal including risks related to the inter-dependency of project
+  activities with EU IPA financing for complementary issues which would raise attribution issues and risks
+  of delays in developing the JIS and Information Technology (IT). With mitigation measures, the overall
+  project risk was rated as moderate at appraisal (PAD, para 35). The arrangements made at appraisal for
+  fiduciary and safeguards compliance were appropriate (discussed in sections 10).
+
+  There was a minor shortcoming with M&E, with one of the original key outcome targets unrealistic
+  (discussed in section 9).
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The Bank's supervision was done by a country-based staff, including previous Task Team Leaders (TTLs)
+ and Bank-staff overseeing the project's safeguards and fiduciary requirements. The Bank agreed at
+ Government request to provide AF for scaling up the project activities and maintain dialogue and technical
+ support to other activities financed by the EU. The support provided by the team aided in fiduciary and
+ safeguards compliance. The supervision team was proactive in ensuring that delays were addressed as
+ they arose and worked closely with the Project Implementation Unit (PIU) to ensure that all activities were
+ completed prior to project closing.
+
+ The quality of supervision was rated as satisfactory.
+
+ Overall Bank performance is rated as satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+
+                                                                                                  Page 12 of 16
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     ILAS Project (P122219)
+
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The results framework was logical and the key outcome indicators were appropriate for monitoring project
+ performance (discussed in section four). The indicators were also flexible to accommodate the later
+ inclusion of AF activities. The framework also had a set of intermediate indicators without defined end
+ targets. For example, the indicators " number of services provided by the Geoportal " and " Number of
+ requests processed online via the Geoportal " were not subject to the control of project interventions.
+ However, the indicators would serve as a proxy for decision makers to determine whether or not new e-
+ services that integrated systems such as the eLR-book web portal and Geoportal were actually being used.
+ Also, there was no explicit indicator to measure cost-effectiveness, a key aspect of the PDO.
+
+ SGA and the MoJPA were in charge of M&E. Both entities had built substantial capacity under the previous
+ Bank-financed project to provide the data for monitoring performance. The PIU was responsible for
+ administering the customer surveys every other year.
+
+ One minor shortcoming with the M&E framework was that the target for reducing transaction time for land
+ registry and cadaster had to be reduced based on the realities on the ground (The target was reduced to
+ account for the additional time required for COs and LROs to adjust to changes in their business operations
+ (transition from analogue to digital) as a result of the JIS.
+
+
+
+b. M&E Implementation
+  The ICR (para 71) noted that the PIU collected, recorded and analyzed data in a sound manner
+  throughout the project. Data collection improved significantly y with the nationwide roll-out of the JIS. The
+  Bank supported the PIU in developing methodologies to track progress, such as the amount of time
+  required for the LRO to process a transaction that took into account what was within the control of the
+  LRO.
+
+  Customer surveys were conducted during implementation period to monitor progress. The indicators
+  were modified when the AF was approved for the project, to take into account the expanded scope.
+  During implementation, selected intermediate indicators were appropriately dropped if they were no
+  longer deemed relevant, such as the various core land administration indicators that were initially
+  included to meet requirement of the Bank's then existing policy, but were later deemed to be redundant
+  given that other indicators were already measuring progress.
+
+
+
+c. M&E Utilization
+  M&E was utilized to monitor performance and to focus on areas that did not meet expectations. The PIU
+  maintained a dedicated M&E specialist during the life of the project to compile information provided by
+  the MoJPA and SGA,
+
+  Overall M&E is rated as substantial. Although there were minor shortcomings, the results framework
+  presented a sound instrument for measuring the achievements of the project and was adjusted based on
+  changing circumstances.
+
+
+                                                                                                     Page 13 of 16
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     ILAS Project (P122219)
+
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as a Category B (partial assessment) project under the WB safeguard policies.
+   Two safeguard policies were triggered at appraisal: Environmental Assessment (OP/BP 4.01); and Physical
+   Cultural Resources (OP/BP 4.11) (PAD, page vi).
+
+   Environmental Assessment and Physical Cultural Resources. The environmental safeguards policy
+   was triggered due to the anticipated rehabilitation of buildings, primarily cadaster offices and data facilities.
+   The safeguards on physical cultural resources was triggered as some buildings were in historic, cultural
+   areas. The potential environmental impacts were expected to be local, manageable and temporary. An
+   Environmental Management Framework (EMF) was completed and publicly-disclosed at appraisal to
+   address issues relating to safeguards (PAD, para 54).
+
+   The project complied with the safeguards requirements (ICR, para 75). The project activities were not
+   located in areas of historical or cultural significance. An issue regarding Occupational Health Safety
+   (OHS), necessitated corrective measures that were executed promptly upon identification.
+
+
+
+
+b. Fiduciary Compliance
+   Financial Management (FM). The Bank conducted an assessment of the FM capacity of the PIU at
+   appraisal. The assessment concluded that the FM arrangements were adequate. The overall FM risk was
+   rated as moderate (PAD, para 42). The FM was satisfactory throughout the project lifetime (ICR, para 78).
+   Unqualified project audits were submitted in a timely fashion.
+
+   Procurement Management. The Bank conducted an assessment of the procurement capacity at
+   appraisal. The assessment concluded that the PIU had adequate experience to carry out the procurement
+   policies related to the project. Overall procurement risk was rated as moderate (PAD, para 46). The
+   project's procurement performance was consistently rated as satisfactory (ICR, para 77). The project used
+   the Systematic Tracking of Exchanges in Procurement (STEP) for tracking procurement and two
+   experienced specialists were trained in using STEP. The ICR (para 77) notes that few complaints were
+   raised during the project, none of which led to changes in procurement decisions.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   There were no unintended impacts.
+
+
+                                                                                                       Page 14 of 16
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     ILAS Project (P122219)
+
+
+
+
+d. Other
+   Not applicable.
+
+
+
+11. Ratings
+                                                                                Reason for
+Ratings                         ICR                   IEG
+                                                                                Disagreements/Comment
+Outcome                         Satisfactory          Satisfactory
+
+Bank Performance                Satisfactory          Satisfactory
+
+Quality of M&E                  Substantial           Substantial
+
+Quality of ICR                  ---                   Substantial
+
+
+12. Lessons
+
+The ICR draws the following two main lessons from the experience of implementing this project.
+
+1. The project timeline and instruments needs to be carefully assessed in land administration
+projects. Bank's experience with land administration projects is that such projects take a long period
+of time to ensure successful outcomes. The reforms implemented under this project took about
+twelve years. The lesson is that the Bank can take advantage of Investment Project Financing and
+Additional Finance (AF) tools for projects supporting sectors that take inherently long periods of time
+to ensure outcomes, and that task teams working on land administration projects may also wish to
+consider financing tools such as the use Multi-phase Programmatic Approaches for land
+administration projects.
+
+2. Functional integration and interinstitutional cooperation can raise the potential for success
+in land administration projects. When this project was under preparation, Croatia maintained land
+registry and cadaster under separate entities. For many years, conventional wisdom has been to
+integrate land registry and cadaster agencies in a single government entity for promoting
+effectiveness. This project demonstrated how functional integration of agencies can occur through
+harmonizing operational procedures. The development of the Joint Information System and its
+improvements in this project were crucial to the cooperation between the Ministry of Justice and
+Public Administration (MoJPD) and the State Geodetic Administration (SGA). The lesson is that
+functional integration can be a viable alternative to consolidating land records under a single agency
+for other countries, particularly for those countries where the political economy is not conducive for
+discussions about institutional reforms.
+
+
+
+13. Assessment Recommended?
+
+
+                                                                                                   Page 15 of 16
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       ILAS Project (P122219)
+
+
+
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is clear, concise and well-written. The theory of change expounded in the ICR clearly articulates the
+causal links between project activities (inputs), outputs and the intended outcomes. The ICR explicitly states the
+assumptions under which the desired outcomes are likely to be realized. The ICR provides ample evidence to
+assess project performance and the ICR draws reasonably good lessons from the experience of implementing
+this project. The economic analysis provided in the Annex provides a clear and convincing exposition of the
+efficiency gains of the project.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                    Page 16 of 16
+

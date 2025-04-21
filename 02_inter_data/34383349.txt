@@ -1,0 +1,1761 @@
+     Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+     Transforming Secondary Edu for Results (P160943)
+
+
+
+                                                                               Report Number : ICRR0023964
+
+1. Project Data
+
+
+
+ Project ID                                Program Name
+ P160943                                   Transforming Secondary Edu for Results
+
+ Country                                   Practice Area(Lead)
+ Bangladesh                                Education
+
+
+ L/C/TF Number(s)                          Closing Date (Original)            Total Program Cost (USD)
+ IDA-61290,TF-A5179                        31-Dec-2022                                       486,955,716.92
+
+ Bank Approval Date                        Closing Date (Actual)
+ 18-Dec-2017                               30-Jun-2023
+
+                                           IBRD/IDA (USD)                                    Grants (USD)
+
+ Original Commitment                          520,000,000.00                                  10,000,000.00
+
+ Revised Commitment                           499,953,540.00                                  10,000,000.00
+
+ Actual                                       490,406,762.37                                   1,235,006.84
+
+
+
+
+ Prepared by                Reviewed by                  ICR Review Coordinator        Group
+ Denise A. Vaillancourt     Judyth L. Twigg              Susan Ann Caceres             IEGHC (Unit 2)
+
+
+
+
+2. Program Context and Development Objectives
+
+DEVOBJ_TBL
+a. Objectives
+   As stated in the August 13, 2018, Financing Agreement between the People’s Republic of Bangladesh and
+   the International Development Association (IDA) (Schedule 1, p. 5), the project’s development objective
+   (PDO) was “…to improve student outcomes in secondary education and the effectiveness of the secondary
+   education system.” The design document presented the same statement (Project Appraisal Document, PAD,
+   pp. i, 8).
+
+
+
+                                                                                                Page 1 of 32
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Transforming Secondary Edu for Results (P160943)
+
+
+
+   The PDO did not change throughout the project’s life. However, PDO-level indicators and targets were
+   revised as a part of the project’s first and fourth restructurings. Changes under the first restructuring involved
+   the elimination of PDO indicators, reducing the scope of action and expected student outcomes (learning and
+   retention) from two targeted grades to one, and thus warrant a split rating methodology. Changes to PDO
+   indicators and targets under the fourth restructuring were not significant enough, by themselves, to cause a
+   difference in outcome ratings. As in the ICR, a split rating methodology is not adopted for changes made
+   under the fourth restructuring.
+
+
+
+b. Were the program objectives/key associated outcome targets revised during
+   implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  No
+
+c. Will a split evaluation be undertaken?
+   Yes
+
+d. Components
+   Original Components
+
+   The government's Secondary Education Development Program (SEDP or “the program”), covering
+   the period CY2018-2022, was adopted in August 2018. Its main objective was to achieve a more efficient,
+   equitable, inclusive, and quality secondary education system to meet the demands of the 21st century. The
+   five-year program aimed to cover grades 6-12 annually, supporting more than 12 million students and
+   357,000 teachers from more than 20,300 general schools, 9,400 madrasahs (Islamic religious schools), and
+   1190 general schools with Secondary School Certificate vocational stream programs. As originally
+   designed, SEDP spanned the range of Ministry of Education (MoE) activities, excluding those for higher
+   education (post grade 12), and technical and vocational education and training under the Directorate of
+   Technical Education and the Bangladesh Technical Education Board.
+
+   The SEDP was structured around three program results areas (RAs, to be achieved through a number of
+   system-wide reforms and improvements):
+
+         1. enhanced quality and relevance of secondary education (curriculum reforms, teacher
+            professional development, and teaching-learning in Bangla, English, mathematics, and science;
+            classroom and student assessment and examination reforms; use of information and communication
+            technology (ICT) for pedagogy; prevocational education; teacher management and accountability,
+            and school management and accountability);
+         2. improved access and retention of students (school infrastructure development, stipends
+            program, school grants, adolescent girls program, and enhanced cycle completion for girls and
+            disadvantaged areas); and
+         3. strengthened governance, management, and planning (sector planning, institutional capacity,
+            decentralized management, education management information system [EMIS], monitoring and
+            evaluation [M&E], and fiduciary management).
+
+
+                                                                                                      Page 2 of 32
+  Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+  Transforming Secondary Edu for Results (P160943)
+
+
+
+The government’s implementation arrangements were to include a Program Coordination Unit, an Inter-
+Ministerial Program Steering Committee, a Budget and Finance Committee, a Program Support Unit, an
+Implementation Committee, an Independent Verification Agency (IVA), and other co-implementing agencies
+to run its projects across the country.
+
+The Transforming Secondary Education for Results Operation (TSERO, or “the project”) aimed to
+support the objectives and a subset of interventions and activities included in the government's SEDP
+(CY2018-2022). It consisted of two components: (1) a Program for Results (PforR) component linking
+disbursement of project funds directly to the achievement of specific activities, outputs, and intermediate
+outcomes supporting the achievement the three above-cited Results Areas defined in the SEDP, using the
+country’s own institutions and processes; and (2) an Investment Project Financing (IPF) component,
+financing specific eligible expenditures, in this case technical assistance for sector-wide institutional
+capacity building.
+
+Component 1: Program for Results (PforR) Component (original estimate of $500 million in IDA
+financing; actual cost/disbursements of $489.9 million) to support a subset of the government’s SEDP
+2018-2022 expenditures. This component’s scope was the same as the SEDP’s scope, in terms of their
+implementation periods (January 2018 – December 2022), their nationwide coverage, and their coverage of
+all secondary grades (grades 6-8 at the junior secondary level, and 9-12 at the secondary level). Under the
+PforR design, project disbursements were poised to incentivize and reward the achievement of a
+strategically selected subset of SEDP’s interventions, outputs, and outcomes. Results areas and associated
+disbursement-linked indicators (DLIs) were as follows:
+
+Results Area 1: Enhanced quality of secondary education
+
+      DLI 1: Effective and relevant curriculum in place (Initial DLI Allocation: $40 million or 8 percent
+         of the PforR funding)
+        DLI 2: Assessment and examinations systems reforms implemented to improve teaching and
+         learning (Initial DLI Allocation: $40 million or 8 percent of the PforR funding)
+        DLI 3: Improved teaching/learning in Bangla, English, Mathematics, and Science (Initial DLI
+         Allocation: $100 million or 20 percent of the PforR funding)
+        DLI 4: Improved teacher management and accountability (Initial DLI Allocation: $100 million or
+         20 percent of the PforR funding)
+        DLI 5: Improved school management and accountability (Initial DLI Allocation: $60 million or 12
+         percent of the PforR funding)
+
+Results Area 2: Improved equitable access and retention
+
+      DLI 6: Improved grade retention and cycle completion (Initial DLI Allocation: $70 million or 14
+         percent of the PforR funding)
+
+Results Area 3: Strengthened governance and management
+
+      DLI 7: Institutional capacity strengthened (Initial DLI Allocation: $40 million or 8 percent of the
+         PforR funding)
+
+
+
+
+                                                                                               Page 3 of 32
+  Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+  Transforming Secondary Edu for Results (P160943)
+
+
+
+      DLI 8: Enhanced fiduciary management and data systems (Initial DLI Allocation: $50 million or
+       10 percent of the PforR funding)
+
+These DLIs were agreed on the basis of (a) priority results areas; (b) strategic focus on education quality
+enhancement as envisaged in the government's SEDP; (c) key actions and results that would support
+fundamental system-level transformations; and (d) local and global evidence on what works (including
+lessons learned from projects implemented within the MoE). The DLIs each had one or more disbursement-
+linked results (DLRs) that would trigger periodic disbursements, as expected incremental progress over the
+life of the project would be achieved. The original disbursement periods were defined as follows: (i) Year 1:
+Calendar Year (January – December) 2018; (ii) Year 2: CY 2019; (iii) Year 3: CY 2020; (iv) Year 4: CY
+2021; and (v) Year 5: CY 2022. Achievement of DLIs/DLRs was to be verified by an IVA commissioned by
+the MoE, which would submit supporting documentation to the World Bank reporting on the achievement of
+results.
+
+Component 2: IPF Technical Assistance Facility (TAF) (original estimate: $20 million) to strengthen
+the capacity of the MoE’s Directorate of Secondary and Higher Education (DSHE) and other implementing
+agencies. In complement to the PforR component, the TAF aimed to support technical assistance (TA)
+activities (consulting and non-consulting services and also goods, operational costs, logistics support,
+training, and research) to strengthen implementation capacity and help deliver program results. The IPF
+design was meant to facilitate collaboration and coordination of the World Bank and other development
+partners in their support of technical and fiduciary capacity building and oversight of SEDP implementation.
+The IPF design also included financing for the independent verification of results.
+
+A Program Action Plan (PAP) was developed to support and monitor institutional strengthening to facilitate
+the achievement of program objectives and results. It focused on three categories of critical actions: (1)
+technical actions to support achievement of the DLRs; (2) fiduciary actions to mitigate fiduciary risks; and
+(3) environmental and social safeguards actions to ensure the provision of adequate budget and personnel
+to implement environmental and social aspects. Implementation of the PAP was to be monitored and
+reviewed during joint semi-annual review missions with MoE and development partners.
+
+Revisions to Components
+
+The TSERO was restructured five times in the face of challenges encountered during implementation. The
+revisions: (a) took into account changes to the SEDP between when the project was appraised and when
+the government's SEDP was finally approved and the initial implementation delays resulting from the
+SEDP’s and, consequently, the project’s delayed approvals and effectiveness; (b) adjusted the project to
+support the government in its response to school closures and other restrictions on implementation caused
+by the COVID-19 pandemic; and (c) updated activities, commitments, and due dates to include only what
+was considered achievable within the implementation period, and to reflect evidence generated during the
+course of project implementation.
+
+      Under the first restructuring, the project’s ambition was reduced: PDO Indicator 1 (percentage of
+       students achieving grade level competency in Grades 8 and 10 in Bangla, English, and Math
+       subjects, disaggregated by gender) was adjusted to eliminate reference to Grade 10 and to focus
+       only on Grade 8 competency; and PDO Indicator 3 (Grades 10 and 12 retention rates, of those who
+       started in Grade 6, disaggregated by gender and disadvantaged students) was adjusted to eliminate
+       reference to Grade 12 and to focus only on Grade 10 retention rate.
+
+
+                                                                                                Page 4 of 32
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    Transforming Secondary Edu for Results (P160943)
+
+
+
+        Under the fourth restructuring, PDO Indicator 2 (percentage of schools with Teachers’ Time
+         Spent on Teaching [TST] monitoring system in place, with a target of 60 percent), was changed to
+         more of an output measure (teachers trained in TST on virtual teacher training platform, with a target
+         of 3,000); and PDO Indicator 4 (percentage of school grants utilized as per compliance guidelines
+         according to Grant Management System [GMS] data and verified by citizens’ feedback survey, with
+         a target of 30 percent) was changed to eliminate reference to a citizens’ feedback survey and
+         articulated a less ambitious outcome indicator, more of an output than an outcome, that tracked the
+         reception of grants and stipends rather than their proper utilization (percentage of schools and
+         students receiving grants and stipends as per criteria and verified by beneficiary reported data, with
+         a target of 80 percent).
+
+  In addition to changes to the PDO indicators, the first, second, and fourth restructurings also included
+  changes to: (i) intermediate outcome indicators; (ii) the DLI matrix, including the dropping and adding of
+  DLRs and the revision of targets, definitions, scalability, due dates, and verification protocols for various
+  DLRs; and (iii) the PAP, including (extended) due dates for actions. The ICR’s Annexes 6, 7, and 8 provide
+  details and sequence of these changes to PDO and intermediate outcome indicators, DLIs and DLRs, and
+  the PAP.
+
+
+
+e. Comments on Program Cost, Financing, Borrower Contribution, and Dates
+  Cost. The total cost of the government's SEDP for five years was estimated to be US$17.2 billion, of which
+  US$13.7 billion (or 80 percent) was for recurrent expenditures (government staff salaries and current
+  obligations to government and monthly payment orders [MPO] for teacher salaries) and US$3.5 billion (or
+  20 percent) for program-specific investment expenditures. The main recurrent expenditures were the
+  salaries and allowances for government officers and teachers, textbook production, and other items of a
+  recurrent nature. The program-specific investment expenditures included school grants (accounting for the
+  largest share); operations and maintenance and implementation manpower; training, workshops, and
+  evaluations; stipend payments, civil works, goods and vehicles, and TA activities.
+
+  The total cost of the TSERO (PforR component, only, net of the US$20 million IPF/TA component) was
+  estimated at US$1.997 billion, all of it focused on the support of SEDP program-specific investment
+  expenditures. Of this amount, US$1.287 billion (or 64 percent of the total project cost) was for school
+  grants, US$531 million (or 27 percent of the total project cost) for operations and maintenance, and US$179
+  million (or 9 percent of the total project cost) for training, workshops, and evaluations. The total estimated
+  cost of TSERO, including both the PforR and IPF components, was US$2.017 billion. The ICR (Annex 3, p.
+  61) presents a total actual cost of US$2.0199 billion, very close to the estimated cost. However, the ICR’s
+  Annex 3 (p. 61) is not entirely clear in presenting planned versus actual costs by component (see Section
+  13 on ICR Quality).
+
+  Financing and Borrower Contribution. SEDP’s total program cost of $17.2 billion was to be financed
+  primarily from government sources, with other development partners contributing largely to investment
+  costs. The PAD noted that at the time of project design, the government was discussing with the Asian
+  Development Bank a potential contribution of around US$225 million under its multi-tranche facility
+  instrument (PAD, p. 9). The United Nations Children's Fund, United Nations Educational, Scientific and
+  Cultural Organization, and British Council were also slated to provide TA in selected areas, within the
+  program framework.
+
+
+                                                                                                   Page 5 of 32
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Transforming Secondary Edu for Results (P160943)
+
+
+
+   TSERO was to be financed primarily from government sources, with support from the World Bank. At the
+   time of appraisal, the government committed to financing US$1.497 billion, and the World Bank committed
+   to finance US$500 million for the PforR component. Over and above the PforR’s total cost of US$1.997
+   billion, the TAF was to be supported through an IPF component of US$20 million, half financed by an IDA
+   credit and half by a grant from the Global Financing Facility (GFF). Of the US$510 million in Bank financing
+   allocated to the PforR activities (US$500 million) and to the IPF component (US$10 million), US$487 million
+   (or 95 percent) was disbursed. In an email to IEG dated June 7, 2024, the project team noted that, of the
+   US$20 million allocated to the IPF component, only US$5.8 million was utilized. This amount was financed
+   half by IDA and half by the GFF.
+
+   Key Dates. The project was approved on December 18, 2017, became effective 11 months later on
+   November 6, 2018, underwent a mid-term review on December 23, 2021, one year before the original
+   closing date of December 31, 2022, and closed on June 30, 2023, six months after the original closing
+   date.
+
+   The project was restructured five times.
+
+         The first restructuring, approved on January 21, 2020, introduced changes to the results framework
+            at the PDO level, DLIs, and the PAP in response to delays in project approval, effectiveness, and
+            early implementation.
+           The second restructuring, approved on June 24, 2021, introduced additional adjustments to
+            intermediate outcome indicators and DLIs to overcome delays and setbacks in progress due to the
+            COVID pandemic.
+           The third restructuring, approved on December 2021, extended the closing date of the TAF IPF
+            Trust Fund to December 31, 2022, to align with IDA’s original closing dates for the TAF IPF and
+            PforR components so as to complete critical capacity building activities in the wake of
+            implementation delays due to COVID.
+           The fourth restructuring, approved on December 6, 2022, introduced additional amendments to the
+            results framework at the PDO level and extended the closing date by six months to June 30, 2023.
+           The fifth restructuring, approved on April 26, 2023, cancelled funding under the PforR not disbursed
+            because of shortcomings in the achievement of some DLRs and slightly amended the DLR matrix.
+
+
+
+
+3. Relevance   TBL
+
+
+
+
+a. Relevance of Objectives     New
+
+
+
+
+  Rationale
+  The PDO were highly relevant to the World Bank’s Country Partnership Framework (CPF) for the
+  period FY2023-FY2027 (Report No. 181003-BD), discussed by the Board of Directors on April 27,
+  2023. The CPF is organized around three higher-level outcomes (HLOs): (1) increased private sector jobs;
+  (2) improved socioeconomic inclusion; and (3) enhanced climate and environmental resilience. The PDO
+  were directly aligned with Objective 4, under the second HLO: improved equity in access to quality services
+  for human capital development. Under this objective, education sector-specific indicators track improvements
+  in equitable access to education in the poorest 20 percent of districts and improvements in learning
+
+                                                                                                    Page 6 of 32
+                       Independent Evaluation Group (IEG)                         Implementation Completion Report (ICR) Review
+                       Transforming Secondary Edu for Results (P160943)
+
+
+
+                outcomes among Grade 3 and Grade 8 students. This CPF objective responds to the significant differences
+                in access to services and human development outcomes within cities and regions, highlighted in the CPF
+                and addressed under the project. Two of the three results areas articulated in the government's SEDP, and
+                supported by the PforR (improved access and retention of students, with special emphasis on girls and
+                disadvantaged students, and enhanced quality and relevance of secondary education), are directly
+                supportive of the CPF’s Objective 4. Improvement in learning outcomes is an objective captured in both the
+                CPF and the PDO.
+
+                The CPF also emphasizes the importance of strengthening the performance monitoring of service delivery,
+                grounded in enhanced data management systems, and an open data access and beneficiary feedback
+                system, centered on disadvantaged group-based financing, for achieving greater inclusiveness in education
+                service delivery. Moreover, the CPF underscores the importance of public spending reforms for enhanced
+                human development, including efficiency in planning, budget execution, and reporting, and in the monitoring
+                of outcomes. The project’s support of results areas 1 and 3 (enhanced quality and relevance of secondary
+                education, and strengthened governance and management) includes interventions to strengthen the
+                generation and use of data for sector management, decision-making, and accountability and for enhanced
+                fiduciary management.
+
+                The CPF notes that the country’s effective recovery from the COVID-19 pandemic will depend on stepped-up
+                investments and progress in human development. During the course of implementation, five restructurings
+                ensured the project’s continued relevance to the government's program, especially: (1) the realignment with
+                the government's strategic decision to focus on the lower grades of secondary in the wake of implementation
+                delays that required reduction in scope; and (2) support of the government's efforts to address the significant
+                challenges that COVID-19 posed to education.
+
+                The government's long experience in undertaking a sector-wide approach (SWAp) in the education
+                sector, and the Bank’s role in nurturing and supporting this process, along with other development
+                partners, provided a strong rationale for channeling support through a PforR instrument. Over two
+                decades ago, and with the encouragement of key development partners, the government's primary education
+                sector embarked on a SWAp approach, characterized by an evolving partnership between government and
+                development partners, coalescing around their joint support of nationally defined and led programs focused
+                on results, and moving toward the use of country systems for program monitoring and fiduciary
+                management. In the context of the SWAp tradition, the World Bank was in a position to leverage limited
+                resources to provide support and guidance to SEDP implementation, whose estimated cost was seven times
+                that of IDA’s expected support. More importantly, the PforR instrument was requested by the
+                government and a strategic choice because: (a) DLIs provided strong focus on accountability for results and
+                incentivized government ownership and implementation of critical reforms and policies; (b) PforR would
+                further strengthen the use of country systems and facilitate the scaling up of successful innovations
+                previously piloted with World Bank support; (c) MoE’s Executing Agency for the SEDP (the Secondary and
+                Higher Education Division) was already experienced with DLI-based operations; and (d) PforR would give
+                flexibility and efficiency in supporting a large national program harmonized across objectives, strategic
+                interventions, implementation arrangements, and financial support from the development partners. A small
+                IPF component to finance the verification of results and address shortfalls in government capacity
+                was highly relevant for further strengthening the strategic, technical, and fiduciary management of
+                the government's SEDP in order to achieve improved system effectiveness.
+
+
+Rating Relevance TBL
+
+
+
+
+                                                                                                                  Page 7 of 32
+                      Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+                      Transforming Secondary Edu for Results (P160943)
+
+
+
+                    Rating
+                    High
+
+
+b. Relevance of DLIs                   New
+
+
+
+
+DLI RELEVANCE TBL
+
+
+
+
+                DLI 1
+                DLI
+                Effective and relevant curriculum in place
+
+                Rationale
+                This DLI was critical to the achievement of RA 1 (enhanced quality of secondary education), and to the
+                achievement of Objective 1 (to improve student outcomes in secondary education), given that the curriculum,
+                at the project’s outset, was not fully integrated across grades, sufficiently competency based, or benchmarked
+                against national learning goals. The DLRs were strategically chosen and sequenced to ensure logical and
+                systematic progress towards DLI 1, notably: the approval of the National Curriculum Policy Framework
+                (NCPF); the proper staffing of the National Curriculum and Textbook Board and the approval of its
+                organization and implementation plan; the approval by MoE’s National Curriculum Coordination Committee
+                (NCCC) of the revised curriculum for Grades 6-12, grounded in the NCPF; and the availability at all
+                secondary schools of e-learning and digital universal content of the curriculum.
+
+
+
+                Rating
+                High
+
+                DLI 2
+                DLI
+                Assessment and examinations system reforms to improve teaching and learning
+
+                Rationale
+                This DLI was an essential support to the achievement of improved secondary education quality (RA 1) and
+                student outcomes (Objective 1). At the project’s outset, public examinations (in Grades 8, 10 and 12)
+                encouraged rote learning-based educational practices. Assessment reforms sought to build problem-solving
+                and critical thinking skills. The DLRs were strategically chosen to carry out these reforms, sequenced as
+                follows: the conduct, by at least 20 percent of schools, of assessments of students entering Grade 6 to gauge
+                their readiness for secondary education; the conduct of two National Assessments of Secondary Students
+                (NASS) on a nationally representative sample in Grades 8 and 10 and the publication of findings; the
+                analysis, dissemination, and feedback of NASS 2021 and standardized exam results; and the implementation
+                of standardized Secondary School Certificate and Higher Secondary Certificate examinations by all
+                examination boards.
+
+
+
+                Rating
+                High
+
+                                                                                                                 Page 8 of 32
+      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+      Transforming Secondary Edu for Results (P160943)
+
+
+
+
+DLI 3
+DLI
+Improved teaching/learning in Bangla, English, Mathematics, and Science
+
+Rationale
+Also contributing to RA1 (education quality) and Objective 1 (education outcomes), DLI 3 addressed the
+shortage of qualified teachers, particularly in English, Math, and Science and in rural schools. DLRs were
+designed to incentivize: the deployment of additional qualified and trained subject teachers in English, Math,
+and Science in 4,000 targeted institutions; implementation of practical science teaching in 15,000 institutions;
+a 10 percent improvement in reading proficiency; improvements in Grade 10 students’ learning levels in
+English and Math by at least 5 percent over NASS 2017 levels; online access to virtual MoE-approved
+teachers training content; completion of virtual training by at least 3,000 Grade 6 Math teachers; and at least
+a 15 percent improvement in Math competency of targeted teachers over pretest scores.
+
+
+
+Rating
+High
+
+DLI 4
+DLI
+Improved teacher management and accountability
+
+Rationale
+This DLI addressed the issue of a weak teacher performance management system, which failed to attract,
+develop, and retain the best professionals. It sought to encourage and support teacher management and
+accountability reform to ensure effective quality at entry and effective deployment of teachers. As such, it
+contributed to RA 1 (quality) and Objective 1 (education outcomes), and also to RA 3 (strengthened
+governance and management) and Objective 2 (improved effectiveness of the secondary education
+system). DLRs were designed to reward: implementation of an incentive scheme for teachers in
+geographically disadvantaged areas in at least 10,000 institutions; piloting the teachers' TST monitoring
+system in at least 1,500 institutions and its eventual scale-up to half of all institutions; MoE approval of the
+MPO rationalization plan and updating of MPO guidelines; and the full compliance of teacher (re)deployment
+payment with the MPO rationalization plan and updated guidelines.
+
+
+
+Rating
+High
+
+DLI 5
+DLI
+Improved school management and accountability
+
+Rationale
+
+
+                                                                                                    Page 9 of 32
+      Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+      Transforming Secondary Edu for Results (P160943)
+
+
+
+This DLI addressed the inadequacy of school-level funding, planning and management capacity, and
+performance data, all of which undermined schools’ potential to improve education quality, student
+outcomes, and retention rates, as well as overall sector effectiveness, including the government's push to
+further decentralize sector management and decision-making. It supported the provision of school grants to
+strengthen school management capacity, promote community engagement, and improve school
+accountability mechanisms. As such, it supported RA 3 (strengthened governance and management), which
+in turn contributed to Objective 2 (improved effectiveness of the secondary education system). It also
+supported RAs 1 (quality) and 2 (student access and retention), given schools’ accountability and reporting
+requirements on these performance areas. Under this DLI, school grants were used to improve performance
+management, teaching and learning at the school level, and student cycle completion. Two DLRs incentivized
+incremental improvements in the school grant system: performance-based grants for institutions meeting
+minimum accountability requirements and achieving performance indicators released to at least 5,000
+institutions, and a subsequent increase to 7,500 schools.
+
+
+
+Rating
+High
+
+DLI 6
+DLI
+Improved grade retention and cycle completion
+
+Rationale
+This DLI was designed to support RA 2 (improved equitable access and retention), as well as RA 1 (quality)
+and Objective 1 (education outcomes). It sought to address and correct inequities in access and in learning,
+with a particular emphasis on girls and disadvantaged students. To qualify for the stipends, each of the
+students had to attend at least 75 percent of classes and secure a certain percentage of marks in
+examinations (33 percent of marks for Grades 6 and 7 students; and 40 percent of marks in the final
+examination for Grades 8 and 9 students).
+
+DLRs were designed to target girls and other disadvantaged students with programs and stipends to
+incentivize improvements in their retention rates and cycle completion. They included: approval by MoE and
+implementation of an Adolescent Girls’ Program (AGP) and action plan (including better toilet facilities for
+girls and counseling); MOE approval and implementation of the harmonized stipend program aimed at
+disadvantaged students and its nationwide rollout for Grades 6-12; and parental outreach to help improve
+retention (a DLR added during implementation).
+
+
+
+Rating
+High
+
+DLI 7
+DLI
+Institutional capacity strengthened
+
+
+                                                                                                Page 10 of 32
+                            Independent Evaluation Group (IEG)                 Implementation Completion Report (ICR) Review
+                            Transforming Secondary Edu for Results (P160943)
+
+
+
+
+            Rationale
+            In complement to the improved teacher and school accountabilities and management supported under DLIs 4
+            and 5, this DLI was designed to support and reward improvements in the government's sector-wide
+            management and oversight of SEDP implementation, contributing directly to Objective 2 (secondary school
+            system effectiveness). While Bangladesh’s secondary education sector had, at the time of design, made
+            considerable headway in moving toward a sector-wide approach, there were weaknesses still in securing
+            adequate levels of government financing linked to program priorities, and in their timely release to
+            implementing agencies, which caused delays in implementation and under-utilization of government
+            funds. There were also still a number of standalone operations financed directly by development partners,
+            which had their own separate objectives, indicators, and financing systems that fell outside of the sector-wide
+            approach. DLRs were thus designed to incentivize: the consistency of MoE’s secondary education budget
+            allocations with the SEDP program expenditure framework; the timely release by the Ministry of Finance and
+            MoE of the quarterly funding, inclusive of the advance, by the start of each quarter based on the agreed
+            Annual Development Program (ADP) and Annual Operations Plan (AOP); and a 30 percent reduction of
+            standalone projects, which stood at a total of 13 on June 20, 2017. These DLRs are highly relevant to the
+            need for continued momentum toward government capacity for planning, management, and coordination of a
+            coherent sector-wide program for secondary education.
+
+
+
+            Rating
+            High
+
+            DLI 8
+            DLI
+            Enhanced fiduciary management and data systems
+
+            Rationale
+            This DLI was a critical input to Objective 2 (secondary school system effectiveness). DLRs were designed to
+            incentivize: the establishment and functioning of an enhanced fiduciary system with adequate staffing of
+            financial management (FM) and procurement staff at MoE’s procurement and financing wing and at least 60
+            percent of goods and works packages in the annual procurement plan processed through the electronic
+            government procurement (e-GP) portal; establishment and full functionality of an enhanced EMIS, including
+            the school GMS, MPO management, and M&E reporting; and the implementation of agreed actions by MoE
+            and development partners included in the FM action plan, based on recommendations of the previous year’s
+            fiduciary review.
+
+
+
+            Rating
+            High
+
+
+OVERALL RELEVANCE DLI TBL
+
+
+
+
+            OVERALL RELEVANCE RATING
+            Rationale
+
+
+                                                                                                             Page 11 of 32
+                   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                   Transforming Secondary Edu for Results (P160943)
+
+
+
+               The PDOs were highly relevant to country context and to Bank strategy, and the project's structure emerged
+               logically from previous Bank experience in the education sector. The DLIs and associated DLRs were well
+               articulated, each with a clear definition and protocol to evaluate achievement. They were reasonable in terms
+               of expected achievement during implementation, with well-distributed timing in terms of incentivizing and
+               recognizing results as needed to put in place policies and procedures supporting SEDP implementation. The
+               DLI matrix was closely aligned with the three Results Areas articulated in the SEDP and in the project, as well
+               as with the project’s results framework. They provided strong incentives to institutionalize the systems and
+               procedures needed to solidify and maintain the program. The amounts allocated to DLRs were
+               commensurate with their importance towards achieving other DLRs and RAs, as well as the PDO, as
+               evidenced by the minor adjustments in the original allocations during implementation.
+
+               The DLI matrix maintained its relevance throughout implementation. The restructuring adjusted the DLI matrix
+               to accommodate the implementation delays encountered at the project’s outset, as well as additional delays
+               caused by the COVID-19 pandemic, to ensure targets were achievable, but it did not alter the goal of
+               achieving the three RAs or the project’s two objectives. As systematically presented in the ICR's Annex 7,
+               adjustments, for the most part, extended the timeframes for DLR achievement, in light of delays and closing
+               date extensions, and introduced support in the aftermath of COVID. The achievement of DLRs led directly to
+               the achievement of the RAs and the PDO. The project used an interesting structure, with the DLIs framing
+               sub-results areas (rather than serving as indicators with specific quantifiable targets), and the DLRs within
+               each DLI serving as the actual verifiable indicators/targets.
+
+               In its June 7, 2024, email to IEG, the project team stated that the combination of DLIs was sufficient to drive
+               institutional change and achievement of the PDOs. It noted that the Bank, to this end, carefully combined
+               DLIs supporting both technical and system management reform, which indeed contributed to institutional
+               change and eventually the achievement of the PDOs. The project team also stated that the amounts
+               allocated to each DLI provided sufficient incentives to achieve the PDOs. It also noted that the DLIs were
+               selected to facilitate flow of funds, implementation, achievement of results, impact, and transformation. The
+               DLIs provided a strong focus on accountability for results and incentivized government ownership and
+               implementation of critical reforms and policies. No issues were observed on flow of funds from the state
+               budget to MoE or to implementing agencies. The advance funds from the World Bank also provided incentive
+               to the Ministry of Finance to ensure sufficient availability of funds for the DLIs.
+
+
+
+               Rating
+               High
+
+
+
+   4. Achievement of Objectives (Efficacy)
+EFFICACY_TBL
+
+
+
+
+               OBJECTIVE 1
+               Objective
+               Improve student outcomes in secondary education
+
+               Rationale
+
+                                                                                                                Page 12 of 32
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Transforming Secondary Edu for Results (P160943)
+
+
+
+This overview of the project's logic draws from the results chain presented in the PAD (p. 8) and the theory of
+change presented in the ICR (p. 64). The project sought to achieve Objective 1 through the support of two
+Results Areas. RA 1 (Enhanced Quality of Education) was to be supported through DLIs aimed at
+achieving the following sub-results (or intermediate outcomes): improved quality and relevance of the
+curriculum (DLI 1), improved classroom assessment procedures (DLI 2), and strengthened teacher capacity
+(DLI 3), all contributing to improved teaching and learning, especially in Bangla, English, Math, and
+Science. In addition, DLI 4 (improved teacher management and accountability) and DLI 5 (improved school
+management and accountability) also supported the achievement of RA 1 under Objective 1, as well as the
+achievement of RA 3 (strengthened governance and management) under Objective 2 (improved
+effectiveness of the secondary education system). Quality of education outcomes were to be measured
+by the share of students achieving grade level competency in Grades 8 and 10 in Bangla, English, and Math,
+disaggregated by gender; the share of schools with a TST monitoring system in place; and improvement in
+reading skills proficiency.
+
+RA 2 (Improved Equitable Access and Retention) was to be supported through DLIs aimed at achieving
+the following sub-results (or intermediate outcomes): school infrastructure development; the design and
+launch of an AGP to keep girls in school; and the design and launch of a harmonized stipends program for
+students in grades 6-12 to keep them in school. Equitable access and retention outcomes were to be
+measured by Grades 10 and 12 retention rates (of those starting in Grade 6), disaggregated by gender and
+disadvantaged students.
+
+The ICR (p. 6) noted that the theory of change included the assumption that complementary interventions
+under the SEDP, but not financed by the TSERO, such as teachers’ salaries and investments in ICT and
+large-scale civil works, would be undertaken as planned. In its June 7, 2024 email to IEG, the project team
+noted three additional critical assumptions at design, which they assessed, in retrospect, to be valid for a
+PforR in the context of the government's secondary education sector: (1) that DLIs and reform achievement
+were within the administrative control of the line ministry and Ministry of Finance, especially in light of MoE’s
+strong commitment to secondary education under its Seventh Five-Year Plan (FY2016-2020); (2) that release
+of funds by the Ministry of Finance would be timely and that there would be a continuation of the bureaucratic
+and political leadership for the program; and (3) that performance-based grants and stipend grant schemes
+would ensure incentives, accountability, and outcomes. The project team did note, however, that one of the
+challenges faced during implementation was the frequent transfer of bureaucrats.
+
+
+
+Outputs and Intermediate Outcomes:
+
+Results Area 1: Enhanced Quality of Education
+
+All DLIs supporting this RA were substantially achieved, albeit with some adjustments to the original timetable
+and DLRs in response to implementation delays and the impact of the COVID-19 pandemic on school
+operations and project activities.
+
+      Under DLI 1 (improved quality and relevance of the curriculum): MoE approved the NCPF for all
+       grades (pre-primary to 12th grade) in 2019. In the project’s last year, the NCCC approved the revised
+       national curriculum for grades 6-10 developed to support the new policy. Key aspects of the
+       secondary curriculum (Grades 6-10 and English, Math, and Science subjects) were digitized and
+       made available to target institutions. However, the ICR (p. 16) notes that implementation of the
+
+                                                                                                  Page 13 of 32
+Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+Transforming Secondary Edu for Results (P160943)
+
+
+
+     revised curriculum, approved in 2022, began in a grade-wise phased manner only in 2023 and
+     therefore had little impact on project outcomes.
+    Under DLI 2 (assessment and examination system reforms to improve teaching and learning):
+     Guidelines for diagnostic assessment and the implementation plan were approved in 2020. The NASS
+     2019 was successfully carried out in 86 upazilas (a sample of 1000 institutions representative at the
+     upazila level) for Grades 6, 8, and 10 (English, Math, and Bangla), and its findings were published in
+     2021. There was a major enhancement of the NASS reporting system, as each of the 64 districts
+     received their own results, compared with the results of their respective divisions and national
+     results. The NASS 2021-22, which was modified to estimate COVID-related learning loss, was
+     approved by MoE and completed. It found that in the absence of school closures, learning outcomes
+     among secondary school students would have seen continued improvements. Summative
+     assessments on learning outcomes were implemented for Grade 8 in Bangla, Math, and English.
+           o IRI: The Learning Assessment of Secondary Education (LASI) 2017 report provided baseline
+             data for this project. NASS 2019 and modified NASS 2021-22 results were analyzed and
+             disseminated, and their findings were utilized for education quality and system
+             improvement. The IRI target of completion of two large-scale primary/secondary learning
+             assessments was fully achieved (MoE report).
+           o In its June 7, 2024 email to IEG, the project team reported that even though the DLR that
+             aimed to reform standard national exams was dropped due to the government's changed
+             priorities, the results from national student assessments supported by the project were
+             disseminated at local levels and raised awareness among stakeholders about the importance
+             of focusing on creativity and critical thinking. Moreover, the Bank’s support to the NNCPF and
+             the revised curriculum facilitated a shift to new competency-based teaching and learning
+             approaches, classroom assessment procedures, and examination system, all of which pay
+             more attention to problem-solving and critical thinking.
+    Under DLI 3 (improved teaching and learning in Bangla, English, and Math): practical science
+     teaching was implemented in 15,000 institutions; average reading proficiency score among Grade 8
+     students improved by at least 10 percent over the score in NASS 2017; and DSHE approved and
+     uploaded virtual teachers training content, all in 2021. By the project’s final year, learning levels of
+     Grade 8 students in English and Mathematics improved by at least 5 percent over the levels in NASS
+     2017; virtual training was completed by at least 3,000 Grade 6 Math teachers; and Math competency
+     of targeted teachers improved by at least 15 percent over the pre-test scores.
+           o IRI: A total of 189,189 teachers and institution heads were trained (pre-service, in-service, and
+             continuous professional development, CPD) in Grades 6-12, not achieving the target of
+             500,000 (36 percent achieved). Trainees included: (a) those who received B. Ed. in public and
+             private teacher training colleges; (b) those who received any in-service and CPD teacher
+             trainings; and (c) those who received any training at the National Academy for Educational
+             Management.
+    Under DLI 4 (improved teacher management and accountability): TST guidelines were approved
+     (2020); the TST scheme, including implementation arrangement covering 6,000 institutions, was
+     approved (2021); MoE approved the MPO rationalization plan and updated the MPO implementation
+     guidelines (2021); the Developing Reading Habit (DRH) scheme was approved, and at least 50
+     percent of SEDP institutions were implementing it (2021); and by the project’s end, teacher
+     (re)deployment was fully compliant with the MPO rationalization plan and updated guidelines.
+    A total of 18,128,500 students benefited from direct interventions to enhance learning, exceeding the
+     target of 13.5 million (134 percent achieved)
+
+
+                                                                                               Page 14 of 32
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Transforming Secondary Edu for Results (P160943)
+
+
+
+            o Of these beneficiaries, 11.2 million (or 62 percent) were female, exceeding the target of 54
+               percent female.
+
+Results Area 2: Improved Equitable Access and Retention
+
+The PforR improved equitable access and retention by tackling critical barriers: families’ financial constraints,
+boys' and girls’ negative attitudes, sexual harassment, poor reading habits, and inadequate school
+infrastructure.
+
+      The PforR’s support for school infrastructure development is reported by the ICR (p. 11) to have been
+       limited, but critical, for improving access and retention. New construction policy guidelines were
+       developed, and related training was provided under the project (DLI 5: improved school management
+       and accountability) and are now used by MoE for all of its infrastructure investments. The guidelines
+       prioritize needs-based selection of schools for development and contain provisions for quality
+       standards, including: (a) ensuring defined student-teacher ratios; (b) establishing residential schools in
+       certain districts; (c) ensuring disaster-resistant structures; and (d) supporting access to potable water
+       and hygienic sanitary facilities. The PforR did not finance construction.
+             o IRI: From a baseline of 39 percent, the gross enrollment rate in higher secondary rose to 48
+                percent slightly exceeding the target of 47 percent (102 percent achieved).
+                      o Rates for girls also exceeded the target, rising from a baseline of 36 percent to an
+                        end-of-project rate of 49 percent, against a target of 45 percent (109 percent
+                        achievement). (Bangladesh Bureau of Education Information and Statistics [BANBEIS]
+                        2022 report)
+      Under DLI 6 (improved grade retention and cycle completion): MoE approved the AGP and action
+       plan, designed to enhance cycle completion for girls. Program interventions included the provision of
+       separate girls' toilets and counseling and awareness raising. By the time of project completion, AGP
+       was initiated in two selected divisions, and the Grade 10 retention rate of AGP beneficiaries reached
+       68 percent. In response to IEG’s request for the baseline retention rate for AGP beneficiaries, the
+       project team cited a baseline of 66 percent, referencing the data on page 22 of the ICR. However, that
+       66 percent baseline is for the retention rate of all girls in Grade 10 (reported on under outcomes), not
+       just the girls benefiting from the AGP.
+             o In terms of the IRI measure, the initiation of AGP implementation in two divisions (Chittagong
+                and Sylhet) fell short of the original target, which aimed for AGP implementation in all
+                divisions, and fully achieved the revised target of two divisions (MoE report). The ICR does
+                note (p. 11) that AGP activities related to implementation of a sexual harassment committee
+                and awareness raising has begun in all divisions, and all secondary institutions now have
+                active sexual harassment redress committees.
+      Also under DLI 6: MoE approved the Harmonized Stipend Program in 2019, whose implementation
+       was rolled out for Grades 6-12 in 2020. The Grade 10 retention rate of stipend beneficiaries reached
+       70 percent by the project’s end from a baseline of 62 percent.
+             o In terms of the IRI measure, grants (stipends) to prevent dropout and promote cycle
+                completion at each level of secondary (junior secondary, higher secondary) were provided to
+                more than 18 million students by the project’s end, far exceeding the formally revised
+                target of four million. Of these recipients: 6.8 million (or 38 percent) were boys, and 11.2
+                million (or 62 percent) were girls.
+      In addition, a new DLR was introduced in support of DLI 6, which rewarded the undertaking of
+       outreach activities to promote grade retention, targeted to students’ parents.
+
+                                                                                                   Page 15 of 32
+   Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+   Transforming Secondary Edu for Results (P160943)
+
+
+
+
+      The ICR (p. 11) also reports on the Growth Mindset Program, which was implemented among 2,220
+       adolescents, aimed at helping students view intellectual ability as something that can grow over time
+       with effort and practice, rather than as an innate ability.
+      Under DLR 4, the DRH Program was scaled up with a view to addressing poor reading habits, which
+       were undermining students’ success in school and their retention.
+            o IRI: From a baseline of 11,982, by the project’s end a total of 16,308 institutions were
+               implementing the DRH program,
+                      not achieving the original target of 30,000 (54 percent achievement) and
+                      slightly exceeding the revised target of 15,000, under the first restructuring (109
+                       percent achievement)(MoE report).
+
+While its scale-up was delayed due to the pandemic, 4.5 million age-appropriate books were provided to
+schools, and five million students participated in the book reading program (ICR, p. 11).
+
+
+
+Outcomes:
+
+Results Area 1: Enhanced Quality of Education
+
+      The share of students achieving grade level competency in Grade 8 and 10 in Bangla, English, and
+       Math, disaggregated by gender, was partially achieved.
+           o The share of students achieving grade level competency in Grade 8 was substantially
+              achieved overall: highly achieved in Bangla and English, but negligibly achieved in Math
+              (NASS results):
+                    From a baseline of 54 percent (LASI 2015), 66.3 percent of Grade 8 students achieved
+                     grade level competency in Bangla, exceeding the target of 59 percent (112 percent
+                     achieved).
+                    From a baseline of 49 percent (LASI 2015), 75 percent of Grade 8 students achieved
+                     grade level competency in English, exceeding the target of 54 percent (139 percent
+                     achieved).
+                    From a baseline of 57 percent (LASI 2015), 28.6 percent of Grade 8 students achieved
+                     grade level competency in Math, falling far short of the target of 62 percent (46
+                     percent achieved) and revealing a regression in progress from the baseline value. The
+                     decrease in Math is due to the 17 academic months of school closures in Bangladesh
+                     during COVID (modified NASS 2021-22 designed to estimate COVID-related learning
+                     losses for Bangla and Math).
+                    Data were not disaggregated by gender, as intended during design.
+                    In its June 7, 2024, email to IEG, the project team cited the findings in the ICR (Annex
+                     9, p. 93) explaining why COVID only seemed to negatively affect Math competency
+                     (which declined from the baseline), and not Bangla and English competencies, which
+                     improved over the baseline. In short, Math is a subject that requires continuous
+                     practice. An overview of the global trend based on global research confirmed that
+                     learning loss for Math during the pandemic was significantly greater than that for
+                     languages. Evidence from India, Brazil, and Mexico indicates that the learning loss in
+                     Math during COVID was nearly double that in languages.
+
+
+
+                                                                                               Page 16 of 32
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   Transforming Secondary Edu for Results (P160943)
+
+
+
+            o No progress was measured on the share of students achieving grade level competency in
+              Grade 10 in Bangla, English and Math. There were no baseline data included in the PAD. The
+              intention was to use data from LASI 2017 as the baseline, when it became available, and the
+              target was a 5 percent improvement over the baseline. Under the first restructuring, Grade 10
+              targets were dropped from the project, with a decision to focus only on Grade 8. Achievement
+              against this original target is therefore assessed as negligible.
+     Reading skills proficiency increased over the LASI 2017 baseline by 16.56 percent, exceeding the
+      target of a 10 percent improvement (NASS 2019 and IVA report).
+     The original PDO 2 indicator (TST monitoring system in place and operational in 60 percent of
+      schools) was not achieved. The ICR (Table 2, p. 12) reported that this original PDO 2 indicator was
+      100 percent achieved. However, when this claim was questioned by IEG, the project team in its June
+      7, 2024 email reported this target as “partially achieved,” noting that at the time of the fourth
+      restructuring (six months before the closing date) the “TST monitoring system had not started and it
+      would not be possible to have it in place for the (targeted) number of schools before closing.” Instead,
+      a number of activities listed in a redefinition of the PDO 2 indicator (developed and approved under
+      the fourth restructuring) were achieved. Although still defined as an outcome indicator, these
+      achievements are more appropriately defined as outputs.
+           o TST guidelines, implementation plan, and scheme were approved. Virtual teacher training
+              content was included in the online platform (MUKTOPATH), and a total of 3,000 teachers were
+              trained on the virtual teacher training platform.
+
+Results Area 2: Equitable Access and Retention Outcomes
+
+     From a baseline of 69 percent, the Grade 10 retention rate (of those who started in Grade 6) rose to
+      72.56 percent, substantially achieving the target of 75 percent (97 percent achievement). The
+      following disaggregated data show substantial achievement among girls and other disadvantaged
+      students, culminating in significant gains in equity:
+           o For girls, retention rates rose from a baseline of 66 percent to 73.14 percent, fully achieving
+              the target of 73 percent.
+           o For disadvantaged students, retention rates rose from a baseline of 62 percent to 70 percent,
+              fully achieving the target of 70 percent. (BANBEIS 2022)
+     From a baseline of 51 percent, the project set a target of 55 percent for Grade 12 retention rates, with
+      sub-targets for girls and disadvantaged students. Under the first restructuring, Grade 12 targets were
+      dropped from the project. Achievement against this original target is therefore assessed as
+      negligible.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 1 REVISION 1
+Revised Objective
+Improve student outcomes in secondary education
+
+Revised Rationale
+
+                                                                                                Page 17 of 32
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Transforming Secondary Edu for Results (P160943)
+
+
+
+The rationale for the restructured Objective 1 was the same as presented under the original objective, except
+for a reduction of the scope and ambition of student outcome indicators, with grade-level competency support
+and goals limited to Grade 8 students (and dropping Grade 10) and student retention support and goals
+limited to Grade 10 only (and dropping Grade 12).
+
+Outputs and Intermediate Outcomes are essentially the same as those reported under the original
+objective, which already indicate full achievement of lowered coverage targets for (1) number of divisions in
+which AGP was implemented; and (2) number of institutions implementing the DRH program.
+
+Outcomes are the same as those reported under the original objective, minus the negligibly achieved
+outcomes for grade-level competency in Grade 10 and for student retention in Grade 12. In light of the
+dropped Grades under PDO Indicator 1 and PDO Indicator 3, achievement under revised Objective 1 is rated
+Substantial.
+
+
+
+
+Revised Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+Improve the effectiveness of the secondary education system
+
+Rationale
+Results Area 3: Strengthened Governance and Management
+
+The project sought to achieve Objective 2 primarily through the PforR’s support of Results Area 3
+(strengthened governance and management) and the TAF/IPF component, which aimed to strengthen
+implementation capacity and help deliver results. Sub-results (or intermediate outcomes) included:
+strengthened decentralized education management, supported by DLI 7 (institutional capacity strengthened)
+and DLI 8 (enhanced fiduciary management and data systems); strengthened EMIS and M&E, supported by
+DLI 8; strengthened sector-wide planning, management, coordination, and implementation (including fiduciary
+management and financing), supported by DLI 8; improved teacher management and accountability,
+supported by DLI 4; and improved school management and accountability, supported by DLI 5. Achievement
+of Objective 2 was originally to be measured by PDO 4 (share of school grants utilized as per compliance
+guidelines according to GMS data and verified by citizens feedback survey), but this was later amended to
+track a lower bar: reception of grant by schools and students, as per criteria, and verified by beneficiaries.
+
+
+
+Outputs and intermediate outcomes:
+
+      Under DLI 7 (institutional capacity strengthened): MoE’s secondary education budget for FY19/20 was
+       consistent with SEDP’s program expenditure framework; the Ministry of Finance and MoE released
+       the funds for FY19/20, and for FY 20/21, inclusive of the advance, by the start of each quarter, based
+
+                                                                                                 Page 18 of 32
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Transforming Secondary Edu for Results (P160943)
+
+
+
+         on the allocations specified in the ADP and AOP. The DLI also incentivized the reduction of
+         standalone projects in keeping with a sector-wide approach and the use of country systems.
+               o IRI: Progress was made on the harmonization of sector program implementation, as measured
+                  by the percentage reduction in stand-alone projects (also incentivized under DLI 7). By the
+                  project’s end, the number of ongoing standalone projects was reduced from 13 in June 2017 to
+                  4, or a 69 percent reduction, exceeding the target of a reduction by half.
+        Under DLI 8 (enhanced fiduciary management and data systems): an enhanced fiduciary system
+         (Integrated Budgeting and Accounting System, IBAS++) was put in place, accompanied by the posting
+         of qualified and adequate FM and procurement staff/posts in MoE, and the goal of at least 60 percent
+         of goods and works packages in the annual procurement plan being processed through the e-GP
+         portal was exceeded. These were agreed actions by MoE and development partners included in the
+         updated procurement and financial management plan, based on the recommendations of the previous
+         periodic fiduciary review.
+               o IRI: Enhanced fiduciary and data monitoring has been fully achieved. IBAS++ is used
+                  nationally by all SEDP Drawing and Disbursement Officers. All non-international competitive
+                  bidding contracts are initiated and completed through e-GP. Data consistency and monitoring
+                  in DSHE has improved with support from the digital monitoring system and semi-annual
+                  monitoring report prepared by MoE’s M&E wing (MoE report).
+        Also under DLI 8: the EMIS system was enhanced, including the establishment of the school GMS,
+         MPO management, and M&E reporting; and the EMIS system, including Digital Monitoring System,
+         MPO management, and M&E reporting is fully operational. The project supported MoE’s M&E wing to
+         generate semi-annual monitoring reports, which helped improve the process of evidence-based
+         decision-making (ICR, pp. 11-12). The GMS helped inform the selection of beneficiaries of school
+         grants, stipends, and other financial assistance for beneficiaries.
+        As a result of DLI 4 (teacher management and accountability), teacher [re]deployment payment
+         became compliant with the MPO rationalization plan and updated guidelines. At project closing, over
+         31,000 institutions had an adequate number of teachers (per student-teacher norms), including for
+         English, Math, and Science, exceeding the target of 20,000 (155 percent achieved) (BANBEIS
+         2022). The rationalization plan and updated guidelines delegated financial authority and responsibility
+         for the monitoring of teachers to zonal education officers.
+        Under DLI 5 (improved school management and accountability), the development and implementation
+         of a performance-based school grants scheme helped support and nurture decentralized sector
+         management, incentivizing schools’ actions around the PDO outcomes of quality, equitable access,
+         and management. DLRs rewarded the approval of the grant scheme and grant manual, and MPO
+         grants for institutions meeting minimum accountability requirements were released to at least 7,500
+         institutions, fully achieving the target. Under post-COVID additions to DLRs, DSHE and the
+         Directorate of Madrasah Education (DME) also undertook measures in 2021 to ensure safe reopening
+         of institutions. DLRs rewarded the virtual training of at least 5,000 teachers on school reopening, and
+         the safe reopening of at least 35 percent of targeted institutions, which received training.
+
+The IPF component was designed to support a Technical Assistance Facility, but the ICR does not
+report on its use or contributions in its Efficacy section. In Annex 1.C (p. 55), the ICR noted delays in
+planned support to the public financial management action plan. In Annex 8 (p. 90), the ICR's reporting on
+PAP Item 13 (effective implementation of the IPF/TAF) noted that a TA unit was established and
+operationalized, but delays and slow implementation during the first 18 months, followed by a series of
+lockdowns and school closures, further delayed implementation. However, the ICR does not fully report what
+was ultimately supported under the IPF/TAF or on outcomes of this support. The ICR’s reporting (Annex 8, p.
+
+                                                                                                 Page 19 of 32
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Transforming Secondary Edu for Results (P160943)
+
+
+
+91) on Item 18 of the PAP (effective implementation of public financial management action plan, including
+IBAS++ rollout, use of e-GP, adequate staffing of procurement and financing wing, internal audit, web-based
+accounting, etc.) noted that an architecture roadmap had been completed and that a TA firm under the
+IPF/TAF would be deployed for supporting implementation.
+
+In an email of June 7, 2024, to IEG, the project team reported that the following activities were supported
+under the TAF/IPF component: the design, administration and analysis of the NASS, some important
+consultancies (financial management, training, scheme preparation), local workshops, and overseas
+knowledge exchange workshops, and support of the independent verification of results. The project team
+further noted in this email that, in retrospect, fuller utilization of this component would have
+supported implementation of the AGP, leading to an increase in the overall student retention rate (PDO
+indicator 3) and the implementation of the DRH program quality expansion, resulting in better grade level
+competency in core subjects (PDO indicator 1).
+
+In the same June 7, 2024, email, the project team stated that the PAP was an effective instrument for
+strengthening capacity and backstopping project support, especially the DLIs. It noted that the PAP was
+designed in response to insights provided by the assessments undertaken during preparation, covering
+technical, financial, environmental, and social aspects and risks. It included essential activities and actions
+agreed with the government to support the achievement of objectives, with a specific focus on DLI
+achievement. In retrospect, the team noted that PAPs could be made more effective by limiting actions
+monitored to a reasonable number and by more regular updates and discussions.
+
+
+
+Outcomes:
+
+Project support, especially the choice of DLIs and DLRs and the rewarding of their performance, culminated
+in substantial building of sector governance and management capacity, which, in turn, contributed to
+substantial improvements in the effectiveness of secondary education. The following summary of
+achievements documented in the ICR provides evidence for the substantial rating of Objective 2:
+
+      Decentralized education management was strengthened through the provision of MPO grants and
+       stipends, disbursed to 86 percent of schools according to the approved grants manual. These grants
+       accorded schools the responsibility and authority to use the funds in a locally appropriate way to
+       achieve sector goals of quality, equitable access, and improved governance with appropriate
+       accountabilities both to MoE and to communities. The decentralization of information to schools on
+       their performance, accompanied by performance data for their divisions and regions, provided schools
+       with perspective and guidance in setting their goals and assessing their own performance.
+      Country systems and capacities for sector-wide planning, management, financing, coordination and
+       implementation were also strengthened. Budgets became more consistent with multi-year sector-wide
+       expenditure frameworks and agreed annual operational plans, and standalone projects were reduced,
+       strengthening the program approach. Staffing, capacities, systems, and practices in procurement and
+       financial management were strengthened, contributing to improved implementation
+       efficiency. Quarterly flows of funds for program implementation were received in a timely fashion.
+      The strengthening of the EMIS, and of M&E systems, capacities, and staffing, informed evidence-
+       based management and decision-making, including priority setting, targeting, semi-annual program-
+       wide reviews, learning and adjustments, and MoE leadership.
+
+
+                                                                                                   Page 20 of 32
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    Transforming Secondary Edu for Results (P160943)
+
+
+
+
+       Improved systems and capacities for teacher management and accountability have culminated
+         in more effective deployment and remuneration of qualified teachers, increasing the number of
+         schools staffed according to norms; improved access of teachers to training; and improved systems
+         for monitoring teachers' performance with a view to both improving their performance and holding
+         them accountable.
+
+
+
+Rating
+Substantial
+
+
+
+
+OVERALL EFFICACY
+Rationale
+Overall efficacy in achieving the original PDO is rated as Modest. Achievement of original Objective 1
+(improved student outcomes) was Modest, since (a) targeted outcomes for enhanced grade level competency
+were substantially achieved for Grade 8, and negligibly achieved for Grade 10; and (b) targeted outcomes for
+increased retention rates of students (as a share of those students in Grade 6) were substantially achieved
+for Grade 10, and negligibly achieved for Grade 12. This shortfall in the achievement of original targets is due
+to a narrowed focus on the lower grade, and an elimination of the higher grade, for each of these two original
+measures of student outcomes, introduced under the first restructuring in keeping with the adjustments made
+to the government's SEDP. Achievement of Objective 2 (improved effectiveness of the secondary education
+system) was Substantial. While the original outcome indicator on share of school grants utilized in line with
+compliance guidelines and verified by citizens’ feedback was not fully measured, it was not (especially by
+itself) a deciding measure of improved effectiveness of the secondary education system. The project
+succeeded in achieving Results Area 3 (strengthened governance and management), which enabled the
+achievement of improved sector effectiveness. Strengthened capacities and systems achieved under the
+project enhanced sector-wide strategic planning, budgeting, management, M&E, and coordination of all
+actors contributing to the SEDP; strengthened the management and accountabilities of teachers and schools;
+and enabled the decentralization of secondary education management through the provision and local
+management of school grants. Rating the overall efficacy against the project’s original outcomes and
+targets is difficult to consolidate into one rating, as each objective holds equal importance. With one objective
+modestly achieved and the other substantially achieved, but with key targets under the first objective
+negligibly achieved, overall efficacy under the original outcomes and targets is rated Modest.
+
+
+
+Rating                                                    Primary Reason
+Modest                                                    Low achievement
+
+OVERALL EFFICACY REVISION 1
+Revised Rationale
+Efficacy in achieving the revised outcomes and targets under the first restructuring is rated as
+Substantial. Objective 1 was substantially achieved, with enhanced grade level competency substantially
+achieved for Grade 8, and increased retention rates of Grade 10 students (as a share of those students in
+
+                                                                                                   Page 21 of 32
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Transforming Secondary Edu for Results (P160943)
+
+
+
+ Grade 6) was also substantially achieved, along with other achievements (improved reading skills)
+ contributing to student outcomes. Achievement of (unchanged) Objective 2 was Substantial.
+
+ In its June 7, 2024 email to IEG, the project team shared its perspectives on the project’s attribution for the
+ results achieved and on the counterfactual of no project. Under the sector-wide approach for the
+ government's SEDP, development partners subscribed to a common program and results framework, a
+ common DLI framework, and a common disbursement modality, all of which created momentum and synergy
+ that led to the achievement of results. This approach reduced risks of duplication of efforts and improved
+ donor coordination. The reform areas and donor support were carefully chosen to align with donors’
+ comparative advantages.
+
+ The interventions supported by TSERO were directly linked to the plans and priorities of MoE. TSERO helped
+ to ensure that the chosen reform areas got the attention, resources, and technical support needed, especially
+ those that were not funded by domestic resources. Policy dialogue under TSERO helped expedite
+ achievement of outcomes. Among significant interventions/policies that were implemented and initiated
+ through TSERO were: the Harmonized Stipend Program, Adolescent Girls Program, virtual teacher training,
+ national assessments, National Curriculum Policy Framework, MPO decentralization, and digital information
+ system and performance data. All of these had substantial impact on secondary student outcomes, access,
+ and effectiveness of the secondary education system. TSERO played an important role in continuing
+ improvements to teaching and learning and keeping students engaged. Online access to information and
+ training were immensely effective during the COVID period. The project team asserted that, without
+ TSERO, none of the above would have been achieved.
+
+
+
+ Revised Rating
+ Substantial
+
+
+5. Outcome
+
+Outcome Rating
+
+                               Achievement against Original            Achievement against Revised
+                               Outcomes/Targets                        Outcomes/Targets
+Relevance of PDO                                                       High
+
+Relevance of DLIs                                                      High
+Efficacy
+
+Objective 1                    Modest                                  Substantial
+
+Objective 2                    Substantial                             Substantial
+Outcome ratings                Moderately Unsatisfactory               Satisfactory
+Numerical value of the outcome
+                               3                                       5
+ratings
+Disbursement                   $145.17 million                         $345.24 million
+
+
+                                                                                                  Page 22 of 32
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      Transforming Secondary Edu for Results (P160943)
+
+
+
+Share of disbursement            29.6%                                   70.4%
+Weighted value of outcome        3 x 0.296 = 0.89                        5 x .704 = 3.52
+                                 4.4
+Final outcome rating
+                                 Moderately Satisfactory
+
+
+
+The relevance of the PDO and the relevance of the DLIs are each rated High. Efficacy in achieving
+original Objective 1 is rated Modest, while efficacy in the achievement of (unchanged) Objective 2 is
+Substantial, culminating in an overall efficacy rating of Modest. These relevance and efficacy ratings translate
+into an overall outcome rating of Moderately Unsatisfactory under the original PDO outcomes and
+targets.
+
+The high relevance of the PDO and the DLIs, coupled with substantial efficacy ratings for both Objectives 1 (as
+revised under the first restructuring) and 2 (which was unchanged), culminate in an overall outcome rating of
+Satisfactory under the PDO outcomes and targets as revised during the first restructuring.
+
+Given that disbursements under the original PDO made up 30 percent of total disbursements and
+disbursements under the restructured PDO made up 70 percent of total disbursements, the weighted outcome
+rating for this project is 4.4, translating into a Moderately Satisfactory outcome rating, indicative of moderate
+shortcomings in the project's preparation, implementation, and achievement.
+
+
+    Outcome Rating
+    Moderately Satisfactory
+
+
+6. Risk to Development Outcome
+
+In January 2024, general elections took place, and a new cabinet was appointed. The ICR mentioned this
+change of government as a potential political risk, too early to assess at the time of the publication of the ICR
+(also in January 2024). The ICR assessed that any impact from these elections was likely to be modest, as
+any government would be likely to continue to assign priority to the PDOs and use evidence of successful
+interventions to pursue those objectives. Indeed, in its June 19, 2024 email to IEG, the Bank's team noted
+that there was no change in government or in the bureaucratic leadership. The deputy minister was retained
+and promoted to the rank of a full minister post-election, lowering the risk to development outcome and
+enabling continued progress. Funding for education was not seen as likely to fall further, since it was already
+at low levels. Prospects for continued support and sustainability of development outcomes were considered
+to be strong, given: the government's approval of its follow-on sector-wide program (SEP 2023-2028) and the
+continued priority it accords to (i) improvements in quality, access, and retention in secondary education,
+while tackling dropouts and learning losses due to the pandemic, (ii) continued system strengthening and
+reforms in key areas; and (iii) the scaling up of programs that have proven to be successful. A follow-on
+Bank-financed PforR operation is currently under implementation, providing $300 million in financing and
+technical assistance for continued support of secondary level education priorities, and the further
+strengthening of country systems and capacities for sector-wide management and fiduciary capacity.
+
+
+                                                                                                     Page 23 of 32
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Transforming Secondary Edu for Results (P160943)
+
+
+
+
+7. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  M&E design was sound, with a clearly stated PDO. The project's results framework and DLI matrix were
+  fully aligned with the three Results Areas in the government's SEDP and the PDO. Most outcome
+  indicators and all the DLIs provided reliable measures, along with guidance and incentives, towards the
+  reform of secondary education systems, as envisaged by the government and supported under the
+  project (see Section 8a).
+
+  TSERO responded directly to the government's request for support to its SEDP, was aligned with the
+  Bank’s CPF at the time of approval, and built on over two decades of the Bank’s partnership with the
+  government in supporting its education system. It was designed to expand successful programs to the
+  national scale, including: the pioneering of secondary school stipends programs for girls, books,
+  facilitators, and technical skills to enhance reading habits and skills; provision of additional teachers in
+  English, Math, and Science; and performance-based incentives/grants to students, teachers, and
+  schools. Its design was consistent with recommendations of analytical work, such as the Education
+  Sector Review, “Seeding Fertile Ground: Education that Works for Bangladesh (2013)," and the strategic
+  goals in a draft Bangladesh Education Strategy Note (2016). A key lesson emanating from this work was
+  that good policies had faltered during implementation because of inadequate incentives, resources, and
+  accountability. This lesson informed the choice of the PforR instrument and the introduction of the grants
+  management scheme to strengthen system effectiveness.
+
+  Institutional arrangements relied on government systems for implementation, oversight, FM,
+  procurement, environmental and social safeguards, M&E, and reporting arrangements, an approach
+  that had proven successful under previous Bank-financed operations in the sector. MoE’s DSHE was the
+  Executing Agency, with overall responsibility for policy guidance, coordination, and implementation
+  oversight. A Program Coordination Unit (PCU) was established under DSHE with representatives from
+  the Technical Education and Madrasah Divisions. DME was the implementing agency for activities
+  targeted to Madrasahs, but DSHE was responsible for providing fiduciary mechanisms for funds flow for
+  DME activities. These arrangements also provided a focus for intensive capacity building.
+
+  The project’s overall risk was assessed as Substantial at the project’s outset. Mitigation measures were
+  identified through assessments of technical aspects of the project and of fiduciary and environmental and
+  social systems, all undertaken at appraisal. The fiduciary risk was assessed to be High, with all other
+  risks assessed as Substantial. Main risks included: political and governance risks related to the upcoming
+  (2019) elections; the pilot use of the non-developmental budget; limited DHSE capacity for FM and for
+  managing and coordinating with multiple actors and stakeholders; and the transition from project- to
+  program-based implementation. Risks were to be mitigated by: (a) DLI-based financing to focus on
+  results in outcomes, processes, and reforms; (b) design of the PAP, based on above-cited assessments
+  (technical, fiduciary, environmental and social) and the risk analysis; (c) capacity building interventions for
+  implementing and monitoring agencies at central, district, upazila, and school levels under the TAF; and
+  (d) sustained policy dialogue and technical and implementation support from the Bank and development
+  partners.
+
+
+
+                                                                                                      Page 24 of 32
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Transforming Secondary Edu for Results (P160943)
+
+
+
+  There were two moderate shortcomings. First, the Bank’s appraisal failed to consider the risk of delays in
+  government approval of the SEDP and of possible adjustments to the SEDP during the approval process,
+  which delayed effectiveness and implementation for almost two years. Second, even with delays in
+  government approval of the SEDP, steps in ensuring readiness for implementation were not fully
+  completed, contributing to delays in early implementation. In its June 7, 2024, email to IEG, the
+  project team noted that it took three additional months after government approval of SEDP to meet two
+  effectiveness conditions: (1) signature of the DLI verification agreement between MoE and the IVA; and
+  (2) the effectiveness of the GFF co-financing Grant Agreement.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The supervision team faced formidable challenges in the launch and early implementation years of this
+ operation. Effectiveness and launch were substantially delayed, with government approval of SEDP
+ slipping by 15 months between the planned (May 2017) and actual dates (August 2018). The approved
+ SEDP reduced its original focus and outcome targets to include only the lower grades (retaining Grade 8
+ and dropping Grade 10 for learning; retaining Grade 10 and dropping Grade 12 for retention
+ objectives). An 18-month delay in the start of activities led to cascading delays in DLR achievements,
+ causing an almost immediate need for a first restructuring, which the Bank team undertook one year into
+ the operation. Long delays in filling key PCU positions with qualified staff further undermined
+ implementation, with COVID-19 lockdowns further slowing the contracting process. The Bank team
+ undertook periodic missions throughout the project period (an average of almost twice a year) and made
+ an effort to collaborate with other development partners to ensure effective impact of interventions
+ supported by the PforR operation. The team was proactive in its provision of technical assistance to the
+ PCU and implementing agencies to fill the implementation gap caused by hiring delays. The team
+ undertook two additional comprehensive restructuring exercises to ensure its continued relevance, one
+ supporting the government's education sector response to the COVID-19 pandemic, and the other
+ adjusting the operation’s monitoring framework based on the December 2021 mid-term review
+ findings. These restructurings also drew on analytical evidence produced jointly with the government,
+ which justified the inclusion of interventions with demonstrated impacts (e.g. AGP and online teacher
+ training). When COVID-19 prevented face-to-face and on-the ground visits, the Bank continued to work
+ virtually: the mid-term review, along with a significant amount of implementation support, was provided
+ virtually, when travel was not an option. The ten Implementation Status Reports (ISRs) issued during the
+ life of the project were reported to be timely, comprehensive, and candid.
+
+ The supervision team’s work and efforts had a strong focus on results. The team’s attention to the
+ evaluation of programs supported under the operation and on the assessment of COVID-19’s impact on
+ learning losses is noted in the ICR (p. 18) to be commendable. The team worked in partnership with other
+ institutions and universities and obtained funding for surveys and evaluations that helped evaluate results
+ and strengthen in-country evaluation capacity. These studies guided restructuring and were instrumental in
+ the design of the follow-on PforR. Over and above the use of these studies, the transition to this new
+ project was seamless, given that the same TSERO supervision team was responsible for the follow-on
+ project's design and implementation.
+
+
+                                                                                                 Page 25 of 32
+     Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+     Transforming Secondary Edu for Results (P160943)
+
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+8. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The theory of change was sound and well reflected in the results framework. Both were fully aligned with
+ the SEDP’s three results areas, also supported by the project: enhanced quality of education; equitable
+ access and retention; and strengthened governance and management. These results areas, in turn, were
+ well supported by a set of eight DLIs (and accompanying DLRs), which were clearly defined and
+ measurable, and targeted at the most critical reforms. The PDO was clearly stated and a plausible outcome
+ of achievement of the three results areas and the DLIs. The four original outcome indicators encompassed
+ the two objectives of the PDO statement as well as the three results areas. Together with intermediate
+ results indicators and DLIs/DLR measures, they covered the key expected outcomes: student outcomes
+ (learning, access, retention) and improved system effectiveness (improved institutional capacity and
+ enhanced fiduciary systems). The four original PDO indicators were clear and measurable. Verification
+ protocols for all DLI/DLRs were established at appraisal, and compliance with DLRs was to be verified by
+ an IVA commissioned by MoE before submission to the World Bank. A PAP, developed and agreed
+ between the government and development partners including the Bank, and fully in sync with the
+ DLIs/DLRs, was used as yet another tool to track key steps in the move towards sector reform.
+
+ M&E arrangements built upon experience acquired under the Secondary Education Quality and Access
+ Enhancement Operation, as well as earlier Bank-financed operations, all supporting improved reliability,
+ adequacy, and timeliness of results monitoring and reporting. The M&E wing of DSHE, responsible for
+ project (and SEDP) M&E, was fully staffed and integrated into DSHE’s M&E system. Its software and
+ hardware capacity, as well as the data management scope of the web-based EMIS, had been expanded to
+ cover all institutions and interventions. Moreover, the project (along with SEDP) was designed to provide
+ continued support to improve MoE’s M&E system and institutional capacity. In particular, several DLRs
+ under DLI 8 incentivized actions to further improve the EMIS. In addition, the project supported the
+ strengthening and reform of learning assessments, including the production of two planned NASS and
+ other relevant studies.
+
+ In its June 7, 2024, email to IEG, the project team confirmed the quality of the data and evidence
+ generated under this M&E arrangement. The capacity and data management scope of the web-based
+ EMIS was expanded to cover all institutions and interventions. TSERO provided continued support to
+ improve the M&E system and capacity. Several DLRs under DLI 8 (enhanced fiduciary management and
+ data systems) incentivized further improvement of the EMIS, which, in turn, provided quality data that
+ supported implementation and decision-making at the policy level. The digital monitoring system was used
+ during the COVID period to track attendance of students and teachers in remote learning and provided
+ useful data for evidence-based decisions during COVID. The project team also noted that the DLI
+ verification protocol was meticulously designed to provide a sound basis for assessing performance. The
+
+                                                                                               Page 26 of 32
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Transforming Secondary Edu for Results (P160943)
+
+
+
+ protocol was characterized by its clarity, technical robustness, and credibility, ensuring that DLIs were
+ verified through a transparent and reliable process. DLI protocols were revised during restructuring to
+ improve clarity, as needed, without changing the substance or intention of the DLIs.
+
+
+
+b. M&E Implementation
+  The World Bank assessed M&E performance as Satisfactory throughout implementation. DSHE’s M&E
+  wing provided routine monitoring data to MoE and the World Bank, including updates on
+  government commitments under the PAP, which were reviewed and discussed with development
+  partners during semi-annual meetings on SEDP oversight. The first, second, and fourth restructurings
+  adjusted the results framework to reflect changes in the SEDP, data availability, and implementation
+  progress. The DLI/DLR matrix was also modified, as a consequence, to ensure their continued
+  harmonization with the restructured results framework. The Ministry of Planning’s Implementation
+  Monitoring and Evaluation Division carried out verification of compliance with DLIs/DLRs. The second of
+  two NASS exercises planned under the project was intended to provide an important measure of student
+  outcomes (PDO Indicator 1), but its undertaking came at a time of school closures and lockdowns, which
+  were having a negative impact on learning despite the government's efforts to mitigate them. The NASS
+  21-22 design was thus modified to enable the assessment of COVID-related learning losses. Additional
+  studies were carried out in the final years of implementation to provide end-of-project evaluative
+  information, notably: (a) a student outreach intervention to collect feedback on the growth mindset and
+  girls rising programs; (b) a nationally representative teacher survey; and (c) a randomized evaluation of
+  an online teacher training program for Grade 6 teachers during COVID-19 school closures.
+
+  While strong overall, there were some shortcomings in M&E implementation. Data on Grade 8 students’
+  competency were not disaggregated by gender, as specified in the M&E plan. In addition, revisions of two
+  outcome indicators under the fourth restructuring — PDO 2 (on TST monitoring) and 4 (on school grants
+  provision) — were not clearly articulated and so did not provide good measures, respectively, of RA
+  1/Objective 1 and RA 3/Objective 2. Moreover, the difference between original and modified indicators
+  was not entirely clear, nor was the ICR systematic in reporting on each of these two PDOs against their
+  original and revised intents. Revised PDO indicators seemed to be pitched more to output or intermediate
+  outcome levels, rather than to the outcome level. Nevertheless, project M&E delivered sufficient evidence
+  to assess project performance and outcomes.
+
+
+
+c. M&E Utilization
+  Under a PforR design, strong M&E, including independent verification, was essential to trigger
+  disbursements against DLRs. Monitoring provided the necessary data to adjust the results
+  framework and DLI matrix to reflect changes in government priorities during implementation (for
+  example, dropping higher grades and focusing project efforts and outcomes on lower grades, for both
+  grade competency and retention), as well as unexpected challenges, especially those precipitated by the
+  COVID-19 pandemic. In addition, the modified NASS 2021-2022 was critical in informing the preparation
+  of the government's Secondary Education Program 2023-2025, currently supported by the follow-on
+  Bank-financed Learning Acceleration in Secondary Education Operation, providing continuity in the
+  support of priorities supported under the PforR and in addressing COVID-related learning losses. M&E
+  data were shared with stakeholders within the government at various levels of the system, and with
+  development partners, and were discussed and reviewed in semi-annual reviews of program
+
+                                                                                                    Page 27 of 32
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Transforming Secondary Edu for Results (P160943)
+
+
+
+  performance. Schools received data on their own performance and on the performance of their districts
+  and regions, which: (a) provided perspective on their performance as compared to others, (b)
+  strengthened their accountabilities to MoE and to communities they served, and (c) informed evidence-
+  based management and decision-making for improving their performance.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+9. Other Issues
+
+a. Safeguards
+   In support of the PforR’s use of country systems, an assessment of environmental and social safeguards
+   capacity was undertaken during design, which helped identify needed capacity strengthening to be
+   supported under this operation. Annex 6 of the PAD provides an overview of the assessment results,
+   including the adequacy of the systems for the purposes of the PforR, and capacity gaps that would be
+   addressed with project support, especially staffing, financing, and sufficient capacities for environmental
+   aspects, and the need for improved inclusion and stakeholder participation for social safeguards aspects.
+
+   The PAP included three actions to address environmental safeguards systems gaps: (1) approval of a
+   maintenance policy for school infrastructure (including sanitation facilities and classrooms) and an updated
+   operational plan to integrate the Environmental Management Framework (EMF) and Environmental
+   Assessment and Risk Framework (EARF); (2) maintenance of hygiene, latrine, sanitation facilities, and tube
+   wells incorporated as compliance criteria for school sanitation facility grants; and (3) adequate resources
+   for effective implementation of social and environmental safeguards systems under the project.
+
+   The ICR does not explicitly state whether the government complied with environmental and social
+   safeguards. The ICR (p. 17) reports that the ratings for environmental safeguards were downgraded during
+   implementation to Moderately Unsatisfactory in late 2020 and remained at that level for about two years, In
+   its June 19, 2024 email to IEG, the Bank's team noted that the Moderately Unsatisfactory ratings were due
+   to the delayed hiring of an environmental safeguard specialist and the pending approval of a school
+   maintenance policy. Both tasks were prerequisites for the start of any construction work. However, GoB
+   confirmed in 2022 that no construction would take place in SEDP (i.e., during the project's
+   life).. GoB agreed to adapt the existing national guidelines of the Public Works Department, which include
+   the maintenance policy for schools. The June 19, 2024 email also noted that GoB decided to replace the
+   environmental safeguard specialist position with a dedicated permanent staff from the civil service, who
+   possessed adequate knowledge and expertise. This decision was also made to build more ownership and
+   sustainability on this front. The Bank's team further noted that the the dedicated focal person from the
+   mainstream PIU officials, who took on this position, superbly handled project activities during this
+   interim period, ensuring periodic reporting on both environmental compliance and gender-based violence
+   issues. With the satisfactory resolution of these issues, the E&S ratings were upgraded to satisfactory.
+
+   Risks associated with stakeholders’ involvement were rated Substantial at appraisal, given the complexities
+   and challenges involved with the large number of actors and stakeholders in the SEDP. Adequate budgets
+   and staffing were recommended to mitigate these risks. The decentralization of responsibilities, including
+   DLI/DLR implementation, school grants, school accountabilities,, the sector-wide approach, which oversees
+
+                                                                                                   Page 28 of 32
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Transforming Secondary Edu for Results (P160943)
+
+
+
+   and coordinates all actors and stakeholders around a single program (SEDP) and the financing of
+   coordination and oversight activities all enabled MoE's coordination of sector actors and stakeholders.
+
+
+
+
+b. Fiduciary Compliance
+   FM risk was rated High and procurement risk was rated Substantial at appraisal. Assessments
+   revealed inadequate fiduciary management capacity of DSHE to deal with weak internal control and
+   reporting; the challenging nature of the PforR operation supporting a large number of beneficiaries; and
+   delays in resolving audit issues. Fiduciary tasks for most development activities had been handled by
+   standalone projects. While DSHE had established a designated wing for procurement and FM, the wing
+   had yet to be regularized and was inexperienced.
+
+   The ICR reports that the only fiduciary issues during implementation were delays in recruiting an FM
+   specialist to the PCU and delays in procurement support under the IPF component, due to COVID-related
+   challenges. A full-time focal person from the government's central staff supported FM functions and, in
+   addition, a dedicated senior FM specialist was hired by the PCU to enhance coordination and support
+   fiduciary management. That specialist, however, was not consistently present throughout the life of the
+   operation. Procurement and FM actions in the PAP were implemented effectively, including the
+   introduction of e-GP for procurement of goods under national competitive bidding procedures, and the
+   rolling out of IBAS++. In its June 19, 2024 email to IEG, the Bank's team confirmed that the project
+   complied with the fiduciary policy of the Bank. It was consistently rated satisfactory throughout project
+   implementation..
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   The COVID-19 pandemic was a massive external shock, beyond the control of the TSERO, and led to a
+   sharp increase in learning inequality, with the poorest students losing 50 percent more learning
+   than affluent students, as documented in a study financed by the operation. During the COVID-19 school
+   closures, 3.9 million poor students received financial support as stipends, which was useful for learning
+   continuity.
+
+
+
+d. Other
+   ---
+
+10. Ratings
+                                                                                  Reason for
+Ratings                         ICR                     IEG
+                                                                                  Disagreements/Comment
+                                Moderately
+Outcome                                                 Moderately Satisfactory
+                                Satisfactory
+                                                                                  Moderate shortcomings in
+Bank Performance                Satisfactory            Moderately Satisfactory
+                                                                                  Quality at Entry. Even with
+
+                                                                                                    Page 29 of 32
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Transforming Secondary Edu for Results (P160943)
+
+
+
+                                                                                 delays in government approval
+                                                                                 of the SEDP, steps to ensure
+                                                                                 readiness for implementation
+                                                                                 were not fully completed,
+                                                                                 contributing to delays in
+                                                                                 effectiveness and early
+                                                                                 implementation.
+                                                                                 Moderate shortcomings in M&E
+                                                                                 implementation (revised
+                                                                                 indicators for measuring
+                                                                                 Objective 2 and no
+                                                                                 disaggregation by gender of
+Quality of M&E                  High                    Substantial
+                                                                                 grade competency measure).
+                                                                                 Nevertheless, M&E as designed
+                                                                                 and implemented was generally
+                                                                                 sufficient to assess the
+                                                                                 achievement of objectives.
+Quality of ICR                  ---                     Substantial
+
+
+11. Lessons
+
+The following lessons are a subset of the lessons presented in the ICR, some slightly reworded by
+IEG:
+
+Securing the World Bank’s approval of a PforR operation prior to government approval of the
+sector-wide program it is designed to support can risk delays in that operation’s
+effectiveness date, launch, and implementation and changes to the sector-wide program
+during the approval process that are not captured in the PforR. In the case of this operation,
+MoE approved the SEDP before project negotiations, and the World Bank’s Board approved the
+PforR in December 2017. While slated for May 2017, government approval of the SEDP (by the
+Ministry of Finance/Prime Minister’s office) was achieved 15 months later, in August 2018. Country
+practice in Bangladesh dictated that SEDP approval could only be obtained once financing was
+secured. This risk was difficult to mitigate, especially late policy changes introduced under the SEDP
+during the government approval process. Nevertheless, experience under this project revealed that
+the preparation team could have seized opportunities to accelerate project launch and early
+implementation while awaiting effectiveness, especially the utilization of that time to prepare terms of
+reference and other critical path activities to improve readiness for implementation.
+
+Successive changes to an operation’s indicators, especially when underpinned by strong
+analytical work, are an effective way of ensuring continuing relevance in response to
+changes in the government program and implementation challenges, including exogenous
+events. The PDO (to improve student outcomes in secondary education and effectiveness of the
+secondary education system) was both broadly stated and clear. The outcome and intermediate
+results indicators and DLIs, all structured around the operation’s three Results Areas, provided more
+precision on what the PDO sought to achieve. Adjustments to the outcome and intermediate
+outcome indicators and DLI matrix introduced during restructurings reflected adjustments made to
+the SEDP during the approval process, supported government actions and priorities in their
+
+                                                                                                    Page 30 of 32
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       Transforming Secondary Edu for Results (P160943)
+
+
+
+response to the COVID-19 pandemic, and were informed by evidence generated through studies
+and pilots undertaken under the project.
+
+Exogenous events that are likely to have a significant impact on a program’s intended
+outcomes can challenge the measurement of an operation’s outcome. Proactive design and
+implementation of assessments of the impact of exogenous events on an operation’s
+intended outcome can provide more insight and perspective on the project’s contribution
+and counterfactual. The SEDP and the PforR made good progress in the early years towards
+improved learning outcomes, comparing NASS 2019 scores to those of the (baseline) LASI 2017
+(although attribution was only partial, given the timing). Initially there was every reason to expect that
+this trend would continue under the SEDP and with PforR support. Then, with the onset of COVID-
+19, extended school closures and other disruptions caused by the pandemic were clearly having a
+significant adverse impact on learning outcomes. The modified NASS 2021-2022 and other
+analytical work supported under the TSERO attempted to document the impact of pandemic-related
+closures on learning outcomes, based on pre-COVID trends in learning outcomes. This helped
+inform the final evaluation of the PforR.
+
+
+
+12. Assessment Recommended?
+
+  No
+
+13. Comments on Quality of ICR
+
+Quality of Evidence was strong. Evidence on project performance and outcomes was based on the reporting
+of data on the project outcome and intermediate outcome indicators, drawn from an improved EMIS, and formal
+assessments and studies, all well cited. Annexes were detailed and thorough in tracking performance against
+original and revised indicators, targets, and deadlines, and original and revised DLIs and DLRs and related
+deadlines. Reporting and data on the latter were validated by an independent verification agency, whose
+opinion was needed to trigger disbursements against DLRs achieved. Two minor shortcomings were that (a)
+endline data on Grade 8 competency were not disaggregated by gender; and (b) evidence on PDOs 2 (system
+for monitoring teachers time spent on teaching) and 4 (distribution/proper utilization of grants/stipends) was not
+entirely clear or consistent across various parts of ICR. Nevertheless, these shortcomings did not seriously
+undermine the assessment of Objectives 1 or 2, given other critical and robust evidence on the achievement of
+both objectives provided in the ICR.
+
+Quality of Analysis was strong overall. The organization of the annexes informed and facilitated good use of
+the evidence, documented the links between the PDO, results framework, and DLIs/DLRs, and informed the
+narrative of their evolutions and adjustments through the multiple restructurings. The narrative in the efficacy
+section was well-articulated and concise, and clearly linked to the evidence as detailed in the annexes.
+
+There was, however, one shortcoming. The ICR did not assess in its efficacy section the planned versus actual
+contributions and outcomes of the US$20 million IPF component; neither did it present or analyze in this section
+why only 29 percent of the funds under this component were actually disbursed.
+
+
+
+                                                                                                      Page 31 of 32
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      Transforming Secondary Edu for Results (P160943)
+
+
+
+Quality of Lessons was sound overall. Lessons were based on evidence and analysis contained in the ICR
+and were drawn from specific experiences and findings for the project, which are relevant for those undertaking
+other PforRs, especially those in the education sector, with one possible exception. The ICR’s lesson on the
+IPF component and its utility in providing technical assistance for capacity strengthening, complementary to the
+PforR, was not fully grounded in the ICR's narrative, as the use and achievements of the IPF were not
+assessed in the efficacy section. This lesson mentioned that the planned size of the IPF component might have
+been unnecessarily ambitious. On the other hand, it also states that the fuller use of IPF resources might have
+reduced the underachievement of some indicators. However, in the absence of an assessment of the efficacy
+of the IPF, the contributions and shortcomings of this component are not clear. As such, this lesson does not
+provide sufficiently clear guidance to other teams contemplating a similar coupling of IPF with PforR
+instruments.
+
+Results Orientation of the ICR was strong. The discussion of efficacy in the main text was systematically
+organized around the project’s objectives, Results Areas, results framework and DLIs, substantiated by detailed
+annexes that laid out, respectively, (i) the results framework (PDO and intermediate outcome indicators), (ii)
+DLIs and DLRs, and (iii) the PAP. Moreover, for each of these elements of the project logic, the ICR provided
+detailed matrices documenting adjustments in definitions, the adding/dropping of actions and indicators, and
+changes to the timeline, all itemized around the five restructurings. These annexes were essential for
+backstopping and ensuring a clear and succinct focus of the ICR on results.
+
+Internal Consistency/Adherence to Guidelines. Overall, the ICR was generally consistent across its various
+sections and adhered to guidelines. However, the ICR’s Program Expenditure Summary (Annex 3, p. 61) is
+unclear. Organized around sources of financing, (a) it does not provide a breakdown of actual costs by
+component; and (b) it seems to provide inconsistent information, showing full use of the US$10 million Global
+Financing Facility in one column, and yet a 29.6 percent rate of actual use of the GFF as a percentage of the
+appraisal plans, in another column. This leaves little information on the actual cost of the IPF and the extent to
+which it was financed by the IDA allocation and the GFF, each slated to contribute US$10 million at the
+project’s outset. The ICR did not explicitly report on the project's compliance with the Bank's safeguards and
+fiduciary policies.
+
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                     Page 32 of 32
+

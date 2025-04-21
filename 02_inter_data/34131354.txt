@@ -1,0 +1,1008 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     NISP (P132308)
+
+
+
+                                                                                Report Number: ICRR0023396
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P132308                                   NISP
+
+ Country                                   Practice Area(Lead)
+ Pakistan                                  Health, Nutrition & Population
+
+
+ L/C/TF Number(s)                          Closing Date (Original)               Total Project Cost (USD)
+ IDA-57860,TF-A2189,TF-B3039               31-Dec-2021                                        121,945,355.03
+
+ Bank Approval Date                        Closing Date (Actual)
+ 21-Apr-2016                               30-Jun-2022
+
+                                           IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                          129,600,000.00                                   87,700,000.00
+
+ Revised Commitment                           137,700,000.00                                   73,916,660.51
+
+ Actual                                       122,986,742.05                                   73,916,660.51
+
+
+
+
+ Prepared by                Reviewed by                  ICR Review Coordinator         Group
+ Salim J. Habayeb           Judyth L. Twigg              Eduardo Fernandez              IEGHC (Unit 2)
+                                                         Maldonado
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The objective of the project was to increase the equitable coverage of services for immunization against VPD,
+   including poliomyelitis, for children between 0 and 23 months in Pakistan (Financing Agreement, August 31,
+   2016, p. 6).
+
+   Note: VPD stands for Vaccine Preventable Diseases.
+
+
+
+                                                                                                 Page 1 of 19
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     NISP (P132308)
+
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Overview: According to the PAD (p. 6), the components aimed at incentivizing immunization results and
+   addressing bottlenecks in support of the Pakistan National Expanded Program on Immunization (EPI), as
+   articulated in the National Comprehensive Multi-Year Plan, 2014. The project intended to focus on
+   provincial level capacity for EPI implementation while concurrently strengthening the stewardship role at the
+   federal level.
+
+   The first three project components would use a results-based approach through a set of 11 Disbursement-
+   Linked Indicators (DLIs) to incentivize provincial results (DLIs were also used as intermediate results
+   indicators or as outcome indicators). The fourth and fifth components were based on transactions and
+   statements of expenditure, and would finance the federal EPI cell and partner agencies to provide technical
+   assistance, analytical capacities, and health system strengthening elements, particularly cold chain
+   capacity.
+
+   The project included five components (PAD, pp. 6-7) summarized below. Actual costs by component were
+   not provided by the ICR:
+
+   I. Strengthening Provincial Management, Governance and Stewardship Functions (Appraisal:
+   US$40.3 million; Revised Cost: US$43.3 million), including: (i) strengthening M&E to provide robust
+   monitoring and evaluation mechanisms; (ii) enhancing the capacity of provincial surveillance, with the
+   federal EPI cell providing technical and logistical assistance; (iii) supporting the provincial expansion and
+   maintenance of the Vaccine Logistics Management Information System (vLMIS); and (iv) promoting
+   oversight and coordination functions that would also contribute to the effective functioning of the National
+   Interagency Coordination Committee (ICC).
+
+   II. Improving Service Delivery Performance (Appraisal: US$19.75 million; Revised Cost: US$23.15
+   million), including enhancing: (i) planning for performance through provincial development of computerized
+   EPI micro plans that would be integrated with the system developed for polio; (ii) availability and
+   management of skilled human resources through the deployment of a variety of qualified personnel in
+   technical and managerial roles in provincial EPI cells; (iii) supervisory systems for EPI by increasing data
+   availability and instituting supervisory systems to allow their effective use, including for supply chain
+   management; and (iv) linkage to communities by establishing links between provincial EPI cells and private
+   sector health providers and civil society organizations (CSOs) working in low coverage catchment areas,
+   especially in urban slums.
+
+   III. Demand Generation (Appraisal: US$20.75 million; Revised Cost: US$24.45 million), including the
+   development of: (i) social mobilization and community awareness creation through electronic and print
+   media as well as local community awareness activities, while engaging with CSOs as key partners; (ii)
+   advocacy through the development of an advocacy plan by the federal EPI cell, to be implemented locally
+
+
+
+
+                                                                                                      Page 2 of 19
+  Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+  NISP (P132308)
+
+
+
+by the provinces, including for sensitizing political bodies and senior religious figures; and (iii) development
+of immunization awareness as a component of the standard school curriculum.
+
+IV. Vaccine Supply Chain (Appraisal: US$34 million; the appraisal cost was not revised), supporting
+national procurement of essential equipment to strengthen the capacity and performance of national and
+provincial vaccine supply chains. It was anticipated that the majority of related procurements would be
+carried in the first year of implementation through a contract with UNICEF and would utilize a cold chain
+platform initiated by the Vaccine Alliance (GAVI).
+
+V: Improving Capacity for Increased Immunization Coverage (Appraisal: US$14.8 million; Revised
+Cost: US$12.8 million), including: (i) capacity building activities of federal and provincial EPI cells in
+financial management, procurement, environmental and social management, and M&E; (ii) research,
+including for developing a pilot on a conditional cash transfer scheme that would provide incentives to
+mothers and health care providers to promote access to immunization services; (iii) DLI certification by
+independent third party assessment; and (iv) coordination of technical assistance provided to federal and
+provincial governments by WHO, UNICEF and CSOs.
+
+The components were not revised, but there were fund reallocations and an increased focus on urban
+centers and slums that were lagging in service access and uptake of vaccines.
+
+DLIs consisted of the following:
+
+DLI 1: Percent of children aged 12–23 months in each project province who are fully immunized.
+
+DLI 2: Percentage of Union Councils (UCs) in each project province for which revised computerized UC
+level micro plans are in functional use at district and provincial levels.
+
+DLI 3: Percentage of districts in each project province reporting at least 80 percent coverage of Penta3
+immunization in children aged between 12–23 months, as validated by a third party.
+
+DLI 4: Number of districts in each project province with at least 80 percent timely and complete reporting on
+vLMIS.
+
+DLI 5. Percentage of districts in each project province with their recognized surveillance sites having
+functional online surveillance systems for VPD and Adverse Events Following Immunization.
+
+DLI 6: Percentage of districts in each project province with at least 95 percent functional cold chain
+equipment in place as per specifications in each tier of the health system (including at least one month
+buffer stock capacity at the district level).
+
+DLI 7: Percent of detailed UC supervisory plans implemented by district supervisors and made available to
+supervising officers in each project province.
+
+DLI 8: Percent of children under two years of age with vaccination cards available in each project province.
+
+DLI 9: Budget allocations for immunization are continuous, adequate and can be easily tracked within the
+provincial financial management information systems.
+
+
+
+                                                                                                    Page 3 of 19
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     NISP (P132308)
+
+
+
+   Two DLIs were added in November 2020 at the time of the additional grant financing of US$ 8.1 million
+   provided by GAVI (ICR, p. 76):
+
+   DLI 10: In each province, a simple average of the percent of children in each targeted city aged 12-23
+   months who are fully immunized.
+
+   DLI 11: In each province, within two months from the agreement date, the departments of health
+   continuously maintain appropriately qualified specialized staff in each of the following immunization program
+   positions: epidemiologist, monitoring and evaluation officer, surveillance officer, and financial management
+   officer.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   The project constituted an incremental financing to the larger EPI program, estimated at US$1.58 billion
+   equivalent that included US$326 million from the Federal Government and US$1.26 billion from the four
+   Provincial Governments of Punjab, Sindh, Khyber Pakhtunkhwa (KP), and Balochistan.
+
+   At appraisal, the original project cost was estimated at US$129.6 million, consisting of an IDA Credit of
+   US$50 million and a Multi-Donor Trust Fund (MDTF) Grant of US$79.6 million, administered by the World
+   Bank. MDTF partners were GAVI and USAID. The Bill & Melinda Gates Foundation committed to financing
+   up to US$25 million for a partial buy-down of the IDA Credit at the end of the project (PAD, p. 8 and ICR, p.
+   11). In November 2020, a supplemental grant of US$8.1 million was provided by GAVI (ICR, p. 76) to
+   support an added focus on children in urban slums, at which time two DLI were also added (see Section 2d,
+   above). On December 15, 2021, a level-2 restructuring extended the closing date by six months (from
+   December 31, 2021 to June 30, 2022) to allow completion of activities, largely in view of service delivery
+   disruptions that were caused by the COVID-19 pandemic. The actual cost after project closing was US$123
+   million.
+
+   Key dates included approval on April 21, 2016; effectiveness on November 23, 2016; Mid-Term Review on
+   February 3, 2020; additional GAVI financing in November 2020; six-month extension of the closing date on
+   December 15, 2021; and actual project closing on June 30, 2022.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+At appraisal, the country’s performance in maternal and child health was poor and children's immunization
+coverage was recognized as a major challenge (PAD, p. 1). Estimates of the proportion of children who
+were fully immunized varied between 43 and 62 percent. The rate provided by the 2014 Comprehensive
+Multiyear Plan for Immunization was 53 percent. Low immunization levels have been attributed to a wide
+variety of factors (ICR, p. 14). On the supply side, there were weaknesses at various levels of the EPI
+delivery system, including lack of planning, supervision, and monitoring, weaknesses in logistics, limited
+numbers of vaccination points, staff shortages, lack of motivation, and lack of strong leadership. On the
+
+                                                                                                   Page 4 of 19
+                       Independent Evaluation Group (IEG)          Implementation Completion Report (ICR) Review
+                       NISP (P132308)
+
+
+
+demand side, research findings suggested that parents did not get children vaccinated because of a lack of
+awareness, misconceptions fed by negative propaganda, and difficulties in accessing vaccination services
+and sites. Armed conflict, natural disasters, and internal displacement of large populations sowed distrust
+and made it more difficult to reach children. In the case of polio, violence against vaccinators and local
+government bans also contributed to limiting immunization coverage.
+
+The development objective was fully aligned with the objectives of Pakistan’s EPI program that affirmed the
+commitment of the government to provide safe, effective, and cost-effective vaccination against VPDs; to
+set national standards and guidelines for immunization aligned with global goals; and to encourage the
+generation of local evidence for vaccination against VPDs. The government recognized the urgency of
+increasing immunization coverage and launched several initiatives, including the 2014–2018 National
+Comprehensive Multi-Year Plan for Pakistan National EPI. Execution of the Multi-Year Plan was relevant
+not only for Pakistan, but also in the context of polio eradication as a global public good (ICR, p. 12).
+
+The DLIs used by the project were very relevant, as they were directly linked to program performance and
+core elements of health system strengthening that would facilitate the PDO achievement.
+
+The ICR highlighted the continued alignment of the project objective with the World Bank Group’s Country
+Partnership Strategy (CPS) for the period FY2015-19 that was extended pending the preparation of a new
+Country Partnership Framework (ICR, p. 11). The CPS recognized service delivery in health and education
+as key areas of World Bank Group engagement to achieve the twin goals of poverty reduction and shared
+prosperity in Pakistan. The project objective responded directly to two out of the four results areas of the
+CPS: Results Area 3: Inclusion that focused on inclusive growth and inequality reduction for marginalized
+and vulnerable population groups; and Results Area 4: Service Delivery that took into account the devolved
+system of governance in the country. Project contributions would support these endeavors, including by
+expanding service coverage for child immunization; setting ambitious targets for areas that were not
+producing the desired changes in the past; improving public financial management; and increasing
+resources for health services. Under the latter, the project approach was in line with CPS messages for
+increasing provincial expenditures on education and health, including child immunization, by 20 percent.
+The CPS emphasized leveraging additional funds outside World Bank resources as a strategy for
+transformational change. In this context, the project sought to mobilize co-financing from development
+partners.
+
+The project objective reflected the World Bank approach to promote universal health coverage that would
+provide quality and affordable health care to everyone while reducing financial risks associated with ill
+health. Based on the CPS, the ICR also referred to the new investment framework “Global Health 2035” of
+the Lancet Commission (as a follow-up to the 1993 World Development Report) to achieve health gains.
+The Lancet Commission re-confirmed that investing in health has a huge payoff, including in fully valuing
+child mortality reductions.
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+High
+
+
+4. Achievement of Objectives (Efficacy)
+
+
+                                                                                                  Page 5 of 19
+                  Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                  NISP (P132308)
+
+
+
+EFFICACY_TBL
+
+
+
+
+               OBJECTIVE 1
+               Objective
+               Increase the equitable coverage of services for immunization against VPD, including poliomyelitis, for children
+               between 0 and 23 months in Pakistan
+
+               Rationale
+               The theory of change was based on the premise that the fundamental barrier to improving immunization
+               coverage was not primarily financial, but rather related to low performance and limited capacities of the EPI
+               program. Therefore, the project intended to incentivize improvement of provincial performance in some of its
+               key aspects, deploy technical assistance that would address specific health system bottlenecks, including
+               capacity for coordination, and promote effective management and reporting aspects to enhance
+               accountability (ICR, p. 12).
+
+               The theory of change held that:
+
+               - strengthening management, governance, and stewardship functions by providing support to M&E
+               mechanisms, functions, and standard operating procedures for M&E systems, introducing enhanced
+               surveillance, expanding vLMIS, defining the recommended staffing and capacity requirements for
+               strengthening national and provincial EPI units, and promoting oversight and stewardship functions through
+               review meetings, enhanced interprovincial coordination, monitoring, and reporting would plausibly result in
+               strengthened health information systems for planning and management of service delivery and vaccine
+               logistics, establishment of a sound and functional vaccine safety monitoring and early warning system,
+               increased presence of appropriately trained vaccinators, and sustained budgeting and availability of adequate
+               domestic financing for immunization;
+
+               - improving service delivery performance by enhancing planning and conversion of current plans to
+               computerized micro plans, creation of an online database and joint micro plans for immunization, improving
+               the quality of micro-planning, training and hiring skilled human resources, increasing the effectiveness of
+               supervisory systems for EPI by ensuring regular reporting, increasing electronic tracking of vaccinators and
+               supervisors, and developing supervisory plans in all provincial UCs would plausibly result in continuity,
+               enhanced immunization penetration and demand for immunization services, strengthened and empowered
+               EPI, increased presence of appropriately trained vaccinators at the service delivery level, institutionalized
+               utilization of computerized UC-level micro plans for planning and management, and increased numbers of
+               fully immunized children in each province;
+
+               - generating demand through social mobilization, launching behavior change campaigns, advocacy to raise
+               awareness via social mobilization messaging, advertisement and radio broadcasts about the importance of
+               immunization, introducing Immunization to secondary-level school curricula, enhancing community links
+               through CSO engagement, and sensitization of political bodies and senior religious figures about the merits of
+               immunization would plausibly result in provinces having stronger links and trust with communities through
+               sustained relationships with CSOs, increased awareness about immunization, and increased demand for
+               immunization services;
+
+
+
+
+                                                                                                                 Page 6 of 19
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   NISP (P132308)
+
+
+
+- strengthening the vaccine supply chain at the national and provincial levels through the provision of cold
+chain equipment with adequate maintenance of cold chain vehicles would plausibly result in expanded and
+functional cold chain capacity; and
+
+- improving capacity for increased immunization coverage by strengthening the capacities of federal and
+provincial EPI cells, provision of mid-level management training, contracting an independent third party to
+verify DLIs, establishment of pooled procurement for vaccines, coordination with co-financing partners on a
+performance framework and training of relevant EPI staff, and piloting a conditional cash transfer scheme
+would plausibly result in the institutionalization of pooled and efficient procurement of vaccines in Pakistan,
+and enhanced leadership and accountability at the decentralized level.
+
+All of the above outputs and intermediate results would collectively and plausibly contribute to increased
+equitable coverage of services for immunization against VPD for children between 0 and 23 months in
+Pakistan.
+
+As equitable coverage was the central project consideration per PDO statement, the theory of change could
+have further clarified the granularity aspects for monitoring inequities under project activities, such as in
+surveillance, administrative, and EPI management data.
+
+The broad design assumptions were that (a) resources would support vaccine deployment; and that (b)
+implementation of activities would create demand and increase the uptake of vaccines (ICR, p. 7).
+
+Since the success of immunization programs, including equity aspects, depends on high coverage of the
+target population, intended outcomes would be measured by province-specific immunization coverage and by
+the reduction in coverage disparities by wealth status.
+
+Neither ICR nor this ICR Review address the PDO element on poliomyelitis separately, as polio is an integral
+part of Routine Immunization services.
+
+
+
+Outputs and intermediate results
+
+The project coordinated government and development partners support within a results-based structure with
+emphasis on strengthening provincial capacity and performance (PAD, p. 6) by:
+
+     i. providing a single financing platform to coordinate sources of support for Routine Immunization;
+    ii. using standard government budgetary and accounting mechanisms to deliver the majority of funds
+       directly to the Federal Ministry of Finance and Provincial Departments of Finance;
+   iii. employing a performance-based financing structure to incentivize outcomes; and
+   iv. channeling catalytic technical assistance and funding to address specific health system bottlenecks,
+       and to strengthen management and reporting systems to enhance accountability.
+
+In all provinces, the departments of health maintained appropriately qualified specialized staff (epidemiologist;
+M&E, surveillance, and financial management officer positions). The project contracted CSOs to provide
+immunization services in low-coverage catchment areas.
+
+
+
+                                                                                                   Page 7 of 19
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   NISP (P132308)
+
+
+
+The percentage of children under two years of age with a vaccination card available increased in Balochistan
+from 8 percent to 35.2 percent, in KP from 39.7 percent to 71.7 percent, in Punjab from 40.7 percent to 85.5
+percent, and in Sindh from 25.9 percent to 70.4 percent.
+
+The 80 percent target for the combined number of Executive District Officers and Executive District Officers
+for Health who attended mid-level management training courses in each province was fully achieved or
+exceeded. In Sindh the achievement was 43 percent, short of the target of 80 percent.
+
+The percentage of UCs in each province for which revised computerized UC-level micro plans were in
+functional use at district and provincial levels exceeded the targets (ranging from 80 to 90 percent) in all
+provinces, achieving 100 percent in KP, Punjab, and Sindh, and 93 percent in Balochistan.
+
+The 100 percent target for UCs in each province with at least two skilled staff capable of providing
+immunization was achieved at 100 percent in KP, Punjab and Sindh, and at 81 percent in Balochistan.
+
+The 100 percent target for detailed UC supervisory plans implemented by district supervisors and made
+available to supervising officers in each province was achieved at 100 percent in KP, Punjab, and Sindh; and
+at 89 percent in Balochistan.
+
+The 96 percent target for districts in each province having functional cold chain equipment in place (as per
+specifications to exceed 95 percent in each tier of health system) was achieved at 100 percent in all
+provinces.
+
+The percentage of districts in each province with recognized surveillance sites having functional online
+surveillance for Vaccine Preventable Diseases & Adverse Events Following Immunization was 100 percent in
+all provinces, exceeding the common target of 80 percent.
+
+The percentage of secure districts in each province with functional electronic tracking of vaccinators and
+supervisors exceeded the targets in all provinces, reaching 100 percent in KP, Punjab, and Sindh; and 55
+percent in Balochistan.
+
+The percentage of districts in each province with at least 80 percent in terms of timeliness and completeness
+of reporting on vLMIS was achieved at 100 percent in all districts.
+
+The project intensified its activities focusing on low children coverage in urban slums and supported two new
+related DLIs in 2020 (see Section 2d).
+
+
+
+Outcomes
+
+Notable progress was made in increasing equitable coverage for immunization in all provinces, but with wide
+variability in reducing disparities (see Table 1 below) measured in terms of wealth status. Two provinces
+attained their targets and two others did not, and had variable progress. In Punjab, disparities in immunization
+were reduced from 41 percent to 1 percent, significantly exceeding the target of 28 percent. In Balochistan,
+disparities were reduced from 35 percent to 23 percent, essentially meeting the target of 20 percent. In KP,
+disparities were reduced from 43 percent to 38 percent, short of the target of 15 percent. In Sindh, disparities
+
+
+
+                                                                                                    Page 8 of 19
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   NISP (P132308)
+
+
+
+were reduced from 30 percent to 24 percent, short of the target of 15 percent. Nevertheless, in the latter two
+provinces, perceptible progress was made in a complex area of equity.
+
+Table 1: Reduction of inequity in immunization coverage by wealth status (measured by Penta3 coverage in
+each province between the lowest and highest wealth quintile):
+
+                                                                Actual
+                                                                achievement in
+                    Baseline December                                           % of target
+Province                                    Original target     June 2022
+                    2014                                                       achievement
+
+Balochistan         35%                     20%                 23%               80%
+KP                  43%                     15%                 38%               18%
+Punjab              41%                     28%                 1%                Exceeded
+Sindh               30%                     15%                 24%               40%
+
+
+
+In terms of overall immunization coverage, all provinces documented considerable improvements in full
+immunization coverage, also with variability among provinces. Punjab significantly exceeded its coverage
+target, increasing from 66 percent to 88.5 percent, exceeding the target of 77 percent. Sindh had significant
+progress from 29 percent to 68 percent, but remained moderately short of its target of 80 percent. In
+Balochistan, immunization coverage more than doubled from 16 percent in 2014 to 37.9 percent in 2022, but
+was short of the target of 65 percent. KP showed some progress, increasing from 53 percent to 60.5 percent,
+falling short of its target of 80 percent. Penta3 coverage and drop-out rates also showed mixed results while
+Punjab exceeded its targets. The Task Team reported on May 31, 2023 that there were shortcomings in
+tracking and vaccinating highly mobile populations and displaced families, especially in KP.
+
+At the aggregate national level, the increase in fully immunized children was significant. The ICR (p. 17)
+reported that, based on data collected during the final year of project implementation (2021-2022), the actual
+national coverage achieved, in terms of the proportion of children who were fully immunized, was 76.4
+percent, as compared with the baseline of 53 percent (2014 Comprehensive Multiyear Plan for Immunization).
+By design, the project did not set a national coverage target given the variability in coverage and uptake of
+services among provinces and because its strategy was to focus attention on promoting provincial ownership
+and accountability in terms of equitable coverage and program strengthening.
+
+Gender disaggregated data by province were not provided by the ICR; however, the latter reported that there
+was no perceptible variation by gender under the project, with 76.6 percent of female children and 76.2
+percent of male children having been fully vaccinated. The ICR noted that both male and female children had
+equal access and were administered vaccines, and that there was no evidence suggesting preferential
+vaccination of male or female children (ICR, p. 19).
+
+Outcomes were supported by significant achievements in intermediate results, as noted above, and by
+important health system strengthening, positively impacting the immunization program. Pivotal gains were
+made in operational, institutional, and financing aspects. These included the consolidation under one
+umbrella of scattered financing for Routine Immunization; establishment of a pooled procurement mechanism
+for Routine Immunization to ensure timely availability of vaccines; adoption of staffing standards; vaccine
+
+
+                                                                                                  Page 9 of 19
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                NISP (P132308)
+
+
+
+                            safety monitoring; well-functioning cold chain; development of annual immunization accounts; establishment
+                            of EPI-specific Drawing and Disbursing Officer (DDO) codes for tracking EPI fund flows and management;
+                            improved budget predictability and utilization (budget releases in FY2021 were 100 percent of the allocated
+                            amounts); and, importantly, the regularization of EPI funding under the recurrent budget, thus raising the
+                            prospect of domestic financial sustainability of immunization.
+
+                            The above transfer of the EPI budget from the development budget to the recurrent budget at both federal
+                            and provincial levels was of significance, as it would contribute to the availability of domestic financing for
+                            immunization. This budget regularization was spearheaded by the Government of Pakistan and incentivized
+                            by DLI 9 (see Section 2d). It was also facilitated by a prior policy action under a separate development policy
+                            financing arrangement between the World Bank and the Government of Pakistan (ICR, p. 26). In addition,
+                            and since the start of the project, there was a gradual increase in the domestic share of EPI financing. The
+                            aggregate impact of the project contributed to an increase in the provincial share of total EPI expenditures
+                            from 49.7 percent in FY2011 to 89.2 percent in FY2018 (ICR, p. 26).
+
+                            Under the “Borrower, Co-financier, and other Partner/ Stakeholder Comments” (ICR, Annex 3, pp. 62-65), the
+                            Bill & Melinda Gates Foundation noted that financial incentives succeeded in promoting the engagement of
+                            provincial leadership in the finance and health sectors, and that the project was very effective at policy and
+                            finance changes, but that the extent of fully addressing program performance issues remained an open
+                            question.
+
+                            Based on all of the above findings, the achievement of the stated objective is rated substantial, but marginally
+                            so, as there was modest achievement of two intended outcomes used in the assessment of overall efficacy.
+
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The objective to increase the equitable coverage of services for immunization against VPDs for children
+                            between 0 and 23 months in Pakistan was almost fully achieved, indicative of a substantial rating for overall
+                            efficacy. The substantial rating was at a marginal level as noted above.
+
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+                                                                                                                             Page 10 of 19
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      NISP (P132308)
+
+
+
+
+ 5. Efficiency
+In the global context, child immunization is known to be among the most cost-effective public health
+interventions (World Development Report, 1993). Its benefits in enhancing human capital contribute to improving
+the welfare of the society, increasing labor productivity, and ultimately to reducing poverty.
+
+At appraisal, the PAD’s economic analysis was based on scenarios of the burden of disease from VPD. An
+analysis titled “Global Burden of Diseases, Injuries, and Risk Factors Study 1990-2010," published in 2013 by
+the Institute for Health Metrics and Evaluation, an independent global health research center founded by the Bill
+& Melinda Gates Foundation at the University of Washington, included results for Pakistan and assumed three
+scenarios with different Disability Adjusted Life Years (DALYs): (i) low scenario of 39,156 DALYS per 100,000
+population; (ii) mean scenario of 56,984 DALYs per 100,000 population; and (iii) high scenario of 85,229 DALYs
+per 100,000 population (PAD, p. 14).
+
+According to the high scenario, the project would be expected to save about 1.16 million DALYs over the five
+years of the project. Using a 3 percent discount rate, the minimum discounted economic value was estimated at
+US$1,719 million. The total present value of benefits would be higher, as benefits would continue beyond the
+five-year implementation period. The total DALYs saved until 2030 were estimated at 3.34 million DALYs that
+would contribute US$5,491 million in present value terms. According to the mean scenario, the estimated
+DALYs averted were 0.4 million over the next five years and about 1.7 million by the end of 2030. The
+corresponding economic gains were estimated at US$590 million and US$2,816 million. Under the low scenario,
+the project was expected to save 0.27 million DALYs over the life of the project and 1.17 million DALYs by the
+end of 2030. The corresponding monetary gains were estimated at US$405 million and US$1,935 million,
+respectively. In all scenarios, the PAD concluded that benefits greatly exceeded costs. Therefore, the economic
+analysis concluded that the project was economically justified.
+
+The ICR’s economic analysis built on appraisal findings and noted that the most recent data available from the
+Global Burden of Disease Study (https://vizhub.healthdata.org/gbd-results/) indicated that the loss of DALYs in
+Pakistan due to eight common vaccine-preventable illnesses decreased by 33 percent between 2010 and 2019.
+This in turn decreased the estimated annual economic benefit of project interventions. Nevertheless, the
+estimated benefits continued to greatly exceed estimated costs, and the reduced burden of disease partly
+reflected the prevention impact to which the project contributed.
+
+The ICR estimated the cost of fully immunizing a child in Pakistan. At appraisal, the cost was estimated at
+US$64, based on provincial data for 2011–2012. The economic analysis at appraisal assumed that the average
+weighted cost per fully immunized child would increase to US$129 in 2024/25. However, based on data
+collected during the final year of project implementation (2021-2022), the average weighted cost per fully
+immunized child was estimated at US$42. This lower cost at the ICR stage reflected efficiencies gained during
+the life of the project, including improvements in overall immunization operations, cold chain capacity and
+logistics, and pooled procurement of vaccines.
+
+At the same time, some other implementation aspects moderately reduced overall efficiency, and these included
+factors beyond the control of the project. The ICR (p. 23) reported that the cost of vaccines increased globally,
+thus increasing fiscal pressure. There was a delay in conducting Third-Party Verification Immunization Coverage
+Surveys. The implementation of the Environmental and Social Management Plan remained a challenge in the
+initial years of the project (ICR, p. 25). Capacity constraints in procurement staff (non-EPI personnel) were
+observed (ICR, p. 27). There were frequent transfers and changes in EPI leadership, both at the federal and
+provincial levels, affecting the continuity of dialogue and follow up (ICR, p. 64). Security challenges adversely
+
+                                                                                                   Page 11 of 19
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      NISP (P132308)
+
+
+
+affected implementation in some areas. Given the political sensitivity and security risks surrounding
+immunization and polio eradication in Pakistan, the project encountered limitations in accessing some tribal
+areas (ICR, p. 24). The COVID-19 pandemic caused understandable disruptions in immunization delivery in
+2020, and the subsequent national response to the pandemic used the EPI platform for COVID-19 vaccination
+rollout and deployment, resulting in the temporary diversion of human resources and attention away from EPI.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                     0
+ Appraisal                                                  0
+                                                                                      Not Applicable
+                                                                                     0
+ ICR Estimate                                               0
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Relevance of the development objective was rated high in view of full alignment with country and World Bank
+strategies, and because childhood immunization remains among the “best buys” in global health. Efficacy is
+rated substantial as the development objective was almost fully achieved, but marginally so. Efficiency is rated
+substantial in view of the high cost-effectiveness of childhood immunizations, but with some negative
+implementation aspects that moderately reduced efficiency. The aggregation of these findings is indicative of a
+moderately satisfactory outcome rating.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+The gains made in operational, institutional, and financing aspects as described in Section 4 are likely to help
+EPI maintain its achievements and to continue making progress beyond the project’s lifetime (ICR, p. 62).
+The ICR (p. 28) highlighted the fact that the project strengthened the immunization program to the point at
+which the provincial governments were willing to finance related expenditures under their regular recurrent
+budget allocations. This ended more than 30 years of development-mode status of this core public health
+priority. The resilience of Pakistan’s immunization program was also demonstrated in the context of arising
+challenges in security-compromised areas and during the unprecedented challenges of the COVID-19
+
+                                                                                                    Page 12 of 19
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     NISP (P132308)
+
+
+
+pandemic. Although Pakistan’s investment in public health is low by international standards, the fundamental
+importance of immunization to child health—and to the building of human capital—is recognized at all levels
+of government and remains strongly supported by the international community. The above considerations led
+the ICR to conclude that the risk to development outcomes is low. This ICR Review concurs with the ICR’s
+overall risk assessment without dismissing the likelihood that higher risks to the outcomes already achieved
+may continue to oscillate as a result of security threats in localized areas.
+
+Going forward, further immunization equity may be realized through more demand generation and deeper
+granularity in monitoring and managing inequities in EPI operations. Importantly, in the long run,
+immunization equity would continue to depend on the challenging endeavors to address broader socio-
+economic determinants affecting immunization access and demand.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The overall design and financing instrument were well suited to support clearly defined provincial
+  immunization programs. The choice to direct the majority of project financing to provincial governments
+  under a results-based mechanism recognized their primary role and prevented bottlenecks that were
+  previously encountered in other development projects that used input-based financing at the central level.
+  This approach was complemented by technical assistance and support for system strengthening. Co-
+  financing arrangements effectively accommodated other donors and coordinated their financial and
+  technical assistance.
+
+  Preparation was informed by analytical work undertaken by the World Bank and summarized in a 2012
+  HNP Discussion Paper “The Expanded Program on Immunization in Pakistan: Recommendations for
+  Improving Performance." This study indicated that underachievement of the program in the past was due
+  to a combination of factors thematically linked under management, performance, and accountability. The
+  analysis also underlined the importance of demand-side aspects, notably barriers to health-seeking
+  behavior (PAD, p. 9). Implementation arrangements were informed by the ICR of the Pakistan HIV/AIDS
+  Prevention Project, which identified difficulties in implementing a nation-wide umbrella project. Hence, the
+  project design emphasized provincial ownership and accountability, whereby each province would have
+  province-specific targets and would be independently monitored and incentivized along with a direct flow
+  of funds.
+
+  Institutional and implementation arrangements were the same as those of the government’s EPI program
+  (PAD, p. 10). Under the federal system, responsibility for financing and delivery of health services was
+  devolved to the four provinces. Provincial program activities were to be implemented by the four
+  provincial EPI cells, supported by the federal EPI cell within the Ministry of National Health Services,
+  Regulation and Coordination (MONHSRC). The main five implementing entities would coordinate their
+  activities with respective health and finance departments, and the Accountant General Office.
+
+  The overall quality of the PAD was high. Fiduciary assessment at appraisal was comprehensive, and the
+  project had a robust implementation support/supervision plan. Appraisal was based on recent
+  government policies and processes in immunization, notably the Comprehensive Multi-Year Plan,
+  provincial financing plans, polio eradication strategies, and the decision of the Executive Committee of
+
+                                                                                                   Page 13 of 19
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     NISP (P132308)
+
+
+
+  the National Economic Council on pooled vaccine financing (ICR, p. 28). Substantial risks were
+  adequately identified with corresponding mitigation measures, including for governance and fiduciary
+  aspects, stakeholder risks, and implementation capacities.
+
+  While preparation was satisfactory overall, there were some shortcomings that had minor consequences.
+  The ICR (p. 25) reported that there was an initial lack of understanding of the Environmental and Social
+  Management Plan (ESMP) by the government, and that this issue subsequently contributed to challenges
+  in its early implementation while also noting that related performance and compliance was satisfactory at
+  project closing. There were misunderstandings at the level of implementing agencies on the flow of funds
+  under the DLI mechanism that was to be discharged via the Departments of Finance and not through
+  World Bank disbursements to a Designated Account (ICR, p. 22). Nevertheless, financial management
+  was assessed as satisfactory. The ICR reported that, during preparation, there were multiple institutional
+  changes in implementation responsibilities at the federal level and turnover of government officials that
+  slowed the pace of preparation. The latter issues were not attributable to the Bank Task Team. Also, they
+  may have affected the speed of preparation but not its ultimate quality.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The ICR (p. 28) reported that sharing one vision among partners and instituting a joint monitoring and
+ supervision framework greatly reduced fragmentation in international assistance to Pakistan’s
+ immunization program. Supervision reportedly focused closely on concrete progress with regular tracking
+ of indicators in the joint monitoring framework. Policy dialogue of the Task Team with provincial
+ governments was enhanced by the DLI financing mechanism and the close engagement of the
+ departments of finance and health. The ICR (p. 22) reported that the World Bank Team had close
+ coordination with development partners (USAID, GAVI, and Bill & Melinda Gates Foundation), and with UN
+ agencies, namely UNICEF and WHO. Collaboration with UNICEF and GAVI in vaccine procurement and
+ utilizing the cold chain platform launched by GAVI ensured a smooth flow of vaccines, averting shortages
+ and implementation delays (ICR, p. 23). In addition to intensive supervision and implementation support
+ efforts, the Task Team was also responsible for executing analytical and policy activities. In this context,
+ the ICR was of the view that staff time allocations may have been insufficient. If substantiated, this remark
+ may reflect an issue that would be attributable to broader institutional considerations within the World Bank,
+ and not to Task Team performance.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+
+
+                                                                                                   Page 14 of 19
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     NISP (P132308)
+
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The development objective was clearly stated and reflected by the selected PDO indicators. The results
+ chain was clear and systematic, although it would have been strengthened by further explaining how
+ inequities would be monitored. Data would be collected and analyzed by the provinces, supported by
+ technical assistance and sound methodologies used globally. Immunization outcomes and intermediate
+ results would be tracked using an annual coverage evaluation survey that provided the basis of third-party
+ verification. Federal and provincial EPI cells would prepare an Annual DLI Results Report to be reviewed
+ by the National ICC and then to inform the steering committee of MDTF during the World Bank’s biannual
+ supervision missions. The results of DLI achievements would trigger disbursements. PDO indicators were
+ province-specific by design, as explained in Section 4. Third-party verification analyses would include,
+ among other criteria, gender, maternal years of education, economic status, and urban/rural residence
+ (ICR, p. 24).
+
+
+
+b. M&E Implementation
+  M&E implementation proceeded adequately with some challenges. Given the political sensitivity and
+  security risks surrounding immunization and polio eradication in Pakistan, the project encountered access
+  limitations in some tribal areas, thus delaying or hindering activities, including M&E, in those areas (ICR,
+  p. 24). Since verification of PDO indicators and corresponding DLIs relied on a national household
+  survey, the first round had to be delayed as another national survey had already been contracted by a
+  partner agency (ICR, p. 23). In conjunction with the additional financing grant provided by GAVI in
+  November 2020, the project added three intermediate indicators (two of which were DLIs; see Section
+  2d). This was prompted by EPI data showing that a proportion of children were not receiving adequate
+  immunization services in urban slums. The ICR (p. 27) stated that gender-disaggregated data were
+  tracked in all PDO indicators, although such data was not reported by province in the results framework.
+
+
+
+c. M&E Utilization
+  M&E findings were used for regular project monitoring, informed decision-making, and triggering
+  disbursements. The reports prepared by the federal and provincial EPI cells informed the national ICC
+  and the steering committee of MDTF. Findings were widely shared, and co-financing partners used the
+  project indicators and reporting framework for their own grant monitoring and for other separate
+  investments. This common utilization increased efficiency in M&E. The ICR Team was informed about
+  continued innovative use of global positioning and monitoring systems using vaccinators' cell phones to
+  track health worker performance and to contribute to informing corrective actions. M&E helped to reveal
+  lagging progress in urban areas, prompting added attention to such areas (ICR, p. 24).
+
+
+
+
+  M&E Quality Rating
+  Substantial
+
+                                                                                                   Page 15 of 19
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     NISP (P132308)
+
+
+
+
+10. Other Issues
+
+a. Safeguards
+   The project triggered Safeguard Policy OP/BP 4.01-- Environmental Assessment and was classified as
+   Category B. The risks were mainly related to the generation of health care waste associated with
+   vaccinations, such as sharps, syringes, gauzes, and unused vaccines. An ESMP was prepared and
+   disclosed, and the project emphasized the need to adhere to updated EPI guidelines.
+
+   The implementation of the ESMP was initially challenging, and there was no dedicated specialist in the first
+   two years of implementation. Subsequently, the government hired dedicated ESMP coordinators (one at the
+   federal level and one in each of the four provinces), thus facilitating improvements in compliance. The
+   project ensured the use of auto disposable syringes in all vaccination centers and the availability of safety
+   boxes. The cold chain was managed effectively in vaccination centers, assisted by a robust vLMIS. Various
+   actions were taken to improve the handling of health waste at EPI centers, including: (a) the use of color-
+   coded waste bins; (b) adoption of standard operating procedures for safe handling of waste disposal; (c)
+   upgrading of pits to avoid open burning; (d) transport of waste to available nearby incineration facilities; (e)
+   compliance monitoring through frequent site visits by ESMP coordinators along with adequate
+   documentation and reporting; and (f) training at provincial, district, and UC levels. The ICR (p. 26) reported
+   that, with regular follow-up from the World Bank Task Team, the government took strenuous efforts to
+   improve medical waste management and developed, in 2020, National Guidelines for Infection and
+   Prevention.
+
+   According to the Operations Portal, the overall safeguards rating was moderately satisfactory during most of
+   the project period, and the final rating was upgraded to satisfactory.
+
+   MoNHSRC established a help line for a grievance redress mechanism (GRM) that was accessible across
+   the country. Sign boards and complaint registers were maintained at most EPI centers, where a GRM
+   committee and a focal person were nominated. A record of all complaints was maintained by the EPI
+   program. In addition to the helpline, EPI received complaints through a nationwide GRM initiative (Pakistan
+   Citizen’s Portal) that was launched by the Federal Government, and the Portal covered all services.
+
+
+
+
+b. Fiduciary Compliance
+   Despite a high fiduciary risk rating at appraisal, the project was mostly fiduciary compliant, and its fiduciary
+   performance was satisfactory overall. The ICR reported that financial management was further improved
+   and strengthened throughout the implementation period. Compliance in terms of interim financial
+   statements and audits was satisfactory. EPI audits were carried out by the Auditor General of Pakistan,
+   and the ICR did not report any qualifications. The ICR noted that the flow of funds was adequate, with
+   some delays in fund flows from the provincial departments of finance to the provincial program in
+   Balochistan and KP. Internal control was assessed as moderately satisfactory. UNICEF Financial
+   Utilization Reports were satisfactory. The final financial management performance was assessed as
+   satisfactory, and the ICR reported that, at the end of the project, EPI was fully embedded in the country
+
+
+
+                                                                                                      Page 16 of 19
+        Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+        NISP (P132308)
+
+
+
+   systems, and that EPI expenditure could be tracked through the National Financial Accounting and
+   Budgeting System (ICR, p. 78).
+
+   Some challenges were encountered. District Health Officers had capacity limitations that necessitated
+   further training to improve budget preparation. While EPI-specific DDO codes were fully operational in
+   Sindh, KP, and Balochistan, there was a lag in Punjab, where the codes were used in 21 out of 36 District
+   Health Authorities (ICR, p. 27). In Balochistan, the operational budget was not sufficient to meet district
+   operational needs in some instances due to insufficient anticipation of service delivery needs. Constraints
+   in staffing capacity for procurement were identified during the implementation period, and the fact that
+   procurement officers were not on EPI’s regular payroll was a contributing factor.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   As a positive unintended impact, the ICR (p. 22) reported that project implementation arrangements and
+   procurement mechanisms greatly facilitated Pakistan’s rapid emergency response to the COVID-19
+   pandemic, and that the first procurement of personal protective equipment in the region was deployed
+   through the project, facilitated by legal arrangements with UN partners.
+
+
+
+d. Other
+   --
+
+
+
+11. Ratings
+                                                                                  Reason for
+Ratings                           ICR                   IEG
+                                                                                  Disagreements/Comment
+                                  Moderately
+Outcome                                                Moderately Satisfactory
+                                  Satisfactory
+Bank Performance                  Satisfactory         Satisfactory
+
+Quality of M&E                    Substantial          Substantial
+
+Quality of ICR                    ---                  Substantial
+
+
+12. Lessons
+
+The ICR (pp. 28-29 and pp. 67-68) provided several lessons and recommendations, including the
+following lessons re-stated by IEG Review:
+
+         Partnerships and coordination among development partners can provide effective support to
+          the immunization agenda within one project mechanism. Under the project, this resulted in
+          more than five years of joint investment decision-making, supervision, policy dialogue, and
+          effective coordination. In addition, using the buy-down mechanism of the Bill and Melinda
+
+                                                                                                    Page 17 of 19
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       NISP (P132308)
+
+
+
+         Gates Foundation helped the country in alleviating incremental debt obligations during a
+         period of turbulent economic circumstances.
+
+        The strategic focus on strengthening the immunization program at subnational levels is
+         responsive to province-specific development challenges and allows the central government
+         and development partners to promote a continued engagement with provinces that showed
+         lagging performance, and to jointly identify options for advancing universal health coverage,
+         including immunization.
+
+        The availability of timely, reliable, and verified data on immunization coverage helps in
+         identifying weaknesses in immunization programs and in guiding corrective actions. Under
+         the project, M&E findings were instrumental in identifying under-performance in urban
+         centers and slums, resulting in intensified efforts and oversight.
+
+        The institutionalization of a national pooled procurement mechanism for vaccines, based on
+         provincial demands, can ensure a continuous and uninterrupted supply of competitively
+         priced vaccines.
+
+        Fostering community-led approaches, links, and mutual trust can facilitate the expansion of
+         immunization service delivery and demand generation. The project facilitated community
+         engagement mainly through Civil Society Organizations working in low-coverage catchment
+         areas. The project also sensitized political bodies and religious leadership to help in
+         advancing immunization efforts.
+
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provided an adequate account of project performance. It was results-oriented. The theory of change
+was clear and systematic in illustrating the pathway toward intended outcomes. The ICR’s narrative was candid
+and aligned to the development objective. The ICR’s analysis was thorough, well organized, and supported by
+adequate evidence. Both the narrative and the evidence supported the ICR’s overall conclusions. In addition to
+intended outcomes, the ICR reported on other pivotal gains in health system strengthening, including in its
+financing. Lessons were derived from project experience. The ICR was reasonably concise, with moderate
+inconsistencies and repetitiveness.
+
+
+
+
+                                                                                                     Page 18 of 19
+  Independent Evaluation Group (IEG)   Implementation Completion Report (ICR) Review
+  NISP (P132308)
+
+
+
+a. Quality of ICR Rating
+   Substantial
+
+
+
+
+                                                                    Page 19 of 19
+

@@ -1,0 +1,942 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Tax Administration (P127807)
+
+
+
+                                                                                  Report Number: ICRR0022243
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P127807                                    Tax Administration
+
+ Country                                    Practice Area(Lead)
+ Tajikistan                                 Governance
+
+
+ L/C/TF Number(s)                           Closing Date (Original)                Total Project Cost (USD)
+ IDA-H8100                                  31-Dec-2017                                          16,378,618.59
+
+ Bank Approval Date                         Closing Date (Actual)
+ 31-Oct-2012                                31-Dec-2019
+
+                                            IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                            18,000,000.00                                               0.00
+
+ Revised Commitment                             18,000,000.00                                               0.00
+
+ Actual                                         16,378,618.59                                               0.00
+
+
+
+
+ Prepared by                 Reviewed by                  ICR Review Coordinator          Group
+ Antonio M. Ollero           Clay Wescott                 Jennifer L. Keller              IEGEC (Unit 1)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to the Financing Agreement (page 6), the program development objective of the Tajikistan Tax
+   Administration Reform Project was “to reform the tax administration in order to: (i) enhance the level of
+   voluntary compliance; (ii) strengthen the effectiveness of the Tax Committee to fight tax evasion; (iii)
+   strengthen the institutional and human capacity in order to improve the professionalism of tax officials and
+   reduce the avenues for corruption; and (iv) modernize the processes that would help reduce administrative
+   cost for the government and compliance burden for taxpayers.”
+
+
+                                                                                                   Page 1 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Tax Administration (P127807)
+
+
+
+   The Project Appraisal Document (PAD) (pages ii and 7) and the Restructuring Paper (page 13) stated the
+   project development objective differently: “The project development objective is to reform the tax
+   administration to become more efficient and effective in collecting revenue, enhance the level of voluntary
+   compliance, and improve the quality of taxpayer services. Specifically, the project aims to: (i) reduce the
+   administrative cost of collecting revenue to make the Tax Committee a more efficient institution; (ii) strengthen
+   the effectiveness of the Tax Committee to fight tax evasion and reduce the size of the shadow economy; (iii)
+   reduce contact between tax officials and taxpayers to reduce avenues for corruption and create conditions for
+   increased level of voluntary compliance; and (iv) provide good quality taxpayer services that would help
+   reduce the compliance burden for taxpayers, thus improving the business environment and competitiveness.”
+
+   The ICR (page 8) states that “the substance and desired outcomes [of the two statements] are generally the
+   same” but assesses the project based on the statement of the objective in the Financing Agreement. This
+   ICR Review uses the project development objective in the Financing Agreement.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project had four components.
+
+   Institutional Development (US$2.2 million estimated at appraisal, US$1.94 million disbursed) supported
+   the: (a) development of strategic planning and restructuring of offices of the Tax Committee, the agency
+   responsible for tax administration in Tajikistan, to enhance capacity in modern tax organizational structure
+   and to increase efficiency through the provision of consultants' services and training; (b) improvement of
+   human resources policies, workforce planning, and staff transition plan as part of the modernization
+   process, through the provision of consultants' services; (c) installation of a Human Resources Management
+   Information System through purchase of equipment, and training to enhance capacity in human resources
+   management; (d) development of training policies and strategy, curriculum, and e-learning and distance
+   learning, through provision of consultants' services; and (e) establishment of regional training facilities
+   through purchase of equipment, and training to enhance capacity of the training institute to deliver e-
+   learning applications.
+
+   Operational Development (US$1.8 million estimated at appraisal, US$1.42 million disbursed) involved: (a)
+   strengthening the analytical capacity of the Ministry of Finance and the Tax Committee for tax policy; (b)
+   augmenting skills of Tax Committee inspectors in auditing for detection of fraud; (c) enhancing the capacity
+   of Tax Committee staff to enforce collection; (d) improving internal controls and internal audit; (e) revamping
+   taxpayer services, including establishment of a modern call center; and (f) supporting the development of
+   an independent tax appeals systems with a database for tracking of appeals cases, through the provision of
+   consultants' services, purchase of equipment, and training.
+
+   Information and Communication Technology (ICT) Infrastructure and System Modernization
+   (US$12.4 million estimated at appraisal, US$10.94 million disbursed) supported: upgrading the ICT in the
+   Tax Committee to automate the processing of returns, calculation of taxes, desk audits, and other tax
+
+                                                                                                     Page 2 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Tax Administration (P127807)
+
+
+
+   administration functions, through the provision of equipment, including the development of an Integrated
+   Tax Management Information System (ITMIS) and the establishment of data centers.
+
+   Project Management (US$1.6 million estimated at appraisal, US$2.08 million disbursed) involved
+   strengthening the Tax Committee's capacity to provide project implementation, through the provision of
+   consultants' services and incremental operating costs.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost: The project was estimated to cost US$18 million at appraisal. The final project cost was
+   US$16.38 million, the lower amount largely due to the depreciation of the SDR against the U.S. dollar
+   during project implementation.
+
+   Financing: The project was financed by an SDR 11.9 million (US$18 million equivalent) grant from the
+   International Development Association. The amount disbursed was SDR 11.7 million (US$16.38 million
+   equivalent) by project closing, or 98.6 percent of the grant.
+
+   Borrower Contribution: There was no financial contribution by the Republic of Tajikistan to the project.
+
+   Dates: The project was approved on October 31, 2012, became effective on February 8, 2013, was
+   restructured on February 8, 2017, and closed two years behind schedule on December 31, 2019.
+
+   Restructuring: The restructuring in February 2017, with US$7.76 million disbursed (47 percent of the final
+   disbursement amount): (a) revised some results indicators, including targets; (b) revised the project
+   implementation schedule, extending the original closing date of December 31, 2017 by two years.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+The project objectives were substantially relevant to the development priorities of the government at project
+appraisal. The "National Development Strategy of the Republic of Tajikistan for the Period to 2015" cited
+the "more effective management of government finances and the improvement of tax administration" as
+priorities to "improving the public administration system and macroeconomic development." The "Poverty
+Reduction Strategy of the Republic of Tajikistan for 2010-2012" advanced four "functional blocks" for
+promoting sustainable economic growth. Of these, the second, "Macroeconomic Development", prioritized,
+among others, tax reform, including by improving and simplifying tax administration. The "Public Finance
+Management Strategy of the Republic of Tajikistan for 2009-2018" recognized that tax revenue remained
+low in part due to tax exemptions, weaknesses in tax administration, and high tax arrears. The document
+advocated improving tax administration to increase tax revenues and improve "budget predictability."
+
+While this project focused on tax administration reform, tax policy reform in Tajikistan was concurrently
+addressed by the government with the separate assistance of the International Monetary Fund
+(IMF). A three-year arrangement under the Extended Credit Facility (ECF) for SDR 104.4 million (US$116
+
+
+                                                                                                    Page 3 of 18
+                                      Independent Evaluation Group (IEG)             Implementation Completion Report (ICR) Review
+                                      Tax Administration (P127807)
+
+
+
+               million), approved by the IMF in April 2009 and augmented in June 2010, imposed a floor on tax collection
+               through 2012 as an indicative target and a floor on the overall cumulative fiscal balance of the general
+               government (excluding foreign-financed public investment program and related grants) as a quantitative
+               performance criteria. Importantly, the IMF program required the submission to the Cabinet of a "strategy for
+               reform of the tax regime" as a structural benchmark for September 2011, and the submission to the Cabinet
+               of a "revised tax code consistent with IMF recommendations" as a structural benchmark for March
+               2012. Focused on a simplification of the tax regime, the new "Tax Code for the Republic of Tajikistan" was
+               approved by Parliament in December 2013 and adopted by the government in January 2014.
+
+               The project objectives remained substantially relevant to the development priorities of the government at
+               project closing. The "National Development Strategy of the Republic of Tajikistan for the Period Up to
+               2030" emphasized the continued improvement of tax administration with the aim of improving tax
+               collection, reducing the administrative burden of paying taxes, and increasing the transparency and
+               predictability of the tax system.
+
+               The government continued to pursue the tax policy reform agenda at project closing. According to the IMF
+               Article IV Consultation with the Republic of Tajikistan, which concluded in January 2020, the next priorities
+               for tax policy reform include: "broadening the tax base"; "gradually phasing out tax incentives"; and "fiscal
+               consolidation measures to put debt on a downward trend." Accordingly, the government has drafted a new
+               Tax Reform Program for 2020-25. Adoption of these new reforms may require additional revisions to the
+               Tax Code.
+
+               The project objectives were aligned with the country strategy of the Bank Group in Tajikistan at project
+               appraisal. The “Country Partnership Strategy for the Republic of Tajikistan FY10-FY13” (CPS) articulated
+               three objectives: (a) reducing the negative impact of the crisis on poverty and vulnerability; (b) paving the
+               way for post-crisis recovery and sustained development; and (c) mainstreaming core governance
+               reforms. The project objectives were aligned with the first CPS objective, particularly with the expected
+               result to “maintain fiscal stability”, and the third CPS objective, specifically with the results to “strengthen
+               incentives for better performance of civil servants” and to “improve transparency and accountability in public
+               financial management.”
+
+               The project objectives remained aligned with the country strategy of the Bank Group in Tajikistan at project
+               closing. The “Country Partnership Framework for the Republic of Tajikistan for the Period FY19-FY23”
+               (CPF) supports the country’s development priorities in three “focus areas”: (a) human capital and resilience;
+               (b) public institutions and sustainability; and (c) enabling private sector growth and creating markets. The
+               project objectives were aligned with the second CPF focus area, specifically with the objective “to improve
+               the effectiveness of the tax and the statistics offices.”
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                                                                                                                    Page 4 of 18
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Tax Administration (P127807)
+
+
+
+
+OBJECTIVE 1
+Objective
+To enhance the level of voluntary compliance.
+
+Rationale
+The degree of achievement of this objective is assessed as high.
+
+Theory of change: The review of business processes at the Tax Committee, purchase and customization of
+an off-the-shelf ICT solution, purchase of software and equipment for the Data Center and Data Recovery
+Center, and training of Tax Committee staff on data analytics would enable the Tax Committee to install and
+deploy an ITMIS for the electronic filing of tax returns (e-filing) and the online payment of taxes by
+taxpayers and the computerization and digitalization of many Tax Committee functions and services. A fully
+functional ITMIS, supported by data centers and operated by trained staff, would allow taxpayers easy access
+to their tax information, enable them to file returns and make payments online, and lessen their contact with
+tax offices, thus helping raise their voluntary compliance with their tax obligations. A higher level of voluntary
+compliance would be reflected in an increase in the number of taxpayers and in the percentage of taxpayers
+using the new electronic filing and online payment system.
+
+Outputs: The project achieved two output targets.
+
+      The ITMIS was implemented, meeting the target. Acquired off-the-shelf but customized for the Tax
+       Committee, the ITMIS was launched and deployed in July 2019. The ITMIS provides a single-window
+       taxpayer-service platform for taxpayer registration, the filing of tax returns, the payment of taxes, and
+       access to personal taxpayer information, including tax obligations and notifications. The system was
+       rolled out in stages with the last four of 40 modules, made available in January 2020, relating to Tax
+       Committee functions and covering risk-based audit, internal audit, tax arrears management, and
+       appeals management.
+      The Data Center in Dushanbe and the Data Recovery Center in Khujand were made operational in
+       2015, meeting the target. Between 2015 and 2019, the data centers offered a suite of interim
+       electronic services until the ITMIS was launched and made operational in 2019. The interim system
+       allowed for the beginning of e-filing, using e-tokens, some 2,000 of which were distributed free to
+       taxpayers. E-filing, which was not available in 2013, progressed from some 4 percent of all tax filings
+       in 2015 to 90 percent by 2017.
+
+Outcomes: The project exceeded two outcome targets.
+
+      The total number of taxpayers more than doubled from 160,000 in January 2013 (baseline) to 326,492
+       in December 2019 (closing date), exceeding the target of 201,500 taxpayers. The ICR (pages 12 and
+       61) provides details of the headline number. The number of individual entrepreneur taxpayers
+       increased from 137,265 to 295,563 and legal entity (or incorporated) taxpayers from 23,543 to
+       30,929. The number of active value-added tax (VAT) taxpayers slightly declined slightly from 5,202
+       to 5,148, after the VAT registration threshold (the value of “taxable supplies” --- the value of sales or
+       supply --- at and above which persons are required to register and account for VAT) was raised from
+       Tajikistani somoni (TJS) 200,000 in the baseline to TJS 500,000 in January 2013 and TJS 1,000,000
+       in January 2017. But the number of corporate income tax (CIT) taxpayers rose significantly by 114
+       percent from 2,367 to 5,080.
+
+                                                                                                    Page 5 of 18
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   Tax Administration (P127807)
+
+
+
+
+        The percentage of taxpayers (incorporated legal entities) filing tax returns electronically rose from zero
+         percent in the baseline to 98.9 percent by the project closing date, exceeding the target of 70
+         percent. According to the Taxpayer Survey of 2019, some 81 percent of survey respondents were
+         aware of the new e-filing system, 68 percent reported using the system, and 98 percent expressed
+         satisfaction with the system. Nonetheless, the survey also indicated that the e-filing system was less-
+         used by individual entrepreneurs, including farmers, who had limited access to the Internet.
+
+
+
+Rating
+High
+
+
+OBJECTIVE 2
+Objective
+To strengthen the effectiveness of the Tax Committee to fight tax evasion.
+
+Rationale
+The degree of achievement of this objective is assessed as substantial.
+
+Theory of Change: The purchase of point-of-sale terminals and their integration into the ITMIS, the
+development of risk-based audit techniques and their linkage with the ITMIS, and the development of
+methodologies for tax revenue modeling, tax policy analysis, and impact analysis would result in a functional
+e-invoicing system, a risk-based audit system, and stronger policy analytic capacity at the Tax Committee,
+enabling the agency to strengthen its effectiveness in combating tax evasion. The outcome would be
+evidenced by reductions in the tax gap measures, reductions in tax arrears, increases in tax adjustments as a
+result of audits, and increases in the share of revenue collected by the Large Taxpayer Inspectorate.
+
+Outputs: There was no output indicator defined for this objective, although the ICR (page 16-17) notes that
+the four project activities related to this objective were all completed.
+
+        E-invoicing was installed at the Tax Committee during project implementation. E-invoicing had been
+         developed outside of this project but its deployment was supported by this project through: the
+         purchase of point-of-sale terminals; the distribution of the terminals to small and medium-size
+         enterprises; and the integration of the VAT e-filing system into the ITMIS.
+        Following support provided by the International Finance Corporation for a risk-based auditing system,
+         this project assisted with the development of a risk-based plan for tax inspections of business
+         entities. For this purpose, the ITMIS had, beginning in June 2019, allowed the automated exchange
+         of data with commercial banks, the National Bank of Tajikistan (the central bank), the Customs
+         Service, the Social Protection Fund, the Property Register, and the Public Procurement Agency
+         following agreement with third parties on an information exchange protocol. The Data Analytics
+         Center at the Tax Committee, supported by this project, studies data that are warehoused at the
+         Center.
+        The software to manage tax arrears, initially supported by the International Monetary Fund, was
+         expanded under this project and integrated into the ITMIS. The system helps with the Tax
+         Committee's debt collection efforts.
+
+
+
+                                                                                                     Page 6 of 18
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Tax Administration (P127807)
+
+
+
+
+      This project helped produce recommendations for the Ministry of Finance to improve revenue
+         forecasting, tax policy formulation, and impact assessment analysis. The recommendations are yet to
+         be implemented, but are expected to be considered in future reform efforts.
+
+Outcomes: The project achieved three of five outcome targets.
+
+      VAT revenue productivity (defined as net tax revenue to final consumption divided by the statutory tax
+         rate) increased from 0.37 in 2013 to 0.41 in 2019, nearly achieving the target for an increase to 0.42.
+        CIT revenue productivity (net tax revenue to GDP divided by the statutory tax rate) increased from
+         0.03 to 0.06, meeting the target for an increase to 0.06.
+        The amount of tax arrears as a percentage of total annual tax collection decreased from 13.8 percent
+         to 5.2 percent, exceeding the target for a reduction to 10 percent.
+        Adjustments as a result of audit, measured on a per-auditor basis, increased from TJS 184 million to
+         TJS 516 million, exceeding the target for an increase to TJS 280 million.
+        The share of revenue collected by the Large Taxpayer Inspectorate rose from 43.6 percent to 58.8
+         percent in 2018 (its highest rate during the implementation period), before dropping to 50.6 percent in
+         2019, missing the target for an increase to 60 percent by the project closing date. Collections by the
+         Large Taxpayer Inspectorate are sensitive to changes in tax policy, especially tax exemptions, which
+         are the focus of the next set of tax policy reforms (see Section 3). In November 2019, the government
+         decided to exclude medium-sized taxpayers from the Large Taxpayer Inspectorate.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 3
+Objective
+To strengthen the institutional and human capacity in order to improve the professionalism of tax officials and
+reduce the avenues for corruption.
+
+Rationale
+The degree of achievement of this objective is assessed as modest.
+
+Theory of Change: A review of human resource (HR) policies at the Tax Committee, improved workforce
+planning, the automation of HR management and performance evaluation, and the development of internal
+controls and risk-based audits would create an effective HR management system. In addition, the planning
+and development of a training policy and training curriculum, including the equipping of training centers and
+provisions for e-learning would strengthen the capacities of the Tax Committee staff. A stronger institutional
+and human capacity would improve the professionalism of tax officials and help reduce the avenues of
+corruption, which would be reflected in increased taxpayer satisfaction with the professionalism of tax officers
+and the quality of tax services.
+
+
+Outputs: The project delivered two output targets.
+
+
+                                                                                                   Page 7 of 18
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   Tax Administration (P127807)
+
+
+
+
+      The Human Resource Management Information System (HRMIS) for the Tax Committee, which the
+       agency did not have in the baseline, was operational in all offices of the Tax Committee by January
+       2019, a year ahead of the closing date, after being launched in September 2017. The HRMIS
+       covered all 1,800 employees of the Tax Committee.
+      The training strategy for 2015-20 was developed and implemented, meeting the target. The training
+       centers in Khujand, Kulob, Khorog, and Bokhtar were equipped under the project and distance
+       learning was introduced. Advanced training for tax officers and continuing education were
+       also launched, covering, in addition to tax administration, courses in ICT literacy, ICT security, and
+       computer systems design and maintenance.
+
+Outcome: The project achieved the outcome target for this objective.
+
+      A comparison of the Taxpayers Surveys of 2016 (baseline) and 2019 (project closing) show an
+       improvement in the perception of taxpayers regarding the level of professionalism and honesty of tax
+       administration staff, meeting the outcome target. The 2019 survey indicated that: (a) 70 percent of
+       audited taxpayers rated the professionalism of tax auditors highly (the professionalism of tax auditors
+       had not been covered in earlier surveys, providing no comparison between end-line and baseline
+       values); and (b) 90 percent of visitors to tax officers expressed satisfaction with the quality of tax
+       services and the professionalism of tax officers in 2019, compared to 34 percent in 2016.
+      Although the Taxpayer Survey of 2019 reflected improvements in taxpayer responses, the ICR (page
+       17) also cautions that the indicators may not have been measured consistently over time. Other
+       measures also yield mixed results. The Bank's Enterprise Survey of 2019 reported that the
+       percentage of those firms surveyed that requested to make informal payments dropped from 30
+       percent in 2013 to 8 percent in 2019, an indicator that "corruption levels in tax administration have
+       decreased." However, Tajikistan continues to rank poorly in Transparency International's Perception
+       of Corruption Index, scoring 25 out of 100 points (0 = highly corrupt, 100 = very clean) and ranking
+       153rd out of 180 countries in 2019, compared to 22 out of 100 points and ranking 153rd of 176
+       countries in 2013. And, the country's performance on control of corruption (which "reflects
+       perceptions of the extent to which public power is exercised for private gain, including both petty and
+       grand forms of corruption, as well as "capture" of the state by elites and private interests") in the
+       Bank's Worldwide Governance Indicators slid from a score of -1.25 (-2.5 = weak, 2.5 = strong
+       governance performance) and 15th percentile rank (upper bound of 90% confidence interval for
+       governance; 0 = lowest, 100 = highest) of 212 countries and territories in 2012 to a score of -1.42 and
+       11th percentile rank of 209 countries and territories in 2018.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 4
+Objective
+To modernize the processes that would help reduce administrative cost for the government and compliance
+burden for taxpayers.
+
+Rationale
+
+                                                                                                  Page 8 of 18
+   Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+   Tax Administration (P127807)
+
+
+
+The degree of achievement of this objective is assessed as high.
+
+Theory of Change: A review and restructuring of the Tax Committee's organizational structure would help
+improve the organizational structure and modernize business processes at the Tax Committee, enabling the
+agency to lower the costs of tax administration. The creation of a Contact Center for taxpayers, including the
+proper equipping of the center, the creation of an electronic database of taxpayer questions and Tax
+Committee answers, the training of staff to improve taxpayer services, and the development of computer
+software to help manage the appeals process would help to further modernize business processes at the Tax
+Committee, enabling the agency to reduce the burden of compliance on taxpayers. A reduced burden of
+compliance and lower tax administrative costs would be reflected in reductions in the time taken by taxpayers
+to comply with tax obligations and in higher tax collections by the Tax Committee, measured on a per-tax-
+official basis.
+
+
+Outputs: The project achieved two output targets.
+
+        The organizational and workforce reviews of the Tax Committee, the restructuring of the agency
+         following the organizational review, and the redeployment of staff following the workforce review were
+         implemented, meeting the target. Several functional departments were created under the new
+         organizational structure, including the Modernization and Strategic Development Division, the
+         Taxpayer Services Division, and the Complaints Division. Key activities of all functional divisions were
+         documented using business process mapping procedures; operational instructions were developed for
+         the new organizational structure; job descriptions were written up, and (at the time of ICR document
+         preparation) selection was underway for audit officers.
+        The Contact (Call) Center for taxpayers was established, meeting the target. Up to ten call center
+         seats were created and staffed at the Contact Center in Dushanbe, and two satellite offices were
+         also established in the regions. The center and satellite offices have been operational since January
+         2018. According to the ICR (page 15), the Contact Center received 12,000 calls in 2016 and 35,000
+         in 2019. Moreover, the Taxpayer Survey of 2019 found taxpayer satisfaction with the services
+         provided by the Contact Center to be high at 94.8 percent, compared to 26.2 percent in the Taxpayer
+         Survey of 2016.
+
+Outcomes: The project exceeded two outcome targets.
+
+        The ratio of revenue collected per tax official tripled from TJS 2.1 million in the baseline to TSJ 6
+         million by the project closing date, exceeding the target for a 35 percent increase to TJS 2.9 million.
+        The average time to comply with paying taxes was reduced from 296 hours in 2013 to 224 hours in
+         2019, meeting the target for a reduction to 237 hours. The indicator was measured by the Doing
+         Business Survey for the year 2018, and published in the Bank's Doing Business Report for 2019
+         (page 208).
+
+
+
+Rating
+High
+
+
+
+
+                                                                                                      Page 9 of 18
+                                Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                                Tax Administration (P127807)
+
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The degree of achievement of the first objective to enhance voluntary compliance is assessed as high; the
+                            second objective to strengthen the effectiveness of the Tax Committee to fight tax evasion, substantial; the
+                            third objective to strengthen the institutional and human capacity in order to improve the professionalism of
+                            tax officials and reduce the avenues for corruption, modest; and the fourth objective to modernize the
+                            processes that would help reduce administrative cost for the government and compliance burden for
+                            taxpayers, high. The overall efficacy of the project is rated as substantial.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+    5. Efficiency
+   Economic Efficiency: Defining the economic benefit from the project as consisting principally of reductions in
+   compliance costs to taxpayers (owing to simplified procedures, lesser incidence of tax inspections, reduced time
+   spent in tax offices), the PAD (page 15) computes the ERR for the project at 21.6 percent. The ICR (pages 44-
+   45) offers a higher ERR, 68 percent, but explains that this number is not comparable with that in the PAD since
+   the ICR uses a different baseline number for compliance hours.
+
+   Moreover, defining the financial benefits from the project as consisting of increases in tax revenues (resulting
+   from more effective tax administration), the PAD (page 15) computes the FRR for the project at 54 percent. The
+   ICR (pages 45-46) arrives at a higher FRR, 194 percent. The ICR also states that it uses a different baseline
+   number for compliance hours, and therefore its computation is not comparable with that of the PAD.
+
+   Operational Efficiency: The project was implemented in seven rather than five years (the restructuring of
+   February 2017 extended the closing date from December 2017 to December 2019). More time was needed to
+   complete the development, testing, and implementation of the ITMIS, a central project activity, the procurement
+   process for which was derailed in 2015. Two of three bidders failed to provide originals of their financial
+   proposals at bid opening, necessitating a rebid in 2016.
+
+
+   Efficiency Rating
+          Substantial
+
+
+          a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+            and the re-estimated value at evaluation:
+                                                         Rate Available?             Point value (%)           *Coverage/Scope (%)
+
+
+                                                                                                                              Page 10 of 18
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      Tax Administration (P127807)
+
+
+
+                                                                                    100.00
+Appraisal                                                 21.60
+                                                                                     Not Applicable
+                                                                                    100.00
+ICR Estimate                                              68.00
+                                                                                     Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project objective was substantially relevant to development priorities in Tajikistan and substantially aligned
+to the Bank Group strategy and partnership framework in Tajikistan at appraisal and closing. The efficacy of the
+project is rated as substantial. The efficiency of the project is rated as substantial.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+The risks to the sustainability of the development outcomes of the project are assessed to be moderate.
+
+Political Risk: Political commitment to tax administration reform has been strong, beginning with the
+adoption by the government of Resolution No. 686 in December 2010 approving the Comprehensive Tax
+Reform Program for 2012-15. Achievements made under this project have firmed the political commitment
+to the tax administration reform objectives. At the time of project closing in December 2019, the government
+issued Decree No. 643 approving a new Program for Tax Administration Development for 2020-25, aimed at,
+among others, building a tax compliance culture among taxpayers The commitment to the project objectives
+will likely remain strong as the government and the Bank prepare the proposed Tajikistan Tax Policy and Tax
+Administration Reform Project, which aims to inform and enhance capacities for implementing
+comprehensive tax policy and administration reforms emphasizing efficiency, simplicity and equity, and the
+proposed Tajikistan Tax Reform Project, which aims to improve voluntary compliance and the investment
+climate.
+
+Institutional Risk: According to the ICR (page 26), more extensive capacity building activity is required to
+convert the Tax Committee, which is responsible for tax administration, into a full-service tax authority. The
+next focus should be on developing a comprehensive compliance strategy that utilizes risk-based audit
+practices. It will also be important to forge stronger linkages between policy setting, revenue forecasting,
+and tax collection by strengthening institutional relations among the Tax Committee, the Ministry of Finance,
+which is responsible for tax policy, and the Ministry of Economic Development and Trade, which is
+responsible for economic policy.
+
+Macroeconomic Risk: An expected deterioration in the macro-fiscal framework in Tajikistan, following
+economic disruptions caused by the COVID-19 pandemic in 2020, may lead to some erosion of the country's
+tax base. The International Monetary Fund approved an SDR 139.2 million (US$189.5 million equivalent, or
+80 percent of quota) disbursement to Tajikistan under the Rapid Credit Facility in May 2020 to "help meet
+
+                                                                                                   Page 11 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Tax Administration (P127807)
+
+
+
+urgent balance of payments and fiscal needs stemming from the COVID-19 pandemic." Tajikistan also
+obtained a US$11.3 million grant from the International Development Association in April 2020 and a US$5
+million assistance from the U.S. Agency for International Development in June 2020 to help the country
+respond to health and humanitarian problems stemming from the pandemic. Economic activities supported
+by these developmental assistance would help mitigate economic and social risks arising from the pandemic.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The project design was informed by analytical work produced by the Bank and the IMF, including
+  "Tajikistan: Public Expenditure and Financial Accountability Assessment" (2007) and "Accelerating Tax
+  Administration Reform" (2010). The ICR (page 21) cites complementary support on tax administration
+  reform that were all considered by the Bank during project design --- conveyed through technical
+  assistance by the Asian Development Bank (on business process mapping and re-engineering), the U.S.
+  Agency for International Development (pilot tax office), the European Commission (one-stop-shop for
+  business registration), the International Finance Corporation (tax payer education and risk criteria for
+  audit selection), and the IMF (new tax Code and tax reform measures). Moreover, the PAD (pages 10-
+  11) explains that the Bank incorporated into the project design some 12 lessons learned from successful
+  tax administration reform programs elsewhere, including that investment in an Integrated Tax
+  Management System would provide a best-practice business process for the Tax Committee and that
+  reducing contact between tax officials and taxpayers would help reduce the avenues for corruption.
+
+  The PAD (page 14) identified and rated four key risks to implementing the project and advanced
+  mitigation measures. Weakening commitment to the tax administration reform agenda was considered a
+  substantial risk, for which the mitigation measures included reinforcing the priority given to the reform
+  program in the policy dialogue between the Bank and other development and the authorities. Weak
+  institutional capacity --- inadequate skills, staff turnover, and problems with the retention of skilled
+  specialists --- was also considered a substantial risk. The PAD recommended more effective training,
+  staff secondment, adoption of a staff retention plan, and internships to build technical capacity at the Tax
+  Committee.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The Bank fielded qualified staff to supervise the project. There were three Bank task team leaders (TTLs)
+ over the duration of the project. A co-TTL was based in Dushanbe; the last TTL was also based in
+ Dushanbe, allowing for more direct and regular contact between the bank and the authorities.
+
+ The Bank fielded regular supervision missions, which filed 15 Implementation Status and Results Reports
+ (ISRs) over the seven-year project implementation period, or two per year, the average for Bank
+
+                                                                                                    Page 12 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Tax Administration (P127807)
+
+
+
+ investment financing projects. The Bank also prepared nine Aide Memoires, following many of
+ the supervision missions.
+
+ The Bank conducted the Mid-Term Review in November 2015. The Mid-Term Review reported on the
+ overall and individual-component progress of the project, updated the assessment of project risks,
+ assessed the adherence to project covenants, and laid out the next steps for the completion of the project,
+ as evidenced by the Aide Memoire prepared for the review.
+
+ The Bank restructured the project in 2017, extending the project duration to allow the ICT contractors and
+ the Tax Committee to complete the development, testing, and implementation of the ITMIS, the
+ procurement for which had been delayed in 2015. The Restructuring Paper revised the results indicators
+ for the project, although a full articulation of the theory of change underlying the project would not be made
+ until the preparation of the ICR.
+
+ According to the ICR (page 25), technical assistance provided by the Bank to the implementing agency
+ was crucial in a low-capacity environment and in response to the procurement problems in
+ 2015. Importantly, the Bank provided expert guidance to the Tax Committee on the complex ICT
+ procurement process, covering: (a) the preparation of terms of references and technical specifications; (b)
+ the evaluation of bids; (c) the design of contract negotiation strategies; (d) and the conduct of contract
+ management.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The PAD (pages 19-21) defined six outcome indicators and 12 output indicators to evidence the
+ achievement of the project objectives. According to the ICR (page 24), the PAD lacked a robust discussion
+ of both the project outcomes (the six outcome indicators referred to voluntary compliance, efficiency,
+ quality of taxpayer services, and effectiveness) and the project outputs (the 12 project output
+ indicators were listed by project component rather than project objectives). The lack of clarity with the
+ indicators carried over into the Financing Agreement and resulted in incomplete indicator reporting in the
+ ISRs filed over 2015-17 (before the project restructuring), according to the ICR
+
+ The Restructuring Paper (pages 7-13) revised the set of results indicators: (a) changing the targets for two
+ outcome indicators; (b) adding four new outcome indicators; and (c) changing the target for one output
+ indicator. However, according to the ICR (page 23), the Restructuring Paper missed listing the outcome
+ indicator for the third objective "to strengthen the institutional and human capacity in order to improve the
+ professionalism of tax officials and reduce the avenues for corruption" --- the taxpayer satisfaction surveys
+ showing an improvement in the taxpayer perception of the professionalism and honesty in tax
+
+                                                                                                    Page 13 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Tax Administration (P127807)
+
+
+
+ administration.
+
+ Notwithstanding the lack of a robust discussion in the PAD of how the project outcomes related to the
+ project objectives, they were in fact related as seen in the theory of change expounded in the ICR and
+ used in this ICR Review (see Sections 4 and 14). Thus, the indicators give an accurate picture of the
+ achievement of the project objectives.
+
+ The M&E plan also required the Project Implementing Unit, within the Tax Committee, to undertake the
+ M&E for the project. The Tax Committee would prepare quarterly performance reports and annual reports,
+ the latter within four months after the end of each fiscal year.
+
+
+
+b. M&E Implementation
+  The Project Implementing Unit at the Tax Committee implemented the M&E according to plan, except for
+  some early deficiencies. According to the ICR (page 23), there were some deficiencies with the ISRs
+  prepared in 2015-17, with reporting on some outcome and output indicators missing. The project also
+  lacked baseline data on taxpayer satisfaction with the professionalism of tax auditors; the Taxpayer
+  Survey of 2016 did not cover the topic.
+
+  Overall, the ISRs prepared after 2017, the Aide Memoires produced for the supervision missions, and the
+  Aide Memoire produced for the Mid-Term Review in November 2015 adequately reported on the results
+  indicators and progress with the project.
+
+
+
+
+c. M&E Utilization
+  According to the ICR (page 23), the Bank found the M&E data to be useful in its discussion with the
+  Project Implementing Units and with the Tax Committee on the progress with the project and on
+  “corrective actions” to address project implementation issues and problems. This is reflected in the Aide
+  Memoires prepared for the project.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   Environmental and Social Safeguards: According to the PAD (page 18), the project was classified as an
+   Environmental Assessment Category "C" project at appraisal, for which no environmental review was
+   required. Accordingly, the project was not rated for environmental safeguards or for overall safeguards
+   during implementation, and the ICR (page 24) did not cover the topic either.
+
+
+
+
+                                                                                                  Page 14 of 18
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     Tax Administration (P127807)
+
+
+
+
+b. Fiduciary Compliance
+   Procurement: According to the ICR (page 24), procurement complied with the requirements of the
+   Financing Agreement: (a) procurement plans were updated regularly, reviewed by the Bank, and publicly
+   disclosed; (b) findings and recommendations of ex-ante and ex-post reviews by the Bank were promptly
+   addressed; (c) the development of the procurement plan for the ITMIS package took longer than expected;
+   (d) the cancellation of two large consultancy contracts followed Bank guidelines; and, (e) there was
+   adequate collaboration among procurement staff of the Bank in the field and at headquarters and of the
+   implementing agency. Procurement was rated satisfactory beginning in November 2018, after being rated
+   moderately satisfactory earlier.
+
+   Financial Management: According to the ICR (page 24), the bank considered all aspects of financial
+   management --- planning, budgeting, accounting, financial reporting, funds flow, internal controls, and
+   external audits --- adequate and acceptable. Interim financial reports were mostly submitted on time,
+   although small discrepancies were found between expenditures reported in the interim financial reports
+   and the last two audit reports in relation to foreign exchange gains and losses. Financial management was
+   rated moderately satisfactory throughout project implementation.
+
+   Audit: The auditor issued clean opinions on the fiscal year 2017 and fiscal year 2019 project financial
+   statements. The audit of the fiscal year 2019 financial statement was not available at the time of ICR
+   preparation. The project had requested an extension of the audit report submission deadline to September
+   20, 2020 due to COVID-19 related interruptions in operations.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                              Reason for
+Ratings                         ICR                  IEG
+                                                                              Disagreements/Comment
+Outcome                         Satisfactory        Satisfactory
+
+Bank Performance                Satisfactory        Satisfactory
+
+Quality of M&E                  Substantial         Substantial
+
+Quality of ICR                  ---                 Substantial
+
+
+12. Lessons
+
+
+
+                                                                                                Page 15 of 18
+       Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+       Tax Administration (P127807)
+
+
+
+Three lessons are drawn from the ICR (pages 26-27), with some adaptation.
+
+Having a functional integrated tax management information system is a key element in tax
+administration reform. In this project, an off-shelf ITMIS was procured and customized to meet the
+Tax Committee's business process requirements. It was also installed over a phased
+implementation period, allowing for learning. According to the ICR (page 26), the off-shelf package
+was the appropriate information technology solution (despite the Tax Committee's preference for an
+in-house solution) as the implementing agency had limited technical capacity and was not fully
+equipped for an re-engineering task. Moreover, the non-proprietary solution offered a source code
+for future software modification, an important feature for the sustainability of the IT system moving
+forward. However it is acquired, an ITMIS is critical to the modernization of tax
+administration. According to the PAD (pages 10-11), the ITMIS was included in this project, having
+been an important part of successful tax administration reform efforts elsewhere.
+
+Projects with complex ICT activities should be provided longer lead times for preparation and
+implementation, as well as more robust technical assistance. In this project, the Bank provided
+expert technical advice and assistance to the Tax Committee for the ITMIS procurement, including
+with writing technical specifications and preparing terms of references for services (see Section
+8.B). Still, the procurement process was delayed. Beyond procurement, a comparatively longer
+implementation period is also necessary for the design and implementation of an ICT system,
+including for testing, calibration, and reconfiguration, if necessary. It also takes time to build up
+capacity among government staff to work with digital and computer systems. According to the ICR
+(page 27), it was ambitious to complete this project in five years, the original implementation
+period.
+
+With tax administration modernization being an ongoing concern, it would be optimal for
+governments to plan for broadening and deepening tax administration reforms in the
+medium- to long-term. In this project, with the Tax Committee having acquired basic digital literacy
+with an ICT-backed system, the government may well consider the next steps to strengthening its
+tax administration system. The ICR (page 27) lists various next-generation measures that the
+government can consider: (a) a compliance risk management tool; (b) reductions in advance tax
+payments; (c) a more independent and transparent Appeals Body; (d) the increased use of
+automated procedures to select tax audits; and (e) annual taxpayer surveys.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR (page 7) presented a theory of change for the project, that the ICR stated (pages 18, 23) had only
+been "implicit" in the PAD and Restructuring Paper. Moreover, the ICR uses the statement of the project
+development objective found in the Financing Agreement to assess the efficacy of the project objective. The
+project development objective had been stated differently in the PAD (see Section 2.A). The use of the legal
+document avoids any confusion with linking different project results to different project objectives.
+
+                                                                                                 Page 16 of 18
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Tax Administration (P127807)
+
+
+
+
+The ICR (pages 12-18) offers a thorough and detailed reporting on the results of the project, citing not only the
+output and outcome indicators but also the activities and inputs that led to the results. The assessment of the
+efficacy of the project objectives is candid. For example, the ICR states that: (a) there is less progress to report
+on revenue forecasting, tax policy formulation, and impact assessment analysis than originally expected; (b)
+major improvements are still wanting with tax audits; (c) tax exemptions, as well as the exclusion of medium-
+sized taxpayers from the Large Taxpayer Inspectorate, were major factors accounting for the Large Taxpayer
+Inspectorate's failure to meet the target on the revenue collection ratio; and (d) the Enterprise Survey of 2019
+continued to list "tax rates" and "tax administration" as the top two business environment constraints,
+notwithstanding the results of the project and the findings of the Taxpayer Survey of 2019.
+
+Three annexes provide more comprehensive reporting and analysis of the project results: (a) Annex 4 -
+Efficiency Analysis (pages 44-46) offers details on the ICR's calculation of the project ERR and FRR, although it
+falls short of fully explaining the differences between the PAD and ICR assumptions; (b) Annex 8 - Executive
+Summary of the 2019 Taxpayer Survey (pages 63-68) goes beyond listing the detailed findings of the survey
+by submitting recommendations that can be drawn from the results; and (c) Annex 7 - Executive Summary of
+the Borrower's Report (pages 49-62) provides an even more detailed narrative of the project activities and year-
+by-year reporting of selected results.
+
+The ICR could have discussed more fully the findings of the tax policy-related analysis supported by the project
+(see Section 4, Objective 2). A follow-up with the project team after the completion of the ICR revealed that: (a)
+three manuals on methodologies for tax policy formulation, tax policy impact analysis, and revenue forecasting
+were developed; (b) staff at Ministry of Finance and Tax Committee were trained in the use of the
+methodologies detailed in the manuals; (c) the manual on tax policy formulation discussed topics including the
+objectives of tax policy, the properties of good tax policy, national taxes, and sub-national government
+revenues; (d) the consultant also submitted recommendations pertaining to various taxes and tax rates,
+including taxes and tax rates that could be increased or decreased; but (e) the focus of this particular project
+activity remained that of building the capacity of government staff for tax policy formulation and analysis.
+
+The project team also supplied data, after the completion of the ICR, on taxpayer satisfaction with the Contact
+Center in the baseline and at end-line (the information had not been included in the ICR).
+
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                      Page 17 of 18
+Independent Evaluation Group (IEG)   Implementation Completion Report (ICR) Review
+Tax Administration (P127807)
+
+
+
+
+                                                                  Page 18 of 18
+

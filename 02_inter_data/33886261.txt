@@ -1,0 +1,900 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     6R (APL1A) Communic. Infrast. Prog. (P114963)
+
+
+
+                                                                                Report Number: ICRR0022967
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P114963                                   6R (APL1A) Communic. Infrast. Prog.
+
+ Country                                   Practice Area(Lead)
+ Caribbean                                 Digital Development
+
+
+ L/C/TF Number(s)                          Closing Date (Original)               Total Project Cost (USD)
+ IDA-51170,IDA-51180,IDA-51190,IDA- 01-Feb-2017                                                32,524,129.04
+ 65820,IDA-65830,IDA-65840,IDA-H7720
+
+ Bank Approval Date                        Closing Date (Actual)
+ 22-May-2012                               30-Jun-2021
+
+                                           IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                           25,000,000.00                                              0.00
+
+ Revised Commitment                            34,557,400.67                                              0.00
+
+ Actual                                        32,524,129.04                                              0.00
+
+
+
+
+ Prepared by                Reviewed by                  ICR Review Coordinator         Group
+ Ranga Rajan                Peter Nigel Freeman          Kavita Mathur                  IEGSD (Unit 4)
+ Krishnamani
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   This project in Grenada, Saint Lucia and Saint Vincent and Grenadines, was the first phase of the Caribbean
+   Regional Communications Infrastructure Program (CARCIP) program. This program aimed at
+   building regional digital infrastructure and facilitating the development of an Information
+   Technology/Information Technology Enabled Services (IT/ ITES) in the region. Dominican Republic was
+
+
+
+                                                                                                 Page 1 of 17
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     6R (APL1A) Communic. Infrast. Prog. (P114963)
+
+
+
+   expected to join this phase at appraisal. However, the program was implemented separately in the Dominican
+   Republic.
+
+   The Project Development Objective (PDO) as stated in the Loan Agreements of Grenada, Saint Lucia and
+   Saint Vincente and the Grenadines (Schedule 1, page 4) and in the Project Appraisal Document (PAD, page
+   8):
+
+   " To increase access to regional broadband networks and advance the development of an Information
+   Communication Technology (ICT) - enabled services in the Caribbean Region".
+
+   For this review, the PDO is parsed as follows:
+
+   PDO 1. To increase access to regional broadband networks in the Caribbean region. and
+
+   PDO 2. To advance the development of ICT enabled services in the Caribbean Region.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  24-May-2016
+
+c. Will a split evaluation be undertaken?
+   Yes
+
+d. Components
+   There were three components (PAD, pages 9 - 10).
+
+   1. Regional Connectivity Infrastructure. The appraisal and actual cost was US$ 12.6 million. There were
+   two sub-components: (i) investments in regional physical connectivity infrastructure, including in submarine
+   cable infrastructure, terrestrial broadband optical fiber networks and terrestrial or submarine cross-border
+   links and national and regional Internet Exchange Points (IXPs); and (ii) enabling policies and regulations
+   for a Public-Private Partnership (PPP) arrangement for managing the infrastructure.
+
+   2. ICT - led innovation. The appraisal and actual cost was US$7.5 million. This component planned to
+   support activities aimed at fostering growth of the regional IT/ ITES industries. Activities included, IT/ITES
+   skill development for citizens, and business incubation program for businesses, and policies and regulations
+   for supporting regional integration of the IT/ ITES industries. The targets for the indicators of this component
+   were revised downwards substantially during implementation.
+
+   3. Implementation support. The appraisal and actual cost was US$1.9 million. This component supported
+   project implementation, institutional capacity building and support for monitoring and evaluation (M&E).
+
+
+                                                                                                     Page 2 of 17
+    Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+    6R (APL1A) Communic. Infrast. Prog. (P114963)
+
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Program Cost. The estimated program cost at appraisal was US$98.0 million. According to the
+  clarifications provided by the project team, the actual cost was approximately US$118.0 million (this
+  included the Bank contribution and private capital mobilization of US$85.2 million).
+
+  Project Cost. The total actual project cost was US$32.35 million, higher than the appraisal cost of US$25.0
+  million.
+
+  Financing. The total Bank financing at appraisal for this operation was US$25.0 million (this included
+  national and regional IDA credits of US$6 million for Saint Vincent and the Grenadines, US$10.0 million for
+  Grenada, US$6.0 million for Saint Lucia, and a regional grant of US$3.0 million to the Caribbean
+  Telecommunications Union (CTU). Additional Financing (AF) of US$11.9 million was approved on March 5,
+  2020. With this the Bank financing for the project was US$36.9 million. The total amount disbursed was
+  US$32.5 million. According to the clarifications provided by the team, the difference between the Bank
+  financing and amount disbursed was due to exchange rate fluctuations during implementation.
+
+  Recipient contribution. Recipient contribution was not planned at appraisal. There was no recipient
+  contribution during implementation.
+
+  Dates. The project was approved on May 22, 2012, became effective on December 11, 2012, and was
+  scheduled to close on February 1, 2017. However, the project closed four years and five months behind
+  schedule on June 30, 2021.
+
+  Changes. There were four Level 2 restructurings during implementation. AF was approved on March 2020.
+  The main changes made during implementation are listed in sequential order as follows.
+
+  The following main changes were made through the first restructuring on May 24, 2016.
+
+        The closing date was extended from February 1, 2017, to December 11, 2018, for completing the
+         activities associated with construction of the regional broadband infrastructure, the submarine cable
+         and the ICT skills development component which were delayed in the initial years.
+        Several targets of component two activities were revised downwards to reflect realistic targets
+         relative to the level of available funding.
+        Funds were reallocated under the regional CTU grant to new activities, utilizing funds previously
+         allocated to activities to be implemented by the Caribbean Knowledge and Learning network.
+        The unutilized funds from the Project Preparation Facility (PPF) were reallocated among other
+         disbursement categories.
+
+  The main change made through the second restructuring on June 21, 2018 , is as follows.
+
+        The closing date for the IDA credit was extended by 18 months from August 1, 2018 to February 1,
+         2020, due to the delays in completing the regional broadband network and delays in finalizing the
+         regional PPP arrangement.
+
+
+
+                                                                                                  Page 3 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     6R (APL1A) Communic. Infrast. Prog. (P114963)
+
+
+
+   The main change made through the third restructuring on January 17, 2020, is as follows.
+
+   The closing date was extended from February 1, 2020, to December 31, 2020 to allow for supervision of the
+   regional network.
+
+   AF was approved in March 2020. The AF sought to finance the completion of the ongoing and planned
+   activities which had a financing gap due to the following reasons.
+
+         A ten percent exchange loss between the SDR and US$ since approval due to exchange rate
+          changes.
+         Budget constraints faced by the countries for counterpart funding for the regional broadband
+          network.
+         Cost increases due to the increase in the final number of buildings to be connected to the regional
+          broadband network.
+         A scale-up of the training and incubation program in Grenada and Saint Vincente and the
+          Grenadines.
+
+   The main change made through the fourth restructuring on December 19, 2020.
+
+   The closing date for Grenada was extended by six months from December 31, 2020 to June 30, 2021, due
+   to the COVID - 19 restrictions on shipping of goods and entry of technical experts. However, the credits for
+   Saint Lucia and Saint Vincent and the Grenadines closed on December 31, 2020.
+
+   Split rating. Though the PDO was not changed, targets for PDO 2 were substantially revised downwards
+   with the first Level 2 restructuring. Therefore, this review is based on a split rating of objectives, when
+   US$20.0 million (27%) of the financing was disbursed before restructuring and the balance US$80.0 (63%)
+   disbursed after restructuring.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and regional context. Grenada, Saint Lucia, Saint Vincent and the Grenadines are small remote
+countries in the Caribbean region. Their size made it difficult for them to realize scale economies and
+remoteness raised their trade-related transactions costs. The countries are in the Atlantic Hurricane Belt
+and vulnerable to climate change and natural disasters. Developing digital infrastructure and IT/ ITES for
+integrating the region to the global economy and addressing the challenges of isolation, natural disaster
+risks, and high cost of doing business was important to the regional strategy.
+
+Sector context. Although the region was serviced by an external submarine network and international
+bandwidth usage grew by 75% in 2010 in the region, when this project was prepared, demand for
+bandwidth outstripped supply. National level challenges in the form of interconnection disputes between the
+regional service operators contributed to the slow growth of broadband access and their high prices (in
+2010, the average rate of internet users was 41% and that of fixed broadband internet subscribers was
+13.3%, far below than in other developed countries). The high price of fixed broadband services limited their
+
+
+                                                                                                   Page 4 of 17
+                       Independent Evaluation Group (IEG)              Implementation Completion Report (ICR) Review
+                       6R (APL1A) Communic. Infrast. Prog. (P114963)
+
+
+
+affordability for businesses and consumers. These factors limited the options of the regional countries to
+diversify their economies through information-based services.
+
+Regional strategy. The PDO was well-aligned with the regional digital development strategy 2010-14,
+developed by the Caribbean Community (CARICOM). The key objectives of the strategy were to establish a
+modern regulatory and open telecommunications infrastructure with affordable networks, increase the
+region's trained ICT workforce and enable production of regional digital goods and services for guiding
+businesses and governments to use ICT for sustainable growth through partnerships.
+
+Bank Strategy. The PDO was well-aligned with the Bank strategy. At appraisal, the Bank's Regional
+Partnership Strategy (RPS) for the Organization of Eastern Caribbean States (OECS) for 2010 - 2014,
+articulated the need for enhancing regional connectivity between the islands, facilitating private sector
+investment, introducing a cooperative approach for developing the regional IT sector and exploiting the
+economies of scale in deploying services for citizens and businesses. The PDOs continue to be relevant to
+the areas highlighted in the Bank's Performance and Learning Review (PLR) of the RPS for OECS
+countries for 2015-2019. The strategic area one of the RPS highlighted the need for fostering conditions for
+growth and competitiveness and articulated the need for enhancing the resilience of the countries to natural
+disasters and public health emergencies.
+
+Bank experience. This project was the first phase of the CARCIP program. The project included, regional
+physical connectivity infrastructure investments and institutional strengthening activities for enhancing the
+effectiveness of the regional institutional ICT framework. These activities were likely to contribute to the
+intended outcomes of increasing the number of internet users and increase employment in the IT/ ITES
+industry and increase the number of businesses receiving support.
+
+When the CARCIP project became effective, the Bank had several ongoing projects aimed at addressing
+the gaps for supporting the region's ICT strategy, such as: (i) The Telecom and ICT Development (TICT)
+project for OECS countries; (ii) The E - Government for Regional Integration Network project (EGRIN) for
+OECS countries; and (iii) The Caribbean Knowledge and Learning Network (CKLN) project. The CARCIP
+project aimed at establishing synergies with the ongoing projects to attain real regional integration. For
+instance, the CKLN and the CARCIP projects were complementary, in that while the CKLN' project focused
+on international connectivity through a Research and Educational Network, the CARCIP project aimed at
+regional infrastructure investments required for the countries to interconnect with the CKLN for global and
+regional interconnectivity.
+
+The PDOs were highly relevant to the OECS countries regional strategy and to the Bank's regional strategy
+for OECS counties. This project together with other ongoing projects was likely to contribute to the higher
+level outcome of global and regional interconnectivity of the OECS countries. Therefore, the relevance of
+the PDO was rated high.
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+High
+
+
+4. Achievement of Objectives (Efficacy)
+
+
+                                                                                                     Page 5 of 17
+                  Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                  6R (APL1A) Communic. Infrast. Prog. (P114963)
+
+
+
+EFFICACY_TBL
+
+
+
+
+               OBJECTIVE 1
+               Objective
+               PDO 1. To increase access to regional broadband networks in the Caribbean region.
+
+               Rationale
+               Theory of change. Investments in regional broadband infrastructure and the enabling environment for such
+               networks were aimed at addressing the development challenge of the low penetration of high-speed
+               broadband infrastructure in the regional countries. The outputs of these activities were likely to increase the
+               number of households, businesses and government institutions connected with the fiber optic network, and to
+               the long-term development outcome of aiding regional growth. The causal links between the project activities,
+               their outputs and outcomes were logical, and the outcomes were monitorable. The theory of change explicitly
+               assumes strong regional and national level ownership and willingness of the private sector to develop new
+               innovative products and services.
+
+               Outputs (ICR pages 15 - 17, and pages 32 -42).
+
+                     The submarine cable between Grenada and Saint Vincent and the Grenadines was activated as
+                        targeted. This was a first for several outer islands and the submarine cable provided the islands direct
+                        access to international bandwidth. The fiber-optic networks with network lengths of 330 Kilometers
+                        (Km) in Grenada, 450 km in Saint Lucia and 290 km in Saint Vincent and the Grenadines were rolled
+                        out as targeted.
+                       769 buildings/facilities were connected to the networks in the three countries, exceeding the original
+                        and revised targets of 235 and 744 respectively. This included 233 buildings/facilities in Saint Vicente
+                        and Grenadines (original and revised targets 74 and 274); 352 in Saint Lucia (original and revised
+                        targets 95 and 350), and 184 in Grenada (original and revised targets 66 and 120).
+                       The project implemented a regional Public-Private-Partnership (PPP) arrangement through pooling
+                        the procurement of broadband networks for the countries in one contract. This approach contributed to
+                        realizing scale economies and generating a project size intended to attract major domestic and
+                        regional telecommunications players. The deployment of the broadband network was overseen by the
+                        individual Project Management Units (PMUs), as opposed to relying on an external management
+                        consultancy for enhancing local capacity.
+                       The pooled procurement included a component to support setting an Internet Exchange Point (IXP) at
+                        Saint Vincent and the Grenadines which did not have an IXP, and integrating the Digicel network to
+                        the existing IXPs in Saint Lucia and Grenada where the internet service providers had already set up
+                        peering arrangements independent of Bank support. Regional workshops were conducted by the CTU
+                        as targeted to help the operators in the countries to understand the benefits of IXPs and on using the
+                        infrastructure.
+                       Eight policies for regional open access were implemented, exceeding the target of two. The policies
+                        covered regional coordination, harmonizing policies and strategies at the regional level, and
+                        knowledge transfer between countries.
+                       The CTU provided support for implementing the regulatory framework to the Organization of Eastern
+                        Caribbean States (OECS) for further increasing regional competition in the areas of: (i) The legal and
+                        regulatory framework for open access and broadband infrastructure; (ii) Electronic communications
+                        law; (iii) Consumer protection legislation; and (iv) Wholesale access law. The CTU also conducted
+
+
+                                                                                                                  Page 6 of 17
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   6R (APL1A) Communic. Infrast. Prog. (P114963)
+
+
+
+       workshops on subjects such as harmonizing regional regulations and emerging telecommunication
+       regulatory issues, and provided support for implementing standardized skills and harmonizing
+       certification programs that were accredited internationally.
+
+Some activities had not been completed as targeted in the project countries at closure: (i) additional Wi-Fi
+hotspot to further improve last mile access had not been installed in Saint Vincent and the Grenadines and
+Saint Lucia due to procurement delays; (ii) the activity associated with designing and commissioning a data
+center in Grenada had also not been completed. According to the clarifications provided by the team, this
+activity in Grenada has been rolled over to a follow-on project.
+
+Outcomes.
+
+The outputs described above were expected to increase the number of people in the three countries with
+access to regional broadband networks.
+
+      68,286 beneficiaries in the three countries had access to regional broadband networks, exceeding the
+       target of 66,500. The beneficiaries included the government, schools and other public service
+       facilities, and the private sector. The infrastructure aided in digital transformation of businesses. For
+       instance, the roll-out of middle-mile broadband networks under PPP, aided in further deployment of
+       last mile networks (not funded by the project) which enabled the participating countries to reach 95%
+       3G coverage and 90% of 4G coverage.
+      The number of beneficiaries in the three countries disaggregated by gender was as follows:
+              o Saint Vincent and the Grenadines: 20,586 (original and revised targets 15,000 and 5,000).
+                53.70% of the beneficiaries were women (target 50%).
+              o Saint Lucia: 22,500 (original and revised targets 30,500 and 9,000). 45% of the beneficiaries
+                were women, short of the target of 50%.
+              o Grenada: 25,200 (original and revised targets 21,000 and 7,000. 54% of the beneficiaries were
+                women (target 50%).
+
+Given that the intended outcome was achieved and most of the activities were completed, efficacy of this
+objective is substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 1 REVISION 1
+Revised Objective
+The targets for PDO 1 were not revised downwards with the first restructuring of the project.
+
+Revised Rationale
+The outputs and outcome referred above are relevant after the first restructuring of the project.
+
+
+
+Revised Rating
+
+                                                                                                    Page 7 of 17
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   6R (APL1A) Communic. Infrast. Prog. (P114963)
+
+
+
+Substantial
+
+
+OBJECTIVE 2
+Objective
+To advance the development of ICT enabled services in the Caribbean Region.
+
+Rationale
+Theory of change. The outputs of activities such as supporting businesses in the IT/ITES industries and
+training people on ICT skills were aimed at addressing the development challenges of inadequate support to
+entrepreneurship in the ICT sector and lack of ICT skills in the countries. The outputs of the activities were
+likely to increase the number of businesses incubated under the training program, and increase the number of
+people enrolled the IT/ITES skills training program. These outputs were likely to aid in the long-term
+development outcome of increasing external competitiveness. The causal links between activities, outputs
+and outcomes were logical, and the intended outcomes were monitorable. The theory of change explicitly
+assumes that: (i) the private sector is willing to roll-out fiber optic networks; and (ii) citizens of the three
+countries are willing to develop ICT skills.
+
+Outputs. (ICR, pages 18 - 20 , pages 33 - 35 and pages 38 - 40).
+
+      3,518 people in the three countries were trained in ICT skills, far short of the original target of
+       51,600. The number of people trained in Grenada 724 (original target 19,000); Saint Lucia 1,210
+       (target 16,300); and Saint Vincent and the Grenadines 1,584 (target 16,300).
+      799 people were certified after training, far short of the original target of 18,600. The number of people
+       certified in Grenada 161 (target 11,000); Saint Lucia 288 (target 4,700); and Saint Vincent and the
+       Grenadines 350 (target 2,900).
+      102 businesses received support in the countries, far short of the original target of 281. The number of
+       businesses supported in Grenada 53 (target 100); in Saint Lucia 25 (target 125); and in Saint Vicente
+       and Grenadines 24 (target 56).
+      61% of the surveyed beneficiaries of the Caribbean Regional Communications Infrastructure Program
+       were satisfied with the program, exceeding the original and revised targets of 50%. 95% of the
+       surveyed beneficiaries in Grenada, 88% of the beneficiaries in Saint Lucia and 85% of the
+       beneficiaries in Saint Vincent and the Grenadines reported satisfaction with the program.
+
+Outcomes.
+
+The outputs were expected to lead to the outcome of increasing the number of people employed in the
+IT/ITES industries.
+
+      2,924 people were employed in the ICT sector in the three countries when the project closed, well
+       short of the original target of 11,000. The number of people in Grenada were 204 (target 3,000); Saint
+       Lucia 2,500 (target 4,000); and Saint Vincente and Grenadines 220 (target 4,000).
+
+Given that the outcomes were far short of the original target, efficacy of this objective is modest before the
+project restructuring.
+
+
+
+
+                                                                                                      Page 8 of 17
+                               Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                               6R (APL1A) Communic. Infrast. Prog. (P114963)
+
+
+
+
+                            Rating
+                            Modest
+
+
+                            OBJECTIVE 2 REVISION 1
+                            Revised Objective
+                            To advance the development of ICT enabled services in the Caribbean Region.
+                            The PDO remained unchanged, although the targets were substantially revised downwards.
+
+                            Revised Rationale
+                            Outputs.
+
+                                  3,518 people were trained in ICT skills, exceeding the revised target of 3,400. The number of people
+                                   trained in Grenada 724 (target 300); Saint Lucia 1,210 (target 250); and Saint Vincent and the
+                                   Grenadines 1,584 (target 1,600).
+                                  799 people were certified after training in ICT skills, achieving the revised target 790. The number of
+                                   people certified in Grenada 161 (short of the revised target 290); Saint Lucia 288 (revised target 290);
+                                   and Saint Vincent and the Grenadines 350 (short of the revised target 250).
+                                  102 businesses received support in the countries, exceeding the revised target of 80. The number of
+                                   businesses supported in Grenada 53 (short of the revised target 60); in Saint Lucia 25 (target 20); and
+                                   in Saint Vicente and Grenadines 24 (target 23).
+
+                            Outcomes.
+
+                                  2,924 were employed in the three countries when the project closed, exceeding the revised target of
+                                   1,300. The number of people employed Grenada 204 (short of the revised target 420); Saint Lucia
+                                   2,500 (target 400); Saint Vincente and Grenadines 220 (short of the revised target 500).
+
+                            Given that the outcomes were realized for the most part, efficacy of this objective is rated as substantial after
+                            project restructuring.
+
+
+
+                            Revised Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            Efficacy of PDO 1 is substantial as the outcomes were realized. Efficacy of PDO 2 is modest given that the
+                            outcomes were far short of the original target.
+
+
+
+
+                                                                                                                                Page 9 of 17
+             Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+             6R (APL1A) Communic. Infrast. Prog. (P114963)
+
+
+
+
+         Overall Efficacy Rating                                  Primary Reason
+         Modest                                                   Low achievement
+ OBJR1_TBL
+
+
+
+
+         OVERALL EFFICACY REVISION 1
+         Overall Efficacy Revision 1 Rationale
+         Efficacy of PDO 1 is substantial as the outcomes were realized. Efficacy of PDO 2 is substantial after
+         restructuring as the revised targets were realized.
+
+
+
+         Overall Efficacy Revision 1 Rating
+         Substantial
+
+
+
+ 5. Efficiency
+Economic analysis. A cost-benefit analysis of the CARCIP was conducted at appraisal and at closure. The
+analysis focused on activities which accounted for 91% of the appraisal estimate and actual cost. The economic
+benefits were assumed to come from contributions to regional economic growth.
+
+The benefit-cost ratio was US$10.08 (that is, for every US$1 invested through the project, economic benefits of
+US$10.08 would be accrued over the project's lifetime). At appraisal, the overall Net Present Value (NPV) was
+US$2.09 billion, with an Economic Internal Rate of Return (EIRR) of 60%. However, the actual NPV when the
+project closed was US$11.74 million and the ex-post EIRR was between 5.5% and 9.2% for the three countries.
+The reason for the difference between the ex-ante EIRR and the actual EIRR was that the economic analysis at
+appraisal included the benefits to regional growth from the expected joining of the Dominican Republic (a much
+larger country) in the first phase of the CARCIP program. However, the Dominican Republic did not join the first
+phase.
+
+Administrative and Operational Issues. The actual cost of deploying a regional broadband network and
+training and business incubation grants were substantially underestimated. This led to a financing gap and
+necessitated AF for the project. The delays in implementing the regional broadband infrastructure and finalizing
+the PPP arrangement) contributed to the extension of the project closing date. According to the clarifications
+provided by the team, the project lost US$7.19 million in foregone economic benefits due to the implementation
+delays and that necessitated other cost increases such as supervision costs.
+
+In sum, overall efficiency is rated as modest.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+
+                                                                                                          Page 10 of 17
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      6R (APL1A) Communic. Infrast. Prog. (P114963)
+
+
+
+
+                               Rate Available?             Point value (%)          *Coverage/Scope (%)
+                                                                                    91.00
+Appraisal                                                 60.00
+                                                                                     Not Applicable
+                                                                                    91.00
+ICR Estimate                                              7.40
+                                                                                     Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Under the original outcome targets. With a high relevance of objectives, modest efficacy and efficiency, the
+overall outcome is rated Moderately Unsatisfactory (3).
+
+Under the revised outcome targets. With a high relevance of objectives, substantial efficacy and modest
+efficiency, the overall outcome is rated Moderately Satisfactory (4).
+
+Taking these ratings into account and weighing by the amount disbursed before (US$8.97 million out of a total
+US$32.5 million) and after project restructuring (0.276*3+0.724*4 = 3.724), overall outcome is Moderately
+Satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+Government commitment/ ownership. The risk to development outcome is low. Developing the ICT sector
+remains critical to the regional countries, as evidenced by ongoing Bank-financed ICT regional projects (the
+Caribbean Digital Transformation project, Grenada's Digital Government for Resilience Project, and the
+OECS E-Government Regional Integration Project). The ICR (paragraph 97) notes that this project facilitated
+the implementation of other government projects such as the DigiGov Project in Saint Lucia and the GiNET
+project in Grenada. Further, some activities that were unable to be funded under this project were to be
+covered under the Bank-financed Digital Transformation Project. The team clarified that the activity related to
+the data center in Grenada has been rolled over to a follow on project. These factors indicate that
+government commitment to developing the ICT sector remains a priority to the regional countries.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The Bank prepared this project based on the lessons from the previous Bank-financed regional programs
+  globally, such as the Regional Communications Infrastructure Program in East and Southern Africa, the
+
+                                                                                                    Page 11 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     6R (APL1A) Communic. Infrast. Prog. (P114963)
+
+
+
+  Central Africa Backbone project, the West Africa Regional Communications Infrastructure Program and
+  the Pacific Islands Connectivity program (PAD, paragraph 15). Lessons incorporated at design included:
+  (i) focusing on regional and country priorities for securing ownership; (ii) tailoring approach to the needs
+  of each participating country; (iii) combining investments in regional ICT infrastructure with activities
+  aimed to improve the policy and regulatory environments for the ICT sector.
+
+  The Caribbean Telecommunications Union (CTU) - a regional institution established to facilitate the
+  development of the ICT sector in Caribbean countries - was responsible for overall coordination. The
+  Project Management Units (PMUs) in the three countries were responsible for day-to-day
+  implementation. The PMUs were familiar with Bank procedures having executed Bank-financed projects
+  (PAD, paragraph 17). The implementation arrangements could have been strengthened since the
+  countries still lacked sufficient capacity.
+
+  Several risks were identified at appraisal including high risk, with the weak implementation capacity at the
+  regional level and in the three countries. Mitigation measures incorporated at design included identifying
+  national and regional champions and hiring a coordinator and fiduciary specialists in CTU. With mitigation
+  measures, the project risk was rated as moderate. However, the mitigation measures proved to
+  insufficient, as evidenced by the serious delays during implementation. The arrangements made at
+  appraisal for safeguards and fiduciary compliance were appropriate, but there should have been more
+  attention to the lengthy and cumbersome processes for potential beneficiaries of the business incubation
+  grants. The ICR (paragraph 72) notes that some recipients waited up to two years for a grant award.
+
+  There were significant shortcomings in Quality-at-Entry. Component one activity (regional connectivity
+  infrastructure) was not fully ready for implementation. This resulted in substantial delays and necessitated
+  repeated extension of the closing date. The preparatory phase underestimated the time it would take to
+  execute the regional broadband network. Further, the preparation team had not undertaken an
+  assessment of the legal and regulatory framework for the PPP at appraisal and this led to substantial
+  delays in finalizing the PPP arrangements. The costs associated with deploying a regional broadband
+  network and funding training and business incubation grants were substantially underestimated. The
+  results framework had a number of flaws (discussed in section 9).
+
+
+
+  Quality-at-Entry Rating
+  Moderately Unsatisfactory
+
+
+b. Quality of supervision
+ Nineteen Implementation Status Reports (ISRs) were filed over the project lifetime, implying twice a year
+ supervision missions. The ICR (paragraph 93) notes that the key task team members and staff from the
+ CTU monitored progress and provided support to the PMUs in the three countries. The continuity of
+ leadership was maintained with one administrative task team leader (TTL) during preparation and one
+ during implementation. According to the clarifications provided by the team, there were three co TTLs
+ during implementation. The ICR notes that the transitions were well-managed. The project was proactive in
+ restructuring the project in the face of realities on the ground (although the supervision team could have
+ done more to intervene in the slow processing of business incubation grants). The supervision team
+
+
+
+                                                                                                    Page 12 of 17
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     6R (APL1A) Communic. Infrast. Prog. (P114963)
+
+
+
+ corrected the deficiencies in the M&E framework (discussed in section 9) and the support provided by the
+ team aided in safeguards and fiduciary compliance (discussed in section 10).
+
+ Bank performance at quality-at-entry was moderately unsatisfactory and quality of supervision was
+ satisfactory. Since overall outcome was in the satisfactory range, overall Bank performance is rated as
+ moderately satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The PMUs in the three countries were responsible for collecting data and reporting progress. The CTU was
+ responsible at the regional level for collating the data from the three countries (PAD, paragraph 46). The
+ two key outcomes - the number of people connected to the regional broadband network and the number of
+ people employed in the IT/ITES industries in the three countries - were appropriate and attributable to the
+ project.
+
+ However, there were some M&E framework shortcomings. One, the PDO level indicators in the PAD
+ lacked adequate detail in terms of methodology for measuring progress, and two, the outcome targets for
+ the number of people employed in IT/ITES industries was unrealistic relative to the funding envelope.
+
+
+
+b. M&E Implementation
+  The results framework was adjusted and the indicator for monitoring the number of people employed in
+  the IT/ITES industries was revised downwards. The methodology for collecting data for monitoring
+  progress was clarified with the restructuring of the project.
+
+  The ICR (paragraph 77) notes that the project lacked routine reporting for the activities under the skills
+  training activity once implementation commenced, due to the heavy reliance on part-time consultants.
+
+
+
+c. M&E Utilization
+  The M&E data was used for restructuring the project and informing decision making by the government
+  and the Bank. The ICR notes that during implementation both Saint Lucia and Grenada lacked capacity
+  for monitoring the business support program. This was rectified by the Bank through targeted outreach
+
+
+
+
+                                                                                                     Page 13 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     6R (APL1A) Communic. Infrast. Prog. (P114963)
+
+
+
+  to the business support program based on M&E data. The team clarified that the Bank additional
+  financing supported M&E in all three countries, especially completion surveys and reports.
+
+  In sum, M&E is rated modest overall, in view of the shortcomings of the M&E design.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as a Category B (partial assessment) project under the World Bank Safeguard
+   policies. Four safeguard policies were triggered at appraisal: Environmental Assessment (OP/BP 4.01);
+   Natural Habitats (OP/BP 4.01); Physical Cultural Resources (OP/BP 4.11); and Involuntary Resettlement
+   (OP/BP 4.12).
+
+   Environmental Safeguards, Natural Habitats and Physical Cultural Resources. The PAD (paragraph
+   58) noted that the potential adverse social and environmental impacts were expected to be minor. As the
+   exact location of the backbone networks and regional links were not known at appraisal, a site-specific
+   Environmental and Social Impact Assessment (ESIA) was not conducted. However, a regional ESIA was
+   prepared and publicly-disclosed to address issues pertaining to environmental safeguards and safeguards
+   on natural habitats and physical cultural resources (PAD, paragraph 59).
+
+   The ICR (paragraph 85) notes that the compliance with environmental was satisfactory during
+   implementation. An Environmental and Social Impact Assessment was completed to assess the
+   environmental risk from offshore activities before works began in 2019. The PMUs in the three countries
+   regularly updated the Environmental and Social Management Framework and had adequate social
+   specialists. According to the clarifications provided by the team, there were no issues with the safeguards
+   on natural habitats and physical cultural resources.
+
+   Involuntary Resettlement. As the specific program areas were not known, a regional Resettlement Policy
+   Framework (RPF) was prepared and publicly-disclosed at appraisal (PAD, paragraph 59). The ICR
+   (paragraph 85) notes that there were no resettlement activities under the project. The Grievance Redress
+   Mechanism (GRM) was implemented satisfactorily with no breaches in compliance.
+
+
+
+
+b. Fiduciary Compliance
+   Financial Management. The Bank conducted a financial management assessment at appraisal. The
+   PMUs in the participating countries had experience in implementing previous Bank-financed projects. The
+   assessment concluded that the financial management risk was moderate (paragraph 54).
+
+   The ICR (paragraph 83) notes that the project's financial management was moderately satisfactory during
+   implementation. The project complied with the financial covenants. Although there were some minor issues
+
+                                                                                                  Page 14 of 17
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     6R (APL1A) Communic. Infrast. Prog. (P114963)
+
+
+
+   during the project lifetime (such as lapses in review and reconciliation for two months due to staff
+   absence), none of them had an adverse impact on financial reporting. The interim financial reports and the
+   annual audits were submitted on time. According to the clarifications provided by the team, Saint Lucia's
+   audit reports were unqualified, Grenada's final audit was unqualified, and although Saint Vicente and
+   Grenadines audit reports were qualified for two years (2016 and 2017), they were unqualified for the
+   remaining years.
+
+   Procurement. The Bank conducted a procurement assessment of the national PMUs and the CTU at
+   appraisal. The national PMUs were well-staffed with procurement experts with experience in executing
+   Bank-financed projects. However, the CTU did not have experience with Bank projects. The project design
+   hence had provisions for strengthening the CTU through hiring an external procurement specialist.
+
+   The ICR (paragraph 84) notes that procurement performance was moderately satisfactory. Despite
+   challenges during implementation, high-value contracts were completed by the closing date, with very
+   small disbursements pending in the three countries. The ICR does not report any case of mis
+   procurement.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   The ICR does not report any unintended impact from the project.
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                               Reason for
+Ratings                        ICR                   IEG
+                                                                               Disagreements/Comment
+                               Moderately
+Outcome                                              Moderately Satisfactory
+                               Satisfactory
+                               Moderately
+Bank Performance                                     Moderately Satisfactory
+                               Satisfactory
+Quality of M&E                 Modest                Modest
+
+Quality of ICR                 ---                   Substantial
+
+
+12. Lessons
+
+The ICR draws the following main lessons from implementing this project, with some adaptation of
+language.
+
+1. An assessment of the technical and institutional challenges that are likely to be
+encountered in regional projects can help in reducing delays during implementation,
+especially in countries with low capacities. The experience of this project showed that while
+
+                                                                                                 Page 15 of 17
+       Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+       6R (APL1A) Communic. Infrast. Prog. (P114963)
+
+
+
+there are potential cost savings associated with a pooled procurement approach, the risk is high that
+economic benefits may be foregone in trying to harmonize legal and regulatory frameworks during
+implementation.
+
+2. Developing a regional approach to digital development may require long-term engagement
+and extended project timelines. While the argument to adopt a regional approach has merits in
+small states, the experience of this project showed that in low capacity environments, engagement
+may require technical assistance, technical and implementation capacity building and financing to
+continue operations over a prolonged time period.
+
+3. Identifying a strong regional champion can be particularly helpful in projects of a regional
+nature. The experience of this project showed that while the regional grant to the Caribbean
+Telecommunications Union (CTU) was small in terms of the financial amount, it was still critical to
+enable regional coordination and discussions at the regional and at the local levels.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is clear and well-written. The theory of change provided in the text clearly articulates the causal links
+between the project activities, outputs and the intended outcomes. The quality of evidence provided is
+adequate to assess project performance. The ICR candidly acknowledges the difficulties encountered with a
+pooled procurement approach and appropriately does a split rating of objectives, given the rather substantial
+reduction in targets following the project restructuring.
+
+There was few shortcomings: (i) the ICR (table 3 page 21) reports incorrect outcome rating after restructuring.
+After restructuring, outcome should have been moderately satisfactory (high relevance of objectives, substantial
+efficacy and modest efficiency) instead of satisfactory as reported in the ICR; and (ii) the ICR provides little
+details on whether there were issues with the safeguards on physical cultural resources and natural habitats
+and on whether the audits were unqualified. The clarifications were however subsequently provided by the
+team.
+
+Overall, the quality of the ICR is rated substantial.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                     Page 16 of 17
+Independent Evaluation Group (IEG)              Implementation Completion Report (ICR) Review
+6R (APL1A) Communic. Infrast. Prog. (P114963)
+
+
+
+
+                                                                             Page 17 of 17
+

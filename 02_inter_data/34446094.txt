@@ -1,0 +1,752 @@
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     ELECTRICITY SUPPLY RELIABILITY (P116748)
+
+
+
+                                                                                    Report Number: ICRR0024296
+
+1. Project Data
+
+
+
+ Project ID                                  Project Name
+ P116748                                     ELECTRICITY SUPPLY RELIABILITY
+
+ Country                                     Practice Area(Lead)
+ Armenia                                     Energy & Extractives
+
+
+ L/C/TF Number(s)                            Closing Date (Original)                 Total Project Cost (USD)
+ IBRD-80550,IBRD-83880                       30-Jun-2016                                            59,525,269.28
+
+ Bank Approval Date                          Closing Date (Actual)
+ 26-May-2011                                 31-Dec-2023
+
+                                             IBRD/IDA (USD)                                       Grants (USD)
+
+ Original Commitment                             39,000,000.00                                                 0.00
+
+ Revised Commitment                              70,065,585.20                                                 0.00
+
+ Actual                                          59,525,269.28                                                 0.00
+
+
+
+
+ Prepared by                 Reviewed by                   ICR Review Coordinator           Group
+ Dileep M. Wagle             Christopher David             Avjeet Singh                     IEGSD (Unit 4)
+                             Nelson
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The project’s development objective was “to increase the reliability and capacity of the power transmission
+   network”. This was as per the Financing Agreement, 2011, Schedule 1, p.5, as well as the Project Appraisal
+   Document (PAD), p.4.
+
+   In the analysis that follows, the PDO can be parsed as follows: (i) “To increase the reliability of the power
+   transmission network”, and (ii) “To increase the capacity of the power transmission network”.
+
+
+                                                                                                      Page 1 of 14
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     ELECTRICITY SUPPLY RELIABILITY (P116748)
+
+
+
+   Because there was no change in the PDO, and the scope of the project increased on account of the additional
+   financing introduced in 2014, this review will not conduct a split evaluation.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  05-May-2014
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component 1: Strengthening of the Power Transmission Network (Estimated cost at appraisal: US$45.0
+   million – of which IBRD US$34.0 million; Actual cost at closing: US$64.34 million – of which IBRD
+   US$53.03 million). This component was intended to finance investments in replacement of around 230 km
+   section of transmission line, that formed the North-South transmission backbone connecting the Hrazdan
+   Thermal Power plant and the Shinuhayr substation. The purpose of the investments was to improve the
+   reliability of the transmission line and increase its capacity from 250 MW to 310 MW (later changed to 380
+   MW). The investments included such items as intermediate and anchoring pylons, replacement of 220 kV
+   conductors, replacement insulators, and construction of new concrete foundations for the pylons.
+
+   The additional financing in 2014 added incremental investments and interventions, such as: (i) the
+   rehabilitation and extension of the Haghtanak substation, and (ii) the rehabilitation of Charentsavan-3 and
+   Vanazdor-1 substations. The second restructuring in 2015 added to Component 1 the replacement of a
+   25km 110 kV transmission line between Lalvar and Noyemberyan (later revised to 27.5 km). The third
+   restructuring in 2017 added the rehabilitation of the Zovuni substation, to replace the remaining obsolete
+   equipment such as disconnectors, voltage transformers, switchgears, etc.
+
+   Component 2: Technical Assistance (Estimated cost as appraisal: US$4.7 million - of which IBRD
+   US$3.5 million; Actual cost at closing: US$7.07 million, - of which IBRD US$6.50 million. The component
+   included activities to strengthen the institutional capacity of the State-owned grid operator, High Velocity
+   Electric Networks of Armenia (HVEN), including: (a) training HVEN staff to strengthen capacity in technical
+   supervision, planning, procurement, financial management and project management; (b) computer software
+   for transmission network system planning and technical analysis, (c) implementation support, including
+   hiring of consultants, supervision of field works and ensuring safeguards compliance, and (d) incremental
+   operating costs of HVEN. The additional financing in 2014 and the second restructuring (2015) made some
+   modifications to Component 2, adding expenditure categories and additional funds to finance
+   implementation support consultants covering the additions to the scope of Component 1.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+                                                                                                   Page 2 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     ELECTRICITY SUPPLY RELIABILITY (P116748)
+
+
+
+   Project Cost and Financing
+
+   All of the project’s financing was provided through two IBRD loans, an initial loan of US$39 million (with
+   US$13 million to come from the Borrower), followed by an additional financing (AF) amount of US$40
+   million equivalent (with US$10 million to come from the Borrower).
+
+   Dates
+
+   The project was approved on May 26, 2011, becoming effective on November 28, 2011. The original
+   closing date was June 30, 2016. However, this date was extended via six restructurings – including an
+   additional financing - to December 30, 2023; i.e. by a total of 48 months.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and Sector Context
+
+As a result of economic reforms, Armenia’s economy had performed well from 2001 until the advent of the
+financial crisis in 2008. Growth had taken place at a rapid 12 percent per annum between 2001 and mid-
+2008, driven by an increased inflow of remittances, high commodity prices and foreign investments. The
+global financial crisis however hit Armenia severely, affecting inward remittances, resulting in a contraction
+of the economy by 14.2 percent and an increase in poverty by nearly 5 percentage points. A fragile
+recovery was underway by 2010, as a result of a government-led stimulus package combined with
+increased public investments to create jobs. At the time of appraisal, the most important strategic challenge
+facing the country was the need to improve the productivity and competitiveness of its tradables sector,
+including through improvement of basic infrastructure services, to accelerate growth in the medium term.
+
+Armenia’s power sector had achieved remarkable results during the 2000s, with a 100 percent collection
+rate, requiring no subsidies and being one of the top taxpayers in the country. It had been unbundled, with
+70 percent of generation assets privatized and a competent regulatory agency in place. However,
+challenges had begun to emerge, in terms of a potential supply gap on account of the planned shut-down of
+the nuclear plant in 2016 and phasing out of older thermal plants, deteriorating reliability and limited
+affordability for low-income households. The shortage of generation capacity was expected to reach
+between 1,150 – 2,270 MW by 2027. Heavy reliance on imported fuels and old, under-maintained
+transmission and distribution assets moreover put Armenia at risk of supply interruptions, price fluctuations
+and possible outages. The average age of the transmission lines was around 45 years and HVEN had not
+made any substantial investments in rehabilitation of the lines. At the same time, power tariffs were
+becoming increasingly unaffordable for low-income consumers, who – in 2009 - were spending around 10
+percent of their total household budgets on power and gas.
+
+The Government’s Energy Sector Strategy and the Sustainable Development Program recognized these
+challenges. The increase in power sector reliability was one of the key strategic objectives of the
+sector. Towards that end, the Government prioritized rehabilitation of the power transmission network as a
+means of achieving these objectives and requested the World Bank’s support to replace and rehabilitate
+sections of the transmission line. In terms of sector experience, the Bank had knowledge and considerable
+
+                                                                                                     Page 3 of 14
+                                      Independent Evaluation Group (IEG)                         Implementation Completion Report (ICR) Review
+                                      ELECTRICITY SUPPLY RELIABILITY (P116748)
+
+
+
+               experience with transmission projects globally, coupled with a history of successful engagements in the
+               power sector in Armenia, where it played an important role in reforming the sector as well as in supporting
+               the Electricity Transmission and Distribution project.
+
+               Alignment with Country Strategies
+
+               The project’s PDO was aligned with the World Bank’s country strategy for Armenia at appraisal, through to
+               project closing. At appraisal, the project supported Objective 4, Results Area 5 (‘Strengthening Knowledge
+               and Competitiveness’) of the Bank Group’s Country Partnership Strategy (CPS) for FY09-FY12, which was
+               aimed at “reducing transmission losses”, thereby to help improve competitiveness by increasing the
+               transmission capacity of the high voltage network by 60MW and reducing transmission losses. During
+               implementation, the project’s objectives supported Objective 1.4, to ‘improve access, quality and
+               sustainability of key infrastructure with nationwide scope”, within Cluster 1 (‘Supporting Competitiveness
+               and Job Creation”) of the CPS for FY14-FY17. They also remained substantially relevant to the priorities of
+               the subsequent CPF for FY19-FY23, as reflected in CPF Objective 3 (“Enhanced Connectivity and Access
+               to Reliable Infrastructure” – which included transport and digital, in addition to energy), where one of the
+               targets was the reduction of plant and equipment failures in power transmission substations.
+
+               As indicated earlier, the project’s PDO had been aligned with Armenia’s Government Programs, at the time
+               of appraisal, including the Energy Sector Strategy and the Sustainable Development Program. Energy
+               security was a priority in the Government’s revised ‘2014-2020 Action Plan for Implementation of the
+               Provisions of the Energy Security Concept of Armenia’. The challenge of power supply reliability was
+               recognized by the Government, as reflected in various strategic documents, including the Concept of
+               National Energy Security adopted in 2013 and the Armenian Development Strategy for 2012-2025 (2012).
+
+               Based on the above, the relevance of the project’s objectives is rated High.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             “To increase the reliability of the power transmission network”
+
+                             Rationale
+                             Theory of Change (TOC)
+
+                             The project was designed to increase the reliability and capacity of the transmission network by financing the
+                             rehabilitation and capacity expansion of overhead transmission lines and substations. In this way, the theory
+                             of change was fairly straight-forward: The project would contribute both directly and indirectly to the project’s
+
+                                                                                                                                 Page 4 of 14
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   ELECTRICITY SUPPLY RELIABILITY (P116748)
+
+
+
+development objectives. Directly, by maintaining and enhancing the capacity of the transmission network;
+indirectly, by addressing supply gaps, by reducing losses and increasing transmission capacity. It also aimed
+to contribute to affordable tariffs by cutting losses and operations and maintenance (O&M) costs. The
+Additional Financing (AF) that was introduced expanded the scope of the operation to include another
+transmission line and substation work, but did not alter the logic of the theory of change.
+
+The project’s activities aimed to strengthen the transmission network by a combination of measures to
+replace a 230-km segment of transmission line by increasing its capacity from 250 MW to 310 MW, and –
+under the AF – by rehabilitating specific substations and replacing an additional 27.5 km of transmission line,
+plus replacement of additional assorted equipment, such as transformers and switchgears. The activities also
+aimed to provide project management support and capacity building, through the provision of training to
+HVEN staff, computer software for network planning and implementation support through specialized
+consultants. The activities were expected to lead to increased capacity of the network, reduction in outages
+and improved technical performance and system reliability. The longer-term outcome expected was a
+positive contribution towards improving the competitiveness of Armenia’s economy. While the ICR does not
+specifically discuss this, these activities appear to have been of adequate scale to create a critical mass for
+change. It should be noted however that the ICR does not specifically discuss any of the key assumptions
+underlying the TOC.
+
+Indicators used to measure the achievement of objectives were consistent with the above results chain. The
+initial two PDO indicators focused on the 220 kV Hrazdan-Shinuhayr transmission line’s capacity and
+reliability, with an intermediate indicator tracking the length of line rehabilitated. The AF introduced two PDO-
+level indicators measuring the impact of rehabilitating the three substations through reduced equipment
+failure and interruption frequency, along with an intermediate indicator measuring the number of substations
+rehabilitated. Subsequent restructurings introduced intermediate indicators relating to the number of
+customers served and the project’s GRM performance (disaggregated by gender).
+
+Outputs
+
+As indicated above, the project rehabilitated selected sections of overhead transmission lines and substations
+in the Armenian high-voltage network to achieve the objective of improving reliability.
+
+- 257.5 km of transmission lines were constructed or rehabilitated under the project, exceeding the initial
+target of 230 km, which had been revised to 255 km in 2015.
+
+- 2 substations were rehabilitated during this period, only partially achieving the initial target of 3 substations
+(and the revised target of 4).
+
+- 100 percent of registered project-related grievances were responded to within the stipulated service
+standards for response times – thereby fully achieving the target.
+
+
+
+Outcomes
+
+The project was mostly successful in reducing outages on the target section of the transmission line, from a
+baseline of 20 per annum to 6, against a target of 3.
+
+
+                                                                                                      Page 5 of 14
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   ELECTRICITY SUPPLY RELIABILITY (P116748)
+
+
+
+Plant and equipment failures per year in target substations were reduced from a baseline of 8 to 1 per year by
+closing, fully achieving the original target of 1 and revised target of 2 failure per year.
+
+Average interruption frequency, measured per annum in the project area, was reduced from a baseline of
+0.31 to 0.29 by project closing – failing to achieve the (revised) target of 0.08. This was however fully
+achieved for customers in the Special Economic Zone served by the Hagtanak station. Average interruption
+frequency for this location was brough down to zero, from an annual baseline of 0.2 and target of 0.05. It
+should be noted, as pointed out by the ICR (p.9), that the achievement of both these indicators was partially
+dependent upon investments in the distribution sector, which was operated by the private sector (and
+supported separately by IFC) and hence beyond the direct control of the project. A lack of progress in the
+distribution sector negatively affected the results for the interruption frequency indicators – which should be
+kept in mind.
+
+The ICR similarly (p.10) draws attention to the fact that the system average interruption frequency index
+(SAIFI) data showed that total network reliability including transmission and distribution, deteriorated from
+2013 to 2018 (SAIFI increasing from 4.28 to 8.29), but improved thereafter, once infrastructure financed by
+the project came online (SAIFI decreasing steadily to 6.19 by 2023). While outages attributable to HVEN’s
+infrastructure were not separately measured, the average interruption frequency resulting from infrastructure
+owned by power companies other than ENA (which included outages attributable to HVEN’s infrastructure),
+declined by 50 percent from an average of 0.24 in 2013-17 to 0.12 in 2018-23.
+
+The average number of customers served in the project area, which had been introduced as a supplemental
+indicator during the 2015 restructuring, came to 161,364 persons, against a revised target of 362,000. This
+indicator however had no real bearing on the reliability objective and can be ignored for this purpose. The
+number of affected customers was moreover already taken into account in the SAIFI data, on account of the
+methodology used in calculating this indicator.
+
+Based on the above results, and the fact that alternative measures of the development objective suggested
+an improvement in the reliability of the power system after 2018 (ICR, p. 11), achievement of this objective is
+rated Substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+“To increase the capacity of the power transmission network”
+
+Rationale
+The theory of change applicable to this objective is the same as for Objective 1. Relevant activities to meet
+this objective included investments to rehabilitate overhead transmission lines (OTL), thereby increase the
+transmission capacity of the targeted section of the transmission lines. Activities were also aimed at
+strengthening the institutional capacity of HVEN, through training and various forms of implementation
+support (no indicators were included for measurement of performance of these activities).
+
+
+                                                                                                   Page 6 of 14
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                ELECTRICITY SUPPLY RELIABILITY (P116748)
+
+
+
+                            Outputs
+
+                            Outputs listed under PDO1 were equally relevant to PDO2, hence are not listed again.
+
+                            Outcomes
+
+                            The capacity of the targeted section of the transmission lines was increased from a baseline of 250 MW to
+                            380 MW, fully achieving the target.
+
+                            The capacity of two of the substations being rehabilitated (Hagtenak and Charantsavan-3; the capacity of the
+                            other substations remaining unchanged) increased from a baseline of 428 MW to 605 MW – i.e. by 87
+                            percent - by project closing, mostly achieving the target of 630 MW.
+
+                            Based on the above, the efficacy of PDO2 is rated Substantial.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            As seen from the above, the project substantially achieved its two objectives. Considerable progress was
+                            achieved in terms of improving the reliability and the capacity of the transmission network in Armenia, despite
+                            some shortcomings. As such, overall project efficacy is rated Substantial.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+   5. Efficiency
+   Economic efficiency
+
+   The economic internal rate of return (EIRR) for the project at appraisal was estimated at 16.7 percent, as per the
+   PAD, with a Net Present Value (NPV) of US$47.8 million at a discount rate of 10 percent. The ICR recalculated
+   these estimates, to adjust for minor changes in the disbursement schedule, coming up with slightly lower revised
+   estimates of EIRR (as at appraisal) of 14 percent and NPV of US$35 million. The EIRR at closing (post-
+   restructurings) was estimated at 15 percent, with NPV estimated at US$28.51 million – i.e. in the broad ball-
+   park.
+
+
+
+                                                                                                                              Page 7 of 14
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      ELECTRICITY SUPPLY RELIABILITY (P116748)
+
+
+
+Operational/Administrative Efficiency
+
+The project underwent several restructurings coupled with extensions of closing date. Moreover, as pointed out
+by the ICR (p.13), substantial delays plagued implementation, leading to an eventual 9-year implementation
+period for the original loan, overlapping an 8-year period for the AF. As such, the overall implementation period
+was 12 years from approval. According to the ICR, while some of the delays may have been on account of
+factors beyond the control of either HVEN or World Bank, some of them could well have been prevented through
+better planning, more efficient implementation, adequate support to the client and better sequencing of
+interventions. For instance, changes in government direction with regard to implementation modalities severely
+affected the implementation of Charentsavan-3, when HVEN decided in early 2017 to terminate the
+implementation contract for the substation, in an attempt to implement the construction using its own staff. This
+proved to be a failure, and HVEN was forced to revert to the original approach, requiring extensive and time-
+consuming contract renegotiations, concluded only in April 2021. Ironically, the international contractor was by
+then in dire financial straits (unrelated to the project) and had to withdraw from the project in 2023. Other issues
+included fiscal constraints impacting project implementation by slowing down disbursement of consultant
+payments, especially for counterpart funds. Delays with land acquisition and RAP completion reports also
+contributed to delays in implementing the rehabilitation of the OTLs under the project, reflecting HVEN’s lack of
+experience with transmission projects (and with World Bank projects).
+
+Economic efficiency, based on original appraisal estimates and the ICR’s project closing estimates, was
+substantial at best. More importantly, Operational and Administrative efficiency was clearly modest, based on
+substantial delays and overestimation of costs, leading to inefficient use of resources. Based on this, the
+project’s overall efficiency is rated Modest.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                      0
+ Appraisal                                                  16.70
+                                                                                       Not Applicable
+                                                                                      0
+ ICR Estimate                                               15.00
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project’s development objectives were highly relevant to the objectives of Armenia’s power transmission
+sector. Its overall efficacy is rated Substantial, the project having achieved many of its key development
+
+
+
+                                                                                                      Page 8 of 14
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      ELECTRICITY SUPPLY RELIABILITY (P116748)
+
+
+
+objectives. Its efficiency is rated Modest, based on Operational/Administrative efficiency considerations. As
+such, its overall outcome is rated Moderately Satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+Key risks to development outcome for:
+
+(a) Capacity Objective: Achievement of this objective was robust (ICR, p.21). Installed capacity is unlikely to
+be lost except in the case of civil conflict or a similar unforeseen event, the likelihood of which is low. As
+such the associated risk can be considered Low.
+
+
+(b) Reliability Objective: While the project’s contribution to HV network reliability is robust, reliability can be
+influenced by various other network factors. It will be necessary to sustain the investment program for
+network rehabilitation and introduce upgrades, as required, the risk of which could be influenced by
+macroeconomic conditions and the government’s sector policies. Since much of the financing for the
+network investment program will need to come from private and commercial sources, the associated risk can
+be considered substantial. However, fiduciary and environmental risks affecting reliability are low, since
+most of the works have been completed; hence, the risk that network reliability will not be sustained can be
+considered Moderate.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The initial design of the project was generally adequate, but the Borrower’s lack of experience with
+  complex transmission and World Bank projects proved to be an important constraint to efficient
+  implementation. The project itself was the first large transmission project implemented by HVEN, as no
+  transmission lines had been constructed in Armenia since the 1980s. The project’s design had to
+  incorporate significant technical assistance to address this lack of experience on the part of the Borrower
+  and build capacity. The project’s subsequent restructurings, for the AF and beyond, proved to be
+  suboptimal (ICR, p.20), as some substations could only be rehabilitated sequentially, which led to delays
+  in implementation. An additional problem arising was that there was a significant overestimation of
+  project costs, which the ICR attributes partly to the Borrower’s inexperience, but also to inadequate
+  advice provided by the Bank itself. Some of the excess funds could be reallocated, but - on account of
+  the sequencing problems, resulting in two of the substations not being completed in time – some
+  US$11.67 million of funds had to be cancelled prior to closing.
+
+  Based on the above, Quality at Entry is rated Moderately Satisfactory, given these design shortcomings.
+
+
+                                                                                                        Page 9 of 14
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     ELECTRICITY SUPPLY RELIABILITY (P116748)
+
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The project received adequate implementation support from the World Bank but the sequencing of
+ investments during the Additional Financing and the utilization of resources, which was less than efficient,
+ could have been handled more proactively. The Bank team conducted six supervision missions in the field
+ from approval until 2018 and eight missions from 2021 to closing, supplemented by virtual missions and
+ local field support between 2019 to 2021, making up a total of 23 missions during the 12-year
+ implementation period. The Bank’s implementation support contributed to building up the borrower’s
+ capacity. Financial control and audit issues were closely monitored during six annual FM missions;
+ similarly, the Environment & Social (E&S) team closely supervised compliance with E&S safeguards
+ requirements. Technical support was provided to the Borrower for the TA in Component 2. The Bank
+ team also provided significant support during the implementation period of the AF and the subsequent
+ restructurings. The Zovuni and Charentsavan-3 substations would have to be completed after project
+ closing, but – as per guidelines - the Bank would continue to provide implementation support to ensure
+ E&S compliance. That said, the quality of supervision would have been improved by more effectively
+ addressing challenges related to procurement delays and underutilization of funds. More creative
+ approaches to the implementation delays may well have been to the benefit of the project and mitigated the
+ substantial time overruns.
+
+ Based on the above, Quality of Supervision is rated Moderately Satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ M&E design and arrangements were generally adequate. The PDOs were clearly stated and appropriately
+ reflected in the results framework. Most indicators – to measure outputs and outcomes of individual
+ objectives were realistic and measurable, as were the intermediate indicators. The M&E process became
+ the responsibility of the Project Management Board and HVEN following project approval, with HVEN being
+ responsible for collecting PDO-level outcome information. Responsibility for resettlement and land
+ acquisition monitoring lay with the contractor supervised by a World Bank Social Development Specialist.
+
+ With the Additional Financing and subsequent restructurings, several new PDO and intermediate indicators
+ were added to the results framework, and hence to the M&E framework. As indicated above, one
+
+                                                                                                 Page 10 of 14
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     ELECTRICITY SUPPLY RELIABILITY (P116748)
+
+
+
+ important outcome indicator, added during the AF restructuring, to measure the Average Interruption
+ Frequency in the project area, was not well designed as it could not be met without commensurate
+ downstream distribution network investments by the private distribution company. This meant that there
+ was an insufficiently clear causal chain of attribution between the project activities and the results of the
+ indicator, representing a shortcoming in M&E design.
+
+
+
+b. M&E Implementation
+  According to the ICR (p.18), M&E implementation was generally timely and regular. Evidence from the
+  ISRs and Aide Memoires suggested consistent monitoring and reporting of issues, with regular reports
+  and updates on procurement, the ESMP, and financial and audit matters. However, the ICR indicates
+  that the SAIFI indicator (#4) and related indicator (#6) relating to SAIFI in the Special Economic Zone
+  were not adequately monitored during implementation.
+
+
+
+c. M&E Utilization
+  Data monitored during implementation was used during the six restructurings that the project underwent,
+  to inform the reallocation of savings, contract management, support for E&S risk management and
+  resolution of RAP implementation issues, including guidance on remedial measures as identified in the
+  post-RAP Follow-up Survey.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as Category B, as per the PAD (the ICR does not clarify the E&S status of the
+   project). However, the TTL clarified in subsequent discussion that the following policies were triggered:
+   Involuntary Resettlement (OP 4.12), Natural Habitats (OP 4.04) and Physical Cultural Resources (OP/BP
+   4.11). The ICR indicates (p.18) that Environment & Social Impact Assessments (ESIA) and site-specific
+   Environment & Social Management Plans (ESMPs) were prepared and approved by the World Bank,
+   posted on the HVEN website and publicly consulted. Semi-annual E&S monitoring reports on safeguards
+   performance at the substation sites and along the OTLs were regularly submitted to the Bank and had
+   shown gradual improvement in quality. Awareness training was also periodically conducted for the
+   contractor workforce, with special emphasis on hazardous waste management during civil works.
+
+   Compliance with social safeguards was closely monitored and rated Satisfactory at closing. All Compliance
+   Reports acknowledged that the implementation of Abbreviated Resettlement Action Plans (ARAPs)
+   complied with the Project Resettlement Policy Framework (RPF), Republic of Armenia legislation and initial
+   resettlement plans. According to these reports 80 to 95 percent of the affected households were satisfied
+   with different processes of ARAP implementation, including land valuation, overall size of compensation,
+   payment process, etc. A post-ARAP survey social impact assessment carried out on behalf of the World
+
+                                                                                                     Page 11 of 14
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    ELECTRICITY SUPPLY RELIABILITY (P116748)
+
+
+
+  Bank documented positive impacts on households’ quality of life, as a result of the compensation received
+  and a resultant improvement in housing conditions, education and healthcare. Finally, a Grievance redress
+  Mechanism (GRM) was also established.
+
+
+
+
+b. Fiduciary Compliance
+  At appraisal, procurement risk was rated substantial. With capacity-building support from the Bank, all
+  procurements were completed, though some contract management issues did arise. HVEN was
+  responsible for procurement activities under the project, despite having very little experience in World Bank
+  procurement policies and procedures. However, HVEN was supported by competent consultancies in
+  preparing bidding documents, conducting the bidding process, negotiations and signing of contracts. The
+  ICR notes (p.19) that the use of Bank procurement guidelines yielded significant competition and low
+  prices for the project’s two components and subcomponents. On the other hand, the project faced
+  challenges during contract implementation, giving rise to several procurement-related issues, including
+  delayed or missing updates, and contracts frequently expiring before completion with extensions granted
+  too slowly.
+
+  The ICR notes (p.19) that Financial Management (FM) arrangements were satisfactory to the World Bank
+  in terms of staffing, planning, accounting, financial reporting, external audits and funds flow throughout the
+  implementation period. HVEN also had an acceptable internal control system in place. Although some
+  problems arose on account of shortages and turnover of FM staff, the project’s rating for FM compliance
+  was Satisfactory in the ISRs, with a risk rating of Moderate. The TTL clarified, in subsequent discussion,
+  that all financial covenants were complied with during implementation. The project’s interim unaudited
+  Financial Reports, including the latest IFRs for semester 2 and Q4 of 2023, were received on timely basis
+  and were overall acceptable to the Bank. The TTL clarified that there was one qualified audit opinion (for
+  year ending December 31,2022); all others were unqualified.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+  The project made an institutional strengthening contribution to HVEN’s ability to manage IFI-supported
+  projects. Initially, HVEN faced several capacity shortfalls, including unfamiliarity with World Bank-funded
+  projects, inexperience with managing large contracts and inexperience with resettlement issues. To
+  mitigate these, HVEN engaged a project team, with an international consultant engaged for implementation
+  and contract management support. The project’s TA component supported software for integration of the
+  power sector into regional markets and helped in developing legal and regulatory frameworks for wind
+  power projects. All of these efforts helped HVEN significantly upgrade its institutional capacity and will
+  stand it in good stead for implementing future IFI-supported operations.
+
+
+
+d. Other
+   ---
+
+
+
+                                                                                                   Page 12 of 14
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     ELECTRICITY SUPPLY RELIABILITY (P116748)
+
+
+
+11. Ratings
+                                                                               Reason for
+Ratings                        ICR                    IEG
+                                                                               Disagreements/Comment
+                               Moderately
+Outcome                                              Moderately Satisfactory
+                               Satisfactory
+                               Moderately
+Bank Performance                                     Moderately Satisfactory
+                               Satisfactory
+Quality of M&E                 Substantial           Substantial
+
+Quality of ICR                 ---                   Substantial
+
+
+12. Lessons
+
+IEG derives the following lessons drawn from the ICR:
+
+1. Investments in transmission grid strengthening need to be accompanied by tariff and
+other reforms. Transmission grid investments are often considered public goods to be financed by
+concessional borrowing. However, there can be a significant disparity between the economic and
+financial viability of the transmission network. Tariff reforms are often necessary to ensure the
+commercial viability of these investments. This is borne out by the economic and financial analysis
+of the project, which showed a wide disparity between the economic and financial rates of returned
+estimated by the ICR (Annex 4, p.38), with the EIRR – based on an imputed ‘willingness to pay’ of
+consumers at roughly four times the current tariff – calculated at 15 percent, against an FIRR, based
+on actual tariffs, of only 5 percent.
+
+2. When bundling several individual infrastructure investments into one project, sequencing
+of the investments becomes critical. In the project, the restructurings of 2014 and 2017
+introduced substation investments that could only be implemented in phases, for technical
+reasons. As a result, procurement of the last of these substations could only be started in 2020. In
+hindsight, this could have been avoided with closer attention paid during preparation of the
+restructurings to the alignment of disbursement projections, procurement and technical planning.
+
+3. The use of reputable engineering, procurement and construction (EPC) contractors and
+owner’s engineer firms for project implementation and supervision can enhance the
+effectiveness and efficiency of projects involving design, procurement and construction
+activity, irrespective of the implementing agency’s technical capabilities. The project
+demonstrated that the advantages of maintaining an arms-length relationship can help ensure clear
+accountability for project execution. The owner’s engineer can provide more objectivity to protect
+the borrower’s interests. During the project’s implementation, when attempts were made to proceed
+without external contractors or a supervising engineer, this led to unfavorable outcomes.
+
+
+
+13. Assessment Recommended?
+
+
+
+                                                                                                 Page 13 of 14
+       Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+       ELECTRICITY SUPPLY RELIABILITY (P116748)
+
+
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is well written, candid review and internally consistent, and provides a fair amount of detail on
+background and implementation issues. The achievement of objectives is adequately analyzed. The Bank’s
+performance is adequately assessed, as is the M&E system. Overall, the narrative appears to support the
+ratings and available evidence. One area where more details might have been useful is compliance with
+environmental and safeguards issues, where the ICR does not clarify the project’s safeguards category (this
+had to be obtained from the PAD) or the Bank’s safeguards policies that were triggered. Similarly, on fiduciary
+compliance, the discussion on Financial Management compliance in the ICR does not make note of the
+timeliness of project external audits and whether the external auditors’ opinions were qualified in any way.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                  Page 14 of 14
+

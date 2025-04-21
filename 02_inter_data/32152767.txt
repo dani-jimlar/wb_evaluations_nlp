@@ -1,0 +1,596 @@
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     LS-PFM Reform Support Project (P143197)
+
+
+
+                                                                                 Report Number: ICRR0022104
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P143197                                   LS-PFM Reform Support Project
+
+ Country                                   Practice Area(Lead)
+ Lesotho                                   Governance
+
+
+ L/C/TF Number(s)                          Closing Date (Original)                Total Project Cost (USD)
+ IDA-53550                                 03-Jul-2017                                            4,762,821.79
+
+ Bank Approval Date                        Closing Date (Actual)
+ 06-Feb-2014                               03-Jun-2019
+
+                                           IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                           5,500,000.00                                                0.00
+
+ Revised Commitment                            5,241,043.31                                                0.00
+
+ Actual                                        4,762,821.79                                                0.00
+
+
+
+
+ Prepared by                Reviewed by                  ICR Review Coordinator          Group
+ Malathi S.                 Clay Wescott                 Jennifer L. Keller              IEGEC (Unit 1)
+ Jayawickrama
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The project development objective (PDO) was to improve the quality and timeliness of public financial
+   management (PFM) information in support of the Government’s Public Finance Management Action Plan
+   (PFMRAP) to improve budget execution (Project Appraisal Document (PAD), p. 8).
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+                                                                                                  Page 1 of 11
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     LS-PFM Reform Support Project (P143197)
+
+
+
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project supported three components:
+
+   Component 1: Support for improving the stability and reliability of the existing Integrated Financial
+   Management Information System (IFMIS) platform (Approval: US$0.752m; Actual: US$0.53m). This
+   component aimed to improve the stability, performance and reliability of the existing IFMIS platform and
+   support the implementation of the following key activities to address technical and operational challenges,
+   and lay a solid foundation for the expansion and modernization of IFMIS platform: (i) improve existing wide-
+   area network connectivity; (ii) improve primary and backup IFMIS data centers; (iii) activate the Electronic
+   Funds Transfer (EFT) interface with the Central Bank of Lesotho (CBL); and (iv) clean IFMIS databases and
+   improving accounting controls.
+
+   Component 2: Support for expansion and modernization of IFMIS platform (Approval: US$3.913m;
+   Actual: US$2.94m). This component aimed to upgrade, configure and extend the use of the existing IFMIS
+   software to support simplified business architecture from a stable and well-performing technology platform.
+   Activities supported were: (i) Information Technology (IT) audit of the IFMIS platform; (ii) PFM business
+   process re-engineering; and (iii) expansion and modernization of the IFMIS platform.
+
+   Component 3: Support for change management, training and project implementation (Actual:
+   US$0.834m; Actual: US$1.51m). This component sought to facilitate the provision of technical assistance
+   (TA) to support change management and capacity building requirements of the Office of the Accountant-
+   General, the core IFMIS team, the PFM staff of the selected Line Ministries, the Cabinet, the Public
+   Accounts Committee, the CBL, development partners, and other stakeholders. The component supported
+   implementation of several adaptive initiatives to ensure sustainable capacity to run the system, stakeholder
+   backing/enforcement and sound project implementation including: (i) support for change management &
+   training; (ii) support for Project implementation; and (iii) audit of financial activities.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project cost and financing. The original IDA commitment was SDR 3.6 million (US$5.5 million equivalent).
+   The revised amount was US$5.2 million. The actual disbursed amount was US$4.76 million. At the mid-
+   term review, it was realized that the extension of the IFMIS would hamper the achievement of the PDO, as it
+   was inadequately prepared. Therefore, the Project’s scope was reduced at a Level 2 restructuring approved
+   on June 30, 2017, and the extension of the IFMIS into district councils was excluded. This resulted in net
+   savings of around US$1.0 million.
+
+   This provided the room to absorb a foreign exchange loss of about UU$0.6 million, and reallocate funds to
+   several training facilities.
+
+   Dates. The operation was approved on February 6, 2014; it became effective on May 24, 2016. The original
+   closing date of July 3, 2017. At the Government’s request to ‘go-live’ with the upgraded IFMIS on April 1,
+
+
+                                                                                                   Page 2 of 11
+                                        Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+                                        LS-PFM Reform Support Project (P143197)
+
+
+
+                                      2018, the project was extended to June 3, 2019, to provide adequate time to complete key activities related
+                                      to the upgrade of the existing IFMIS software.
+
+
+
+
+   3. Relevance of Objectives
+
+               Rationale
+               Inefficiencies in Lesotho’s public financial management (PFM) had been identified as diminishing the
+               effectiveness of public spending, especially in the social sector. Since 2000, the Government had not
+               had timely and reliable in-year and annual financial information to support budget execution, monitoring and
+               oversight (PAD, p. 2). This project was to help provide the government with the necessary information that
+               is required to improve the effectiveness of public spending. Most notably, the IFMIS platform had only been
+               partially used to support key budget execution functions of the Central Government over several years, as
+               technical and adaptive challenges prevented the system from efficiently supporting daily operations and
+               timely production of reliable data (ICR, p. 4). Pillar 6 of Lesotho’s National Strategic Development Plan
+               (NSDP), 2012-2016 emphasized PFM interventions to improve the quality and timeliness of service delivery
+               in an accountable and transparent manner. The Project and the PDO were consistent with Pillar 6 of the
+               NSDP. The PDO was also in line with improving capacity to use public resources to meet NDSP targets,
+               and also those of Vision 2020.
+
+               The PDO was fully aligned with the Bank’s Country Partnership Framework (CPF), 2016-2020, Focus Area
+               1 in particular, on improving the efficiency and effectiveness of the public sector. The PDO also
+               supported the PFMRAP, under which the government set up a Reform Secretariat and Steering Committee
+               at the Ministry of Finance (MOF). The Bank’s projects incorporate this structure in their implementation
+               plans.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             Objective 1. Improve the quality of PFM information
+
+                             Rationale
+                             The IFMIS had been deployed rapidly in 2009 and system implementation had taken place in just 16 months.
+                             Despite training of many personnel to support the system, a World Bank assessment had shown several key
+                             problems with the system. The theory of change was reasonable: that actions to improve the stability and
+
+                                                                                                                                     Page 3 of 11
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   LS-PFM Reform Support Project (P143197)
+
+
+
+reliability of the IFMIS platform, along with training and change management, would reduce downtime, reduce
+the use of commercial bank accounts, and capture more revenue transactions. This would in turn improve
+PFM quality and timeliness, leading to improved effectiveness of public spending (ICR, p. 9).
+
+The system’s activities needed to be sequenced for daily operations and reporting. Overall, in-year budget
+reporting was unreliable. The three PDO indicators: (i) the availability of budget execution reports in IFMIS;
+(ii) reconciliation of transactions; and (iii) new TSA bank accounts that are operational and carried forward
+into the upgraded IFMIS – all measure improvements in the PDO.
+
+PDO indicator 1: Improved reliability of in-year budget execution reports from IFMIS
+
+Outputs: The project trained 90 percent of IFMIS users, against a target of 80 percent and a baseline of 40
+percent; upgraded IFMIS servers and end-user equipment for operating the upgraded IFMIS; completed the
+business process review to support configuration of the new version of IFMIS; improved wide-area network
+connectivity (uptime) and IFMIS up time; and delivered and implemented the change management training
+plan.
+
+In-year budget execution reports were considered unreliable, due to lack of bank account reconciliations and
+no month-end closing of the IFMIS. The project’s target was to produce these reports from the upgraded
+IFMIS that are reliable.
+
+In-year budget execution reports are now available in the upgraded IFMIS. Reliability of government data is
+supported by reconciling the transactions recorded in the new Treasury Single Account (TSA) revenue and
+expenditure bank accounts in the upgraded IFMIS with the transaction detail recorded by the CBL. (Although
+month-end instructions have been issued to line ministries, the closing procedures in the upgraded IFMIS still
+need to be initiated.) (ICR, p. 32-33).
+
+An intermediate outcome indicator measured capture of line ministry revenue transactions in the IFMIS.
+The baseline was that non-tax revenues collected by line ministries were not routinely captured in the IFMIS,
+and there was ineffective monitoring at Treasury to ensure that this happened. While the IFMIS has been
+adjusted to allow this, actual processing of line ministry revenue transactions hasn't yet begun. The project
+team told IEG that the vendor’s expert was supposed to work on this module in March-April 2020, but the
+work has been delayed by the COVID-19 pandemic.
+
+PDO indicator 2: Stock of expenditure arrears available in IFMIS
+
+Previously, there was no IFMIS data on the stock of expenditure arrears. The target was to make available
+the stock of expenditure arrears online in the upgraded IFMIS. The upgraded IFMIS provides reports on
+invoices recorded but not yet paid. MoF continues to collect data on all outstanding invoices from Ministries,
+Departments and Agencies (MDAs) and these are recorded for payment in the upgraded IFMIS. The stock of
+expenditure arrears is now available online in the upgraded IFMIS.
+
+The PDO outcome targets were either met or exceeded, and have contributed to improving the quality of the
+PFM information system. In the area of initial operational acceptance of the upgraded IFMIS,
+User Acceptance had been inadequate, as only one test cycle was performed before production (see Section
+7 on Risks). The MOF was in the process of migration to the IFMIS web-based version until April 2020. (ICR,
+p. 17). This indicator has been partially achieved.
+
+
+                                                                                                  Page 4 of 11
+                               Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                               LS-PFM Reform Support Project (P143197)
+
+
+
+                            PDO indicator 3: New TSA bank balances in the IFMIS
+
+                            Before the project, no new TSA bank balances were available in the IFMIS. The target was to have new TSA
+                            bank accounts that are operational and carried forward into the upgraded IFMIS. Actual: New TSA recurrent
+                            and development expenditure bank accounts have been opened at the CBL and in the IFMIS. They are being
+                            reconciled on a monthly basis.
+
+                            Objective 1 is rated substantial.
+
+
+
+                            Rating
+                            Substantial
+
+
+                            OBJECTIVE 2
+                            Objective
+                            Objective 2. Improve the timeliness of PFM information
+
+                            Rationale
+                            There were long delays in preparing the government's financial statements and presenting them to
+                            Parliament. No statements had been submitted for audit within 15 months of the end of the financial year for
+                            several years, and there was a three-year backlog in preparing statements -- 2008/09, 2009/10, and 2010/11.
+                            Findings and recommendations were often outdated by the time of publication. Hence, MDAs faced little risk
+                            of public pressure to take any remedial action. The project focused on reducing annual financial report
+                            submission time to within the legal timeframe (August 31 of the following year). The target was: that the
+                            FY2018/19 annual financial statements for budgetary central government would be under preparation and
+                            contain data from the upgraded IFMIS on all financial assets and financial liabilities (ICR, p. 35). In practice,
+                            the Government eradicated the backlog of annual financial statements, and submitted consolidated annual
+                            financial statements for 2018/2019 within the legal time-frame to the Office of the Auditor General. The
+                            upgraded IFMIS has not yet been configured to control and report on public debt transactions in a timely
+                            manner. The revised target (which was achieved) is less ambitious than the original one, although reportedly
+                            more appropriate because it was in line with areas supported by the project (see Section 9 below on M&E
+                            Design).
+
+                            The outputs mentioned above all contributed to improving the timeliness of PFM information. Objective 2 is
+                            rated substantial.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+
+                                                                                                                               Page 5 of 11
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      LS-PFM Reform Support Project (P143197)
+
+
+
+
+  Rationale
+  The above measures have improved the quality and timeliness of the PFM information system towards
+  strengthening budget execution. The IFMIS was upgraded, and produces in-year budget reports without
+  material concerns about data quality; annual financial statements are complete and submitted within the legal
+  timeframe to the Office of the Auditor General, with all backlogs removed; online data on expenditure arrears
+  are made available in the upgraded IFMIS; and new TSA bank accounts have been opened in the CBL where
+  MDA’s accounts are reconciled every month. Both parts of the PDO are rated substantial; hence, overall
+  efficacy is rated substantial.
+
+
+
+  Overall Efficacy Rating
+  Substantial
+
+
+
+ 5. Efficiency
+It is difficult to carry out reliable cost-benefit and financial analyses of PFM capacity building interventions and
+overall PFM systems, as the benefits are largely indirect and would be reaped over a longer term. The PAD
+expected the project’s economic and financial benefits to be much higher than the investment of US$5.5 million.
+The expected benefits from the project include: better PFM governance, implementation and service delivery, as
+a result of improved budget credibility and resource allocation; efficient and transparent budget management;
+and improved revenue administration capacity to provide services to the poor. The ICR argues that these
+benefits could far exceed US$5.5 million (ICR, p. 18).
+
+The ICR adescribes efficiency gains as a result of procurement reforms, in terms of accountability, structural
+efficiency and system/process efficiency, and infrastructure improvements (ICR, p. 19).
+
+There are some issues remaining with respect to the functioning of the IFMIS. These include; the new Chart of
+Accounts used in the accounting system (Epicor) still to be fully adopted in the budget module of IFMIS, which
+limits reporting in a number of areas of the government’s financial statistics; and on accounting and reporting,
+although the accounting operations in Epicor are stable, they are constrained by the number of modules that
+have not yet been implemented.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                      0
+ Appraisal                                                   0
+                                                                                       Not Applicable
+
+
+                                                                                                       Page 6 of 11
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     LS-PFM Reform Support Project (P143197)
+
+
+
+                                                                                   0
+ICR Estimate                                              0
+                                                                                    Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The PDO's relevance is high. The quality of PFM information was improved – the IFMIS was upgraded and in-
+year budget execution reports are now produced using the upgraded IFMIS. The reliability of these reports is
+supported by reconciling transactions in the new revenue and expenditure bank accounts linked to the upgraded
+IFMIS. MoF collects data on outstanding invoices and records then in the IFMIS. The timeliness of PFM
+information has also improved—the three-year backlog in preparing annual financial statements has been
+eliminated and annual financial statements are now submitted within the legal time-frame to the Office of the
+Auditor General. Both parts of the PDO were substantially met, and efficiency is rated modest, based on
+qualitative evaluation. Hence. the overall rating is moderately satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+Development outcomes achieved face the following high risks:
+
+Technical risks - The software and hardware need to be regularly updated so there are no disruptions. The
+ICR states that the software vendor is expected to leave Lesotho and the government has until June 2020 to
+arrange post-warranty support. Existing and new users need to be trained to maintain the system..
+Maintaining linkages between the IFMIS and other systems, such as payroll, and Centralized Budget
+Management System (CBMS), are critical. The system also faces cybersecurity risk from the outside. Online
+threats have sharply increased since the start of the COVID-19 pandemic, with increases in hacking,
+phishing attempts, and ransomware attacks. Authorities need to heighten their vigilance against such threats.
+
+Power system risks - Power and network interruptions can also interfere with sustainable use of the
+system. The entire system depends on a stable power supply and an efficient back-up system. The ICR
+describes many areas that can be affected by interrupted power supply. For example, disruptions in the
+running of the server can leave many tasks incomplete and affect overall data processors on the system.
+The MoF has acquired technical experts to address these issues and improve available of IFMIS and CBMS.
+
+Financial and economic risks: Vendor contracts need to be managed and budget resources need to be made
+available for payments on such contracts to properly run and maintain the IFMIS. Low user acceptance of
+the system can also pose a risk.
+
+
+
+
+                                                                                                  Page 7 of 11
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     LS-PFM Reform Support Project (P143197)
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  A high-level workshop hosted by the Minister of Finance that included several ministers, members of
+  Parliament, donors and key staff involved in the project confirmed the support for project implementation,
+  although some users are still skeptical. The Bank team identified the risks of undertaking financial
+  management reforms in a low capacity environment such as in Lesotho, and addressed these risks
+  through extensive implementation support and investment in training. However, the original plan to
+  upgrade IFMIS and extend the information technology infrastructure to the MDAs involved several
+  complex tasks, including redeployment of sub-accountancy staff to the district councils, extension of wide
+  and local area networks to 120+ offices, and profiling functions and system roles of 240+ new users. The
+  challenges of achieving these things within the project timeframe were underestimated at appraisal. As a
+  result, at the MTR, these activities had to be dropped. The project underwent a second restructuring to
+  exclude these activities.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The Bank team was also led by an experienced PFM professional. There was only one TTL, based in
+ Pretoria, able to provide real-time engagement with the Project Coordination Unit and Treasury
+ Management. The ICR viewed this as critical in providing timely and consistent technical and operational
+ support (ICR, p. 20). Supervision teams included staff experienced in this type of reform, including experts
+ from ADB, UK's Department of International Development and EU technical staff as necessary. The team
+ was proactive and flexible in responding to issues that emerged at the MTR and in restructuring the project
+ accordingly. Technical and fiduciary staff provided regular support, and supervision missions were
+ conducted about every eight months, with nine Implementation Status and Results Reports completed
+ during the project.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The M&E indicators were based on the government's PFM reform agenda to improve the government's
+ capacity to use public resources. The original project design included several public expenditure and
+
+                                                                                                   Page 8 of 11
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     LS-PFM Reform Support Project (P143197)
+
+
+
+ financial accountability (PEFA) indicators, where baselines and end targets were PEFA scores. At the mid-
+ term review (MTR), the indicators were slightly revised to better align the targeted outcomes with
+ project activities, and simplified in terms of the PEFA dimensions, i.e. to de-link it from PEFA methodology,
+ and changing the targets from PEFA scores to targets expressed in words. While the ICR (Appendix 1)
+ notes that this did not change the ambition of the original targets. IEG questions this assertion. There are
+ two recent PEFA assessments where results can be compared. In the case of the indicator on quality and
+ timeliness of annual financial statements, for example, there are three dimensions assessed. Two of them,
+ completeness of financial statements and timeliness of submission of the financial statements, both
+ improved from D (2012) to B (2017) ratings (on a D to A scale where A is the highest score). This is in line
+ with the ICR's finding of substantial achievement of the revised target. However, the original target had a
+ third dimension, Accounting standards used, which received D ratings in both assessments. Thus the
+ revised target reduced the ambition of the target by dropping consideration of accounting standards. The
+ ambition was also reduced on some of the other targets. The reason for the changes in targets is
+ reportedly to better align them with work supported by the project, but this is at a cost of reduced ambition.
+
+
+
+b. M&E Implementation
+  As stated above, the results framework was modified during implementation to provide more clarity in
+  measuring achievements supported by the project. However, tracking progress by the PFM Reform
+  Secretariat remained uncoordinated, and only limited details were provided in progress reports. The
+  formats were improved during implementation. The ICR states that the Bank team had to often request
+  data for Implementation Status and Results Reports (ISRs) reporting purposes (ICR, p.26), as the data
+  were not available in progress reports.
+
+
+
+c. M&E Utilization
+  M&E data was primarily used for administrative tasks such as to link bank accounts to the Government
+  Bank Account Portal at CBL, and to enable monitoring of opening and closing of accounts that the
+  government operated. The Portal allowed the Treasury to monitor cash resources available in different
+  accounts (ICR, p. 27). M&E was also used to address connectivity issues in linking district users through
+  fiber connections and the local area network. Overall, the extent to which M&E was used and analyzed
+  was an issue, as the M&E officer had no access to the IFMIS and related data.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   The project did not involve impacts related to environmental or social risks. Most activities financed
+   consultant services, goods, training and workshops.
+
+
+
+
+                                                                                                     Page 9 of 11
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     LS-PFM Reform Support Project (P143197)
+
+
+
+
+b. Fiduciary Compliance
+   The project complied with all fiduciary covenants during implementation. FM performance was rated
+   moderately satisfactory due to some delays in submitting quarterly unaudited Interim Reports (IFRs) and
+   the annual audit reports. This, however, did not weaken project performance (ICR, p. 21).
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   The project complied with all fiduciary covenants during implementation. FM performance was rated
+   moderately satisfactory due to some delays in submitting quarterly unaudited Interim Reports (IFRs) and
+   the annual audit reports. This, however, did not weaken project performance (ICR, p. 21).
+
+   The payroll system was reconfigured even though it was not part of project design. This helped the Chart
+   of Accounts to improve efficiencies in payroll and pensions processing (ICR, p 21).
+
+
+
+d. Other
+   Although the project did not target women, women received support through employment and training. The
+   Treasury Department recruited and trained more women than men (ICR, p. 20).
+
+
+
+11. Ratings
+                                                                                Reason for
+Ratings                        ICR                    IEG
+                                                                                Disagreements/Comment
+                               Moderately
+Outcome                                               Moderately Satisfactory
+                               Satisfactory
+                               Moderately
+Bank Performance                                      Moderately Satisfactory
+                               Satisfactory
+Quality of M&E                 Modest                 Modest
+
+Quality of ICR                 ---                    Substantial
+
+
+12. Lessons
+
+These lessons are selected from the ICR (p. 30-31):
+
+- For effective implementation of a project such a PFMRSP, the following factors are important:
+project scope and activities need to be consistent with country and the government's implementation
+team's capacity; for efficient functioning of IFMIS activities, there needs to be M&E of each IFMIS
+
+
+
+
+                                                                                                 Page 10 of 11
+       Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+       LS-PFM Reform Support Project (P143197)
+
+
+
+activity and its milestones; and a Reform Steering Committee needs to better understand project
+implementation risks.
+
+- End-user capacity building to improve understanding of core accounting principles is an important
+aspect of sustainability. Building capacity in contract (vendor) management is also important.
+
+- PFM reform is not just a one-time project. It is a continuous process, where budget resources must
+to earmarked for maintaining systems and capacities as they evolve.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is of good quality, and provides a clear discussion of the main aspects, although on the longer
+side. The discussion of the changes during implementation and the revision of indicators were particularly
+good. A shortcoming is that the ICR states that the level of ambition of revised PDO indicators after the first
+restructuring was unchanged. This does not seem correct, as some of the dimensions assessed under the
+original targets linked to PEFA indicators were dropped.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                     Page 11 of 11
+

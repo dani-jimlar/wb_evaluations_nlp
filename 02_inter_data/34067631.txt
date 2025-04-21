@@ -1,0 +1,937 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     PK National Social Protection Program (P158643)
+
+
+
+                                                                                Report Number : ICRR0023355
+
+1. Project Data
+
+
+
+ Project ID                                 Program Name
+ P158643                                    PK National Social Protection Program
+
+ Country                                    Practice Area(Lead)
+ Pakistan                                   Social Protection & Jobs
+
+
+ L/C/TF Number(s)                           Closing Date (Original)            Total Program Cost (USD)
+ IDA-59730                                  30-Jun-2021                                       104,071,071.26
+
+ Bank Approval Date                         Closing Date (Actual)
+ 15-Mar-2017                                30-Jun-2022
+
+                                            IBRD/IDA (USD)                                    Grants (USD)
+
+ Original Commitment                           100,000,000.00                                             0.00
+
+ Revised Commitment                            100,000,000.00                                             0.00
+
+ Actual                                        104,071,071.26                                             0.00
+
+
+
+
+ Prepared by                 Reviewed by                  ICR Review Coordinator        Group
+ Judyth L. Twigg             Salim J. Habayeb             Eduardo Fernandez             IEGHC (Unit 2)
+                                                          Maldonado
+
+
+
+
+2. Program Context and Development Objectives
+
+DEVOBJ_TBL
+a. Objectives
+   The objectives of the program were to strengthen national social safety net systems for the poor to enhance
+   their human capital and access to complementary services (Financing Agreement, March 30, 2017, p. 5). The
+   program appraisal document (PAD, p. 6) further elaborated on these objectives, noting longer-term outcomes
+   to: (a) consolidate achievements and ensure effective delivery of basic income support as well as cash
+   transfers linked to education co-responsibilities, which have collectively demonstrated impacts on promoting
+   the human capital development of children by reducing short-term malnutrition and improving enrollment and
+
+
+                                                                                                 Page 1 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     PK National Social Protection Program (P158643)
+
+
+
+   attendance in basic education; and (b) improve beneficiaries' access to complementary services with the
+   ultimate goal of providing the poor with opportunities to achieve self-sufficiency over the longer run.
+
+
+
+
+b. Were the program objectives/key associated outcome targets revised during
+   implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The program was designed as a US$90 million Program for Results (PforR), disbursing against key results
+   as part of the government's program, and a US$10 million investment project financing (IPF) technical
+   assistance (TA) component to finance critical areas to achieve quality results.
+
+   PforR program content and results areas. The program was designed to support three elements of the
+   government's broader income support system: (i) the basic cash transfer program, delivered by the Benazir
+   Income Support Program (BISP), an autonomous authority working under the Ministry of Finance; (ii)
+   the Waseela-e-Taleem (WeT) program to incentivize primary school enrollment of BISP beneficiary families'
+   children; and (c) facilitation support to improve BISP beneficiaries' access to complementary
+   services. PforR activities aimed at advancing results in the following two priority areas (PAD, p. 7):
+
+        1. Institutional and Systems Development supported updating of the National Socioeconomic
+           Registry (NSER), improved safety net administration, and strengthened service delivery. The NSER
+           update had already undergone a Phase 1 implementation, with a revised proxy means testing (PMT)
+           formula, recertification, and exit modalities, in 16 districts; the program was to support national
+           rollout (Phase 2). Administration and service delivery was to be strengthened through enhancement
+           of the management information system (MIS), modernization of payment services to address
+           gender-specific constraints on access to finances, promotion of financial literacy for beneficiaries,
+           and strengthening of capacity at BISP tehsil field offices that are the front line for program
+           operations.
+        2. Income Support for Human Development and Access to Complementary Services supported
+           coordination and expansion of the WeT and improved access to complementary social and
+           productive services. Specifically, it was to support expansion of the WeT from 32 to 50 districts;
+           development of suitable models of collaboration and coordination among various levels and actors in
+           the WeT implementation process; capacity building of BISP Beneficiary Committees (BBCs); use
+           of NSER data to identify needs relative to complementary services (education, nutrition, and health
+           services, including the Prime Minister's National Health Insurance Scheme) and productive services
+           (labor market interventions and asset transfer schemes, such as that administered by the Pakistan
+           Poverty Alleviation Fund); and putting in place the management tools to operationalize linkages
+           among these services.
+
+   TA component. The TA component had an objective "to strengthen the capacity of the implementation
+   agency to design, deliver, and monitor and evaluate the activities needed to achieve the program
+
+                                                                                                   Page 2 of 17
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     PK National Social Protection Program (P158643)
+
+
+
+   objectives" (PAD, p. 52). It was structured around four programmatic areas: development of a dynamic
+   NSER model, monitoring and evaluation (M&E), capacity building, and strengthening of fiduciary, social,
+   and environmental controls. It was to support BISP access to international expertise in areas that were not
+   available in the country but were considered critical to achieving the DLIs, including the design, piloting, and
+   evaluation of models to support dynamic update of the NSER; periodic fiduciary performance reviews; and
+   design and evaluation of activities such as complementary services to BISP beneficiaries to be provided
+   through linkages and partnerships with other programs.
+
+
+
+e. Comments on Program Cost, Financing, Borrower Contribution, and Dates
+   The program was to be financed by a US$100 million International Development Association (IDA) Credit
+   and a US$5.276 billion contribution from the government, for a total program cost of US$5.376 billion.
+   Actual Bank financing was US$104.1 million, and the government's actual contribution was US$6.483
+   billion, bringing actual total program costs to US$6.587 billion.
+
+   Dates. The program was approved on March 15, 2017 and became effective on April 28, 2017. A mid-term
+   review was carried out on January 30, 2020. The program closed on June 30, 2022, one year beyond the
+   originally anticipated closing date of June 30, 2021.
+
+   Restructuring. The program underwent a level-2 restructuring (June 29, 2020) to extend the closing
+   date from June 30, 2021 to June 30, 2022. The program closing date was extended due to implementation
+   delays and constraints stemming from the COVID-19 pandemic.
+
+
+
+
+3. Relevance   TBL
+
+
+
+
+a. Relevance of Objectives    New
+
+
+
+
+  Rationale
+  The objectives were highly relevant to country context, although the objective to enhance human capital
+  could have been more specific. Nearly one-third of Pakistan's population was classified as poor at the time of
+  program appraisal, and the country had not met education- and health-related Millennium Development Goal
+  targets by 2015. In the decade prior to the program, significant steps had been taken to develop modern
+  social safety net systems for the poor. The BISP, launched in 2008, was designed in the short term to
+  cushion the adverse effects of food, fuel, and financial crises, and over the longer term to meet redistributive
+  goals by providing a package of minimum income support and opportunities for human development. It
+  provides quarterly cash transfers to female representatives of eligible families, covering about 17 percent of
+  the population at program appraisal. The BISP was underpinned by the NSER that effectively targets the
+  poor using a poverty score card based on a PMT; three-quarters of beneficiaries come from the bottom two
+  income quintiles. Transparency is strengthened through technology-based payment and grievance redressal
+  systems, and a management information system (MIS) supports BISP administration. In 2012, the
+  government introduced WeT, a co-responsibility cash transfer (CCT) program for incentivizing primary
+
+                                                                                                      Page 3 of 17
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   PK National Social Protection Program (P158643)
+
+
+
+education of BISP beneficiaries' children. As of mid-2016, more than 1.6 million children had been enrolled in
+primary schools under WeT.
+
+The program was designed to consolidate and strengthen these systems. The NSER had become outdated
+because of changes in the socioeconomic landscape, variations in poverty and vulnerability, and loss of
+livelihood and assets due to natural disasters. The PMT did not effectively estimate urban poverty.
+Implementation arrangements for WeT relied on a partner firm; it was recognized that BISP and WeT would
+be more effectively managed if core functions were consolidated and brought in-house, requiring
+strengthening of BISP's own capacity and better coordination with education departments at various levels.
+In addition, other social support programs had begun using NSER data to target services to the poor, but
+coordination and integration between BISP and those programs was weak. BISP's capacity for service
+delivery did not match increasing demands as the complexity of its mandate expanded. Finally, devolution of
+various social sector and service delivery responsibilities to the provincial level had reduced clarity on the
+roles of actors at all levels. There was a need for BISP to establish its position as the national safety net
+authority, with clear understanding of its role in implementation of core programs (including updating and
+maintenance of the NSER) and facilitation for complementary services.
+
+The program was fully aligned with the Bank's Country Partnership Strategy at appraisal (CPS, FY15-FY19),
+which had priority areas for inclusive growth and reduced inequality for the marginalized and vulnerable
+population, and for improved service delivery. That CPS was extended to FY20 under the 2017 Performance
+and Learning Review (PLR), and preparation of a new Country Partnership Framework (CPF) was deferred
+in FY21 because of the COVID-19 crisis and catastrophic monsoon floods in 2022. The program remained
+highly relevant to the CPS as updated at the time of the PLR, which scaled up inclusion efforts and
+enhanced focus on service delivery, explicitly emphasizing school enrollment. According to the ICR (p. 11), a
+new CPF is under preparation for delivery in the second half of FY24.
+
+The program was also fully aligned with the government's vision for social protection, reflected in its Vision
+2025 document. The identified key areas of investment aimed to enhance the effectiveness of social
+protection instruments through strengthened administration and expanded scope of the government's income
+support program. The immediate outlook focused on an updated and dynamic NSER for beneficiary
+identification, provision of targeted subsidies, development of modern payment delivery systems,
+consolidation of federal and provincial partnerships for service delivery, expansion of the WeT program, and
+refinement of complementary initiatives for helping the poor to exit poverty. The government's 2016 Social
+Protection Policy framework advocated for a unified targeting system managed by the federal government,
+technology-based payment delivery, and a shift from universal subsidies toward targeted programs. From
+2012 through the time of program appraisal, the government had spent about US$950 million annually
+through BISP, about half of the total social protection expenditure in the country, with planned increases over
+subsequent years to accommodate an increase in benefit value and expansion of the WeT program. Impact
+evaluations of BISP and WeT had found positive effects on malnutrition, primary school enrollment,
+consumption expenditures, and women's empowerment, and no disincentive effect on labor.
+
+The program's objectives were appropriately situated in the context of prior Bank support for Pakistan's
+social protection agenda, and specifically for BISP. A 2009 US$150 million sectoral Development Policy
+Credit was accompanied by a US$60 million Social Safety Net technical assistance project (P103160),
+scaled up in 2012 with $150 million in additional financing to support expansion of the program and
+introduction of disbursement-linked indicators (DLIs). That program closed in 2017, at the same time this one
+was being approved, with essentially the same objectives but in the context of the BISP having matured, the
+government having a well-defined vision for strengthening safety net systems, and the need for a continued
+
+                                                                                                 Page 4 of 17
+                              Independent Evaluation Group (IEG)                         Implementation Completion Report (ICR) Review
+                              PK National Social Protection Program (P158643)
+
+
+
+                       common programmatic framework to leverage and harmonize other development partners' support. Other
+                       partners already engaged included the Asian Development Bank (ADB), United Kingdom Department for
+                       International Development (DfID), and the United States Agency for International Development. The program
+                       was designed to allow scalability if more resources became available from IDA or other partners interested in
+                       use of a common framework, which turned out to be the case: DfID (now the Foreign Commonwealth and
+                       Development Office) invested US$450 million through an approach that adopted the program's DLI results
+                       framework, and ADB invested US$394.5 million in social support programs that aligned with the program's
+                       institutional strengthening elements. The PforR instrument was appropriate, as the government was already
+                       familiar with the DLI approach, and it encouraged the authorities to focus on the specific results necessary to
+                       maintain BISP's momentum.
+
+
+       Rating Relevance TBL
+
+
+
+
+                       Rating
+                       High
+
+
+b. Relevance of DLIs                           New
+
+
+
+
+DLI RELEVANCE TBL
+
+
+
+
+                DLI 1
+                DLI
+                Percentage of BISP beneficiary households from Phase 2 (national rollout) districts that have updated Poverty
+                Score Card information in NSER
+
+                Rationale
+                Results Area 1: This DLI supported the nationwide rollout of the updated NSER, with robust validation
+                through monitoring the number of BISP beneficiaries with updated welfare information (based on the unique
+                national identification number of the beneficiary). The DLI appropriately incentivized the government to
+                update the welfare information of beneficiaries, and to validate the functionality of the BISP MIS targeting
+                module by assessing new poverty score card (PSC) information entered into the module.
+
+
+
+                Rating
+                High
+
+                DLI 2
+                DLI
+                Percentage of tehsil offices with adequate skills and performing redefined responsibilities in accordance with
+                Operational Guidelines
+
+                Rationale
+                Results Area 1: This DLI supported capacity enhancement of tehsil offices for improved services to
+                beneficiaries. It was designed to ensure that BISP had developed operational guidelines for tehsil offices
+
+
+
+                                                                                                                         Page 5 of 17
+      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+      PK National Social Protection Program (P158643)
+
+
+
+outlining the redesigned roles and responsibilities of staff, and that staff were performing in accordance with
+these responsibilities.
+
+
+
+Rating
+High
+
+DLI 3
+DLI
+Management information system (MIS) action plan implemented
+
+Rationale
+Results Area 1: This DLI supported enhancement of the BISP MIS, including the NSER, for strengthening of
+data integrity, security, and operational effectiveness. BISP was to hire an independent audit firm to conduct a
+complete audit of the overall BISP information system and its modules, providing a time-bound action plan to
+address any gaps found. The DLI was to incentivize implementation of this action plan.
+
+
+
+Rating
+High
+
+DLI 4
+DLI
+Number of WeT districts where WeT-related functions are carried out by provincial and tehsil offices in
+accordance with revised Operational Guidelines
+
+Rationale
+Results Area 2: This DLI was to ensure continuity of key WeT functions through their integration within the
+responsibilities of designated BISP units and staff. It was to support the development and operationalization
+of revised WeT operational guidelines, including key performance indicators and measurement arrangements
+for field offices carrying out their designated responsibilities for the WeT program.
+
+
+
+Rating
+High
+
+DLI 5
+DLI
+Number of children of WeT beneficiary families paid for at least two consecutive quarters based on compliance
+with school attendance co-responsibilities
+
+Rationale
+
+
+
+                                                                                                    Page 6 of 17
+      Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+      PK National Social Protection Program (P158643)
+
+
+
+Results Area 2: This DLI was to facilitate gradual expansion of the WeT program, supporting an increase in
+the number of children enrolled in the program and regularly attending school. It was also to ensure that the
+compliance data collection and benefits delivery mechanisms kept pace with the growing size of the program.
+
+
+
+Rating
+High
+
+DLI 6
+DLI
+Results Area 2: Number of Union Councils in WeT districts that have at least one BISP Beneficiary Committee
+(BBC) formed and respective mother leader trained on core WeT functions
+
+Rationale
+Results Area 2: This DLI focused on capacity enhancement of the BBCs that were to be created in all WeT
+districts. The BBCs were to serve as an essential mobilization tool to encourage enrollment in the WeT
+program and facilitate beneficiary engagement and trust building. The standard protocols for BBC creation
+required that BBC members receive training on core functions, including their roles as beneficiary outreach
+mechanisms, motivators of WeT compliance, and providers of feedback to BISP and its implementing
+partners.
+
+
+
+Rating
+High
+
+DLI 7
+DLI
+Percentage of Union Councils with information on aggregated characteristics of BISP beneficiaries available at
+all administrative levels for provision of complementary services
+
+Rationale
+Results Area 2: This DLI supported the facilitation of BISP beneficiaries' access to complementary social and
+productive services. Data from the updated NSER were to be used to develop aggregated beneficiary
+characteristics at the Union Council level, to be made available through an on-line module and used by BISP
+provincial and tehsil offices.
+
+
+
+Rating
+High
+
+DLI 8
+DLI
+Number of BISP beneficiary households with at least one member enrolled in at least one complementary
+service
+
+                                                                                                 Page 7 of 17
+                                  Independent Evaluation Group (IEG)                    Implementation Completion Report (ICR) Review
+                                  PK National Social Protection Program (P158643)
+
+
+
+
+                  Rationale
+                  Results Area 2: This DLI supported the systematic linkage of BISP beneficiary households with relevant
+                  complementary social and productive services through, among other means, data sharing and formal
+                  agreements with service providers. It was also to ensure that BISP developed and operationalized a
+                  monitoring mechanism to track beneficiary uptake of services.
+
+
+
+                  Rating
+                  High
+
+
+      OVERALL RELEVANCE DLI TBL
+
+
+
+
+                  OVERALL RELEVANCE RATING
+                  Rationale
+                  The objectives were highly relevant to country context, Bank strategy, and government strategy, and were
+                  appropriately framed in the context of prior Bank engagement in the sector. The DLIs effectively supported
+                  both results areas, with the DLIs catalyzing critical actions and indicators along the results chain toward
+                  achievement of the objectives (ICR, p. 12). For example, DLI 1 incentivized updating of poverty targeting
+                  data, and then the related outcome indicator measured achievement of targeting performance by assessing
+                  the percentage of beneficiary households from the bottom two expenditure quintiles. Five of the eight DLIs
+                  were scalable (the disbursement of financing was proportional to progress toward achieving the respective
+                  disbursement-linked result). Each DLI was well defined and measurable, with clear protocols and
+                  methodology for monitoring and verification. Targets were ambitious but feasible for achievement within the
+                  time frame of the program. The amounts allocated to each DLI were appropriate to incentivize associated
+                  actions.
+
+
+
+                  Rating
+                  High
+
+
+
+   4. Achievement of Objectives (Efficacy)
+EFFICACY_TBL
+
+
+
+
+                       OBJECTIVE 1
+                       Objective
+                       Strengthen the national social safety net systems for the poor
+
+                       Rationale
+                       The theory of change for this objective held that updating the NSER and improvements in the MIS, payment
+                       services, training, communications, and operating guidelines would lead to updated PSC information for
+                       beneficiary households being updated in the NSER, an increase in the skills and redefinition of
+
+
+                                                                                                                      Page 8 of 17
+   Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+   PK National Social Protection Program (P158643)
+
+
+
+responsibilities for tehsil offices, and implementation of an MIS enhancement action plan. These outputs
+would in turn lead to better targeting of BISP beneficiaries and increased effectiveness and efficiency of tehsil
+offices, leading overall to strengthening of the national social safety net system for the poor. This logic, as
+well as the logic underpinning the other two objectives, assumed that modification in the BISP's core functions
+and operational mechanisms would strengthen its capacity to serve as the federal social safety net platform,
+that broad ownership of the program across political actors and civil society would be sustained, and that
+continued analytical work would support the preservation of the government's pro-poor expenditures (ICR, p.
+8).
+
+
+
+Outputs and Intermediate results
+
+The percentage of BISP beneficiary households from Phase 2 (national rollout) districts with updated PSC
+information in the NSER increased from no households in 2016 to 80 percent of households in 2021, meeting
+the target of 80 percent of households (DLI 1). The functionality of the BISP MIS targeting module was also
+validated using the new PSC.
+
+The percentage of BISP beneficiary households recertified in accordance with the new eligibility cutoff score
+increased from no households in 2016 to 60 percent of households in 2022, exceeding the target of 50
+percent of households.
+
+The percentage of tehsil offices with adequate skills and performing redefined responsibilities in accordance
+with operational guidelines increased from no offices in 2016 to 60 percent of offices in 2022, exceeding the
+target of 40 percent of offices (DLI 2). According to a 2020 impact evaluation, there were mixed results in
+terms of quality services provided to beneficiaries at the tehsil level, but the ICR (p. 13) noted that a "positive
+tendency is visible," with administrative and payment services comparing favorably to past methods. The
+BISP also demonstrates better cost efficiency than international benchmarks, measured by the proportion of
+total expenditure related to administration.
+
+An MIS enhancement action plan was developed and implemented, meeting the target of an action being fully
+implemented (DLI 3). Enhancements covered data integrity, security, and operational effectiveness.
+
+Support was provided as planned under the program's TA component toward achievement of DLIs; support
+for capacity building of staff (especially field staff); audits and fiduciary reviews; M&E activities; Error, Fraud,
+and Corruption action plans; Environmental and Social Systems Assessment (ESSA) action plans; and
+supporting consultancies. A comprehensive training needs assessment led to development of a training
+module for field staff on the new operational guidelines, training via that module for 75 percent of tehsil office
+staff, and implementation of 31 other training courses on technical, management, and organizational skills.
+
+
+
+Outcomes
+
+The percentage of BISP beneficiary households from the bottom two expenditure quintiles increased from 75
+percent of households in 2016 to 85 percent of households in 2022, exceeding the target of 80 percent of
+households.
+
+
+                                                                                                       Page 9 of 17
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   PK National Social Protection Program (P158643)
+
+
+
+The number of WeT districts with tehsil offices using integrated MIS to handle case management of basic
+income support and WeT programs increased from no districts in 2016 to 160 districts in 2022, exceeding the
+target of 50 districts.
+
+
+
+In addition to the outcome targets having been overachieved, the ICR (p. 14) offers additional evidence
+demonstrating high achievement of this objective. At the time of heavy monsoon rains that caused enormous
+human and material losses in Pakistan between June and September 2022, the program enabled the
+government to implement successfully a cash transfer through the BISP of approximately US$112 for 2.7
+million affected families.
+
+
+
+Rating
+High
+
+
+OBJECTIVE 2
+Objective
+Enhance the poor's human capital
+
+Rationale
+The theory of change for this objective held that consolidating and expanding WeT, as well as implementing
+activities that would increase access to complementary social and productive services, would lead to a
+revision of operational guidelines for WeT-related functions and an increase in the number of beneficiary
+families complying with school attendance co-responsibilities. These outputs in turn would lead to an increase
+in the number of children of WeT beneficiary families attending school and receiving benefits, which would
+enhance the human capital of the poor, in this case defined as sustained children's attending of primary
+school.
+
+
+
+Outputs and Intermediate results
+
+The number of beneficiary families enrolled in WeT increased from 530,000 families in 2016 to 3.14 million
+families in 2022, exceeding the target of 1.1 million families.
+
+The number of WeT districts where WeT-related functions are carried out by provincial and tehsil offices in
+accordance with revised operational guidelines increased from no districts in 2016 to 160 districts in 2022,
+exceeding the target of 50 districts (DLI 4).
+
+
+
+Outcomes
+
+
+
+
+                                                                                                 Page 10 of 17
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   PK National Social Protection Program (P158643)
+
+
+
+The number of children of WeT beneficiary families paid for at least two consecutive quarters based on
+compliance with primary school attendance co-responsibilities increased from 0.5 million children in 2016 to
+1.5 million children in 2022, meeting the target of 1.5 million children (DLI 5).
+
+
+
+In addition to the outcome target having been fully achieved, the ICR (p. 14) offers additional evidence
+demonstrating high achievement of this objective. Since it was launched, WeT has expanded from five
+districts in 2012 to all districts in the country in July 2020, and has begun to cover not only primary but
+secondary and higher secondary education in all districts. According to the 2020 impact evaluation, more than
+6.75 million children have benefited, increasing boys' and girls' school enrollment by 13 percent and 15
+percent, respectively. School enrollment rates among BISP families who received the CCT were 21
+percentage points higher than among BISP families who did not receive the CCT, and grade repetition was
+reduced by 11 percentage points for children benefiting from CCTs.
+
+
+
+Rating
+High
+
+
+OBJECTIVE 3
+Objective
+Enhance the poor's access to complementary services
+
+Rationale
+The theory of change for this objective held that consolidating and expanding WeT, as well as implementing
+activities that would increase access to complementary social and productive services, would lead to the
+formation and effective use of BBCs, and improved information on aggregated characteristics of BISP
+beneficiaries to support access to and enrollment in complementary services. These outputs in turn would
+lead to an increase in the number of BISP beneficiaries enrolling in complementary services, and with
+improved BISP targeting, thereby improving access of the poor to these services.
+
+
+
+Outputs and Intermediate results
+
+BISP signed 24 memoranda of understanding (MOUs) with public and private sector entities for the provision
+of complementary services for specific vulnerable groups. These MOUs allowed BISP to link beneficiaries to
+relevant services after profiling and identifying their needs. Services were wide-ranging, including those
+supporting children with disabilities, family planning, people with physical and intellectual disabilities, access
+stationary care facilities for the poor, and others.
+
+The number of Union Councils in WeT districts that have at least one BBC formed and respective mother
+leader trained on core WeT functions increased from 1,600 Union Councils in 2016 to 2,500 Union Councils
+in 2022, meeting the target of 2,500 Union Councils (DLI 6).
+
+
+
+                                                                                                    Page 11 of 17
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     PK National Social Protection Program (P158643)
+
+
+
+  The percentage of Union Councils with information on aggregated characteristics of BISP beneficiaries
+  available at all administrative levels for provision of complementary services increased from no Union
+  Councils in 2016 to 60 percent of Union Councils in 2022, meeting the target of 60 percent of Union Councils
+  (DLI 7).
+
+
+
+  Outcomes
+
+  The number of BISP beneficiary households with at least one member enrolled in at least one complementary
+  service increased from 34,736 households in 2016 to 655,720 households in 2022, exceeding the target of
+  400,000 households (DLI 8).
+
+
+
+
+  Rating
+  High
+
+
+
+
+ OVERALL EFFICACY
+ Rationale
+ Most DLis targets, other output or intermediate outcome targets, and outcome targets were exceeded, some
+ by a significant margin. The program catalyzed continued scaling up of government social safety net
+ programs through its support for development of operational guidelines for clarity and harmonization, strong
+ M&E platforms, and improvements in efficiency of administration. Based on high achievement of all three
+ objectives, overall efficacy is rated High.
+
+
+
+ Rating
+ High
+
+
+5. Outcome
+
+The program's objectives were relevant, the DLIs were highly relevant, and all three objectives were highly
+achieved. The PforR's incentives for systems development contributed to strengthening of systems and
+capacity, improvements in transparency and accountability, and expanded outreach, ultimately leading to
+increased access for the poor to a range of social and productive services and enhanced human capital
+development in the form of improved access to primary education. The program instrument -- PforR with an IPF
+TA component -- proved effective in reaching and exceeding planned outcomes. The ICR's evidence and
+analysis point to essentially no shortcomings in the program's preparation, implementation, or achievement,
+producing an Outcome rating of Highly Satisfactory.
+
+
+                                                                                                 Page 12 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     PK National Social Protection Program (P158643)
+
+
+
+
+    Outcome Rating
+    Highly Satisfactory
+
+
+6. Risk to Development Outcome
+
+The longevity and positive track record of collaboration between the government and the Bank in social
+protection point to minimal risks to development outcomes. Government and stakeholder ownership and
+commitment are high and robust. Government financing continues to support rigorous implementation of
+systems and processes supported under the program. A follow-on US$600 million Bank-financed PforR
+(Crisis-Resilient Social Protection, FY21-FY25), building on the achievements of this program, was approved
+in March 2021. Institutional strengthening, likely to be sustained, was significant. The ICR (p. 17) cited a
+study confirming that the program's TA helped modernize implementation systems and frameworks in a way
+that improved access, payments, efficiency, transparency, resolution of grievances, and implementation
+speed.
+
+
+
+
+7. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  With the exception of the vague formulation of the human capital objective, the program's objectives,
+  results chain, outcome indicators, and DLIs were clearly stated and underpinned by analytic work. The
+  ICR (pp. 23-24) highlights the overall importance of the Bank's analytic work and technical support,
+  contributing to program design that is seen as "a gold standard in the region." Program design, combining
+  PforR and TA components, was relatively simple and appropriate to support BISP as a platform for
+  targeted service delivery to the poor. The government was familiar with the results-based approach, and
+  the TA supported strategic, complementary investments in technical, fiduciary, and M&E capacity.
+  Program design learned lessons from the Bank's previous experience in the sector, including the
+  importance of common platforms for service delivery to support better coordination, enhanced coverage,
+  and reduced fragmentation; the program therefore focused on an updated NSER as its foundation. The
+  required PforR assessments were undertaken (technical, fiduciary, and environmental and social), a
+  grievance redress mechanism was in place, and the program was in an advanced stage of readiness for
+  implementation. Risk assessment at appraisal pointed to substantial political risk due to the volatility of
+  Pakistan's political environment, particularly with elections scheduled for 2018; mitigation measures
+  highlighted broad ownership of the program across political actors and civil society, calling for a
+  continued consultative process with stakeholders to maintain wide ownership of reforms and consistent
+  sharing of results to sustain the program's credibility. The risk assessment also highlighted substantial
+  macroeconomic risk stemming from large fiscal deficits and continued vulnerability to external shocks,
+  mitigated through continued high-level dialogue on macro, tax collection, and subsidy reforms under a
+  coordinated response with the International Monetary Fund and other development partners. Federal and
+
+
+
+
+                                                                                                  Page 13 of 17
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     PK National Social Protection Program (P158643)
+
+
+
+  provincial stakeholders were engaged at all levels to ensure clear definition of institutional roles during
+  implementation.
+
+
+
+  Quality-at-Entry Rating
+  Highly Satisfactory
+
+
+b. Quality of supervision
+ Supervision was hands-on and proactive throughout the program's lifetime. The field-based task team
+ facilitated continued and sustained dialogue, which the ICR (p. 23) cited as "key to resolving bottlenecks."
+ Task team leadership was stable, with smooth transitions between task team leaders. Implementation
+ Status and Results Reports were candid and of high quality. Adjustments during the COVID-19 pandemic
+ were quick and effective, including the restructuring to extend the program's closing date. Technical
+ assistance facilitated quick resolution of implementation challenges that arose, including delays in
+ disbursements and poor communication to beneficiaries regarding the release of payments, data collection
+ errors (addressed through a shift to GIS-based digital data collection), the impacts of the COVID-19
+ pandemic, and erosion of the real value of cash transfers over time due to high rates of inflation. Although
+ there is no evidence that the size of the transfers influenced program outcomes, the Bank supported the
+ government in analyzing these trends and developing an indexation mechanism that became operational in
+ July of 2021.
+
+
+
+  Quality of Supervision Rating
+  Highly Satisfactory
+
+  Overall Bank Performance Rating
+  Highly Satisfactory
+
+
+8. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ For the most part, the program's objectives and indicators were clearly stated, although the human capital
+ objective, as noted earlier, was vague. Monitoring indicators and DLIs had baselines, annual targets, and
+ data sources. BISP was responsible for monitoring results and activities under the program. Its M&E
+ systems included a dedicated M&E Unit under its Research, Evaluation, and MIS Wing. Evidence on
+ achievement of DLIs was to be triangulated from multiple sources, including BISP MIS modules, by an
+ independent verification agency (IVA). The PAD (pp. 28-29) included a comprehensive DLI Verification
+ Protocol Table; the protocols were technically sound and credible but not difficult to implement in practice.
+ External sources of verification were to include operational reviews (spot checks and process evaluations)
+ and the validation reports of the payment service provider. Tehsil offices were to be integrated into
+ information flows, contributing to overall M&E design by ensuring data availability and collection at all levels
+ of implementation. According to the PAD (p. 12), the program was to invest substantial resources to directly
+ engage beneficiaries and use their feedback to strengthen program design and implementation as
+
+                                                                                                     Page 14 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     PK National Social Protection Program (P158643)
+
+
+
+ necessary. In addition to usual Bank supervision, the program was to conduct a regular biannual
+ implementation review jointly with BISP management, including projections for achievement of DLI targets.
+
+
+
+b. M&E Implementation
+  M&E was implemented as planned, including consistent work by BISP to strengthen data quality and the
+  security and operational soundness of the MIS. Beneficiary feedback contributed to strengthened M&E
+  implementation, including through the grievance redress process. The BISP M&E Unit was restructured
+  as the Evidence, M&E, and Risk Management Department to encompass the strengthened role of field
+  offices. This department regularly commissioned and undertook assessment of performance, process,
+  and compliance monitoring; operations reviews; tracer studies; beneficiary feedback surveys; risk
+  management and assurance studies; and third-party impact evaluations. The main planned evaluation
+  studies, as well as additional analytic work, were conducted.
+
+
+
+c. M&E Utilization
+  Data on program indicators were regularly collected, reported, and used for decision-making,
+  adjustments, and planning (ICR, p. 21). M&E findings were widely shared and communicated to various
+  stakeholders. Work plans at all levels were reviewed every six months, covering targets that revolved
+  around major departmental activities and periodic monitoring reports. Progress on DLIs and results
+  indicators was used to test the links in the results chain and provide input for decision makers to
+  determine appropriate national government actions.
+
+
+
+  M&E Quality Rating
+  High
+
+9. Other Issues
+
+a. Safeguards
+   The program was classified as environmental assessment category C. An ESSA was conducted at
+   appraisal, concluding that the program posed no environmental risks and that it would lead to positive social
+   benefits for poor households, especially women (PAD, p. 16 and Annex 5). BISP submitted regular quarterly
+   progress reports to the Bank under the ESSA framework throughout the program implementation period. A
+   program grievance redress mechanism was in place to receive and act on complaints submitted by
+   individuals or communities who believed that they were adversely affected as a result of the program.
+   Focused primarily on issues related to targeting of the transfers, the mechanism and associated case
+   management system were available at all tehsil offices. The MIS recorded, tracked, and reviewed
+   grievances for resolution. Over three million complaints were received and processed.
+
+
+
+
+                                                                                                  Page 15 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     PK National Social Protection Program (P158643)
+
+
+
+b. Fiduciary Compliance
+   Overall fiduciary (procurement and financial management) risk was assessed at appraisal as moderate
+   (PAD, p. 44). BISP's Procurement Unit was responsible for all procurement activities under the program
+   using Federal Public Procurement Rules. Procurement performance was rated Satisfactory throughout
+   implementation. All public procurement-related information was shared on the BISP website to ensure
+   transparency and accountability. BISP's Finance and Accounts Unit supported all financial matters.
+   Financial management performance was rated Satisfactory throughout implementation. The program's TA
+   component included support to strengthen BISP's fiduciary capacity, including annual fiduciary
+   performance reviews. Periodic financial reports were shared regularly with the Bank in a timely manner. An
+   independent BISP Audit Unit, reporting directly to the BISP Board, submitted audit reports annually on the
+   effectiveness of risk management, internal controls, and governance processes. The ICR did not state
+   whether audits were clean and on time.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   None reported.
+
+
+
+d. Other
+   ---
+
+10. Ratings
+                                                                                Reason for
+Ratings                         ICR                    IEG
+                                                                                Disagreements/Comment
+Outcome                         Highly Satisfactory    Highly Satisfactory
+                                                                                The ICR does not point to
+Bank Performance                Satisfactory           Highly Satisfactory      shortcomings in Quality at Entry
+                                                                                or Supervision.
+                                                                                The ICR does not point to
+Quality of M&E                  Substantial            High                     shortcomings in M&E design,
+                                                                                implementation, or utilization.
+Quality of ICR                  ---                    High
+
+
+11. Lessons
+
+The ICR (pp. 24-25) cited a range of lessons and recommendations, some of which are restated
+here:
+
+Developing and sustaining an effective social safety net can contribute to timely and
+effective shock response. In this case, the digital capabilities and safety net systems that were
+
+
+
+
+                                                                                                    Page 16 of 17
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       PK National Social Protection Program (P158643)
+
+
+
+developed as part of the BISP agenda were efficiently and effectively deployed during the COVID-19
+crisis and 2022 floods.
+
+Ownership and leadership at both the central and local levels of a comprehensive social
+safety nets program are critical to success. In this case, creation of beneficiary community
+committee groups facilitated engagement with key local stakeholders.
+
+Combining the Program for Results instrument with technical assistance can promote
+smooth and timely implementation. In this case, the well-defined programmatic framework
+ensured consistent focus on results, promoted in-depth sectoral dialogue, built capacity when and
+where it was most needed, and both catalyzed and harmonized additional sources of funding.
+
+Transparency can promote dialogue and identify emerging issues. In this case, making
+program administrative data available on an external website allowed for full transparency and the
+use of data for studies by external groups.
+
+
+
+
+12. Assessment Recommended?
+
+  No
+
+13. Comments on Quality of ICR
+
+The ICR was well written, concise, and candid. It adhered to established guidelines. Its quality of data and
+analysis were excellent. The ICR effectively reconstructed the program's theory of change based on the results
+areas, activities, outputs, and outcomes as stated in the PAD. It contained a clear, focused analysis of the
+program's results chain, including the incentives created by the DLIs to move along the results chain for each
+objective. It situated the program effectively within the context of prior and ongoing Bank investments in the
+sector, as well as the contributions of other development partners. It highlighted the benefits of the program's
+design, combining the PforR instrument with technical assistance. Its lessons were insightful and well crafted.
+
+
+
+  a. Quality of ICR Rating
+       High
+
+
+
+
+                                                                                                   Page 17 of 17
+

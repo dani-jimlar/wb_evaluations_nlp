@@ -1,0 +1,1221 @@
+     Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+     3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+                                                                               Report Number: ICRR0023624
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P147921                                   3A-OMVS - Transmission Expansion Project
+
+ Country                                   Practice Area(Lead)
+ Western and Central Africa                Energy & Extractives
+
+
+ L/C/TF Number(s)                          Closing Date (Original)              Total Project Cost (USD)
+ IDA-60330                                 31-Dec-2020                                        93,054,474.30
+
+ Bank Approval Date                        Closing Date (Actual)
+ 12-May-2017                               30-Dec-2022
+
+                                           IBRD/IDA (USD)                                    Grants (USD)
+
+ Original Commitment                              97,000,000.00                                          0.00
+
+ Revised Commitment                               97,000,000.00                                          0.00
+
+ Actual                                           93,054,474.30                                          0.00
+
+
+
+
+ Prepared by                  Reviewed by                 ICR Review Coordinator       Group
+ Ihsan Kaler Hurcan           Kishore Laxmikant           Ramachandra Jammi            IEGSD (Unit 4)
+                              Nadkarni
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to both the International Development Association (IDA) Financing Agreement (p.6) dated July 6,
+   2017, and the Project Appraisal Document (p.9) dated April 21,2017, the project objective was “to enhance
+   electricity trade among Mali, Mauritania, and Senegal.”
+
+   These three countries are members of the Senegal River Basin Development Organization (OMVS –
+   Organisation pour la Mise en Valeur du fleuve Sénégal). The OMVS developed an interconnected electricity
+   grid among these three countries consisting of the Manantali Interconnected Network (RIMA - Réseau
+
+                                                                                                Page 1 of 23
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+   Interconnecté de Manantali) and the national electricity networks of the three countries. The Manantali Energy
+   Management Company (SOGEM - Société de Gestion de l’Energie de Manantali) is a regional power utility
+   formed under the OMVS and manages the RIMA. The national power utilities of the three countries are as
+   follows: The Energy of Mali (EDM - Énergie du Mali), the Mauritania Electricity Company (SOMELEC -
+   Société Mauritanienne d'Electricité), and the National Electricity Company of Senegal (SENELEC – Société
+   National d'Éléctricité du Sénégal).
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project consisted of two components:
+
+   A. RIMA (Réseau Interconnecté de Manantali – Manantali Interconnected Network) Reinforcement
+   and Expansion. (Appraisal cost: US$94.0 million; actual cost: US$81.35 million)
+
+   This component consisted of two subcomponents:
+
+   A.1. Kayes-Tambacounda Transmission Line. This component was to finance the construction of a new
+   228 km long 225 kV double-circuit transmission line from Kayes in Mali to Tambacounda in Senegal with an
+   electricity transmission capacity of 400 MW along with the associated 225 kV bays at the existing substation
+   at Kayes and the future substation in Tambacounda, which was under construction under the World Bank-
+   financed OMVG Interconnection Project (P146830). OMVG is the Gambia River Basin Development
+   Organization (Organisation pour la Mise en Valeur du fleuve Gambie). The subcomponent was also to
+   finance the installation of a fiber optic cable and equipment for shield wiring to connect the villages along
+   the transmission line to the grid.
+
+   A.2. SCADA (Supervisory Control and Data Acquisition) System. This subcomponent was to partially
+   finance the installation and implementation of a SCADA system for joint operation and coordination
+   between the three entities namely Senegal River Basin Development Organization (OMVS – Organisation
+   pour la Mise en Valeur du fleuve Sénégal), national power utilities (EDM, SENELEC, SOMELEC), and the
+   Manantali Energy Management Company (SOGEM - Société de Gestion de l’Energie de Manantali). The
+   project activities consisted of the following: (a) the upgrading of the communication and data acquisition
+   facilities to enable real-time information exchange with the load dispatching center at Manantali and the
+   three national power utilities; and (b) the acquisition of the necessary software licenses with relevant
+   training to support optimization and scheduling of the combined hydro and thermal power generation
+   capacity of RIMA.
+
+   B. Technical Assistance. (Appraisal cost: US$9.0 million; actual cost: US$12.91 million)
+
+
+                                                                                                   Page 2 of 23
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+  This component was to provide training, consultancy services, and financing of operating costs to
+  strengthen the project implementation capacity of SOGEM including procurement, supervision, and
+  implementation of safeguards policies. SOGEM, the project implementation entity, is a public company the
+  shares of which are equally owned by Mali, Mauritania, and Senegal; the company is in charge of the
+  operations and maintenance of RIMA’s power generation and transmission assets.
+
+  Revised Components
+
+  At the first restructuring in November 2020, the scope of the subcomponent A.1. was expanded to include
+  the wiring of the second circuit of the Kayes-Tambacounda transmission line and the reinforcement of the
+  two associated substations, while the electrification of the villages along the transmission line using the
+  shield wire technology was dropped from the project scope upon the request of the SENELEC and EDM
+  after having received negative feedback from other utilities in the sub-region about their experience in using
+  this technology.
+
+  The subcomponent A.2. SCADA was also dropped because, following a major incident on its network,
+  SOGEM decided to finance the installation of the SCADA system from its own resources to accelerate the
+  process. A new subcomponent was added to the project scope as follows:
+
+  New A.2. Reinforcement of RIMA’s Optical Ground Wire (OPGW). This subcomponent was to finance
+  the acquisition and installation of 1,700 km of optical ground wire to reinforce the OMVS’ OPGW network.
+
+  At the same restructuring, the following subcomponents were added to the project scope to utilize credit
+  savings from the procurement of the transmission line:
+
+  A.3. Supply and installation of 20 MVA 225/90/30 kV transformers at the Bakel, Matam and Dagana
+  substations (all in Senegal) on the existing RIMA line from Kayes to Dagana.
+
+  A.4. Acquisition of a 20 MVA 225/90/30 kV mobile substation.
+
+  A.5. Acquisition of a washing truck for high voltage lines.
+
+  At the second project restructuring in May 2020, the acquisition of an optical ground wire and additional
+  spare parts for the transmission line were added to the first component to utilize parts of the credit savings.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost: The project cost was originally estimated at US$103.0 million. The project closed on
+  December 30, 2022 with an actual cost of US$94.36 million.
+
+  Financing: At appraisal, the IDA credit amount was estimated at US$97.0 million. By the project closing in
+  December 2022, the project had disbursed US$93.05 million of the credit. The undisbursed amount was
+  cancelled at the third restructuring, and all project funds were accounted for at the time of project
+  evaluation.
+
+  Borrower’s contribution: At appraisal, the borrower’s contribution was estimated at US$6.0 million to
+  partially finance the installation of the SCADA system. As this activity was dropped at the first restructuring,
+  the borrower did not provide funds to the first component. The borrower’s actual contribution at project
+
+                                                                                                     Page 3 of 23
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+   closing was US$1.21 million, which partially financed the technical assistance activities under the second
+   component.
+
+   Project Restructurings: The project was structured three times:
+
+         First Restructuring (November 12, 2020): To utilize the significant credit savings from the
+          procurement of the transmission line between Kayes and Tambacounda of around US$48 million
+          (equivalent to EUR 44.51 million—the currency used in the financing agreement), the project was
+          restructured to expand its scope (see Revised Components above) and reallocate funds among
+          disbursement categories to finance the newly added activities. Consequently, the project closing
+          date was extended by 18 months from December 31, 2020 to June 30, 2022 to allow time for the
+          completion of the new project activities and the ongoing project activities that were delayed because
+          of longer than estimated time required to prepare the technical specifications for the bidding
+          documents and the onset of COVID-19 pandemic in March 2020. The target values of the key
+          performance indicators were revised to capture the project’s increased impact as a result of the
+          expansion of the scope, such as the amount of electricity transmitted from Mali to each of Mauritania
+          and Senegal from 147 GWh per year to 200 GWh per year and the annual duration of power
+          outages on the RIMA system per year from 60 to 40 hours.
+         Second Restructuring (May 24, 2022): The project was restructured to reallocate funds in the
+          amount of around US$15 million (equivalent to EUR 14 million) to finance new project activities (see
+          Revised Components above). The project closing date was extended by six months from June 30,
+          2022 to December 30, 2022 to allow time for the supply and installation of the 20 MVA transformers
+          at the Bakel, Matam, and Dagana substations (which was delayed because of the time to
+          manufacture these transformers), the implementation of the livelihood restoration program for the
+          project-affected people, and the expansion of the compensatory reforestation program under the
+          safeguard implementation.
+         Third Restructuring (February 23, 2023): This restructuring was processed after project closing to
+          cancel an undisbursed credit amount of around US$6.5 million (equivalent to EUR 6.0 million).
+
+   Dates: The project was approved on May 12, 2017. The IDA Financing Agreement was signed on July 6,
+   2017, and the project became effective on December 21, 2017. The Mid-Term Review was conducted in
+   November 2021. The original project closing date was December 31, 2020. The project closing date was
+   extended by two years, and the project closed on December 30, 2022. The reasons for project closing date
+   extensions are given in the project restructuring entries above.
+
+   Reasons not to undertake a split assessment of the project’s performance: At the first restructuring
+   the targets of the key performance indicators were revised upwards in accordance with the expanded scope
+   of the project. Such revisions because of an expanded scope, while the financing amount remains the
+   same, do not require a split assessment. Therefore, this review will assess the project’s performance based
+   on the revised targets of the key performance indicators.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+
+
+                                                                                                   Page 4 of 23
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+The project objective was aligned at differing levels with the current World Bank country partnership
+frameworks (CPFs) at the time of project closing for Senegal and Mauritania, and the CPF for Mali that
+ended at the end of the World Bank Fiscal Year 2019 (Because of the fragile and crisis situation in Mali, a
+new CPF could not be finalized for the fiscal years from 2020 to 2023. A new CPF is under preparation,
+which will cover the fiscal years from 2024 to 2026). The project aimed at addressing the development
+problem of insufficient availability and low reliability of electricity supply in the RIMA system because of low
+transmission capacity. The overloading of the RIMA system was a bottleneck to the transmission of clean
+and cheaper hydropower from Mali to Senegal and Mauritania. The project was also to contribute to
+increased electricity supply to the system from Mauritania after the completion of gas-to-power generation
+plants in the country. Regarding regional power pool development, the project was to support the
+integration of the OMVS and OMVG power networks under the WAPP system. These outcomes were to be
+achieved through the construction of a 225 kV transmission line between Kayes in Mali and Tambacounda
+in Senegal and the installation of a new SCADA system to improve the operation efficiency of the project.
+While the project objective “to enhance electricity trade among Mali, Mauritania, and Senegal” was broadly
+defined and output-oriented and did not capture the outcomes expected from the project’s intervention, it
+supported the achievement of the following objectives defined in the CPFs of Mali and Senegal:
+
+      Mali: Objective 2.3. Improve infrastructure and connectivity for all Malians under Focus Area 2.
+       Create Economic Opportunities of the CPF FY2016-19. The project was to support the achievement
+       of this objective through the improved connection of the national electricity network in Mali with that
+       of Senegal through the RIMA system, which would allow the transmission of surplus hydropower to
+       the OMVS sub-region and allow the import of cheaper electricity generated by gas in Mauritania
+       when needed.
+      Senegal: Objective 2.2. Lower energy cost and carbon footprint and optimize the energy mix under
+       the Pillar 2. Boost Competitiveness and Job Creation Through Private Sector-Led Growth of the
+       CPF FY2020-2024. The project would be expected to support the achievement of this objective by
+       increasing the availability of cheaper and cleaner hydropower transmitted from the OMVS
+       hydropower generation plants in Mali. The alignment of the project objectives with the Senegal CPF-
+       FY2020-24 was high.
+
+The alignment of the project objective with the World Bank Country Partnership for Mauritania for FY2018-
+2023 was modest. The previous CPF for Mauritania for FY2014-16 included objective 3.b. Increased
+electricity export to Senegal and Mali. This objective was to be achieved through the construction of the
+Banda Gas Power Plant, which would generate electricity for domestic consumption and for export of
+electricity to Senegal and Mali through the RIMA system. The project was to support the achievement of
+this objective by increasing the transmission capacity in the RIMA system. Since the Banda Gas Power
+Plant could not be constructed, this objective could not be achieved, although the TEP increased the
+transmission capacity. The current CPF for Mauritania for 2018-2023 does not include a specific objective
+in electricity generation and transmission sectors within the OMVS or WAPP systems. However, the project
+indirectly supports the achievement of the CPF objective 1.3. Promote the development of productive cities
+and adjacent territories in the context of decentralization; one of the CPF outcomes related to the
+achievement of this objective is “increased access to electricity services in intermediate cities and adjacent
+rural areas.” The improvement in the RIMA system under the project should be expected to increase the
+amount of electricity Mauritania receives from the system, which would increase the availability of electricity
+supply—a necessary condition to increase access to electricity.
+
+The project objective is highly aligned with the World Bank’s regional strategy as defined in the Regional
+Integration and Cooperation Assistance Strategy Update for FY2021 and 2023 for Africa. The World Bank
+
+                                                                                                      Page 5 of 23
+                                      Independent Evaluation Group (IEG)                     Implementation Completion Report (ICR) Review
+                                      3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+               strategy aims at achieving universal access to electricity in Africa by 2030 and prioritizes the development
+               of regional power pools to increase the availability of reliable electricity supply in the continent. The World
+               Bank has been actively supporting the development of WAPP since its inception in 1999 through its
+               financing of cross-border transmission lines and generation investments. The project was to support the
+               strengthening of regional power integration in West Africa by financing a 225 kV transmission line between
+               Kayes and Tambacounda, a strategic connection identified in the WAPP Master Plan between the OMVS
+               and OMVG power networks that would create redundancy and improve regional power security.
+
+               The project objective was substantially relevant to the country context in Mali, Mauritania, and Senegal.
+               While the project was adequately pitched for the development status and capacity in each country and
+               aligned with their electricity sector priorities, such as increasing access to electricity, the project objective
+               was output-oriented rather than outcome-oriented. The formulation of the project objective did not
+               adequately capture the development outcomes expected from the project’s intervention, such as increased
+               availability and improved reliability and quality of electricity supply, increased regional integration, and was
+               restricted with increased power trade among the countries.
+
+               The World Bank has been a long-term development partner of the countries in West Africa in the
+               development of national electricity sectors and the development of a power market through regional power
+               pools. The World Bank has extensive experience in the electricity transmission sector worldwide, and
+               country experience in the three project beneficiary countries. Therefore, the project objective, as explained
+               in the previous sector, could have been more ambitious to reflect the full development impact of the
+               project’s intervention.
+
+               While there were moderate shortcomings in the project objective’s alignment with the World Bank country
+               strategies and the formulation of the project objective was output-oriented, the project’s intervention was
+               critical in increasing the availability and improving the reliability of electricity supply in the RIMA system and
+               strengthening the integration of the WAPP system. Overall, the relevance of the project objective is rated
+               Substantial.
+
+
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To enhance electricity trade among Mali, Mauritania, and Senegal.
+
+                             Rationale
+
+
+                                                                                                                           Page 6 of 23
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+Theory of Change
+
+The project objective was output-oriented, and its formulation did not capture the outcomes expected from the
+project intervention’s in reinforcing the capacity and reliability of the transmission system for Mali, Mauritania,
+and Senegal, increasing the availability of electricity supply, and establishing the infrastructure for the
+development of larger generation projects and integration within the WAPP market. The inputs—IDA funds—
+were to be used for the construction of a 225 kV transmission line (including the upgrading of the associated
+substations) creating a second interconnection between the national grids of Mali and Senegal and the
+installation of a new SCADA system. The project’s output would be increased electricity transmission capacity
+between these two countries by 600 MW, which would alleviate the transmission bottleneck in the existing
+RIMA transmission line (150 MW transmission capacity) from Kayes in Mali to Dagana in Senegal and from
+Dagana to Dakar. The improved transmission capacity would also allow the evacuation of power from the
+Banda Gas Power Station (140 MW) in Mauritania and the Albatros Heavy-Fuel Oil Power Station (92 MW)
+and Gouina Hydroelectric Power Station (140 MW) in Mali following their commissioning. The other project
+output would be the operation of a new SCADA system.
+
+The outcomes expected from the project’s outputs would be a substantial increase in the amount of electricity
+transmitted to Senegal through the new transmission line, supply of more electricity from Mauritania to the
+RIMA system because of the reduced load in the existing line, a reduction in the number and duration of
+outages because of the increased availability of electricity and the reduced load on the existing line (improved
+reliability), and interconnection of the OMVS with OMVG power networks that would complete the integration
+of national electricity grids of the West African nations under the WAPP. The redundant capacity to be
+created by the project and integration under the WAPP would also allow project countries to receive electricity
+from other countries in the region if there were a drop in the electricity supply from OVMS generation plants,
+such as low hydropower generation because low hydraulicity. In the medium and long-terms, the increased
+availability of reliable electricity supply would be expected to lead to higher electrification rates in the region.
+
+The project did not include any technical assistance activity in capacity strengthening other than the support
+to the project implementation entity for procurement and safeguards and supervision through the hiring of an
+owner’s engineer.
+
+The project’s theory of change was built on the critical assumptions that there would be sufficient power
+supply in the RIMA system and that the national utilities of the three countries and the regional utility would
+have sufficient funds to adequately operate and maintain the electricity network.
+
+Overall, the causal links from project activities and outputs to expected outcomes were direct and valid, but
+the attribution was weak as there were other regional and national transmission line investments being
+implemented that would contribute to the achievement of the project objectives. The transmission line to be
+constructed under the project constituted a part of a larger regional electricity sector development under the
+WAPP in power generation and transmission, but it was a critical investment in improving the backbone of the
+RIMA system.
+
+The addition of new activities to the project scope did not change the project’s theory of change. The
+installation of the 20 MVA transformers on each of the three substations on the existing Kayes-Dagana
+transmission line would increase the redundant capacity on the line and contribute to the achievement of the
+project outcomes. The availability of spare parts and the washing truck purchased under the project would
+contribute to the sustainability of the operation and maintenance of the RIMA system.
+
+
+                                                                                                      Page 7 of 23
+  Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+  3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+Outputs
+
+     Transmission lines constructed or rehabilitated under the project (km). The project successfully
+        completed the construction of the 285.30 km 225 kV Kayes-Tambacounda double-circuit transmission
+        line and the associated 20 MVA transformers at the Kayes and Tambacounda substations, as
+        targeted. The transmission line was partially commissioned on October 28, 2022, and full
+        commissioning took place on December 9, 2022.
+       New transformers installed in the RIMA. The project was to install a 20 MVA transformer at each of
+        the three substations in Bakel, Matam, and Dagana (all in Senegal) on the existing RIMA transmission
+        line from Kayes (Mali) to Dagana where it splits into two towards Dakar (Senegal) and Nouakchott
+        (Mauritania). The project completed the installation of the transformer at the Bakel substation, which
+        was commissioned on February 16, 2023, after project closing. The commissioning of the
+        transformers at the Matam and Dagana substations was expected in November 2023 but has not
+        materialized at the time of this review.
+       New mobile substation. The project was to finance the delivery of a 225/30 kV mobile substation, but
+        the delivery of the mobile substation had not happened by project closing. The ICR does not provide
+        information about when the mobile substation will be delivered to SOGEM.
+       New Optical Ground Wire (OPGW) cables. The project financed the delivery of the 1,700 km cables,
+        as targeted, to the port of Dakar. These high-capacity optical cables will replace the existing low-
+        capacity ones and will be delivered to the Rosso substation in Mauritania (464 km), Manantali
+        substation in Mali (643 km), and the Dagana substation in Senegal (593 km).
+       Additional spare parts. The project utilized credit savings to purchase additional spare parts for 225
+        kV high voltage switchgear, 225 kV disconnectors, insulators for pantograph disconnector,
+        disconnector control cabinet, current transformers, voltage transformers, lightning arresters,
+        differential protection, and distance protection terminals for 225 kV line, and metering cabinet with four
+        energy meters plus accessories.
+       New washing truck. The project financed the purchase of a washing truck to be used for the cleaning
+        of the high voltage line insulators and a training in its use. The system operator received the truck on
+        October 31, 2022.
+       Implementation of a SCADA system. This activity was dropped as SOGEM decided to accelerate
+        the installation of the new system using its own funds outside of the project. The SCADA system is
+        operational; the new transformer bays constructed under the project are integrated to the Manantali
+        Dispatching SCADA, and the numerical command control system is installed in the Kayes-
+        Tambacounda transmission line substations. However, the achievement of this output is not
+        attributable to the project’s intervention.
+       The project was to connect the villages along the transmission line using the shield wire technology,
+        but this activity was dropped from the project scope upon the request of the SENELEC and EDM after
+        having received negative feedback from other utilities in the sub-region about their experience using
+        this technology.
+
+Outcomes
+
+     Additional annual electricity traded between Mali and Senegal (GWh). This indicator was defined
+        as “The quantity of electricity flowing to the Senegalese national power grid as a result of the project”
+        (PAD, p.24). The Manantali (200 MW) and Felou (60 MW) hydroelectric power plants of the OMVS are
+        on the Senegal River in Mali. The power plants had been transmitting electricity to Senegal and
+        Mauritania through the existing Kayes-Dagana transmission line of the RIMA system (with a 150 MW
+
+                                                                                                    Page 8 of 23
+Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+   capacity). Therefore, the construction of the Kayes-Tambacounda double-circuit transmission line
+   between Mali and Senegal significantly increased the electricity transmission capacity between the
+   two countries from 150 MW to 750 MW (by 600 MW), which will allow more power to flow from Mali to
+   Senegal through the RIMA. The ICR (p.36) reports that Senegal’s electricity import from the RIMA
+   system increased by about 168 GWh in 2022 compared to the import amount in 2021. However, this
+   achievement cannot be fully attributed to the project’s intervention as the Kayes-Tambacounda
+   transmission line was partially commissioned on October 28, 2022, and fully commissioned on
+   December 9, 2022. The increase was because of the increased availability of more hydropower after
+   the commissioning of the Gouina Hydroelectric Power Plant (140 MW) in March 2022. However, the
+   availability of additional capacity through the Kayes-Tambacounda transmission line starting from
+   October 28, 2022, should have been expected to have facilitated the transmission of power from the
+   Gouina Hydroelectric Power Plant. According to the Interconnection Permanent Technical Committee
+   (IPTC) report, Senegal’s electricity import from the RIMA system is expected to increase by about 247
+   GWh in 2023. The project’s target was 200 GWh. Although the evidence provided in the ICR is
+   insufficient to establish attribution between the increase expected in Senegal’s electricity import in
+   2023 and the commissioning of the Kayes-Tambacounda transmission line, the significant increase in
+   the electricity transmission capacity between the two countries (from 150 MW before the project to
+   750 MW after the project) should be expected to have a positive impact on increasing Senegal’s
+   electricity imports from Mali in the medium and long-terms. The project team additionally reported that
+   according to the data gathered from the RIMA system operated, a total of 501.4 GWh of electricity
+   was transmitted from Mali (Gouina, Felou, and Manantali hydroelectric power plants) to Senegal and
+   Mauritania through the Kayes-Tambacounda transmission line between November 2022 and
+   November 2023 (Regional Director’s email dated December 14, 2023). This achievement was higher
+   than the target of 400 GWh (i.e., 200 GWh for each of Senegal and Mauritania) of power transmission
+   per year through the Kayes-Tambacounda transmission line. It can also be argued that without the
+   excess transmission capacity created by the commissioning of the Kayes-Tambacounda transmission
+   line, the supply of electricity from the 140 MW Gouina Hydroelectric Power Plant, which was
+   commissioned in March 2022, could have further overload the existing only RIMA transmission line
+   from Kayes to Dagana with a transmission capacity of 150 MW.
+  Additional annual electricity traded between Mali and Mauritania (GWh). This indicator was
+   described as “The additional quantity of electricity flowing to Malian national power grid as a result of
+   the project” (PAD, p.24). However, the ICR (p.10) defines this indicator as “Annual additional increase
+   in the Mali energy export to Mauritania.” The definitions of the indicator given in the PAD and the ICR
+   contradict each other. Because the Banda Gas Power Station in Mauritania had not been constructed,
+   Mauritania did not supply electricity to the RIMA system but received electricity from Mali through the
+   system. Therefore, this review will take the definition in the ICR into consideration in assessing the
+   achievement of this indicator. Similar to the achievement of the previous outcome above, the increase
+   of around 194 GWh in the amount of electricity Mauritania received from the RIMA system in 2022
+   compared to 2021 cannot be fully attributed to the project as the Kayes-Tambacounda transmission
+   line was partially commissioned on October 28, 2022, and fully commissioned on December 9, 2022.
+   The increased availability of power after the commissioning of the Gouina Hydroelectric Power Plant
+   in March 2022 was the main reason for the increase in the electricity transmission from Mali to
+   Mauritania. However, the availability of additional capacity through the Kayes-Tambacounda
+   transmission line starting from October 28, 2022, should have been expected to have facilitated the
+   transmission of power from the Gouina Hydroelectric Power Plant. The IPTC report estimates that the
+   amount of electricity Mauritania imports from the RIMA system will increase by around 218 GWh in
+   2023. The project’s target was 200 GWh. Although the evidence is insufficient to establish attribution
+   between the expected increase in Mauritania’s electricity import and the commissioning of the Kayes-
+
+                                                                                              Page 9 of 23
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+       Tambacounda transmission line, the significant increase in the electricity transmission capacity on the
+       RIMA system (from 150 MW before the project to 750 MW after the project) and the flow of electricity
+       to Dakar through the Kayes-Tambacounda transmission line resulting in a reduction in the load on the
+       existing Bakel-Dagana transmission line should be expected to have a positive impact on increasing
+       the amount of electricity transmitted to Mauritania. Furthermore, as the commissioning of the three 20
+       MVA transformers (in November 20223) in each of the Bakel, Matam, and Dagana substations on the
+       existing Kayes-Dagana transmission line will further increase the transmission capacity of the system,
+       this should be expected to have a positive impact on increasing the amount of electricity transmitted to
+       Mauritania in the medium and long-terms. As noted in the assessment of the achievement of the
+       previous indicator above, the project team reported that according to the data gathered from the RIMA
+       system operated, a total of 501.4 GWh of electricity was transmitted from Mali (Gouina, Felou, and
+       Manantali hydroelectric power plants) to Senegal and Mauritania through the Kayes-Tambacounda
+       transmission line between November 2022 and November 2023 (Regional Director’s email dated
+       December 14, 2023). This achievement was higher than the target of 400 GWh (i.e., 200 GWh for
+       each of Senegal and Mauritania) of power transmission per year through the Kayes-Tambacounda
+       transmission line.
+      Average annual duration of power outages on the RIMA system per year (hours). The ICR
+       (footnote 18 on p.16) defines this indicator in hours as a ratio “between the undistributed energy
+       during long outages and the average power distributed over the course of a year, for all the
+       consumers.” The baseline in 2016 was 72 hours per year. The duration of outages per year dropped
+       to about 26 hours per year in 2021 (before the commissioning of the Kayes-Tambacounda
+       transmission line in December 2022 and the to-be-commissioned transformers on the Kayes-Dagana
+       transmission line under the project) against the original and revised targets of 60 and 40 hours per
+       year, respectively. The ICR (p.37) lists the reasons for this significant reduction in the duration of
+       outages on the RIMA system as the following: (a) The coordination of the protection system at the
+       level of the WAPP area and the interconnection of electricity networks of the WAPP space, (b) the
+       strengthening of the production capacities of the RIO (the dual powerplant of 180 MW of SOMELEC,
+       the hybrid powerplant of 120 MW of Malikunda of SENELEC, the solar powerplants of SENELEC and
+       EDM-SA, the hydroelectric powerplant of 140 MW of Gouina), and (iii) the doubling of the capacity of
+       power transformers in certain strategic high voltage substations of RIMA outside of the project’s
+       intervention. Therefore, the achievement in the reduction of the duration of outages on the RIMA
+       system cannot be fully attributed to the project’ intervention, but the Kayes-Tambacounda
+       transmission line should be expected to contribute to the reliability and stability of the RIMA system as
+       it has significantly increased the transmission capacity between Mali and Senegal resulting in a
+       reduction of the load on the existing Kayes-Dagana transmission line and also satisfies the N-1
+       contingency criterion by establishing a second link between the Kayes substation in Mali and the
+       national grid in Senegal (The N-1 contingency criterion is defined as the capability of delivering
+       electricity from one point to another, i.e., from a generation site to a substation or from one substation
+       to another, without any load loss in case of a failure in one of the two transmission lines between
+       those two points). Based on the information received from the project beneficiaries, the project team
+       reported that because of the increased availability and improved reliability of electricity supply
+       following the commissioning of the Kayes-Tambacounda transmission line, the end-users in Senegal
+       had not needed to turn on their diesel-fired generators (Regional Director’s email dated December 14,
+       2023).
+
+The project successfully completed the construction and commissioning of the Kayes-Tambacounda
+transmission line strengthening the backbone of the RIMA system by significantly increasing the transmission
+capacity between Mali and Senegal from 150 MW to 750 MW, but the commissioning of the 20 MVA
+
+                                                                                                  Page 10 of 23
+                                Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                                3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+                            transformers at each of the three substations on the existing Kayes-Dagana transmission line could not be
+                            completed before project closing (currently one of them has been commissioned; the commissioning of the
+                            remaining two transformers was expected in November 2023). The Kayes-Tambacounda transmission line
+                            connected the OMVS and OMVG power networks completing their integration under the WAPP system. The
+                            transmission line is expected to play a critical role in the improvement of system security in the WAPP
+                            system, the reliability and quality of the electricity supply, and the electrification rates of the countries in the
+                            region. However, because the transmission line was partially commissioned in October 2022, and fully
+                            commissioned in December 2022, the achievements in increasing the electricity supply from Mali to Senegal
+                            and Mauritania in 2022 and the reductions in the number and duration of outages in the system measured in
+                            2021 cannot be fully attributed to the project’s intervention. The ICR does not provide data that could have
+                            been collected for the first quarter of 2023 to compare the amount of electricity transmitted through the
+                            existing line (i.e., Kayes-Dagana transmission line) before the project and after the project and assess the
+                            impact of the project on creating redundant transmission capacity. Similarly, the ICR does not provide data
+                            related to the amount of electricity transmitted through the newly built Kayes-Tambacounda transmission line
+                            during the first quarter of 2023. Such data would have provided evidence to assess the project’s impact.
+                            However, the project team provided additional data related to the amount of electricity transmitted through the
+                            Kayes-Tambacounda transmission line between November 2022 and November 2023 showing that the
+                            transmission line transmitted a larger quantity of electricity than targeted. According to the end-user
+                            testimonies, there was a significant improvement in the reliability of electricity that made the use of diesel-
+                            fired generators redundant.
+
+                            Overall, although the ICR did not provide sufficient evidence to assess the achievement of the outcomes
+                            expected from the project’s intervention, this review rates the efficacy of the project in achieving the project
+                            objectives as Substantial taking into consideration the additional data provided by the project team in their
+                            email dated December 14, 2023, and the project’s impacts on significantly increasing the power transmission
+                            capacity between Mali and Senegal and the further integration of the regional power pool under the WAPP
+                            system, which are expected to result in an increased availability and improved reliability of electricity supply in
+                            the region.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project successfully completed the construction of the Kayes-Tambacounda transmission line, which
+                            resulted in a significant increase in the electricity transmission capacity in the RIMA system. The impact of the
+                            transmission line and the 20 MVA transformers to be commissioned on the existing Kayes-Dagana
+                            transmission line on improving the system security and the reliability and quality of the electricity supply in the
+                            RIMA system is expected to be critical. Although the ICR did not provide sufficient evidence for the
+                            achievement of the project outcomes, the project team provided additional data that allowed the assessment
+                            of the project’s impact on increasing Mali’s electricity export to Senegal and Mauritania and reducing power
+
+
+                                                                                                                                 Page 11 of 23
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+  outages in the RIMA system. Overall, the project’s efficacy in achieving the project objective to enhance
+  electricity trade among Mali, Mauritania, and Senegal is rated Substantial.
+
+
+
+  Overall Efficacy Rating
+  Substantial
+
+
+
+5. Efficiency
+Economic Analysis
+
+The cost-benefit analysis conducted at appraisal included quantifiable economic benefits, which were relevant
+and adequate to assess the economic viability of the project’s intervention. These economic benefits consisted
+of the following: (a) increased efficiency in electricity supply (reduced transmission losses, security N-1, reduced
+outages, and voltage fluctuations); and (b) increased supply of electricity to Senegal and Mauritania to meet
+existing suppressed demand and expected growth in demand. These benefits were quantified by using the
+average costs of power supplied from thermal generation sources in Senegal and Mauritania. The investment
+cost of the transmission line and the operation and maintenance (O&M) costs (two percent of the investment
+cost per year) were included as costs in the analysis. The transmission line’s economic lifetime was taken as 40
+years. Based on these assumptions, the calculations resulted in an economic internal rate of return (EIRR) of
+24.95 percent with a net present value (NPV) of US$305 million at a six percent discount rate.
+
+A similar cost-benefit analysis was conducted at project evaluation during the first half of 2023 based on the
+actual investments costs and estimated economic benefits as the transmission line was fully commissioned only
+in December 2022. The maximum electricity transmission capacity of the existing Kayes-Bakel transmission line
+was recorded at 572 GWh in 2021 and following the commissioning of the Kayes-Tambacounda transmission
+line, the capacity in the RIMA system increased to 971 GWh, which corresponds to a 200 GWh of increase in
+the availability of electricity supply for each utility in Senegal and Mauritania. The calculations resulted in an
+EIRR of 26.41 percent and an NPV of US$219.33 million. If the economic benefits from the reduction of
+greenhouse gas emissions (avoided thermal production and deforestation emissions) are included in the
+calculations (which were not included in the analysis at appraisal), the EIRR and NPV increase to 27.0 percent
+and US$287.28 million, respectively.
+
+The economic analyses conducted both at appraisal and at the time of project closing confirm the economic
+viability of the project’s intervention.
+
+Financial Analysis
+
+At appraisal, a financial analysis was conducted to assess the net financial return of the Kayes-Tambacounda
+transmission line. The financial benefit of the project to the utilities in Senegal and Mauritania was calculated as
+the cash inflows generated by selling the incremental electricity as a result of a reduction in transmission losses.
+However, loss in financial benefits because of commercial losses were not included in the calculations at
+appraisal or project evaluation (ICR, p.64). The project costs were taken as the investment cost of the
+transmission line and O&M costs (two percent of the investment cost). The analysis calculated a financial
+
+
+
+                                                                                                      Page 12 of 23
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+internal rate of return (FIRR) of 18.35 percent and a financial net present value (FNPV) of US$672.0 million at a
+discount rate (i.e., IDA grant fees rate) of 0.75 per cent.
+
+The financial analysis conducted at the time of project evaluation using the same methodology resulted in an
+FIRR of 17.24 percent and an FNPV of US$146.57 million at a discount rate of five percent (the 2023 interest
+rate for bonds in Senegal). The higher discount rate used for the financial analysis at project closing is the main
+reason for a much lower FNPV compared to the FNPV calculated at appraisal. The use of a higher discount rate
+at project closing was more relevant to assess the financial return of the transmission line rather than the IDA
+grant fees rate used at appraisal.
+
+Operational and Administrative Efficiency
+
+Project implementation faced serious delays because of the slow progress in forming the project implementation
+unit (PIU) and hiring a consultant for the preparation of safeguard documents. The project completed the
+Resettlement Action Plans for Mali and Senegal two years after the approval of project. This resulted in a delay
+in acquiring the parts of the right-of-way for the construction of the transmission line where there were
+settlements or agricultural activities. The procurement capacity of the PIU was insufficient through to project
+closing which resulted in delays in the completion of the procurement processes of the main contracts (i.e., the
+Kayes-Tambacounda transmission line) and the contracts for the project activities added to the project scope to
+utilize the credit savings. Because of procurement delays, some project activities could not be completed before
+project closing such as the commissioning of the three 20 MVA on the Kayes-Dagana transmission line. The full
+commissioning of the transmission line was delayed because of the time required to design the transmission line
+and the transformers to be installed at the Kayes and Tambacounda substations. The cost of the Kayes-
+Tambacounda transmission line was significantly overestimated at appraisal, which led to a credit saving of
+around 50 percent of the investment cost estimated at appraisal. The project was restructured to utilize the
+credit savings to finance additional project activities (increased scope), but around US$6.5 million (equivalent to
+EUR 6.0 million) of the total commitment of US$97 million (equivalent to EUR 91.5 million) could not be utilized
+and was cancelled at the third restructuring in December 2022. Exogenous factors slowed down project
+implementation and adversely affected the administrative and operational efficiency of the project—the onset of
+the COVID-19 pandemic in March 2020, and the military coups in Mali in August 2020 and May 2021.
+
+Overall, because of significant shortcomings in the administrative and operational efficiency in forming the PIU,
+the procurement of contracts, the implementation of the safeguard policies, and the preparation of technical
+designs, the project’s efficiency in achieving the project objective is rated Modest.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                      100.00
+ Appraisal                                                 24.95
+                                                                                       Not Applicable
+
+
+                                                                                                     Page 13 of 23
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+                                                                                       100.00
+ICR Estimate                                                26.41
+                                                                                        Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+While the alignment of the project objective was weak with the country strategy for Mauritania, and the project
+objective was output-oriented, the project objective’s alignment with the World Bank country strategies for Mali
+and Senegal was substantial and high, respectively, and the project significantly supported the World Bank
+strategy of power integration in Africa. Therefore, the relevance of objectives is rated Substantial. The evidence
+in the ICR was insufficient to establish attribution between the project’s intervention and the achievement of
+project outcomes of increased availability and improved reliability of electricity supply in the RIMA system.
+However, the project team provided additional data related to the achievement of the project outcomes in
+increasing the amount of electricity transmitted from Mali to Senegal and Mauritania. Additionally, the project
+resulted in a significant increase in the transmission capacity between Mali and Senegal, which should be
+expected to contribute to the reliability of the regional WAPP system. Therefore, the project’s efficacy in
+achieving the project objective is rated Substantial. Lastly, although the cost-benefit analyses resulted in high
+economic internal rates of return before and after the project, there were significant shortcomings in the hiring of
+staff for the project implementation unit, implementation of safeguards policies and procurement, and
+preparation of technical designs. Therefore, the project’s efficiency in achieving the project objective is rated
+Modest. Overall, the project’s outcome is rated Moderately Satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+Technical. The technical aspects of the project were robust. International sector standards were used in the
+construction of the transmission line and the associated transformers. The economic lifetime of the
+transmission line is 40 years. As SOGEM has adequate experience in the operation and maintenance of high
+voltage transmission lines, and the project acquired sufficient number of spare parts, the technical risk to the
+sustainability of the project outcomes is low.
+
+Financial. A worsening in the financial situations of SOGEM and the national power utilities could jeopardize
+the sustainable operation and maintenance of the transmission line, but this risk is low. The OMVS
+transmission system is one of the most advanced sub-regional networks in Africa, which had been gradually
+growing. The project successfully integrated the OMVS system with the OMVG network under the WAPP
+system. The increased regional integration of the electricity transmission networks in West Africa will
+facilitate more electricity trade among the countries in the region and improve the system security. This
+should be expected to provide sufficient funds to the utilities from the sale of electricity to adequately operate
+and maintain the regional electricity network.
+
+Political and economic. Some countries in the region have been experiencing recurring political instability
+that adversely affects the economic activities. For example, there were two military coups in Mali in 2020 and
+
+                                                                                                      Page 14 of 23
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+2021. Although the OMVS system continued its operation and growth during political instability times, such
+political uncertainties and instabilities could adversely affect economic activities and result in underutilization
+of the transmission network because of lower demand for electricity. Political instabilities could also
+jeopardize the proper operation and maintenance of the transmission network.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  Expansion of the RIMA system’s transmission capacity to ease the overloading at the existing line and
+  allow more electricity to flow among Mali, Senegal and Mauritania and the integration of the OMVS and
+  OMVG to increase the regional system security and reliability under the WAPP were of high strategic
+  importance of the project countries and the other West African nations. The project’s approach was
+  simple consisting of the construction of a critical 225 kV transmission line to create a second
+  interconnection between Mali and Senegal together with the installation of a new SCADA system. The
+  technical aspects of the project were adequate as international standards were to be used in the
+  construction of the transmission line, and the design included excess capacity to accommodate future
+  electricity supply increases. The economic analysis was sufficient to assess the economic viability of the
+  project’s intervention based on increased electricity supply assumptions. The project benefited from the
+  experiences and lessons learned during the implementation of cross-border transmission line projects
+  such as the implementation of the project by a single entity (i.e., SOGEM) rather than by national utilities,
+  the construction of the transmission line under one contract, and sufficient pre-project consultations with
+  the stakeholders to ensure commitment and ownership. However, because of the regional nature of the
+  project, the implementation arrangements were complex including SOGEM, OMVS, the three
+  governments, and their utilities. The main risks were adequately identified, i.e., political and security
+  situation, utilities’ financial viability, complex implementation arrangements, and allegations and
+  corruption, and mitigation measures for some of the risks were in place, such as one project
+  implementation entity and the World Bank’s close supervision of the fiduciary aspects of the project. As
+  SOGEM already had experience in implementing World Bank-financed projects, it was assessed to have
+  sufficient capacity to implement the project with additional training to the PIU staff in World Bank
+  procedures and the support of an owner’s engineer. The procurement risk was adequately assessed, and
+  the mitigation measures were identified in detail (PAD, pp.45-46), but these measures were not fully
+  effective in mitigating the procurement risk during project implementation. The project’s preparedness in
+  safeguards implementation was insufficient; the Resettlement Action Plan could not be prepared because
+  the design of the transmission line including its route was to be completed with the support of the owner’s
+  engineer after the start of project implementation. The results framework included indicators to measure
+  the improvement in the RIMA system, but they were insufficient to establish attribution between the
+  project’s intervention and the achievement of the expected outcomes. The cost of the transmission line
+  was significantly overestimated, which was double the amount of the actual cost.
+
+  The quality at entry is rated Moderately Satisfactory because of moderate shortcomings in the
+  identification, preparation, and appraisal of the project.
+
+
+
+
+                                                                                                        Page 15 of 23
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The World Bank project team held supervision missions twice a year until the onset of the COVID-19
+ pandemic in March 2020, after which virtual supervision missions were held. There was continuity in the
+ project team as one of the three co-Task Team Leaders (TTLs) had been with the project from appraisal
+ until project closing. A review of the Implementation Status and Results Reports and the Aide Memoires
+ showed that the performance reporting was candid and detailed with minor shortcomings in the reporting of
+ the safeguards implementation. The project team’s supervision of the financial management of the project
+ was adequate; there were no known issues of corruption or misuse of funds. The project team was
+ proactive in restructuring the project twice to use credit savings to expand the scope of the project through
+ the purchase of transformers that would further increase the transmission capacity of the RIMA system and
+ spare parts to ensure proper maintenance. However, there were moderate shortcomings in the supervision
+ of the safeguards policy implementation; because of the delays in the preparation of the RAP for about two
+ years, the construction of the transmission line fell behind schedule (ICR, p.33). Despite the project team’s
+ close support to the SOGEM and the PIU, procurement of main contracts was delayed because of the
+ PIU’s insufficient procurement capacity, which continued through to project closing and resulted in
+ uncompleted project activities. The project team’s focus was on the completion of the project outputs, but
+ the weaknesses in the results framework were not addressed to adequately capture the project outcomes
+ and establish attribution between the project’s intervention and the achievement of the outcomes and
+ project objective.
+
+ The quality of supervision is rated Moderately Satisfactory because of moderate shortcomings in the
+ proactive resolution of threats to project implementation and delivery of project outputs.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The project objective was output-oriented, rather than outcome-oriented—to enhance electricity trade
+ among Mali, Mauritania, and Senegal. The project’s theory of change was simple and straightforward; the
+ causal chains form project activities and outputs to outcomes were valid and direct but the results
+ framework did not include indicators to adequately capture the outcomes that could be attributed to the
+ project’s intervention. The outcome level indicators measured the increase in the electricity traded between
+ Mali and Mauritania and between Mali and Senegal, and the reduction in the average annual duration of
+ power outages on the RIMA system. The indicators were insufficient to establish attribution as there were
+ other transmission projects implemented simultaneously with funding from other international donors to
+
+                                                                                                   Page 16 of 23
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+ increase the transmission capacity of the RIMA system, such as the 225 kV Manantali-Kita-Kati
+ transmission line and the 225 kV Kayes-Kifa-Titane transmission line towards Nouakchott, Mauritania (ICR,
+ p.8). The results framework did not capture the impact of the project on easing the overload on the existing
+ Kayes-Dagana transmission line or improving the reliability of electricity supply in Dakar, Senegal, and
+ Nouakchott. The results framework included only one intermediate indicator measuring the length of the
+ transmission line constructed. The other intermediate indicator was deleted as the installation of the
+ SCADA system was dropped from the projects scope. M&E arrangements were adequately embedded
+ institutionally as SOGEM had sufficient capacity for M&E.
+
+
+
+b. M&E Implementation
+  The weaknesses in the M&E design in accurately capturing the achievement of the outcomes that would
+  be attributable to the project were not addressed during project implementation. The indicators could only
+  measure the improvements in the RIMA system without establishing attribution to the project. No new
+  outcome-level indicator was added to the results framework, but new intermediate indicators were added
+  to the results framework to follow the implementation of the project activities added to the project scope.
+  The progress in the construction of the transmission line was adequately monitored and measured during
+  project implementation along with the implementation of other activities added at the project restructuring
+  such as the commissioning of the three 20 MVA transformers and one mobile transformer, acquisition of
+  a washing truck, and delivery of optical ground cables. Because of the nature of such transmission
+  projects, the impact of the project on the electricity supply could only be measured after the
+  commissioning of the line. The ICR reports the additional increase in the electricity transmitted from Mali
+  to Senegal and Mauritania and the reduction in the average annual duration of the outages in the RIMA
+  system as of end of 2022. Since the Kayes-Tambacounda transmission line was fully commissioned on
+  December 9, 2020, it is not possible to assess the impact of the project on the improvement of the
+  system security and reliability.
+
+
+
+c. M&E Utilization
+  The progress in the construction of the Kayes-Tambacounda transmission line was regularly
+  communicated to the stakeholders. The M&E findings did not play a role in the project restructurings
+  which were processed to use credit savings to finance additional activities. The measurements taken at
+  the end of 2022 were used to provide evidence of the achievement of outcomes, but as explained in the
+  paragraph above, these measurements did not adequately capture the impact of the project on the
+  improvement of the security and reliability of the RIMA system since the transmission line was fully
+  commissioned on December 9, 2022. Furthermore, the outcome-level indicators were insufficient to
+  measure the achievement of the outcomes that were attributable to the project’s intervention.
+
+
+
+  Overall, the M&E quality is rated Modest. There were significant shortcomings in the design and
+  implementation of the M&E system making it difficult to assess the achievement of the stated objectives,
+  test the links in the results chain, and establish attribution between the project’s intervention and the
+  outcomes achieved.
+
+
+
+
+                                                                                                   Page 17 of 23
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   At appraisal, the project was classified as Category B under Environmental Assessment (OP/BP 4.01) and
+   triggered the Natural Habitats (OP/BP 4.04), Forests (OP/BP 4.36), Physical Cultural Resources (OP/BP
+   4.11) and Involuntary Resettlement (OP/BP 4.12) safeguard policies.
+
+   Environmental Assessment (OP/BP 4.01): At appraisal, the project was classified as Category B because
+   of minimal site-specific, temporary, and reversible environmental impacts of the civil works related to the
+   construction of the transmission line and related substations. The project prepared an Environmental and
+   Social Impact Assessment (ESIA) at appraisal and disclosed it in the project countries and on the World
+   Bank’s InfoShop. An Environmental and Social Management Plan was prepared following the finalization of
+   the transmission line design and disclosed in the project countries and the World Bank’s InfoShop. Two
+   environmental specialists of the owner’s engineer hired under the project supervised the implementation of
+   environmental safeguard policy and produced monthly reports. The project closed without any accident at
+   project sites that would have required the work stoppage (ICR, p.30).
+
+   Forests (OP/BP 4.36). The project triggered this safeguard policy because the transmission line was
+   expected to pass through four protected forest areas in Senegal near Tambacounda—the Goudiry
+   Protected Forest, the Bala East, the Bala West, and the Botou Protected Forests. It was estimated that 200
+   ha of forests would be lost because of the construction of the transmission line. After the finalization of right-
+   of-way of the transmission line, the civil works also affected the Paparah Forest in Mali. Under three
+   programs, the project reforested a total of 1,000 ha of area in four forests in Senegal and one forest in Mali.
+   Additionally, the project constructed or rehabilitated a total of 500 km of firebreaks in these five forests. The
+   forestation programs consisted of enrichment planting, conservation planting, assisted artificial
+   regeneration, and village groves and orchards (ICR, p.30).
+
+   Natural Habitats (OP/BP 4.04). The project triggered this safeguard policy because there were noncritical
+   natural habitats in the forests through which the transmission line was to pass. By reforesting the damaged
+   areas because of the construction of the transmission line, the project was to achieve zero net biodiversity
+   loss. As explained in the paragraph above, the project reforested a total of 1,000 ha of area in Senegal and
+   Mali. The project did not have any impact on critical natural habitats, and noncritical natural habitats
+   damaged by the project had been restored by project closing.
+
+   Physical Cultural Resources (OP/BP 4.11): At appraisal, there was no known archaeological or sacred
+   sites in the project areas, but the project triggered this safeguard policy to prevent any accidental loss or
+   damage to cultural sites that could be found by chance during construction. A Physical Cultural Resources
+   (PCR) report was prepared to identify the archaeological and cultural sites along the right-of-way of the
+   transmission line. Based on the findings of the report, the right-of-way of the transmission line was rerouted
+   to avoid cultural heritage sites.
+
+   Involuntary Resettlement (OP/BP 4.12): The project triggered this safeguard policy because land
+   acquisition was required for the right-of-way of the transmission line. As the exact locations of the towers
+
+
+                                                                                                      Page 18 of 23
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+  and the alignment of the transmission line were not known at appraisal, the project prepared a Resettlement
+  Policy Framework (RPF) and disclosed it in the project countries and on the World Bank’s InfoShop. The
+  project was to prepare a detailed Resettlement Action Plan (RAP) for each of Senegal and Mali following
+  the hiring of a consultant during project implementation, which was significantly delayed because of
+  insufficient procurement capacity at the PIU. The project could only finalize the RAPs in about two years
+  after project approval. This delayed the construction of the transmission line. Once the RAPs were finalized,
+  the project appropriately processed the compensation payments to project-affected people (PAPs)
+  according to the schedule. By project closing, the project had completed the compensation payments to 575
+  PAPs. SOGEM deposited the compensation payments of three untraceable PAPs to an escrow account.
+
+
+
+  While there were significant delays in the implementation of the Involuntary Resettlement safeguard policy,
+  it improved following the finalization of the RAPs for Senegal and Mali, and the overall implementation of all
+  five safeguard policies was in compliance with the World Bank safeguard requirements at project closing.
+
+
+
+
+b. Fiduciary Compliance
+  Financial Management
+
+  At appraisal, SOGEM’s financial management arrangements were assessed to satisfy the minimum
+  requirements of the World Bank’s financial management guidelines. The project provided support to
+  SOGEM in financial management. SOGEM submitted the project’s interim financial reports according to
+  schedule but with occasional delays. The opinions in the external audit reports were unqualified. Internal
+  audit arrangements were in place, but the submission of internal audit reports was often delayed. There
+  were no issues reported related to the counterpart funding. There were also no known issues of corruption
+  or misuse of funds associated with the project. A credit amount around US$6.5 million was cancelled at the
+  third restructuring. At project evaluation, all project funds were accounted for.
+
+  Procurement
+
+  Procurement faced significant delays at the start of project implementation because of insufficient capacity
+  at the project implementation unit (PIU) under SOGEM, which lasted through to project closing. The World
+  Bank project team extensively supervised the procurement process and provided training to the SOGEM
+  staff in charge of procurement, and the Procurement Unit coordinator at the OMVS headquarters regularly
+  supported the PIU in procurement, but some project activities could not be completed before project
+  closing because of persistent delays in procurement, such as the commission of the 20 MVA transformers
+  on the Kayes-Dagana transmission line. The delay in the preparation of the Resettlement Action Plan also
+  adversely affected the procurement process and contract management.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+  None.
+
+
+                                                                                                  Page 19 of 23
+     Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+     3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+
+d. Other
+   None.
+
+
+
+11. Ratings
+                                                                              Reason for
+Ratings                        ICR                   IEG
+                                                                              Disagreements/Comment
+                                                                              The project’s efficacy in
+                                                                              achieving the project objective
+                                                                              was substantial. Although the
+                                                                              cost-benefit analyses based on
+                                                                              estimates resulted in high
+                                                                              economic internal rate of return,
+                                                                              there were significant
+                                                                              shortcomings in the
+                                                                              administrative and operational
+Outcome                        Satisfactory         Moderately Satisfactory   efficiency of the project because
+                                                                              of delays in forming the PIU and
+                                                                              the preparation of the RAP, and
+                                                                              the PIU’s insufficient
+                                                                              procurement capacity. Therfore,
+                                                                              the efficiency of the project in
+                                                                              achieving the project objective is
+                                                                              also rated Modest. Overall, the
+                                                                              outcome rating is Moderately
+                                                                              Satisfactory.
+                                                                              There were moderate
+                                                                              shortcomings in project’s
+                                                                              preparedness, identification of
+                                                                              measure to mitigate risks (i.e.,
+                                                                              procurement), and the M&E
+                                                                              design at entry.There were also
+                                                                              moderate shortcomings in the
+Bank Performance               Satisfactory         Moderately Satisfactory
+                                                                              proactive resolution of threats to
+                                                                              project implementation and
+                                                                              delivery of project outputs that
+                                                                              resulted in uncomplete project
+                                                                              activities. Therefore, the Bank
+                                                                              Performance is rated Moderately
+                                                                              Satisfactory.
+                                                                              There were significant
+                                                                              shortcomings in the design and
+Quality of M&E                 Substantial          Modest
+                                                                              implementation of the M&E
+                                                                              system making it difficult to
+
+                                                                                                Page 20 of 23
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+                                                                                assess the achievement of the
+                                                                                stated objectives, test the links
+                                                                                in the results chain, and
+                                                                                establish attribution between the
+                                                                                project’s intervention and the
+                                                                                outcomes achieved.
+Quality of ICR                 ---                   Modest
+
+
+12. Lessons
+
+This review has drawn three lessons based on the information in the ICR.
+
+The construction of transboundary electricity transmission lines under one contract and
+hiring of a single owner’s engineer for the project can be critical in the successful completion
+of the infrastructure investment. This project procured one contract for the construction of the
+high voltage transmission line between Kayes (Mali) and Tambacounda (Senegal). This was critical
+in preventing any construction delays that could have occurred if the construction of the transmission
+line had been contracted under two contracts, one for the Mali portion and the other for the Senegal
+portion. Similarly, one owner’s engineer designing the project and supervising the civil works was
+also critical in avoiding any implementation delays because coordination issues. In this project,
+SOGEM being the single project implementation entity facilitated the procurement and management
+of one contract and working with the owner’s engineer. However, other similar transboundary
+electricity transmission projects implemented by two national utilities with one contract for the
+construction of the transmission lines also proved to be a more efficient method compared to two
+separate contracts, such as the Bolgatanga (Ghana)-Zagtouli (Burkina Faso) transmission line
+implemented by two national power utilities under one contract with one owner’s engineer.
+
+Lack of procurement capacity of the PIU and insufficient preparedness for the
+implementation of the safeguards policies can adversely affect the project implementation
+and decrease the project’s efficiency in achieving the project objectives. At appraisal, the
+project could not complete a Resettlement Action Plan (RAP) because the exact route of the
+transmission line had not been decided. The RAP was to be prepared along with the design of the
+transmission line. The PIU had insufficient procurement capacity, which resulted in significant delays
+in the hiring of the owner’s engineer (responsible for the design of the transmission line) and the
+consultants for the preparation of the RAP. It took about two years for the PIU to finalize the RAP
+after which the civil works could start on the transmission line right-of-way where land acquisition
+was required. The Kayes-Tambacounda transmission line was fully commissioned on December 9,
+2022, only a couple of weeks before project closing. Despite the project team’s close supervision of
+the procurement activities, the insufficient procurement capacity of the PIU continued through to
+project closing. As a result, some project outputs could not be completed before project closing such
+as the commissioning of the two 20 MVA transformers on the Kayes-Dagana transmission line.
+
+Weaknesses in the results framework can make it difficult to test the links in the results chain
+and establish attribution between the project’s intervention and the outcomes achieved. The
+project was designed on a simple and straightforward theory of change where the causal links from
+the project activities and outputs to outcomes were direct and valid, and the achievement of the
+outcomes could be attributed to the project. However, the monitoring and evaluation (M&E) design
+
+                                                                                                  Page 21 of 23
+       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+       3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+had significant shortcomings in adequately capturing the project outcomes and establishing
+attribution between the project’s intervention and the outcomes achieved. The indicators measured
+the increase in the amount of electricity transmitted from Mali to Senegal and Mali at the system
+level. The results framework did not include indicators that would provide evidence for what has
+occurred as a result of the project’s intervention—attribution. The project’s results framework was
+not sufficient to provide evidence of the achievement of the project outcomes that could be attributed
+to the project.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provides a comprehensive overview of the project. The narrative is candid but loosely supports the
+ratings; there are significant gaps in evidence (stemming from the shortcomings in the M&E design) that is
+insufficient to confirm the achievement of the project objectives and establish attribution with the project’s
+intervention. It does not provide a sufficient discussion of how activities informed outcomes that could be linked
+to the impact of the project’s intervention. The report broadly follows and responds to the Bank guidance in
+performance narrative. The information provided in Annex 1. Results Framework and Key Outputs and Annex
+2. Key Outputs is detailed and useful to understand what outputs were achieved as a result of the project and
+which ones are still pending. However, some sections of the report could have benefited from a more evaluative
+and detailed discussion in accordance with the Bank guidance such as the Key Factors That Affected
+Implementation and Outcome, the Bank Performance, and the Quality of M&E sections. The narrative is
+internally consistent but mostly descriptive rather than evaluative. The entries in the Lessons and
+Recommendations section respond to the specific experiences of the project, but they are in the form of
+findings rather than lessons.
+
+Overall, the quality of the ICR is rated Modest.
+
+
+
+  a. Quality of ICR Rating
+       Modest
+
+
+
+
+                                                                                                    Page 22 of 23
+Independent Evaluation Group (IEG)                   Implementation Completion Report (ICR) Review
+3A-OMVS - Transmission Expansion Project (P147921)
+
+
+
+
+                                                                                  Page 23 of 23
+

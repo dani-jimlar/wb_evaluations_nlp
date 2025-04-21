@@ -1,0 +1,818 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     JUDICIAL REFORM SUPPORT (P089733)
+
+
+
+                                                                                Report Number : ICRR0021386
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P089733                                   JUDICIAL REFORM SUPPORT
+
+ Country                                   Practice Area(Lead)
+ Russian Federation                        Governance
+
+
+ L/C/TF Number(s)                          Closing Date (Original)                 Total Project Cost (USD)
+ IBRD-48490,TF-90655                       30-Mar-2012                                         51,798,445.49
+
+ Bank Approval Date                        Closing Date (Actual)
+ 15-Feb-2007                               31-Dec-2017
+
+                                           IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                           50,000,000.00                                    1,896,800.00
+
+ Revised Commitment                            51,895,592.01                                    1,895,592.01
+
+ Actual                                        51,798,445.49                                    1,895,592.01
+
+
+
+
+ Prepared by                Reviewed by                  ICR Review Coordinator         Group
+ Judyth L. Twigg            Robert Mark Lacey            Malathi S. Jayawickrama        IEGEC (Unit 1)
+
+
+
+
+2. Project Objectives and Components
+
+a. Objectives
+
+   According to the Loan Agreement (p. 5), the project's objective was to "assist the Borrower to strengthen
+   judicial transparency and efficiency of selected courts through the implementation of information systems and
+   judicial training."
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+
+                                                                                                  Page 1 of 16
+     Independent Evaluation Group (IEG)                                          Implementation Completion Report (ICR) Review
+     JUDICIAL REFORM SUPPORT (P089733)
+
+
+
+  No
+
+                                                           PHEVALUNDERTAKENLBL
+
+
+
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+
+   The project contained four components:
+
+   1. Institutionalizing transparency and accountability (appraisal: US$ 7.15 million; actual US$ 4.78
+   million). This component was to finance: (a) periodic surveys of users of judicial services on access to,
+   quality of, and satisfaction with, judicial services and enforcement of judicial decisions, and pubic
+   dissemination of the survey results; (b) research and analysis on further development of transparency,
+   publication, openness, and accessibility of judicial decisions, processes, and practices, including obligatory
+   publication of judicial decisions; and analysis on the introduction of modern information and communication
+   technologies in judicial systems and on the further integration of the judicial system; (c) the creation,
+   implementation, and dissemination of common case management standards, guidelines, and processes;
+   (d) the development and piloting of criteria, indicators, and a policy to assess and periodically report on the
+   effectiveness of the judicial system, and related capacity building; and a needs assessment for human
+   capital development in the judiciary to inform policy and strategy updates; and (e) development and
+   implementation of communications and change management strategies to promote judicial reform.
+
+   2. Harnessing information and communication technology (ICT) for judicial transparency and effectiveness
+   (appraisal, US$ 146.1 million; actual US$ 168.76 million). This component was to improve judicial
+   transparency through the public and public dissemination of judicial decisions at every level in the three
+   branches of the judiciary; and improve judicial effectiveness through the implementation of shared (or
+   standardized) ICT solutions for such key activities as case flow management, document flow management,
+   facilitating access to justice in remote locations, and judicial electronic archiving. The component was to
+   finance activities for the Constitutional Court (CC); the Supreme Court (SC) and Courts of General
+   Jurisdiction (CGJ), all of which were under the oversight of the Judicial Department (JD); and the Supreme
+   Arbitration Court (SAC, which oversaw commercial courts, abolished in 2014 with functions transferred to a
+   newly-created Commercial Division in the SC), to: (i) modernize, develop, and deploy integrated
+   information systems for courts to facilitate document flow, record management, information collection, and
+   internal knowledge sharing; (ii) improve public access to and availability of judicial information through
+   enabling the online publication of judicial decisions and other relevant information; and (iii) more effectively
+   link courts, JD offices, and relevant entities/facilities through integrated information systems by enhancing
+   mobile capabilities of access to electronic information and video conferencing.
+
+   3. Strengthening human capital (appraisal: US$ 10.1 million; actual US$ 7.09 million). This component
+   was to finance information technology-related education and training for judges and court personnel for the
+   CC, CGJ, SAC, and JD; and knowledge exchange, including seminars, workshops, etc., for the
+   judiciary. The training was to supplement a much larger outlay for judicial education and training
+   envisaged under the government's National Project for Education and the state budget.
+
+
+                                                                                                               Page 2 of 16
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    JUDICIAL REFORM SUPPORT (P089733)
+
+
+
+
+  4. Project management and monitoring and evaluation (M&E) (appraisal, US$ 9.06 million; actual US$ 8.13
+  million). This component was to finance logistical and secretarial support for the Inter-Agency Coordination
+  Council (IACC) and operating costs of the Bureau of Economic Analysis (BEA), which was responsible for
+  project implementation; expert ICT support for the judiciary; and implementation of the project's results
+  framework and M&E indicators.
+
+  At a 2014 restructuring, the second component was revised to remove the JD and 900 CGJs as
+  beneficiaries and to add instead the Moscow City Courts (MCC) and the Court of Intellectual Rights
+  (CIR). This substitution followed from the difficulty that the CGJs were scattered across Russia's vast
+  territory and mostly comprised small courts with three or fewer judges. Their total caseload represented
+  less than 10% of the country's total caseload volume. From a supervision perspective, it was challenging
+  to verify implementation across so many locations with a limited budget; in addition, the ICR made it clear
+  (p. 40) that the ICT procurement for the CGJs was not proceeding smoothly. The MCC, on the other hand,
+  was Russia's largest regional court system, annually handling more than twice the CGJ's caseload. The
+  ICR (p. 18) argued that the shift of implementation focus from the CGJs to the MCC enhanced the project's
+  impact and efficiency.
+
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+
+  Project cost: Project cost at appraisal was US$ 172.41 million. Actual costs were US$ 188.76 million
+  (ICR, p. 62).
+
+  Financing: The project was initially to be financed by a US$ 50 million Specific Investment Loan from the
+  International Bank for Reconstruction and Development. US$ 49.9 million was disbursed by project
+  closing.
+
+  Borrower contribution: The government contributed US$ 138.86 million of a planned US$ 122.41 million,
+  having added almost US$ 19 million in 2017. The project team explained that the Russian government
+  frequently contributed additional funds in projects it perceived as proceeding effectively, and that this far
+  into implementation, IT systems required further investment in modernization.
+
+  Dates: The project was approved on February 15, 2007 and became effective on November 15, 2007. It
+  was restructured seven times.
+
+    • In September 2010, at the time of the mid-term review, the project was restructured to align the
+    wording of the objectives in the Project Appraisal Document (PAD) and the Loan Agreement (this
+    alignment was undertaken at this time for all projects in the Bank's Russia portfolio).
+    • In March and May of 2012, the project underwent a two-part restructuring. In the first part, the closing
+    date was extended from March 30, 2012 to March 30, 2014 to allow time for preparation of the second
+    part. In the second part, some indicators and baselines were revised; activities were added or deleted
+
+                                                                                                     Page 3 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     JUDICIAL REFORM SUPPORT (P089733)
+
+
+
+     to conform with evolving judicial reorganization and modernization priorities and to address
+     implementation challenges; and the Foundation for Enterprise Restructuring (FER) was designated as
+     the new project implementation unit after the BEA ceased functioning.
+     • In March and September of 2014, the project again underwent a two-part restructuring. The first part
+     extended the closing date to allow time for the second part -- which involved ICT modernization of 900
+     CGJs being replaced by similar activities in the Moscow City Courts (MCC) in order to cover institutions
+     with higher and more geographically concentrated caseload volume (see Section 2d) -- to be prepared.
+     • The closing date was again extended two more times, in October of 2016 and May of 2017. The
+     project closed on December 31, 2017, over ten years after approval. The cumulative delay of five years
+     and nine months amounted to 113 percent of the original schedule.
+
+
+
+
+3. Relevance of Objectives
+
+  Rationale
+
+
+  At appraisal, annual case loads across all courts were growing rapidly. Information technology, however,
+  was underused, court staff were underpaid, court premises were wholly unsatisfactory, and access to
+  proceedings was severely limited. After Russia joined the Council of Europe, thousands of Russian citizens
+  appealed to the European Court of Human Rights (ECHR) concerning the lack of competence, integrity,
+  and transparency in the judicial system -- a set of shortcomings openly acknowledged by the
+  government. In 2005, only 20% of Russian firms thought that Russian courts were "honest and
+  uncorrupted." Reform focus prior to the project had concentrated on legal modernization rather than
+  capacity development and mindset change. The Government's approach at appraisal therefore called for a
+  three-pronged strategy, supported by two successive Federal Targeted Programs (2002-2006 and 2007-
+  2011) encompassing harnessing the power of information technology to improve the quality and
+  accessibility of information (to strengthen transparency and efficiency and reduce opportunities for
+  corruption), raising judicial competence and independence through education and training, and institutional
+  development.
+
+  The project was relevant to the World Bank Group's Country Partnership Strategy at appraisal (FY 2007-
+  2009), which contained priorities for strengthening public sector governance and service delivery, as well as
+  strengthening the business environment. There was no Country Partnership Strategy in effect at project
+  closing. The objectives remained relevant to the government's 2016 anti-crisis plan, which included
+  initiatives to strengthen judicial processes, as well as a May 2018 Presidential Decree on introduction of
+  digital technology and platform solutions. The objectives supplemented the federal targeted program for
+  development of Russia's judicial system for 2013-2020, which focused on judicial independence; the
+  Ministry of Finance specifically commented (ICR, pp 79-80) that the project's objectives were intended to
+  complement these other government efforts. The World Economic Forum's 2015 Global Networked
+  Readiness Index identified inefficiency in the judicial system as an ongoing challenge. The Bank's 2017
+  Systematic Country Diagnostic for Russia, which reviewed justice system achievements and constraints,
+
+                                                                                                   Page 4 of 16
+            Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+            JUDICIAL REFORM SUPPORT (P089733)
+
+
+
+       acknowledged the country's progress in improving judicial efficiency and transparency. It made the case
+       (pp. 140-141) that these objectives were relevant as foundational building blocks toward the remaining (and
+       even more challenging) goal of accountability and ridding courts of susceptibility to executive influence.
+
+
+
+       Rating
+       Substantial
+
+   4. Achievement of Objectives (Efficacy)
+
+PHEFFICACYTBL
+
+
+    Objective 1
+    Objective
+
+     Strengthen judicial transparency of selected courts
+
+    Rationale
+
+    The project's theory of change held that the implementation of information systems and related judicial
+    training would help transform the judiciary into an institution that is more transparent and
+    efficient. Transparency was to be strengthened through drafting of a law to mandate publication of all
+    judicial decisions; location of information screens and kiosks in courts to enable citizens, litigants, and
+    lawyers to access their cases and to obtain information about court functioning in general; and inclusion of
+    transparency enhancing elements such a reporting on complaints received and resolved in ICT systems.
+
+    The PAD (pp. 22-25) presented a lengthy list of other Bank projects and other donors active in Russia's
+    judicial sector. Given this context, it should be noted that the ICR did not discuss issues of attribution of
+    observed results to the interventions financed specifically by this project. The project team later explained
+    that other partners, primarily the European Union and United States Agency for International Development,
+    were primarily involved in training that was not financed by this Bank project, and that these donors had
+    largely withdrawn from the country by 2011-2012. The Bank's emphasis on modernization of IT systems,
+    leveraging a relatively small investment in a sector where the government was spending about a billion
+    dollars annually, was intended to promote transparency of judicial decisions and support stakeholders within
+    Russia's judicial system who were pursuing transparency goals.
+
+    Outputs:
+
+    The project provided examples of, and experts in, international good practice on transparency law. Federal
+    Law 262 was passed in 2010, mandating publication of judicial decisions.
+
+    The project supported modernization of the SC, CC, and CIR integrated systems for document storage
+    and flow management, as well as development of electronic banks of court decisions, e-libraries, and
+    internet portals. The SAC and commercial courts were provided with modern, secure corporate e-mail
+
+                                                                                                       Page 5 of 16
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    JUDICIAL REFORM SUPPORT (P089733)
+
+
+
+systems. Decisions and data files of the SC were retrospectively converted into electronic format. A publicly
+accessible web portal for the commercial court system was designed and implemented. A functional and
+secure data processing center serving the MCC was completed in 2016. The MCC integrated information
+system now allows citizens and businesses to lodge complaints wit the court by electronic means and
+remotely track the status of the complaint.
+
+All of the SC, CC, commercial courts, and MCC, and half of all penitentiaries, were provided with functioning
+videoconference facilities enabling remote participation in court proceedings by the end of the project period,
+and the audio and video recordings were stored and made available for later review by judges, staff,
+lawyers, and the public. Similarly, all courts covered by the project were provided with new information
+kiosks giving electronic access to judicial decisions, available to all users. The project supported the
+implementation of a modern system of taxonomy and classification of CC decisions to make them more
+easily searchable and accessible by judges, researchers, lawyers, and the public.
+
+7,703 judges and judicial staff of commercial courts, the MCC, arbitrazh courts, CGJ, the JD, and the SC
+were trained on ICT systems under the project, exceeding the original target of 4,000 and the revised target
+of 4,300. Knowledge exchange visits were made to Germany, Austria, Australia, Singapore, and South
+Korea. Modern equipment was procured for 720 judicial workspaces. The project reached 39,760
+beneficiaries, of whom 66.75% were female, exceeding the target of 32,000 beneficiaries (40%
+female). Direct project beneficiaries included the judges and judicial staff of the SC, CC, SAC, commercial
+courts, MCC, and CIR.
+
+A study was conducted on interaction between the courts and the mass media. Its recommendations led to
+joint trainings for court spokespersons and members of the media, as well as the development of a
+communications strategy.
+
+A study, emerging from a joint request from the CC and the SC, analyzed the high and increasing numbers
+of Russian judicial decisions being appealed to the ECHR and the non-implementation of many ECHR
+decisions. As a result, the courts pinpointed issues that could be addressed by the Russian authorities. The
+ICR did not state whether any concrete outcomes resulted from this activity.
+
+Outcomes:
+
+The percentage of individuals believing that an ordinary Russian citizen could have their case considered
+fairly and without prejudice increased from 46% in 2006 to 64% in 2010, 73% in 2012, and 76% in
+2017. The change from 2006 to 2017 represents a 65% increase, approaching the target of a 75%
+increase. These survey results were published by the Levada Center, a respected independent polling
+agency, and the last two rounds were also published by the MCC on its website. The percentage reporting
+that the public standing of courts in the community was very high or rather high increased from 41% in 2011
+to 54% in 2017, and the percentage reporting that the courts' public standing was very low or rather low
+decreased from 49% in 2011 to 37% in 2017. The percentage of businesses feeling that their property rights
+were not protected decreased from 54% in 2010 to 44% in 2017. It should be noted, however, that these
+
+
+                                                                                                    Page 6 of 16
+            Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+            JUDICIAL REFORM SUPPORT (P089733)
+
+
+
+    indicators centered around general perceptions of fairness, public standing, and effectiveness, rather than
+    around either of the specific project objectives of transparency and efficiency.
+
+    Survey results were positive specifically for transparency (information availability) in the commercial
+    courts. 63% of entrepreneurs responded in 2017 that they used the database of commercial court decisions,
+    and 24% used templates of court documents. 47% of entrepreneurs in 2017 reported that it was not difficult,
+    and 27% that it was rather easy, to get information on commercial court jurisprudence. 71% were satisfied
+    with the amount of information on commercial court websites, 66% were satisfied with the search features,
+    and 64% were satisfied with the regularity and timeliness of information updates. The percentage of
+    entrepreneurs indicating that commercial court web sites were important sources of information increased
+    from 32% in 2010 to 49% in 2017.
+
+    However, some Levada Center surveys showed only small improvement across several direct
+    measurements of transparency perceived by the general public in relation to the judicial system as a
+    whole. Respondents stating that court proceedings are not sufficiently transparent for interested persons
+    and relatives fell slightly from 31% in 2010 to 28% in 2017; those saying that proceedings are not sufficiently
+    transparent for the mass media also declined by a small amount, from 41% in 2010 to 38% in 2017; and
+    those saying proceedings are not sufficiently transparent for the public fell only from 48% in 2010 to 45% in
+    2017. The percentage of respondents stating that information on court activities was fully accessible to
+    citizens and the public at large remained low, at 3% in 2010 and 4% in 2017; those indicating that
+    information was mostly accessible remained stable at 20% in 2010 and 2017; and those stating that
+    information was limited fell only from 51% in 2010 to 44% in 2017.
+
+    MCC surveys found that satisfaction with functioning of all MCC information systems increased by 10-20
+    percentage points between 2014 and 2017. The number of cases challenging the minutes of court sessions
+    was reduced by over 35% between 2014 and 2017, and the number of complaints from litigation participants
+    on abuses of rights during court proceedings decreased by over 31% (not quite reaching the target of a 40%
+    reduction). The ICR (p. 46) attributed the shortfall in reaching the target to delays in making the normative
+    laws applicable and in completing interagency linkages with the MCC system.
+
+    Based on survey results covering perceptions of transparency among actual users of the commercial courts
+    and MCC, achievement of this objective is rated Substantial, though it should be noted that the project's
+    impact on judicial transparency appears not yet to have become apparent to the general public. It should
+    also be noted that the ICR did not provide information on the level or quality of use of many of the upgraded
+    facilities.
+
+
+
+    Rating
+   Substantial
+  PHREVDELTBL
+
+PHEFFICACYTBL
+
+
+
+
+                                                                                                        Page 7 of 16
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    JUDICIAL REFORM SUPPORT (P089733)
+
+
+
+
+Objective 2
+Objective
+
+Strengthen judicial efficiency of selected courts
+
+Rationale
+
+Judicial efficiency was to be strengthened through streamlining of business processes and automation
+through ICT systems in the courts at all levels.
+
+Outputs are the same as under Objective 1, as the ICT systems that automated business processes and
+digitized information on cases and court functioning also enhanced judicial efficiency.
+
+Outcomes:
+
+The percentage of survey respondents among the general public saying that red tape, delays, and/or lack of
+productivity were "acute" issues in judges' work fell from 29% in 2010 to 20% in 2017. The percentage
+criticizing the judicial system for unnecessary bureaucracy and poor management decreased from 22% in
+2012 to 17% in 2017.
+
+The percentage of decisions in MCC civil cases that were actually enforced increased from 24% in 2014 to
+38% in 2017 and 39% in February of 2018, almost reaching the target of 40%. The ICR (p. 23) explained
+that MCC decisions in civil cases had to be enforced by public bailiffs in order for the successful party to
+obtain the benefit of the court decision, and that the new MCC ICT system, which was linked to the bailiff ICT
+system, made it more difficult for bailiffs to delay or avoid enforcement. According to the ICR (p. 44),
+achievement could have been higher absent implementation challenges related to the interface with
+the bailiff ICT system. Attribution of observed results to the project is not clear, however, as the project did
+not support the work of federal bailiffs. The extent to which the transparency of the MCC ICT system
+provided incentives for bailiffs to increase enforcement of decisions is not known.
+
+The number of days taken by MCC to respond to citizen applications decreased from 30 days in 2014 to 16
+days in 2017, far exceeding the target of 24 days.
+
+The amount of time taken by MCC to forward criminal and civil cases to courts of appeal decreased from two
+months in 2014 to 1.5 months in 2017, meeting the target.
+
+Specific information on response time was not provided for courts other than the MCC. In addition, the PAD
+(Annex 1) prominently discussed a range of other possible indicators of efficiency such as case clearance
+rate, case backlog, frequency and duration of cases from filing to disposition, and percent of cases that are
+appealed. These indicators were not part of the results framework (see Section 9a).
+
+
+
+
+                                                                                                    Page 8 of 16
+                  Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+                  JUDICIAL REFORM SUPPORT (P089733)
+
+
+
+             Achievement of this objective is rated Modest. Achievements were significant with regard to the MCC and
+             overall public perception, but outcome data were not reported on the other court systems supported by the
+             project and on other indicators of efficiency.
+
+
+
+             Rating
+      Modest
+     PHREVDELTBL
+
+
+PHOVRLEFFRATTBL
+
+
+
+
+Rationale
+
+Overall efficacy is rated Substantial, though barely so given the shortcomings noted under each specific objective.
+
+
+
+
+Overall Efficacy Rating
+Substantial
+
+     5. Efficiency
+
+
+            The PAD (pp. 12, 61) did not conduct a formal economic analysis. It stated that "it is difficult to quantify the
+            economic benefits of the anticipated improvements," but that "a review of the current impact of the inefficient
+            functioning of the system on the costs of doing business suggests that costs associated with a poorly
+            functioning judiciary are significant." No details of that review were provided. The PAD postulated that
+            improved delivery of judicial services would help lower business costs by accelerating and reducing the cost
+            of litigation, maintaining a level playing field for all businesses, and accelerating resolution of disputes, all of
+            which would help spur investment and promote economic growth.
+
+            The ICR's economic analysis (pp. 63-78) found a Net Present Value of US$ 121.8 million equivalent (using
+            the end-2017 exchange rate) and an economic internal rate of return of 63%. The Comprehensive Economic
+            Effect (summing direct and indirect projected economic impacts) through 2022 was estimated at US$ 665.9
+            million equivalent, a result that held under a sensitivity analysis that varied assumptions by plus or minus
+            10%. Conceptually, benefits included savings on staff time of judges and other court officials; lowered
+            transaction costs between courts, other government institutions, and users of courts such as citizens and
+            businesses; and reduced costs of processing information and providing information to citizens, businesses,
+            and government agencies. However, it should be noted that the actual calculation of the economic impact of
+            judicial reforms was based on an extended series of assumptions regarding the validity of the Bank's Doing
+            Business indicators as measures of economic impact; the relative impact of those indicators and their
+            relationship to the judicial reforms supported by the project; the correlation between those indicators and
+            internal lending interest rates; and the value of labor cost savings. Although the ICR is to be commended for
+
+
+                                                                                                                     Page 9 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     JUDICIAL REFORM SUPPORT (P089733)
+
+
+
+making both the methodology and the assumptions underlying it explicit, the findings should be recognized as
+estimates only, with the results highly subject to change under equally reasonable alternative assumptions
+and approaches.
+
+The ICR (pp. 36, 39) referred to some factors that hindered implementation efficiency, including performance
+and governance issues at the BEA between 2008 and 2010, procurement challenges for the CGJ ICT
+systems over the same period, and slowdowns prior to national elections in 2012 and due to the abolition of
+the SAC. Positive markers of project efficiency (cost-effective use of project resources, compared to
+alternatives) included the decision to remove the JD and CGJ from the project and to focus instead on the
+higher-impact MCC system, and the replacement of the BEA with the FER as the implementing agency,
+which was reported to have accelerated procurement and implementation (ICR, p. 30). The government
+allocated budgetary resources for ICT modernization of small CGJs in 2014, further supporting the Bank's
+decision to focus on MCCs (for which no government funds had been allocated for ICT modernization), an
+efficient decision from a targeting perspective. Furthermore, MCCs' implementation of an integrated ICT
+system was described as an "example of global good practice in design and implementation of complex ICT
+systems," with a two-stage bidding process taking only seven months (ICR, p. 30). Nonetheless, there were
+extensions amounting to over five years, while the initial implementation schedule was just over five years.
+
+Project efficiency is rated Modest, given the questionable assumptions underpinning the economic analysis
+and the lack of activity during 2007-2011 due to the performance, governance, and procurement challenges
+noted in the previous paragraph.
+
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                   Rate
+                                                        Point value (%)           *Coverage/Scope (%)
+                                   Available?
+                                                                                  0
+Appraisal                                               0
+                                                                                  Not Applicable
+                                                                                  100.00
+ICR Estimate                                           63.00
+                                                                                  Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+
+6. Outcome
+
+
+
+
+                                                                                                 Page 10 of 16
+        Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+        JUDICIAL REFORM SUPPORT (P089733)
+
+
+
+The objectives were substantially relevant to country conditions, government strategy, and Bank
+strategy. Achievement of the transparency objective is rated substantial, based on survey results covering
+perceptions of transparency among actual users of the commercial courts and MCC. Achievement of the
+efficiency objectives is rated modest, due to lack of information about efficiency in project-supported court
+systems other than the MCC, and to the absence of most commonly used indicators of judicial
+efficiency. Efficiency is rated modest based on questions about the assumptions and methodology used for the
+economic analysis, and on extensive delays across the first four years of project implementation. Taken
+together, these ratings indicate moderate shortcomings in the project's preparation and implementation, leading
+to an Outcome rating of Moderately Satisfactory.
+
+
+a.    Outcome Rating
+      Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+
+The SC, commercial courts, and MCC benefited from enhanced institutional capacity to design, tender,
+contract, and implement sophisticated ICT systems. That capacity is likely to be sustained. During 2016-2017,
+the SC and MCC designed a US$ 460 million follow-on judicial modernization project with the New
+Development Bank (formerly the BRICS Development Bank), approved on August 31, 2017. This follow-on
+project focuses on modernization of the MCC bailiff ICT system, a crucial next step toward judicial system
+efficiency (see Section 4). ICT systems in the CC and SC are being further modernized with their own
+budgets. A May 2018 Presidential Decree prioritizes progressive digitalization of all state functions and
+services, including the courts.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+
+     The project's objectives were clearly and succinctly stated, supported by a well articulated theory of
+     change. Project design was predicated on a series of assumptions that proved valid: that the courts had
+     the capacity to design and implement technically and institutionally challenging ICT-based reforms; that the
+     BEA had adequate implementation capacity; and that the courts would collaborate effectively with the
+     Bank. Lessons learned from the implementation of similar projects in other countries and in Russia
+     included the complexity and risk of judicial reform (and therefore the need to build solid political consensus
+     with strong champions), the importance of clearly defined results indicators for the project as a whole and
+     for each component, the imperative of integration and interoperability of information systems, and the
+     critical role of transparent and competitive procurement. The project was recognized as high-risk, high-
+     reward (PAD, p. 9), with the following risks rated High: political risk arising from the complex interplay and
+
+                                                                                                       Page 11 of 16
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     JUDICIAL REFORM SUPPORT (P089733)
+
+
+
+  sometimes conflicting agendas of major actors; reputation risk around the Bank's ability to influence the
+  overall modernization agenda; the differing priorities of multiple agencies involved; a lack of effective
+  cooperation and communication among major entities involved in the project; and weak implementation
+  capacity in beneficiary institutions. Proposed mitigation measures included consultative design, clear
+  communications, explicit and transparent inter-agency agreements, appropriate stakeholder representation
+  in the IACC, and clarity on the activities to be financed and implementation arrangements.
+
+  The IACC, including representatives of all participating courts and the Ministry of Finance, was created to
+  undertake high-level strategic project oversight and management. The BEA, a non-commercial foundation,
+  was selected as the implementation unit. Although it was common practice at the time in the Region to
+  avoid the use of stand-alone implementation entities in order to ensure ownership and accountability and to
+  facilitate long-term capacity building, the BEA had accumulated over a decade of knowledge and
+  experience in Bank procedures and processes. However, the BEA's ability to manage the procurement of
+  a large ICT package for the JD/CGJs was overestimated; the failure to identify and mitigate this risk led to
+  slowdowns and an eventual need to restructure the project. There were also weaknesses in M&E design
+  (see Section 9a).
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+b. Quality of supervision
+
+  The Bank team was stable and had strong technical, operational, and fiduciary strengths. When the BEA
+  proved unable to engage on issues of substance with courts' technical working groups, obtain results
+  information from courts, or help courts prepare satisfactory terms of reference and technical specifications,
+  the Bank team stepped in to play these roles. The Borrower's ICR (p. 143) specifically noted the Bank's
+  flexibility in project management and the team's consideration of specific elements of national legislation
+  that impacted the project. Candor in reporting on early challenges facilitated proactive restructurings,
+  though the BEA's focus on process rather than outcomes during the project's first four years (see Section
+  9b) limited available information on development outcomes.
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+
+
+                                                                                                   Page 12 of 16
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     JUDICIAL REFORM SUPPORT (P089733)
+
+
+
+  The IACC and Ministry of Economic Development and Trade were responsible for overall project monitoring,
+  with the BEA to consolidate information provided by various counterparts in order to track progress against the
+  monitoring plan. Each beneficiary entity identified a technical team (usually with participation from that court's
+  statistical unit and the unit responsible for project activities) to handle project-related data collection and
+  reporting. The project's results framework contained project-specific indicators and actionable monitoring
+  arrangements. Project results were also to be monitored in parallel with the results and indicators of the
+  governments 2007-2011 Federal Targeted Program so as to provide a broader assessment of the achievement
+  of key government judicial reform goals. The PAD (p. 9) stated that there would be a comprehensive annual
+  evaluation of progress against project indicators, to be used for analyzing intermediate outcomes and making
+  adjustments to project activities or priorities as needed. To the extent possible, the monitoring results were to
+  be widely publicized to the judicial community and the general public.
+
+  There were shortcomings, however, with the quality and adequacy of the project's output and outcome
+  indicators. There were no output indicators measuring level or quality of use of many of the upgraded court
+  facilities. Some efficiency indicators -- enforcement rate for MCC civil cases, and time taken by MCCs to
+  respond to citizen applications -- were added at the 2014 restructuring. However, the PAD (Annex 1)
+  prominently discussed a range of other indicators of efficiency such as case clearance rate, case backlog,
+  frequency and duration of cases from filing to disposition, and percent of cases that are appealed. These
+  indicators were not part of the results framework, nor were any efficiency measures for courts other than the
+  MCCs. The project team later explained that, given the political sensitivity of interventions in Russia's judicial
+  system and related procurements, it was decided to focus on a relatively narrow set of indicators around
+  transparency rather than the more conventional set of efficiency measures related to speed and
+  appeals. Nevertheless, it remains the case that achievement of the efficiency objective -- representing fully half
+  of the project's objectives -- was not comprehensively measured.
+
+
+
+b. M&E Implementation
+
+  During 2007-2012, the BEA's reporting focused exclusively on process rather than results indicators. At the
+  2012 restructuring, when the FER replaced the BEA as the project's implementation unit, M&E arrangements
+  were strengthened, and results reporting began to improve. The FER enhanced processes of support for the
+  M&E units of each beneficiary entity.
+
+
+
+c. M&E Utilization
+
+  The ICR (p. 39) reported that the 2012 and 2014 restructurings were, in part, based on M&E findings and
+  analysis. MCC, in particular, used project M&E to track results and adjust elements of its ICT system.
+
+
+
+
+                                                                                                   Page 13 of 16
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     JUDICIAL REFORM SUPPORT (P089733)
+
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+
+  The project was rated Environmental Assessment category C and did not trigger any safeguard
+  policies. According to the ICR (p. 39), no safeguard issues arose during implementation.
+
+
+
+
+b. Fiduciary Compliance
+
+  According to the ICR (p. 39), project financial management was rated Satisfactory throughout
+  implementation. Audit reports were received on time.
+
+  There were delays in procurement across the project's first several years related to capacity issues at the BEA
+  and technical and procurement issues around ICT activities for the 900 CGJs from 2007 through 2011. After
+  the FER became the implementing agency, procurement improved significantly. The ICR (p. 39) cited the rapid
+  (eight months from concept to contract signing) two-stage procurement for the US$ 42 million MCC ICT system
+  as a noteworthy achievement.
+
+
+
+c. Unintended impacts (Positive or Negative)
+  None reported.
+
+
+
+d. Other
+   ---
+
+
+
+11. Ratings
+                                                                                 Reason for
+Ratings                      ICR                       IEG
+                                                                                 Disagreements/Comment
+                                                                                 Achievement of the efficiency
+                                                      Moderately                 objective is rated modest due
+Outcome                      Satisfactory
+                                                      Satisfactory               to inadequate measurement of
+                                                                                 achievement. Project
+
+                                                                                                  Page 14 of 16
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      JUDICIAL REFORM SUPPORT (P089733)
+
+
+
+                                                                                   efficiency is rated modest
+                                                                                   based on questions about the
+                                                                                   assumptions and methodology
+                                                                                   used for the economic
+                                                                                   analysis, and on extensive
+                                                                                   delays across the first four
+                                                                                   years of project
+                                                                                   implementation.
+                               Moderately               Moderately
+Bank Performance                                                                   ---
+                               Satisfactory             Satisfactory
+                                                                                   There were shortcomings in
+                                                                                   the results framework that
+Quality of M&E                 Substantial              Modest
+                                                                                   were not addressed during
+                                                                                   implementation.
+Quality of ICR                                          Modest                     ---
+
+12. Lessons
+
+
+The ICR (pp. 41-42) offered insightful lessons, including:
+
+Judicial reform projects require buy-in from both executive and judicial leadership, creating conditions
+allowing the courts to proceed with appropriate sequencing of reform activities and restructuring where
+necessary. Rushing significant institutional change in the courts, in a political economy environment as
+complex as Russia's, could have led to a convergence of interests opposed to modernization. Instead, in this
+case, careful addressing of both technical issues and institutional concerns beyond ICT led to positive and
+sustainable results.
+
+Relatively small loan amounts can bring significant value-added to middle-income countries. In this
+case, project strategy aligned tightly with Russia's judicial modernization strategy, providing desired
+implementation support, policy advice, technical feedback, and a menu of alternative approaches for
+beneficiaries. The courts used the project as a vehicle to access Bank expertise for conceive, design, and
+implement complex, high-risk, ICT-intensive systems.
+
+Stable teams, on both the Bank and counterpart sides, can together address implementation risks and
+challenges. In this case, the Bank team remained constant throughout the project's lifetime, an unusual
+feature that contributed to a trusting relationship between the Bank and Russia's courts, the implementing
+agencies, and the MOE. The quality of this relationship helped counterparts to identify shortcomings and turn
+the project around with restructurings.
+
+
+
+
+13. Assessment Recommended?
+
+
+
+                                                                                                    Page 15 of 16
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      JUDICIAL REFORM SUPPORT (P089733)
+
+
+
+No
+
+14. Comments on Quality of ICR
+
+
+The ICR was insightful, candid, and results-oriented, with thorough assessments of the project's early
+roadblocks, restructurings and adjustments, and achievements. Annex 6, which provided an overview of key
+judicial and legal reforms in Russia, was useful in understanding the project's objectives and activities. The
+economic analysis was highly detailed and drew from other Bank analytic work, though it relied on a series of
+debatable assumptions in order to derive its findings. However, the ICR was far too long (with 34 pages of text,
+and slides in annexes 9 and 10 were not readable), occasionally repetitive, and explanations of some of the
+formal results indicators were not clear. The modest rating reflects the excessive length of the ICR.
+
+
+
+a. Quality of ICR Rating
+     Modest
+
+
+
+
+                                                                                                   Page 16 of 16
+

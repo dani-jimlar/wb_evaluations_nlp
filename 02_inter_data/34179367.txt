@@ -1,0 +1,815 @@
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Electricity Sector Strenghtening Project (P150634)
+
+
+
+                                                                                    Report Number: ICRR0023500
+
+1. Project Data
+
+
+
+ Project ID                                   Project Name
+ P150634                                      Electricity Sector Strenghtening Project
+
+ Country                                      Practice Area(Lead)
+ Rwanda                                       Energy & Extractives
+
+
+ L/C/TF Number(s)                             Closing Date (Original)                Total Project Cost (USD)
+ IDA-57540                                    31-Oct-2021                                         94,412,180.76
+
+ Bank Approval Date                           Closing Date (Actual)
+ 14-Dec-2015                                  31-Oct-2022
+
+                                              IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                               95,000,000.00                                             0.00
+
+ Revised Commitment                                95,000,000.00                                             0.00
+
+ Actual                                            94,412,180.76                                             0.00
+
+
+
+
+ Prepared by                  Reviewed by                   ICR Review Coordinator         Group
+ Maria Shkaratan              Christopher David             Ramachandra Jammi              IEGSD (Unit 4)
+                              Nelson
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objective (PDO) is to enhance the operational efficiency of the electricity utility and
+   increase electricity access (PAD, page 11). The Project Agreement does not contain the PDO.
+
+   The PDO was not revised.
+
+
+
+
+                                                                                                    Page 1 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Electricity Sector Strenghtening Project (P150634)
+
+
+
+   For the purposes of this Implementation Completion Report (ICR) review, the objective will be assessed as
+   follows:
+
+   PDO1: To enhance the operational efficiency of the electricity utility.
+
+   PDO2: To increase electricity access.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   1. Original components
+
+   Component A: Electricity Sector Capacity Strengthening (cost at appraisal: US$20.0 million; actual
+   cost: US$20.0 million) supported the Electricity Utility Corporation Limited (EUCL) in improving the
+   efficiency, transparency, and accountability in network operations and maintenance (O&M), commercial
+   functions, and management of corporate resources. There were three subcomponents:
+
+   Subcomponent A-1 Management Information Systems (MIS) aimed to improve the utility’s corporate
+   services and processes by implementing an Integrated Business Management Information System (IBMS)
+   in the Rwanda Energy Group (REG). The IBMS comprised: (a) Commercial Management System to support
+   customer service and commercial functions; (b) an Integrated Distribution Management System, including
+   an Incident Recording and Management System to support the reliability of electricity supply, operating
+   efficiency, and outage management; (c) a Geographic Information System (GIS); and (d) an Enterprise
+   Resource Planning system, a single platform for managing the REG’s corporate processes and resources.
+
+   Subcomponent A-2 Revenue Protection Program (RPP) was designed to reduce commercial losses and
+   included the installation of advanced metering infrastructure (AMI) for the targeted 1,500 large customers; a
+   state-of-the-art Meter Data Management System (MDMS); and a dedicated metering control center (MCC).
+
+   Subcomponent A-3 Strengthening of Technical Capacity of Key Functions in EUCL addressed
+   capacity in operations, commercial services, finance, and corporate services. Specific activities included
+   technical training of the staff and assisting in the following: developing functional processes and operational
+   procedures; collecting and keeping baseline data for performance targeting; preparing and implementing a
+   corporate strategic plan; and developing a performance-based dashboard.
+
+   Component B: Increased Access to Electricity Services (cost at appraisal: US$70 million; actual
+   cost: US$69.5 million) provided a continuation of the ongoing World Bank support to the government’s
+   Electricity Access Rollout Program (EARP) to extend the distribution network and reinforce it to ensure
+   sufficient quality of supply; and to upgrade it to a higher capacity to meet the increasing demand.
+
+   Subcomponent B-1 Strengthening the Distribution Network around Kigali Area financed the following:
+   (a) rehabilitating 15 kV medium voltage (MV) switching stations to enhance safety, (b) upgrading the
+
+
+                                                                                                     Page 2 of 15
+  Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+  Electricity Sector Strenghtening Project (P150634)
+
+
+
+network to improve supply reliability and reduce technical losses; and (c) installing equipment for monitoring
+and controlling the network from the National Control Center to reduce unscheduled downtime.
+
+Subcomponent B-2 Grid Extension to New Load Centers financed new connections, including
+equipment for grid extensions, reinforcements, consumer connections; and installation services.
+
+Component C: Technical Assistance and Project Implementation Support (cost at appraisal: US$5
+million; actual cost: US$4.9 million) financed technical assistance and Project implementation support.
+
+Subcomponent C-1: Feasibility and Diagnostic Studies supported studies to inform sector performance
+improvements, especially as related to grid supply and reliability.
+
+Subcomponent C-2: Project Implementation Support supported the Project Coordination Unit (PCU),
+including Project management, procurement, financial management (FM), safeguards, and monitoring and
+evaluation (M&E).
+
+2. Changes in components and indicators during implementation
+
+a. The Project’s components remained unchanged during implementation.
+
+b. Two PDO indicators and one intermediate indicator were revised, as follows:
+
+      For PDO indicator 3 Reduction in commercial losses (percentage), the baseline data (existing
+       commercial losses, percentage) was increased, based on a new study (CABIRA: Cabinet
+       D’ingenierie Et De Recherche Appliquee, 2016), which provided data for 2015, the year of Project
+       approval. The end target was increased accordingly, to reflect the increase in the baseline number.
+       Therefore, while the baseline and the target were corrected, the ambition of the Project in relation to
+       this indicator’s target remained the same.
+      PDO indicator 4 was revised from “Reduction of technical losses in the Kigali City 15KV distribution
+       network (total annual-GWh savings)” (PAD, page 31) to Reduction in energy not served in Kigali City
+       15KV distribution network (total annual Gigawatt-hour (GWh) (ICR, page 40-41). The original
+       indicator had two shortcomings: (i) being expressed in absolute terms, it did not provide an adequate
+       measure of improvements in technical losses, considering the rapid growth in electricity supply
+       (percentage terms would be a better unit of measurement); and (ii) the measured change could not
+       be fully attributed to the Project, as the Project did not intend to address all sources of technical
+       losses. The new indicator measured improvements attributable to the Project and used an adequate
+       unit of measurement. The revision of the PDO indicator 4 did not constitute a reduction of the Project
+       scope or ambition; rather it was a correction of a mistake with the results framework (RF) design.
+      For the intermediate indicator Reduced average outage duration in 15 KV system of Kigali
+       distribution network (hours), the baseline value and the end target were revised to reflect the update
+       received from the EUCL in March 2021 for years 2013-2020. According to the update, the original
+       baseline was substantially underestimated and needed to be corrected. The RF baseline was
+       increased accordingly, and so was the target. Based on the EUCL data of March 2021 (which the
+       team has shared with IEG), this change was made to better reflect the latest information, and the
+       ambition of the Project was not decreased but rather increased.
+
+
+
+
+                                                                                                 Page 3 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Electricity Sector Strenghtening Project (P150634)
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost: The appraisal estimate was US$95.0 million, and the actual Project cost was US$94.4
+   million. The ICR points out that the available funding was fully disbursed at Project closure, and the
+   difference between the actual cost at closure and the estimated cost at approval was due to foreign
+   exchange rate variations (ICR, page 10).
+
+   Project Financing: The Project was financed by an IDA credit.
+
+   Borrower/Recipient contribution: There was no Borrower’s contribution.
+
+   Project Dates: The Project was approved on December 14, 2015 and became effective on May 10, 2016.
+   The mid-term review was held on July 7-12, 2019. The original closing date was October 31, 2021. The
+   Project was extended once, for a period of 12 months, to October 31, 2022.
+
+   Project Restructurings:
+
+   The Project underwent one restructuring, approved on May 31, 2021, which involved a change in
+   the RF and a 12-month extension of the closing date. Given there was no change in scope, a split
+   evaluation is not required.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and Sector Context. At the time of Project appraisal, Rwanda had average annual gross
+domestic product growth of 6 percent over 2000–2014; a poverty level of 39 percent, as compared with the
+57 percent in 2006; and a vision of achieving middle-income-country status by 2020. Access to electricity
+was a significant barrier to continued growth, and it was made a priority. Despite important achievements
+since 2009, the electricity sector faced the following challenges: (i) low access rate, especially in rural
+areas; (ii) limited investments in generation capacity, with no clear procedures to implement them and
+few incentives for private sector participation; (iii) high system losses of 22.5 percent; (iv) high cost of
+service at US$0.32/kWh, and (e) weak financial viability of the sector with continued reliance on
+government subsidies. Rwanda implemented deeper institutional energy sector reforms commencing in
+2013; and a concerted effort was needed to build on those efforts and achieve improvements in the sector's
+performance.
+
+Relevance to Government Strategies at approval. Increased access to electricity services was a
+Government priority under the country’s Vision 2020. The Energy Sector Strategic Plan (2013/14–2017/18)
+was approved in 2015, with the goals of (a) ensuring the availability and affordability of energy supply for all
+Rwandese; (b) encouraging the rational and efficient use of energy; and (c) establishing environmentally
+sound and sustainable systems of energy production, procurement, transportation, distribution, and end
+use. In 2009, the Government, with support from the World Bank, launched the national Electricity Access
+Rollout Program (EARP). The goal of reaching 48 percent on-grid electrification rate by 2018 from the 22
+percent in 2014 required significant funding, and a US$400 million funding gap was identified. The Project
+would contribute to alleviating this gap.
+
+
+                                                                                                      Page 4 of 15
+                                      Independent Evaluation Group (IEG)                         Implementation Completion Report (ICR) Review
+                                      Electricity Sector Strenghtening Project (P150634)
+
+
+
+               Relevance to Government Strategies at closure. The Government’s target at closure was to achieve
+               universal access by 2023/24, including 52 percent of the on-grid connections and 48 percent of the off-grid
+               connections. Universal access to electricity was one of the key strategic interventions under Priority Area 5
+               “Moving Towards a Modern Rwandan household”, in the Rwanda’s Seven Years Government Program:
+               National Strategy for Transformation (NST1) 2017–2024.
+
+               Relevance to the World Bank Group's (WBG’s) Assistance Strategies at approval. The Project was
+               fully aligned with the World Bank’s Rwanda Country Partnership Strategy (CPS) FY2014–18. Under Theme
+               1 “Accelerating economic growth that is private sector driven and job creating,” the energy sector was
+               highlighted as the key sector for World Bank support, and increased access to electricity was a core
+               objective under this theme.
+
+               Relevance to the World Bank Group's (WBG’s) Assistance Strategies at closure. The Project was also
+               aligned with the Country Partnership Framework (CPF) FY2021-26. The Objective 1 “Expanded Access to
+               Infrastructure and the Digital Economy” highlighted the Bank’s further support to the Government’s energy
+               sector reform, electrification agenda, and enhanced efficiency and reliability of energy services.
+
+               The relevance of objectives is rated High because they were fully aligned with the electricity access and
+               energy sector development goals of the Government and with the related objectives of the WBG’s Rwanda
+               CPS FY2014-18 and the WBG’s Rwanda CPF FY2021-26.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To enhance the operational efficiency of the electricity utility.
+
+                             Rationale
+                             The theory of change (ToC) for the Project was developed for the ICR. It showed a direct, logical causal link
+                             from inputs to outputs, and to the PDO outcomes of this Project. The first results chain showed that the
+                             developed MIS, established RPP, and improved capacity to perform key EUCL functions (outputs) would
+                             support the achievement of the PDO. The second results chain showed that the strengthening of the
+                             distribution network and its extension (outputs) would result in improved access to electricity services.
+
+                             The TOC had the following shortcoming: the intermediate outcomes were missing, and therefore there
+                             were no articulation of how the PDO objectives were to be built on preliminary changes as part of project
+                             activities. The logic of the Project’s interventions would be clearer if the intermediate outcomes were
+
+
+
+                                                                                                                               Page 5 of 15
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Electricity Sector Strenghtening Project (P150634)
+
+
+
+formulated across the results chain, showing how and through what processes the combination of outputs
+would result in the Project level outcomes and therefore in the achievement of the Project’s objective.
+
+Note: While two PDO targets and one intermediate indicator target were revised during the May 2021
+restructuring, this did not constitute a reduction in the Project’s ambition or scope, but rather corrected RF
+measurement mistakes made at Project design and updated the baselines using recent analysis, which was
+not available at appraisal. Therefore, a split rating will not be applied.
+
+Outcomes:
+
+- PDO indicator 3. At closure, commercial losses amounted to 5.39 percent, from the baseline of 8.78
+percent, and against the target of 5.18 percent. The target was almost fully achieved
+
+- PDO indicator 4. By closure, annual unserved energy in Kigali City’s 15kV distribution network was reduced
+by 0.2 GWh, as targeted. Thus the target was reached. This indicator was used as a proxy for technical
+losses in the distribution network.
+
+- By closure, average annual outage duration in the 15 KV system of Kigali distribution network was 125.72
+hours, from the baseline of 838 hours, against the target of 400 hours. The target was exceeded. It is worth
+noting that the target was reduced at the May 2021 restructuring, in line with the adjustment made to the
+baseline data for this indicator, which was updated using the March 2021 EUCL’s data for 2017. Also worth
+noting that this indicator was used to calculate PDO indicator 4 (annual unserved energy in Kigali City’s 15 kV
+distribution network).
+
+Outputs:
+
+- At closure, all industrial consumers were covered by the Revenue Protection Program (RPP), against the
+target of 75 percent. The target was exceeded.
+
+- At closure, 19 switching stations were rehabilitated, as targeted. The target was reached.
+
+- At closure, the average receivables’ delay amounted to 10 day, against the target of 60 days. The target
+was exceeded.
+
+- At closure, all four quarterly financial reports were prepared by the 5th of the month, following the end of the
+quarter, as targeted. The target was reached.
+
+- By closure, the corporate strategic plan (including key KPIs and a dashboard) was developed, as planned.
+The target was reached.
+
+- By closure, utilities were publishing annual reports on citizen engagement, as planned. The target was
+reached.
+
+Overall, under Objective 1, the outcomes and outputs achieved or exceeded their targets.
+
+Rating. Objective 1 efficacy is rated High.
+
+
+
+
+                                                                                                    Page 6 of 15
+                                Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                                Electricity Sector Strenghtening Project (P150634)
+
+
+
+
+                            Rating
+                            High
+
+
+                            OBJECTIVE 2
+                            Objective
+                            To increase electricity access.
+
+                            Rationale
+                            Please see the discussion of the TOC under objective 1, Original Project.
+
+                            Outcomes:
+
+                            - By closure, 375,319 people in the household sector were provided with access to electricity, as compared
+                            with the targeted 324,000 people. The target was exceeded. The gender-specific sub-target of 50 percent
+                            female beneficiaries was also reached. Given the considerable progress made in infrastructure
+                            improvements, the increases in beneficiaries is unsurprising, but notable.
+
+                            Outputs:
+
+                            - By closure, 1,046 community electricity connections were constructed, as compared to the 792 connections
+                            targeted. The target was exceeded.
+
+                            - By closure, 2,145 distribution lines were constructed or rehabilitated, as compared to the 1,666 lines
+                            targeted. The target was exceeded.
+
+                            Overall, under Objective 2, as the review of the efficacy of the Project’s outcomes and outputs indicates, the
+                            Project achieved or exceeded all of its targets.
+
+                            Rating. The Project achieved all of its Objective 2 targets, and thus its efficacy is rated High.
+
+
+
+                            Rating
+                            High
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            Overall efficacy is High based on efficacy ratings of Objective 1 and Objective 2.
+
+
+
+                            Overall Efficacy Rating
+
+
+                                                                                                                                Page 7 of 15
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      Electricity Sector Strenghtening Project (P150634)
+
+
+
+  High
+
+
+
+ 5. Efficiency
+I. Economic Analysis
+
+Economic analysis was performed both at appraisal and closure. At closure, an update of the appraisal level
+analysis was conducted, to ensure comparability. The analysis was done for Component A Electricity Sector
+Capacity Strengthening and Component B Increased Access to Electricity Services. The net present value
+(NPV) of both benefits and costs was calculated using a discount rate of 10 percent.
+
+The following benefits were estimated: (i) energy cost savings due to reduced commercial losses; (ii) energy
+cost savings due to reduced technical losses and unscheduled outages; and (iii) energy cost savings for
+households, communities, and enterprises due to new connections (estimated as the cost of switching from
+kerosene and diesel to electricity). In addition, the avoided greenhouse gas (GHG) emissions due to switching
+from kerosene and diesel to electricity were added to both the updated appraisal analysis and the ICR analysis
+following the World Bank’s 2018 guidance note on the shadow price of carbon in economic analysis. The
+benefits were assumed to be occurring for 10 years for Component A, 15 years for Subcomponent B-1, and 20
+years for Subcomponent B-2, in line with the typical economic life of MIS and electricity distribution
+infrastructure.
+
+The costs were estimated in the following way. The capital costs were based on the cost of the Project
+components, but excluded value added tax (VAT) of 18 percent, as well as the contingencies priced at 10
+percent, and were therefore as follows: US$14.4 million for Component A, US$18 million for Subcomponent B-1,
+and US$32.4 million for Subcomponent B-2. O&M costs were assumed at a standard 2 percent per year of the
+cost of infrastructure procured under Subcomponents B-1 and B-2. O&M costs under Component A were
+assumed at 10 percent given the higher O&M cost of the MIS.
+
+Results at appraisal:
+
+- Without accounting for the externalities (GHG emissions): the economic internal rate of return (EIRR) was
+36.91 percent and the NPV was US$77.59 million.
+
+- Accounting for the externalities (GHG emissions): the EIRR was 37.77 percent and the NPV was US$80.59
+million.
+
+Results at closure:
+
+- Without accounting for the externalities (GHG emissions): the EIRR was 35.76 percent and the NPV was
+US$63.51 million.
+
+- Accounting for the externalities (GHG emissions): the EIRR was 36.53 percent and the NPV was US$66.27
+million.
+
+The ICR states that while the EIRR and the NPV at completion are slightly lower than the appraisal estimates
+(pointing to some shortcomings in Project efficiency), the reason for that was a reduced cost of electricity
+
+
+                                                                                                   Page 8 of 15
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Electricity Sector Strenghtening Project (P150634)
+
+
+
+generation and supply between 2015 and 2020, which reflected the progress Rwanda made in lowering the
+overly high costs of electricity (ICR, page 22).
+
+II. Administrative efficiency.
+
+The Project was able to achieve its objectives within the original financing envelope. However, there were
+delays in the initial two years, mainly due to significant delays in procurement processes; but they were
+eliminated later on. The main reason for the 12-month extension during the May 2021 restructuring was the
+impact of COVID-19. The location of the task team leader in Rwanda since 2019 was important for the
+administrative efficiency.
+
+The Project’s efficiency is rated as Substantial, mainly due to the EIRR estimated at a slightly lower rate at
+closure than at appraisal and due to the 12-month implementation delay.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                 Rate Available?            Point value (%)           *Coverage/Scope (%)
+                                                                                      94.70
+ Appraisal                                                  37.77
+                                                                                       Not Applicable
+                                                                                      94.80
+ ICR Estimate                                               36.53
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of objectives is High. The overall efficacy rating is High due to the achievement of both PDO
+objectives. The efficiency rating is Substantial due to the minor implementation inefficiencies resulting in the
+EIRR at closure being slightly below the EIRR at appraisal and in an extended Project closure date. Based on
+these ratings, the overall outcome of the Project is Highly Satisfactory.
+
+
+a. Outcome Rating
+   Highly Satisfactory
+
+
+7. Risk to Development Outcome
+
+
+
+                                                                                                       Page 9 of 15
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Electricity Sector Strenghtening Project (P150634)
+
+
+
+Macroeconomic. The risk of an economic recession could delay or prevent fiscal transfers to the REG,
+which would disrupt the utility operations due to its dependency on subsidies. A recession could also affect
+the utilities functioning if customers stop paying utility bills and if the tariffs are not increased under such
+circumstances. These issues were already encountered in 2020 with the COVID-19 impact. (ICR, page 34)
+
+Financial. The Project financed the hiring of a highly competent expatriate REG CEO as well as some EUCL
+staff salaries with competitive rates. As the project closed, the REG needs to find other resources to continue
+to pay competitive salaries to retain and attract competent leadership and staff. As of the ICR submission,
+the salaries for the CEO and other critical staff were financed from a consecutive World Bank project Energy
+Access and Quality Improvement Project (P172594). It was not clear what the alternative would be. (ICR,
+page 35)
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The ICR reports that the Project’s technical design was strong, given the Bank’s operational experience
+  in similar projects globally and in the country. The Project relied on a thorough economic analysis, which
+  showed strong justification for public financing. The assessment of fiduciary and safeguard capacity and
+  arrangements was adequate, as well as the implementation planning. The implementation arrangements
+  and the role of each institutional stakeholder involved, as well as the coordination mechanism within the
+  EUCL, were clear and detailed, and proved to be reliable. The Project was coordinated with other energy
+  sector projects in the country. (ICR, page 32)
+
+  The overall Project’s risk rating was Substantial at appraisal, and it was mitigated, including through the
+  following actions: several experts were hired to support EUCL in the preparatory activities; experts to
+  coach the new staff in the aspects of utility operations and management were hired; an internal auditor
+  was recruited; a functional audit committee of the Board was formed; the FM manual was revised; and
+  robust FM procedures were developed. (ICR, page 33)
+
+  The M&E design was adequate, although there were minor shortcomings leading to the need to update
+  the baselines and target for two indicators and to rephrase one indicator, as discussed in Section 2d
+  “Components”, under “Changes in components and indicators during implementation”, as well as in
+  Section 9a “M&E Design” of this Review.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The World Bank provided intensive supervision through missions; supported the client in relation to
+ technical, procurement, E&S safeguards, and FM aspects of the Project throughout the implementation;
+ paid attention to any possible early warning signs; and was submitting Aide Memoires to the client after
+
+                                                                                                      Page 10 of 15
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Electricity Sector Strenghtening Project (P150634)
+
+
+
+ each mission. A total of 13 ISRs were filed. The presence of the task team leader and key specialists in the
+ country enabled the team to provide continuous hands-on support.
+
+ The Project experienced the following implementation issues, and those were resolved prior to closure:
+
+       Significant delays in the initial years of implementation. The factors of the delays were identified as
+        follows: (i) EDCL’s long contracting processes; (ii) poor quality of procurement documents
+        submitted for World Bank’s review; (iii) a failure of two big EPC contracts; and (iv) delays in
+        expropriation and compensation of PAPs. All these issues were resolved by Project closure.
+       The MTR flagged the need to update two indicators and reformulate one indicator. This was
+        accomplished through a restructuring in May 2021.
+       The COVID-19 pandemic delayed the implementation, requiring a 12-month extension of closure,
+        accomplished through a restructuring in May 2021. (ICR, pages 33-34)
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ Overall, the Project's RF mostly reflected the logic of Project interventions in the PAD and was sufficiently
+ linked to the PDO and to the ToC. Most of the RF indicators were quantitative, and all of them were time-
+ bound, had baselines and targets, and were attributable to the Project. There was one gender-
+ disaggregated indicator. The RF measured the PDO outcomes (such as reduction in commercial losses
+ and in unserved energy), intermediary outcomes (such as average annual outage duration), and outputs
+ (such the development of a corporate strategic plan).
+
+ However, the RF design had minor deficiencies, which had to be corrected during
+ implementation. Specifically, two indicators - a PDO indicator “Reduction in commercial losses
+ (percentage)” and an intermediate indicator “Reduced average outage duration…” - were revised at the
+ May 2021 restructuring to update the baseline data and adjust the targets accordingly. Another PDO
+ indicator had to be reformulated (at the same time) from “Reduction of technical losses…(GWh)” to
+ “Reduction in energy not served…(GWh)” because the original indicator was not fully attributable to the
+ Project and did not use an adequate unit of measurement (it should have been expressed in percentage
+ terms) (see more details in this Review: Section 2 Project Objectives and Components, Subsection d
+ Components, under “Changes in components and indicators during implementation”).
+
+
+
+
+                                                                                                    Page 11 of 15
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Electricity Sector Strenghtening Project (P150634)
+
+
+
+b. M&E Implementation
+  The ICR reported that the EUCL was responsible for data collection and reporting, with support from the
+  EARP for indicators related to electricity access. The Engineering, Procurement, and Construction (EPC)
+  contractors collected data as they made connections, and the M&E team verified the data collected. The
+  data was then integrated into the sector performance indicators and reported to the biannual Sector
+  Working Group (SWG) Joint Sector Performance Review for discussions. Other reports that were part of
+  the M&E system (for example, quarterly and annual progress reports, IFRs, and the borrower’s
+  implementation completion report) were submitted to the relevant stakeholders on time and were of good
+  quality. (ICR, page 29)
+
+
+
+c. M&E Utilization
+  The ICR reported that the M&E data were used to inform Project management and decision-making in a
+  timely and appropriate manner, in the following ways:
+
+  • To identify the bottlenecks of the implementation, particularly on procurement, and design plans to
+  address them.
+
+  • In sector annual and quarterly electrification forecasts.
+
+  • To inform the design of the DPO series on prior actions and triggers.
+
+  • In the MTR, to make decisions to revise specific RF indicators.
+
+  • To inform the agenda for mission discussions, and to prepare Implementation Status and Results
+  Reports (ISRs) and other reports. (ICR, page 32)
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   Environmental and Social Safeguards. The Project was classified as Environmental Category B.
+   Construction of the distribution lines required temporary and sometimes permanent land acquisition, thus
+   triggering OP/BP 4.12 - Involuntary Resettlement. Limited earth works triggered OP/BP 4.11 - Physical
+   Cultural Resources. The Project also triggered OP/BP 4.01 - Environmental Assessment. The civil works
+   could lead to minor air, land, and water pollution during the construction phases, as well as noise.
+
+   The ICR reports that the safeguards rating at closure was Satisfactory for all triggered safeguards policies.
+   The Project complied with all triggered safeguard policies. It prepared and disclosed an Environmental and
+   Social Management Framework and a Resettlement Policy Framework, both in the country and on the
+   World Bank website, prior to Project appraisal. Environmental and Social (E&S) Impact Assessment and
+   Resettlement Action Plans and E&S completion reports were prepared for all subprojects. Each contractor
+
+                                                                                                   Page 12 of 15
+    Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+    Electricity Sector Strenghtening Project (P150634)
+
+
+
+  prepared a Contractor E&S Management Plan and Contractor Environmental Health and Safety Plan before
+  construction. E&S safeguards progress reports were submitted quarterly. The expropriation report on some
+  occasions was submitted monthly.
+
+  However, there were some delays in expropriation and compensation of project-affected persons (PAPs),
+  which affected Project implementation progress. In total, 2,314 grievances were received, and all were
+  solved before Project closure. (ICR, page 33)
+
+
+
+
+b. Fiduciary Compliance
+  Financial management. The ICR reports that the FM rating was Satisfactory throughout Project
+  implementation, and the FM risk rating was Moderate. The Project maintained an adequate accounting
+  capacity, including an internal auditor. Financial reports and audited financial statements were generally
+  submitted on time, and there were no outstanding audit report at Project closure.
+
+  The following FM issues were experienced by the Project:
+
+          An ineligible expenditure of US$1,321,934.5 was declared by the World Bank on September 30,
+           2022, in relation to an advance payment to an EPC contractor whose contract was terminated for
+           nonperformance. The related court case went into arbitration, and after the ruling against the
+           contractor, it went to appeals court, which was its status at the time of the ICR submission.
+           However, the Government has agreed to reimburse the Bank irrespective of the court decision.
+          The Project was exposed to cyber theft: a payment of US$264,442 was made on July 14, 2022 to a
+           fraudulent account in Barclays Bank through Citibank, based on an invoice sent by a phisher. At the
+           time of the ICR submission, US$199,266.32 has been recovered and the remaining US$65,000
+           were under investigation. EUCL will cover the remaining balance to the supplier should the ongoing
+           investigations fail to recover it. (ICR, page 33-34) It is worth noting that these risks will continue to
+           be a potential area of exposure for the Bank and is worthy of careful training and oversight.
+
+  Procurement. The procurement rating at closure was Moderately Satisfactory. However, due to significant
+  delays in procurement in the first years of implementation and the EDCL’s lengthy internal procurement
+  processes, the procurement rating was Moderately Unsatisfactory between August 2018 and August 2019.
+  The World Bank’s task team provided close technical and implementation support. By streamlining the
+  internal procurement processes, the procurement performance substantially improved and maintained the
+  Moderately Satisfactory rating until the Project closure.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+
+
+                                                                                                      Page 13 of 15
+     Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+     Electricity Sector Strenghtening Project (P150634)
+
+
+
+11. Ratings
+                                                                                    Reason for
+Ratings                          ICR                      IEG
+                                                                                    Disagreements/Comment
+Outcome                          Highly Satisfactory      Highly Satisfactory
+
+Bank Performance                 Satisfactory             Satisfactory
+
+Quality of M&E                   Substantial              Substantial
+
+Quality of ICR                   ---                      High
+
+
+12. Lessons
+
+The following lessons were derived from the ICR (ICR, pages 35-38):
+
+1. The Government’s ownership and commitment to sector reforms are essential for the
+achievement of project objectives. During Project implementation, the Government showed a strong
+commitment to institutional strengthening of the electricity sector. The REG and its subsidiaries,
+EUCL and EDCL, were supported by a new legal framework, giving them autonomy to make
+decisions in key areas such as organization structure, recruitment, attraction and retention of staff,
+procurement, and expenditure approval, which contributed to a turnaround in the performance of the
+sector. The REG and its subsidiaries were encouraged and empowered to apply good corporate
+governance practices and adopt ‘best-in-class’ business processes, which were fundamental for
+making the project successful. The lesson is that government commitment is essential and can lead
+to project’s success even when the objectives are ambitious.
+
+2. The World Bank’s early involvement in the design of sector reforms is important in ensuring
+proper design of the follow-up investment operations. The Bank had been at the forefront in
+supporting Rwanda’s power sector reforms and providing technical assistance on policy,
+institutional, organizational, and regulatory aspects of the reforms for a long time. The project design
+reflected the World Bank’s experience and lessons learned from similar activities in other countries
+and embedded three core elements for developing an efficient and accountable performance culture
+in the utility during the change process: (a) an appropriate organizational structure with a clear
+vision, (b) a skilled workforce, and (c) tools and systems to support staff performance and inform
+decision-making. The lesson is that investment operations benefit when based on a long-term
+involvement in the sector reforms in a country and when in-depth analytical work and operational
+experience have been prioritized.
+
+3. Developing and implementing good utility management information systems (MIS) can modernize
+and transform utility’s operations. The design, supply, installation, and operationalization (including
+staff training) of the IBMS played a transformative role in improving efficiency, transparency,
+accuracy, and accountability of the utility’s business processes, which had a profound impact on the
+utility’s operation. The lesson is that making investments in such systems a high priority is critical.
+This lesson is consistent with the finding by the World Bank 2021 report Utility Performance and
+Behavior in Africa Today (UPBEAT) that utilities with good MISs and sound performance
+management reporting and disclosure tend to have better financial performance.
+
+
+                                                                                                      Page 14 of 15
+       Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+       Electricity Sector Strenghtening Project (P150634)
+
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provides sufficient technical details to understand the value-added of the activities and the outcomes
+of the Project; a good justification of the PDO relevance; comprehensive and robust evidence on all aspects of
+Project’s evaluation; and a clear linking of evidence to findings. The ICR is technical, analytical, and has
+internal consistency. The lessons learned are linked to the narrative and the ratings and are useful for future
+lending operations.
+
+In fact, the ICR provided all the information needed for the ICR Review (there was no need to refer to other
+Project documents), was written very logically and clearly, with no errors of either quantitative or qualitative
+nature. The Project costs were presented precisely, with comments on all necessary details. The arguments
+about Project’s efficacy were articulated with perfect clarity and supported by succinctly presented facts. The
+efficiency section contained an excellent summary of the economic analysis, and the analysis itself was done
+diligently and knowledgeably. The ICR is of excellent quality.
+
+
+
+  a. Quality of ICR Rating
+       High
+
+
+
+
+                                                                                                    Page 15 of 15
+

@@ -1,0 +1,966 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     DRC:Financial Infrastructure and Markets (P145554)
+
+
+
+                                                                                   Report Number: ICRR0022660
+
+1. Project Data
+
+
+
+ Project ID                                  Project Name
+ P145554                                     DRC:Financial Infrastructure and Markets
+
+ Country                                     Practice Area(Lead)
+ Congo, Democratic Republic of               Finance, Competitiveness and Innovation
+
+
+ L/C/TF Number(s)                           Closing Date (Original)                Total Project Cost (USD)
+ IDA-H9260                                  31-Dec-2020                                          26,722,506.69
+
+ Bank Approval Date                         Closing Date (Actual)
+ 18-Mar-2014                                31-Dec-2020
+
+                                            IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                            30,000,000.00                                               0.00
+
+ Revised Commitment                             30,000,000.00                                               0.00
+
+ Actual                                         26,722,506.69                                               0.00
+
+
+
+
+ Prepared by                 Reviewed by                  ICR Review Coordinator          Group
+ Antonio M. Ollero           J. W. van Holst              Christopher David Nelson        IEGSD (Unit 4)
+                             Pellekaan
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to the Financing Agreement (page 5), the project development objective of the Democratic
+   Republic of Congo (DRC) Financial Infrastructure and Markets Project was "to modernize the payments
+   infrastructure and increase the availability of term financing to micro, small, and medium enterprises
+   (MSMEs)."
+
+   For the purpose of this ICR Review, the project objective is parsed into two parts:
+
+
+                                                                                                   Page 1 of 18
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     DRC:Financial Infrastructure and Markets (P145554)
+
+
+
+         To modernize the payments infrastructure.
+         To increase the availability of term financing to micro, small, and medium enterprises.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project had three components.
+
+   Modernization of Payments Infrastructure for Inclusive Finance (US$7 million estimated at appraisal,
+   US$9.3 million disbursed by closing) supported the modernization of the country's financial
+   market infrastructure through the establishment and implementation of: (a) an Automated Transfer System
+   (ATS) – an integrated system with both real-time gross settlement (RTGS) and automated clearinghouse
+   (ACH) capabilities to clear and settle all interbank electronic payments; (b) a Central Securities
+   Depository (CSD) – a facility to hold securities which would enable securities transactions to be processed
+   by book entry (the facility might additionally incorporate comparison, clearing, and settlement functions); (c)
+   the Network Infrastructure – the telecommunications network to process payments between all parties to
+   the payment system; and (d) a National Payments Card Retail Switch – a platform to process and
+   clear electronic payments, providing interface and inter-operability among all financial institutions. In
+   addition, this project component would provide technical assistance, training, and advice to the central
+   bank, Banque Central du Congo (BCC), to support the implementation of the technologies and
+   functionalities of the physical infrastructure supporting the national payments system.
+
+   Technical Support to Financial Market Development (US$7 million estimated at appraisal, US$7.5
+   million disbursed) supported the provision of technical assistance to three sets of institutions to help develop
+   selected sectors in the country's financial system: (a) the BCC – to implement a robust intervention and
+   resolution framework for microfinance institutions (MFIs), employ the core banking system in data
+   management and analysis for the supervisions of MFIs, and organize apex institutions of MFIs and
+   networks of cooperatives in each province for better surveillance and regulation; (b) the non-government
+   organization Fonds pour l'Inclusion Financiere en Republique Democratique du Congo - Association sans
+   but Lucratif (FPM ASBL) – to finance capacity-building at MFIs, financial cooperatives, and commercial
+   banks that service MSMEs and entrepreneurs with a special focus on the agribusiness sector and
+   underserved areas as well as on gender balance and youth employment); and (c) the government – to
+   implement the recommendations of the joint Bank-International Monetary Fund (IMF) Financial Assessment
+   Program (FSAP) on building a sustainable mechanisms for MSME financing, including by restructuring the
+   development bank Societe Financiere de Developpment (SOFIDE) into a viable intermediary financial
+   institution capable of raising new funds for long-term lending and supporting the Ministry of Finance (MOF)
+   to implement reforms in the financial sector.
+
+   Line of Credit for Medium to Long Term Finance (US$15 million estimated at appraisal, US$9.9 million
+   disbursed) supported the pilot phase (first phase) and the scale-up phase (second phase) of a line of credit
+
+
+
+                                                                                                     Page 2 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     DRC:Financial Infrastructure and Markets (P145554)
+
+
+
+   to intermediary financial institutions for medium-term and long-term on-lending to private MSMEs for capital
+   investment and capacity expansion projects.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost. The project was estimated to cost SDR19.6 million (US$30 million equivalent) at
+   appraisal. Actual total cost was US26.7 million.
+
+   Project Financing. The project was financed by an International Development Association grant of
+   SDR19.6 million (US$30 million equivalent) to the Democratic Republic of Congo. The amount of US$26.7
+   million was disbursed.
+
+   Borrower Contribution. There was no financial contribution to the project from the government
+
+   Dates. The project was approved on March 18, 2014, became effective on September 3, 2014, and closed
+   as scheduled on December 31, 2020.
+
+   Restructuring. The project was restructured twice. The first restructuring in August 2016, with
+   US$7.9 million disbursed, changed the results framework for the project. The second restructuring in June
+   2018, with US$16.4 million disbursed, changed the project components and costs and reallocated the
+   project funds across disbursement categories.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Relevance to Country Challenges. The project development objective was relevant to development
+challenges in the DRC with respect to a national payments system, MSME finance, and banking and
+microfinance institutions.
+
+      The DRC lacked a basic financial market infrastructure. The national payments system was the
+       least developed among African countries and could not reliably settle accounts, clear payments, and
+       process funds between traders, businesses, investors, banks, and the government. Cash remained
+       the most widely used payment medium by consumers, accounting for 70 percent of most
+       transactions. Stand-alone automatic teller machine (ATM) services were offered by most banks, but
+       there was no inter-operability between delivery channels and customers. Credit cards issued by
+       international financial firms were supported by only a few banks, and the few point of sale (POS)
+       services in the country were available only in large retail outlets. Domestic interbank transactions
+       within the capital could take 3-4 weeks to clear checks and wire transfers; the transactions
+       were fraught with erroneous settlements, delayed payments, and fraud. Overall, the poor national
+       payments system hampered efficient commerce and finance.
+      The ability of MSMEs, which dominated the private enterprise sector, to spur activity, boost incomes,
+       and generate employment was hampered by access to finance problems. Access to finance was
+       cited as the biggest constraint to business growth by 54 percent of all firms in the DRC Enterprise
+
+                                                                                                   Page 3 of 18
+                       Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+                       DRC:Financial Infrastructure and Markets (P145554)
+
+
+
+                         Survey - 2013. Only 9 percent of small enterprises (with 5-19 workers) and 13 percent of medium
+                         enterprises (with 20-99 workers) had a bank loan. Only 7 percent of small enterprises and 11
+                         percent of medium enterprises had access to a bank to finance their working capital needs and only
+                         3 percent of small enterprises and 7 percent of medium enterprises had access to a bank to finance
+                         their capital investment plans.
+                        Financial intermediation remained largely under-developed. Banks, which dominated the financial
+                         system (18 banks accounted for 95 percent of the financial system), were relatively small and
+                         principally engaged in rudimentary operations, collecting mostly demand deposits in US dollars from
+                         corporates and providing mostly short-term financing to the same corporates for short-term needs
+                         and export-import activities. Albeit small, the microfinance sector – consisting of two banks
+                         specializing in MSME lending, 119 savings and loan cooperatives, and 23 microfinance institutions –
+                          was growing fast, collecting US$294 million of deposits, providing US$162 million of loans, and
+                         serving over one million clients by 2013. Still, the majority of the country remained under-served by
+                         banks, much less by microfinance institutions.
+
+
+Relevance to Government Priorities. The project development objective was consistent with the
+government’s priorities.
+
+                        The Republic of the Congo Growth and Poverty Reduction Strategy Paper 2011-2015 (GPRSP2)
+                         advanced four "strategic pillars" for the country's development – strengthening governance and
+                         peace; diversifying the economy, accelerating growth, and promoting employment; improving
+                         access to basic social services and strengthening human capital; and protecting the environment
+                         and fighting against climate change. This project's development objective was consistent with the
+                         first strategic pillar of the GPRSP2 (pages 56-58), specifically with the goals to "improve the
+                         business climate," "promote the private sector," and "improve financial intermediation."
+
+
+Relevance to Bank Strategy. The project development objective was aligned with the Bank Group
+strategy in the DRC.
+
+                        The Country Assistance Strategy for the Democratic Republic of Congo for the Period FY2013-
+                         FY2016 (CAS) committed Bank Group support to the country's development agenda organized
+                         around four "strategic objectives" – to increase state effectiveness and improve good governance,
+                         to boost competitiveness to accelerate private-sector-led growth and job creation, to increase
+                         access to social services and raise human development indicators, and to address fragility and
+                         conflicts in the eastern provinces. The project development objective was aligned with the second
+                         strategic objective of the CAS, specifically with the target outcome for "an enhanced business
+                         environment for private sector development." According to the CAS (pages 29-30), the Bank Group
+                         would provide analytical and advisory services "strengthening the capacity of SMEs to take
+                         advantage of business opportunities and to effectively and efficiently manage their existing
+                         businesses" and financing to "relaunch the private sector, increasing SME's access to finance and
+                         supporting the development of the financial sector."
+
+
+Rating Relevance TBL
+
+
+
+
+Rating
+
+
+                                                                                                                    Page 4 of 18
+                   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                   DRC:Financial Infrastructure and Markets (P145554)
+
+
+
+               Substantial
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                OBJECTIVE 1
+                Objective
+                To modernize the payments infrastructure.
+
+                Rationale
+                Theory of Change/Results Chain. The construction and activation of an ATS, RTGS, ACH, CSD, network
+                infrastructure, and National Payments Card Retail Switch would lay down the basic infrastructure for a
+                modern national payments system in the DRC. The development, deployment, and adoption of an effective
+                national payments system – the set of instruments, banking procedures, and interbank transfer systems that
+                ensure the circulation of money – should help improve financial intermediation, financial inclusion, and the
+                conduct of monetary policy. The results chain for this outcome (depicted in Figure 1 in the ICR) assumed
+                that: (a) the financial institutions would be willing to integrate their systems in a coordinated manner into the
+                national system and be guided under the supervision of the BCC; and (b) the settlement of transactions
+                denominated in US dollars and other foreign currencies would remain feasible under international rules and
+                standards.
+
+                Outputs. The project fully achieved two, partially met another two, but failed to meet one of the five output
+                targets defined for the objective to modernize the payments system before the project closed.
+
+                      A National Payment System (NPS) Department is operational, meeting the target. The NPS
+                         Department was established, its staff trained, and equipment purchased with the support of the
+                         project.
+                        An Automated Transfer System (ATS) is operational, meeting the target. The ATS was operational
+                         beginning in March 2017.
+                        The number of banks and other financial institutions connected to the ATS/CSD of the National
+                         Payment System (NPS) was 16 by project closing, partially meeting the target of 22.
+                        A National Payments Card Retail Switch company was not established, failing to meet the
+                         target. The Société Monétique Interbancaire du Congo (SMIC), which was designed to manage the
+                         National Payments Card Retail Switch, was not operational by the project closing date, although the
+                         project supported the development of the laws and the work plans and financed the purchase of
+                         equipment for the new organization. Meanwhile, the BCC established an interim team to manage the
+                         National Payments Card Retail Switch.
+                        The number of financial institutions and mobile network operators connected to the National Payments
+                         Card Retail Switch was 11 by the project closing date, partially meeting the target of 23. Of the 11
+                         banks connected to the system, five banks had system connections that were fully operational, while
+                         six banks had system connections that were still in the testing stage.
+
+
+
+
+                                                                                                                    Page 5 of 18
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   DRC:Financial Infrastructure and Markets (P145554)
+
+
+
+Outcomes. The project achieved three and partially met one of four outcome targets defined for the
+objective to modernize the payments system.
+
+      The number of annual transactions denominated in US dollars that were made through the RTGS was
+       80,351 the year before the project closing date, exceeding the target of 70,800. The number of
+       transactions represented operations of the RTGS only between March and December 2019. The
+       BCC stopped the settlement of US dollar transactions through the RTGS in December 2019, upon the
+       request of the U.S. Department of the Treasury. Investigations by local and international non-
+       governmental organizations revealed that Congolese banks were exposed to international money
+       laundering schemes used to conceal the proceeds of corruption in the mining industry.
+      The number of annual transactions denominated in Congolese francs (CDF) that were made through
+       the RTGS was 361,021 by the project closing date, exceeding the target of 144,216.
+      The number of annual transactions denominated in US dollars that were made through the ACH was
+       105,435 the year before the project closing date, failing to meet the target of 6,352,666. The number
+       of transactions represented operations of the ACH only between March and December 2019. Like in
+       the RTGS, the BCC stopped settlement of US dollar transactions through the ACH in December 2019,
+       upon the request of the U.S. Department of the Treasury. Investigations by local and international
+       non-governmental organizations revealed that Congolese banks were exposed to international money
+       laundering schemes used to conceal the proceeds of corruption in the mining industry.
+      The number of annual transactions denominated in CDF that were made through the
+       ACH was 4,540,635.by the project closing date, exceeding the target the target of 458,080.
+
+By the project's close the domestic and international payments infrastructure had been modernized. The
+extent to which Objective 1 was achieved is rated substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+To increase the availability of term financing to micro, small, and medium enterprises.
+
+Rationale
+Theory of Change/Results Chain. The provision of a line of credit, supported by long term Bank funds, to
+intermediary and participating financial institutions would enable the financial institutions – commercial banks,
+financial cooperatives, and microfinance institutions – to extend term financing to MSMEs for productive
+projects. In addition, the provision of technical assistance to the financial institutions, as well as to the
+monetary authority and financial supervisor, would help develop the institutional and regulatory framework for
+MSME finance and hence help sustain term lending to MSMEs. This results chain assumed that: (a)
+creditworthy MSMEs were seeking but not receiving long-term credit from the formal financial system, (b)
+financial institutions were not providing long-term credit to MSMEs because of the lack of long term funding
+and restrictive prudential liquidity rules that reflected the high level of dollarization of the economy, and (c)
+other constraints, including high credit risk and high collateral requirements, were not as binding as liquidity
+constraints or were being addressed by other interventions.
+
+                                                                                                   Page 6 of 18
+                               Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+                               DRC:Financial Infrastructure and Markets (P145554)
+
+
+
+
+                            Outputs. The project fully achieved four and partially achieved one of five output targets defined for the
+                            objective to increase the availability of term financing to MSMEs.
+
+                                  The portfolio review of SOFIDE was completed, meeting the target. The organizational and financial
+                                     audit of the SOFIDE was completed in 2016. The audit confirmed the findings of the joint Bank-IMF
+                                     DRC FSAP which concluded that the SOFIDE was not viable as a development finance institution.
+                                    The portfolio-at-risk at microfinance institutions and cooperatives improved from 12.4 percent in the
+                                     baseline to 8.8 percent by the project closing date, exceeding the target of 9 percent. The
+                                     improvement reflected two developments: (a) the implementation of BCC Instruction No. 44 which
+                                     ordered microfinance institutions to restructure credits, while the central bank suspended certain
+                                     prudential requirements; and (b) the decisions by microfinance institutions to constrain credit in the
+                                     second quarter of 2020 when the economic downturn peaked, thus moderating credit risk problems.
+                                    The percentage of MFIs and cooperatives that provided information on their portfolio-at-risk rose from
+                                     87.8 percent in the baseline to 96 percent by the project closing date, meeting the target of 95
+                                     percent.
+                                    The percentage of microfinance institutions and cooperatives that provided quarterly regulatory
+                                     financial statements (balance sheets and profit and loss accounts) rose from 82.4 percent in the
+                                     baseline to 96 percent by the project closing date, exceeding the target of 90 percent.
+                                    The volume of loans to MSMEs disbursed under the project was US$10.5 million by the project
+                                     closing date, partially meeting the target of US$24 million. According to the ICR (page 32), the
+                                     shortfall against the target (US$24 million) reflected the limited levels of fund recycling so far. The
+                                     ICR also warned that it would be difficult if not impossible to collect data on second and subsequent
+                                     rounds of lending to verify progress against the target after the project closing date.
+
+                            Outcomes. The project achieved the two outcome targets defined for the objective to increase the
+                            availability of term financing to MSMEs.
+
+                                  The number of MSMEs that received a loan through the project was 2,531, exceeding the target of
+                                   2,500.
+                                  The share of women-owned MSMEs that received a loan through the project was 68 percent,
+                                   exceeding the target of 50 percent.
+
+                            At the project's close the availability of term financing to micro, small and medium enterprises had increased
+                            and the two outcome indicators were achieved. The extent to which Objective 2 was achieved is rated
+                            substantial.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+
+                                                                                                                               Page 7 of 18
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      DRC:Financial Infrastructure and Markets (P145554)
+
+
+
+
+  Rationale
+  The project fully achieved two, partially met another two, but failed to meet one of the five output targets and
+  achieved three and partially met one of four outcome targets defined for the objective to modernize the
+  payments system. The project fully achieved four and partially achieved one of five output targets
+  and achieved the two outcome targets defined for the objective to increase the availability of term financing to
+  MSMEs.
+
+  The overall efficacy with which the project's PDO was achieved is rated substantial
+
+
+
+  Overall Efficacy Rating
+  Substantial
+
+
+
+ 5. Efficiency
+Economic Efficiency. The Project Appraisal Document (pages 27-28) did not compute an economic rate of
+return (ERR) for the full project or for the first and second project components, but estimated an ERR of 15.8
+percent for the line of credit, the third project component accounting for 50 percent of the project cost.
+
+The ICR did not estimate an ERR for the full project either, or for any of the project components noting that
+"Economic benefits arising from the line of credit are difficult to quantify given the limited information about the
+impact of sub-projects financed by the line of credit" (Annex 4, paragraph 3). On the other hand, the ICR
+considered cost effectiveness and provided the following information (Annex 4, paragraph 2): (a) the first project
+component, the national payments system modernization (US$9.3 million), cost more than other recent
+payments system modernization projects such as in the Azerbaijan Capital Markets Modernization Project
+(US$7.7 million), the Kyrgyz Republic Payments and Banking System Modernization Project (US$4.5 million),
+and the Sierra Leone Financial Inclusion Project (US$3.9 million) but this project in the DRC had a much larger
+scope than the comparator projects; and (b) the financial rate of return (FRR) for the third project component,
+the line of credit, was 4.1 percent, computed as the weighted average interest rate charged by the intermediary
+financial institutions in their loans to the participating financial institutions. The FRR cited by the ICR was, of
+course, not comparable to the ERR estimated by the PAD.
+
+Operational Efficiency. Some 89 percent of the project funds in US dollar terms was disbursed. The project
+closed as scheduled.
+
+Evidence regarding the efficiency of this project was weak. The assessment of the cost-effectiveness of the
+improved payments system was not convincing. The national payments modernization projects used as
+comparators had varying scopes of work. No metric of cost efficiency was used or proposed. And, a high
+disbursement rate is not necessarily an indicator of efficiency. This ICR Review therefore rates the efficiency of
+this operation as modest.
+
+
+Efficiency Rating
+Modest
+
+                                                                                                       Page 8 of 18
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      DRC:Financial Infrastructure and Markets (P145554)
+
+
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                     50.00
+Appraisal                                                  15.80
+                                                                                      Not Applicable
+                                                                                     0
+ICR Estimate                                                0
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project development objectives were relevant to the country's development challenges with the national
+payments system, the financing for MSMEs, and financial intermediation by banks and microfinance
+institutions. The project objectives were also consistent with the government's priorities and the Bank's country
+strategy in the DRC. The overall efficacy of the project was substantial. The degree of achievement of the first
+objective to modernize the payments infrastructure was substantial, with the project fully achieving three and
+partially meeting one of four outcome targets. The degree of achievement of the second objective to increase
+the availability of term financing to MSMEs was also substantial, with the project fully achieving two outcome
+targets. The efficiency of the project was modest. There was little evidence in the ICR to judge the economic
+efficiency of the project.
+
+There were moderate shortcomings in the project's achievement of efficiency and, therefore, the overall
+outcome of this project is rated moderately satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+The risks to the sustainability of the development outcomes of this project are assessed as substantial-to-
+high across a wide array of risk categories.
+
+Security Risk. The DRC remains in a medium-intensity conflict situation, and is listed as one of 39
+states and territories in the Bank's List of Fragile and Conflict-Affected Situations for FY22. The DRC is only
+slowly emerging from long periods of strife, including two civil wars over 1996-2003 and numerous conflicts
+since then, that have devastated the nation, the economy, and society. Violence and rebel activity still
+threaten stability, with sizable portions of the eastern part of the country largely under the control of
+various militia groups. There is distrust of the security forces and the international peacekeeping mission.
+
+Political Risk. The new coalition government of 24 political parties formed in 2019 remains fragile, as
+
+                                                                                                     Page 9 of 18
+      Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+      DRC:Financial Infrastructure and Markets (P145554)
+
+
+
+coalitions and alliances have always been shaky in the DRC. Jockeying for political advantage ahead of the
+presidential elections in 2023 is expected to intensify. A draft bill that seeks to alter the rules for presidential
+candidacy risks dividing the coalition into opposing factions ahead of the elections.
+
+Institutional Capacity Risk. Institutional capacity risk is typically high in FCV-affected countries in both the
+public and private sectors, and the DRC is not an exception. The SMIC was designed as a partnership
+between the BCC and private financial institutions to manage the National Payments Card Retail
+Switch. The SMIC has not become operational, while the BCC, which was tasked to supervise the system,
+has stepped in as the interim operator, a function that conflicts with its role as supervisor. Meanwhile,
+the Fonds pour l’Inclusion Financière en République Démocratique du Congo (FPM SA), which acted as the
+intermediary financial institution that managed the line of credit in its pilot phase, provided short-term rather
+than long-term loans and did not supply the data required in the partnership agreement to assess the impact
+of the line of credit operations. FMP SA was dropped as the intermediary financial institution in the scale-up
+phase, and its function was assumed by the BCC.
+
+Macroeconomic Risk. The DRC economy was severely impacted by the COVID-19 pandemic in 2020, with
+non-mining GDP contracting by 1.3 percent and the fiscal deficit reaching 2.1 percent of GDP. Monetary
+financing of the deficit caused an exchange rate depreciation of 13.2 percent between April and August 2020
+and pushed inflation to 15.7 percent in August 2020. The DRC obtained approval of a three-year US$1.52
+billion Extended Credit Facility (ECF) arrangement from the IMF in July 2021, with an immediate
+disbursement of US$216.9 million to shore up the country's international reserves. The arrangement
+supports the government's medium-term reform program aimed at maintaining macroeconomic stability,
+increasing fiscal space, and promoting a sustainable and private sector-led economic growth. According to
+the IMF, the near-term economic outlook remains uncertain and dependent on the evolution of the pandemic
+as well as on a stable political environment.
+
+Anti-Money Laundering/Combating the Financing of Terrorism (AML/CFT) Risk. The offshore system
+for the settlement of US dollar payments that was developed by this project would be of limited use if the
+DRC does not improve its AML/CFT system. The settlement of US dollar payments is not typically a key
+feature of national payments systems, but differs in the DRC, where the US dollar is the primary currency
+used in settling financial transactions. However, the BCC stopped settlement of US dollar transactions in the
+RTGS and ACH in December 2019, upon the request of the U.S. Department of the Treasury (see Section
+4). The country's current AML/CFT regime presents significant deficiencies and is not compliant with the
+2012 Financial Action Task Force (FATF) standards, according to the mutual evaluation report prepared by
+the Groupe d'Action Contre le Blanchiment d'Argent en Afrique Centrale (GABAC).
+
+Banking Sector Risk. The DRC’s financial system remains small (assets are equivalent to only 11 percent
+of GDP) and financial institutions continue to face considerable risks when lending to MSMEs. Commercial
+banks are challenged by low profitability, high non-performing loan ratios, and deficiencies with banking
+supervision. The volumes mobilized by the project addressed a small fraction of the overall financing needs
+of MSMEs. The ability of MSMEs to secure term financing from formal financial institutions are hampered by
+banking sector risks.
+
+
+
+
+8. Assessment of Bank Performance
+
+
+                                                                                                         Page 10 of 18
+     Independent Evaluation Group (IEG)                                   Implementation Completion Report (ICR) Review
+     DRC:Financial Infrastructure and Markets (P145554)
+
+
+
+
+a. Quality-at-Entry
+  Analytical Foundations. The project design was informed by the findings of the joint Bank-IMF
+  FSAP conducted in 2013 and discussed in, among others, the IMF DRC Article IV Consultation of
+  2014. Drawn from the FSAP, the IMF DRC Financial Sector Stability Assessment Report of 2014 called
+  for more progress in developing the payments system, facilitating the use of financial services, and
+  consolidating and strengthening the microfinance sector.
+
+  Lessons from Earlier Operations. The project aimed to strengthen the early gains made by the DRC
+  Private Sector Development and Competitiveness Project (PSDCP) (P0117744) with the national
+  payments system, bank governance, and microfinance development.
+
+        The PSDCP (2003-2014) had initiated the development of the national payments system to
+         strengthen financial intermediation. This Financial Infrastructure and Markets Project would
+         finance key elements of the system infrastructure – the ATS, RTGS, ACH, CSD, network
+         infrastructure, and National Payments Card Retail Switch.
+        The PSDCP had collaborated with Germany's Kreditanstalt fur Wiederaufbau and the United
+         Nations Development Programme to establish the FPM ASBL as a non-profit organization that
+         would deliver technical assistance to financial institutions. For this Financial Infrastructure and
+         Markets Project, the FPM ASBL would act as the executing agency for technical assistance
+         activities that aimed to build the institutional capacity of MFIs, financial cooperatives, and
+         commercial banks to service MSMEs.
+
+  Technical, Operational, and Safeguards and Fiduciary Plans. The Bank made adequate plans for the
+  implementation of the project that were described in sufficient detail in the PAD (Annex 3 -
+  Implementation Arrangements, pages 57-73) and incorporated in the Financing Agreement.
+
+        As detailed in the Financing Agreement (page 19), a Project Operations Manual specified: (a) the
+         work program for the first year of project implementation; (b) the M&E indicators to be used;
+         (c) disbursement arrangements for the project funds; (d) the procedures for procurement of
+         goods, works, consulting and non-consulting services; the processing of payments for operational
+         costs; and the conduct of training and workshops, financial management, and audits; and (e)
+         the functions and responsibilities of the Project Coordination Unit.
+        As detailed in the Financing Agreement (page 18), a Line of Credit Operations Manual prescribed
+         the eligibility criteria for the intermediary financial institution and participating financial institutions;
+         the positive and negative list of MSME projects that could be financed by the line of credit; and
+         templates for the partnership agreement (between the government and the intermediary financial
+         institution) and the on-lending agreements (between intermediary financial institution and
+         participating financial institutions).
+        As detailed in the PAD (Annex 3), the institutional and implementation arrangements were fairly
+         specific at project design, taking into account weak capacities and previous coordination failures
+         in the DRC public sector: (a) the project would be anchored within the MOF; (b) a Steering
+         Committee chaired by the Minister of Finance and with representatives from the BCC, the
+         Association of Congolese Banks, FPM ASBL, the selected intermediary financial institution, the
+         private sector, and civil society would provide strategic guidance; (c) the Cellule d'Exécution des
+         Financements en Faveur des Etats Fragiles (CFEF) under the MOF would serve as the Project
+         Coordination Unit and be responsible for overall project coordination, M&E, and financial
+
+
+                                                                                                           Page 11 of 18
+  Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+  DRC:Financial Infrastructure and Markets (P145554)
+
+
+
+       management; (d) the Cellule de Gestion des Projets et des Marchés Publics (CGPMP) under the
+       MOF would be in charge of procurement; and (e) the BCC would be the executing agency for the
+       first project component; the BCC, FPM ASBL and CFEF, for the second; and the selected
+       intermediary financial institution, for the third.
+
+Risk Assessment and Mitigation Measures. The PAD (Annex 5 - Operational Risk Assessment
+Framework, pages 83-86) assessed the operational risks to the project and recommended mitigation
+measures that were adequate to address the risks.
+
+      Stakeholder risk was considered substantial – civil servants who were key
+       to project implementation lacked performance incentives. To mitigate the risk, a project terms of
+       reference with clear deliverables and responsibilities was prepared. To cultivate a "performance
+       culture", annual evaluations were to be conducted with a focus on individual and organizational
+       performance.
+      Institutional capacity risk was assessed as substantial – the implementing agency lacked the
+       technical capacity to implement the project activities in a timely manner. To mitigate the risk, the
+       project coordination unit at the MOF that was established with the assistance of the African
+       Development Bank and that previously managed the DRC Western Growth Poles Project
+       (P124720) would act as the project coordination unit for this project. Procurement and financial
+       management specialists were appointed; a Project Operations Manual was drafted; and capacity
+       building workshops were organized early on.
+      Project design risk was rated substantial – the project was relatively complex due to the
+       large number of activities and the large number of stakeholders, which created coordination
+       risks. To mitigate the risk, experts from development partners, non-government organizations,
+       and the private sector were tapped to support the implementation of the project.
+      Project monitoring risk was considered substantial – monitoring capacities were weak overall. To
+       mitigate the risk, an M&E system that could quickly collect data to enable the adoption of
+       corrective measures was established. A mid-term review was planned to assess progress toward
+       the project objectives and offer recommendations and corrective measures to improve results
+       delivery.
+
+Some Deficiencies. There were some shortcomings at appraisal.
+
+      Many results indicators were not defined and the cost of the National Payments Card Retail
+       Switch was under-estimated. These were to be addressed at restructuring.
+      The willingness of all financial institutions to integrate into the National Payments Card Retail
+       Switch was not verified ex-ante. During project implementation, banks that owned the private
+       payment switch Multiplay were reluctant to cooperate with the integration, delaying the adoption of
+       the new switch and the organization of the SMIC. The banks have since submitted to system
+       integration testing.
+      The continued settlement of US dollar transactions was readily assumed. As noted earlier, the
+       BCC halted US dollar transactions in the RTGS and the ACH in December 2019 upon the request
+       of the U.S. Department of the Treasury.
+
+
+
+
+                                                                                                 Page 12 of 18
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     DRC:Financial Infrastructure and Markets (P145554)
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ The Bank supported the implementation of the project through regular implementation support missions.
+
+ The Bank filed 11 Implementation Status and Results Reports (ISRs) over the six-year duration of the
+ project, or about two a year, the average for Bank projects.
+
+ The Bank conducted the mid-term review (MTR) in June 2017.
+
+ According to the ICR (page 20):
+
+       The implementation support missions provided "timely guidance" to the government to address
+        project implementation challenges. The Bank requested more frequent meetings with the
+        government after the implementation performance (IP) rating was downgraded from satisfactory to
+        moderately satisfactory in mid-2015.
+       Following the MTR, the Bank requested the MOF to improve the project implementation
+        arrangements to address two pressing problems, with positive results: (a) the CFEF had not
+        allocated sufficient resources to the project – the second restructuring increased the amount of
+        project funds for project management; and (b) FPM SA, which acted as the intermediary financial
+        institution for the pilot phase of the line of credit, had extended short-term rather than long-term
+        loans and had not supplied the data required under the partnership agreement – an audit was
+        conducted of the pilot phase, following which the FPM SA was dropped as the intermediary
+        financial institution for the scale-up phase of the line of credit.
+       The Bank acted proactively to restructure the project twice, the first time in August 2016 to change
+        the results framework and the second time June 2018 to change the project components and costs
+        (see Section 2.D).
+       Changes to the Bank task team leadership were managed well. In the two cases of leadership
+        changes, the incoming task team leader was provided sufficient time to familiarize himself with the
+        project and to engage with the government's development partners.
+
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+
+
+                                                                                                 Page 13 of 18
+     Independent Evaluation Group (IEG)                                   Implementation Completion Report (ICR) Review
+     DRC:Financial Infrastructure and Markets (P145554)
+
+
+
+a. M&E Design
+ The Project Appraisal Document (pages 32-38) identified nine output indicators and six outcome indicators
+ to measure the degree of achievement of the project objectives. However, the PAD failed to define seven
+ of the nine output indicators and one of the six outcome indicators.
+
+ The Project Coordination Unit at the MOF was responsible for the project M&E, assisted by the Project
+ Executing Unit at the BCC. For this purpose, the Project Coordination Unit would employ an M&E
+ specialist.
+
+
+
+b. M&E Implementation
+  The restructuring of August 2016 revised the results framework of the project to better align the choice of
+  results indicators with data availability and the M&E capacities of the executing agencies – the final
+  results framework had ten output indicators and six outcome indicators. While improved, the results
+  framework still lacked indicators to measure vital aspects of the project, according to the ICR (page 18),
+  including indicators to measure: (a) the cost and the time to process payments in the national payments
+  system; (b) the maturities of the MSME loans granted from the line of credit – to verify the provision of
+  term financing to MSMEs; and (c) loan repayments – to indicate the quality of bank intermediation.
+
+  According to the ICR (pages 18-19), M&E implementation was overrun with problems.
+
+        It took the Project Coordination Unit some time to set up the M&E system.
+        It was difficult to collect the M&E data from the FPM SA which acted as the intermediary financial
+           institution for the pilot phase of the line of credit (see Section 7).
+        The BCC did not enforce the requirement that disbursement requests be supported by the list of
+         MSME projects to be financed.
+        Hence, M&E data could not be reported until the second half of project implementation, after the
+         BCC replaced the FPM SA as the intermediary financial institution for the scale-up phase of the
+         line of credit (see Section 7).
+        And, the government could only submit annual rather than bi-annual reports as required in the
+         Financing Agreement.
+
+  Monitoring and evaluation was rated unsatisfactory in the ISRs until October 2018. It was upgraded to
+  moderately satisfactory in March 2019 and through to the last ISR in June 2020.
+
+
+
+c. M&E Utilization
+  According to the ICR (page 19), the Project Coordination Unit could only report on annual rather higher-
+  frequency data early on. Hence, it took time for the M&E data to be useful as a management tool. The
+  M&E data were, however, ultimately useful for the preparation of the ICR.
+
+
+
+  M&E Quality Rating
+  Modest
+
+                                                                                                       Page 14 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     DRC:Financial Infrastructure and Markets (P145554)
+
+
+
+
+10. Other Issues
+
+a. Safeguards
+   Environmental and Social Safeguards. According to the Project Appraisal Document (page 29), this
+   project was not expected to have adverse environmental and social impacts overall. The first and second
+   project components focused on institutional support and did not include direct investments in infrastructure
+   or in land acquisition that could induce adverse impacts. For the third project component, however, the line
+   of credit to MSMEs could involve land acquisition through third-party (MSME) investments. Consequently,
+   the Bank would apply International Finance Corporation (IFC) performance standards in lieu of
+   Bank safeguard policies, following OP 4.03 - Performance Standards for Private Sector Activities which
+   allowed the Bank to apply the IFC standards to project components that were designed, owned, constructed
+   or operated by a private entity. The project was classified as an environmental assessment category FI-2
+   based on "the anticipated knowledge that the on-lending activities under the third project component may
+   lead to sub-projects that have potential limited adverse environmental or social risks or impacts that are few
+   in number, generally site-specific, largely reversible, and readily addressed through mitigation
+   measures." The following IFC performance standards would apply: Performance Standard 1 (Assessment
+   and Management of Environmental and Social Risks and Impacts); Performance Standard 2 (Labor and
+   Working Conditions); Performance Standard 4 (Community Health, Safety, and Security); and Performance
+   Standard 5 (Land Acquisition and Involuntary Resettlement). To implement the standards, the executing
+   agencies would assess the environmental and social risks of transactions and require borrowers and
+   investees to comply with these standards.
+
+   According to the ICR (page 19), the Project Coordination Unit prepared an Operations Manual that
+   subscribed to the IFC performance standards and which guided environmental and social risk management
+   during project implementation. However, the Project Coordination Unit was not able to hire an
+   environmental and social risk management specialist until mid-2018. Hence, the Bank lacked the
+   information to assess the effectiveness of the environmental and social risk screening of MSME sub-
+   projects. Compliance with safeguards was not rated for this project.
+
+
+
+
+b. Fiduciary Compliance
+   Procurement. The Financing Agreement required the procurement of goods, works, and non-consulting
+   services to follow the Bank's Guidelines: Procurement of Goods, Works and Non-consulting Services
+   under IBRD Loans and IDA Credits and Grants by World Bank Borrowers, dated January
+   2011. Procurement of consultant services would follow the Bank's Guidelines: Selection and Employment
+   of Consultants under 1BRD Loans and IDA Credits and Grants by World Bank Borrowers, also dated
+   January 2011. According to the ICR (page 19), the project did not face any significant procurement issue
+   during project implementation. Procurement was rated moderately satisfactory in the last ISR (June 2020).
+
+   Financial Management. The Financing Agreement required the disbursement procedures to follow the
+   International Development Association General Conditions for Credits and Grants, dated July
+   2010. Moreover, the government would have to submit to the Bank quarterly interim unaudited financial
+   statements for the project not later than forty-five days after the end of each calendar quarter. The
+   government would also have its annual financial statements audited and submit the audited financial
+
+                                                                                                   Page 15 of 18
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     DRC:Financial Infrastructure and Markets (P145554)
+
+
+
+   statements to the Bank not later than six months after the end of each fiscal year. According to the ICR
+   (page 19), the project did not face any significant financial management compliance issue during project
+   implementation. Financial management was rated moderately satisfactory in the last ISR (June 2020).
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                  Reason for
+Ratings                         ICR                       IEG
+                                                                                  Disagreements/Comment
+                                                                                  This Review rates the efficiency
+                                                                                  of the project as modest, as
+Outcome                         Satisfactory           Moderately Satisfactory
+                                                                                  there is little evidence in the ICR
+                                                                                  to assess economic efficiency.
+                                                                                  This Review considers the
+                                                                                  quality of the project's design to
+                                                                                  have been only moderately
+                                                                                  satisfactory because of design
+Bank Performance                Satisfactory           Moderately Satisfactory
+                                                                                  shortcomings at appraisal..
+                                                                                  Shortcomings during supervision
+                                                                                  also resulted in a moderately
+                                                                                  satisfactory rating.
+Quality of M&E                  Modest                 Modest
+
+Quality of ICR                  ---                    Substantial
+
+
+12. Lessons
+
+Three lessons are drawn from the Implementation Completion Report (page 21), with some
+adaptation.
+
+Dollarization presents an opportunity to leverage Bank funds to mobilize private capital for
+lending to micro, small and medium enterprise. In this project, the US dollar line of credit was
+highly valuable to banks and other financial institutions in the Democratic Republic of Congo, where
+the US dollar is the primary currency used in settling financial transactions. The Bank could have
+used this opportunity to require co-financing by the participating financial institutions in the line of
+credit operation that aimed to provide term financing to micro, small and medium enterprises. The
+strategy would have been feasible, according to the Implementation Completion Report, because of
+the high level of dollarization of the economy. This project, however, did not require co-financing by
+the participating financial institutions which could have mobilized savings in the economy, including
+
+
+                                                                                                     Page 16 of 18
+       Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+       DRC:Financial Infrastructure and Markets (P145554)
+
+
+
+US dollar savings, for term lending to micro, small and medium enterprises..
+
+Adherence to international Anti-Money Laundering/Combating the Financing of
+Terrorism standards is vital to the successful operation of national payments systems,
+particularly payments systems that process multiple currencies. In this project, the Banque
+Central du Congo halted the settlement of US dollar transactions in the real-time gross settlement
+system and the automated clearinghouse system upon the request of the U.S. Department of the
+Treasury. The mutual evaluation report prepared by the Groupe d'Action Contre le Blanchiment
+d'Argent en Afrique Centrale, based on a mission in August 2018, found the Democratic Republic of
+Congo to be non-compliant with 15 of 40 Financial Action Task Force recommendations. According
+to the report, the country's Anti-Money Laundering/Combating the Financing of Terrorism system
+remained relatively ineffective, despite the commitment of the political authorities – there were
+notable shortcomings in the implementation of key mechanisms including national coordination, the
+definition of a supervision policy emphasizing the risk-based approach, and the supervision of
+financial institutions and designated non-financial businesses and professions. Future fulfillment of
+the Financial Action Task Force recommendations could help unlock the real-time gross
+settlement and automated clearinghouse systems to US dollar transactions settlement.
+
+The costs of complex information technology systems for a national payments infrastructure
+can be easily under-estimated and must be rigorously calculated and evaluated. In this
+project, the cost of the National Payments Card Retail Switch was far higher than originally
+estimated. The number of institutions that had to be connected to the system and their willingness
+and capacity to conduct the system integration activities were easily overlooked. The much larger
+scope of the customization that was required raised the cost of developing and deploying the
+information technology infrastructure.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+Consistency with Guidelines. The ICR was prepared consistent with OPCS guidelines, with complete
+sections and adequate coverage of topics as required by the guidelines.
+
+Conciseness. The account of the project's performance is well informed and concisely presented. The
+discussions are comprehensive but to the point.
+
+Results Orientation. The assessment of efficacy of the project was outcome-oriented and based on the degree
+of achievement of the results and outcome targets. The assessment was also candid – the settlement of US
+dollar transactions in the RTGS and ACH was halted due to AML/CFT issues; the SMIC, tasked to manage
+the National Payments Card Retail Switch, was not operational; and the FPM SA, selected to intermediate the
+line of credit, performed poorly in the pilot phase and was replaced by the BCC.
+
+
+
+                                                                                                  Page 17 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     DRC:Financial Infrastructure and Markets (P145554)
+
+
+
+Quality of Evidence. The ICR cites three shortcomings at appraisal, meriting a rating for Bank performance at
+entry of moderately satisfactory. The ICR cites five shortcomings with M&E implementation, which deserved
+only a modest rating. These ratings were well-based on the evidence available.
+
+Quality of Analysis. The quality of analysis was substantial and candid. Recent adverse macroeconomic
+developments, the rudimentary state of the banking system and AML/CFT issues, governance and institutional
+capacity problems, and the dollarization of the economy and the complexity of IT projects affected the
+implementation of the project.
+
+Lessons. The lessons were based on evidence and analysis. The lesson on co-financing was drawn from the
+analysis of the efficacy of the second objective, the lesson on AML/CFT, from the analysis of key factors during
+implementation, and the lesson on IT costs, from the analysis of significant changes during implementation.
+
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                   Page 18 of 18
+

@@ -1,0 +1,837 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     WARCIP GUINEA-BISSAU (P155876)
+
+
+
+                                                                                  Report Number: ICRR0023574
+
+1. Project Data
+
+
+
+ Project ID                                  Project Name
+ P155876                                     WARCIP GUINEA-BISSAU
+
+ Country                                     Practice Area(Lead)
+ Western and Central Africa                  Digital Development
+
+
+ L/C/TF Number(s)                            Closing Date (Original)               Total Project Cost (USD)
+ IDA-59970                                   31-May-2022                                         34,722,547.78
+
+ Bank Approval Date                          Closing Date (Actual)
+ 24-Mar-2017                                 30-Nov-2022
+
+                                             IBRD/IDA (USD)                                     Grants (USD)
+
+ Original Commitment                            35,000,000.00                                               0.00
+
+ Revised Commitment                             35,000,000.00                                               0.00
+
+ Actual                                         34,722,547.78                                               0.00
+
+
+
+
+ Prepared by                  Reviewed by                  ICR Review Coordinator         Group
+ Ranga Rajan                  Avjeet Singh                 Avjeet Singh                   IEGSD (Unit 4)
+ Krishnamani
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development objectives (PDO) as stated in the Financing Agreement (FA, Schedule 1, page 5)
+   and in the Project Appraisal Document (PAD, page 8) are:
+
+   " To contribute to increasing the geographic reach of broadband networks and reduce costs of
+   communication services in Guinea Bissau and between Guinea Bissau and the Economic Community
+   of West African States (ECOWAS) ".
+
+
+                                                                                                   Page 1 of 16
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     WARCIP GUINEA-BISSAU (P155876)
+
+
+
+   The PDOs are unpacked for this Implementation Completion Report (ICR) review as follows:
+
+   PDO 1. To contribute to increasing the geographic reach of broadband networks in Guinea Bissau.
+
+   PDO 2. To reduce costs of communication services in Guinea Bissau.
+
+   PDO 3. To contribute to reducing costs of communication services between Guinea Bissau and ECOWAS
+   countries.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   This project was the third phase of the World Bank's West Africa Regional Communications Infrastructure
+   Program (WARCIP) Series of Projects (SoPs) aimed at increasing the geographic reach of broadband
+   networks and reducing the costs of communication services. The first phase was in Liberia, Sierra Leone
+   and Guinea, the second in Gambia, Burkina Faso and Benin and the third in Mauritania and Togo. There
+   were four components (PAD, 9 -12).
+
+   Component 1. Supporting Connectivity. The estimated cost at appraisal was US$31.5 million. The actual
+   cost was US$31.4 million. There were two sub-components:
+
+   A. Connection to the West Africa to Europe ACE international submarine cable. This sub-component
+   planned to finance the connection to the ACE (Africa Coast to Europe) international submarine cable by
+   covering the cost of the ACE consortium fee and construction of a landing station in Guinea Bissau and a
+   submarine fiber optic link connecting the domestic landing station in Guinea Bissau to the ACE landing
+   station in Senegal; and
+
+   B. Building a Critical Terrestrial Fiber Optic Missing Link. This sub-component planned to finance the
+   construction of a terrestrial fiber optic missing link connecting the ACE landing station in Guinea Bissau to
+   the entry point of the regional power transmission infrastructure - West Africa Power Pool (WAPP) and its
+   sub-program, Organization for the Development of the Gambia River (OMVG).
+
+   Component 2. Creating an enabling environment for improved connectivity. The estimated cost at
+   appraisal was US$2.0 million. The actual cost was US$1.0 million. This component planned to finance
+   technical assistance (TA) for sector reforms aimed at increasing competition and promoting broadband use.
+   There were four sub-components:
+
+   A. Transaction design for Public-Private Partnership (PPP). This sub-component aimed to support the
+   design, commercial and financial closing of the transaction and operating model for the ownership and
+   management of the international, regional and national infrastructure using PPP frameworks and open
+   access principles, including signature of the Contractual Arrangement by public-private stakeholders.
+
+
+
+                                                                                                     Page 2 of 16
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    WARCIP GUINEA-BISSAU (P155876)
+
+
+
+  B. Strengthening the institutional capacity. This subcomponent planned to strengthen the institutional
+  capacity of the Ministry of Transport and Communications (MTC) through: (i) developing a master plan for
+  the Information and Communication Technologies (ICT) sector, including strategic orientations on e-
+  government and universal access; (ii) revising the outdated telecom law of 2010 and preparing new laws
+  and decrees; (iii) financing a feasibility study for an Internet Exchange point in Guinea Bissau under PPP
+  arrangement and open access principles: (iv) a strategic study on the regulation of public domain
+  occupation and cross sector synergies between civil works conducted under public infrastructure projects
+  (transport, telecom, and electricity); (v) a strategic study on telecom taxation; and (vi) an audit and due
+  diligence of the Universal Service Proceeds and e-government strategy.
+
+  C. Options for strategic repositioning of GuineTelecom/GuineTel). This subcomponent planned to
+  support the preparatory work for restructuring GuineTelecom/GuineTel through a study to identify options
+  for the strategic repositioning of GuineTelecom/GuineTel.
+
+  D. Regulatory capacity building. This subcomponent planned to strengthen the institutional capacity of
+  the National Regulatory Authority for Information and Communication Technologies (ARN) for regulating a
+  competitive telecom market through: (i) defining procedures and preparing regulation decisions to attribute
+  licenses and authorizations to new market players (such as internet service providers, infrastructure
+  operators, Mobile Virtual Network Operators (MVNOs); (ii) preparing regulation decisions on passive
+  infrastructure sharing and national roaming practices: (iii) preparing a cost model, wholesale catalogs and
+  regulation decision on dominant position in relevant markets: and (iv) preparing a feasibility study for
+  implementing an ICT observatory.
+
+  Component 3. Project Implementation. The estimated cost at appraisal was US$1.4 million. The actual
+  cost was US$1.4 million. This component planned to finance: (i) environmental and social studies; (ii)
+  support the Government in implementing components one and two; and (iii) financing the cost of setting up
+  a Project Implementation Unit (PIU), office equipment and operating, training, audits, communication and
+  monitoring and evaluation (M&E) costs.
+
+  4. National backbone and Restructuring of GuineTelecom/GuineTel (through private sector
+  contribution). The estimated cost at appraisal was US$16.0 million. The actual cost was US$2.8 million.
+  There were two subcomponents:
+
+  Sub-component one. The activities included: (i) constructing terrestrial fiber optic missing links connecting
+  Bissau city to the secondary cities; and (ii) TA for determining the technical aspects related to the design of
+  the missing terrestrial links through an engineering survey; (iii) identifying and selecting the PPP
+  arrangement through a feasibility study of backbone ownership and management options and preparing the
+  bidding documents for constructing the terrestrial missing links and the necessary control/evaluation
+  contracts.
+
+  Sub-component two. TA aimed at preparing a privatization transaction for Guine Telecom/GuineTel.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project cost. The estimated cost at appraisal was US$35.0 million. The private sector contributed to the
+  component four activity. With private sector contribution the total actual cost was US$36.6 million.
+
+
+
+                                                                                                    Page 3 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     WARCIP GUINEA-BISSAU (P155876)
+
+
+
+   Project financing. The project was financed by an International Development Association (IDA) credit of
+   US$35.0 million. The amount disbursed was US$34.7 million.
+
+   Borrower contribution. Borrower contribution was not planned at appraisal. There was no borrower
+   contribution during implementation.
+
+   Dates. The project was approved on March 24, 2017, became effective on May 29, 2018, and scheduled to
+   close on May 31, 2022. The project closed six months behind schedule on November 30, 2022.
+
+   Changes. These changes were made through a level 2 restructuring on April 26, 2022.
+
+         The closing date was extended by six months for completing the remaining activities which were
+          delayed due to the combined impact of the COVID - 19 pandemic and political and social
+          challenges.
+         Four planned TA activities were cancelled due to the lack of government interest in pursuing them.
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country context. Guinea Bissau is one of the most politically fragile countries in the world, with four
+successful military coups, 16 attempted/plotted or alleged coups since its independence in 1974 and
+governance turnover every year between 1999 and 2009. The World Bank classifies Guinea Bissau as a
+fragile, conflict and violent (FCV) country due to its weak governance and social fragility.
+
+Regional sector context. Guinea Bissau is part of the ECOWAS region. The telecommunications market
+of the ECOWAS region is fragmented, with high prices for Information and Communication Technology
+(ICT) services that hindered economic and social exchanges between ECOWAS member countries. A
+regional approach to improving cross-border communications so that the region could leverage scale
+economies and reap the development benefits of internet was important in the regional context.
+
+Country sector context. The Government had taken several steps to liberalize the ICT sector before
+appraisal. The Government privatized the state-owned telecommunications operator, created a mobile
+operator subsidiary, awarded a global system for mobile communications license to GuineTel, liberalized
+the mobile market by awarding two licenses to international operators and set an independent regulatory
+authority (ARN) in 2010. With the exception of the fixed-line segment which remained a monopoly, the
+telecommunications market was fully liberalized and telecommunications operators and internet service
+providers (ISPs) could deploy their infrastructure and provide international communications.
+
+However, the sector faced challenges with respect to coverage, quality and price of broadband
+services. Affordability was a problem as on average, a mobile user spent over 19% of their monthly income
+on mobile services. International connectivity was poor as each operator deployed their own satellite to
+bring international connectivity. Internet usage was limited to 4% of the population in 2015 (as compared to
+19% in The Gambia and 51% in Senegal). Guinea Bissau's broadband market was concentrated in the
+capital and had a penetration rate of only 0.9% (as compared to the ECOWAS average of 7%). Hence,
+improving access to international (via the submarine cable) and national terrestrial fiber optic connectivity
+
+                                                                                                   Page 4 of 16
+                                      Independent Evaluation Group (IEG)           Implementation Completion Report (ICR) Review
+                                      WARCIP GUINEA-BISSAU (P155876)
+
+
+
+               for every operator was seen by the Government as an effective option for improving coverage, quality and
+               price of broadband services in Guinea Bissau.
+
+               ECOWAS strategy. The PDO was consistent with the ECOWAS Regional Infrastructure Development
+               Master Plan and its strategic framework for 2015-2020. This framework underscored the need for
+               addressing the challenges highlighted in the ICT sector.
+
+               Government strategy. The PDO was well-aligned with Guinea Bissau's strategic and operational plan
+               Terra Ranka for 2015 - 2025 and with the National Development Plan for 2020 - 2023. These plans put
+               digital transformation at the forefront and articulated the need for ICT sector reforms for modernizing
+               political institutions.
+
+               Bank regional strategy. The PDO is very relevant to the Bank's Regional Strategy - Regional Integration
+               and Cooperation Assistance Strategy (RIAS) of 2018, and its update for the period 2021 - 2023. The focus
+               area one of the RIAS specifically articulated the need for improving regional connectivity.
+
+               Bank country strategy. At appraisal, the project was in line with the Country Engagement Note (2015) and
+               the Turnaround Eligibility Note (2016). These papers underscored the need for strengthening service
+               delivery and improving governance. The Bank's Systematic Country Diagnostic (SCD, 2016) highlighted the
+               role the ICT sector can play in increasing economic opportunities, productivity and financial inclusion in
+               Guinea Bissau. The Bank's 2020 Country Economic Memorandum (CEM) recognized that ICT services can
+               be an important driver of economic diversification and observed that increased connectivity with
+               neighboring countries would allow Guinean farmers to take advantage of the growing demand for their
+               products in the region. The PDO is well-aligned with the objective three of the Bank's Country Partnership
+               Framework for 2018 - 2023. The CPF highlighted the role that ICT can play in improving market access.
+
+               Previous Bank experience. The Bank had financed two phases of the WARCIP program aimed at
+               increasing the geographic reach of broadband networks and reducing the costs of communication services
+               in West Africa. This project in Guinea Bissau had ICT infrastructure investments and enabling environment
+               reforms adapted to the country context but set within a coordinated regional framework. The regional
+               framework was appropriate as this could be expected to ensure seamless options for connectivity and help
+               in leveraging scale economies.
+
+               Overall, given the alignment of the PDO to the Government strategy, ECOWAS strategy, and the Bank
+               strategies for Guinea Bissau, as well as the appropriate level of ambition within the coordinated regional
+               framework, the relevance of the PDO is rated as High.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                                                                                                                   Page 5 of 16
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   WARCIP GUINEA-BISSAU (P155876)
+
+
+
+
+OBJECTIVE 1
+Objective
+PDO 1. To contribute to increasing the geographic reach of broadband networks in Guinea Bissau.
+
+Rationale
+Theory of change. The outputs of infrastructure investments such as connecting to the ACE submarine
+cable, constructing domestic landing station, the submarine fiber optic link and the terrestrial fiber missing
+link were likely to result in increasing the geographic reach of broadband networks in Guinea Bissau. The
+causal links between project activities, outputs and outcomes were logical, and the intended outcomes were
+monitorable.
+
+Outputs/ Intermediate results (ICR, para 24).
+
+      The ACE submarine cable landing station - the project's major activity - was constructed as targeted.
+       However, this activity which was to be completed by 2018, became operational just two weeks before
+       project closure on November 30, 2022. The technical team in charge of day-to-day operation of the
+       landing station was established and trained by the Africa Coast to Europe (ACE) as targeted.
+      The strategic fiber optic backbone linking the cable landing station in Suro to the Organization for the
+       Development of the Gambia River (OMVG) fiber optic network in Antula and the terrestrial fiber
+       missing link were constructed as targeted.
+      Two operators and Internet service providers (ISPs) were buying capacity from the deployed
+       infrastructure, short of the target of three.
+
+Outcome.
+
+The outputs of activities described above were expected to lead to the outcomes of: (i) increasing the volume
+of international traffic; (ii) increase the number of people with internet access; (iii) increase the number of
+people with access to telephone services; and (iv) increase the number of project beneficiaries (including
+women).
+
+      The international internet bandwidth (bandwidth in Kilobits (Kbits/s per person) increased from 3.70
+       Kbits/s per person at the baseline in 2016, to 24.70 in 2022 (target 12.90). The end target was already
+       exceeded in 2020 when the volume reached 17.33 Kbit/s per person. This outcome was not
+       attributable to the project as the ACE submarine cable landing station - the project's major activity -
+       became operational just two weeks before project closure on November 30, 2022. The realized
+       outcomes were due to a combination of external regional trends (such as evolution of technology,
+       increased competition, decrease in the cost of internet bandwidth and impact of investments made by
+       private telecommunications operators in Guinea Bissau.
+      The number of people with internet access (number of subscribers per 100 people) increased from
+       4.60 in 2016 to 73.00 in 2022 (target 22.00). The number of people with access to telephone services
+       (fixed mainlines plus cellular phones per 100 people) increased from 72.00 in 2016 to 110.00 in 2022
+       (target 82.00). The number of direct beneficiaries increased 1.3 million in 2016, to 1.8 million in 2022,
+       (target 1.7 million). 51% of the beneficiaries were women as per the target. Although the outcomes
+       were exceeded, they were due to external factors and not to the main project activity, which was
+       completed just two weeks before project closure.
+
+
+
+                                                                                                  Page 6 of 16
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   WARCIP GUINEA-BISSAU (P155876)
+
+
+
+Although the outputs were achieved as targeted and the outcomes were exceeded, the latter was largely due
+to external factors (ICR, para 31) and could not be attributed to the project. Therefore, the efficacy of this
+PDO is rated as Modest.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 2
+Objective
+PDO 2. To reduce costs of communication services in Guinea Bissau.
+
+Rationale
+Theory of change. The activities listed above together with the activities aimed to promote PPP in the ICT
+sector, strategic repositioning of Guinea Telecom/Guinea Tel and building the regulatory capacity of
+the Ministry of Transport and Communications (MTC) were likely to help in providing an enabling environment
+for private sector development in the ICT sector. The outputs were likely to reduce the costs of
+communication services in Guinea Bissau. The causal links between the project activities, outputs and
+outcomes were logical. The intended outcomes were monitorable. The outcomes were predicated on the
+assumption that the Special Purpose Vehicle (SPV) is established and operational.
+
+Outputs/ Intermediate results. (ICR, pages 12 -13).
+
+      The operating model for the ownership and management of the financed connectivity infrastructure
+       using PPP frameworks and open access principles was completed as targeted. This led to the
+       creation of the Cape Guinea Bissau Company (SCGB) - the Special Purpose Vehicle (SPV) - that
+       owns and operates the submarine cable landing station and the Suro - Antula backbone. The private
+       sector owned 51% of the shares of SPV.
+      Under the TA activities for the project: (i) A master plan for the ICT sector was developed; (ii) The
+       outdated telecom law of 2010 was reviewed and new laws and decrees were enacted; (iii). A
+       feasibility study for a future Internet Exchange Point (IXP) and a strategic study on telecom taxation'
+       were completed as targeted.
+      A study identifying the strategic repositioning of Guine Telecom/Guine Tel was completed. Some
+       recommendations of this study such as amicable conclusion of the worker's contract and payments of
+       the debts of Guine Telecom/Guine Tel were completed.
+      Four planned TA activities were cancelled due to the lack of government interest in pursuing them.
+       These activities were: (i) Strategic study on regulation of public domain occupation and cross sector
+       synergies between the civil works conducted under public infrastructure projects; (ii) audit and due
+       diligence of the Universal Service Proceeds and e-Government agency; (iii) definition of procedures
+       and preparation of regulation decisions to attribute licenses to new market players; and (iv) feasibility
+       study for the implementation of an ICT observatory.
+
+Outcomes.
+
+
+
+
+                                                                                                   Page 7 of 16
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   WARCIP GUINEA-BISSAU (P155876)
+
+
+
+The construction of the ACE submarine cable and the TA activities aimed at facilitating private sector
+investments in the ICT sector were expected to contribute to the outcome of reducing the costs of
+communication services in Guinea Bissau.
+
+      The domestic retail price of internet services (per megabit/per month (Per Mbit/per month) in US$ fell
+       rather substantially from US$736.00 to US$15.69 when the project closed, far exceeding the target of
+       US206.00.
+      The average monthly price of international wholesale E1 capacity link from Guinea Bissau to Europe
+       dropped from a baseline of US$4,000.00 in 2016, to US$140.00 in 2021 and 2022. (Target
+       US$169.00). However, this outcome was due to exogenous regional developments in the ICT sector,
+       rather than due to the main project activity, which was only completed just two weeks before closure in
+       2022.
+
+Although the project did contribute substantially to creating an enabling environment for private sector
+participation in the ICT sector, the realized outcomes were not entirely attributable to the main project activity.
+Therefore, the efficacy of this PDO is rated as Modest.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 3
+Objective
+PDO 3. To contribute to reducing costs of communication services between Guinea Bissau and ECOWAS
+countries.
+
+Rationale
+Theory of change. The outputs of activities listed under the two PDOs listed above together with the number
+of cross border interconnections that were built were likely to help in reducing the costs of communication
+services between Guinea Bissau and ECOWAS countries. The causal links between the project activities,
+outputs and outcomes were logical and the intended outcomes were monitorable.
+
+Outputs. (ICR, page 28)
+
+In addition to the outputs listed above, which were also relevant for this objective, the following output was
+pertinent for this PDO.
+
+      One cross-border connection was built, short of the target of two.
+
+Outcomes.
+
+The project activities were expected to lead to the outcome of reducing the costs of communication services
+between Guinea Bissau and ECOWAS countries.
+
+
+
+
+                                                                                                     Page 8 of 16
+                               Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+                               WARCIP GUINEA-BISSAU (P155876)
+
+
+
+
+                                  It is reasonable to assume that costs of communication services between Guinea Bissau and
+                                     ECOWAS countries reduced given the observed reduction of domestic prices discussed above.
+                                     However, the reduction was likely due to exogenous regional developments in the ICT sector.
+
+                            The efficacy of this PDO is rated as Modest.
+
+
+
+                            Rating
+                            Modest
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            Even though the project achieved the outputs, and contributed towards building an enabling environment
+                            conducive to the achievement of the outcomes, the overall efficacy is rated as Modest, since the achievement
+                            of outcome indicators is largely attributed to other factors.
+
+
+
+                            Overall Efficacy Rating                                Primary Reason
+                            Modest                                                 Insufficient evidence
+
+
+    5. Efficiency
+   Economic analysis. The economic analysis was based on a World Bank 2019 study which noted that a 10
+   percentage point increase in internet usage would increase Gross Domestic Product (GDP) by 1.38%. A " with
+   the project ' and " without the project ' cost-benefit analysis was conducted at appraisal for connectivity
+   infrastructure investments. These activities accounted for 90% of the estimated cost at appraisal and 92% of the
+   actual cost.
+
+   The analysis at appraisal assumed the following: (i) ACE investment participation cost are paid in 2017 and
+   2018 and the maintenance cost are paid; (ii) cost of the terrestrial link between the landing station in Suro and
+   the OMVG point of presence in Antula; (iii) discount rate of 10%; and (iv) revenues from the ACE would begin in
+   2018. The expected benefits were to come from reduction in wholesale internet prices. The ex-ante Internal
+   Rate of Return (IRR) would range between 11% and 22% and the Net present Value to 2032 would range
+   between US$17.6 and US$48.8 million.
+
+   The ACE submarine cable landing station was constructed just two weeks before the project closed. The ICR
+   (page 36) noted that the operating time of two weeks was too short to assess the return on investment
+   generated by an infrastructure with a 20 year life time. Hence, the NPV and the ex-post IRR were not calculated
+   at project closure.
+
+   The economic impact of the project on GDP was estimated at US$115,453,927 over the 2017 - 2021
+   period, was almost four times the amount invested in the project. This did not include the 2022 GDP impact due
+
+                                                                                                                           Page 9 of 16
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      WARCIP GUINEA-BISSAU (P155876)
+
+
+
+to data constraints. The ICR (para 33) noted that the direct and indirect positive development impacts on the ICT
+sector will continue well beyond this project, which showed the great value for money in an FCV country
+context.
+
+Administrative and operational issues during implementation. Delayed annual contributions from the
+Government and the Mobile Telecommunications Network (MTN) to the Cape Guinea Bissau Company's
+(SCGB) operational budget hindered SCGB's ability to hire the technical staff required to operationalize the ACE
+submarine cable. Implementation was also significantly affected by factors such as prolonged political instability
+(including eight major changes at the ministry level. Due to these factors the ACE submarine cable which was to
+be operationalized by 2018, was completed just two weeks before project closing on November 2022. However,
+investments supporting connectivity were for the most part completed, albeit with significant delays when the
+project closed.
+
+In the absence of an ex-post NPV and EIRR estimate as well as implementation delays which led to the
+completion of activities just two weeks before closure due to which the intended outcomes could not be realized
+during the project period, overall efficiency is rated as Modest.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                     90.00
+ Appraisal                                                 16.50
+                                                                                      Not Applicable
+                                                                                     0
+ ICR Estimate                                               0
+                                                                                      Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of the PDOs to the Government, regional and Bank strategies for Guinea Bissau and the region
+are rated as High. Efficiency is rated as Modest in the absence of ex-post EIRR and due to implementation
+delays which affected the realization of outcomes within the project period. Even though the outcomes were
+substantially achieved, overall efficacy is rated as Modest, due to attributional issues discussed earlier. The
+overall outcome is rated as Moderately Unsatisfactory.
+
+
+a. Outcome Rating
+   Moderately Unsatisfactory
+
+
+
+                                                                                                    Page 10 of 16
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      WARCIP GUINEA-BISSAU (P155876)
+
+
+
+
+7. Risk to Development Outcome
+
+Government commitment. There is a moderate risk to the sustainability of development outcomes. The
+ICR (para 61) notes that the development outcomes of facilitating private sector development in the ICT
+sector are likely to be sustained, given the signing of shareholder agreements for the financing, operation,
+and maintenance of the Cape Guinea-Bissau Company (SCGB).
+
+However, there is a moderate risk of non-compliance with the shareholders' agreement by the private
+operator (the Mobile Telecommunications Network (MTN), given the persistent lack of financial contributions,
+which could compromise the operation and maintenance of this infrastructure. There is also a risk that MTN's
+financial performance may affect the SCGB's ownership and performance.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  At appraisal, the Bank conducted a background analysis to evaluate options to address the connectivity
+  challenges specific to Guinea Bissau. Best practices and international experience from Bank-financed
+  regional connectivity programs indicated that the best management structures for high-capacity
+  broadband networks were under a PPP. The Bank prepared this project based on the lessons learned
+  from regional connectivity projects in West, Central, Eastern and Southern Africa and the Caribbean
+  region. The lessons incorporated at design included (i) safeguards assessments of the landing stations
+  and (iii) formulating a tailored PPP arrangement and open access principles in consultation with
+  stakeholders as early as possible in project life. The design included a Project Preparation Advance
+  (PPA). This ensured that the PPP framework was in place for project effectiveness. Also, the
+  Government officially committed in the form of a Memorandum on creating a Special Purpose Vehicle
+  (SPV) that was signed by the Government and the private operators.
+
+  The implementation arrangements were appropriate with a new Project Implementation Unit (PIU)
+  established under the Secretary of State for Transportation and Communications in charge of project
+  implementation.
+
+  The Bank identified several risks at appraisal including high political and governance risks. The mitigation
+  measures included maintaining continued dialogue with stakeholders and establishing an SPV to
+  international best practices standards to ensure stakeholders' accountability. The mitigation measures
+  proved adequate, as the project performance was not undermined by the risks identified at appraisal. The
+  arrangements made at appraisal for safeguards and fiduciary compliance were appropriate (discussed in
+  section 10).
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+                                                                                                    Page 11 of 16
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     WARCIP GUINEA-BISSAU (P155876)
+
+
+
+
+b. Quality of supervision
+ The Bank's supervision team included an ICT policy specialist and social development, environmental,
+ M&E, and fiduciary specialists with experience supporting similar projects in challenging circumstances
+ (ICR, para 59). The Bank's technical and fiduciary teams provided guidance and support through the
+ project restructuring to give additional time for completing the ongoing activities that were delayed due to a
+ combination of factors, including political challenges and restrictions in the wake of the COVID-19
+ pandemic. The Bank conducted supervision missions in Guinea Bissau when possible or through virtual
+ missions when necessary. The project's Mid-Term Review (MTR) was held in July 2021.
+
+ There was one shortcoming. Given that the major outcomes were realized and the major project activity
+ was completed two weeks before project closure, the supervision team could have restructured the project
+ to rectify the M&E shortcomings (discussed in section 9). The Implementation Status Results (ISR) Reports
+ could have also been more candid since the project was consistently rated in the satisfactory range during
+ implementation.
+
+ Overall, the Bank performance at Supervision is rated as Moderately Satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Moderately Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The M&E framework was based on the design of the other phases of the WARCIP program and used
+ similar indicators. The key outcome indicators - the volume of international traffic, increase in the number of
+ people with access to internet and telephone services, the average monthly price of an international
+ capacity link from Guinea Bissau to Europe, and the number of direct project beneficiaries were
+ measurable and appropriate for monitoring project performance. The WARCIP PIU was responsible for
+ collecting, reviewing, and validating data collected by the National Regulatory Authority for Information and
+ Communication Technologies (ARN) and the Cape Guinea Bissau Company (SCGB).
+
+
+
+b. M&E Implementation
+  The ICR (para 51) noted that the PIU made several efforts to improve the quality of data collected by the
+  ARN. These efforts helped ARN to resume sharing indicator values from 2021 in coordination with the
+  telecommunication operators. However, there were issues with the data submitted by the Mobile
+  Telecommunication Network (MTN). There were significant delays in receiving the data from MTN; the
+  data submitted by MTN was either partial or inaccurate. The Bank team provided intense support by way
+
+
+                                                                                                    Page 12 of 16
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     WARCIP GUINEA-BISSAU (P155876)
+
+
+
+  of capacity building exercises. Despite these efforts by the Bank team, these deficiencies triggered the
+  downgrading of the M&E rating to Unsatisfactory during a large part of the implementation period.
+
+
+
+c. M&E Utilization
+  The M&E utilization was undermined by the delays during implementation. There was a mismatch
+  between the value of the indicators and the pace of project implementation. As a result, while the
+  indicators showed that the PDOs were realized, the implementation of the ACE submarine cable (tied to
+  the indicators) experienced major delays and was completed only two weeks prior to project closing. The
+  realized outcomes were hence not due to the project activities, but due to investments made by private
+  telecommunication operators. The ICR (para 52) reports that this although this mismatch was reported in
+  the World Bank internal supervision documentation, there were no related actions. The ICR
+  acknowledges that since this mismatch was known, the Bank could have adjusted the indicators through
+  a restructuring to reflect the project delays.
+
+  Overall M&E is rated as modest, mainly because of the shortcomings in M&E implementation and
+  utilization.
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as a Category B (partial assessment) project under the World Bank safeguard
+   policies. Four safeguard policies were triggered at appraisal (PAD, page vii): Environmental Assessment
+   (OP/BP 4.01); Natural Habitats (OP/BP 4.04); Physical Cultural Resources (OP/BP 4.11) and Involuntary
+   Resettlement (OP/BP 4.12).
+
+   The PAD (para 44) observed that the project had minor and manageable adverse impacts, such as
+   temporary/permanent displacement of populations, restriction of access to livelihoods, impacts on ocean
+   water and marine life, other temporary nuisances to people living in the vicinity of civil works sites, and
+   potential destruction of covered cultural artifacts. At appraisal, the Ministry of Economy and Finance (MoF)
+   prepared and publicly disclosed an Environmental and Social Management Framework (ESMF) and
+   Resettlement Policy Framework (RPF) to mitigate any environmental and social impacts.
+
+   Environmental Assessment, Natural Habitats, and Physical Cultural Resources. The ICR (para 54)
+   observes that during implementation. an Environmental Impact Assessment, an updated version of the
+   ESMF) and Heath and Safety Procedures were prepared. The project complied with these safeguards
+   during implementation, with no adverse impacts.
+
+   Involuntary Resettlement. The project complied with social safeguards (ICR, para 55). 72 people were
+   displaced due to the construction of the Suro-Antula backbone. The PIU maintained a grievance
+   management system during implementation. Since construction started in January 2022, there have been
+
+                                                                                                   Page 13 of 16
+        Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+        WARCIP GUINEA-BISSAU (P155876)
+
+
+
+   15 complaints (in addition to 14 previous complaints since the project started). There were operational
+   deficiencies, which resulted in eight accidents (including a serious one that affected a young woman in April
+   2022. The PIU addressed these complaints.
+
+
+
+
+b. Fiduciary Compliance
+   Financial Management. The Bank conducted an assessment of the financial management arrangements
+   at appraisal. Given the fragile country context, the financial management risk was rated as Substantial at
+   appraisal. The ICR (para 56) noted that financial management was rated as moderately satisfactory due to
+   the recurrent delays in submitting external audit results and the low quality of the audits in the initial years
+   of implementation. However, the quality of audits improved by 2021 and 2022. Financial management was
+   rated as satisfactory when the project closed and the final audit reports were unqualified.
+
+   Procurement Management. The Bank conducted an assessment of the project arrangements of the PIU
+   at appraisal. The assessment concluded that procurement risks were associated with delays and the poor
+   quality of deliverables. To mitigate the risk, the procurement assessment recommended that another
+   existing PIU in the Ministry of Finance, which was already in charge of other Bank-supported projects,
+   support the PIU of this project. The procurement was rated moderately satisfactory during implementation
+   (ICR, para 57).
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   .
+
+
+
+d. Other
+       ---
+
+11. Ratings
+                                                                                   Reason for
+Ratings                          ICR                    IEG
+                                                                                   Disagreements/Comment
+                                 Moderately            Moderately
+Outcome
+                                 Unsatisfactory        Unsatisfactory
+                                 Moderately
+Bank Performance                                       Moderately Satisfactory
+                                 Satisfactory
+Quality of M&E                   Modest                Modest
+
+Quality of ICR                   ---                   High
+
+
+12. Lessons
+
+
+                                                                                                      Page 14 of 16
+       Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+       WARCIP GUINEA-BISSAU (P155876)
+
+
+
+The ICR draws the following two main lessons from the experience of implementing this project, with
+some adaptation of language.
+
+1. Intense efforts by the Bank team may be required in implementing a PPP in an FCV
+environment. The project had a Project Preparation Advance (PPA), so the PPP framework was
+ready by project effectiveness. Despite this, the Bank team had to make intense efforts to clarify the
+suitability of those agreements to mobilize private-sector financing, given the frequent changes in
+government.
+
+2. A candid assessment of the project interventions would help ensure the optimal use of the
+M&E framework as a feedback mechanism. In this project, the intended outcomes were either
+realized or exceeded, even though the main project activity was only completed two weeks before
+the project closed. Hence, the outcomes could not be attributed to the project interventions. The
+lesson is that it would help rectify the M&E framework with a project restructuring and enhance
+candor during implementation in such cases.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is clear, candid, and well-written. The ICR, for the most part, adheres to the OPCS guidelines and
+recommended length (the main body of the text is 18 pages compared to the recommended length of 15). The
+theory of change articulated in the text clearly articulates the causal links between the project activities, outputs,
+and outcomes. The analysis and evidence provided in the text are adequate to assess project performance.
+The ICR is candid and acknowledges the attribution concerns and shortcomings with M&E. The lessons
+learned are based on project implementation experience.
+
+Overall, the ICR quality is rated as High.
+
+
+
+  a. Quality of ICR Rating
+       High
+
+
+
+
+                                                                                                       Page 15 of 16
+Independent Evaluation Group (IEG)   Implementation Completion Report (ICR) Review
+WARCIP GUINEA-BISSAU (P155876)
+
+
+
+
+                                                                  Page 16 of 16
+

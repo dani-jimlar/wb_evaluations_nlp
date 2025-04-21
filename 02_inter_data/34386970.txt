@@ -1,0 +1,969 @@
+        Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+        ML-Reconstruction and Economic Recovery (P144442)
+
+
+
+                                                                                   Report Number: ICRR0023565
+
+1. Project Data
+
+
+
+ Project ID                                  Project Name
+ P144442                                     ML-Reconstruction and Economic Recovery
+
+ Country                                     Practice Area(Lead)
+ Mali                                        Urban, Resilience and Land
+
+
+ L/C/TF Number(s)                            Closing Date (Original)                Total Project Cost (USD)
+ IDA-D3730,IDA-H9010                         01-Dec-2018                                         120,847,244.43
+
+ Bank Approval Date                          Closing Date (Actual)
+ 06-Dec-2013                                 31-Dec-2022
+
+                                             IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                           100,000,000.00                                                0.00
+
+ Revised Commitment                            130,000,000.00                                                0.00
+
+ Actual                                        121,304,805.94                                                0.00
+
+
+
+
+ Prepared by                  Reviewed by                   ICR Review Coordinator         Group
+ Cynthia Nunez-Ollero         Avjeet Singh                  Avjeet Singh                   IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to the Financing Agreement (FA, p 5), the agreement for Additional Financing (AF, p.4), and the
+   Project Appraisal Document (PAD, paragraph 17), the Project Development Objective (PDO) of this
+   Reconstruction and Economic Recovery Project in Mali was "to rehabilitate basic infrastructure and restore
+   productive activities of communities impacted by the crisis in Mali."
+
+   This review will assess the project performance against the following objectives:
+
+
+                                                                                                    Page 1 of 18
+     Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+     ML-Reconstruction and Economic Recovery (P144442)
+
+
+
+         To rehabilitate basic infrastructure in communities impacted by the crisis in Mali.
+         To restore productive activities of communities impacted by the crisis in Mali.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   1: Rehabilitation of local public infrastructure (US$50.0 million at appraisal, 2017 restructuring reduced
+   to US$44.2 million, AF added US$15.9 million for a revised total of US$60.1 million, US$60.1 million
+   actual) This component was to finance the rehabilitation of local public infrastructure, equipment for
+   schools, health centers, water and sanitation systems, transport and trade facilities, energy and other local
+   public infrastructure along two tracks. Track 1 was to finance a priority investment program for rehabilitation
+   of infrastructure and other related needs. Track 2 was to finance other infrastructure needs the target
+   communities identified from a review of the existing Social, Economic, and Cultural Development Plans
+   (PDESC). The target 149 participating local governments (PLGs) were in the North and in selected areas in
+   the South. The 2017 restructuring reduced the allocation for this component, but the 2018 AF scaled up
+   activities to rehabilitate 50 km of rural roads between Konna and Koana that would link the Port of Konna to
+   the national road network and targeted villages of the Konna commune, and other local infrastructures to
+   increase rapid recovery of the Central Mali economic zone. The scaling up of the other local infrastructure
+   included the rehabilitation and equipping of schools, health centers, water and sanitation systems, transport
+   and trade facilities, energy, and other infrastructure under the local governments. The added rehabilitation
+   of the infrastructure in the Konna area was to fill investment gaps of originally planned works; upgrade
+   the technical platforms of completed infrastructures; finance investments in the newly created region of
+   Taoudeni in the far North of the country; and consolidate the socio-economic impacts expected from the
+   rehabilitation of the Konna port. All works were to include labor-intensive methods.
+
+   2: Support to productive investments (US$35.0 million at appraisal, 2017 restructuring increased this to
+   US$40.2 million, AF added US$8.5 million for a revised total of US$48.7 million, US$48.7 million
+   actual) This component was to finance investments in the Center and the North of Mali by
+   restoring productive assets of targeted rural households, and re-launching productive activities of rural
+   community-based organizations (CBOs). US$3 million was to be used to restore productive assets
+   of targeted vulnerable households to access improved seed and animal feed, and to recapitalize livestock.
+   US$32 million was to finance collective productive activities proposed by selected women-led community-
+   based organizations (CBOs) whose members included women, youth, and vulnerable minorities. The 2018
+   AF was to scale up productive investments in the Center and the North of Mali, increase fish production and
+   commercialization of agricultural land, and infrastructure activities in Taoudeni and in the Konna area.
+
+   3: Community engagement and local governance (US$10.0 million at appraisal, AF added US$4.0
+   million for a revised total of US$14.0 million, US$14.0 million actual) This component was to finance
+   activities to strengthen the engagement of participating local governments (PLGs) in the planning,
+   prioritization, and oversight of development activities. Activities included: (i) communication and outreach;
+   (ii) consultation process at the village level; (iii) a facilitated process to finalize priority infrastructure for
+   rehabilitation; (iv) a transparent validation process to review PDSECs by the PLGs, civilian administration,
+
+                                                                                                          Page 2 of 18
+    Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+    ML-Reconstruction and Economic Recovery (P144442)
+
+
+
+  civil society, and community groups especially of women and youth; (v) monitor the implementation
+  of infrastructure rehabilitation and productive investments by PLGs and the target communities; (vi)
+  dissemination of project progress to stakeholders; and (vii) a functional feedback and grievance redress
+  mechanism. AF was to finance activities for the continued engagement of communities and the PLGs such
+  as in community youth mobilization, ownership through sports and cultural activities, and digital literacy. AF
+  was also to finance the newly created Office of Fisheries and Aquaculture Development in the Inner Delta
+  (Office de Développement de la Pêche et de l’Aquaculture dans le Delta Intérieur du Niger - ODPADIN) and
+  launch the operation of the fishing port of Konna after its rehabilitation.
+
+  4: Project management, monitoring and evaluation (US$5.0 million at appraisal, 2017 restructuring
+  increased this to US$5.6 million, AF added US$3.7 million for a revised total of US$9.3 million,
+  US$9.3 million actual) This component was to finance project management, coordination of activities,
+  communication, procurement, financial management, safeguards, and monitoring and evaluation (M&E).
+  This component was to finance the recruitment of Delegated Contract Management (Maîtrise d’Ouvrage
+  Déléguée or MODs) and the preparation of work plans and budgets. Three regional implementation units
+  (regional antennas, RAs) were to coordinate project activities, working closely with government entities at
+  regional, and local government (commune) levels. This component was to finance a Third-Party Monitoring
+  (TPM) agency to monitor project implementation. AF was to scale up this component by enhancing M&E by
+  using Geographic Positioning System (GPS), field tagging, satellite imagery, interactive beneficiary
+  feedback, and surveys.
+
+  5: Contingent emergency response (US$0.0 million at appraisal, US$0 million actual) This component
+  was to finance emergency response activities in case of a crisis or emergency. Restructuring was to redirect
+  unutilized funds to finance this component, and revise the PDO, accompanying indicators,
+  and implementation arrangements, as needed. An Immediate Response Mechanism Operational Manual
+  (IRM/OM) was to be prepared and approved by the World Bank, in compliance with OP 10.00, paragraph
+  11. The manual was to name an Immediate Response Mechanism Coordinating Agency and expenditure
+  management procedures. This component was not triggered.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost: The total original project cost was US$100.0 million. Additional Financing (AF) provided
+  US$30.0 million more. The revised total project cost was US$130.0 million. The grant disbursed US$121.3
+  million. The balance was cancelled.
+
+  Financing: The International Development Association (IDA) provided both the original and additional
+  financing as a grant. As a fragile state, Mali met the requirements for retroactive financing of approximately
+  US$4.5 million to allow for the financing of urgent needs. The African Development Bank (AFD) under the
+  Sahel Alliance (AS) initiative co-financed the project with a grant of €2 million to operationalize the AS in the
+  Konna economic area in Center Mali under component 1 (see above) as one of 12 AS flagship
+  projects. The AS was a regional program jointly founded in July 2017 by the World Bank Group, the United
+  Nations Development Program (UNDP), and the African Development Bank (ADB). France, Germany, and
+  the European Union supported this alliance later joined by Italy, Spain, the United Kingdom (UK), and
+  Luxembourg. The AS was to strengthen the peace, security, and development in the region by facilitating
+  the speedy delivery of development projects, raising resources, including from the private sector;
+  and measuring results.
+
+
+                                                                                                      Page 3 of 18
+     Independent Evaluation Group (IEG)                                    Implementation Completion Report (ICR) Review
+     ML-Reconstruction and Economic Recovery (P144442)
+
+
+
+   Borrower Contribution: None.
+
+   Dates: The World Bank approved this project on December 6, 2013. The project became effective on March
+   19, 2014. The Mid Term Review (MTR) was conducted on May 8, 2017. The project was to close originally
+   on December 1, 2018. The project closing date was extended by almost four years and closed on
+   December 31, 2022. The project went through five level 2 restructurings and one additional financing (AF).
+
+         On October 3, 2017 to introduce changes to the results framework, revise target values of indicators
+          based on actual achievements and integrate priorities agreed at MTR for the remainder of the
+          project period. The restructuring clarified indicators and data collection methods. The restructuring
+          acknowledged the protracted insecurity in targeted project areas. Activities were adjusted
+          accordingly.
+         On October 30, 2018, to provide US$30 million in AF to scale up activities, add the corresponding
+          indicators in the results framework, and adjust target values of indicators, as needed. In
+          addition, data collection methods were clarified. The closing date was extended by two years to
+          close on December 1, 2020.
+         On November 24, 2020, June 28, 2021, and March 21, 2022 to further adjust target values of
+          indicators and extend the project closing date to June 30, 2021, to March 31, 2022, and June 30,
+          2022, respectively.
+         On June 24, 2022 to extend the closing date to December 31, 2022 due to Covid-19 and the
+          ongoing sociopolitical crisis. This extension was retroactively processed in September 2022 after the
+          government cleared arrears and IDA disbursements had resumed.
+
+   Split Rating: No split rating of the outcome will be undertaken. The PDOs remained unchanged throughout
+   implementation. AF provided additional resources to scale up the activities with commensurate adjustments
+   in target values of indicators.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Context: Mali is a low-income country recovering from a rebellion in the north, a violent extremist
+insurgency, and a military coup in the capital, Bamako. The conflict was due to: (i) growing competition over
+resources, (ii) weak institutions, (iii) underlying social tensions, including lack of citizens' trust in the ability of
+the government to provide basic services and security, and (iv) slow decentralization process. Official
+Development Assistance (ODA) was reduced. Economic activities in the North contracted. The
+displacement of its residents increased. In mid-2013, a presidential election was held. The United Nations
+Multidimensional Integrated Stabilization Mission in Mali (MINUSMA) arrived for peacekeeping. Malian
+security forces were redeployed to Northern towns. Significant social and economic infrastructure,
+and livelihoods were destroyed. Violence continued because violent extremist groups (VEG)
+remained. Inter communal tensions persisted. This project was to target 149 participating local
+governments (PLGs). A local government or commune was the third administrative level in Mali.
+This project was to rehabilitate public infrastructure and restore productive activities in crisis affected areas.
+
+
+
+
+                                                                                                             Page 4 of 18
+                                      Independent Evaluation Group (IEG)                         Implementation Completion Report (ICR) Review
+                                      ML-Reconstruction and Economic Recovery (P144442)
+
+
+
+               Country Plans: The election in August 2013 of a new president and the arrival of MINUSMA
+               peacekeeping forces with Malian security forces helped stabilize the region. The government began to
+               redeploy civilian administration and restore services in the North, announced a national dialogue to address
+               the causes of the Tuareg rebellion in the North, and created a new Ministry of National Reconciliation and
+               Development of the Northern Regions. The PDOs were relevant to two key areas of the government’s
+               Strategic Framework for Economic Recovery and Sustainable Development in the Center and North of Mali
+               (2016-2018). First, in infrastructure development, and second, in rural development and food security. The
+               government also supported the development of a multi-sector, multi-donor approach for rapid results in the
+               vulnerable area of Konna (Center Mali) as one of three priorities of the Sahel Alliance's operation in the
+               country.
+
+               World Bank Country Partnership Framework: The objectives were aligned with the World Bank’s
+               Country Partnership Framework (CPF) for FY16 to FY19, and extended to FY20. The objectives also
+               supported the World Bank’s Africa Strategy for 2019-2023 to build a resilient and sustainable Africa. The
+               PDOs directly contributed to three of the six priorities of this strategy: (i) creating jobs and transforming
+               economies; (ii) making institutions efficient and accountable; and (iii) addressing the drivers of fragility,
+               conflict, and violence. The PDOs remained relevant to the focus areas of the extended CPF: (i) improved
+               governance; (ii) creating sustainable economic opportunities for agriculture; and improving basic services
+               through sustainable infrastructure and connectivity. The project was to contribute to the following objectives:
+               1.1 Improve public resource management at the national and local levels; 1.2 Foster citizen’s engagement;
+               2.1 Improve productive capacity and market integration of farmers and pastoralists; and 2.3 Improve
+               infrastructure and connectivity to all.
+
+               World Bank Experience in the Sector and in the Country: This project complemented two other World
+               Bank operations: (i) Emergency Education project (P123503), approved on May 22, 2013 and (ii)
+               Emergency Safety Nets project (P127328), approved on April 30, 2013. The project was to build on the
+               experience gained from the Rural Communities Support Project (Projet d’appui aux communautés rurales,
+               or PACR) and was to utilize a similar implementation approach of relying on NGOs (or MODs).
+
+               Overall, the relevance of the project's objectives is rated High. This was an emergency operation designed
+               to address the destroyed social and economic infrastructure, and livelihoods amid the growing insecurity in
+               the country.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To rehabilitate basic infrastructure in communities impacted by the crisis in Mali.
+
+
+                                                                                                                               Page 5 of 18
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   ML-Reconstruction and Economic Recovery (P144442)
+
+
+
+
+Rationale
+Theory of Change: No TOC was prepared at appraisal, but the results framework provided the causal link
+between the inputs, outputs, and expected outcomes of the project. A TOC was prepared at closing.
+
+Inputs were to consist of financing priority investments to rehabilitate basic infrastructure such as
+roads, water supply, local energy facilities, drainage and solid waste management, schools, and health
+centers. Inputs were to include procuring equipment for schools, health centers, water and sanitation
+systems, transport, and trade facilities, AF was to scale up the project, rehabilitate rural roads between Konna
+and Koana to link the Port of Konna to the national road network and target villages of the Konna
+commune. All works were to include labor-intensive methods.
+
+Outputs were to include the roads, water supply system, schools, health centers, and provision of
+equipment. Outputs were also to include temporary jobs created after using labor-intensive works. Target
+values of outputs were reduced in the 2017 restructuring to acknowledge implementation delays (see Section
+5, Administrative and Operational Efficiency below). The 2018 AF increased targets of outputs to include
+the rehabilitation of an additional 50 km of rural roads between Konna and Koana that would link the Port of
+Konna to the national road network and targeted villages of the Konna commune, and other
+local infrastructures (schools as the local preschool – rehabilitation and/or construction and equipment of a
+sport complex – youth center – market, etc.) to increase rapid recovery of this key economic zone of
+Central Mali. The added investments were to be in the newly created administrative region of Taoudeni in the
+far North of the country and assist in the rehabilitation of the Konna Port.
+
+Outcomes were to be the functional use of the completed infrastructure measured by the number of direct
+beneficiaries, the share of local rehabilitated infrastructure that remained functional one year after completion
+and the direct beneficiaries of this local infrastructure. AF was to link the Port of Konna to the national road
+network and targeted villages of the Konna commune and consolidate the expected socio-economic impacts
+from the rehabilitation of the Konna port. These were to contribute to the expected long- term outcomes of
+increased resilience to shocks, protection of human capital, and contribute to economic recovery (see Section
+9, M&E Design below).
+
+The TOC did not include critical assumptions, which, if realized were to have increased the likelihood of
+achieving the objective. All achievements noted below were assessed against revised targets, where
+applicable.
+
+OUTPUTS:
+
+The following outputs were delivered:
+
+      28 transport infrastructures were rehabilitated, exceeding the target of 17.
+      75 percent of grievance redress mechanisms were addressed, exceeding the target of 70 percent.
+      124 local governments benefited from rehabilitated infrastructure. The original target was 100 and the
+       revised target was 123.
+      771 street lighting globes were in place and in use. The original target was 413 and the revised target
+       was 671.
+      280 health facilities were rehabilitated and functional. The original target was 215. The revised target
+       was 280.
+
+
+
+                                                                                                   Page 6 of 18
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   ML-Reconstruction and Economic Recovery (P144442)
+
+
+
+
+      100 percent of participating local governments revised their PDESC. The original target was 80
+       percent. The revised target was 100.
+      640 water supply systems were rehabilitated and functional, exceeding the original target of 350 but
+       falling short of the revised target of 718.
+      106 km of roads were rehabilitated. This did not meet the original target of 137 km. but exceeded the
+       revised target of 78 km.
+      1,575 classrooms were rehabilitated and functional. This did not meet the original target of 2,500
+       classrooms but almost achieved the revised target of 1,641 classrooms.
+
+OUTCOMES:
+
+      32,907 days of temporary jobs were created. This exceeded the original target of 30,896 days but
+       not the revised target of 44,035 days.
+      82 percent of the rehabilitated local public infrastructure remained functional after one year.
+       The original target of 80 percent was exceeded The AF increased this target to 90 percent and this
+       was almost achieved. Schools and health centers in the Mopti and Timbuktu regions were closed
+       because of the violent extremist insurgency that targeted the educational system. Line ministries
+       contributed to ensuring that the completed facilities remained staffed, equipped, and maintained.
+      1,389,981 people benefitted from the rehabilitated local infrastructure. This exceeded the original
+       target of 350,000 persons. This almost achieved the revised target of 1,420,291 persons at the 2017
+       restructuring or the revised target of 1,429,347 persons at AF.
+      1,445,468 direct beneficiaries exceeded the original target of 380,000 persons. The revised
+       target of 1,516,535 persons was almost achieved. 51 percent of the actual beneficiaries were
+       female. There was no original target at appraisal, but the 51 percent female target was added at
+       restructuring. The project benefited from community outreach, capacity building for municipalities, and
+       support to community development committees. Some subprojects were cancelled because
+       of increasing insecurity. The Konna-Koana road activity was transferred to the Mali Rural Mobility and
+       Connectivity Project (P160505).
+
+Given that most of the targets were almost achieved or exceeded, the efficacy of the project to achieve this
+objective is rated Substantial.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+To restore productive activities of communities impacted by the crisis in Mali.
+
+Rationale
+Theory of Change: No TOC was prepared at appraisal. The results framework provided a reasonable causal
+link between the inputs, outputs, and expected outcomes of the project. A TOC was prepared at closing. The
+objective of the component is to jump-start economic activities to increase incomes and reduce food
+insecurity at the household and collective levels by helping adversely affected (i) rural households to restore
+
+                                                                                                  Page 7 of 18
+   Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+   ML-Reconstruction and Economic Recovery (P144442)
+
+
+
+their productive assets, and (ii) rural community-based organizations (CBOs) to re-launch productive
+activities.
+
+Inputs: Financing was to be provided to target vulnerable households in the zones affected by the crisis to
+restore their productive assets and enhance domestic food production capacity. The inputs were to be
+provided under two categories. First, financing of activities that would immediately restore household
+productive assets of targeted households by complementing the activities financed in the North under the
+West Africa Agricultural Productivity Program (WAAPP). Inputs were to finance the purchase of seeds and
+animal feed for distribution to farmers/herders Kits were to be distributed to recapitalize livestock.
+Second, financing productive investments proposed by two community-based organizations (CBOs - CARE
+Mali and SOS Sahel and/or any other entity to be selected by the PCU). These CBOs may propose the
+financing of infrastructure, livestock and fishery activities, or income generating artisanal activities. Inputs
+were also to include the financing of capacity building activities to improve the productivity and profitability of
+those investments to be delivered by public agencies, private service providers, or other non-governmental
+organizations (NGOs). The 2018 AF scaled up productive investments in the Center and the North of
+Mali and targeted agriculture development activities in Taoudeni. The AF also targeted agricultural land and
+infrastructure activities for fish production and commercialization in the Konna area.
+
+Outputs were to be categorized also into two: first, increased access to improved seed and animal feed
+to restore productive assets at the household level, and the value/number of recapitalized livestock in the
+target area. The second category was the rehabilitated or constructed infrastructure for agricultural
+production, such as small irrigation perimeters, storage facilities, and small processing units; the restocking,
+provision of animal feed, vaccination, marketing facilities; and the construction of small shops and facilities
+for handicrafts.
+
+Outcomes were to be measured by the number of direct project beneficiaries and the share of restored
+productive assets of the target communities that remain in use one year after project closing. The
+AF scaled up activities and was to increase productive investments in the Center and the North of Mali to
+redress the impacts of the crisis on local communities and households. These beneficiaries were to represent
+reduction of food insecurity of the beneficiary rural households, and the number CBOs who re-launched
+their productive activities.
+
+As in the first objective, the TOC did not include critical assumptions.
+
+OUTPUTS:
+
+      Enhanced domestic food production capacity.
+           o 721 tons/year of seeds procured and distributed. This output exceeded both the original target
+               of 350 tons/year and the revised target of 625 tons/year.
+             o 4,603 tons/year of animal feed procured and distributed. This output also exceeded both the
+               original target of 4230 tons/year and the revised target of 4,231 tons/year.
+      Relaunched agriculture, livestock, and fisheries activities
+           o 624 micro-projects in productive assets were financed (household level). This output almost
+               achieved both the original target of 680 micro projects and the revised target of 636 micro
+               projects.
+             o 372 micro projects for women's organizations were financed (collective level). This
+               output exceeded the original target of 250 and almost met the revised target of 393.
+
+
+                                                                                                      Page 8 of 18
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   ML-Reconstruction and Economic Recovery (P144442)
+
+
+
+            o 2,058 hectares farmland were rehabilitated. This output almost achieved both the original
+              target of 2,150 hectares and the revised target of 2,564 hectares.
+      Restored income generating activities.
+           o 50,539 beneficiaries received emergency assistance. This output almost achieved the original
+              target of 55,000 but met the revised target of 50,539.
+            o 2.82 spatial multi-sectoral approach was in place. This exceeded the original target of 2.
+
+OUTCOMES:
+
+      86 percent of productive assets for economic activities were rehabilitated. These remained in use one
+       year after completion and exceeded the original target of 70 percent, but not the increased target of 95
+       percent at AF. The lower rate achieved was due to the rising insecurity in the target areas. Frequent
+       cattle thefts negatively affected husbandry activities.
+      55,487 people benefitted from the use of rehabilitated productive assets. This exceeded the original
+       target of 30,000 persons and the revised target of 40,856 persons introduced at the 2017
+       restructuring. The AF target of 87,187 persons was not achieved. The emergency distribution of the
+       means of production (seeds, fertilizers, and animal feed) was completed. The longer-term investments
+       in productive activities in agriculture and livestock, trade, and small industries were reported to have
+       followed but with no economic values reported.
+      1,445,468 direct beneficiaries exceeded the original target of 380,000 persons. The target was revised
+       to 1,516,535 people and was almost achieved. 51 percent of the actual beneficiaries were
+       female. There was no original target at appraisal for the share of female beneficiaries, but a target was
+       added at restructuring and was achieved. The revised target was only almost achieved
+       because increasing insecurity in the target region dropped planned AF-financed activities (irrigation
+       schemes in the Gao and Timbuktu regions). In addition, beneficiaries were double counted in some
+       areas where AF-funded activities were implemented following the integrated,
+       multisector implementation approach. The partial achievement of this outcome indicator resulted from
+       two factors: (i) overestimation of the target for the Konna economic zone, where 46,129 beneficiaries
+       were forecast given the regional nature of the fishing port, against 11,525 direct beneficiaries
+       estimated after implementation of this subproject; and (ii) reduced beneficiaries in the Gao and
+       Timbuktu regions because activities were scaled down or cancelled (irrigation schemes in Goundam,
+       Timbuktu, Tobon and Ouattagouna were cancelled; the Sindiwara village irrigation scheme was
+       suspended) due to insecurity and the decision to focus on the Ansongo economic area.
+      The following achievements were reported for the rehabilitation of the Konna fishing port but without
+       supporting data. Fishing and related activities in the Konna fishing port were reported (no data) with
+       women noted to have played an essential role (no data) in the trade, smoking, and drying of the fish
+       traded (no data). Women’s committees supervised these activities. Other management committees
+       managed the sports complex, the youth center, and early childhood center. The market garden has
+       led to the availability of vegetables year-round in the target area (no data). 486 young people were
+       offered temporary jobs using labor-intensive work (no target).
+
+Overall, the efficacy of the project to achieve this second objective is rated Substantial with moderate
+shortcomings. Productive activities were claimed to have been restored in some target communities. Some
+outputs exceeded or almost achieved targets. However, outcome targets were not achieved because of the
+overestimation of target levels and the rising insecurity in the target regions that prevented the
+implementation of some planned activities.
+
+
+                                                                                                  Page 9 of 18
+                                Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+                                ML-Reconstruction and Economic Recovery (P144442)
+
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The overall efficacy of the project is rated Substantial with moderate shortcomings. Most of the target
+                            indicators under the first objective were exceeded or achieved. Revised indicators and targets with the AF led
+                            to some indicators being almost achieved. In the case of the second objective, there were moderate
+                            shortcomings in the achievement of the targets of some outcome indicators. This was mainly due to the
+                            overestimation of some target levels and the rising insecurity in the target regions that prevented the
+                            implementation of some planned activities.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+    5. Efficiency
+   Economic Efficiency. Mali was a fragile state that met the requirement for urgent assistance under OP10.00,
+   paragraph 11 – Project in Situations of Urgent Need of Assistance or Capacity Constraints – with Condensed
+   Procedures. The emergency nature of the project did not require an economic analysis since investments
+   were not specified at that time. Benefits from similar projects in the region served as a proxy for expected project
+   benefits. An economic analysis was to be conducted in the first year of implementation. However, priority
+   investments were reported to have been selected without the benefit of the planned economic analysis.
+   One stand-alone income generating activity conducted a cash flow analysis. (ICR, Annex 4). At restructuring
+   and at AF, no economic analysis of the project investments was conducted. At closing, some economic analysis
+   was conducted using qualitative benefits but not all were counted because of lack of data. The ICR Annex 4
+   provided a list of tangible and intangible benefits and used a meta-analysis of benefits. This method is a form of
+   observational study where no variables are manipulated but use data from past research. Economic benefits for
+   investment categories were estimated. For example, classrooms with an investment of US$3.15 million in
+   construction costs resulted in benefits that ranged from US$10.1 million to US$21.1 million. No economic rate of
+   return or internal rate of return was calculated.
+
+   Administrative and Operational Efficiency: The project faced start-up delays due to capacity and an insecure
+   environment. Significant delays in establishing the implementation arrangements were noted. The Project
+   Coordination Unit (PCU) took nine months to recruit staff and was established by October 2014. The five project
+   management contractors (Maîtrise d’Ouvrage Déléguée or MOD) were hired in April 2015. The 2017 MTR
+   acknowledged the slow procurement, contracting delays, delayed launch of activities, lack of operational
+   capacities, and rising insecurity in the project areas. Restructuring re-allocated resources among
+   components. AF increased the scope of the project, extended the project closing date, and updated the results
+
+                                                                                                                            Page 10 of 18
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      ML-Reconstruction and Economic Recovery (P144442)
+
+
+
+framework to reflect increased outcomes from the additional activities without changing the PDOs. Successive
+political changes, sociopolitical crisis, deteriorating security and arrears triggered Operational Policy 7.30. This
+suspended disbursements in the country, further delaying implementation. Project closing date was extended by
+almost four years.
+
+Overall, project efficiency is rated Modest. Even though the ICR team assessed that the project delivered a mix
+of least-cost investments and activities, in the absence of an EIRR, as well as implementation delays due to the
+deterioration of security, procurement, and contracting delays, COVID-19 pandemic that further restricted
+implementation, the overall efficiency is rated as Modest. The fragile, conflict, and violent condition in the
+country hampered data collection.
+
+
+Efficiency Rating
+Modest
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                      0
+ Appraisal                                                   0
+                                                                                       Not Applicable
+                                                                                      0
+ ICR Estimate                                                0
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The relevance of objective is rated High. The emergency nature of the project was relevant to the country's
+plans and contributed to the World Bank's objectives under its extended partnership framework for the country.
+The efficacy of the project is rated Substantial with moderate shortcomings because of partial achievement of
+some outcome targets. Efficiency is rated Modest. As a result, the overall outcome of the project is rated
+Moderately Satisfactory.
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+The following pose high risks to the development outcomes:
+
+
+
+                                                                                                      Page 11 of 18
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     ML-Reconstruction and Economic Recovery (P144442)
+
+
+
+     Political risk. There is continuing threat of increase in the violence in the country’s political
+        environment. Development outcomes from the completed investments in basic services and restored
+        productive activities are at risk.
+       Continuing insecurity. In last year of implementation, incidents of violence increased from 1,913
+        fatalities in 2021 to 4,476 in 2022. 92 percent of these occurred in Northern and Central Mali. Fighting
+        between armed groups and conventional forces, against civilians, and infighting in armed groups
+        increased. Massive displacement resulted. Government staff retreated to regional capitals or
+        Southern Mali. Agricultural production and trade were disrupted.
+       Financial. Political instability affects the functioning, operation, and maintenance of the completed
+        public infrastructure. The continuing conflict remains a threat to the commitment made by PLGs to
+        maintain the infrastructure services and support the restored productive activities of households and
+        community organizations. The continuing availability of any budgetary provisions would be in
+        question.
+       Ownership of government or other stakeholders. The project introduced participatory consultative
+        processes for constituents and supportive policies to rely on the PDSECs as an effective means to
+        own investment prioritization. These processes may not have been sufficiently institutionalized to
+        continue after the project closed.
+       Governance. Worldwide Governance Indicators (WGI) and the Ibrahim Index of African Governance
+        were used to measure trust in the government. Mali’s overall score for “voice and accountability” (not
+        just those of the target areas because the project was unable to conduct beneficiary surveys due to
+        insecurity) fell from 42.4 in 2014 to 27.5 in 2021. The country’s overall Ibrahim Index of African
+        Governance score for “rights and inclusion” also fell from 54.7 in 2014 to 49.2 in 2019. These scores
+        reflected the volatility in the country during periods of political, security, and pandemic shocks.
+        However, these indicators reflect the perception of the entire population of Mali and not necessarily
+        the areas targeted by the project per se.
+       Economic. War in Ukraine and its impact on trade and availability of agricultural products threaten
+        the world, not just Mali. This risk remains until the war is over.
+       Exposure to natural hazards. Climate change has wreaked havoc around the planet and threatens
+        all corners with various climate variable events and risks from natural hazards. This risk is anticipated
+        to increase over time. Preparation and risk reduction measures could mitigate this risk but attention to
+        these measures would compete with the other risks noted above.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The Bank team processed the project under OP10.00, paragraph 11 – Projects in Situations of Urgent
+  Need of Assistance or Capacity Constraints – with Condensed Procedures. The design met the country’s
+  national development priorities for the recovery of targeted regions and the World Bank’s partnership
+  strategy for the country. The Bank team designed the project with a simple and flexible design in
+  response to the urgent assistance needed by an FCV country. The Bank team took advantage of the
+  relative stability provided by the presence of international security evident in the peaceful presidential
+  election in 2013. The Bank team adopted a flexible design in case of resurgent insecurity by
+  including third-party implementation, such as MODs or national and international NGOs. This design also
+
+
+                                                                                                      Page 12 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     ML-Reconstruction and Economic Recovery (P144442)
+
+
+
+  included decentralized implementation offices in central and northern Mali. The objectives were simply
+  stated and realistic. Interventions were focused on achieving the objectives. The Bank team adopted
+  lessons from similar undertakings to inform design. These included (i) aiming for rapid results in the
+  short-term while laying the foundations for improved governance in the medium-term; (ii) conducting
+  participatory needs assessments to map priorities of vulnerable groups in project areas (returnees,
+  female-headed households, youth); (iii) undertaking transparent infrastructure prioritization and
+  beneficiary participation in identifying project investments to foster ownership and attention to operations
+  and maintenance (O&M) needs to facilitate sustainability; and (iv) promoting dialogue to
+  sensitize stakeholders in polarized communities.
+
+  Overall, the quality of Bank team performance at entry is rated as Substantial. The Bank team designed
+  the project as an emergency and met the requirements of OP 10.00.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The Bank team was based in the field. This allowed for timely support between the 18 supervision missions
+ conducted over the almost eight-year implementation period. Deteriorating conflict, health, political, and
+ economic conditions adversely affected project implementation. The substantial implementation delays
+ brought about by procurement and contracting and staffing issues were addressed during the MTR. The
+ Bank team provided training to improve environmental, social, and fiduciary compliance of the
+ implementing agency. COVID-19 slowed the implementation. The 2021-2022 political crisis occurred. The
+ Economic Community of West African States (ECOWAS) adopted sanctions that affected Mali's ability to
+ repay its loans. This led to six months of arrears. Withdrawals under all IDA financing were subsequently
+ suspended using the OP 7.30. The Bank team addressed these implementation hurdles by using MODs,
+ CBOs, and third-party monitors, by restructuring to realign resources to suitable activities in the face of
+ rising insecurity and providing AF to take advantage of a multi-donor integrated project in the Konna area
+ as part of the Sahel Alliance's integrated territorial approach in Mali.
+
+ Overall, Bank supervision is rated Satisfactory. The Bank team was working in an FCV context and
+ proactively addressed implementation delays with the flexible implementation design, responsive
+ restructurings, and AF to take advantage of other donor partners programs in the same areas. The team
+ also addressed shortcomings in indicators of the results framework. Increasing insecurity in the target
+ region limited the ability to collect data.
+
+ Overall Bank performance is rated Satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+
+                                                                                                    Page 13 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     ML-Reconstruction and Economic Recovery (P144442)
+
+
+
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The M&E design was adequately reflected in causal relations between the input, outputs, and expected
+ outcome indicators in the results framework since there was no theory of change offered at appraisal. The
+ PDOs were simply stated and considered what was achievable within the FCV context. The indicators were
+ specific, measurable, achievable, relevant, and time bound. Targets were available for some but not all
+ indicators. The results framework did not include intermediate results indicators to capture some key
+ achievements (no indicators for transport infrastructure and street lighting). There was also double counting
+ of beneficiaries and absence of consensus on the methods of calculation of some indicators, including
+ rehabilitated infrastructure and productive assets functioning one year post rehabilitation. The ICR
+ acknowledged that the M&E design did not include women beneficiaries. This was addressed at
+ implementation. MODs were to collect baseline data.
+
+
+
+b. M&E Implementation
+  M&E was implemented by the Project Coordination Unit of the Ministry of Economy and Finance. The
+  PCU consolidated data provided by the Regional Antennas (RA) and the different implementing agencies
+  (MODs and CBOs). The continued insecurity in North and Central Mali affected access to target areas by
+  state officials and project staff. The 2017 restructuring addressed shortcomings in indicators such as
+  validating the outcome values and achievements, revising some indicators, adding new indicators, and
+  adjusting end target values for most indicators. In 2017, after the MTR, a third-party monitor (TPM) in the
+  Gao region was piloted, using an engineering firm and an NGO. The engineering firm conducted a
+  physical inspection to confirm the effective use of completed investments. The NGO monitored the
+  effectiveness of implementation on future investments. In addition, phone surveys were conducted
+  using the Iterative Beneficiary Monitoring (IBM) approach to collect reactive feedback from beneficiaries.
+  The M&E system also leveraged Information and Communications Technology (ICT) to overcome the
+  rising insecurity. From 2018, data was collected and reported through GEMS, complemented by satellite
+  imagery. The TPM monitored project processes and described impacts and results based on inputs from
+  communities and other stakeholders. More than 2,100 activities were geo-referenced. The 2018
+  AF, scaled up M&E arrangements (TPM, IBM and GEMS) with two TPM agents contracted to monitor
+  execution throughout the project area, covering the regions of Mopti, Segou, Gao, Timbuktu, Kidal, and
+  Menaka.
+
+
+
+c. M&E Utilization
+  The M&E data informed the MTR and project progress. Adjustments made to indicators of the results
+  framework in the subsequent restructurings used M&E data. Even the most insecure areas reported
+  M&E data. Monthly meetings were held at regional and national levels to review the data collected and
+  to take any corrective measures. Communities and PLGs monitored the use of project resources at the
+  grassroots level, monitoring the timeliness and quality of infrastructure rehabilitation, and the use of
+
+
+
+                                                                                                   Page 14 of 18
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     ML-Reconstruction and Economic Recovery (P144442)
+
+
+
+  project inputs by associations and individual beneficiaries to conduct productive activities. Periodic local
+  meetings, notice boards, and vernacular radio were used at the community level.
+
+  Overall, the quality of M&E is rated Substantial with moderate shortcomings. The M&E system assessed
+  progress and the achievement of the objectives, although handicapped by the lack of some indicators.
+  The M&E system initially had shortcomings, noted at MTR but was corrected subsequently. The ICR
+  notes that the M&E data was widely disseminated, and accessible to stakeholders.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   Environmental Safeguards: The project was processed under OP10.00 Project in Situations of Urgent
+   Need of Assistance or Capacity Constraints – with Condensed Procedures following Mali's call for urgent
+   assistance. The project had an environmental safeguards category of "B." Direct project impacts were not
+   expected to be significant or irreversible. The project triggered a partial Environmental Assessment (OP/BP
+   4.01), Natural Habitats (OP/BP 4.04), Forests (OP/BP 4.36), and Pest Management (OP 4.09). The
+   Environmental and Social Screening and Assessment Framework (ESSAF) and a Pest Management Plan
+   (PMP) were prepared prior to appraisal. The safeguards category was unchanged with the AF and the
+   Environmental and Social Management Framework (ESMF), PMP, and RPF remained valid under the AF.
+   Safeguard documents were approved and published at the country level and on the Bank's website. The
+   central and regional offices of the implementing agency, with the MODs, the TPM agents, and local state
+   administration used qualified specialists to supervise safeguard compliance based on the Bank's framework
+   and national regulations. The report noted overall compliance with safeguards (ICR, paragraph 45).
+
+   Social Safeguards: The project complied with all safeguard policies per the ICR. The project triggered
+   Physical/Cultural Resources (OP/BP 4.11), and Involuntary Resettlement (OP/BP 4.12). A Resettlement
+   Planning Framework (RPF) was prepared and disclosed. The Resettlement Action Plan (RAP) was
+   prepared for the 50 km of rural roads between Konna and Koana in Center Mali implemented under the AF.
+   Training project staff and stakeholders from the community on gender-based violence (GBV) mitigated
+   risks. An NGO was contracted to prevent and respond to GBV cases. Shortcomings were noted in the
+   management of social and environmental safeguards. Firms managing the construction sites and inspection
+   offices lacked experts. MOD agencies recruited safeguards specialists only after the AF, with limited
+   skills. The poor quality of safeguards reporting was noted. A Grievance Redress Mechanism (GRM) was
+   developed. Complaints management committees were established in each target locality supported
+   by NGOs. An information and awareness-raising campaign was conducted among target communities. 122
+   complaints were lodged of which 119 were resolved. Unresolved complaints involved the collapse of the
+   Kaneye bridge and the Sindiwara Village Irrigation Perimeter. The MOD agency in charge of the Kaneye
+   bridge subproject contracted a firm to rebuild the infrastructure at its own expense. The works could not be
+   completed by the time the project closed because contractors had to wait for the February/March 2023 flood
+   waters to recede. The Sindiwara works was 88 percent complete by August 2021, but continuing insecurity
+   and poor performance led to its cancellation. Farmers lost up to two production seasons. The affected
+   beneficiaries were compensated in cash and in kind (cereal). Compensation was completed in early 2023.
+
+                                                                                                     Page 15 of 18
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     ML-Reconstruction and Economic Recovery (P144442)
+
+
+
+   In their October 10, 2023 email. the Bank task team confirmed that the project fully complied with all
+   safeguards. The team added that official hand of the reconstructed Kaneye bridge was waiting for minor
+   works to be completed. However, the contractor had to leave when an Al Qaeda in the Islamic Maghreb
+   (AQIM) installed a blockade in the Timbuktu region that led to the deterioration of security and an upsurge in
+   conflict fatalities. The client was monitoring the security situation.
+
+
+
+
+b. Fiduciary Compliance
+   Financial Management: Bank specialists based in Mali monitored fiduciary compliance. Some
+   weaknesses were identified and addressed during implementation related to the financial reconciliation of
+   the MOD. Overall, based on supervision missions, review of the financial statements, and annual audit
+   reports, financial management was reported to have been satisfactory despite some irregularities (ICR,
+   paragraph 46). The project complied with reporting and audit covenants.
+
+   Procurement: Assessments determined that procurement performance was moderately satisfactory. The
+   implementing agency used the Bank’s online procurement planning and tracking tools (STEP) for
+   procurement transactions. Delays were noted in contract execution, incomplete archiving of
+   documentation, and in the Kaneye bridge subproject management. As part of AF preparation, the
+   implementing agency prepared its Project Procurement Strategy for Development (PPSD) which
+   described how fit-for-purpose procurement activities supported project operations to achieve the PDOs and
+   deliver Value for Money (VfM). Procurement of works, goods, and services were noted to have contributed
+   to boost job opportunities in the project areas.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                Reason for
+Ratings                         ICR                   IEG
+                                                                                Disagreements/Comment
+                                Moderately
+Outcome                                               Moderately Satisfactory
+                                Satisfactory
+Bank Performance                Satisfactory          Satisfactory
+
+Quality of M&E                  Substantial           Substantial
+
+Quality of ICR                  ---                   High
+
+
+12. Lessons
+
+                                                                                                   Page 16 of 18
+       Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+       ML-Reconstruction and Economic Recovery (P144442)
+
+
+
+
+The ICR offered four lessons from the operations (ICR, paragraphs 51-54) slightly modified below:
+
+        In multi-sector local development projects, an integrated intervention may generate
+         larger impacts. This project used an area development approach to generate a broad
+         impact for beneficiaries. Communities prepared local development plans to identify priority
+         infrastructure investments and productive activities to be restored. This mix of investments in
+         public (infrastructure) and private goods (income-generating activities) in a post-conflict
+         context facilitated an integrated response to the different development needs of the
+         beneficiaries. Engaging local governments in subproject implementation contributed to
+         building capacity and restoring local institutions.
+        Increasing insecurity in fragile countries may benefit from using third-party agents to
+         monitor implementation. In this project, flexibility meant quickly adapting to challenging
+         circumstances. This adaptive project management style facilitated just-in-time decisions to
+         seize opportunities. This was the case in adding Konna and Taoudeni target areas.
+         Contracting MOD agencies as third parties to implement selected activities contributed to the
+         flexible design. The MODs were experienced with infrastructure works in fragile areas.
+         However, using MODs also led to operational constraints as procuring their services was
+         delayed, and they were not present in some of the targeted areas. A candid assessment of
+         the operational capacity of third parties and adding needed staff may mitigate these
+         challenges.
+        Hiring local NGOs and construction firms as third-party monitoring agents may
+         address rising insecurity. In this project, NGOs and local enterprises were hired as third-
+         party monitoring agents even as risks and longer completion times were noted. Closer
+         supervision, active monitoring of the security situation, sound community engagement, and
+         enhanced M&E mechanisms were added. Well-established local NGOs and firms facilitated
+         the implementation of sub-projects. The NGOs had knowledge of the local context. They
+         systematically mapped vulnerable groups as part of the participatory prioritization exercise.
+         This effort increased inclusive targeting. In addition, procurement was adapted to local
+         conditions. Contract sizes were adjusted. Firms were encouraged to join larger, national
+         firms.
+        Prioritizing investments from local development plans raises public awareness of
+         processes and acceptance of projects in target areas. The PIU used PDESC as an entry
+         point into project areas in this project. Each of the 149 municipalities prepared or revised
+         these plans over 4 to 6 months. Inclusive consultations involved elected officials, state
+         technical services, local development committees, and civil society, including vulnerable
+         groups (Internally Displaced Persons (IDPs), migrants, and pastoralists). They considered
+         the priority needs of all groups in the target communities, particularly those of women and
+         youth. This consultative process informed the public about the project – especially through
+         organized public debates – and legitimized the project to beneficiaries.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+
+                                                                                                    Page 17 of 18
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     ML-Reconstruction and Economic Recovery (P144442)
+
+
+
+14. Comments on Quality of ICR
+
+The report followed the guidelines and provided a clear and candid picture of the project, providing the
+consequences of the interventions and the limitations brought by increasing insecurity. The evidence supporting
+the consequence of the interventions was obtained from the M&E system in place. Evidence was adequately
+analyzed. Salient points were summarized and linked to findings. The report was internally consistent and
+linked various parts of the report. The results reported were mutually reinforcing. Annexes provided supporting
+evidence to support the achievements reported. For example, the efficiency analysis in Annex 4 noted the
+various proxy indicators that could have been monitored to reinforce project outcomes. The Annex provided a
+qualitative assessment of benefits using a meta-analysis method. A box highlighting the rationale and results of
+the additional funds for the Konna fishing port was helpful. Lessons were based on project experience. Overall,
+the quality of the report is rated High.
+
+
+
+  a. Quality of ICR Rating
+      High
+
+
+
+
+                                                                                                  Page 18 of 18
+

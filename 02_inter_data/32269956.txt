@@ -1,0 +1,903 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     BD: Leveraging ICT Growth, Employ & Gov (P122201)
+
+
+
+                                                                                Report Number: ICRR0022011
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P122201                                    BD: Leveraging ICT Growth, Employ & Gov
+
+ Country                                    Practice Area(Lead)
+ Bangladesh                                 Digital Development
+
+
+ L/C/TF Number(s)                           Closing Date (Original)              Total Project Cost (USD)
+ IDA-50250,IDA-59110                        31-Dec-2017                                        89,446,884.56
+
+ Bank Approval Date                         Closing Date (Actual)
+ 20-Sep-2012                                30-Jun-2019
+
+                                            IBRD/IDA (USD)                                    Grants (USD)
+
+ Original Commitment                           70,000,000.00                                              0.00
+
+ Revised Commitment                           102,518,274.12                                              0.00
+
+ Actual                                        91,846,890.81                                              0.00
+
+
+
+
+ Prepared by                Reviewed by                   ICR Review Coordinator        Group
+ Katharina Ferl             Kavita Mathur                 Ramachandra Jammi             IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to the Project Appraisal Document (PAD) (p. 6) and the Financing Agreement of November 26,
+   2012 (p. 6) the objectives of the project were to “i) catalyze the growth of Bangladesh's Information
+   Technology (IT)/IT-Enabled Services (ITES) industry for employment creation and export diversification; and
+   (ii) establish basic e-government foundations to support public sector modernization.”
+
+
+
+
+                                                                                                 Page 1 of 17
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     BD: Leveraging ICT Growth, Employ & Gov (P122201)
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  Yes
+
+  Date of Board Approval
+  26-Sep-2016
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project included three components (appraisal amounts excludes contingency costs):
+
+   Component 1: IT/ITES Industry Development (appraisal estimate US$35 million, actual US$44.5
+   million): This component aimed to increase the competitiveness of Bangladesh’s IT/ITES industry by
+   increasing the quantity and quality of skills, awareness and perception of the country. This component was
+   to finance activities such as: top-up IT Training of science graduates for IT services segment, foundational
+   skills for ITES segment, middle management training, institutional capacity building for the Bangladesh
+   Computer Council (BCC) and local industry, and industry promotion.
+
+   During the first project restructuring, activities related to IT/ITES company certification were cancelled since
+   it was taken up by the then ongoing World Bank Private Sector Development project (P120843). During the
+   second restructuring, additional Financing of US$12 million was directed towards a financing gap for
+   IT/ITES activities (due to exchange rate loss); to expand the Chief Executive Officer (CEO) outreach activity
+   for investment promotion and international business development; and to support a new training and
+   employment program in the online free-lancing sub-industry.
+
+   Component 2: E-Government (appraisal estimate US$29 million, actual US$48.5 million): This
+   component was to provide critical e-Government technological foundations for the country's governance
+   agenda for the years ahead and build the human capacity to leverage technology for governance reforms.
+   This component included financing to: (i) expand shared Infrastructure for IT hosting and remote
+   conferencing; (ii) establish shared IT governance policies, standards and structures; and (iii) build capacity
+   on e-government skills for IT related public sector staff.
+
+   During the first project restructuring, activities related to setting up telepresence facility were cancelled since
+   they were covered by the Info-Sarker project (jointly financed by the government of Bangladesh and the
+   government of China). During the second restructuring/Additional Financing, US$21.5 million was directed
+   towards component 2 to scale up e-government activities to meet immediate needs and demand by other
+   public agencies for initial e-government foundations such as the expansion of the national data center
+   (NDC) and cyber security activities, and mainstreaming of the national enterprise architecture.
+
+   Component 3: Project Management Support (appraisal estimate US$4 million, actual US$10.5
+   million: This component was to finance the creation and functioning of the Project Coordination Unit (PCU)
+   to conduct project implementation activities, including project management, meetings of the Project Steering
+   Committee and Project Implementation Committee, coordination, procurement, financial management,
+
+
+                                                                                                        Page 2 of 17
+    Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+    BD: Leveraging ICT Growth, Employ & Gov (P122201)
+
+
+
+  conferences and workshops, monitoring and evaluation, social impact assessments, and IT/IES industry
+  surveys.
+
+  During the second restructuring/Additional Financing, US$6.5 million (including US$1 million counterpart
+  financing) was allocated to ensure the continuous functioning of the PCU until project closing.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project Cost: At appraisal, the project was estimated to cost US$70.0 million. The project received
+  Additional Financing in the amount of US$39.0 million resulting in an estimated project cost of US$109.0
+  million. The total cost of the project at completion was US$103.5 million.
+
+  Financing: The project was originally financed by a US$70.0 million credit of which US$54.82 was
+  disbursed; and an Additional Financing of US$39.0 million credit of which US$37.01 million disbursed. The
+  total disbursement was US$91.83 million. There was a cancellation of US$6.16 million during the first
+  restructuring. The project team explained that exact US$ amounts for components are "estimates" due to
+  exchange rates fluctuations between SDR and US$.
+
+  Borrower Contribution: There was no planned or actual Borrower contribution.
+
+  Dates and Restructurings: The project was restructured three times:
+
+        On May 22, 2014 the project was restructured to cancel two activities that were no longer needed to
+         be financed by the project: (i) activities related to IT/ITES company certification (component 1) since
+         it was included in the ongoing Bank Private Sector Development Project (P120843); and (ii) activities
+         related to setting up telepresence facilities (component 2) since they were implemented by a project
+         financed by the government of Bangladesh and the government of China. The dropping of these
+         activities resulted in the cancellation of US$4.5 million. Also, the amount of US$2.08 million was
+         cancelled as the contingency funding was no longer deemed necessary.
+
+        On September 29, 2016 the project received Additional Financing in the amount of US$39 million for
+         the following activities: (i) under Component 1: US$12 million was required to address the financing
+         gap in the IT/ITES activities due to the SDR/US dollar exchange rate loss (US$8.4 million) and the
+         cancellation of funds during the first restructuring; (ii) under component 2: US$21.5 was required to
+         meet immediate needs and critical demand by other public agencies for initial e-government
+         foundations; and (iii) US$6.5 million was required to ensure the functioning of the PCU until project
+         closing; Also, during the restructuring two new indicators were added (“number of women who were
+         trained and had gained marketable skills” and “trainees satisfied with the training provided”). Finally,
+         the closing date was extended by 18 months to allow for the implementation of the scaled-up e-
+         government activities.
+        On June 13, 2018 the project was restructured to: i) replace the current PDO-level indicator (KPI 3)
+         on the World Economic Forum’s Network Readiness Index (NRI), with the UN E-Government
+         Development Index (EGDI); ii) reallocate SDR 4,814,768.98 from Category 1 to Category 2 and 3
+         under the original credit, and SDR 650,000.00 from Category 1 to Category 2 under the Additional
+         Financing credit; and iii) reduce the target for the intermediate result indicator on “Number of
+         Manpower Trained under the Project” from 40,000 persons to 30,000 persons, which was the
+         original target before the last restructuring and Additional Financing. According to the Bank team
+
+                                                                                                    Page 3 of 17
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     BD: Leveraging ICT Growth, Employ & Gov (P122201)
+
+
+
+          (February 28, 2020) the revised target was decreased to its original target since the PCU had to
+          cancel this activity due to significant procurement risks after two procurement attempts were
+          unsuccessful.
+
+   Split Rating: The project does not require a split rating since there was no material change in the PDOs or
+   the indicators. The PDO indicator 4 was changed from the "World Economic Forum’s Networked Readiness
+   Index (NRI)" to the ‘United Nations E-Government Development Index (EGDI) during the second
+   restructuring. The outcome target for achieving PDO indicator 3 was adjusted to reflect the 18-month
+   extension of the closing date. As discussed above, the Additional Financing was mainly used to
+   compensate for SDR/US dollar exchange rate loss, the cancellation of funds during the first restructuring,
+   the functioning of the PCU until project closure, and to meet immediate needs and critical demand by other
+   public agencies for initial e-government foundations.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Country and Sector Context: According to the ICR (p. 6) Bangladesh had a sound track-record of growth
+and development when the project was appraised in 2012. Between 2002 and 2012 the economy grew by
+almost six percent per year and was resilient to the effects of the global financial crisis in 2007-2008.
+However, in 2010, a third of the population was still living in poverty.
+
+While Bangladesh’s ICT industry had developed considerably between 2000 and 2012 and
+telecommunications had generated total industry investments in the amount of approximately US$4.5 billion
+between 2002 and 2012, there was significant room for improvement. According to the ICR (p. 6) only three
+percent of individuals used the internet in 2010. The IT industry produced only an output of around US$300
+million per year representing a limited proportion of the country's total GDP (IT/ITES contributed 39 percent
+to that value). Also, the industry’s readiness lagged behind global averages in particular in regard to
+general population’s ICT skills, perception of the country’s suitability for ICT businesses, supporting
+infrastructure, and technology foundations for the public and private sector.
+
+Alignment with Government Development Strategy: According to the ICR (p. 13), the objectives of the
+project supported the government’s seventh Five-Year-Plan (FY2016-2020), which promotes the
+development of ICT infrastructure, capabilities, and services to build a resilient digital Bangladesh. It aims to
+expand the IT/ITES industry rapidly by strengthening the country’s ICT enabling environment and the
+development of local ICT skills. Furthermore, the objectives of the project were in line with the country’s
+“Vision 2021” (Perspective Plan of Bangladesh 2010-2021), which set ambitious goals for governance,
+economic growth, and employment. The plan emphasized the importance of leveraging information and
+communication technologies (ICT) and e-governance to achieve these ambitious goals and to improve
+coordination between agencies, increase efficiency within and across all agencies, and develop a
+knowledge sharing economy. The ICR (p. 14) stated that the Prime Minister announced the goal, as part of
+the “Vision 2021” plan, of creating two million IT professionals by 2021.
+
+
+
+                                                                                                      Page 4 of 17
+                                      Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+                                      BD: Leveraging ICT Growth, Employ & Gov (P122201)
+
+
+
+               Development Problem: At appraisal, there were no targeted programs for the IT industry in Bangladesh
+               and none focused on building the necessary e-Government foundations. Hence, from an IT industry sub-
+               sector perspective, Bangladesh had not been able to tap on the tremendous potential of the global IT and
+               IT enabled services (IT/ITES) industry. Once completed, the project was expected to provide the
+               Government of Bangladesh with the critical technology foundations for governance reforms, increase the
+               capacity of local IT companies to support the e-Government, and thus have a significant impact on
+               development.
+
+               Alignment with World Bank Assistance Strategy: The objectives of the project were in line with the focus
+               area 1 “growth and competitiveness” and the objective “enhanced business environment and trade
+               facilitation” (by providing the e-government foundations to support digital public sector reforms such as e-
+               procurement and automated administration of value added tax (VAT)) of the Bank’s current Country
+               Partnership Framework (FY16-20). According to the Bank team, the objective of the project also supported
+               the Bank’s Jobs and Economic Transformation agenda, especially, the first two objectives “Supporting job
+               creation through economic transformation” and “ensuring inclusion of youth and women”.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             Catalyze the growth of Bangladesh's Information Technology (IT)/IT-Enabled Services (ITES) industry for
+                             employment creation and export diversification.
+
+                             Rationale
+                             The project’s theory of change envisioned that project inputs such as training programs and course
+                             materials, conducting industry statistics study, and conducting global engagements through industry
+                             meetings, conferences and seminars, would result in catalyzing the growth of Bangladesh’s IT/ITES
+                             industry. However, the underlying assumptions and attribution for the links between the project’s outputs, and
+                             employment generation and export diversification could have been better clarified.
+
+                             Outputs
+
+                                        33,564 people were trained in IT/ITES, surpassing the target of 30,000. Of this number, 10,450
+                                         women were trained with marketable ICT skills, surpassing the target of 9,000 women. Trainings
+                                         included the Fast Track Future Leadership (FTFL) program, which included training in emerging
+                                         technologies such as artificial intelligence. A database of trainees was developed and shared with
+                                         prospective employers through a portal.
+
+
+
+                                                                                                                                  Page 5 of 17
+  Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+  BD: Leveraging ICT Growth, Employ & Gov (P122201)
+
+
+
+
+    Training was also provided to over 600 middle management professionals in different IT/ITES
+     organizations.
+
+    Seminars, workshops, and business-to-business matchmaking conferences were organized to help
+     link Bangladeshi IT/ITES industry professionals with international organizations to gain market access
+     of their products and services. Seven Bangladeshi firms were trained in global platforms such as
+     Accelerance and Wonderlabs and participated in Japan IT week in 2016, 2017, and 2018 through a
+     CEO outreach program. According to the Bank team, these platforms were a trusted channel for
+     marketing the Bangladeshi companies to global IT/ITES clients.
+
+    96% of trainees were satisfied with the training provided by the Bangladesh Computer Council (BCC),
+     surpassing the target of 50%.
+
+    Six job fairs or “techfests” and over 70 ICT career camps were organized across Bangladesh to
+     promote employment in the ICT sector.
+
+    Five international firms provided statistical data for their ranking indices, achieving the target of five
+     firms. According to the project team, these indices are for international rankings on
+     country attractiveness and/or competitiveness in the global IT/ITES market. One of the project’s
+     intermediate result was for Bangladesh to provide statistical data to these international firms, for them
+     to include Bangladesh and/or improve the country’s ranking in their indices; so as to attract more
+     companies to use Bangladesh for their IT/ITES outsourcing needs.
+
+    An industry study was carried out by the Center for Project Management and Information Systems at
+     the University of Dhaka.
+
+Outcomes
+
+    The ICR reports (para. 28) that local IT/ITES companies benefited from improved business
+     opportunities and IT/ITES industry revenue increased to US$280 million, surpassing the target of
+     US$200 million.
+
+    IT/ITES industry employment increased from 12,000 jobs in 2013 to 47,000 jobs in 2019, surpassing
+     the target of 42,000 jobs. The ICR reports (para. 31) that over 90 percent of trainees were hired after
+     completion of the training.
+
+    However, the attribution from the project outputs to this industry-wide revenue and employment is
+     limited. Data from project documents indicates that increase in IT/ITES revenue and employment was
+     already on a strong rising trajectory even as the project’s training activities were ramping up.
+
+    The majority of the respondents (a roundtable with 35 trainees across various programs, interviews
+     with CXOs and middle managers and survey of over 20,000 trainees conducted by the ICR mission)
+     cited the catalytic impact of the trainings, that allowed them to earn higher incomes than expected,
+     provided new career paths, and enabled some to become entrepreneurs and freelancers.
+
+
+
+
+                                                                                                    Page 6 of 17
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   BD: Leveraging ICT Growth, Employ & Gov (P122201)
+
+
+
+
+      On export diversification, the ICR notes (para. 28) that while exports rose, there is no data on
+       diversification, and it may be too early to evaluate the impacts of project activities on this count.
+
+Although the project had a positive impact on employment generation, there is no evidence that the project
+resulted in export diversification. The rating for this objective is modest.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 2
+Objective
+Establish basic e-government foundations to support public sector modernization
+
+Rationale
+The project’s theory of change envisioned that outputs such as developing a national data center,
+establishing a national enterprise architecture as well as setting up a computer incident response team would
+result in basic e-government foundations being established. The ICR could have laid out the assumptions and
+linkages in the theory of change more clearly.
+
+Outputs
+
+      The National Data Center (NDC) was expanded under the Additional Financing to meet the high
+       demand from public agencies (ICR p.13). It hosts websites, e-mails, and applications. According to the
+       ICR (p.19) the NDC improved the efficiency and flexibility of the digital applications and services of the
+       government by reducing operating costs, increasing reliability and security.
+
+      A Computer Incidence Response Team (CIRT) was established, is operational, and collaborates with
+       other CIRTs around the world. A cyber training center, a cyber sensor network, a digital forensic lab,
+       and a cyber security risk assessment framework and tool were also developed and deployed under
+       the project.
+
+      The Bangladesh National Digital Architecture (BNDA) and an e-Government Interoperability
+       Framework (GIF) were established to provide a framework, principles, standards, guidelines, and tools
+       for e-government infrastructure and e-services. The BNDA coordinates investments across
+       government agencies and helps avoid duplication and waste.
+
+      The National Enterprise Architecture (NEA) was implemented and services included e-recruitment for
+       government officials, e-pensions for primary school teachers, e-procurement for grains, and Geo-dash
+       (a geospatial data repository system). The NEA received international awards from the World Summit
+       on Information Society Forum.
+
+      The Bangladesh Computer Center (BCC) provided six e-government skill courses, surpassing the
+       target of five courses.
+
+
+
+                                                                                                     Page 7 of 17
+  Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+  BD: Leveraging ICT Growth, Employ & Gov (P122201)
+
+
+
+
+    According to the Bank team (June 15, 2020) the project only financed the feasibility study of the
+     National Disaster Recovery Center (NDRC) in Jessore (Southwestern Bangladesh). The NDRC was
+     built by other financial sources and is operational.
+
+    The project trained 48% of 13,000 public sector officials working for the Government of
+     Bangladesh. These public sector officials had undertaken at least one e-government skills course
+     provided by BCC, surpassing the original target of 25% and the revised target of 40%. The officials
+     were provided training in e-governance transformation (analytics, digitalization, automation, and
+     process automation), enterprise architecture, cyber security, and IT project management.
+
+Outcomes
+
+    Bangladesh’s ranking in the UN’s global e-government development index (EGDI) improved from
+     150th position in 2013 to 115th position in 2018, surpassing the target of being ranked 145th.
+     According to the Bank team (June 15, 2020) the progression of improved ranking is as follows: the
+     ranking improved marginally from 150 to 148 during the period 2012 to 2014 (the project become
+     effective in 2013); the ranking improved significantly to 124 when the major activities were being
+     implemented (during 2014 to 2016). The UN's 2016 report stated that “Bangladesh has made the
+     largest gains with a global ranking of 124th in the 2016 Survey, partly due to the fact that the role of e-
+     government is recognized at the highest level of its administration, with the Prime Minister of
+     Bangladesh highlighting its “state of the art” digital technology." The Bank team also states that while
+     the specific technology is not indicated in the report, but "it can be assumed that the first National Data
+     Center (NDC), National Cybersecurity Center (NCC), and Bangladesh National Digital Architecture
+     (BDNA) financed by the LICTs project may be included in this. These major deliverables from the
+     LICT Project’s e-Government component are considered “state of the art” digital technology in
+     Bangladesh’s context as the NDC was the first data center in the country to be certified “Tier 3” for
+     reliability and availability by the Uptime Institute. The ranking continued to improve and was 115 in
+     2018 as major activities were completed. Overall, considering the factors that appear to have been
+     taken into account in the EGDI ranking, and the sequence of project activities, the project can be
+     considered to have significantly contributed to the country's improved EGDI ranking.
+
+    At project closing, about 75% of the public sector officials trained in project management were
+     managing large ICT initiatives around the country (ICR para. 35). The Bank team stated (June 15,
+     2020) that this attribution requires further examination to understand the causal link between those
+     government officials who received project management training and their management of “large ICT
+     initiatives”.
+    At project closing, 66% of ministries were using two or more e-government technology foundations,
+     which were established under the project, surpassing the target of 50% of ministries.
+
+    About 20% was saved in government IT spending, surpassing the target of 15% savings. According to
+     the Bank team (June 15, 2020) the savings resulted from operational and cyber security savings due
+     to the establishment of e-government technology foundations. The savings can be illustrated by
+     following examples:
+          o By project closure, the National Data Center was hosting over 2,600 websites and was being
+             used by over 200 government departments. Without the National Data Center, these agencies
+             would have to build, operate, and maintain their own data centers or server rooms at additional
+             cost;
+
+                                                                                                  Page 8 of 17
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                BD: Leveraging ICT Growth, Employ & Gov (P122201)
+
+
+
+                                          o With the National Cybersecurity Center providing national level monitoring of cybersecurity
+                                            attacks and alerts for all government agencies, these agencies do not have to set-up their
+                                            own cyber-attacks monitoring systems, thus leading to savings. Before the National
+                                            Cybersecurity Center was set up, the Bangladesh Bank lost US$81 million (February 2016)
+                                            due to a cyber heist;
+                                          o The Bangladesh National Digital Architecture provides a standardized set of “standards and
+                                            guidelines” that agencies should use to build their systems and services; so that they may
+                                            share and reuse system components and programs, in addition to sharing and reusing public
+                                            data within or with other government agencies.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The achievement of the first objective was modest since even though the project had a positive impact on
+                            employment generation there is no evidence that the project resulted in export diversification. The
+                            achievement of the second objective was substantial because the project assisted in establishing basic e-
+                            government foundations to support public sector modernization. It expanded and scaled-up the activities of
+                            the National Data Center, the Cybersecurity center, and established the National Enterprise Architecture and
+                            an e-Government Interoperability Framework (e-GIF). The project helped in building the IT capacity of project
+                            managers and public sector officials. Overall, efficacy is rated substantial.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+   5. Efficiency
+   Economic Analysis
+
+   The PAD (p.14) conducted an Economic Analysis for component 1 and 2 using a cost-benefit analysis (CBA).
+
+   For Component 1 (IT/ITES industry development) the PAD (p. 14) assumed an increase of 30,000 direct and
+   60,000 indirect employees by the end of the project due to encompassing activities to support industry
+   development. Based on an increase in national income due to the increased IT/ITES employment income, the
+   baseline Return on Investments (ROI) was estimated at 59%.
+
+   At project completion, the estimated employment growth was derived from total IT/ITES employment data
+   calculated by BCC as part of the project’s Results Framework. The total value-added to the local economy was
+
+                                                                                                                              Page 9 of 17
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      BD: Leveraging ICT Growth, Employ & Gov (P122201)
+
+
+
+calculated based on a percentage of the total increase in IT/ITES industry revenue, as total value-added
+indicated the “economic profit” that the project’s IT/ITES component was to bring to Bangladesh. Using a
+discount rate of 10.8%, the ICR calculated a Net Present Value (NPV) of US$36.88 million and a ROI at 83%.
+
+While the ROI at project completion exceeded the baseline, the issue on the attribution of the project to IT/ITES
+industry revenue remained as discussed in the efficacy section. Given the partial evidence, economic efficiency
+of Component 1 is rated substantial.
+
+For component 2, the indicator that the PAD provided was the proportion of investment cost versus national
+budget (which was 0.03%). At project completion, this figure was recalculated at 1.9% with an ROI of
+311%.However, the denominator was changed from national budget to ICT budget.To that extent the two figures
+are not comparable.
+
+Operational Efficiency: The project’s original closing date (December 31, 2017) was extended by 18 months (to
+June 30, 2019) when the project received Additional Financing. The initial implementation of the project
+experienced some delays due to the challenge of procuring complex and large ICT packages. However, these
+issues were resolved, and no further delays took place. Operational efficiency is rated substantial.
+
+Based on the above assessments, overall, project efficiency is rated substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                      0
+ Appraisal                                                   0
+                                                                                       Not Applicable
+                                                                                      0
+ ICR Estimate                                                0
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+Relevance of the objective was rated high as the project was fully aligned with the Bank's strategy and country's
+priorities. The achievement of the project’s first objective is rated modest while the achievement of the second
+objective is rated substantial, and overall efficacy is rated as substantial. Efficiency is rated substantial. The
+project’s overall outcome rating is Moderately Satisfactory [As per OPCS guidelines dated March 2, 2020, if
+overall efficacy and efficiency are each rated substantial, but if one of the objectives is rated modest, the overall
+PDO is rated moderately satisfactory].
+
+
+
+                                                                                                      Page 10 of 17
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     BD: Leveraging ICT Growth, Employ & Gov (P122201)
+
+
+
+a. Outcome Rating
+   Moderately Satisfactory
+
+
+7. Risk to Development Outcome
+
+Potential risks to development outcomes can be categorized into the following broad areas:
+
+      Political: According to the ICR (p. 30), the government continues to be committed to the PDOs of the
+       project and requested a follow-on project to further develop Bangladesh’s IT industry. Furthermore,
+       the government has also started two projects on e-government and IT/ITES industry development for
+       maintaining the infrastructure, which was created under this project, sustaining the growth of the
+       industry, and building capacity while the new Bank project (P161086) is being prepared (Board
+       approval to be expected in May 2020). Therefore, the political risk to project outcomes is considered
+       low.
+
+      Technical: The project built capacity within the Bangladesh Computer Council (BCC) to carry out
+       complex technologies. Therefore, the technical risk to project outcomes is considered low.
+
+      Sectoral: Keeping the technical expertise and continuing to train people will be critical for sustaining
+       project outcomes. According to the ICR (p. 30) the project was able to create significant demand by
+       local beneficiaries for training, which was designed in collaboration with the IT industry. Several
+       courses continued after project closure and the Dhaka University made the mid-level managers
+       training course a regular training course.
+
+      Financial: According to the ICR (p. 30) maintenance and operational costs of BCC have been
+       included as line items in the government budget. Also, the new Bank project will ensure financing of
+       activities to ensure the sustainability of project outcomes.
+
+      Human resources: The ICR (p. 30) stated that most consultants who worked for this project were
+       absorbed by the two new government projects ensuring smooth knowledge transfer between
+       projects. Furthermore, BCC will hire 168 permanent staff to ensure the maintenance and
+       sustainability of project outputs.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  According to the ICR (p. 28) the Bank consulted with key stakeholders (Bangladesh Computer Council
+  (BCC), ICT Division of the Ministry of Post, Telecommunications and IT, the IT/ITES industry associations
+  and companies, and numerous universities across the country) and the project was built on findings from
+  a detailed analytical Bank study conducted in Bangladesh in 2009. The ICR (p. 24) stated that the project
+  design also took into account the lessons learned from Bank projects implemented in other countries. For
+  example, one lesson that was considered was that having multiple implementing agencies in an
+
+                                                                                                     Page 11 of 17
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     BD: Leveraging ICT Growth, Employ & Gov (P122201)
+
+
+
+  investment project could limit the implementation performance in Bangladesh resulting in enhancing the
+  capacity of BBC.
+
+  The Bank identified relevant risks. The risk of staff capacity and potentially high staff turnover was rated
+  as substantial. The project mitigated this risk by staffing the Project Coordination Unit (PCU) with
+  technical specialists and fiduciary staff and provided them with additional training to strengthen their
+  capacity.
+
+  The project’s Results Framework had some shortcomings especially in respect of measuring export
+  diversification, and intermediate indicators for the second objective (see section 9a for more details).
+
+
+
+  Quality-at-Entry Rating
+  Moderately Satisfactory
+
+
+b. Quality of supervision
+ According to the ICR (p. 29) the Bank conducted regular supervision missions (on average every two to
+ three months) as well as regular teleconference calls. The ICR stated that the 13 Aide Memoires and 12
+ Implementation Status Reports were sufficiently candid, detailed and reported on implementation progress.
+ After the first year of project implementation the project was classified as a problematic project due to its
+ low disbursement. In order to address this issue, the Bank worked with the government to accelerate
+ procurement and delivery of priority activities. Also, in 2017 the Bank assigned a Co-Task Team Leader to
+ provide additional support and supervision on the ground. According to the ICR (p. 29) the Bank also
+ implemented several management mechanisms and provided close support to address implementation
+ challenges such as (a) developing a disbursement spreadsheet to target high disbursement items and
+ track progress; (b) procurement response tracking spreadsheet to manage World Bank clearances for
+ timely responses; and (c) master schedule to track and monitor every activity and its procurement and
+ implementation milestones.
+
+ The Bank restructured the project three times to make several modifications such adapting the indicators in
+ the Results Framework. Also, the Bank ensured the project’s compliance with the Bank’s procurement and
+ financial management guidelines.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+
+
+                                                                                                     Page 12 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     BD: Leveraging ICT Growth, Employ & Gov (P122201)
+
+
+
+a. M&E Design
+ The project’s theory of change and how key activities would lead to intended outcomes was sound. Most of
+ the selected indicators were adequate for capturing the contribution of the project’s activities towards
+ achieving the PDOs and were sufficiently specific and measurable. When possible, indicators had a
+ baseline. All indicators had a target. However, PDO indicator 2 “e-government development index (EDGI)”
+ was output rather than outcome focused. Also, intermediate outcome indicators for the second objective
+ were weak and the Results Framework lacked indicators to measure export diversification. Finally, the
+ indicators did not account for delayed impacts of industry activities on growth, employment, exports and
+ potential sectoral disruption.
+
+ The Bangladesh Computer Council (BCC) was responsible for the project’s M&E. The Results Framework
+ would have benefitted from including additional indicators to measure export diversification such as export
+ market size and product diversification.
+
+
+
+b. M&E Implementation
+  According to the ICR (p. 26) the M&E specialist within the PCU conducted regular M&E activities. Data
+  was collected consistently on a monthly, quarterly, and annual basis through reporting template that
+  captured the required information from components. Throughout project implementation M&E was rated
+  Moderately Satisfactory until the final Implementation Status Report since fully verified data was not
+  available until the last year of project implementation. The Bank team reviewed the project’s M&E on a
+  regular basis. Also, the Project Steering committee met on a bi-annual basis to review the project’s
+  progress towards achieving the PDO. Finally, the Bank conducted a Mid-Term Review in September
+  2015 to assess the project’s achievements towards the desired outcomes. Recommendations such as a
+  restructuring of the project were implemented.
+
+  When the project received Additional Financing in September 2016, the targets of three indicators were
+  increased (the PDO indicator “percentage of ministries that have undertaken one or more skills
+  development course” was increased from 25 to 40 percent; the intermediate outcome indicators “savings
+  in government IT spending” was increased from 15 to 20 percent, and “the number of manpower trained
+  under the project” was increased from 30,000 to 40,000) and two new social indicators (“number of
+  women trained and gained marketable skills”, and “percentage of trainees satisfied with the training at
+  Bangladesh Computer Council (BCC)”) were added.
+
+
+
+c. M&E Utilization
+  According to the ICR (p. 26) M&E data informed decision making such as restructuring of the project,
+  providing Additional Financing, and extending the project closing date. The ICR (p. 27) stated that the
+  project conducted a skill gap analysis of technical skills every six months. Feedback from top-up
+  trainings showed that the initial three-months duration was not ideal for students and the trainings were
+  extended to nine months to be aligned with the academic calendar year. Also, feedback was used by
+  academic institutions to revise curricula and management courses.
+
+
+
+
+                                                                                                   Page 13 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     BD: Leveraging ICT Growth, Employ & Gov (P122201)
+
+
+
+
+  M&E Quality Rating
+  Modest
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as Category C and only one Bank’s safeguard policy OP/BP 4.01 (Environmental
+   Assessment) was triggered. After the second restructuring an electrical substation for the expansion of the
+   National Data Center (NDC) was installed. The ICR (p. 27) stated that an environmental
+   screening/assessment was conducted and an environment management plan (EMP) was developed. The
+   Project Coordination Unit ensured that the project complied with the EMP as well as with the health and
+   safety measures for the workers during the construction phase.
+
+
+
+
+b. Fiduciary Compliance
+   Procurement:
+
+   The ICR (p. 25) stated that most procurement had to be done through International Competitive Bidding
+   since the packages were highly technical and the availability of suppliers and consultants was limited. Also,
+   some packages had to go through special national and United States government vetting and high-level
+   approval or had to be shipped from Europe, which took several months. According to the ICR (p. 28)
+   during the initial implementation phase the Bangladesh Computer Council experienced some delays in the
+   procurement of large ICT packages resulting in a Moderately Satisfactory procurement performance rating.
+   However, the Project Coordination Unit (PCU) built procurement capacity and completed all the targeted
+   procurement packages. The ICR (p. 28) stated that the Bank’s post-review mission found that contract
+   management needed improvement, which was addressed by the PCU. All contracts complied with the
+   Bank’s procurement guidelines and regulations and the project did not experience any instances of mis-
+   procurement. According to the ICR (p. 28) the project’s overall procurement performance was Satisfactory
+   throughout implementation.
+
+   Financial Management:
+
+   According to the ICR (p. 27) the project had adequate internal control arrangements and disbursement
+   systems. The PCU submitted interim unaudited financial reports and audit reports throughout
+   implementation. The ICR (p. 28) stated that a computerized accounting software was used to monitor
+   expenditures. Internal and external audits were conducted on an annual basis. In 2017, an extensive
+   financial management review was conducted due to a large number of mis-categorizations of expenditures
+   and turnover in Financial Management staff in the PCU. All mis-categorizations were resolved adequately.
+   According to the ICR (p. 28) the project’s financial management manual was based on the local finance
+   system and included necessary internal control guidelines. The project staff was trained in the usage of the
+   manual. According to the Bank team, the external auditor’s opinion was unqualified.
+
+
+
+
+                                                                                                   Page 14 of 17
+     Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+     BD: Leveraging ICT Growth, Employ & Gov (P122201)
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   NA
+
+
+
+d. Other
+   NA
+
+
+
+11. Ratings
+                                                                              Reason for
+Ratings                        ICR                   IEG
+                                                                              Disagreements/Comment
+                                                                              Relevance of the objective was
+                                                                              rated high as the project was
+                                                                              fully aligned with the Bank's
+                                                                              strategy and country's priorities.
+                                                                              The achievement of the project’s
+                                                                              first objective is rated modest
+                                                                              while the achievement of the
+                                                                              second objective is rated
+                                                                              substantial, and overall efficacy
+                                                                              is rated as substantial. Efficiency
+Outcome                        Satisfactory         Moderately Satisfactory
+                                                                              is rated substantial. The
+                                                                              project’s overall outcome rating
+                                                                              is Moderately Satisfactory [As
+                                                                              per OPCS guidelines dated
+                                                                              March 2, 2020, if overall efficacy
+                                                                              and efficiency are each rated
+                                                                              substantial, but if one of the
+                                                                              objectives is rated modest, the
+                                                                              overall PDO is rated moderately
+                                                                              satisfactory].
+                                                                              Weak M&E design with several
+Bank Performance               Satisfactory         Moderately Satisfactory
+                                                                              shortcomings.
+                                                                              The M&E design was weak.
+                                                                              PDO indicator 2 “e-government
+                                                                              development index (EDGI)” was
+                                                                              output rather than outcome
+                                                                              focused. Also, intermediate
+Quality of M&E                 Substantial          Modest                    outcome indicators for the
+                                                                              second objective were weak and
+                                                                              the Results Framework lacked
+                                                                              indicators to measure export
+                                                                              diversification. Finally, the
+                                                                              indicators did not account for
+
+                                                                                                 Page 15 of 17
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       BD: Leveraging ICT Growth, Employ & Gov (P122201)
+
+
+
+                                                                                   delayed impacts of industry
+                                                                                   activities on growth,
+                                                                                   employment, exports and
+                                                                                   potential sectoral disruption.
+Quality of ICR                    ---                   Modest
+
+
+12. Lessons
+
+The ICR (p. 31-33) included very useful lessons, which were adapted by IEG:
+
+        The Information Technology (IT)/IT-Enabled Services (ITES) industry growth depends
+         on a number of national and international macroeconomic factors. Therefore, delayed
+         impacts of industry activities on growth, employment, exports and potential sectoral
+         disruption need to be taken into account when defining the project’s objective and
+         selecting indicators for measuring achievement towards the objective. In this project,
+         data was limited for the selected indicators and the project had to develop its own industry
+         study and rely on academic institutions to ensure the reliability of the data.
+
+        Building IT/ITES capacity across functions and organizational hierarchies is beneficial
+         for the entire sector to stimulate industry development. In this project, the digital
+         business transformation training was particularly useful for local users to develop digital
+         leadership mindsets and networks to the local and international industry standards.
+
+        Activities targeted to women can potentially result in higher female participation. In
+         this project, students enrolled in the project were selected from different science/engineering
+         subjects with a selection process that maintained a minimum gender ratio of 30 percent to
+         support women’s participation. Also, communication activities were conducted by female
+         spokes persons, targeting media channels, encouraging woman to become master trainers,
+         and reaching out to women-oriented educational institutions. These approaches resulted in
+         the training of over 10,000 women.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR provided an adequate overview of project preparation and implementation, included useful lessons
+learned and a detailed risk to development outcome section. However, the ICR did not sufficiently discuss
+attribution of important performance indicator values to the project activities, and other factors that may have
+contributed to the realized indicator values. The ICR was not sufficiently clear on significant details such as
+whether the project established a National Data Center or expanded it or if there were any other financial inputs
+
+
+                                                                                                       Page 16 of 17
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     BD: Leveraging ICT Growth, Employ & Gov (P122201)
+
+
+
+besides the governments. The ICR had inconsistencies such as providing different figures for the number of
+people trained, in different portions of the ICR
+
+
+
+  a. Quality of ICR Rating
+      Modest
+
+
+
+
+                                                                                                Page 17 of 17
+

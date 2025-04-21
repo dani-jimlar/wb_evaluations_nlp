@@ -1,0 +1,732 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Quality Data for Decision Making (P165062)
+
+
+
+                                                                                  Report Number: ICRR0023915
+
+1. Project Data
+
+
+
+ Project ID                                  Project Name
+ P165062                                     Quality Data for Decision Making
+
+ Country                                     Practice Area(Lead)
+ Niger                                       Poverty and Equity
+
+
+ L/C/TF Number(s)                            Closing Date (Original)               Total Project Cost (USD)
+ IDA-D3420                                   30-Jun-2023                                         18,720,462.79
+
+ Bank Approval Date                          Closing Date (Actual)
+ 06-Jul-2018                                 30-Jun-2023
+
+                                            IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                              20,000,000.00                                             0.00
+
+ Revised Commitment                               20,000,000.00                                             0.00
+
+ Actual                                           18,720,462.79                                             0.00
+
+
+
+
+ Prepared by                 Reviewed by                   ICR Review Coordinator         Group
+ Lars Johannes               Ranga Rajan                   Donna Kaidou Jeffrey           IEGEC (Unit 1)
+                             Krishnamani
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   The Project Development Objective (PDO) as stated in the Financing Agreement (Schedule 1, p. 5) and in the
+   Project Appraisal Document (PAD, page 5) was " To improve the quality, availability, and use of
+   macroeconomic and sector statistics".
+
+   For the purposes of this review the PDO will be parsed into three objectives that will be referred to as PDO1,
+   PDO2 and PDO3 as follows:
+
+
+                                                                                                   Page 1 of 14
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Quality Data for Decision Making (P165062)
+
+
+
+         PDO 1. To improve the quality of macroeconomic and sector statistics.
+         PDO 2. To improve the availability of macroeconomic and sector statistics.
+         PDO 3. To improve the use of macroeconomic and sector statistics.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component 1: Improvement in Data Quality and Use. The estimated cost at appraisal was
+   US$11.0 million. The actual cost was US$12.4 million. This component planned to support production of
+   quality macroeconomic (national account, price, enterprise, and labor) and sector statistics (agriculture,
+   planning and finance) and establishing a call center by modernizing data collection using tablets.
+
+   Component 2: Modernization and Professionalization of the National Statistical System (INS). The
+   estimated cost at appraisal was US$7.0 million. The actual cost was US$4.4 million. This component
+   planned to support institutional reforms through conducting a study assessing the optimal institutional
+   structure of sectoral statistical services and supporting its recommendations. Activities included
+   organizational restructuring of the INS for developing new staffing regulations and human resource
+   development.
+
+   Component 3: Project Management and Coordination. The estimated cost at appraisal was
+   US$2.0 million. The actual cost was US$2.1 million. This component planned to support project
+   coordination and fiduciary management.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project cost. The estimated cost at appraisal was US$20.0 million. The actual cost was US$18.7 million.
+
+   Project financing. This project was financed by an International Development Association Grant (IDA) of
+   US$20.0 million. The amount disbursed was US$18.7 million.
+
+   Recipient contribution. Recipient contribution was not planned at appraisal. There was no recipient
+   contribution during implementation.
+
+   Dates. The project was approved on July 6, 2018, declared effective on December 19, 2018, and closed as
+   scheduled on June 30, 2023.
+
+
+
+
+3. Relevance of Objectives
+
+
+                                                                                                    Page 2 of 14
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     Quality Data for Decision Making (P165062)
+
+
+
+Rationale
+Country context. Niger is a geographically (in terms land area) and a fragile, conflict and violence (FCV)
+affected county in West Africa. The country ranked last among the 188 countries based on the Human
+Development Index (HDI). This was partly due to Niger’s poor governance capacity.
+
+Sector context. Niger has a decentralized statistical system with the National Statistical Institute (Institut
+National de la Statistique INS) as the entity responsible for providing official statistics. Before appraisal, the
+NNS adopted the National Data Quality Assurance Framework (NDQAF) that was based on international
+best practices (such as the International Monetary Fund’s (IMF) Data Quality Assessment and the Eurostat
+Quality Assurance Framework), for improving the quality of macroeconomic and sector statistics. This
+framework was yet to be implemented when this project was being prepared.
+
+The main conclusions of the sectoral and institutional assessment of Niger’s statistical system (Rapport sur
+I’Etat de la Statistique, June 2017) were: (i) Although INS produced various data, there were issues about
+the quality of the macroeconomic data; (ii) While line ministries collected sector statistics as a byproduct of
+their administrative work and service delivery, this data was neither processed nor complied and
+disseminated in a systematic manner; and (iii) limited public financing of the National Statistical System
+(NSS), including for the INS and the line ministries contributed to the low capacity of staff to produce quality
+outputs. Therefore, the outcomes of improving the quality, reliability and use of statistical data for evidence-
+based policy making was important to the government strategy.
+
+Government Strategy. The PDO was consistent with the Government strategy articulated in the second
+Economic and Social Development Strategy (Plan de Developpment Economique et Social, PDES) for
+2017-2021.This strategy broadly highlighted the need for strengthening statistical information for decision
+making and citizen accountability. The PDO was also aligned with the National Strategy for the
+Development of Statistics. This strategy specifically underscored the need for meeting the demand for
+quality data through undertaking censuses, surveys, data processing and analysis, improving public access
+to statistical products through modern technologies and improving coordination within the NSS..
+
+Bank strategy. The PDO was well-aligned with the Bank’s Systematic Country Diagnostic (SCD, 2017) and
+the Country Partnership Framework (CPF) for Niger for FY18-FY22. The SCD recognized that inadequate
+core funding hindered the efficiency of statistical operations. Of the three main focus areas of the CPF, the
+PDO was relevant to the third focus area: Better Governance. The current Bank strategy for Niger is
+currently under preparation.
+
+Bank experience. This was the first major Bank-financed project aimed at building the statistical capacity in
+Niger. This project built on prior efforts to improve statistics capacity which were primarily grant funded and
+did not completely address the constraints in the field. While this project was being prepared, Niger was
+also participating in an IDA funded Regional Program aimed at harmonizing household welfare across eight
+West African Economic and Monetary Union (WAEMU) countries.
+
+As the first of its kind, the project clearly addressed a clear need for building the foundational blocks for
+evidence-based policy making and a sector with broad externalities for other sectors. The three objectives
+of improving the quality, availability, and use of macroeconomic and sector statistics, were complementary
+and mutually reinforced each other.
+
+
+
+
+                                                                                                        Page 3 of 14
+                                      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                      Quality Data for Decision Making (P165062)
+
+
+
+               The PDO was highly relevant to the Government strategy and Bank strategy for Niger. The project was
+               pitched at an appropriate level, given the fragile country context. The project scope was expanded with the
+               savings realized during implementation. The relevance of the PDO is rated as High.
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             To improve the quality of macroeconomic and sector statistics.
+
+                             Rationale
+                             Theory of Change. The project activities aimed at improving the quality of statistical data through a
+                             combination of activities including through improving the legislative framework, building institutional capacities
+                             and replacing outdated equipment. The outputs of inputs such as training the staff of the NSS, the relevant
+                             ministries and agencies, professionalizing NSS, replacing obsolete Infrastructure Technology (IT) equipment
+                             and implementing the recently adopted National Quality Assurance Framework for Public Statistics
+                             (CNAQ/SP) were likely to contribute to the intended outcome of improving the quality of macroeconomic and
+                             sector statistics. The causal links between project activities, outputs and outcomes were logical. The intended
+                             outcomes were monitorable.
+
+                             Outputs.
+
+                             TA was provided as targeted for the following:
+
+                                        The national accountants were trained for rebasing national accounts (Rebasing national accounts
+                                           series means replacing the old base year for compiling price estimates to a more recent base year for
+                                           computing constant price estimates for enabling comparisons of national income estimates over time).
+                                          The project aided in financing purchase of survey and computer equipment and training staff for
+                                           increasing the geographic coverage of the Consumer Price Index (CPI) in the different regions of
+                                           Niger.
+                                          The project aided in supporting the first enterprise census (which included informal enterprises as
+                                           well) Nearly 98.9% of the country market units were enumerated.
+                                          The Ministry of Agriculture staff were trained for producing agricultural statistics. Three studies on
+                                           fisheries and fish farming, moringa and gum arabica were completed. A quarterly series extending
+                                           from the first quarter of 2009 to the fourth quarter of 2022 was completed.
+                                          Foreign Trade Statistics Service team were trained on preparing foreign trade statistics with
+                                           EUROTRACE SQL SERVER software.
+                                          The Ministry of Education staff were trained in filing questionnaires and processing school data.
+
+                                                                                                                                    Page 4 of 14
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Quality Data for Decision Making (P165062)
+
+
+
+
+      A National Survey on Fertility and Mortality of Children under Five was conducted as targeted.
+      The project supported: (i) The pilot cartography and pilot enumeration for the fifth Population and
+       Housing Census and the upcoming agricultural census; and (ii) establishing call centers in the
+       INS using new technologies.
+      The project financed the following studies: (i) A study on the impact of public infrastructure projects in
+       Niger; (ii) Two studies on the effects of COVID-19 on the economy; (iii) A study on the impact of
+       agricultural productivity; and (iv) A study on the impact of the informal sector on the Nigerian
+       economy.
+      The project supported the implementation of the National Quality Assurance Framework for Public
+       Statistics (CNAQ/SP) adopted by the Government in 2017, through setting a committee responsible
+       for evaluating and validating the publications of the INS.
+
+Intermediate Outcomes.
+
+      Rebased Gross Domestic Product (GDP) were released in a timely manner, and the CPI was revised
+       and released quarterly. The GDP and CPI data were released on the INS website when the project
+       closed.
+
+Outcomes
+
+The outputs described above aimed at increasing the number of statistical products that adhered to the
+National Statistical System (NSS) quality standards framework.
+
+      The following statistical products were produced based on the NSS quality standards framework as
+       targeted:
+            o CPI with increased geographical coverage
+            o rebased national accounts figures
+            o Foreign trade statistics
+            o Harvest Forecasting and Estimation Survey
+            o Survey on Living Conditions of Households
+            o Statistical yearbook of the Ministry of Transport
+            o Statistical yearbook of the Ministry of Community Development
+            o Statistical yearbook of the Ministry of Finance
+            o Revised demographic projections
+            o The statistical yearbook of the Ministry of Planning.
+
+Efficacy of this PDO was rated as substantial as the intended outcomes were realized.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 2
+Objective
+Improved availability of macroeconomic and sector statistics
+
+                                                                                                    Page 5 of 14
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   Quality Data for Decision Making (P165062)
+
+
+
+
+Rationale
+Theory of Change. While the project activities related to PDO1 sought to improve the quality of
+macroeconomic and sector statistics, activities under PDO2 aimed at improving the availability of statistical
+data. Activities such as improving the information network in INS, installing high speed internet network in INS
+regional directorates, organizational restructuring of the INS for developing new staffing requirements and
+human resource development and introducing performance-based mechanisms for incentivizing staff were
+likely to help in improving the availability of macroeconomic and sector statistics. The casual links between
+inputs, outputs and outcomes were logical. The intended outcomes were measurable.
+
+Outputs
+
+      The INS and the Ministry of Planning website were renovated. 43 databases were posted on the INS
+       website: The project supported the migration of the NIGERINFO database from the DEVINFO
+       technology to the DATA FOR ALL technology.
+      Two study programs involving 55 students were trained at the Niger National Statistic School
+       (ENSTAT – Niger).
+
+Intermediate Outcomes.
+
+      The INS website provided public access to micro-databases as targeted.
+
+Outcomes.
+
+The outputs described above were expected to increase the number of core data that were produced and
+disseminated.
+
+      43 core data sets were produced and publicly disseminated, far exceeding the target of 20.
+
+
+
+Rating
+Substantial
+
+
+OBJECTIVE 3
+Objective
+Improved use of macroeconomics and sector statistics.
+
+Rationale
+Theory of Change. The final step in the causal chain of the project was to improve the use of high-quality
+data. Activities such as strengthening demand for statistical data were likely to contribute to the desired
+outcome of improving the use of macroeconomics and sector statistics. The casual links between inputs,
+outputs and the intended outcomes were logical. The outcomes could be monitored.
+
+Outputs.
+
+
+
+                                                                                                  Page 6 of 14
+                                Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                                Quality Data for Decision Making (P165062)
+
+
+
+
+                                  A communication plan was developed as targeted that considered local contexts for all large-scale
+                                   NSS produced statistical activities.
+                                  The civil servants, journalists, persons in charge of programming sectoral ministry activities and
+                                   members of the traditional chiefs’ associations in Niger were trained as targeted on using the
+                                   statistical products produced under the project.
+                                  Awareness raising activities were conducted as targeted.
+                                  The Network of Journalists for the Development of Statistics (Réseau des Journalistes pour le
+                                   Développement de la Statistique, RJDSN) was operationalized
+
+                            Intermediate Outcomes.
+
+                                  An online platform was established to collect users’ feedback and gender relevance.
+
+                            Outcomes.
+
+                                  340 government officials and private citizens were trained in the use of statistical information, far
+                                   exceeding the target of 200.
+                                  Two user surveys were conducted (one in 2018 and one in 2022) to assess the extent to which the
+                                   training helped in enhancing performance of staff. The survey respondents included public and
+                                   semipublic administrations, local authorities, technical and financial partners, Non Governmental
+                                   Organizations (NGOs), public and private companies, universities, research and training centers. The
+                                   results of the surveys showed a high level of satisfaction of data users with the produced statistical
+                                   products. For instance, the survey in 2022 indicated an overall satisfaction rate of 86.2%.
+
+                            Efficacy of this PDO is rated as substantial.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            Overall efficacy is rated as Substantial, given that all the intended outcomes were realized.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+          5. Efficiency
+
+                                                                                                                                Page 7 of 14
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      Quality Data for Decision Making (P165062)
+
+
+
+It is universally acknowledged that good statistical information for evidence-based policy making is a public good
+with significant positive externalities. However, the benefits of good statistical information do not lend
+themselves to an economic rate of return analysis (PAD, para 67). Accordingly, and consistent with practice for
+similar projects, no economic rate of return analysis was performed for this project either at appraisal or at
+closure. Research in middle-income contexts indicated that the availability of quality, transparent and timely
+disseminated data reduces sovereign borrowing cost on international capital markets. The PAD noted that in a
+fragile context such as Niger, the national statistical office had limited opportunities for significant cost recovery
+and so the financial returns from this project will not be representative of the economic returns which are likely to
+be very high.
+
+The ICR provides benchmarking information which indicated that the costs of administering household surveys
+in this project compared favorably with that of the peers in the region, despite the relatively low population
+density of Niger which can result in relatively higher travel costs between households and the security
+challenges in the country. The average cost of the survey per household was US$311 in Niger, slightly higher
+than in Benin (US$243), but lower than in Mali (US$311) and nearly US$450 for the Democratic Republic of
+Congo (DRC).
+
+The project demonstrated good value-for-money. The actual cost of planned activities were lower than their
+appraisal estimates and the savings realized during implementation were utilized for scaling up project activities.
+For example, initially the project planned to only support the population census by financing the drafting process
+of the population census document. However, because of the availability of additional resources, the project
+went beyond by also supporting two other phases of the population census: the cartography mapping pilot and
+the enumeration pilot exercises. The actual cost of implementation support (at US$2.06 million), was only
+slightly higher than the appraisal estimate of US$2.00 million, despite the fragile country context.
+
+There were no serious operational inefficiencies, with all the planned activities completed within the originally
+scheduled closing date, despite the restrictions in the wake of the COVID – 19 pandemic and worsening security
+situation in the country which affected the household survey activities.
+
+Overall efficiency is rated as substantial. Although there was no standard economic analysis, the project
+demonstrated good value for money in a fragile context.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?              Point value (%)            *Coverage/Scope (%)
+                                                                                        0
+ Appraisal                                                    0
+                                                                                         Not Applicable
+                                                                                        0
+ ICR Estimate                                                 0
+                                                                                         Not Applicable
+
+
+
+                                                                                                        Page 8 of 14
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      Quality Data for Decision Making (P165062)
+
+
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The Project was highly relevant to the Government and the Bank strategy. As all the intended outcomes were
+realized, overall efficacy is rated as Substantial. Efficiency is rated as Substantial. Although there was no
+standard economic analysis, there were no serious operational issues and the project demonstrated good value
+for money in a fragile country context. Taking these ratings into account, overall outcome is rated as
+Satisfactory.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+7. Risk to Development Outcome
+
+Institutional Risk. There is risk to the sustainability of development outcomes given that the Government
+and the National Assembly is yet to adopt legislation ( Law No. 2014-66), intended to strengthen the legal,
+institutional, and organizational framework of the NSS.
+
+Financial Risk. There is also risk pertaining to the long-term financial viability of NSS, which in turn would
+undermine its ability to hire and retain quality staff.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The Bank team prepared this project based on the experiences from previous Bank-financed statistical
+  building projects in fragile settings. Lessons incorporated included: (i) the need to have coordinated
+  programs: (ii) provide support for organizational and management change; (ii) provide support for
+  strengthening the legal and institutional frameworks; and (iv) transition towards a more focused and
+  results-oriented approach for sustainability of outcomes. The analytical underpinnings of the project were
+  robust and based on the Bank’s SCD and other analytical products such as the Statistical Capacity
+  Building Indicator and internal work comparing the experiences of Statistics Reforms in Africa
+  (Hoogeveen, and Nguyen. 2016.- mimeo). The project appropriately included a Project Preparation
+  Advance (PPA), which aided in commencing project activities soon after Bank approval.
+
+  The Project Management Team (PMT) in the National Statistical System (NSS), was responsible for
+  project implementation. The PMT had experience with implementing Bank-funded projects. The
+  implementation arrangement was appropriate, as project performance was not undermined by the
+  arrangement during implementation.
+
+
+
+
+                                                                                                      Page 9 of 14
+     Independent Evaluation Group (IEG)                                  Implementation Completion Report (ICR) Review
+     Quality Data for Decision Making (P165062)
+
+
+
+  The overall project risk was rated as substantial at appraisal due to the risks related to technical design,
+  weak institutional and fiduciary capacities, and security risks. Several mitigation measures were
+  incorporated at appraisal such as incorporating performance-based financing arrangements to focus on
+  quality, relying on the coordinating role for INS to enhance budget allocation for well-performing line
+  ministries, hiring dedicated procurement staff and partnering with third parties (Non-Governmental
+  Organizations) to support implementation in insecure areas. The mitigation measures were appropriate,
+  as project performance was not undermined by the risks identified at appraisal.
+
+  The arrangements made at appraisal for M&E and fiduciary compliance were appropriate (discussed in
+  section 9 and 10).
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The Bank conducted twice a year supervision missions on average as per the norm during the project
+ lifetime. These missions helped in providing targeted support to the respective agencies during
+ implementation. The Bank maintained the continuity of leadership, with one task team leader during the
+ project duration. In addition to the task team leaders, several other technical World Bank specialists
+ provided training and advice to the respective agencies when needed. The team was proactive in adapting
+ to changing circumstances such as the impacts of the COVID-19 pandemic and the deteriorating security
+ situation in the country. The support provided by the team aided in M&E and fiduciary compliance
+ (discussed in section 9 and 10).
+
+ Overall Bank performance is rated as satisfactory.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The M&E design consisted of clearly measurable and well-defined indicators, pertaining to the three
+ intended outcomes: (i) improving data quality; (ii) improving the availability and reliability of data reliability;
+ and (iii) utilization of the macroeconomic and sector data; The indicators were directly attributable to the
+ project activities. The baseline figures and the targets were specified at appraisal.
+
+
+
+                                                                                                         Page 10 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Quality Data for Decision Making (P165062)
+
+
+
+ The National Statistical System (NSS) was responsible for monitoring project performance.
+
+
+
+b. M&E Implementation
+  M&E implementation was sound and based on regular reporting of results, implementation progress and
+  related issues by the Project Management Team (PMT) in NSS. Although there were Initial issues such
+  as hiring key PMT staff and coordinating activities between the NSS and sector ministries, these were
+  resolved two and half years after project effectiveness.
+
+
+
+c. M&E Utilization
+  The PMT regularly reported data on M&E Indicators. The data was utilized to provide evidence on
+  achievement of outcomes.
+
+  Overall M&E is rated as substantial.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   This project was classified as a Category C (no assessment project) under the World Bank’s safeguard
+   policies. The project funds only supported activities pertaining to institutional reforms and no safeguard
+   policies were triggered at appraisal. There were no adverse environmental and social impacts identified
+   during implementation.
+
+
+
+
+b. Fiduciary Compliance
+   The Bank conducted an assessment of the fiduciary arrangements of the INS at appraisal. The fiduciary
+   management risk was rated as substantial due to shortcomings in the financial management (FM) and
+   procurement at arrangements of INS. FM and procurement specialists initially hired were replaced after a
+   year due to poor performance. This resulted in ratings of moderately unsatisfactory during the relevant
+   period. However these shortcomings were resolved when the INS hired FM and procurement specialists
+   with relevant skills.
+
+   The overall fiduciary management was rated as satisfactory during implementation. There were no
+   ineligible expenses and the financial audits were unqualified. There was no case of mis procurement.
+
+
+
+
+                                                                                                   Page 11 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Quality Data for Decision Making (P165062)
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   None
+
+
+
+d. Other
+   None
+
+
+
+11. Ratings
+                                                                                 Reason for
+Ratings                         ICR                    IEG
+                                                                                 Disagreements/Comment
+Outcome                         Satisfactory          Satisfactory
+
+Bank Performance                Satisfactory          Satisfactory
+
+Quality of M&E                  Substantial           Substantial
+
+Quality of ICR                  ---                   Substantial
+
+
+12. Lessons
+
+The ICR draws the following three main lessons from the experience of implementing this
+project, with some adaptation of language.
+
+1. A simple design and modest targets may raise the potential for success in fragile settings,
+especially when implementing a project in a sector for the first time. When this project
+was under preparation, Niger had not previously implemented a large statistics capacity building
+project. Therefore, the results of this project deliberately focused on outputs that were easy to
+measure, and the targets set at relatively less ambitious results. The risks associated with project
+implementation did not materialize and the project scope was expanded with the savings realized
+during implementation. The lesson from this project is that appropriate target setting during design,
+may provide scope for the project to obtain its objectives and go beyond its results indicators.
+
+2. Inclusive arrangements may help in when the project is introducing innovative systems.
+This project introduced the Project-Based Financing (PBF) incentive system in the National
+Statistical System (NSS). Under this system, the NSS staff participating in project activities provided
+incentives to improve their performance. Although the system did help in improving production of
+quality statistics, the arrangement caused resentment among the staff not participating in the
+system. Inclusive arrangements at design would have helped in ensuring that the system was
+perceived as fair. While the performance-based financing (PBF) arrangement helped the project to
+achieve and surpass its objective, it created some frustration within INS staff not benefiting from
+PBF incentives, hence the need to have a more inclusive PBF in the future.
+
+
+
+                                                                                                    Page 12 of 14
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       Quality Data for Decision Making (P165062)
+
+
+
+3. A careful consideration of the implementation arrangements and tailoring them to the
+country context can help project implementation. In this project, the National Statistical Institute
+(INS), an autonomous entity, had to provide guidance to ministries which had a more prominent
+government role, and were responsible for generating the sector statistics. At the same time, the INS
+was a well-performing statistics provider, while the sector ministries' capacity to produce statistics
+was weak. Over time and through the implementation of different mitigation activities, this difficulty
+was resolved and the staff of the ministries were working closely with the INS staff. Since the project
+used the existing implementation arrangements of INS, it encouraged them to resolve institutional
+arrangements and implement the project to reach the PDO. The project had positive experiences
+working through existing institutional structures. In the case of INS, which had existing capacity, this
+was relatively frictionless. The project helped resolve significant capacity issues within line
+ministries, with the help of the INS, helping create sustainable arrangements and building on exiting
+structures which are likely more sustainable than arrangements created exclusively for the project.
+
+Further lessons highlight good practices regarding consultation and buy-in from the population as
+well as successful mitigation of risks related to the country’s status as fragile and conflict-affected.
+
+The IEG draws the following lesson from the experience of implementing this project.
+
+The ICRR noted that use of less ambitious indicators was a necessary response to the country’s
+lack of experience with large statistics and capacity-building projects. The project could have
+benefited from tracking relatively easy to collect metrics of data use, e.g., through the tracking of
+number of downloads of relevant data sets from the newly established websites.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is clear and evidence-based and complies with the guidelines. Overall, the ICR offers well-
+documented evidence for project indicators, and provides enough information to support ratings. The theory of
+change provided in the text clearly shows the casual links between inputs (project activities), outputs and the
+intended outcomes. The ICR provides relevant lessons.
+
+One minor shortcoming is the length of the ICR. The main body of the text exceeds the recommended length of
+15 pages.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                        Page 13 of 14
+Independent Evaluation Group (IEG)           Implementation Completion Report (ICR) Review
+Quality Data for Decision Making (P165062)
+
+
+
+
+                                                                          Page 14 of 14
+

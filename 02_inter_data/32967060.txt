@@ -1,0 +1,895 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Myanmar-Electric Power Project (P143988)
+
+
+
+                                                                                    Report Number: ICRR0022363
+
+1. Project Data
+
+
+
+ Project ID                                 Project Name
+ P143988                                    Myanmar-Electric Power Project
+
+ Country                                    Practice Area(Lead)
+ Myanmar                                    Energy & Extractives
+
+
+ L/C/TF Number(s)                           Closing Date (Original)                 Total Project Cost (USD)
+ IDA-53060                                  30-Apr-2018                                          114,314,218.53
+
+ Bank Approval Date                         Closing Date (Actual)
+ 24-Sep-2013                                31-Mar-2020
+
+                                            IBRD/IDA (USD)                                       Grants (USD)
+
+ Original Commitment                            140,000,000.00                                                0.00
+
+ Revised Commitment                             123,956,259.72                                                0.00
+
+ Actual                                         114,314,218.53                                                0.00
+
+
+
+
+ Prepared by                 Reviewed by                  ICR Review Coordinator           Group
+ Dileep M. Wagle             Fernando Manibog             Ramachandra Jammi                IEGSD (Unit 4)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   Original PDO: The objective of the Project, as stated in the Financing Agreement (p.5), was “to increase
+   capacity and efficiency of gas-fired power generation and strengthen the institutional capacity of the Ministry
+   of Electric Power and the Myanmar Electric Power Enterprise”.
+
+   The project objective, as stated in the PAD (p.7), was identical to the above.
+
+
+
+                                                                                                     Page 1 of 17
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Myanmar-Electric Power Project (P143988)
+
+
+
+   Revised PDO: The PDO was modified at restructuring in December, 2016, to read: "to increase capacity and
+   efficiency of gas-fired power generation and strengthen institutional capacity of relevant agencies" (See
+   Section 2e, below).
+
+   **Note: This IEG report and document review took place between December 1, 2020 and January 22, 2021.
+   Any recent changes to the outcomes and achievements of the project are beyond the scope of this completion
+   report review.**
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   Component 1: Combined Cycle Gas Turbine (CCGT) power plant (cost at appraisal: US$130 million;
+   actual at completion US$107.5 million)
+
+   This included investments for the expansion of the Thaton power station into a new CCGT power plant,
+   through a contract for the design, supply and installation (DSI) and supply of critical parts for Thaton’s new
+   gas turbine. The new modern high-efficiency, low emissions CCGT power plant would comprise of two 40
+   MW gas turbines, one steam turbine of 26 MW, a heat recovery steam generator and air-cooled steam
+   condenser.
+
+   Component 2: Technical Assistance (TA) and Advisory Services (US$10 million; actual at completion
+   US$6.8 million).
+
+   This component provided TA and advisory support to the Ministry of Electric Power (MOEP) and the
+   Myanmar Electric Power Enterprise (MEPE) for:
+
+   (a) capacity building for policy making and regulation in the power sector, including, inter alia, (i)
+   development of a National Electrification Plan (NEP), (ii) financial analysis and forecasting for electricity
+   enterprises, (iii) economic evaluation for natural gas in the domestic market, and (iv) review of electricity
+   tariff and review mechanisms, and
+
+   (b) capacity building for project implementation, including inter alia (i) provision of engineering services for
+   the CCGT, (ii) strengthening of procurement, environmental and social safeguards, and financial
+   management capacity; and (iii) implementation of the Environmental and Social Management Plan (ESMP)
+   at the project site.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Project Cost: The original estimated project cost was US$140 million. Actual cost at project completion
+   was US$116.9 million.
+
+
+                                                                                                       Page 2 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Myanmar-Electric Power Project (P143988)
+
+
+
+   Financing: The project’s cost was financed through an IDA credit of US$140 million. Financing of the TA
+   component included US$2.61 million in World Bank-executed Trust Fund grants, mobilized during
+   implementation on account of the Government’s preference to minimize use of IDA funds for TA. The total
+   amount was lower than anticipated because savings accrued after one major study (on tariffs) was dropped
+   during implementation, as the Government was able to secure UK grant funding for that activity.
+
+   Borrower Contribution: There was no Borrower contribution to the project’s financing.
+
+   Dates: The closing date for the original loan was April 30, 2018. The closing date was extended three
+   times to a total of 23 months. The final extension was to March 31, 2020, and the project closed on
+   schedule at that time.
+
+   Restructurings: The project went through five Level 2 restructurings, in December 2016, December 2017,
+   April 2019, October 2019 and March 2020, respectively. The December 2016 restructuring was necessary
+   to change the references to MOEP and MEPE in the Financing Agreement, to reflect the reorganization of
+   ministries and state-owned enterprises at the time. The next three restructurings extended the closing date
+   of the project, to reflect delays in implementation, as well as an updating (December 2017) of the legal
+   covenant associated with safeguard instruments, to reflect a triggering of the resettlement policy. The final
+   restructuring made a change in the audit submission period, applicable to all World Bank operations in
+   Myanmar.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Rationale
+
+Country and Sector Context:
+
+At the time of appraisal in 2013, Myanmar was a least developing country emerging from a period of
+political and economic repression. The population had a GDP estimated at US$900 per capita, with 26
+percent living in poverty. In 2011, the country began a process of economic transformation, with a
+reformist government ushering in unprecedented economic and political reforms aimed at opening up the
+country to the global economy, boosting growth and reducing poverty. According to the PAD (p.1), by
+2013, Myanmar was in the process of undergoing a triple transition, from an authoritarian military system
+to democratic governance, from a centrally-directed economy to market-oriented reforms, and from 60
+years of conflict to peace in the border areas. The government had set economic reform as a key
+priority, and initial reforms – aimed at reducing economic distortions – such as floating the currency and
+stimulating foreign direct investment had positive results, with growth accelerating to 6.5 percent in 2012-
+13, driven by gas production, construction and services. The government recognized however that
+expanding the quality of basic infrastructure and improving access to modern energy in an efficient and
+sustainable manner would be crucial to achieving sustainable economic growth and poverty reduction.
+
+Despite substantial endowments, Myanmar’s energy sector was characterized by extremely low levels of
+access to electricity and inadequate supply and quality of electricity generated. Myanmar had one of the
+lowest rates of electrification in Southeast Asia, with only 29 percent of households in the country having
+
+                                                                                                    Page 3 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Myanmar-Electric Power Project (P143988)
+
+
+
+access to electricity, and with per capita consumption among the lowest in the world. Per capita
+consumption of electricity in Myanmar, at about 160 kWh, was twenty times less than the world average
+(PAD, p.1). Total installed capacity was only 3,133 MW, 2,300 MW of which was hydro-based (ICR,
+p.5). However, because of seasonal variations in water availability and the poor condition of many
+plants, firm capacity was of the order of only 1,082 MW. During the dry season, forced load shedding
+meant that up to 30 percent of demand could be unmet. With energy demand projected to increase in
+keeping with economic growth, this deficit was likely to widen in the years to come.
+
+Natural gas was an important source of baseload power to balance seasonal hydropower, but was being
+used inefficiently at the time. With 11.8 trillion cubic feet of proven gas reserves, 86 percent of
+Myanmar’s gas production was being exported to Thailand, constituting the country’s most important
+source of export revenues. The remaining gas met only about half the domestic demand, though new
+offshore fields were expected to start functioning in 2013-14. Most of the country’s gas-fired power plants
+were aged and operating at very low efficiency (only around 20 percent thermal efficiency). Given the
+slow pace of development of additional hydropower, improving the efficiency of gas-fired thermal plants
+through upgrades and new technology represented the most rapid and cost-efficient way to expand
+electricity generation from available gas allocations. Towards this end, the Government planned to
+increase gas-fired generation capacity through a variety of means, including public sector investment,
+private sector IPPs and rental power plants.
+
+Alignment with Strategy: The project was the first IDA financing after World Bank re-engagement in
+Myanmar after more than two decades of absence, and was considered a cornerstone of the Bank
+Group’s program in the energy sector (PAD, p.6). The program aimed to alleviate the acute energy
+shortages that prevailed in the country at the time, and to set the power sector on a sustainable
+development path. As such, the project’s development objectives were highly relevant at appraisal,
+consistent with the engagement priorities for the country, and remained so at project closing. The project
+was consistent with the priorities outlined in the Bank’s Interim Strategy Note (ISN), 2012, especially
+Pillar II, which focused on building confidence in the ongoing reform process and Pillar III, which focused
+on paving the way for resumption of a full country program. It was also closely aligned with the Bank
+Group’s Country Partnership Framework (CPF) for Myanmar, FY15-17 (which was extended to June
+2019, and remained the latest strategy document at project closing). The PDO was aligned with Focus
+Area 1, which was aimed at “Reducing Rural Poverty”, and its Objective 1.1 of ‘Improved power
+generation and access to electricity’ – which addressed both the delivery of electricity services to people
+and expanded conventional/renewable power generation (CPF, p.31). Under this objective, the
+Government of Myanmar aimed to achieve universal access to electricity by 2030. Towards this end it
+was developing a National Electrification Plan to establish an enabling policy and institutional framework
+for a nationwide electrification program, to which the Electric Power Project was expected to significantly
+contribute. The project’s objectives were also consistent with the 2019 Systematic Country Diagnostic
+(SCD), that reiterated the current-day significance of CPF objectives, as highlighted in Priority Area 1.4,
+Policy Action 1: “Accelerate delivery of quality electricity services to reach all people in Myanmar by
+2030”. The SCD also underlined the need for public institutions to be reformed and made more effective,
+so as to pursue this broad and challenging agenda.
+
+The project’s objectives were fully consistent with the Government’s national development goals, as
+outlined in the Myanmar Sustainable Development Plan for 2018–2030, particularly with Pillar 2, Strategy
+3.6, ‘Building priority infrastructure to facilitate sustainable growth and economic diversification’ , and
+Pillar 3, Strategy 5.4, ‘Providing affordable and reliable energy to populations and industries’. The
+project’s second objective was especially aligned with Strategy 5.4, which emphasized the importance of
+
+                                                                                                   Page 4 of 17
+                                      Independent Evaluation Group (IEG)                       Implementation Completion Report (ICR) Review
+                                      Myanmar-Electric Power Project (P143988)
+
+
+
+               energy development plans, electricity tariffs and subsidies, access to electricity and private sector
+               participation for achieving the country’s national development goals. Finally, the PDO were consistent
+               with the Government’s plan to maintain low-carbon development of the power sector, as outlined in the
+               Myanmar Climate Change Strategy and Master Plan for 2018-2030, which underlined the use of
+               renewable energy in the future.
+
+               Given the strong consistency of the project’s development objectives with the Government’s sector
+               development objectives and their close alignment with the Bank Group’s strategy at appraisal and at
+               closing, relevance is rated High.
+
+
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             “To increase capacity and efficiency of gas-fired power generation”
+
+                             Rationale
+                             Theory of Change:
+
+                             The project was designed to address two interlinked issues: (a) inadequate and inefficient power supply, and
+                             (b) institutional weaknesses. A fairly direct causal link can be drawn between the project’s activities and the
+                             expected outcomes. The activities consisted of the design, supply and installation of a gas-fired combined
+                             cycle plant, and associated infrastructure, which would increase the power station’s efficiency, to produce
+                             more power from the station’s existing allocation of gas. Secondly, the provision of technical assistance and
+                             advisory services, via analytics, training and capacity building activities would help beneficiary agencies to
+                             develop appropriate policies and regulations for the power sector. Expected outputs would take the form of
+                             increased power generation capacity, increased generation and improved thermal efficiency of energy
+                             conversion on account of the CCGT plant, on the one hand, and operational support through provision of
+                             consultants, delivery of analytic work on tariffs and on the economic value of natural gas, and support for the
+                             preparation of a draft National Electrification Plan. Higher-level outcomes included achieving more efficient
+                             generation and strengthened institutional capacity of relevant agencies. Longer-term outcomes in the form of
+                             stimulus to the achievement of system-wide efficient, reliable and low-cost generation and a more financially
+                             and environmentally sustainable institutional environment were expected, though it is difficult to say whether
+                             these activities, in aggregate, would be of adequate scale to create a critical mass for change. The project’s
+                             contribution to these impacts in any case rested on the assumption that MOEP and MEPE would effectively
+                             apply their enhanced institutional capacities to sector policies, planning and operations.
+
+                                                                                                                               Page 5 of 17
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   Myanmar-Electric Power Project (P143988)
+
+
+
+
+Key indicators for both sets of issues were relevant, attributable and adequate to cover measurement of the
+objectives.
+
+Outputs:
+
+The following outputs were achieved:
+
+(a) The Combined Cycle Gas Turbine (CCGT) plant was fully constructed, thereby achieving the target value.
+
+(b) Construction of the CCGT plant was completed at lower than estimated cost. Actual costs for design,
+supply and installation of the 106 MW plant and supply of critical parts for the Thaton new gas turbine were
+originally estimated at US$130 million. As a result of successful procurement, the total contract amount was
+US$115.7 million, for 119 MW plus work to extend the adjacent Thaton substation, while actual costs worked
+out to an even lower US104.8 million, on account of liquidated damages from delays in completion of the
+contract. The package of gas turbine parts and products, including expenses, cost an additional US$3.37
+million.
+
+(c) Reduction of CO2 emissions per output generated (by 30 November 2018) was of the order of 400
+gCO2eq/kWh – fully on target.
+
+Outcomes:
+
+The project fully achieved its objective of increasing the capacity and efficiency of gas-fired power generation.
+
+The capacity and efficiency of the Thaton power plant were successfully increased as a result of the project’s
+investment, exceeding key indicator target values – though target dates had to be revised to account for the
+extended implementation period. By close of project, the generation capacity of 119 MW constructed under
+the project exceeded the target value of 106 MW by 12 percent.
+
+Actual value of power generation, at 831 GWh, was estimated to exceed the target value of 770 GWh per
+year by about 8 percent, on the basis of actual data for the first five months of 2020. Projected energy
+savings by close of project were of the order of 3,900 Mega Joules (MJ), which was fully on target. The
+increase in thermal efficiency of energy conversion resulting from the CCGT plant was 50.1 percent, as
+indicated by a Performance Test Report, January 2020. This exceeded the indicator target of 48 percent (by
+4 percent). As such, the project’s activities recorded better results than anticipated. The plant was designed
+with better parameters than initially anticipated, which allowed the installation of higher-capacity units within
+the same site. At the same time, the DSI-type contract and competitive procurement allowed the selection of
+the best technical solution.
+
+A collateral benefit of the project was that the investment indirectly supported improved efficiency of other
+gas-fired generation in Myanmar. The project financed parts and products for eight other existing gas-fired
+power stations in the country to strengthen their reliability, as well as TA for improved dispatch of Myanmar’s
+power plant fleet, as described under Objective 2, below.
+
+Based on the above, the achievement of this objective is rated High.
+
+
+
+                                                                                                    Page 6 of 17
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   Myanmar-Electric Power Project (P143988)
+
+
+
+
+Rating
+High
+
+
+OBJECTIVE 2
+Objective
+“Strengthen the institutional capacity of relevant agencies”
+
+Rationale
+Outputs:
+
+Institutional capacity for power sector policy, planning and operation was strengthened through TA activities
+with a focus on least-cost electrification and sector financial viability. With energy access as a strategic policy
+priority for Myanmar, the development of the National Electrification Plan (NEP) was key to achieving this
+development outcome. The project provided the vehicle for the Bank to engage with relevant agencies
+responsible for grid extension to new communities and off-grid systems through upstream policy dialogue and
+analytic & advisory work, and ultimately to establish and ultiamately implement the NEP.
+
+(a) Development of the NEP: The key output of a “Least-Cost Geospatial Electrification Plan” and a
+"Roadmap and Investment Prospectus" was completed in August 2014. The output provided the foundation
+for MOEP, the distribution utilities and the Department of Rural development (DRD) to pursue nationwide
+electrification in a coordinated, least-cost manner for the first time. Planning for the sector in this manner
+would support financial sustainability and provide the basis to attract private sector participation.
+
+(b) Myanmar Sustainable Energy For All (SE4ALL) consultations: This activity facilitated engagement of
+national and international stakeholders to develop a coordination platform for universal energy access under
+the NEP. The activity, completed in September 2014, was an initial contribution to broader SE4ALL program
+of TA for Myanmar.
+
+(c) Poverty & Social Impact Analysis (PSIA) for NEP: This provided an important complement to the NEP, by
+identifying barriers to electricity access, especially among vulnerable households. The study, conducted in
+2015, included data from 24 villages, 14 urban wards and industrial zones/enterprises, and identified impacts
+of possible increases in electricity tariffs on poor and vulnerable customers, and recommended mitigative
+measures. Supplemented by later household surveys and analyses (funded outside the project), this
+underpinned successful electricity tariff reforms in 2019 and design of mechanisms to ensure inclusive
+electrification of the poorest households in grid-connected communities, under the NEP.
+
+The capacity of relevant agencies for policy-making and regulation was strengthened through completion of
+the following activities:
+
+(i) Power sector financial analysis and viability action plan: This activity contributed to the formulation of a
+cost-recovering tariff, increased the institutional capacity of enterprises in Myanmar’s power sector to
+undertake forward-looking financial analysis, and helped define a benchmark PPA price for new IPPs.
+
+(ii) Economic value of natural gas for domestic use: This study increased knowledge in assessing the
+economic cost of supplying natural gas for domestic consumption and strengthened capacity in finding
+solutions to the rising domestic demand for natural gas. The output helped inform decision-making on how to
+
+                                                                                                     Page 7 of 17
+   Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+   Myanmar-Electric Power Project (P143988)
+
+
+
+balance gas export and domestic consumption, develop a gas pricing policy and reduce subsidies for
+domestic gas consumption. Gas prices were in fact revised, following this TA.
+
+(iii) Modelling and training in economic dispatch: This activity strengthened the institutional capacity in
+dispatch and optimization modelling, thereby enabling the introduction of more efficient dispatching practices
+of the entire power system. The application of the knowledge acquired contributed to the reduction in load
+shedding. More optimized dispatch would not only lead to system-wide benefits, with benefits to other power
+plants such as variable renewable energy plants, which gas-fired generation can help balance.
+
+(iv) Technical feasibility study and Environmental & Social Impact Analysis (ESIA) for upgrading Ywama gas-
+fired power station: These activities informed the design of the rehabilitation of the Ywama plant, including
+technical, financial, social and environmental aspects. These studies ensured the completion of the ESIA and
+were instrumental in preparation of the Power System Efficiency and Resilience project (P162151), approved
+in May, 2020.
+
+Outcomes:
+
+As a result of activities supported by the project, institutional capacity for project implementation of relevant
+agencies was strengthened. Some 60 participants from relevant agencies received training in safeguards,
+procurement, financial analysis, financial management and plant operation, in addition to capacity-building
+support, through 16 training sessions conducted over 200 days between 2014 and 2018. The target (of 40
+participants) for the first outcome-level results indicator was exceeded by 50 percent.
+
+Training was expanded to accommodate the clients’ needs, which contributed to delivery of greater results
+(ICR, p.15). Over time the training plan was made more customized by the World Bank to provide a more
+tailored focus on project implementation. According to the ICR (para 34), there was evidence that knowledge
+and skills acquired through these trainings were in fact applied by the implementing agencies during project
+implementation. Financial management reports submitted over the course of the project by the implementing
+agency, for instance, improved in quality over the period. Similarly, the implementing agency improved its
+ability to identify and report risks relating to fiduciary non-compliance, or for instance in application of social
+safeguards.
+
+The second outcome-level results indicator – of bringing the NEP to implementation was also
+achieved. Completion of the NEP was achieved in 2016, one year ahead of schedule, with high attribution to
+the project (ICR, p.20). Implementation of the NEP by the Government commenced in 2015, through the
+National Electrification Project, the Financing Agreement of which was signed in October 2015.
+
+At a broader level, the project contributed to the operational efficiency of the Electric Power Generation
+Enterprise (EPGE), increasing its knowledge and ability to monitor other gas-fired plants, and to design and
+implement new projects more successfully (ICR, para 35). Hands-on training provided by the DSI firm China
+Engineering Corporation (CEEC) on the Thaton plant’s operation strengthened the capacity of the staff to
+operate and maintain the GE Frame 6 gas turbines, which were in use in two other plants in Myanmar
+besides Thaton, without the help of foreign engineers. The project also helped strengthen EPGE’s capacity in
+setting energy conversion efficiency norms, to set efficiency targets for potential new IPP gas-fired plants. In
+this context, EPGE was able to develop a monitoring mechanism to prevent technical issues from occurring in
+the future. Finally, EPGE acquired significant experience in contract execution and ensuring compliance of
+contractors and sub-contractors with legal and commercial responsibilities. Towards the end of the project’s
+implementation period, EPGE staff demonstrated their ability to independently negotiate and resolve
+
+                                                                                                      Page 8 of 17
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                Myanmar-Electric Power Project (P143988)
+
+
+
+                            contractual issues such as liquidated damages.
+
+                            Based on the above, achievement of this objective is rated High.
+
+
+
+                            Rating
+                            High
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project fully achieved its objectives of increasing the capacity and efficiency of gas-fired power
+                            generation, and of strengthening the institutional capacity of relevant agencies. In addition, it should be
+                            mentioned that the introduction of the NEP, financed under the project, laid the groundwork for scaling up
+                            future investments in electrification projects. Through implementation of the program, between 2010-11 and
+                            2018-19, the electrification rate doubled and enabled a large rural population to get off-grid access through
+                            solar home systems and mini-grids. Secondly, to the extent that the Thaton power plant supplied electricity
+                            not only locally to Mon State but also nationally to the power grid, grid customers would have benefited from
+                            more reliable power supply. Taking these factors into account, overall efficacy is rated High.
+
+
+
+                            Overall Efficacy Rating
+                            High
+
+
+
+   5. Efficiency
+   Economic and Financial Efficiency
+
+   Economic analysis of the project conducted at appraisal was based on Component 1. The analysis estimated
+   the Economic Internal Rate of Return (EIRR) at 22.7 percent, and the Net Present Value (NPV), discounted at
+   10 percent, at US$142 million. The EIRR estimated at project closing was a somewhat higher 29.1 percent, with
+   NPV of US$45 .0 million. The improvement in the project’s economic viability could be attributed to a higher-
+   than-anticipated thermal efficiency of energy conversion and power generated, coupled with cost savings arising
+   from lower-than-anticipated prices negotiated through international competitive bidding (ICB). Delays in project
+   commissioning did result in a foregone potential benefit of three years compared to the original project timeline;
+   however, these were offset to a significant extent by the liquidated damages that were recovered under the DSI
+   contract. No comprehensive financial analysis of the project was however carried out either at appraisal or at
+   project closing.
+
+   Administrative and Operational Efficiency
+
+
+
+                                                                                                                             Page 9 of 17
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      Myanmar-Electric Power Project (P143988)
+
+
+
+Actual costs for the project at completion were significantly lower than anticipated: US$116.9 million as against
+US$140 million estimated at appraisal. This reduction took place notwithstanding a delay of nearly three years
+in construction and commissioning of the plant on account of delays in selection of international consultants
+(including international procurement specialist, international financial management specialist, and owner’s
+engineer, among others), arising from lengthy procurement processes, attributable to a low procurement
+capacity and burdensome approval procedures. Delays were also on account of unanticipated logistical
+difficulties with the delivery of heavy equipment over road bridges from the nearest port (requiring the bridges to
+first be strengthened), and technical issues with turbines and a few other parts (requiring disassembly and
+dispatch to Singapore for repairs).
+
+The cost savings were achieved through use of international competitive bidding (ICB) procedures, which
+succeeded in keeping prices low. In addition, liquidated damages arising from the DSI contract largely offset the
+foregone benefit arising from the delays. Overall, as the ICR indicates (p.21), the project provided a “cost-
+effective solution to attain identified and measurable benefits”. The project’s economic efficiency was thus in
+line with the results anticipated at appraisal, allowing the project to achieve development outcomes with
+significant savings.
+
+Based on the above, the project’s efficiency is rated Substantial.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?             Point value (%)           *Coverage/Scope (%)
+                                                                                      0
+ Appraisal                                                  22.70
+                                                                                       Not Applicable
+                                                                                      0
+ ICR Estimate                                               29.10
+                                                                                       Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project’s objectives were highly relevant to the World Bank Group’s ISN (2012) and its Country Partnership
+Framework (FY15-17, extended to FY19), which was the latest available as at project closing. Overall efficacy
+was also High, as the project clearly achieved its objectives. Efficiency was found to be Substantial, on account
+of implementation delays, though these were offset to a substantial degree by cost savings achieved. Taking all
+of this into account, overall project outcome is rated Highly Satisfactory.
+
+
+a. Outcome Rating
+
+
+                                                                                                     Page 10 of 17
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      Myanmar-Electric Power Project (P143988)
+
+
+
+   Highly Satisfactory
+
+
+7. Risk to Development Outcome
+
+The risk that the development outcomes would not be sustained is Modest.
+
+First, the likelihood that natural gas delivered to the Thaton plant will be of insufficient quantity and pressure
+is modest (See ICR, p.36). While domestic gas production is expected to decline after 2021., when some
+natural gas deposits are depleted, according to information provided by MOGE and EPGE, this decline is
+likely to be offset by a reduction in gas exports.
+
+Second, the risk of the plant’s assets not being maintained regularly and adequately is also considered to be
+modest. Adequate mitigation measures were put in place through the project; for instance, the plant was run
+for two continuous months before performance test to demonstrate reliability, while project funds were used
+to procure spare parts for the plant’s O&M for a period of two years (in addition to parts being supplied under
+the contract). In addition, the capacity of EPGE operational staff has been considerably enhanced.
+
+Third, the risk that EPGE’s financial position may be weakened, thereby compromising the progress in
+improving the sector’s financial viability, is similarly considered modest. The electricity tariff reform of 2019
+resulted in a strengthening of EPGE’s financial position, with subsidy requirements having declined (by more
+than 80 percent in 2019-20, compared to the previous year). The impact of the Covid-19 pandemic is as yet
+indeterminate, and could call for subsidy requirements to increase once again – but would most likely remain
+below the pre-tariff reform level.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The design of the project benefited from the World Bank’s experience in the sector in other
+  countries. Project design was relatively straightforward, separating investments from TA. The design
+  took account of the Government’s sector priorities of eliminating gas and electricity shortages, increasing
+  access to modern energy and contributing to the sustainable development of the sector. The brownfield
+  site and technology were selected in collaboration with the client – the location of the existing Thaton
+  plant allowing for a near-doubling of installed capacity of the station without the need to acquire additional
+  land, and its proximity to the main gas pipeline reducing potential exposure to gas shortages.
+
+  During preparation, the Bank team collaborated extensively with development partners on the
+  mobilization of grants for TA and capacity-building activities. The team collaborated with the Government
+  of Norway for the preparation of the Thaton CCGT feasibility study, ESA and ESMP, tender documents,
+  technical specifications and support with bid evaluation (these activities being implemented by
+  Norconsult, under funding from Norway). Partnership with development partners ensured broad support
+  and buy-in from stakeholders for the project.
+
+  Project risks were adequately assessed and appropriate mitigation measures were incorporated. At
+
+                                                                                                       Page 11 of 17
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     Myanmar-Electric Power Project (P143988)
+
+
+
+  appraisal, the following risks were considered substantial: (a) stakeholder risk associated with Myanmar’s
+  political transition and uncertainties affecting the operating environment; (b) implementation agency risk
+  stemming from fragmented institutional and regulatory framework, low capacity, complex administrative
+  processes and lack of familiarity with World Bank operations; (c) project risks related to social and
+  environmental safeguards. These risks were addressed and mitigated through intensive implementation
+  support provided by the Bank team and international consultants, delivery of intensive training and
+  capacity building of implementing agencies and their staff.
+
+  Implementation arrangements provided were suitable and competent staff across three MEPE/EPGE
+  departments were assigned. To prevent dilution of implementation of investments by politically sensitive
+  policy issues, the design was kept relatively simple, with investments from TA being kept in separate
+  components. Rather than set up a designated unit, implementing agency staff roles were distributed
+  among operational staff of MEPE/EPGE units, so that after project closing the strengthened capacity
+  across units would be applied to other projects. To assist MEPE/EPGE with documentation of policies
+  and procedures, given their lack of experience with donor-funded projects, an Implementation Support
+  Plan was developed to guide the implementing agency.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The project appears to have been adequately supervised, with fourteen supervision missions over seven
+ years. The ICR reports (p.34) that the Bank team, supported by staff from the country office, maintained
+ an active and continuous dialogue with the client, which helped build trust in the relationship. The Bank
+ team consisted of experienced task team leaders (TTLs) over the implementation period, with team
+ members with experience of all of the key areas relevant to project implementation (safeguards,
+ procurement, financial management, etc.). The team’s experience and support proved invaluable to
+ solving critical implementation bottlenecks, especially relating to the contracting of international
+ consultants.
+
+ The ICR also reports that supervision was intensive and thorough, as reflected in frequent rating changes
+ and timely restructures. The team was also able to identify early on the need to modify the Results
+ Framework or extend the closing date to ensure the project stayed on track to achieve its developmental
+ objectives. These frequent rating changes also prompted the client to take action, for instance when
+ compliance with legal covenants was lagging. At the same time task team members made themselves
+ available to provide ongoing intensive support, as needed and requested by the implementing agency.
+
+ The Bank team was able to transfer knowledge through training activities and workshops, and hands-on
+ operational support (ICR, p.35). When – during the early years of implementation – the limited capacity of
+ the implementing agency became apparent, the team expanded the training plan to offer a wider range of
+ tailored and in-depth trainings on project implementation, in such areas as financial analysis and plant
+ operation. The team also held discussions on the potential use of savings with the ministry and
+ MEPE/EPGE at high level and at working levels several times during implementation. This led to the
+ stockpiling of spare parts for the Thaton plant to cover the first two years of operation, preparatory studies
+
+
+                                                                                                    Page 12 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Myanmar-Electric Power Project (P143988)
+
+
+
+ for the new Ywama project (approved in FY20), purchase of efficient equipment for several other gas-fired
+ power plants and several trust-funded TA activities.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The design of the M&E system was fairly clear and practical. Key results indicators were consistent with
+ the theory of change and relatively easy to monitor. Assumptions underpinning technical indicators were
+ determined on the basis of feasibility studies and technical parameters provided by the client. Target
+ values were set at realistic levels, though it could be argued that the time frame for achieving the first
+ developmental objective was somewhat ambitious. Also, that one or two of the indicators for the second
+ objective could potentially have been better designed to capture the benefits of strengthened capacity for
+ project implementation & policy and regulatory reform (ICR, p.28). For instance, the value of the indicator:
+ “Participants of training and capacity building activities from relevant agencies” included training provided
+ on fiduciary issues (procurement, financial management, safeguards, financial analysis) and plant
+ operations but did not include workshops on capacity building activities on policy and regulatory reform,
+ thereby missing out on capturing the effects on other project activities, such as the economic value of gas
+ and PSIA studies building on the capacity of the relevant agencies.
+
+
+
+b. M&E Implementation
+  M&E was managed satisfactorily, with extensive support provided by the World Bank team and
+  refinements to the results framework made as needed. Though the capacity of the implementing entity
+  was limited at first, regular reporting allowed monitoring of progress of activities. Data on project
+  implementation and outputs were provided by the implementing agencies in periodic progress reports to
+  the World Bank. On account of the capacity limitations of implementing agency staff, staff on the Bank
+  team initially had to undertake data analysis to measure progress on indicators. However, over time
+  EPGE staff became sufficiently trained in data analysis to undertake the work themselves, and were able
+  to demonstrate improved ability to provide more accurate data and capacity to take on more M&E
+  responsibilities.
+
+
+
+c. M&E Utilization
+  Data collected for M&E were used by the implementing agency to monitor the status of the project. Data
+  on performance and results progress were used to inform project management and decision-making –
+
+
+                                                                                                   Page 13 of 17
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     Myanmar-Electric Power Project (P143988)
+
+
+
+  as evidenced by the frequent revision of target dates for achieving outcomes of Component 1 to reflect
+  the updated completion schedule of the Thaton plant.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   The project was classified as Environmental Category B, with Environmental Assessment (OP/BP 4.01) and
+   Indigenous Peoples (OP/BP 4.10) policies triggered. Due to lack of safeguards and operational procedures
+   for workers’ health and safety and environmental good practices, it was required that the World Bank’s EHS
+   (Environment, Health and Safety) guidelines and Guidelines for Thermal Power Generation be applied to
+   the project. An ESIA was undertaken, as required, during project preparation and an ESMP prepared and
+   adopted by MEPE.
+
+   Though the project did not trigger safeguard policy OP 4.12 on Involuntary Resettlement at appraisal, this
+   was triggered with the updated design of the new Thaton plant that required additional infrastructure for
+   supply of water from a nearby river to the plant and for the housing of workers near the plant: these
+   additional works called for acquisition of new land and removal of trees. In response, the implementing
+   entity developed an ARAP (Abbreviated Resettlement Action Plan) and EMP, plus a labor influx rapid risk
+   assessment undertaken in April 2017, which found that there were no grounds to amend the risk
+   assessment.
+
+   The ICR reports (p.30) that the safeguards rating was Satisfactory at project closing for both environmental
+   and social safeguards. The project complied with all safeguards policies triggered throughout the
+   implementation cycle. Safeguards measures were built into the Thaton plant contract. Environmental
+   monitoring of contractors’ performance was carried out as required. Reports on safeguards compliance
+   were periodically submitted to the World Bank for review and any issues relating to contractors’
+   performance were always addressed.
+
+   All social safeguards instruments were completed and there were no pending issues. The implementing
+   entity is reported (ICR, p. 31) to have implemented the mitigation measures and consultations were
+   conducted with affected households. All households affected by works that required acquisition of land and
+   removal of trees were compensated. A Grievance Redress Mechanism (GRM) was put in place to record
+   any grievances by villagers and local communities.
+
+   Despite low institutional capacity, the client was committed to regular monitoring of compliance with
+   safeguard instruments. An international safeguards consultant, plus environmental and social safeguards
+   specialists from the Bank team, provided ongoing support to the implementing entity. The client complied
+   with the establishment of a dedicated Environmental and Social Management Unit in early 2018. The
+   strengthened capacity and enhanced knowledge of safeguards acquired through the operation is expected
+   to be applied to other projects, including the recently-approved Ywama project.
+
+
+
+
+                                                                                                  Page 14 of 17
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     Myanmar-Electric Power Project (P143988)
+
+
+
+
+b. Fiduciary Compliance
+   Financial Management (FM): The project’s financial management (FM) was rated Satisfactory, at project
+   closing. Barring some minor issues during the first years of implementation, the ICR reports (p. 32) that
+   the project’s FM function performed satisfactorily and was in compliance with the World Bank’s FM policies
+   and procedures. MEPE/EPGE’s Budgeting & Financial Management Unit was responsible for budget
+   preparation, financial reporting and auditing, contract and expenditures management, expenditures
+   verification and accounting records maintenance, and also for managing the Designated Account for IDA
+   funds. To strengthen EPGE’s FM capacity, a qualified financial management consultant was initially
+   engaged to assist with project implementation, but due to dissatisfaction with the consultant’s performance,
+   the contract was terminated. The Bank team however continued to support EPGE to manage financial
+   matters. Financial statements submitted annually by EPGE to the Bank were audited by an independent
+   firm each year. Reports were of acceptable quality and submitted to the Bank in accordance with the
+   Financing Agreement. All five legal covenants were met at project close.
+
+   Procurement: Procurement compliance was also considered to be Satisfactory at project close, despite
+   repeated downgrades in earlier years, as a result of the lack of dedicated procurement staff for the project
+   and slow progress with other TA contracts. Procurement performance improved in the later years of
+   project implementation, once a full-time, dedicated procurement officer was assigned to exclusively handle
+   project-related matters.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   ---
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                Reason for
+Ratings                         ICR                   IEG
+                                                                                Disagreements/Comment
+Outcome                         Highly Satisfactory   Highly Satisfactory
+
+Bank Performance                Satisfactory          Satisfactory
+
+Quality of M&E                  Substantial           Substantial
+
+Quality of ICR                  ---                   Substantial
+
+
+12. Lessons
+
+IEG derives the following lessons drawn from the ICR:
+
+1. It is critical to build capacity of key sector stakeholders, to avoid delays taking place in
+
+                                                                                                  Page 15 of 17
+       Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+       Myanmar-Electric Power Project (P143988)
+
+
+
+procurement decisions, especially for countries affected by fragility, conflict and violence
+(FCV). To bridge the gap, introduction of skilled international technical experts to support staff of the
+implementing entity should be considered at an early stage of implementation. Since FCV countries
+can be expected to have limited experience with large procurement packages and limited familiarity
+with the World Bank’s procurement framework, they can benefit from the Bank’s recently-introduced
+procurement hands-on extended implementation support (HEIS) for fragile countries, which could
+help reduce delays and would ensure the integrity of the procurement process.
+
+2. Effective risk mitigation and troubleshooting mechanisms need to be put in place and
+preferably built into contract provisions, including for post-completion operation of
+assets. For complex projects and for clients with low capacity, World Bank teams can help by
+setting up mechanisms to identify and resolve contract implementation issues early on in the
+process. To further reduce risks, the inclusion of an O&M contract in the project’s costs can pay
+dividends by guaranteeing proper performance and efficiency of operation over the lifetime of the
+plant and equipment.
+
+3. Projects are more likely to succeed if greater focus is placed on critical policy reforms.
+The project was designed to respond to the Government’s priority to increase access to electricity,
+and its TA activities were intended to build a solid foundation for the policy reform needed to achieve
+the objective. With the focus on the development of an NEP and improvements to the financial
+viability of sector, the project demonstrated high buy-in from the Government that had implications
+for all other project activities as well. The fact that Government’s reform priorities were at the core of
+the operation sent a strong signal to stakeholders and ensured Government’s support in solving
+implementation bottlenecks throughout the project.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR is clearly written, concise and consistent with guidelines. It provides good details of the project’s
+activities. Its analysis and lessons are evidence-based and internally consistent. The analysis of project
+performance and efficiency is results oriented, based on the foundation of a well-articulated theory of change,
+and contains a clear narrative. Adequate detail is provided on the context of the project and the implementation
+issues it faced, as well as on the Bank’s approach to design and oversight. This is similarly true of the
+discussion of compliance with fiduciary requirements. Overall, the ICR is of good quality.
+
+
+
+  a. Quality of ICR Rating
+       Substantial
+
+
+
+
+                                                                                                      Page 16 of 17
+Independent Evaluation Group (IEG)         Implementation Completion Report (ICR) Review
+Myanmar-Electric Power Project (P143988)
+
+
+
+
+                                                                        Page 17 of 17
+

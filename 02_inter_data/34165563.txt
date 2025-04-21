@@ -1,0 +1,1294 @@
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     FSP (P159655)
+
+
+
+                                                                                 Report Number: ICRR0023473
+
+1. Project Data
+
+
+
+ Project ID                               Project Name
+ P159655                                  FSP
+
+ Country                                  Practice Area(Lead)
+ Afghanistan                              Governance
+
+
+ L/C/TF Number(s)                         Closing Date (Original)                Total Project Cost (USD)
+ IDA-D2630,TF-A6277                       28-Dec-2022                                          44,941,238.36
+
+ Bank Approval Date                       Closing Date (Actual)
+ 19-Dec-2017                              28-Dec-2022
+
+                                          IBRD/IDA (USD)                                      Grants (USD)
+
+ Original Commitment                         100,000,000.00                                    75,000,000.00
+
+ Revised Commitment                           46,251,081.16                                    21,251,081.16
+
+ Actual                                       44,941,238.36                                    19,999,302.16
+
+
+
+
+ Prepared by                Reviewed by                 ICR Review Coordinator          Group
+ Rima Al-Azar               Konstantin Atanesyan        Jennifer L. Keller              IEGEC (Unit 1)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to the Financing Agreement (Schedule 1, p. 4), and the Project Appraisal Document (PAD, p. 13),
+   the Project Development Objective (PDO) was "to contribute to the improvement of domestic revenue
+   mobilization and public expenditures management, and of reinforcing a performance-oriented management
+   culture in the Ministry of Finance."
+
+   For the purpose of this ICRR, the project’s PDO can be unpacked as follows:
+
+
+                                                                                                 Page 1 of 24
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     FSP (P159655)
+
+
+
+   Objective 1. To contribute to the improvement of public expenditures management;
+
+   Objective 2. To contribute to the improvement of domestic revenue mobilization; and
+
+   Objective 3. To contribute to reinforcing a performance-oriented management culture in the Ministry of
+   Finance.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  No
+
+c. Will a split evaluation be undertaken?
+   Yes
+
+d. Components
+   The FSP was organized around four complementary components supporting government-executed
+   technical assistance, capacity building, and information technology (IT). For purposes of clarity and
+   coordination, and because FSP included a multitude of joined-up actions along thematic lines between
+   departments within the ministry, the four components were categorized around the PFM cycle.
+
+   Component 1: Budget as Tool for Development (US$10 million revised to US$3.3 million). This
+   component was designed to (i) increase budget credibility by improving the efficiency of budget processes,
+   the realism of budget estimation and costing; (ii) link budget with policy and introduce medium term
+   budgeting; (iii) strengthen the Gender Responsive Budgeting (GRB) Unit; and (iv) support the development
+   of costed sector strategies and work plans.
+
+   Component 2: Revenue Mobilization (US$40 million revised to US$20.16 million). This component was
+   designed to strengthen capacities of various revenue administration departments through three sub-
+   components:
+
+          Tax administration: This sub-component consisted in (i) improvements in basic IT infrastructure
+           and systems of the Afghanistan Revenue Department (ARD), especially Standard Integrated
+           Government Tax Administration Systems (SIGTAS) and e-payments; (ii) support for the
+           implementation of the ARD reform plan; and (iii) support to ongoing reforms of tax policy and the
+           introduction of Value Added Tax (VAT).
+
+          Customs Administration: This sub-component supported the Afghanistan Customs Department
+           (ACD), including (i) development and implementation of several IT systems/portals, including the
+           National Single Window (NSW) system, Trade Information Portal and the Automated Systems for
+           Customs Data (ASYCUDA); (ii) strengthening enforcement (data analysis and collection, anti-
+           corruption policies and plans, and post clearance audit and mobile verification); and (iii) , simplifying
+           and standardizing of customs clearance and processes, and Human Resource (HR) reforms.
+
+          Afghanistan Extractive Industries Transparency Initiative (AEITI): This sub-component aimed to
+           enhance the Government’s capacity to effectively regulate Afghanistan’s minerals and hydrocarbon
+           sector by addressing AEITI recommendations of Validation and Reconciliation reports.
+
+
+                                                                                                       Page 2 of 24
+    Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+    FSP (P159655)
+
+
+
+  Component 3: Treasury Management, Accountability, and Transparency (US$30 million revised to
+  US$24.82 million). This component aimed to consolidate basic core PFM functions and was organized
+  along five subcomponents supporting reforms in:
+
+        Treasury by (i) consolidating financial management systems including AFMIS; (ii) improving
+           commitment control; (iii) producing complete and comprehensive financial accounts; and (iv)
+           introducing new payroll controls.
+          Audit and financial reporting by supporting (i) the Internal Audit Department (IAD) to improve audit
+           follow-up and strengthen the internal audit function of line ministries; (ii) the SAO’s external audit
+           efficiency and rolling out of an Audit Management Information System (AMIS) to automate manual
+           audit processes.
+          Public procurement by (i) improving compliance of enacted regulations through further strengthening
+           the current legal, regulatory and policy framework; and (ii) introducing of electronic Government
+           Procurement (e-GP) including its change management, cultural integration, increased awareness
+           and socialization within the government and users;
+          State owned enterprises (SOEs), insurance and public properties by (i) conducting a thorough
+           diagnostic of the performance—financial, operational and fiscal—of the entire sector; and (ii)
+           strengthening of the legislative framework for insurance; and
+          Citizen engagement by (i) establishing a framework where CSOs collaborate with the MOF to further
+           citizens’ awareness of the planning, budgeting and oversight of budget execution at national and
+           sub-national levels; and (ii) under the Auditor General, providing technical support on how-to
+           implement citizen engagement practices and tools around the audit cycle.
+
+  Component 4: Institutional Capacity Building and Performance Management US$20 million revised
+  to US$11.71 million) This component aimed to build capacity of MOF staff and the requisite systems for
+  effective functioning of the ministry by (i) supporting MOF Administration business process re-engineering
+  and automation, and digitalization of MOF’s archive system; (ii) assisting MOF to increase women’s
+  participation in the sector and within the ministry; (iii) upgrading IT systems and training of IT staff; and (iv)
+  developing a Communications Strategy to institutionalize the process of behavioral change to support new
+  policy processes.
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+  Project cost: The original project cost was US$100 million (Loan Agreement, p. 1; PAD, p. 2), which was
+  revised to US$60 million following the restructuring on 16 September 2020. The restructuring reallocated
+  US$40 million from FSP’s ARTF grant for the COVID-19 crisis response. This was further decreased to
+  US$46.25 million following the portfolio-wide cancellation of the remainder of funds on 8 April 2022. At the
+  project closing on 28 December 2022, the amount disbursed was US$44.94 million.
+
+  Financing: The project was jointly financed by an IDA Credit (US$25 million), and the Afghanistan
+  Reconstruction Trust Fund (US$75 million revised to US$21.25 million). The disbursement percentages
+  were IDA-D2630 at 99.8 percent and TF-A6277 at 94.1 percent (26.7 percent if calculated based on the
+  original allocation).
+
+  Borrower Contribution: None planned or made. Government commitment of up to US$100 million in
+  parallel financing.
+
+
+                                                                                                        Page 3 of 24
+  Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+  FSP (P159655)
+
+
+
+Project cost: The original project cost was US$100 million (Loan Agreement, p. 1; PAD, p. 2), which was
+revised to US$60 million following the restructuring on 16 September 2020. The restructuring reallocated
+US$40 million from FSP’s ARTF grant for the COVID-19 crisis response. This was further decreased to
+US$46.25 million following the portfolio-wide cancellation of the remainder of funds on 8 April 2022. At the
+project closing on 28 December 2022, the amount disbursed was US$44.94 million.
+
+Financing: The project was jointly financed by an IDA Credit (US$25 million), and the Afghanistan
+Reconstruction Trust Fund (US$75 million revised to US$21.25 million). The disbursement percentages
+were IDA-D2630 at 99.8 percent and TF-A6277 at 94.1 percent (26.7 percent if calculated based on the
+original allocation).
+
+Borrower Contribution: None planned or made. Government commitment of up to US$100 million in
+parallel financing.
+
+Dates: The project was approved on 19 December 2017 and became effective on 1 January 2018. The
+closing dates was 28 December 2022. Though the Taliban takeover took place in August 2021, the project
+closed in December 2022 which was the original closing date because the Bank no longer had a
+government counterpart to formally close the project once it was suspended in 2021. The ICR used the
+milestone of 15 August 2021 (the fall of the Government) as the effective end of project implementation.
+
+The project underwent one restructuring in June 2020 which resulted in three major changes:
+
+    1. Change in Results Framework: The restructuring paper resulted in the correction of one baseline
+       value for the long-term technical assistants as the number was originally set at 499 instead of
+       780.Three indicators were revised: (i) "Improved gender disaggregated statistical analysis and
+       documentation" was changed to “gender budget statements developed for key ministries” to better
+       reflect the actual focus on gender budget statements, (ii) "Web-based AFMIS extended to
+       embassies and selected districts, municipalities, and SOEs" was replaced with “Approved time-
+       bound development and migration plan to a new AFMIS platform” to measure the transition to a new
+       management information platform in-line with a recent MOF decision; and (iii) "Simplification and
+       standardization of MOF Administration business processes" was changed to “Establishment of
+       Asset Inventory Management System” to reflect the revised scope of the project. Two indicators
+       were dropped: (i) "Effective M&E of development projects through development of a proper M&E
+       system" due to the transfer of this function to the Ministry of Economy, which was beyond the project
+       coverage and influence; and (ii) "Number of Internal Audit Department (IADs) in line ministries that
+       are strengthened, and functioning based on standards set out by Institute of Internal Auditors (IIA)"
+       due to discontinuation of FSP financing for internal audit reform (Restructuring Paper, p. 5).
+    2. Change in Components and Cost: The budget allocation was decreased for each of the four
+       project’s components as follows: Component 1: Budget as Tool for Development. The budget
+       allocation was reduced from US$10 million to US$3.31 million without changes in the composition of
+       the subcomponents. Component 2: Revenue Mobilization. The budget allocation was decreased
+       from US$40 million to US$20.16 million. Activities for supporting the Afghanistan Extractive
+       Industries Transparency Initiative (AEITI) were cancelled, as all new activities were transferred to
+       the Afghanistan Gas Project (AGASP), which became effective in January 2020. Component 3:
+       Treasury Management, Accountability, and Transparency. The budget allocation was reduced
+       from US$30 million to US$24.82 million. Instead of investing in further roll-out of the vendor-locked
+       Afghanistan Financial Management Information System (AFMIS), the limited FSP resources were
+       re-allocated to facilitate the migration to a new preferably open-source platform. Investments in
+
+                                                                                                 Page 4 of 24
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     FSP (P159655)
+
+
+
+          internal audit reform activities were also discontinued. Component 4: Institutional Capacity
+          Building and Performance Management. The budget allocation was reduced from US$20 million
+          to US$11.71 million. The FSP was refocused to support business process re-engineering and
+          automation of asset management (Restructuring Paper, p. 5).
+       3. Change in Financial Management: The period for submission of the annual audited financial
+          statements was increased from six (6) to nine (9) months after the end of the project’s fiscal year
+          (Restructuring Paper, p. 6).
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+Using the milestone of 15 August 2021 (the fall of the Government) as the effective end of the project, the
+project's objectives were highly relevant and aligned with the government's strategies, the World Bank's
+programmatic approach, as well as with commitments by other development partners engaged in the
+sector.
+
+The project was aligned with the Government of Afghanistan's (GoA) strategies and reform
+programs. The FSP contributed to the GoA’s higher-level objective to promote self-reliance (key national
+goal) which was defined in the strategic vision document “Realizing Self-Reliance: Commitments to
+Reforms and Renewed Partnership” (ICR, p. 12). This vision was translated into two reform programs which
+the FSP supported directly: (1) the Second Afghanistan National Peace and Development Framework
+2021-2025 (ANPDF II), updated right before the political crisis of 2021. FSP directly supported all the
+aspects of ANPDF II strategic objectives (SO) to “Mobilize finances and optimize expenditure to meet the
+costs of transformation by restoring fiscal sustainability and ensuring macroeconomic stability” (SO 5.2) and
+“Promote efficient and effective implementation of projects by increasing capacity in planning,
+implementation, auditing, finance, and procurement” (SO 8.1) (ICR, p. 14). (2) the GoA’s PFM Road Map
+and its five-year rolling Fiscal Performance Improvement Plan (FPIP) which focused on “building the
+country’s public administration capacity to accelerate aid utilization, provide faster and better services, and
+ensure transparency and accountability of public expenditure to take the reconstruction agenda forward and
+win back the trust of citizens” (PAD, p. 12). Specifically, the project provided upfront investments drawn
+directly from FPIP work plans (PAD, p. 12). The project’s relevance was reflected through the
+Government’s strong ownership of the FSP which was demonstrated by its commitment of up to US$100
+million in parallel financing over five years, to support related infrastructure that would not be directly
+financed from FSP (PSD, p. 12).
+
+The project was also relevant to and fully aligned with the World Bank Group’s FY17-FY20 Country
+Partnership Framework (CPF) and its programmatic approach to support the FPIP. Specifically, the
+FSP supported the CPF’s first pillar “Building Strong and Accountable Institutions” and its two objectives:
+Objective 1.1 “Improved public financial management and fiscal self-reliance”; and Objective 1.2 “Improved
+performance of key government ministries and municipalities” (ICR, p. 14). Though the ICR does not
+assess the FSP against the World Bank Group's (WBG) programmatic approach to support the FPIP, the
+project was central to the approach’s three interrelated and complimentary instruments since the FSP was
+one of its three instruments. The first instrument - the FPIP Advisory Facility – was a Bank-executed
+programmatic technical assistance package to operationalize and inform FPIP implementation The second
+instrument – the FSP project – was the implementation arm of the new engagement model and provided
+
+                                                                                                    Page 5 of 24
+                                      Independent Evaluation Group (IEG)                        Implementation Completion Report (ICR) Review
+                                      FSP (P159655)
+
+
+
+               investments drawn directly from the FPIP. The third instrument - IP Plus – was a multi-donor policy-based
+               budget support based on benchmarks to achieve strategic objectives of FPIP. The investments made
+               through FSP were designed to achieve those benchmarks (PAD, pp. 60-61).
+
+               Finally, and through not mentioned in the ICR, the FSP was also aligned with the commitments and
+               interventions of other development partners in the same sector, including bilateral partners (e.g.,
+               United States-funded New Development Partnership Program) and multilateral ones (e.g., the European
+               Union (EU)-funded State Building Contract and the International Monetary Fund (IMF)’s Extended Credit
+               Facility (ECF) for Afghanistan) (PAD, p. 23). In addition, it complemented UN Women’s capacity building
+               activities regarding Gender Responsive Budgeting (GRB) (PAD, p. 45).
+
+
+               Rating Relevance TBL
+
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                             OBJECTIVE 1
+                             Objective
+                             Contribute to the improvement of public expenditure management
+
+                             Rationale
+                             Despite establishing a functioning Public Financial Management (PFM) system at the time of project
+                             preparation, Afghanistan’s PFM systems were not sufficiently developed to support strategic allocation of
+                             resources and efficient service delivery. Almost half of the development budget remained unspent (execution
+                             rate was 54 percent), leading to an overall budget execution rate of 76 percent. The low execution rate was
+                             the result of inefficiencies in budget planning, poor appraisal of development projects, protracted procurement
+                             processes, and overall low government capacity. To improve PFM, the project supported several departments
+                             of the Ministry of Finance (MOF), namely, the Budget Department, the Macro Fiscal Performance Department
+                             (MFPD), and the Policy Department by: (i) putting in place new processes and regulations (e.g., delegation of
+                             financial authority, procurement, framework agreements); (ii) equipping and training (Institute of public
+                             certified accountants, national procurement institute, public investment management); (iii) producing toolkits
+                             and modules (e.g. gender budgeting, e-procurement, and performance auditing); (iv) drafting policies and
+                             regulations (procurement and Operations and Maintenance); and enhancing information systems (Pension
+                             Management Information System, Afghanistan Financial Management Information System (AFMIS) and Da
+                             Afghanistan Bank’s Systems).
+
+                             Inputs and Outputs
+
+                             Through consultancies, technical assistance, procurement of IT systems (inputs), the project produced the
+                             following outputs: (1) New processes for delegating financial authority to the provinces; (2) Toolkit for gender
+                             sensitive budget analysis; (3) Establishment/training of the Public Investment Management (PIM) unit of
+                             MOF; (4) Interoperability of the AFMIS and Da Afghanistan Bank’s Systems (DABS) for enabling e-payments;
+
+                                                                                                                               Page 6 of 24
+   Independent Evaluation Group (IEG)                                 Implementation Completion Report (ICR) Review
+   FSP (P159655)
+
+
+
+(5) Establishment/training of Afghanistan Institute of Certified Public Accountants (CPA); (6) Electronic
+government procurement (e-GP) modules; (7) Procurement cadre regulations; (8) Establishment/equipment
+of the National Procurement Institute (NPI); (9) Regulations for framework agreements; (10) Drafting the
+Supreme Audit Office (SAO) Law; (11) New toolkits and checklists at SAO for performance audit, compliance
+audit, financial audit, IT audit and Qatia (financial statements) audit; (12) Operations and Maintenance (O&M)
+policy; and (13) Development and roll-out of Pension Management Information System (PMIS).
+
+The causal chain was that by (i) training staff, (ii) equipping units, (iii) developing guidelines and toolkits, (iv)
+strengthening information systems, (v) drafting policies and regulations, the different aspects related to
+procurement and financial management would be strengthened which would lead to an improvement of public
+expenditure management.
+
+Outcomes
+
+Key Outcome indicator (KOI): Increased development budget execution rate
+
+      Baseline (Aug 2017): 54 percent
+
+      Target (Dec 2022): 75 percent
+      Achieved (pre-Taliban takeover – Dec 2020): 82 percent
+      Not Achieved (post-Taliban takeover): 28.5 percent (estimated)
+
+Achieved (21 Dec 2020). Based on the results of the last year before the Government fell, the indicator was
+still meeting the target, notwithstanding delays or cancellation of many projects due to COVID-19. According
+to informal estimates, the overall execution rate for the post-crisis development budget was 28.5 percent
+(discretionary plus non-discretionary) in FY2021. As of FY2022 only the discretionary development budget is
+active and is being used mainly to provide for NTA salaries and some essential contracts (Electronic National
+Identification Document/ e-NID, Passports etc.).
+
+Key Outcome Indicator: Effective implementation by budgetary units on the external audit
+recommendations
+
+      Baseline (Aug 2017): 15 percent
+      Target (Dec 2022): 60 percent
+      Actual (Mar 2020): 30.60 percent
+
+Not Achieved. According to the Mid Term Report (MTR, July 2020), this indicator was generally on track, but
+most of the pilot ministries still performed poorly. However, the situation started deteriorating in 2020, since
+many audits and related follow-up activities were delayed.
+
+Interim Results Indicator (IRI): Increased budget execution rate of the provinces by implementing new
+provincial budgeting policy
+
+      Baseline (Aug 2017): 57 percent
+      Target (Dec 2022): 75 percent
+      Actual (Dec 2020): 87 percent
+
+
+                                                                                                      Page 7 of 24
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   FSP (P159655)
+
+
+
+Achieved. Provincial budget execution for 2020 was 87 percent exceeding the end project target, but the
+implementation of the policy at the provincial level was affected by the limitations related to communication
+with provinces.
+
+Interim Results Indicator: Gender budget statements developed for key ministries
+
+      Baseline (Aug 2017): 5 ministries
+      Target (Dec 2022): 12 ministries
+      Actual (Dec 2020): 20 ministries
+
+Achieved. FSP supported the achievement of the outcome through development of a toolkit for gender
+sensitive budget analysis, that aided preparation of gender statements for pilot ministries. However, there is
+no information related to whether the gender statements were only produced or whether they were actually
+used/implemented.
+
+Interim Results Indicator: Large projects are properly appraised with the support of a new PIM Unit to
+be established
+
+      Baseline (Aug 2017): 10
+      Target (Dec 2022): 50
+      Actual (Dec 2020): 100
+
+Achieved. Since 2019, MOF mandated that all project concept notes (proposals) go through appraisal.
+In 2020, the indicator value remained at the level of 100 percent well exceeding the end project target.
+
+Interim Results Indicator: Approved time-bound development and migration plan to a new AFMIS
+platform
+
+      Baseline (Aug 2017): No
+      Target (Dec 2022): Yes
+      Actual (Aug 2021): No
+
+Not Achieved. The development of the new system was the responsibility of the National Statistics and
+Information Authority (NSIA) working closely with MOF. The AFMIS development and migration plan was
+expected to be ready and formalized by end-2021. Instead, the AFMIS is still operational without support from
+the vendor and is running without license (ICR p. 19).
+
+Interim Results Indicator: Afghanistan Institute of Certified Public Accountants (CPA) established and
+two batches trained
+
+      Baseline (Aug 2017): Institute not established
+      Target (Dec 2022): Institute established, CPA law enacted, and curriculum developed
+      Actual (Aug 2021): CPA established and associate memberships of Confederation of Asian
+       and Pacific Accountants (CAPA) and the South Asian Federation of Accountants (SAFA) obtained
+
+
+
+
+                                                                                                  Page 8 of 24
+      Independent Evaluation Group (IEG)                          Implementation Completion Report (ICR) Review
+      FSP (P159655)
+
+
+
+Partly Achieved. The Institute was established and memberships in two international/regional accountancy
+bodies were obtained. However, the CPA law was not enacted nor was the training delivered.
+
+Interim Results Indicator: Rolling out e-GP in the pilot phase in three or more departments
+
+        Baseline (Aug 2017): 0
+        Target (Dec 2022): 3
+        Actual (Aug 2021): 3
+
+Achieved. The reported three pilots were for the e-tendering module, e-planning and contract monitoring
+covering 72 pilot entities. In addition, the project supported initial steps towards introduction of framework
+agreements in 10 pilot public entities. Furthermore, the National Procurement Institute (NPI) was established,
+mass recruitment for procurement professionals was completed, and the Procurement Cadre regulation was
+approved and published.
+
+Finally, and in addition to strengthening the budget processes, the PAD mentions that the FSP would also
+support fiscal and development policies. Specifically, in terms of fiscal policy, the FSP would support the
+quality of the medium-term fiscal framework (MTFF) in developing a well-designed medium term budget
+framework (MTBF) and a medium-term expenditure framework (MTEF) (PAD, p. 14). In terms of
+Development Policy, the PAD states that the FSP would assist in developing costed sector strategies and
+workplans (PAD, p. 15). The ICR does not discuss whether and to what extent did the FSP support these two
+policies.
+
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 1 REVISION 1
+Revised Objective
+---
+
+Revised Rationale
+Since the Taliban takeover on 15 August 2021, there has been no official relationship between the World
+Bank and the government. There is no information about any project activities after that date.
+
+
+
+Revised Rating
+Negligible
+
+
+OBJECTIVE 2
+Objective
+
+                                                                                                 Page 9 of 24
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   FSP (P159655)
+
+
+
+Contribute to the improvement of domestic revenue mobilization
+
+Rationale
+By the time of project preparation, the Government of Afghanistan (GOA) had started to put in place policy
+and administrative measures to increase domestic revenue collection. This was with the aim to bridge the
+gap between domestic revenues and public expenditure (in 2016, domestic revenue reached 10.8 percent of
+GDP, while expenditure was 26.9 percent of GDP). However, improving domestic revenue mobilization faced
+several challenges including a narrow tax base, low capacity, weak internal controls, and a decentralized tax
+administration (PAD, p. 11).
+
+The causal chain is that by strengthening the capacity of various revenue administration entities (e.g., Tax
+Administration, Customs Administration) to increase tax compliance, and facilitate timely filing and payment
+and to effectively regulate Afghanistan’s minerals and hydrocarbon resources sector by supporting the
+Afghanistan Extractive Industries Transparency Initiative, this would lead to an improvement in domestic
+revenue mobilization.
+
+Inputs and Outputs
+
+Through national and international technical assistance, provision of training and major investments in ICT
+(inputs), the project produced the following outputs (1) Re-organized and modernized the Afghanistan
+Revenue Department (ARD), (2) Increased number of active tax filers (large, medium and small), (3)
+Development of business processes , VAT oversight tool and training of staff on Value added tax (VAT), (4)
+Interoperability of Standard Integrated Government Tax Administration System (SIGTAS) and DABS systems
+enabling e-payments, (5) Rollout of new Automated System for Customs Data (ASYCUDA) modules , (6)
+Establishment of off-country disaster recovery site for ASYCUDA, (7) Technical support to reform customs
+functions such as legal, valuation, tariff, risk management and post-clearance audit, (8) National Single
+Window (NSW) feasibility study, (9) Updated Mining Law, and (10) Establishment of the Afghanistan
+Extractive Industries Transparency Initiative (AEITI) Portal covering all post-2016 contracts/data.
+
+Outcome
+
+Key Outcome Indicator: Increased domestic revenue as a percentage of Gross Domestic Product (GDP)
+
+        Baseline (Aug 2017): 10.7
+        Target (Dec 2022): 12.2
+        Actual (Dec 2020): 11.8
+        Not Achieved (post-Taliban takeover): 10.3 percent (estimated)
+
+Partially Achieved. The indicator value at around 14 percent for 2019 already exceeded the end project
+target, but later was significantly affected by the COVID-19 pandemic. The 2020 value still exceeded the 11.6
+percent target for the third year and remained close to the end project target of 12.2 percent. After the fall of
+the Government the indicator value dropped to 10.3 percent for the year 2021 according to informal
+estimates.
+
+Interim Results Indicator: Increased number of active tax filers
+
+      Baseline (Aug 2017): Large Taxpayer Office (LTO): 195; Medium Taxpayer Office (MTO): 5,325;
+         Small Taxpayer Office (STO): 3,137
+
+                                                                                                  Page 10 of 24
+   Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+   FSP (P159655)
+
+
+
+
+      Target (Dec 2022): LTO: 380; MTO: 10,400; STO: 6,713
+      Actual (Dec 2020): LTO: 1,153; MTO: 13,249; STO: 8,517
+
+Achieved. Through the introduction of facilitation measures (e-filing and e-payment to taxpayers), FSP
+succeeded in substantially increasing the number of taxpayers, in particular the Large Taxpayers since by
+mid-2020, e-filing became mandatory for all large taxpayers (ICR p. 16).
+
+Interim Results Indicator: Staff and business processes are in place for VAT implementation in 2020
+
+      Baseline (Aug 2017): No staff or processes in place
+      Target (Dec 2022): VAT business processes developed and staff trained
+      Actual (Aug 2021): Preparation for the VAT implementation was in progress
+
+Partially Achieved. The ARD drafted selected business processes and technical specifications for the
+SIGTAS VAT module. However, completing the VAT training for selected ARD staff, and approving the VAT
+business process for registration, filling, payment, refunds, taxpayers current accounts, accounting standards
+were among the pending immediate steps right before the fall of the Government.
+
+Interim Results Indicator: Implement ARD Re-Organization and Modernization Plan Text
+
+      Baseline (Aug 2017): Plan approved by cabinet
+      Target (Dec 2022): All regional revenue offices report to ARD
+      Actual (Aug 2021): There is no reorganization and modernization plan submitted for Cabinet approval
+
+Not Achieved. The ARD managed its organizational structure through its own core departments
+(Tashkeel), but the relevant changes were not guided by a broader reorganization and modernization plan
+requiring a formal approval of the Cabinet. Nevertheless, some changes (e.g., establishment of a Single
+Large Taxpayer Office (SLTO), improvement of audit functions and creation of an independent Tax Dispute
+Resolution Board) did contribute to the improved revenue collection (ICR, p. 16).
+
+Interim Results Indicator: Percentage increase in custom duties through enhancement of ASYCUDA
+customs automation
+
+      Baseline (Aug 2017): 5
+      Target (Dec 2022): 100
+      Actual (Dec 2020): 91
+
+Partially Achieved. The 2020 indicator exceeded the third-year target of 60 percent, and was closer to the end
+project target of 100 percent. ASYCUDA implementation has progressed, with rollout of various modules
+(e.g., passenger/cash declaration module, transit (TIR) module, e-payment module etc.) to different customs
+offices. As a result, automation covered majority of customs offices, including 29 customs sites, 16 border
+crossing points, 16 inland clearance depots, and 5 headquarters offices using ASYCUDA.
+
+Finally, and as mentioned above, following the MTR, the AEITI activities which were planned to be financed
+by FSP were transferred to the Afghanistan Gas Project (AGASP), which became effective in January 2020
+(ICR, p. 12).
+
+
+                                                                                                Page 11 of 24
+      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+      FSP (P159655)
+
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 2 REVISION 1
+Revised Objective
+---
+
+Revised Rationale
+Since the Taliban takeover on 15 August 2021, there has been no official relationship between the World
+Bank and the government. There is no information about any project activities after that date.
+
+
+
+Revised Rating
+Negligible
+
+
+OBJECTIVE 3
+Objective
+Contribute to reinforcing a performance-oriented management culture in the Ministry of Finance
+
+Rationale
+In order to be aligned with the government’s self-reliance vision, the project focused on building institutional
+capacity and reducing reliance on consultants. Furthermore, it supported the roll out of the FPIP policy which
+included a strong focus on implementation.
+
+The causal chain to that by improving the MOF’s public administration capacity (by decreasing its reliance on
+NTAs) and by ensuring transparency in public expenditures (by publishing the FPIP plans on APMIS), and
+increasing greater citizen engagement, the performance-oriented culture at MOF would improve and the
+Government would win back the trust of citizens.
+
+Inputs and outputs
+
+Through technical assistance and training (inputs), the FSP (1) rolled out the Fiscal Performance
+Improvement Plan (FPIP) policy, and (2) Performance Management and Reporting System (PMRS or APMIS)
+(outputs).
+
+Key Outcome Indicator: Improvement in core institutional capacity, represented by a reduction in the
+number of long-term technical assistants.
+
+        Baseline (Aug 2017): 780 (corrected value); 499 initial baseline value
+        Target (Dec 2022): 250
+        Actual (May 2021): 492
+
+
+
+                                                                                                  Page 12 of 24
+      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+      FSP (P159655)
+
+
+
+Not Achieved. Despite partial progress (against the corrected baseline value) the indicator remained off-track
+throughout the project implementation period.
+
+Interim Results Indicator: Improvement in performance management coverage, represented by an increase
+in the number of teams adopting FPIP
+
+        Baseline (Aug 2017): 90
+        Target (Dec 2022): 140
+        Actual (Dec 2020): 140
+
+Achieved. The number of teams adopting FPIP within MOF, SAO, and NPA reached to end project target of
+140. The FPIP expansion was facilitated by the MOF’s PMT which was supported by FSP and served as the
+coordination unit for the project. The PMT was responsible to collate the information from directorates and
+prepare performance reports.
+
+Interim Results Indicator: Transparency and citizen engagement in reform planning, represented by
+timely publication of annual and mid-year FPIP assessment reports
+
+        Baseline (Aug 2017): No
+        Target (Dec 2022): Yes
+        Actual (Dec 2020): Yes
+
+Achieved. The APMIS was developed and used by PMT to publish FPIP plans. It was also used for entire
+FPIP planning, monitoring and reporting cycle.
+
+However, there is no discussion in the ICR regarding the activities related to citizen engagement which were
+envisaged in the PAD, including (i) the mobilization of Civil Society Organizations (CSOs) to establish and
+implement a framework where CSOs collaborate with MOF for further citizens’ awareness in the planning and
+oversight of the budget at both national and sub-national levels; and (ii) supporting Citizen Participatory Audit
+(CPA) through SAO’s engagement with CSOs around the audit cycle to jointly monitor the quality of public
+expenditures to strengthen their impact in exercising public oversight (PAD, p. 17). These activities were
+intended (i) to complement the increase in transparency and FM information availability; (ii) to ensure that
+CSOs would be trained on the utilization of the APMIS and the understanding of the FPIP plans; and,
+eventually, (iii) to regain citizen trust.
+
+
+
+Rating
+Modest
+
+
+OBJECTIVE 3 REVISION 1
+Revised Objective
+---
+
+Revised Rationale
+
+
+                                                                                                  Page 13 of 24
+                                Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+                                FSP (P159655)
+
+
+
+                            Since the Taliban takeover on 15 August 2021, there has been no official relationship between the World
+                            Bank and the government. There is no information about any project activities after that date.
+
+
+
+                            Revised Rating
+                            Negligible
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project's overall efficacy is Modest since it Achieved/Partially Achieved two of its Key Outcome Indicators
+                            and did not achieve the third one. In addition, of the 13 Interim Results Indicators (IRIs), targets for 10 were
+                            Achieved or Partially Achieved; whereas, targets for three were Not Achieved. However, examining the three
+                            project objectives, the third one “To contribute to reinforcing a performance-oriented management culture in
+                            the Ministry of Finance” was only partially supported by the intermediate results under project component
+                            4. No activities were implemented related to increasing citizen engagement nor was it clear to what extent
+                            the project achieved the outcomes related to increased transparency by focusing on availability of information
+                            to the public (as opposed to increased accessibility and utilization of information). Furthermore, the originally
+                            intended support to fiscal and development policies was not implemented. Finally, and while the project only
+                            partly achieved the outcome targets before the crisis, there is no information as to whether it
+                            achieved/sustained them after the Government’s fall.
+
+
+
+                            Overall Efficacy Rating                                   Primary Reason
+                            Modest                                                    Low achievement
+
+
+    5. Efficiency
+   Due to the data limitations no ex-post economic rate of return or cost-effectiveness analysis were conducted to
+   evaluate the efficiency of the project. While the second-order impact of the FSP (reducing corruption, improving
+   the business environment, and fostering a more rule-based approach) is difficult to assess, the first order impact
+   of the FSP on growth and development (enhanced revenue mobilization which in turn would result in increased
+   expenditures, increase in the budget execution rate, and an improvement in the efficiency of public
+   expenditures) was analyzed up to the fall of the Government and found that the FSP contributed to an economic
+   growth rate by an average of 0.5 percentage points each year from 2017 to 2021 (ICR, p. 51). These analyses
+   were high-level and cannot be replicated at project completion due to data limitations and overall constraints
+   related to applicability of such high-level analyses under the new country circumstances (COVID-19 pandemic
+   and political crisis of 2021). Nevertheless, the ICR discusses important elements that affected the FSP’s
+   efficiency both under the Efficiency section and a detailed Annex as well as under different sections, including
+   “Key Implementation Factors”.
+
+   The project’s cost was substantially decreased due to COVID-19 and conflict. The planned project had a
+   total budget of US$100 million which was decreased to US$60 million as a result of shifting US$40 million to
+
+                                                                                                                               Page 14 of 24
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      FSP (P159655)
+
+
+
+address the COVID-19 pandemic. Furthermore, after the collapse of the Government of Afghanistan, the Bank
+paused all disbursements on its Afghanistan portfolio. The undisbursed balance, except liabilities and
+commitments owed by the previous government, were suspended on 24 February 2022. Consequently,
+US$13.7 million out of US$15 million undisbursed ARTF balance under FSP was cancelled on 8 April 2022
+(ICR, p. 27). The ICR could have provided an analysis as to why the project was able to achieve targets for
+several of its indicators with a substantially lower-than-planned budget and whether this was due to unambitious
+targets and/or to an overly generous allocation of financial resources. A decrease by US$40 million (40 percent
+of the original budget) - notwithstanding the FSP ceasing to fund a high number of National Technical
+Assistance (NTAs) and discontinuing a few activities after the MTR – should have had an impact on project
+efficiency.
+
+The inefficiency of implementation arrangements was hidden. In line with the Government’s commitment to
+gradually reduce the dependence on parallel systems, the FSP did not include a Project Implementation Unit
+(PIU) but focused on project implementation through country systems (PAD, p. 13). The MOF Performance
+Management Team (PMT) – comprised of six members and reporting to the Deputy Minister for Finance -
+provided day-to-day operational backstopping and coordination across beneficiary departments. MOF, NPA, and
+SAO managed the implementation of the program through corporate systems and their roles and responsibilities
+were clearly defined. Furthermore, each implementing agency had its own procurement plan and was
+responsible for implementing its respective FSP activities (ICR, p. 26). However, these implementation
+arrangements using corporate systems were heavily reliant on NTAs). Implementing a significant share of
+reforms through NTAs also made it difficult to distinguish the capital or recurrent nature of some of the
+Incremental operating cost (IOC) financing. Despite the substantial cut of NTA funding for MOF under FSP
+following the MTR (from 462 before the MTR to about 170-180 approved for 2021), the MOF increased their
+financing under its own budget resulting with close to 500 NTAs still being employed in early 2021 (ICR, p. 21).
+The share of recurrent cost financed through the IOC plan was estimated to be around 14 percent of actual
+project financing which is significant and decreased the FSP’s overall efficiency (ICR, p. 51).
+
+Failure to upgrade and migrate IT systems contributed to increased inefficiencies. Vendor-locked
+proprietary and/or vulnerable homegrown software solutions required continuous funding of recurrent costs for
+licenses, maintenance, and utilities (internet and electricity) (ICR, p. 21). Furthermore, the systems (e.g.,
+ASYCUDA, AFMIS, etc.) were extended beyond the original plans in order to avoid their failure. The specific
+consequences of not upgrading and migrating these systems led to delays in implementing the plans for NTA
+transition, the ASYCUDA exit plan, etc. (ICR, p. 25). Though initially the FSP funded investments in operation
+and maintenance of the IT systems, including procurement of necessary hardware and linking the AFMIS with
+the DABS to enable e-payments, following the MTR, the project no longer funded the proprietary AFMIS
+solution. As of project end, the AFMIS was still operational without support from the vendor and was running
+without a license (ICR, p. 19).
+
+In addition to the above, there are other factors that most likely contributed to a decrease in the project’s
+efficiency and which are not discussed in the ICR:
+
+The project experienced delays in procurement and implementation of some activities. Procurement was
+delayed due to several factors including staff capacity constraints, the security situation, and limitation of the
+local market. This resulted in frequent rebidding and complaints, which then took significant time to review and
+resolve. (ICR, p. 26). Furthermore, training of Afghanistan Institute of Certified Public Accountants’ staff was not
+conducted due to the delays in finalizing the curriculum (ICR, p. 19).
+
+
+
+
+                                                                                                       Page 15 of 24
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      FSP (P159655)
+
+
+
+The ICR does not discuss the effect of COVID-19 on efficiency. While the ICR (p. 27) mentions that the
+COVID-19 pandemic adversely affected the performance and reforms implemented by various FSP
+stakeholders (e.g., reforms related to tax and customs administration, external audit, roll-out of the pension
+management information system) under “Key Factors During Implementation”, it does not take it into
+consideration in the efficiency analysis. For example, VAT implementation (e.g., finalization of business
+processes and technical requirements) was significantly delayed due to the COVID-19 pandemic (ICR p. 16).
+
+
+Efficiency Rating
+Negligible
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                                Rate Available?              Point value (%)             *Coverage/Scope (%)
+                                                                                         0
+ Appraisal                                                    0
+                                                                                          Not Applicable
+                                                                                         0
+ ICR Estimate                                                 0
+                                                                                          Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project’s overall rating is Moderately Unsatisfactory (pre-crisis) and Negligible (post-crisis). This rating is
+based on assessments of project relevance, average efficacy of the three outcome areas, and efficiency. Split
+rating is applied to differentiate the progress before and after the political crisis of 15 August 2021 (see Table 1)
+The project was highly relevant and aligned to both the Government’s and World Bank priorities. It succeeded in
+achieving two out of three of its key objectives (and a number of interim indicators (seven were Achieved and
+three were Partially Achieved); whereas three were Not Achieved. Achievement of its three objectives was rated
+as “modest” (pre-crisis) and “negligible” (post crisis). The project’s overall efficiency was negligible, given that it
+experienced delays, high implementation costs and procurement challenges.
+
+Table 1. Calculation of the Overall Project Outcome Rating
+
+                                                                                                   Post-crisis
+Outcome Component                                                           Pre-crisis ratings
+                                                                                                   ratings
+Relevance                                                                   Substantial
+Overall Project Efficacy                                                    Modest                 Negligible
+Outcome 1 – Improvement of public expenditures management                   Modest                 Negligible
+Outcome 2 – Improvement of domestic revenue mobilization                    Modest                 Negligible
+Outcome 3 - Reinforcing a performance-oriented management culture
+                                                                            Modest                 Negligible
+in the Ministry of Finance
+Efficiency                                                                  Negligible
+
+                                                                                                        Page 16 of 24
+      Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+      FSP (P159655)
+
+
+
+                                                                           Moderately
+Outcome Ratings                                                                               Unsatisfactory
+                                                                           Unsatisfactory
+Disbursements                                                              US$36.39M          US$23.61M
+Share of disbursements (Weight)                                            60.65%              39.35%
+Overall Outcome Rating                                                     Moderately Unsatisfactory
+a. Outcome Rating
+   Moderately Unsatisfactory
+
+
+7. Risk to Development Outcome
+
+The overall risk to development outcome was rated High by both the ICR (p. 32) as well as the PAD which
+considered that the political, governance and institutional capacity for implementation and sustainability risks
+were High at the time of project approval (p. 3).
+
+The FSP planned to mitigate some of these risks by following a “staggered approach” and by “front-loading
+reforms that [were] the most likely to be robust, feasible and critical from a political economy perspective and
+with the greatest buy-in” (PAD, p. 24). However, following the fall of the Government, the sustainability of
+human resources capacities, IT systems, and processes was severely jeopardized. While the ICR considers
+that the IT systems are “relatively sustainable” and the staff capacity is “potentially or partially sustainable”,
+the ICRR would argue the contrary.
+
+In terms of staff capacity, even prior to the fall of the Government, the NPA was ahead of the other FSP-
+supported institutions in transitioning its staff from NTAs to Tashkeel and had created and trained a
+Procurement Cadre (p. 32). Following the fall of the Government and interruption of project financing, many
+technical personnel contracts were shifted from FSP to discretionary budget, which set NTA quotas for each
+ministry (ICR, p. 21). In a certain way, the crisis accelerated the reforms that the FSP was unable to
+implement by limiting the NTA contracts and transitioning others to Tashkeel which may potentially ensure
+sustainability of broader project results, including retaining the professional capacity built over years (p. 32).
+
+Though the ICR considers that several systems (e.g., AFMIS, ASYCUDA and SIGTAS) had reached the
+“point of no return” and were relatively sustainable (ICR, p. 24) because the Taliban authorities realized the
+importance and benefits of these systems and ensured their continued operation, however, some of these
+systems (e.g., AFMIS) are running without vendor support and without a license (ICR p. 19) which might
+curtail their long-term sustainability. In terms of ASYCUDA, the handover of the system from the United
+Nations Conference on Trade and Development (UNCTAD) to the Afghanistan Customs Department (ACD)
+did not take place, which puts the maintenance of the customs system post-June 2021 at serious risk. Up to
+the time of the drafting of the ICR, the operation and maintenance of the system was still supported by the
+UNCTAD’s national project team (ICR, p. 17); however, it is not clear how long this support will last.
+
+Finally, the fall of the Government reversed several policies and processes that were put in place. In
+particular, those related to the following (i) fiscal transparency and information related to budgetary
+allocations; (ii) national development strategy which would inform the budget allocations; (iii) advancements
+in gender inclusiveness in PFM; and (iv) sustainability of the Afghanistan Institute of Certified Public
+Accountants (CPA) since no measures for its formal and financial independence were put in place (ICR, p.
+41).
+
+
+                                                                                                       Page 17 of 24
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     FSP (P159655)
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The ICR did not rate the project’s Quality-at-Entry. The project’s design had some strong
+  elements, in particular the use of analytical assessments as well as a certain degree of flexibility
+  which was crucial given the FCV context. However, the project’s design also exhibited several
+  weaknesses, including not taking into consideration the incentives to achieve the desired
+  reforms, lack of clarity regarding the government’s financial contributions and not having a clear
+  ToC.
+
+  The project’s design benefitted from several analytical assessments. These included the following
+  (i) 2013 Public Expenditure and Financial Accountability (PEFA); and (ii) several ASAs undertaken by the
+  FPIP Advisory Facility, including an all-of-MOF Information and Communications Technology (ICT)
+  Assessment (PAD, p. 17), a PIM Assessment (PAD, p. 45), and a competency framework/Human
+  Resources assessment (PAD, p. 53).
+
+  The project’s linkage with the FPIP provided the flexibility which fitted the FCV context. Due to the
+  “rolling” nature of FPIP plans, the FSP’s scope was designed with greater flexibility in allocating
+  resources where they were needed to address ad hoc needs and challenges that usually arise in a FCV
+  environment (ICR, p. 30). However, the project’s design could have anticipated some of the challenges
+  related to the FCV context which created logistical challenges in supplying goods, limited interest of
+  international bidders, and involved high cost of associated security arrangements.
+
+  The project’s implementation arrangements sought to rely on national systems and avoided
+  creating parallel structures. The FSP’s design focused on enhancing fiduciary arrangements and
+  strengthening national systems. In particular, the FSP prioritized capacity building and for NPA and SAO
+  to enhance their respective contributions during project implementation, including auditing the IDA/ARTF
+  program (ICR, p. 30). However, given the high number of NTAs in the various government departments,
+  the ICR noted the existence of “hidden” PIUs and argued that a more conventional PIU to implement the
+  project could have been more practical than using weak national systems (ICR, p. 33).
+
+  The project’s objectives were not matched with the appropriate incentives to achieve them. The
+  FSP’s objectives were ambitious and, for the available staff capacity at the implementing agencies,
+  conflicted with the priorities of self-reliance. Achieving FSP’s outcomes required that NTAs continue to be
+  involved in day-to-day MOF functions. Whereas to move closer to self-reliance, Bank staff working on the
+  project considered that the project needed to promptly adopt an NTA transition plan[JC1] [RAA2] [JC3] .
+  However, insufficient attention was given to addressing the incentives and legacies of previous projects
+  during the design which affected the implementing the NTA transition plan and the reduction in their
+  numbers.
+
+  Scope of parallel financing from the Government was not clearly defined at the outset. MOF
+  overestimated its capacity to provide parallel financing for PFM reforms from the national budget, which
+  was expected to match FSP financing (in-line with the plans reflected in the PAD). The scope (both
+
+
+
+                                                                                                  Page 18 of 24
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     FSP (P159655)
+
+
+
+  amount and use) of the parallel financing was not clear at the outset, making it difficult to monitor (ICR, p.
+  25).
+
+  The project design did not include a Theory of Change (ToC) which presented the pathways from
+  inputs, outputs to outcomes and objectives. Though a ToC and associated assumptions were not
+  developed for the FSP, the PAD included a detailed Results Framework which allowed the ICR to re-
+  construct a ToC. The Results Framework is discussed below under M&E Design.
+
+
+
+  Quality-at-Entry Rating
+  Moderately Unsatisfactory
+
+
+b. Quality of supervision
+ The ICR did not rate the quality of the supervision. However, the following elements were considered to
+ have contributed to the quality of the Bank’s supervision:
+
+      i. There was stability in Bank leadership of the task, with only one change in task team leader (TTL)
+           during the project and a seamless transition of the Accountability and Decision Making (ADM) role
+           was ensured prior to the MTR;
+     ii.   Physical proximity of the TTL/co-TTLs who were based – for most of the time - in Dubai and Kabul
+           allowed for real time interaction and support to the Client (ICR, p. 31);
+    iii.   Implementation support missions were timely, involved a large team of technical experts, and
+           openly reported on the implementation issues proactively seeking management support on
+           resolving the critical bottlenecks;
+    iv.    Frequent informal missions took place between the formal implementation support missions and
+           were part of handholding arrangements. They also provided Back to the Office Reports (BTORs) to
+           the management and kept them appraised of any challenges (ICR, p. 27); and
+     v.    Regular review of MOF’s grievance redress mechanism (GRM) system allowed the Bank team to
+           respond to project-related grievances.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Moderately Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ Though the PAD did not include a Theory of Change, the Results Framework and results indicators
+ were closely aligned to the PDO and the underlying ToC. Furthermore, the indicators had clear
+
+
+                                                                                                     Page 19 of 24
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     FSP (P159655)
+
+
+
+ baseline data, and were updated regularly. Nevertheless, the Results Framework lacked Interim Results
+ Indicators to measure specific achievements which would contribute to the FSP’s PDO and one Key
+ Objective Indicator - Increased domestic revenue as a percentage of GDP – was too high-level to
+ convincingly argue that the FSP contributed to its achievement.
+
+ The ICR did not address the lack of interim results indicators to measure some of the activities necessary
+ to achieve the PDOs. For example, “citizen engagement” which was supposed to contribute to improving
+ the performance-oriented management culture in MOF, had no indicators associated with it. Similarly,
+ there were no indicators associated with supporting the fiscal and development policies which were
+ necessary for improving public expenditures management.
+
+ In addition, the Results Framework did not envisage the reporting of number of persons trained
+ disaggregated by sex. Though FSP was gender-tagged and was meant to promote the training and
+ recruitment of women for PFM positions (ICR, p. 30), it did not capture the number of women recruited
+ and/or trained in the various institutions that were supported by the project.
+
+ The ICR mentions the drafting of several legislative documents (e.g., CPA Law, SAO Law and Mining Law)
+ which can contribute to both improved effectiveness as well as the sustainability of PFM interventions,
+ these policy-level outputs were not captured in the Results Framework which focused mostly on processes
+ put in place.
+
+ Finally, the indicator for the share of revenue in GDP used to measure the FSP’s contribution to “improved
+ domestic revenue mobilization”, was very high level and it would be difficult to demonstrate the pathway
+ from inputs to outputs to outcomes to achieve this improvement.
+
+
+
+b. M&E Implementation
+  The ICR provides brief information on M&E implementation and does not include any information
+  regarding the Implementation Status and Results Reports nor the Aide Memoires (quantity or quality).
+
+  The PMT collected and reported on a regular basis the M&E data as part of FPIP reports which were
+  published and disseminated twice a year This also led to streamlining donor support to PFM reforms
+  (ICR, p. 30). Due to the scope of the financed reforms largely focusing the reforms at the national level
+  and the reliance on PMT and the NTAs, the FSP’s results framework did not face limitations related to
+  data availability. Given the technical nature of the indicators, most of them could not be updated in real
+  time (ICR, p. 28).
+
+  To complement the project’s M&E framework, the FSP put in place third-party monitoring arrangements
+  for monitoring and supporting implementation of reform programs (ICR, p. 25). However, no information
+  is provided regarding the TPMA’s reports’ quality and timeliness.
+
+  The ICR reports inconsistencies in the calculation of a few indicators. Specifically, the Bank liaised with
+  SAO on addressing discrepancies in measuring the “Effective implementation by budgetary units on the
+  external audit on implementation of external audit recommendations”, but the security situation
+  deteriorated before the indicator’s results could be re-calculated and reported (ICR, p. 28). Another
+  example are inaccuracies in the reported numbers for the share of female employees at MOF. Both
+  during project appraisal and MTR, it was stated that women constituted 11 percent of MOF staff.
+
+
+                                                                                                    Page 20 of 24
+     Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+     FSP (P159655)
+
+
+
+  However, in 2021, this ratio was increased to 14 percent which was inconsistent with the reported
+  absolute number of 824 female staff out of a total of 8,600 (i.e., around 9.5 percent) (ICR, p. 23).
+
+
+
+c. M&E Utilization
+  The M&E findings informed project management and the technical discussions between the Bank and
+  the implementing agencies. Furthermore, based on the M&E information, several IRI indicators were
+  modified (three indicators), dropped (two indicators), or corrected (one indicator) during the project’s
+  restructuring in September 2020 to better correspond to the project activities (ICR, p. 29). Finally, the
+  use of Third-Party Monitors proved to also be useful for preparing the ICR since they were able to
+  provide up-to-date information, especially given that the Bank missions had been suspended once the
+  Taliban took over.
+
+
+
+  M&E Quality Rating
+  Substantial
+
+10. Other Issues
+
+a. Safeguards
+   No environmental or social safeguards policies were triggered by the project.
+
+
+
+
+b. Fiduciary Compliance
+   In terms of financial management, the ICR does not mention whether interim financial reports and annual
+   project audit reports were submitted on a timely basis or whether they were found to be of acceptable
+   standards. However, it states that there were financial management challenges related to reconciliation of
+   payroll and HR records as well as with fixed assets verification (ICR, p. 29) which points to the possibility of
+   financial mismanagement. Furthermore, and following the fall of the Government, the Bank’s fiduciary
+   teams worked closely with the Third-Party Monitoring Agent (TPMA) to estimate the outstanding
+   commitments in the US$10.62 million Designated Account (DA) balance. Based on their preliminary
+   assessment, a balance around US$8.53 million of total IDA and ARTF resources were due for
+   refunding. The ICR was prepared in January 2023 - more than one year after the fall of the Government -
+   and it does not indicate whether the balance has been refunded.
+
+   In terms of procurement, there were backlogs, problematic and/or failed procurement packages which the
+   Bank’s procurement team attempted to resolve through Hands-on Expanded Implementation Support
+   (HEIS) starting from February 2020.
+
+   Lastly, the MTR mission identified some shortcomings in MOF’s GRM which was also being used as the
+   project’s GRM. MOF was requested to share a detailed description of its GRM system for review and to
+   agree on remedial measures to improve it. However, the MOF failed to submit the requested information
+
+
+                                                                                                     Page 21 of 24
+     Independent Evaluation Group (IEG)                                Implementation Completion Report (ICR) Review
+     FSP (P159655)
+
+
+
+   despite the Bank’s follow-up requests during the February 2021 and May 2021 implementation support
+   missions (ICR, p. 29).
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   The ICR did not identify any unintended impacts.
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                  Reason for
+Ratings                        ICR                    IEG
+                                                                                  Disagreements/Comment
+                               Moderately             Moderately
+Outcome
+                               Unsatisfactory         Unsatisfactory
+                               Moderately
+Bank Performance                                      Moderately Satisfactory
+                               Satisfactory
+Quality of M&E                 Substantial            Substantial
+
+Quality of ICR                 ---                    Substantial
+
+
+12. Lessons
+
+The ICRR confirms the series of lessons and recommendations emerging from the project’s
+experience and presented in the ICRR and proposes an additional one regarding the importance of
+high-level commitment to advance policy reforms. IEG summarizes the most persuasive lessons
+below:
+
+Balancing ambition of objectives with pragmatism is especially important in FCV contexts.
+Projects’ design needs to carefully manage the trade-off between the ambition of PFM reforms and
+more pragmatic and necessary priorities of ensuring government’s day-to-day operation with existing
+capacity and with limited external support, in particular if donor financing is interrupted. As such,
+institutional reforms in such FCV environments need to have realistic objectives that can be
+sustained by the government’s own resources. The ICRR would add that a political economy
+analysis, mapping the winners/losers of such reforms would also help in guiding both the design and
+implementation of such projects, and not only in FCV contexts.
+
+There is a need to address human resource capacities and incentives in a streamlined and
+coordinated fashion with other projects to ensure proper project implementation. By
+supporting NTAs through the FSP project, the World Bank undermined another project - TAGHIR –
+which intended to transition NTAs to Tashkeel (the ministry’s organization structure). It would be
+preferable to concentrate all financing of external staff under a single instrument for proper
+
+
+                                                                                                    Page 22 of 24
+       Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+       FSP (P159655)
+
+
+
+streamlining with civil service reform program. Furthermore, and though in theory it is preferable to
+rely on national systems for fiduciary arrangements, it may be more efficient and effective to use
+conventional PIUs to implement the project and to outsource the audit of projects to a reputable
+audit firm than to rely on the limited national capacities.
+
+Carefully design digital approaches and business models to ensure efficiency as well as
+sustainability. ICT solutions, in particular in FCV contexts, are associated with a set of
+implementation, quality and sustainability risks. Considerations at the design stage should be taken
+to ensure that simple open-source solutions that combine flexibility on maintenance arrangements
+(including avoiding proprietary licensing) and affordable cost are chosen in order to avoid
+fragmentation, inefficiencies and unsustainable ICT solutions. Selecting vendors solely on lowest
+price without taking into consideration life-time costs of the system (including license fees), may not
+be the most efficient, effective or sustainable solution in the long-run.
+
+Another lesson which is not included in the ICR but is alluded to under “Key Factors During
+Preparation”: is the importance of selecting the appropriate counterparts and engaging at the
+right level to ensure high-level ownership and commitment for advancing the reform agenda.
+FSP partnered with three key stakeholders (MOF, NPA and SAO), which were critical for advancing
+the PFM reforms in the vulnerable and high-risk FCV context. All three institutions served as
+implementing agencies and actively supported the reform. Furthermore, the Bank engaged closely
+with the key stakeholders to prepare the project's budget in a participatory way. Closer engagement
+with President’s office was one of the untapped measures that could strengthen the reform focus
+and collaboration towards overall project targets.
+
+Finally, in Afghanistan, it was very useful to have a dedicated Gender and Social Development
+expert on the Bank's team to lead the dialogue on gender-related issues and to follow up on the
+gender-related activities implemented by the project.
+
+
+
+13. Assessment Recommended?
+
+  No
+
+14. Comments on Quality of ICR
+
+The ICR was based on a desk review of reports prepared prior to fall of the Government in August 2021 and,
+after that, on “informal estimates” without indicating the basis for these estimates. Though not specifically
+mentioned, interviewing authorities was not possible and a Borrower ICR was not prepared. Notwithstanding
+these limitations, the ICR is generally well-written and provides a detailed overview of the project and available
+evidence support the ratings. It has also included a clearly reconstructed Theory of Change based on the
+project’s Results Framework. It is candid and points out the instances of potential mismanagement as well as
+other weaknesses in project implementation though, it failed to rate the project's Quality- At-Entry.
+
+In order to complement the limitations in accessing information and informants following the fall of the
+Government, the ICR could have interviewed other stakeholders (e.g., UNCTAD, UN Women, and some CSOs)
+as well as analyzed the MOF’s website for evidence of any reforms that were sustained. Equally, it would have
+
+                                                                                                     Page 23 of 24
+     Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+     FSP (P159655)
+
+
+
+been interesting to have additional information some aspects of the FSP (e.g., M&E findings by the TPMA and
+the status of MOF’s Gender Unit).
+
+In addition, given the several fiduciary challenges (procurement and financial management) that the FSP faced,
+it would have been interesting for the ICR to highlight any lessons learned which future projects could learn
+from, especially in FCV contexts. In addition, since the PAD had already highlighted several risks, lessons
+learnt regarding the mitigation of such risks would also be useful for future similar projects.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                Page 24 of 24
+

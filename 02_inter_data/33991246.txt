@@ -1,0 +1,751 @@
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MP Citizen Access to Responsive Services (P149182)
+
+
+
+                                                                                  Report Number: ICRR0022999
+
+1. Project Data
+
+
+
+ Project ID                                Project Name
+ P149182                                   MP Citizen Access to Responsive Services
+
+ Country                                   Practice Area(Lead)
+ India                                     Governance
+
+
+ L/C/TF Number(s)                          Closing Date (Original)                 Total Project Cost (USD)
+ IDA-57050                                 31-Mar-2021                                           28,280,000.00
+
+ Bank Approval Date                        Closing Date (Actual)
+ 29-Jan-2016                               31-Mar-2021
+
+                                           IBRD/IDA (USD)                                       Grants (USD)
+
+ Original Commitment                           35,000,000.00                                                0.00
+
+ Revised Commitment                            28,280,000.00                                                0.00
+
+ Actual                                        28,280,000.00                                                0.00
+
+
+
+
+ Prepared by                Reviewed by                   ICR Review Coordinator          Group
+ Soren Kirk Jensen          Judyth L. Twigg               Jennifer L. Keller              IEGEC (Unit 1)
+
+
+
+
+2. Project Objectives and Components
+
+DEVOBJ_TBL
+a. Objectives
+   According to the Financing Agreement (p. 5) and the Project Appraisal Document (PAD, p. 5), the objective of
+   the project was to:
+
+           improve access to Public Services Guarantee Act (PSGA) services by citizens of Madhya
+           Pradesh, and in particular by under-represented groups.
+
+
+
+                                                                                                   Page 1 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MP Citizen Access to Responsive Services (P149182)
+
+
+
+   The project development objective remained the same, but final-year targets for two outcome indicators were
+   modified in response to the COVID-19 pandemic. With strong evidence of project-supported trends in
+   outcomes prior to the pandemic, this Review will not perform a spit rating.
+
+
+
+b. Were the project objectives/key associated outcome targets revised during implementation?
+  Yes
+
+  Did the Board approve the revised objectives/key associated outcome targets?
+  No
+
+c. Will a split evaluation be undertaken?
+   No
+
+d. Components
+   The project had two complementary components. The components differed in the way they were financed,
+   their modalities, and the types of activities they supported.
+
+   Component 1 was results-based financing (RBF: US$25 million at appraisal; actual US$26 million) with
+   disbursement-linked indicators (DLIs) to incentivize the implementation of reforms and activities aimed at: (i)
+   improving access to services and conducting citizen outreach campaigns, (ii) simplification of government
+   services through Government Process Reengineering (GPR) and automation of back-end procedures of
+   line departments to improve their integration with front-end interfaces, and (iii) performance management
+   through focus on monitoring and evaluation (M&E) tools and collecting beneficiary feedback. Financing was
+   to be disbursed against the achievement of DLIs.
+
+   Component 2 was technical assistance (TA: US$10 million at appraisal; actual US$2.28 million) to support
+   institutional strengthening through activities aimed at: (i) providing information and communication
+   technology (ICT) and capacity building support for conducting GPR in line departments, and (ii) building
+   capacity of the Madhya Pradesh State Agency for Public Services (MPSAPS) through hiring of a Project
+   Management Consultant (PMC). This component did not have a separate results framework. Financing was
+   to be disbursed against Interim Financial Reports (IFRs).
+
+
+
+e. Comments on Project Cost, Financing, Borrower Contribution, and Dates
+   Planned costs at appraisal were US$50 million, with US$35 million from a World Bank credit and US$15
+   million from the borrower. The project was approved in late January 2016, underwent a mid-term review in
+   July 2019, and closed as scheduled in March 2021. There were four major disbursements (between US$5
+   and US$7 million) made in October 2016, April 2018, June 2019, and April 2020, and four minor
+   disbursements (under US$ 1 million each) in between. Each Bank disbursement was matched by a 30
+   percent contribution from the government.
+
+   The project was restructured three times -- in December 2020, and twice in March 2021 -- to enable it to
+   focus on activities that had become priorities because of the COVID-19 pandemic. Total World Bank
+   financing was revised downwards from US$35 million to US$28.28 million. All cancelled funds were under
+   the TA component, as the government became significantly more restrictive about spending with the onset
+
+                                                                                                     Page 2 of 14
+                         Independent Evaluation Group (IEG)                           Implementation Completion Report (ICR) Review
+                         MP Citizen Access to Responsive Services (P149182)
+
+
+
+                       of the pandemic, and some planned purchases of hardware and software were covered by grants available
+                       through other central government schemes (ICR, p. 17). Savings were also realized from the depreciation of
+                       the rupee against the dollar. Spending under the second component therefore decreased from a budgeted
+                       US$10 million to US$2.28 million. US$1 million was reallocated to the first component, and US$6.72 million
+                       was cancelled in line with the government’s reprioritization.
+
+                       Spending under the RBF component increased from the planned US$25 million to US$26 million, and funds
+                       were reallocated to reflect downward revision of some outcome targets due to lockdowns and restrictions on
+                       movement of citizens. The two outcome-level DLIs (1 and 2, focusing on in-person services) were reduced
+                       by US$0.8 million and US$1.2 million respectively, and DLIs 4, 6, 7 and 8 (focusing on digital and other
+                       remote services) were increased by US$0.6 million, US$0.7 million, US$0.7 million, and US$1
+                       million respectively.
+
+
+
+
+3. Relevance of Objectives
+
+Rationale
+The objectives were aligned with country context. Madhya Pradesh is a low-income state, with more than
+one-third of its population living below the poverty line. Scheduled Castes (SCs) and Scheduled Tribes
+(STs) comprise about 16 and 17 percent of the population, respectively. Due to remote geographies and
+low literacy rates, many citizens are unable to access public services and benefits to which they are entitled
+under social protection schemes. The MP Public Service Guarantee Act (PSGA), passed in 2010, was
+intended to set standards for delivery and timeliness of public services. A 2016 survey, however, found
+that three-quarters of users were still not receiving services within stipulated time frames, and that SCs,
+STs, and women were still disproportionately disadvantaged in terms of public services access. The World
+Bank's 2018 Systematic Country Diagnostic (SCD) emphasized the need to strengthen the agility,
+performance, and responsiveness of India's public sector institutions, finding persistent gaps in public
+service delivery, particularly for vulnerable and disadvantaged groups in rural areas. The government's
+ability to process applications for services was especially limited by lack of integration of various databases.
+
+The objectives were congruent with the Country Partnership Framework for India (CPF, FY 2018-22), as
+public service delivery was one of the CPF's four catalytic "hows" of engagement that were intended to
+serve as impact multipliers. The project's objectives were also relevant to both India’s Strategy for New
+India@75 and the Atma Nirbhar Madhya Pradesh – Roadmap for 2023, which emphasized the need for
+effective public service delivery through a public oriented, transparent, and accountable administration.
+These government strategies also recognized that inequality and poverty affect some population groups
+more seriously, such as SCs/STs, and that these groups therefore have heightened needs to access public
+services.
+
+The project remained relevant through the unprecedented and unpredictable context of the COVID-19
+pandemic through adjustments that reinforced the virtual and digital components of the project already in
+place. The retained relevance applied less to the project’s under-represented target groups, however, who
+were already at a disadvantage when it comes to online access.
+
+
+Rating Relevance TBL
+
+
+
+
+                                                                                                                    Page 3 of 14
+                      Independent Evaluation Group (IEG)                            Implementation Completion Report (ICR) Review
+                      MP Citizen Access to Responsive Services (P149182)
+
+
+
+               Rating
+               High
+
+
+   4. Achievement of Objectives (Efficacy)
+
+EFFICACY_TBL
+
+
+
+
+                OBJECTIVE 1
+                Objective
+                Improved access to PSGA services by citizens of Madhya Pradesh
+
+                Rationale
+                The theory of change for this objective involved both supply-side and demand-side interventions. It held that
+                increasing the number of points of presence (PoPs) for service application and delivery, improving the user-
+                friendliness of in-person service kiosks (Lok Seva Kendras, LSKs), increasing the range of services covered
+                under the PSGA, increasing the number of channels for PSGA services (including on-line services), and
+                strengthening back-end functions would increase the availability and accessibility of public services. Efforts to
+                raise citizen awareness through communications and outreach were to increase demand for services. Taken
+                together, these interventions would improve access to PSGA services for citizens.
+
+
+
+                Outputs
+
+                The number of fully operational PoPs increased from 336 LSKs at baseline to 428 LSKs plus an
+                additional 37,522 Common Service Centers (CSCs) and MPOnline kiosks at closure, vastly exceeding the
+                target of a total of 536 PoPs. The project harnessed about 400 private agencies through public-private
+                partnerships (PPPs) that were reimbursed for implementing public service delivery. One LSK was established
+                at every district and Tehsil level, and at any block where the population exceeded 5,000. For every grouping
+                of six villages, a CSC was established. To cater to the urban population, MPOnline kiosks were set up in
+                every ward or colony, staffed by the private sector. According to the project team, the project fully realized the
+                potential for smaller one-stop-shops at the village level, leveraging their capacity to deliver services that were
+                initially only available through LSKs. This made possible an exponential increase in service availability.
+
+                The target for all LSKs having information/facilitation services (from a baseline of zero) was fully met in the
+                project's first year. The project team worked with the government to make it a mandatory contractual
+                requirement for the private vendors that were hired to operate the LSKs to include information desks.
+
+                The number of PSGA services available online increased from 47 services at baseline to 355 services at
+                closure, exceeding the target of 350 services. The project team later added that the use of non-LSK online
+                services increased from 5.13 percent of all services to 17.34 percent at closure. According to the ICR (p. 11),
+                the pandemic triggered accelerated project efforts to make services available online and through other
+                channels (phone calls, mobile phones) that do not require in-person contact.
+
+                The percentage of PSGA services provided within the legal time frame increased from 87 percent at baseline
+                to 97 percent at closure, exceeding the target of 95 percent. According to the ICR (p. 15), the project
+
+                                                                                                                    Page 4 of 14
+   Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+   MP Citizen Access to Responsive Services (P149182)
+
+
+
+facilitated the development of a "one-day governance" scheme, where specific services were guaranteed
+within one day, made possible by inter-departmental integration and the removal of administrative barriers.
+Using open data and creating service delivery rankings, a culture of competition and accountability was
+created among service providers, reducing delivery times.
+
+The number of channels through which services can be accessed—kiosk, web, mobile apps, phone/helpline,
+village level service providers— increased from a baseline of one channel (LSKs) to seven channels by
+project closure, exceeding the target of four channels. These included physical offices and kiosks (Offices of
+the Designated Officers, LSKs, CSCs, MPOnline kiosks), online through the mpedistrict14 portal, on mobile
+phones through the mpedistrict mobile application, and phone calls.
+
+The number of PSGA services issuing digital certificates increased from one at baseline to eight at closure,
+exceeding the original target of five and the revised target of eight services.
+
+The number of services having undergone GPR increased from 80 at baseline to 303 at closure, exceeding
+the target of 288 services. GPR led to significant increases in the number of transactions per month for
+certain services (average monthly issuance of income certificates, domicile certificates, and certified copies
+from record rooms increased by 23.8, 73.6, and 120 percent, respectively) (ICR, p. 39).
+
+Annual reports on PSGA service delivery were presented, as planned, to a High-Power Committee
+(established in 2014 and chaired by the Chief Secretary, coordinating inter-departmental coordination across
+departments delivering PSGA services, and acting as Steering Committee for the project). These reports
+were generated by a project management team with expertise on M&E, communication, technical
+coordination, procurement and contracts management, project planning, budgeting, and execution.
+
+
+
+Outcomes
+
+The percentage of citizens accessing PSGA services (measured by the number of applications for PSGA
+services processed annually as a percentage of the total population of the state) increased from 5.4
+percent in 2016 to 14.9 percent in Year 4 of the project (prior to the pandemic), meeting the Year 4 target of
+14.89 percent. In year 5 (2021), PSGA service access fell to 9.88 percent due to pandemic lockdowns, such
+that neither the original end target of 16.9 percent nor the revised end target of 15.9 percent were achieved.
+However, the project’s trajectory over its first four years suggests that, in the absence of pandemic
+lockdowns, the original end target would have been achieved (ICR, p. 8, Figure 3). In addition, the project’s
+intermediate outcome achievements, particularly the increases in number of PoPs, expansion of delivery
+channels such as online and telephone-based services, and shortening of delivery times, suggest that access
+to services was substantially improved.
+
+Additional evidence provided by the project team showed that the main results referenced in the ICR,
+expressed as percentages of the population, were not corrected for population growth (estimated at 1.43
+percent per year). When corrected for population growth, achievement was 13.16 percent of the population
+accessing services in Year 4 and 8.77 percent in Year 5.
+
+
+
+Rating
+
+                                                                                                   Page 5 of 14
+   Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+   MP Citizen Access to Responsive Services (P149182)
+
+
+
+Substantial
+
+
+OBJECTIVE 2
+Objective
+Improved access to PSGA services by under-represented groups
+
+Rationale
+In addition to the logic governing the first objective, the theory of change for this objective included outreach
+strategies targeted at women and SC/ST groups, information education and communication awareness
+campaigns, and mechanisms for collecting and analyzing beneficiary feedback that were designed to
+support the project’s responsiveness to the needs of the under-represented groups (ICR, p. 10). These
+additional targeted interventions were to improve access to PSGA services specifically for under-represented
+groups.
+
+
+
+Outputs
+
+The project developed and rolled out a focused outreach strategy for women, SCs, and STs. This strategy
+included information, education, and communication campaigns encompassing street plays, newspaper
+articles, radio jingles, and public service announcements, as well as translation of key materials into tribal
+dialects.
+
+To ensure responsiveness to the needs of under-represented groups, the project carried out annual surveys
+to collect and analyze beneficiary feedback for the project's first four years. The fifth year was missed due to
+elections, as the Election Commission of India prohibits any outreach to citizens during election season. As a
+result, the project could publish only three of the four beneficiary feedback reports envisaged during the
+project period. In addition to annual surveys, citizen feedback was solicited through numerous other channels,
+including text messaging, helplines, outbound call centers, QR codes displayed at LSKs, and several other
+online portals.
+
+
+
+Outcomes
+
+The percentage of all applications for PSGA services that were submitted by SCs and STs (self-identified)
+increased from 14.19 percent at baseline to 41.4 percent in project Year 4, exceeding the Year 4 target of
+41.35 percent (no baseline was provided). In Year 5, after lockdowns led to the closure of LSKs, the
+percentage was 41.23 percent, against a target of 42.4 percent. These results indicate that SCs and STs
+experienced a significant expansion of access to services under the project and did not suffer
+disproportionate losses in access even under pandemic-related restrictions.
+
+The percentage of all applications for PSGA services that were submitted by women increased from 10.31
+percent at baseline to 22.36 percent in project Year 4, declining to 18.38 percent in Year 5 and therefore not
+meeting the target of 23.36 percent. Compared with SCs/STs, women were markedly more impacted by
+pandemic restrictions during the project's final year.
+
+
+                                                                                                    Page 6 of 14
+                                Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+                                MP Citizen Access to Responsive Services (P149182)
+
+
+
+                            The ICR (pp. 10-11) cites a study by the Indian Institute of Management, Indore, finding that less developed
+                            districts in the state accessed PSGA services during the project period in a higher proportion than their
+                            population share in the state, supporting the conclusion that the project increased access among under-
+                            represented groups.
+
+
+
+                            Rating
+                            Substantial
+
+
+OVERALL EFF TBL
+
+
+
+
+                  OBJ_TBL
+
+
+
+
+                            OVERALL EFFICACY
+                            Rationale
+                            The project substantially increased access to public services for the citizens of Madhya Pradesh, especially
+                            for under-represented groups (SCs/STs and women), meeting or exceeding targets through its fourth
+                            (penultimate) year. Access to in-person service centers was adversely affected by pandemic-related
+                            restrictions, but the project's expansion of online and other delivery channels maintained substantial access to
+                            public services even in its final year, and the ICR presents convincing evidence that its original (higher)
+                            outcome targets were on track to be met if the pandemic had not intervened.
+
+
+
+                            Overall Efficacy Rating
+                            Substantial
+
+
+
+    5. Efficiency
+   No economic or financial rate of return was calculated for the project. The PAD noted that positive impacts
+   were expected to be twofold: reduced transaction costs for citizens in obtaining services, and reduced
+   administrative costs due to integration, simplification, and automation within service delivery systems.
+
+   The ICR's analysis estimates more than US$150 million in savings from reduced transaction costs. Savings from
+   administrative costs are not calculated. The transaction cost savings estimate is based on a model covering the
+   reduction in number of days to deliver a service, the number of supporting documents required, and the number
+   of visits to an LSK required. It assumes that time saved in requesting and receiving services can be assigned a
+   monetary value based on wage rates and other factors. The ICR does not interrogate the assumption that the
+   saved time would be used for productive (wage-earning) activities, nor does it vary the value of saved time for
+   different groups. An assessment of efficiency gains based on lowered administrative costs might have been
+   more informative, especially as the project resulted in significant increases in the numbers of citizens accessing
+   services and services delivered. As actual spending by LSKs and other PoPs could have been calculated, this
+   exercise would have been less speculative than the one that was performed.
+
+   Other elements of the project, however, demonstrated substantial efficiency. The preparation phase was
+   efficient due to high-level political and bureaucratic commitment to the project; the main government counterpart
+
+                                                                                                                              Page 7 of 14
+      Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+      MP Citizen Access to Responsive Services (P149182)
+
+
+
+was both the technical head of the Department of Public Service Management and Secretary to the Chief
+Minister, creating a convergence of technical and political ownership (ICR, p. 15). Implementing teams within
+both the government and the Bank remained stable, helping to maintain good communication channels and
+ensuring a smooth working relationship. Where appropriate, tasks were decentralized and delegated to lower
+levels of administration and/or authority. Project activities were implemented with only 57 percent of planned
+funds disbursed while still achieving intended outcomes. Project preparation and supervision costs were low
+relative to the overall project cost. Implementation arrangements were well supported and had the capacity to
+innovate when necessary. Efficiencies in monitoring allowed for quick identification of issues and corrective
+action, speeding implementation. The results-based approach functioned smoothly. The project closed on time,
+even with its last year coinciding with the onset of the COVID-19 pandemic. Some issues arose with
+procurement (see Section 10b), mostly related to frictions between the government and Bank staff over which
+procurement regulations to use. According to the project team, the government had strong and legitimate
+reasons to prefer its own systems, but the project's legal arrangements clearly stipulated that Bank procurement
+procedures had to be applied.
+
+
+Efficiency Rating
+Substantial
+
+
+a. If available, enter the Economic Rate of Return (ERR) and/or Financial Rate of Return (FRR) at appraisal
+  and the re-estimated value at evaluation:
+                               Rate Available?             Point value (%)         *Coverage/Scope (%)
+                                                                                   0
+ Appraisal                                                 0
+                                                                                    Not Applicable
+                                                                                   0
+ ICR Estimate                                              0
+                                                                                    Not Applicable
+
+* Refers to percent of total project cost for which ERR/FRR was calculated.
+
+6. Outcome
+
+The project was highly relevant to country context, government strategy, and Bank strategy. Efficacy is rated
+substantial based on strong and attributable achievement of outcomes through the project's fourth year, with a
+trajectory prior to the COVID-19 pandemic clearly leading toward achievement of key outcome targets,
+and acceleration of remote service delivery during the pandemic. Efficiency is rated substantial due to broad
+evidence of implementation efficiency, even in the absence of convincing economic analysis. Taken together,
+these ratings indicate that there were only minor shortcomings in the project's preparation, implementation, and
+achievement, leading to an Outcome rating of Satisfactory.
+
+
+a. Outcome Rating
+   Satisfactory
+
+
+
+                                                                                                   Page 8 of 14
+      Independent Evaluation Group (IEG)                               Implementation Completion Report (ICR) Review
+      MP Citizen Access to Responsive Services (P149182)
+
+
+
+
+7. Risk to Development Outcome
+
+Two main risks to the development outcome of the project were identified in the ICR: technical and financial.
+Overall, however, the risk to the development outcomes of the project was low given numerous factors,
+including the high relevance that was retained and perhaps even strengthened with the onset of the COVID-
+19 pandemic, strong government ownership and administrative leadership of the project, and visible
+efficiency gains from GPR and the move to provision of online services, both of which have given the
+government effective tools to meet ever-increasing demand for citizen services. In this process the relevant
+government institutions were strengthened in different ways, but the GPR was fundamental as it redesigned
+and simplified business processes, removed administrative bottlenecks, and positively changed and
+enhanced service quality parameters, such as time, cost, complexity, efficiency, and convenience to citizens.
+
+Importantly, the sustainability of the project benefitted significantly from increased levels of transparency and
+accountability in the provision of services. The project team later described these as the de facto main
+outcomes of the project, even though they were not part of the project's original theory of change or results
+framework. Importantly, however, this unintended impact reduces the risk to the development outcome
+markedly, as increased transparency and accountability in the provision of services makes it unlikely that
+many of the factors that inhibited compliance with the PSGA legislation will reemerge.
+
+On the technical side, it was important that the software initially budgeted for under the
+second component was procured internally at subsidized rates and provided by the State Data Center. An
+experienced firm has been contracted for further development and maintenance of the technical systems for
+online provision of services. Moreover, the project team confirmed that the government extended the
+contract with the project management team brought in by the Bank, which is a sign of its commitment to
+retention of technical skills.
+
+On the financial side, the setup of the LSKs as PPPs with a guaranteed minimum income of INR 50,000 per
+month from a so-called Viability Gap Fund (VGF) poses a fiduciary risk to the government, with outlays
+already having increased during the pandemic. The PAD notes that fewer than half of LSKs are subsidized
+through the VGF, but the ICR does not provide an update on this figure before or after the pandemic. To
+mitigate this risk, the government is considering bringing to an end the guaranteed minimum income by
+turning the LSKs into self-sustaining units.
+
+
+
+
+8. Assessment of Bank Performance
+
+a. Quality-at-Entry
+  The project was well prepared in response to strong demand from the government. Deep and
+  broad ownership created an enabling environment that was resilient to the onset of the COVID-19
+  Pandemic. The project was, however, the first of its kind and more complex than the traditional
+  investment lending projects the government was used to (PAD, p. 11). The perceived complexity
+  stemmed from the mix of a results-based and a TA component, but extensive consultation with
+  stakeholders across government were conducted to contextualize the project's goals and make them
+  practical and realistic. Moreover, the outcomes were identified based on well-researched structural
+
+                                                                                                       Page 9 of 14
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     MP Citizen Access to Responsive Services (P149182)
+
+
+
+  problems including issues of disadvantage, vulnerability, geographical exclusion, and gender. This was
+  done by a joint task team with experts both from the Bank and the government.
+
+  Despite the limited use of funds under the TA component, the project contributed significantly to
+  institutional strengthening and extensive capacity building of state systems and human resources. It
+  could be questioned whether this component of the project was over-budgeted, but given the pioneering
+  nature of the project, it was challenging to anticipate the government’s commitment to use its own funds
+  for the project’s software elements. COVID-19 also impacted the spending of resources under this
+  component, as the incentives to spend TA money were reduced and some planned follow up activities
+  were cancelled. According to the project team, in a non-COVID context the project would most likely have
+  been extended, but the government's shift in short-term priorities led to the decision to close the project
+  according to its original timeline.
+
+
+
+  Quality-at-Entry Rating
+  Satisfactory
+
+
+b. Quality of supervision
+ The project was adequately supervised and responded well to events outside the control of the Bank or
+ government. In particular, the COVID-19 pandemic was met resolutely with three level-2
+ restructurings during the final year of implementation. There was a good working relationship and
+ continuous dialogue between the Bank and the government. The project relied on staff with a wide range of
+ internal technical skills. Project management and technical support were also provided through a Project
+ Management Consultancy (PMC) hired with Bank financing. The PMC did a significant amount of work
+ (including dealing with ongoing procurement challenges) to keep the project on track. The positive impact
+ of the strong ownership and partnership characterizing the project was reflected in its smooth
+ implementation with results meeting and, in some cases, exceeding annual targets until the project's final,
+ pandemic-affected year.
+
+
+
+  Quality of Supervision Rating
+  Satisfactory
+
+  Overall Bank Performance Rating
+  Satisfactory
+
+
+9. M&E Design, Implementation, & Utilization
+
+a. M&E Design
+ The project's M&E framework was sound. The PDO indicators and intermediate results indicators were all
+ clearly specified, comprehensive, measurable, timely, and credible. They all had clear baselines, and most
+ were quantitative. However, the framing of annual targets as percentage-point increases over prior years,
+
+
+                                                                                                  Page 10 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MP Citizen Access to Responsive Services (P149182)
+
+
+
+ rather than simple numerical targets, was easily misunderstood, and it would have strengthened the
+ outcome indicators if they had incorporated the impact of population growth up front.
+
+ The project team collected data regularly, and a four-member data analytics team was constituted in 2016.
+ The project used innovative methods to collect data and information on applications, beneficiaries, and
+ timeliness of service delivery from real-time management information systems (MIS) and dashboards that
+ were built for this purpose. The design of the framework also ensured that a robust beneficiary mechanism
+ to collect proactive feedback from citizens on the quality of services provided was embedded across
+ government.
+
+
+
+b. M&E Implementation
+  The M&E framework was fully implemented, with comprehensive data collection across all PDO-level
+  indicators and intermediate results indicators carried out throughout the project's lifecycle and beyond.
+  Data were collected through the project management information system, and real-time data from the
+  various departments were consolidated in the Chief Minister’s Dashboard. The data analytics team
+  aggregated service delivery data across service platforms and departmental databases. All data
+  were audited and verified by an independent agency, which contributed to the credibility of reported
+  achievement. The timeliness and accuracy of data were particularly important for this project, as
+  disbursements relied on DLIs. This level of institutionalization increases the probability of the M&E
+  functions being sustained.
+
+  While not directly involved in defining and measuring target indicators for the project, citizens were
+  proactively engaged in providing feedback on the quality and accessibility of services. A helpline, with a
+  toll-free number to a call center, was established for complaints and grievances. An outbound call center
+  that sought proactive feedback from citizens was also established.
+
+
+
+c. M&E Utilization
+  The M&E framework was used in a highly proactive and innovative manner. The delivery of online
+  services enabled the generation of large amounts of data that were used effectively to monitor and
+  improve the quality of service delivery. The Chief Minister’s Dashboard, an on-line portal that not only
+  integrates data from various sources on a single platform but also analyzes data in real time to
+  facilitate swift evidenced-based decision making, was reviewed by the Chief Minister on a monthly
+  basis. The Dashboard is able to provide data disaggregated by territory, administration, service, and
+  gender. The Borrower’s Completion Report (Annex 7 to the ICR) includes a pilot analysis using such
+  data to shed light on the project's impact by district and the level of equity in service access across
+  districts. This analysis suggests, for example, that the population of the less developed districts is
+  accessing a higher proportion of public services than their share in the state population would suggest.
+
+
+
+  M&E Quality Rating
+  High
+
+
+
+                                                                                                    Page 11 of 14
+     Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+     MP Citizen Access to Responsive Services (P149182)
+
+
+
+10. Other Issues
+
+a. Safeguards
+   The project was rated Environmental Assessment category C and did not trigger any of the Bank's
+   safeguards policies.
+
+
+
+
+b. Fiduciary Compliance
+   Financial management was sound, but there was some room for improvement. While financial reporting
+   met Bank standards, there were often delays in the auditing of expenditure statements, requiring multiple
+   follow-ups by the project team. The delays were partly due to turnover of financial management staff. The
+   ICR does not provide information on whether the auditors’ statements were qualified, but the project did
+   not face issues related to the flow of funds.
+
+   Procurement experienced shortcomings that raised several red flags in the Bank system. Staff turnover
+   and the fact that counterparts felt more comfortable and accountable following state procurement norms
+   resulted in delays in procurements under Component 2. These issues remained throughout the project's
+   lifetime, with the Bank team unable to sustain improvements. However, as noted above, the issues
+   confronted procedural rather than indicating any conduct that could put the integrity of the project at risk.
+   The project team further noted that the shift in internal Bank systems to STEP, introduced in the middle of
+   the project, contributed to some of the challenges that were experienced.
+
+
+
+
+c. Unintended impacts (Positive or Negative)
+   Increased transparency and accountability in the provision of PSGA services was an unintended
+   positive impact of the project, derived from the increased availability of channels and the ability to use
+   online platforms for accessing services. The increased visibility of departmental and district performance
+   reduced opportunities for corruption, such as bribery and speed money, that previously had been common
+   challenges for citizens in accessing services. The project team described this impact as creating a
+   different, more robust kind of government.
+
+
+
+d. Other
+   ---
+
+11. Ratings
+                                                                                 Reason for
+Ratings                         ICR                    IEG
+                                                                                 Disagreements/Comment
+Outcome                         Satisfactory          Satisfactory
+
+
+
+                                                                                                    Page 12 of 14
+     Independent Evaluation Group (IEG)                             Implementation Completion Report (ICR) Review
+     MP Citizen Access to Responsive Services (P149182)
+
+
+
+Bank Performance                Satisfactory         Satisfactory
+
+Quality of M&E                  High                 High
+
+Quality of ICR                  ---                  Substantial
+
+
+12. Lessons
+
+The ICR (pp. 22-23) presents a range of insightful lessons, two of which are summarized and
+expanded on here:
+
+New models of service delivery can fundamentally change the culture of governance and the
+relationship between the state and citizens. While the PDO for this project focused on increasing
+access to PSGA services, the process of achieving these objectives included business process
+reengineering, changes in institutional mandates, and re-imagined structures, leading to
+fundamental strengthening of transparency and accountability in the provision of services. The
+interface between citizens and service providers grew to arm’s length, reducing opportunities for
+rent-seeking behaviors as business process reengineering and the removal of various stages of
+approval meant less red tape and greater accountability.
+
+Reliance on countries' own systems when they are strong enough is rightly a central feature of the
+aid effectiveness agenda. The procurement issues in this project were largely related to the
+government being contractually obliged to follow Bank procurement regulations, while the
+government’s own procurement systems might have been adequate to guarantee fiduciary
+compliance. Setting up parallel systems has been found to create duplication and increase
+transaction costs, hamper alignment with country priorities and ownership, and constrain efforts to
+strengthen national capacity. On the other hand, using recipient country procurement systems can
+provide incentives and momentum to strengthen domestic capacity and systems, and to enhance
+domestic accountability processes.
+
+
+
+13. Assessment Recommended?
+
+  Yes
+  ASSESSMENT_TABLE
+  Please Explain
+  There are aspects of this project, particularly in relation to the impact on citizens overall and marginalized
+  groups in particular, that could provide valuable insights into support for provision of online services and the
+  extent to which such interventions can be expected to impact the poorest in equal measure to average
+  citizens. The structure of the project’s results framework lends itself well to such an assessment. A wealth of
+  data is apparently available in the full Borrower's Completion Report, which would help inform the assessment.
+  Finally, the unintended impact and strong lesson on the link between GPR and online provision of services,
+  strengthened transparency and accountability, and reduced opportunities for rent-seeking merit further
+  exploration.
+
+
+                                                                                                    Page 13 of 14
+      Independent Evaluation Group (IEG)                              Implementation Completion Report (ICR) Review
+      MP Citizen Access to Responsive Services (P149182)
+
+
+
+
+14. Comments on Quality of ICR
+
+The ICR is clear, candid, and analytically sound. It follows established guidelines. Its lessons are insightful and
+drawn directly from the project's preparation and implementation experience. Despite some minor shortcomings
+in the completeness of data and information (for example, on the value of reallocated amounts to DLIs (Table 1)
+and the reported achievement of some outcome indicators in different locations in the document), the ICR
+provides a detailed overview of the project with comprehensive evidence to support the ratings of project
+performance. Its presentation of the project's theory of change is sound, though there could have been more
+clarity in explaining how the TA components were to support the achievement of project outcomes. The ICR
+draws on and presents the executive summary of the Borrower's Completion Report, which contained
+substantial analysis and evidence that could not be fit into the main ICR. The Borrower's report was a strong
+resource for clarification of some questions raised by the ICR, including on the adjustment of indicators for
+population growth and the measurement of increase in access to online services.
+
+
+
+  a. Quality of ICR Rating
+      Substantial
+
+
+
+
+                                                                                                    Page 14 of 14
+
